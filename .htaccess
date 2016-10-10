@@ -1,4 +1,5 @@
 RewriteEngine On
 RewriteBase /
 RewriteRule ^schiffbruch$ index.html
+RewriteRule ^cannonhill$ index.html
 RewriteRule ^impressum$ index.html

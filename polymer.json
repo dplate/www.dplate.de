@@ -2,8 +2,11 @@
   "entrypoint": "index.html",
   "shell": "src/my-app.html",
   "fragments": [
-    "src/my-page-start.html",
-    "src/my-page-404.html"
+    "src/pages/start.html",
+    "src/pages/schiffbruch.html",
+    "src/pages/cannonhill.html",
+    "src/pages/impressum.html",
+    "src/pages/404.html"
   ],
   "sourceGlobs": [
    "src/**/*",
