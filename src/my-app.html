@@ -122,6 +122,9 @@
       _pageChanged: function(page) {
         var resolvedPageUrl = this.resolveUrl('pages/' + page + '.html');
         this.importHref(resolvedPageUrl, null, this._showPage404, true);
+
+        ga('set', 'page', page);
+        ga('send', 'pageview');
       },
 
       _showPage404: function() {
