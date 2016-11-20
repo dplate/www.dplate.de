@@ -24,14 +24,14 @@
     </style>
     <paper-menu selected="{{page}}" attr-for-selected="name">
       <paper-item name="/start"><a href="/">Start</a></paper-item>
-      <paper-submenu>
+      <paper-submenu id="games">
         <paper-item class="menu-trigger"><a href="/games/schiffbruch">Spiele</a></paper-item>
         <paper-menu selected="{{page}}" attr-for-selected="name" class="menu-content">
           <paper-item name="/games/schiffbruch"><a href="/games/schiffbruch">Schiffbruch</a></paper-item>
           <paper-item name="/games/cannonhill"><a href="/games/cannonhill">Cannonhill</a></paper-item>
         </paper-menu>
       </paper-submenu>
-      <paper-submenu>
+      <paper-submenu id="tools">
         <paper-item class="menu-trigger"><a href="/tools/scapemaker">Tools</a></paper-item>
         <paper-menu selected="{{page}}" attr-for-selected="name" class="menu-content">
           <paper-item name="/tools/scapemaker"><a href="/tools/scapemaker">ScapeMaker</a></paper-item>
@@ -47,7 +47,21 @@
 
       properties: {
         page: {
-          type: String
+          type: String,
+          observer: '_pageChanged'
+        }
+      },
+
+      _pageChanged: function(page) {
+        if (page) {
+          var matchSubMenu = /\/(.*)\/.*/;
+          var match = page.match(matchSubMenu);
+          if (match) {
+            var subMenu = match[1];
+            if (subMenu) {
+              this.$$('#' + subMenu).opened = true;
+            }
+          }
         }
       }
     });
