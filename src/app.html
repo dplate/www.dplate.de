@@ -7,16 +7,17 @@
 <link rel="import" href="../bower_components/app-layout/app-toolbar/app-toolbar.html">
 <link rel="import" href="../bower_components/app-route/app-location.html">
 <link rel="import" href="../bower_components/app-route/app-route.html">
-<link rel="import" href="../bower_components/iron-pages/iron-pages.html">
-<link rel="import" href="../bower_components/iron-selector/iron-selector.html">
 <link rel="import" href="../bower_components/paper-icon-button/paper-icon-button.html">
-<link rel="import" href="my-icons.html">
+<link rel="import" href="icons.html">
+<link rel="import" href="pages.html">
+<link rel="import" href="menu.html">
 
 <dom-module id="my-app">
   <template>
     <style>
       :host {
         display: block;
+        --primary-background-color: #9EC1A3;
       }
 
       app-header {
@@ -36,34 +37,10 @@
           box-shadow: 1px 0 1px 0 rgba(255,255,255,0.3);
         }
       }
-
-      .drawer-list a:first-child {
-        padding-top: 16px;
-      }
-
-      .drawer-list a {
-        color: #1F363D;
-        padding: 0 16px;
-        display: block;
-        text-decoration: none;
-        line-height: 2;
-      }
-
-      .drawer-list a.iron-selected {
-        font-weight: bold;
-      }
-
-      .drawer-list a:focus {
-        outline: 0;
-      }
     </style>
 
     <app-location route="{{route}}"></app-location>
-    <app-route
-        route="{{route}}"
-        pattern="/:page"
-        data="{{routeData}}"
-        tail="{{subroute}}"></app-route>
+    <app-route route="{{route}}" pattern="/:page" data="{{routeData}}" tail="{{subroute}}"></app-route>
 
     <app-drawer-layout fullbleed align="left">
       <app-header-layout has-scrolling-region>
@@ -74,27 +51,10 @@
             <img src="/images/icons/icon-48x48.png" />
           </app-toolbar>
         </app-header>
-        <iron-pages
-            selected="[[page]]"
-            attr-for-selected="name"
-            fallback-selection="404"
-            role="main">
-          <my-page-start name="start"></my-page-start>
-          <my-page-schiffbruch name="schiffbruch"></my-page-schiffbruch>
-          <my-page-cannonhill name="cannonhill"></my-page-cannonhill>
-          <my-page-scapemaker name="scapemaker"></my-page-scapemaker>
-          <my-page-impressum name="impressum"></my-page-impressum>
-          <my-page-404 name="404"></my-page-404>
-        </iron-pages>
+        <my-pages page="[[page]]" />
       </app-header-layout>
       <app-drawer>
-        <iron-selector selected="[[page]]" attr-for-selected="name" class="drawer-list" role="navigation">
-          <a name="start" href="/" drawer-toggle>Start</a>
-          <a name="schiffbruch" href="/schiffbruch" drawer-toggle>Schiffbruch</a>
-          <a name="cannonhill" href="/cannonhill" drawer-toggle>Cannonhill</a>
-          <a name="scapemaker" href="/scapemaker" drawer-toggle>ScapeMaker</a>
-          <a name="impressum" href="/impressum" drawer-toggle>Impressum</a>
-        </iron-selector>
+        <my-menu page="[[page]]" />
       </app-drawer>
     </app-drawer-layout>
   </template>
@@ -106,21 +66,20 @@
       properties: {
         page: {
           type: String,
-          reflectToAttribute: true,
           observer: '_pageChanged'
         }
       },
 
       observers: [
-        '_routePageChanged(routeData.page)'
+        '_routePathChanged(route.path)'
       ],
 
-      _routePageChanged: function(page) {
-        this.page = page || 'start';
+      _routePathChanged: function(path) {
+         this.page = path === '/' ? '/start' : path;
       },
 
       _pageChanged: function(page) {
-        var resolvedPageUrl = this.resolveUrl('pages/' + page + '.html');
+        var resolvedPageUrl = this.resolveUrl('pages' + page + '.html');
         this.importHref(resolvedPageUrl, null, this._showPage404, true);
 
         ga('set', 'page', page);
@@ -128,7 +87,7 @@
       },
 
       _showPage404: function() {
-        this.page = '404';
+        this.page = '/404';
       }
     });
   </script>

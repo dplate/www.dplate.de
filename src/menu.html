@@ -1,0 +1,55 @@
+<link rel="import" href="../bower_components/polymer/polymer.html">
+<link rel="import" href="../bower_components/paper-menu/paper-menu.html">
+<link rel="import" href="../bower_components/paper-menu/paper-submenu.html">
+<link rel="import" href="../bower_components/paper-item/paper-item.html">
+
+<dom-module id="my-menu">
+  <template>
+    <style>
+      a {
+        text-decoration: none;
+        color: black;
+        width: 100%;
+        line-height: 48px;
+        padding-left: 16px;
+      }
+      paper-item {
+        --paper-item: {
+          padding: 0;
+        }
+      }
+      .menu-content a {
+        padding-left: 32px;
+      }
+    </style>
+    <paper-menu selected="{{page}}" attr-for-selected="name">
+      <paper-item name="/start"><a href="/">Start</a></paper-item>
+      <paper-submenu>
+        <paper-item class="menu-trigger"><a href="/games/schiffbruch">Spiele</a></paper-item>
+        <paper-menu selected="{{page}}" attr-for-selected="name" class="menu-content">
+          <paper-item name="/games/schiffbruch"><a href="/games/schiffbruch">Schiffbruch</a></paper-item>
+          <paper-item name="/games/cannonhill"><a href="/games/cannonhill">Cannonhill</a></paper-item>
+        </paper-menu>
+      </paper-submenu>
+      <paper-submenu>
+        <paper-item class="menu-trigger"><a href="/tools/scapemaker">Tools</a></paper-item>
+        <paper-menu selected="{{page}}" attr-for-selected="name" class="menu-content">
+          <paper-item name="/tools/scapemaker"><a href="/tools/scapemaker">ScapeMaker</a></paper-item>
+        </paper-menu>
+      </paper-submenu>
+      <paper-item name="/impressum"><a href="/impressum">Impressum</a></paper-item>
+    </paper-menu>
+  </template>
+
+  <script>
+    Polymer({
+      is: 'my-menu',
+
+      properties: {
+        page: {
+          type: String
+        }
+      }
+    });
+  </script>
+</dom-module>
