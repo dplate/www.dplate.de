@@ -1,10 +1,14 @@
 RewriteEngine On
 RewriteBase /
+RewriteRule ^404$ index.html
 RewriteRule ^impressum$ index.html
 RewriteRule ^games/ index.html
 RewriteRule ^tools/ index.html
+
+ErrorDocument 404 /404
 
 Redirect 301 /schiffbruch http://www.dplate.de/games/schiffbruch
 Redirect 301 /cannonhill http://www.dplate.de/games/cannonhill
 Redirect 301 /scapemaker http://www.dplate.de/tools/scapemaker
 Redirect 301 /java.html http://www.dplate.de
+Redirect 301 /javae.html http://www.dplate.de

@@ -1,0 +1,34 @@
+[
+  {
+    "name": "start",
+    "label": "Start"
+  },
+  {
+    "name": "games",
+    "label": "Spiele",
+    "subs": [
+      {
+        "name": "schiffbruch",
+        "label": "Schiffbruch"
+      },
+      {
+        "name": "cannonhill",
+        "label": "Cannonhill"
+      }
+    ]
+  },
+  {
+    "name": "tools",
+    "label": "Tools",
+    "subs": [
+      {
+        "name": "scapemaker",
+        "label": "ScapeMaker"
+      }
+    ]
+  },
+  {
+    "name": "impressum",
+    "label": "Impressum"
+  }
+]

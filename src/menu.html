@@ -2,6 +2,7 @@
 <link rel="import" href="../bower_components/paper-menu/paper-menu.html">
 <link rel="import" href="../bower_components/paper-menu/paper-submenu.html">
 <link rel="import" href="../bower_components/paper-item/paper-item.html">
+<link rel="import" href="../bower_components/iron-ajax/iron-ajax.html">
 
 <dom-module id="my-menu">
   <template>
@@ -22,22 +23,29 @@
         padding-left: 32px;
       }
     </style>
-    <paper-menu selected="{{page}}" attr-for-selected="name">
-      <paper-item name="/start"><a href="/">Start</a></paper-item>
-      <paper-submenu id="games">
-        <paper-item class="menu-trigger"><a href="/games/schiffbruch">Spiele</a></paper-item>
-        <paper-menu selected="{{page}}" attr-for-selected="name" class="menu-content">
-          <paper-item name="/games/schiffbruch"><a href="/games/schiffbruch">Schiffbruch</a></paper-item>
-          <paper-item name="/games/cannonhill"><a href="/games/cannonhill">Cannonhill</a></paper-item>
-        </paper-menu>
-      </paper-submenu>
-      <paper-submenu id="tools">
-        <paper-item class="menu-trigger"><a href="/tools/scapemaker">Tools</a></paper-item>
-        <paper-menu selected="{{page}}" attr-for-selected="name" class="menu-content">
-          <paper-item name="/tools/scapemaker"><a href="/tools/scapemaker">ScapeMaker</a></paper-item>
-        </paper-menu>
-      </paper-submenu>
-      <paper-item name="/impressum"><a href="/impressum">Impressum</a></paper-item>
+    <iron-ajax auto url="menuitems.json" handle-as="json" last-response="{{items}}"></iron-ajax>
+    <paper-menu selected="{{path}}" attr-for-selected="name">
+      <template is="dom-repeat" items="[[items]]">
+        <template is="dom-if" if="[[item.subs]]">
+          <paper-submenu id="[[item.name]]" opened="[[_isSubMenuOpen(item.name)]]">
+            <paper-item class="menu-trigger">
+              <a href="/[[item.name]]/[[_nameOfFirstSubItem(item.subs.*)]]">[[item.label]]</a>
+            </paper-item>
+            <paper-menu selected="{{path}}" attr-for-selected="name" class="menu-content">
+              <template is="dom-repeat" items="[[item.subs]]" as="subItem">
+                <paper-item name="/[[item.name]]/[[subItem.name]]">
+                  <a href="/[[item.name]]/[[subItem.name]]">[[subItem.label]]</a>
+                </paper-item>
+              </template>
+            </paper-menu>
+          </paper-submenu>
+        </template>
+        <template is="dom-if" if="[[!item.subs]]">
+          <paper-item name="/[[item.name]]">
+            <a href="/[[item.name]]">[[item.label]]</a>
+          </paper-item>
+        </template>
+      </template>
     </paper-menu>
   </template>
 
@@ -46,23 +54,23 @@
       is: 'my-menu',
 
       properties: {
-        page: {
-          type: String,
-          observer: '_pageChanged'
+        path: {
+          type: String
         }
       },
 
-      _pageChanged: function(page) {
-        if (page) {
+      _isSubMenuOpen: function(subMenuName) {
+        if (this.path) {
           var matchSubMenu = /\/(.*)\/.*/;
-          var match = page.match(matchSubMenu);
+          var match = this.path.match(matchSubMenu);
           if (match) {
-            var subMenu = match[1];
-            if (subMenu) {
-              this.$$('#' + subMenu).opened = true;
-            }
+            return match[1] == subMenuName;
           }
         }
+      },
+
+      _nameOfFirstSubItem: function(change) {
+        return change.base[0].name;
       }
     });
   </script>

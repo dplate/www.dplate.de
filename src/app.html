@@ -9,7 +9,6 @@
 <link rel="import" href="../bower_components/app-route/app-route.html">
 <link rel="import" href="../bower_components/paper-icon-button/paper-icon-button.html">
 <link rel="import" href="icons.html">
-<link rel="import" href="pages.html">
 <link rel="import" href="menu.html">
 
 <dom-module id="my-app">
@@ -40,10 +39,10 @@
     </style>
 
     <app-location route="{{route}}"></app-location>
-    <app-route route="{{route}}" pattern="/:page" data="{{routeData}}" tail="{{subroute}}"></app-route>
+    <app-route route="{{route}}"></app-route>
 
     <app-drawer-layout fullbleed align="left">
-      <app-header-layout has-scrolling-region>
+      <app-header-layout has-scrolling-region id="headerLayout">
         <app-header condenses reveals effects="waterfall">
           <app-toolbar>
             <paper-icon-button icon="menu" drawer-toggle></paper-icon-button>
@@ -51,10 +50,9 @@
             <img src="/images/icons/icon-48x48.png" />
           </app-toolbar>
         </app-header>
-        <my-pages page="[[page]]" />
       </app-header-layout>
       <app-drawer>
-        <my-menu page="[[page]]" />
+        <my-menu path="[[route.path]]" />
       </app-drawer>
     </app-drawer-layout>
   </template>
@@ -63,31 +61,28 @@
     Polymer({
       is: 'my-app',
 
-      properties: {
-        page: {
-          type: String,
-          observer: '_pageChanged'
-        }
-      },
-
       observers: [
         '_routePathChanged(route.path)'
       ],
 
       _routePathChanged: function(path) {
-         this.page = path === '/' ? '/start' : path;
-      },
+        path = path === '/' ? '/start' : path;
+        var resolvedPageUrl = this.resolveUrl('pages' + path + '.html');
+        this.importHref(resolvedPageUrl, function() {
+          var oldElement = this.$$("#mainContent");
+          if (oldElement) {
+            this.$.headerLayout.removeChild(oldElement);
+          }
 
-      _pageChanged: function(page) {
-        var resolvedPageUrl = this.resolveUrl('pages' + page + '.html');
-        this.importHref(resolvedPageUrl, null, this._showPage404, true);
+          var newElement = document.createElement('my-page' + path.replace(/\//g, '-'));
+          newElement.setAttribute('id', 'mainContent');
+          var headerLayout = this.$.headerLayout;
+          headerLayout.appendChild(newElement);
+          headerLayout.resetLayout();
 
-        ga('set', 'page', page);
-        ga('send', 'pageview');
-      },
-
-      _showPage404: function() {
-        this.page = '/404';
+          ga('set', 'page', path);
+          ga('send', 'pageview');
+        }.bind(this), this._routePathChanged.bind(this, '/404'));
       }
     });
   </script>
