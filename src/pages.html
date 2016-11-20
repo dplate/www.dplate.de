@@ -1,0 +1,26 @@
+<link rel="import" href="../bower_components/polymer/polymer.html">
+<link rel="import" href="../bower_components/iron-pages/iron-pages.html">
+
+<dom-module id="my-pages">
+  <template>
+    <iron-pages selected="[[path]]" attr-for-selected="name" fallback-selection="/404" role="main" id="pages">
+      <my-page-start name="/start"></my-page-start>
+      <my-page-games-schiffbruch name="/games/schiffbruch"></my-page-games-schiffbruch>
+      <my-page-games-cannonhill name="/games/cannonhill"></my-page-games-cannonhill>
+      <my-page-tools-scapemaker name="/tools/scapemaker"></my-page-tools-scapemaker>
+      <my-page-impressum name="/impressum"></my-page-impressum>
+      <my-page-404 name="/404"></my-page-404>
+    </iron-pages>
+  </template>
+
+  <script>
+    Polymer({
+      is: 'my-pages',
+      properties: {
+        path: {
+          type: String
+        }
+      }
+    });
+  </script>
+</dom-module>

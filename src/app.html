@@ -10,6 +10,7 @@
 <link rel="import" href="../bower_components/paper-icon-button/paper-icon-button.html">
 <link rel="import" href="icons.html">
 <link rel="import" href="menu.html">
+<link rel="import" href="pages.html">
 
 <dom-module id="my-app">
   <template>
@@ -50,6 +51,7 @@
             <img src="/images/icons/icon-48x48.png" />
           </app-toolbar>
         </app-header>
+        <my-pages path="[[route.path]]" />
       </app-header-layout>
       <app-drawer>
         <my-menu path="[[route.path]]" />
@@ -65,24 +67,24 @@
         '_routePathChanged(route.path)'
       ],
 
+      ready: function() {
+        this._routePathChanged(this.route.path);
+      },
+
       _routePathChanged: function(path) {
         path = path === '/' ? '/start' : path;
         var resolvedPageUrl = this.resolveUrl('pages' + path + '.html');
-        this.importHref(resolvedPageUrl, function() {
-          var oldElement = this.$$("#mainContent");
-          if (oldElement) {
-            this.$.headerLayout.removeChild(oldElement);
-          }
+        this.importHref(
+          resolvedPageUrl,
+          function() {
+            this.$.headerLayout.resetLayout();
+          }.bind(this),
+          this._routePathChanged.bind(this, '/404'),
+          true
+        );
 
-          var newElement = document.createElement('my-page' + path.replace(/\//g, '-'));
-          newElement.setAttribute('id', 'mainContent');
-          var headerLayout = this.$.headerLayout;
-          headerLayout.appendChild(newElement);
-          headerLayout.resetLayout();
-
-          ga('set', 'page', path);
-          ga('send', 'pageview');
-        }.bind(this), this._routePathChanged.bind(this, '/404'));
+        ga('set', 'page', path);
+        ga('send', 'pageview');
       }
     });
   </script>
