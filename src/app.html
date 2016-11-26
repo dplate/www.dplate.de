@@ -72,7 +72,7 @@
       },
 
       _routePathChanged: function(path) {
-        path = path === '/' ? '/start' : path;
+        path = (!path || path === '/') ? '/start' : path;
         var resolvedPageUrl = this.resolveUrl('pages' + path + '.html');
         this.importHref(
           resolvedPageUrl,

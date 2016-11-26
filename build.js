@@ -1,14 +1,16 @@
 var items = require('./src/menuitems.json');
 var exec = require('child_process').exec;
 
-var fragments = ['src/pages/404.html'];
+var fragments = ['src/pages/start.html', 'src/pages/404.html'];
 items.forEach(function(item) {
-  if (item.subs) {
-    item.subs.forEach(function(subItem) {
-      fragments.push('src/pages/' + item.name + '/' + subItem.name + '.html');
-    });
-  } else {
-    fragments.push('src/pages/' + item.name + '.html');
+  if (item.name) {
+    if (item.subs) {
+      item.subs.forEach(function (subItem) {
+        fragments.push('src/pages/' + item.name + '/' + subItem.name + '.html');
+      });
+    } else {
+      fragments.push('src/pages/' + item.name + '.html');
+    }
   }
 });
 var fragmentsString = '--fragment ' + fragments.join(' --fragment ');
