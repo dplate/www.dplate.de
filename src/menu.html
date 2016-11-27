@@ -22,6 +22,10 @@
       .menu-content a {
         padding-left: 32px;
       }
+
+      .menu-content .menu-content a {
+        padding-left: 48px;
+      }
     </style>
     <iron-ajax auto url="menuitems.json" handle-as="json" last-response="{{items}}"></iron-ajax>
     <paper-menu selected="{{path}}" attr-for-selected="name">
@@ -33,9 +37,25 @@
             </paper-item>
             <paper-menu selected="{{path}}" attr-for-selected="name" class="menu-content">
               <template is="dom-repeat" items="[[item.subs]]" as="subItem">
-                <paper-item name="/[[item.name]]/[[subItem.name]]">
-                  <a href="/[[item.name]]/[[subItem.name]]">[[subItem.label]]</a>
-                </paper-item>
+                <template is="dom-if" if="[[subItem.subs]]">
+                  <paper-submenu id="[[subItem.name]]" opened="[[_isSubSubMenuOpen(subItem.name)]]">
+                    <paper-item class="menu-trigger">
+                      <a href="/[[item.name]]/[[subItem.name]]/[[_nameOfFirstSubItem(subItem.subs.*)]]">[[subItem.label]]</a>
+                    </paper-item>
+                    <paper-menu selected="{{path}}" attr-for-selected="name" class="menu-content">
+                      <template is="dom-repeat" items="[[subItem.subs]]" as="subSubItem">
+                        <paper-item name="/[[item.name]]/[[subItem.name]]/[[subSubItem.name]]">
+                          <a href="/[[item.name]]/[[subItem.name]]/[[subSubItem.name]]">[[subSubItem.label]]</a>
+                        </paper-item>
+                      </template>
+                    </paper-menu>
+                  </paper-submenu>
+                </template>
+                <template is="dom-if" if="[[!subItem.subs]]">
+                  <paper-item name="/[[item.name]]/[[subItem.name]]">
+                    <a href="/[[item.name]]/[[subItem.name]]">[[subItem.label]]</a>
+                  </paper-item>
+                </template>
               </template>
             </paper-menu>
           </paper-submenu>
@@ -61,16 +81,28 @@
 
       _isSubMenuOpen: function(subMenuName) {
         if (this.path) {
-          var matchSubMenu = /\/(.*)\/.*/;
-          var match = this.path.match(matchSubMenu);
+          var match = this.path.match(/\/(.*?)\/.*/);
           if (match) {
             return match[1] == subMenuName;
           }
         }
       },
 
+      _isSubSubMenuOpen: function(subSubMenuName) {
+        if (this.path) {
+          var match = this.path.match(/\/.*\/(.*)\/.*/);
+          if (match) {
+            return match[1] == subSubMenuName;
+          }
+        }
+      },
+
       _nameOfFirstSubItem: function(change) {
-        return change.base[0].name;
+        var firstItem = change.base[0];
+        if (firstItem.subs) {
+          return change.base[0].name + '/' + firstItem.subs[0].name;
+        }
+        return firstItem.name;
       }
     });
   </script>

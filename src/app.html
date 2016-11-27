@@ -37,6 +37,11 @@
           box-shadow: 1px 0 1px 0 rgba(255,255,255,0.3);
         }
       }
+
+      app-drawer div {
+        height: 100%;
+        overflow: auto;
+      }
     </style>
 
     <app-location route="{{route}}"></app-location>
@@ -54,7 +59,9 @@
         <my-pages path="[[route.path]]" />
       </app-header-layout>
       <app-drawer>
-        <my-menu path="[[route.path]]" />
+        <div>
+          <my-menu path="[[route.path]]" />
+        </div>
       </app-drawer>
     </app-drawer-layout>
   </template>

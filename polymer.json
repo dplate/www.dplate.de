@@ -2,12 +2,50 @@
   "entrypoint": "index.html",
   "shell": "src/app.html",
   "sources": [
-   "src/**/*",
-   "images/**/*",
-   "bower.json"
+    "src/**/*",
+    "images/**/*",
+    "bower.json",
+    ".htaccess",
+    "sitemap.txt",
+    "googleb893d462be7a8b6b.html"
   ],
   "includeDependencies": [
     "manifest.json",
     "bower_components/webcomponentsjs/webcomponents-lite.min.js"
+  ],
+  "fragments": [
+    "src/pages/start.html",
+    "src/pages/404.html",
+    "src/pages/impressum.html",
+    "src/pages/games/schiffbruch.html",
+    "src/pages/games/cannonhill.html",
+    "src/pages/tools/scapemaker.html",
+    "src/pages/alpine/flumserberg/20161112.html",
+    "src/pages/alpine/lenzerheide/20161029.html",
+    "src/pages/alpine/malbun/20161016.html",
+    "src/pages/alpine/alpstein/20160911.html",
+    "src/pages/alpine/toggenburg/20160813.html",
+    "src/pages/alpine/murgseen/20160709.html",
+    "src/pages/alpine/alpstein/20160730.html",
+    "src/pages/alpine/fronalpstock/20160716.html",
+    "src/pages/alpine/kaunertal/20151124.html",
+    "src/pages/alpine/davos/20151031.html",
+    "src/pages/alpine/alpstein/20151024.html",
+    "src/pages/alpine/davos/20151010.html",
+    "src/pages/alpine/alpstein/20150912.html",
+    "src/pages/alpine/brandnertal/20150829.html",
+    "src/pages/alpine/gargellen/20150822.html",
+    "src/pages/alpine/davos/20150808.html",
+    "src/pages/alpine/flumserberg/20150726.html",
+    "src/pages/alpine/pizol/20150712.html",
+    "src/pages/alpine/hohekugel/20150628.html",
+    "src/pages/alpine/speer/20150606.html",
+    "src/pages/alpine/disentis/20150514.html",
+    "src/pages/alpine/lenzerheide/20150318.html",
+    "src/pages/alpine/toggenburg/20150323.html",
+    "src/pages/alpine/airolo/20150222.html",
+    "src/pages/alpine/arlberg/20150207.html",
+    "src/pages/alpine/arlberg/20150131.html",
+    "src/pages/alpine/montafon/20150110.html"
   ]
 }

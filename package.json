@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "setup": "npm install & bower install",
+    "dev": "polymer serve",
+    "build": "polymer build",
+    "import": "node ./work/import.js"
+  },
+  "devDependencies": {
+    "jsonfile": "^2.4.0",
+    "request": "^2.79.0"
+  }
+}

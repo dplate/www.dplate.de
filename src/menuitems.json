@@ -5,7 +5,7 @@
   },
   {
     "name": "games",
-    "label": "Spiele",
+    "label": "Spielzimmer",
     "subs": [
       {
         "name": "schiffbruch",
@@ -19,11 +19,233 @@
   },
   {
     "name": "tools",
-    "label": "Tools",
+    "label": "Werkzeugschuppen",
     "subs": [
       {
         "name": "scapemaker",
         "label": "ScapeMaker"
+      }
+    ]
+  },
+  {
+    "name": "alpine",
+    "label": "Alpinfunk",
+    "subs": [
+      {
+        "name": "airolo",
+        "label": "Airolo",
+        "subs": [
+          {
+            "name": "20150222",
+            "label": "22.02.2015"
+          }
+        ]
+      },
+      {
+        "name": "alpstein",
+        "label": "Alpstein",
+        "subs": [
+          {
+            "name": "20160911",
+            "label": "11.09.2016"
+          },
+          {
+            "name": "20160730",
+            "label": "30.07.2016"
+          },
+          {
+            "name": "20151024",
+            "label": "24.10.2015"
+          },
+          {
+            "name": "20150912",
+            "label": "12.09.2015"
+          }
+        ]
+      },
+      {
+        "name": "arlberg",
+        "label": "Arlberg",
+        "subs": [
+          {
+            "name": "20150207",
+            "label": "07.02.2015"
+          },
+          {
+            "name": "20150131",
+            "label": "31.01.2015"
+          }
+        ]
+      },
+      {
+        "name": "brandnertal",
+        "label": "Brandnertal",
+        "subs": [
+          {
+            "name": "20150829",
+            "label": "29.08.2015"
+          }
+        ]
+      },
+      {
+        "name": "davos",
+        "label": "Davos",
+        "subs": [
+          {
+            "name": "20151031",
+            "label": "31.10.2015"
+          },
+          {
+            "name": "20151010",
+            "label": "10.10.2015"
+          },
+          {
+            "name": "20150808",
+            "label": "08.08.2015"
+          }
+        ]
+      },
+      {
+        "name": "disentis",
+        "label": "Disentis",
+        "subs": [
+          {
+            "name": "20150514",
+            "label": "14.05.2015"
+          }
+        ]
+      },
+      {
+        "name": "flumserberg",
+        "label": "Flumserberg",
+        "subs": [
+          {
+            "name": "20161112",
+            "label": "12.11.2016"
+          },
+          {
+            "name": "20150726",
+            "label": "26.07.2015"
+          }
+        ]
+      },
+      {
+        "name": "fronalpstock",
+        "label": "Fronalpstock",
+        "subs": [
+          {
+            "name": "20160716",
+            "label": "16.07.2016"
+          }
+        ]
+      },
+      {
+        "name": "gargellen",
+        "label": "Gargellen",
+        "subs": [
+          {
+            "name": "20150822",
+            "label": "22.08.2015"
+          }
+        ]
+      },
+      {
+        "name": "hohekugel",
+        "label": "Hohe Kugel",
+        "subs": [
+          {
+            "name": "20150628",
+            "label": "28.06.2015"
+          }
+        ]
+      },
+      {
+        "name": "kaunertal",
+        "label": "Kaunertal",
+        "subs": [
+          {
+            "name": "20151124",
+            "label": "24.11.2015"
+          }
+        ]
+      },
+      {
+        "name": "lenzerheide",
+        "label": "Lenzerheide",
+        "subs": [
+          {
+            "name": "20161029",
+            "label": "29.10.2016"
+          },
+          {
+            "name": "20150318",
+            "label": "18.03.2015"
+          }
+        ]
+      },
+      {
+        "name": "malbun",
+        "label": "Malbun",
+        "subs": [
+          {
+            "name": "20161016",
+            "label": "16.10.2016"
+          }
+        ]
+      },
+      {
+        "name": "murgseen",
+        "label": "Murgseen",
+        "subs": [
+          {
+            "name": "20160709",
+            "label": "09.07.2016"
+          }
+        ]
+      },
+      {
+        "name": "pizol",
+        "label": "Pizol",
+        "subs": [
+          {
+            "name": "20150712",
+            "label": "12.07.2015"
+          }
+        ]
+      },
+      {
+        "name": "montafon",
+        "label": "Silvretta-Montafon",
+        "subs": [
+          {
+            "name": "20150110",
+            "label": "10.01.2015"
+          }
+        ]
+      },
+      {
+        "name": "speer",
+        "label": "Speer",
+        "subs": [
+          {
+            "name": "20150606",
+            "label": "06.06.2015"
+          }
+        ]
+      },
+      {
+        "name": "toggenburg",
+        "label": "Toggenburg",
+        "subs": [
+          {
+            "name": "20160813",
+            "label": "13.08.2016"
+          },
+          {
+            "name": "20150323",
+            "label": "23.03.2015"
+          }
+        ]
       }
     ]
   },

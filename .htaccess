@@ -6,6 +6,7 @@ RewriteRule ^404$ index.html
 RewriteRule ^impressum$ index.html
 RewriteRule ^games/ index.html
 RewriteRule ^tools/ index.html
+RewriteRule ^alpine/ index.html
 
 ErrorDocument 404 /404
 
