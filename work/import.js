@@ -5,18 +5,23 @@ const jsonfile = require('jsonfile');
 function extractTitleAndDate(body) {
   const match = body.match(/"first">.*>(.*) - (.*)\.(.*)\.(.*)<\/a>/);
   if (match && match.length == 5) {
-    return { title: match[1], day: match[2], month: match[3], year: match[4] };
+    return {
+      title: match[1],
+      day: match[2].length==1 ? '0' + match[2] : match[2],
+      month: match[3].length==1 ? '0' + match[3] : match[3],
+      year: match[4]
+    };
   } else {
     throw 'Title and/or date could not be extracted from body';
   }
 }
 
 function extractParagraphs(body) {
-  const match = body.match(/"content">(.*?)<\/div>/);
+  const match = body.match(/"content">([\s\S]*?)<\/div/);
   if (match && match.length == 2) {
     return match[1].split('<br /><br />');
   } else {
-    throw 'Paragrafs could not be extracted from body';
+    throw 'Paragraphs could not be extracted from body';
   }
 }
 
