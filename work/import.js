@@ -67,10 +67,10 @@ function savePage(overwrite, destination, day, month, year, page) {
   fs.writeFileSync(file, page, {flag: overwrite ? "w" : "wx"});
 }
 
-function addPageToMenuItems(destination, day, month, year, title) {
-  const menuItemsFile = './src/menuitems.json';
-  const menuItems = jsonfile.readFileSync(menuItemsFile);
-  const alpineItem = menuItems.find(function(item) { return item.name === 'alpine'});
+function addPageToItems(destination, day, month, year, title) {
+  const itemsFile = './src/items.json';
+  const items = jsonfile.readFileSync(itemsFile);
+  const alpineItem = items.find(function(item) { return item.name === 'alpine'});
   let destinationItem = alpineItem.subs.find(function(item) { return item.name === destination});
   if (!destinationItem) {
     destinationItem = {
@@ -86,12 +86,13 @@ function addPageToMenuItems(destination, day, month, year, title) {
   if (!pageItem) {
     pageItem = {
       name: pageName,
-      label: day + '.' + month + '.' + year
+      label: day + '.' + month + '.' + year,
+      subLabel: title
     };
     destinationItem.subs.push(pageItem);
     destinationItem.subs = destinationItem.subs.sort(function(item1, item2) { return (item1.name > item2.name ? -1 : 1) });
   }
-  jsonfile.writeFileSync(menuItemsFile, menuItems, {spaces: 2});
+  jsonfile.writeFileSync(itemsFile, items, {spaces: 2});
 }
 
 function addPageToPages(destination, day, month, year) {
@@ -144,7 +145,7 @@ request(url, function(error, response, body) {
 
   const page = createPage(destination, title, day, month, year, introduction, paragraphs);
   savePage(overwrite, destination, day, month, year, page);
-  addPageToMenuItems(destination, day, month, year, title);
+  addPageToItems(destination, day, month, year, title);
   addPageToPages(destination, day, month, year);
   addPageToSitemap(destination, day, month, year);
   addPageToFragments(destination, day, month, year);

@@ -8,6 +8,7 @@
 <link rel="import" href="../bower_components/app-route/app-location.html">
 <link rel="import" href="../bower_components/app-route/app-route.html">
 <link rel="import" href="../bower_components/paper-icon-button/paper-icon-button.html">
+<link rel="import" href="../bower_components/iron-ajax/iron-ajax.html">
 <link rel="import" href="icons.html">
 <link rel="import" href="menu.html">
 <link rel="import" href="pages.html">
@@ -46,6 +47,7 @@
 
     <app-location route="{{route}}"></app-location>
     <app-route route="{{route}}"></app-route>
+    <iron-ajax auto url="items.json" handle-as="json" last-response="{{items}}"></iron-ajax>
 
     <app-drawer-layout fullbleed align="left">
       <app-header-layout has-scrolling-region id="headerLayout">
@@ -60,7 +62,7 @@
       </app-header-layout>
       <app-drawer>
         <div>
-          <my-menu path="[[route.path]]" />
+          <my-menu items="[[items]]" path="[[route.path]]" />
         </div>
       </app-drawer>
     </app-drawer-layout>
@@ -71,7 +73,8 @@
       is: 'my-app',
 
       observers: [
-        '_routePathChanged(route.path)'
+        '_routePathChanged(route.path)',
+        '_itemsChanged(items)'
       ],
 
       ready: function() {
@@ -90,8 +93,53 @@
           true
         );
 
+        this._changeMetatags(path, this.items);
         ga('set', 'page', path);
         ga('send', 'pageview');
+      },
+
+      _itemsChanged: function(items) {
+        this._changeMetatags(this.route.path, items);
+      },
+
+      _changeMetatags: function(path, items) {
+        if (path && items) {
+          var names = path.split('/').slice(1);
+          var item = this._findItemByNames(items, names);
+          var title = 'www.dplate.de';
+          var description = 'Webseite von Dirk Plate';
+          if (item) {
+            if (item.subLabel) {
+              title = item.subLabel + ' ' + item.label;
+            } else {
+              title = item.label;
+            }
+            if (item.description) {
+              description = item.description;
+            } else {
+              if (item.subLabel) {
+                description = 'Ski-/Wanderbericht: ' + item.subLabel + ' am ' + item.label;
+              }
+            }
+          }
+          document.title = title;
+          document.getElementById('description').content = description;
+        }
+      },
+
+      _findItemByNames: function(items, names) {
+        var item = this._findItemByName(items, names[0]);
+        if (item && item.subs && names.length > 1) {
+          return this._findItemByNames(item.subs, names.slice(1));
+        } else {
+          return item;
+        }
+      },
+
+      _findItemByName: function(items, name) {
+        return items.find(function(item) {
+          return item.name == name;
+        });
       }
     });
   </script>

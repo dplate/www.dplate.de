@@ -2,7 +2,6 @@
 <link rel="import" href="../bower_components/paper-menu/paper-menu.html">
 <link rel="import" href="../bower_components/paper-menu/paper-submenu.html">
 <link rel="import" href="../bower_components/paper-item/paper-item.html">
-<link rel="import" href="../bower_components/iron-ajax/iron-ajax.html">
 
 <dom-module id="my-menu">
   <template>
@@ -11,8 +10,8 @@
         text-decoration: none;
         color: black;
         width: 100%;
-        line-height: 48px;
-        padding-left: 16px;
+        line-height: 20px;
+        padding: 5px 5px 5px 16px;
       }
       paper-item {
         --paper-item: {
@@ -22,12 +21,10 @@
       .menu-content a {
         padding-left: 32px;
       }
-
       .menu-content .menu-content a {
         padding-left: 48px;
       }
     </style>
-    <iron-ajax auto url="menuitems.json" handle-as="json" last-response="{{items}}"></iron-ajax>
     <paper-menu selected="{{path}}" attr-for-selected="name">
       <template is="dom-repeat" items="[[items]]">
         <template is="dom-if" if="[[item.subs]]">
@@ -45,7 +42,7 @@
                     <paper-menu selected="{{path}}" attr-for-selected="name" class="menu-content">
                       <template is="dom-repeat" items="[[subItem.subs]]" as="subSubItem">
                         <paper-item name="/[[item.name]]/[[subItem.name]]/[[subSubItem.name]]">
-                          <a href="/[[item.name]]/[[subItem.name]]/[[subSubItem.name]]">[[subSubItem.label]]</a>
+                          <a href="/[[item.name]]/[[subItem.name]]/[[subSubItem.name]]">[[subSubItem.label]]<br />[[subSubItem.subLabel]]</a>
                         </paper-item>
                       </template>
                     </paper-menu>
@@ -74,6 +71,9 @@
       is: 'my-menu',
 
       properties: {
+        items: {
+          type: Array
+        },
         path: {
           type: String
         }

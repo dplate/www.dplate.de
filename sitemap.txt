@@ -101,3 +101,13 @@ http://www.dplate.de/alpine/flumserberg/20121212
 http://www.dplate.de/alpine/alpstein/20121211
 http://www.dplate.de/alpine/davos/20121209
 http://www.dplate.de/alpine/boedele/20121201
+http://www.dplate.de/alpine/flumserberg/20121020
+http://www.dplate.de/alpine/toggenburg/20120819
+http://www.dplate.de/alpine/arlberg/20120421
+http://www.dplate.de/alpine/arlberg/20120412
+http://www.dplate.de/alpine/arlberg/20120410
+http://www.dplate.de/alpine/lenzerheide/20120409
+http://www.dplate.de/alpine/lenzerheide/20120406
+http://www.dplate.de/alpine/davos/20120403
+http://www.dplate.de/alpine/arlberg/20120402
+http://www.dplate.de/alpine/pizol/20120324
