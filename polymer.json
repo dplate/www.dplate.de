@@ -9,7 +9,7 @@
     "sitemap.txt",
     "googleb893d462be7a8b6b.html"
   ],
-  "includeDependencies": [
+  "extraDependencies": [
     "manifest.json",
     "bower_components/webcomponentsjs/webcomponents-lite.min.js"
   ],

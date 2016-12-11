@@ -2,11 +2,13 @@
   "scripts": {
     "setup": "npm install & bower install",
     "dev": "polymer serve",
-    "build": "polymer build",
+    "build": "node --max_old_space_size=4096 ./work/build.js",
     "import": "node ./work/import.js"
   },
   "devDependencies": {
+    "gulp": "^3.9.1",
     "jsonfile": "^2.4.0",
+    "polymer-build": "^0.5.1",
     "request": "^2.79.0"
   }
 }
