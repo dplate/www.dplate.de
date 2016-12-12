@@ -4,9 +4,6 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1, user-scalable=yes">
 
-    <title>www.dplate.de</title>
-    <meta id="description" name="description" content="Webseite von Dirk Plate">
-
     <link rel="icon" href="/images/icons/favicon.ico?v=2">
     <link rel="manifest" href="/manifest.json">
     <meta name="theme-color" content="#9EC1A3">
@@ -29,11 +26,6 @@
     <meta name="msapplication-tap-highlight" content="no">
 
     <script>
-      window.Polymer = {
-        dom: 'shadow',
-        lazyRegister: true
-      };
-
       (function() {
         'use strict';
         var onload = function() {
@@ -57,22 +49,24 @@
         } else {
           onload();
         }
+
+        //Don't wait for initial page loading until polymer
+        var path = window.location.pathname;
+        if (path == '/') path = '/start';
+        var initialPage = document.createElement('link');
+        initialPage.id = 'import';
+        initialPage.rel = 'import';
+        initialPage.href = '/src/pages' + path + '.html';
+        document.head.appendChild(initialPage);
       })();
     </script>
 
     <link rel="import" href="/src/app.html">
 
     <style>
-      @font-face{
-        font-family: 'Ubuntu';
-        font-style: normal;
-        font-weight: 300;
-        src:local('Ubuntu Light'), url(/images/icons/ubuntu.woff) format('woff')
-      }
-
       body {
         margin: 0;
-        font-family: 'Ubuntu', sans-serif;
+        font-family: 'Trebuchet MS', Helvetica, sans-serif;
         line-height: 1.5;
         min-height: 100vh;
         color: #1F363D;

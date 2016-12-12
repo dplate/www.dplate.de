@@ -97,12 +97,12 @@ function addPageToItems(destination, day, month, year, title) {
 
 function addPageToPages(destination, day, month, year) {
   const date = year + month + day;
-  const pagesFile = './src/pages.html';
+  const pagesFile = './src/app.html';
   let pages = fs.readFileSync(pagesFile, 'utf8');
   const pageTag = '<my-page-alpine-' + destination + '-' + date + ' name="/alpine/' + destination + '/' + date + '">' +
     '</my-page-alpine-' + destination + '-' + date + '>';
   if (pages.indexOf(pageTag) === -1) {
-    pages = pages.replace('</iron-pages>', '  ' + pageTag + '\n    </iron-pages>');
+    pages = pages.replace('</iron-pages>', '  ' + pageTag + '\n        </iron-pages>');
     fs.writeFileSync(pagesFile, pages);
   }
 }
