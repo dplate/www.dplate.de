@@ -57,7 +57,7 @@
           </app-toolbar>
         </app-header>
         <iron-pages selected="[[route.path]]" attr-for-selected="name" fallback-selection="/404" role="main" id="pages">
-          <my-page-start name="/"></my-page-start>
+          <my-page-start name="/" items="[[items]]"></my-page-start>
           <my-page-games-schiffbruch name="/games/schiffbruch"></my-page-games-schiffbruch>
           <my-page-games-cannonhill name="/games/cannonhill"></my-page-games-cannonhill>
           <my-page-tools-scapemaker name="/tools/scapemaker"></my-page-tools-scapemaker>
@@ -230,23 +230,14 @@
           var names = page.split('/').slice(1);
           var item = this._findItemByNames(items, names);
           var title = 'www.dplate.de';
-          var description = 'Webseite von Dirk Plate';
           if (item) {
             if (item.subLabel) {
               title = item.subLabel + ' ' + item.label;
             } else {
               title = item.label;
             }
-            if (item.description) {
-              description = item.description;
-            } else {
-              if (item.subLabel) {
-                description = 'Ski-/Wanderbericht: ' + item.subLabel + ' am ' + item.label;
-              }
-            }
           }
           document.title = title;
-          document.getElementById('description').content = description;
         }
       },
 

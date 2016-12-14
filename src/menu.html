@@ -99,11 +99,21 @@
       },
 
       _nameOfFirstSubItem: function(change) {
-        var firstItem = change.base[0];
-        if (firstItem.subs) {
-          return change.base[0].name + '/' + firstItem.subs[0].name;
-        }
-        return firstItem.name;
+        var names = change.base.reduce(function(latestNames, subItem) {
+          var subItemLatestNames = [ subItem.name ];
+          if (subItem.subs) {
+            var latestSubSubItemName = subItem.subs.reduce(function(latestName, subSubItem) {
+              return latestName > subSubItem.name ? latestName : subSubItem.name;
+            }, "");
+            subItemLatestNames = [ subItem.name, latestSubSubItemName ];
+          }
+          if (latestNames[latestNames.length - 1] > subItemLatestNames[subItemLatestNames.length - 1]) {
+            return latestNames;
+          } else {
+            return subItemLatestNames;
+          }
+        }, [ "" ]);
+        return names.join('/');
       }
     });
   </script>

@@ -4,33 +4,6 @@
     "label": "Start"
   },
   {
-    "name": "games",
-    "label": "Spielzimmer",
-    "subs": [
-      {
-        "name": "schiffbruch",
-        "label": "Schiffbruch",
-        "description": "Schiffbruch, der Klassiker unter den Survival-Games"
-      },
-      {
-        "name": "cannonhill",
-        "label": "Cannonhill",
-        "description": "Cannonhill, das Multiplayer-Game an einem PC"
-      }
-    ]
-  },
-  {
-    "name": "tools",
-    "label": "Werkzeugschuppen",
-    "subs": [
-      {
-        "name": "scapemaker",
-        "label": "ScapeMaker",
-        "description": "ScapeMaker, der Landschaftsgenerator"
-      }
-    ]
-  },
-  {
     "name": "alpine",
     "label": "Alpinfunk",
     "subs": [
@@ -771,6 +744,30 @@
             "subLabel": "Wolzenalp"
           }
         ]
+      }
+    ]
+  },
+  {
+    "name": "games",
+    "label": "Spielzimmer",
+    "subs": [
+      {
+        "name": "schiffbruch",
+        "label": "Schiffbruch"
+      },
+      {
+        "name": "cannonhill",
+        "label": "Cannonhill"
+      }
+    ]
+  },
+  {
+    "name": "tools",
+    "label": "Werkzeugschuppen",
+    "subs": [
+      {
+        "name": "scapemaker",
+        "label": "ScapeMaker"
       }
     ]
   },
