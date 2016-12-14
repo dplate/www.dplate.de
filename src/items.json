@@ -748,6 +748,10 @@
     ]
   },
   {
+    "name": "photos",
+    "label": "Fotolabor"
+  },
+  {
     "name": "games",
     "label": "Spielzimmer",
     "subs": [

@@ -17,6 +17,7 @@
     "src/pages/start.html",
     "src/pages/404.html",
     "src/pages/impressum.html",
+    "src/pages/photos.html",
     "src/pages/games/schiffbruch.html",
     "src/pages/games/cannonhill.html",
     "src/pages/tools/scapemaker.html",
