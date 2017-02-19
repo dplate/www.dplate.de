@@ -112,3 +112,5 @@ http://www.dplate.de/alpine/lenzerheide/20120406
 http://www.dplate.de/alpine/davos/20120403
 http://www.dplate.de/alpine/arlberg/20120402
 http://www.dplate.de/alpine/pizol/20120324
+http://www.dplate.de/alpine/montafon/20170109
+http://www.dplate.de/alpine/damuels/20170209

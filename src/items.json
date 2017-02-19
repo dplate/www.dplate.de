@@ -219,6 +219,11 @@
         "label": "Damüls",
         "subs": [
           {
+            "name": "20170209",
+            "label": "09.02.2017",
+            "subLabel": "Damüls Mellau"
+          },
+          {
             "name": "20131213",
             "label": "13.12.2013",
             "subLabel": "Damüls Mellau"
@@ -633,6 +638,11 @@
         "name": "montafon",
         "label": "Silvretta Montafon",
         "subs": [
+          {
+            "name": "20170109",
+            "label": "09.01.2017",
+            "subLabel": "Silvretta Montafon"
+          },
           {
             "name": "20150110",
             "label": "10.01.2015",
