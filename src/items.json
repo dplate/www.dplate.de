@@ -475,6 +475,11 @@
         "label": "Laax",
         "subs": [
           {
+            "name": "20170320",
+            "label": "20.03.2017",
+            "subLabel": "Laax"
+          },
+          {
             "name": "20141209",
             "label": "09.12.2014",
             "subLabel": "Laax"
@@ -506,6 +511,11 @@
         "name": "lenzerheide",
         "label": "Lenzerheide Arosa",
         "subs": [
+          {
+            "name": "20170321",
+            "label": "21.03.2017",
+            "subLabel": "Lenzerheide Arosa"
+          },
           {
             "name": "20161029",
             "label": "29.10.2016",
