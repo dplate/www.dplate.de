@@ -101,6 +101,11 @@
         "label": "Arlberg",
         "subs": [
           {
+            "name": "20170414",
+            "label": "14.04.2017",
+            "subLabel": "Lech Warth"
+          },
+          {
             "name": "20150207",
             "label": "07.02.2015",
             "subLabel": "Arlberg"
@@ -244,6 +249,11 @@
         "name": "davos",
         "label": "Davos",
         "subs": [
+          {
+            "name": "20170327",
+            "label": "27.03.2017",
+            "subLabel": "Parsenn"
+          },
           {
             "name": "20151031",
             "label": "31.10.2015",

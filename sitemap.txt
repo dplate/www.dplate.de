@@ -116,3 +116,5 @@ http://www.dplate.de/alpine/montafon/20170109
 http://www.dplate.de/alpine/damuels/20170209
 http://www.dplate.de/alpine/laax/20170320
 http://www.dplate.de/alpine/lenzerheide/20170321
+http://www.dplate.de/alpine/davos/20170327
+http://www.dplate.de/alpine/arlberg/20170414
