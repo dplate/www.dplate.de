@@ -77,6 +77,15 @@
         height: 100%;
       }
 
+      .spoiler {
+        filter: blur(5px);
+        transition: filter 5s;
+      }
+
+      .spoiler:hover, .spoiler:active {
+        filter: blur(0px);
+      }
+
     </style>
   </template>
 </dom-module>

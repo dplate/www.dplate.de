@@ -2,6 +2,7 @@ http://www.dplate.de
 http://www.dplate.de/games/schiffbruch
 http://www.dplate.de/games/cannonhill
 http://www.dplate.de/tools/scapemaker
+http://www.dplate.de/tools/kensentme
 http://www.dplate.de/photos
 http://www.dplate.de/impressum
 http://www.dplate.de/alpine/flumserberg/20161112
