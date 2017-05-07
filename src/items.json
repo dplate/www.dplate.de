@@ -438,6 +438,11 @@
         "label": "Ischgl",
         "subs": [
           {
+            "name": "20170429",
+            "label": "29.04.2017",
+            "subLabel": "Ischgl"
+          },
+          {
             "name": "20141217",
             "label": "17.12.2014",
             "subLabel": "Ischgl"
@@ -473,6 +478,11 @@
         "name": "kaunertal",
         "label": "Kaunertal",
         "subs": [
+          {
+            "name": "20170506",
+            "label": "06.05.2017",
+            "subLabel": "Kaunertal"
+          },
           {
             "name": "20151124",
             "label": "24.11.2015",
