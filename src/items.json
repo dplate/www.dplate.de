@@ -802,6 +802,10 @@
       {
         "name": "cannonhill",
         "label": "Cannonhill"
+      },
+      {
+        "name": "ancient",
+        "label": "Antike Spiele"
       }
     ]
   },
