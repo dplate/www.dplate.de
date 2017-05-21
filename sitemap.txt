@@ -1,5 +1,6 @@
 http://www.dplate.de
 http://www.dplate.de/games/schiffbruch
+http://www.dplate.de/games/modracer
 http://www.dplate.de/games/cannonhill
 http://www.dplate.de/games/ancient
 http://www.dplate.de/tools/scapemaker
