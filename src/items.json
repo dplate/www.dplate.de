@@ -23,6 +23,11 @@
         "label": "Alpstein",
         "subs": [
           {
+            "name": "20170617",
+            "label": "17.06.2017",
+            "subLabel": "Zwinglipass"
+          },
+          {
             "name": "20160911",
             "label": "11.09.2016",
             "subLabel": "Säntis"
