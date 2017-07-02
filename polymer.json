@@ -16,6 +16,7 @@
   "fragments": [
     "src/pages/start.html",
     "src/pages/404.html",
+    "src/pages/maptest.html",
     "src/pages/impressum.html",
     "src/pages/photos.html",
     "src/pages/games/schiffbruch.html",

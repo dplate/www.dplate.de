@@ -4,6 +4,7 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^(.*)/$ /$1 [L,R=301]
 RewriteRule ^404$ index.html
 RewriteRule ^impressum$ index.html
+RewriteRule ^maptest$ index.html
 RewriteRule ^games/ index.html
 RewriteRule ^tools/ index.html
 RewriteRule ^alpine/ index.html
