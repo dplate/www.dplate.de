@@ -1,0 +1,10 @@
+KML with time info:
+- Open gpx in Google Earth and save as kml
+
+KML without time info:
+- Open track in RouteConverter
+- Convert route into track
+- Revert point reduction
+- Reduce points via "Doppelte Positionen löschen", e.g. 5m
+- Export as Google Earth 3 KML
+- Add "<tessellate>1</tessellate>" to linestring tag in kml file
