@@ -26,7 +26,6 @@
           const doc = (new window.DOMParser()).parseFromString(text, 'text/xml');
 
           // Swiss extent
-          var rectangle = Cesium.Rectangle.fromDegrees(5.013926957923385, 45.35600133779394, 11.477436312994008, 48.27502358353741);
           const viewer = new Cesium.Viewer('cesiumContainer', {
             terrainProvider : new Cesium.CesiumTerrainProvider({
               url : '//3d.geo.admin.ch/1.0.0/ch.swisstopo.terrain.3d/default/20160115/4326/',
@@ -44,19 +43,13 @@
             navigationHelpButton: false,
             navigationInstructionsInitiallyVisible: false,
             scene3DOnly: true,
-            imageryProvider : new Cesium.UrlTemplateImageryProvider({
-              url: "//wmts{s}.geo.admin.ch/1.0.0/ch.swisstopo.swissimage-product/default/current/4326/{z}/{y}/{x}.jpeg",
-              subdomains: '56789',
-              minimumLevel: 8,
-              maximumLevel: 17,
-              tilingScheme: new Cesium.GeographicTilingScheme({
-                numberOfLevelZeroTilesX: 2,
-                numberOfLevelZeroTilesY: 1
-              }),
-              rectangle: rectangle,
-              credit: 'geodata © swisstopo'
+            imageryProvider : new Cesium.BingMapsImageryProvider({
+              url : 'https://dev.virtualearth.net',
+              key : 'AkvC0n8biVNXoCbpiAc4p3g7S9ZHoUWvlpgcJKYQd8FhCA5sn6C8OUmhIR8IEO0X',
+              mapStyle : Cesium.BingMapsStyle.AERIAL
             })
           });
+
           viewer.clock.shouldAnimate = false;
           viewer.scene.globe.enableLighting = true;
           viewer.scene.globe.depthTestAgainstTerrain = true;
@@ -100,25 +93,49 @@
           });
           viewer.entities.add(pin);
 
+          const hdRectangle = Cesium.Rectangle.fromCartesianArray(positions, Cesium.Ellipsoid.WGS84);
+          hdRectangle.east += 0.005; hdRectangle.west -= 0.005; hdRectangle.north += 0.003; hdRectangle.south -= 0.003;
+          viewer.scene.imageryLayers.addImageryProvider(new Cesium.UrlTemplateImageryProvider({
+            url: "//wmts{s}.geo.admin.ch/1.0.0/ch.swisstopo.swissimage-product/default/current/4326/{z}/{y}/{x}.jpeg",
+            subdomains: '56789',
+            minimumLevel: 8,
+            maximumLevel: 17,
+            tilingScheme: new Cesium.GeographicTilingScheme({
+              numberOfLevelZeroTilesX: 2,
+              numberOfLevelZeroTilesY: 1
+            }),
+            rectangle: hdRectangle,
+            credit: 'geodata © swisstopo'
+          }));
+
           viewer.clock.startTime = startTime;
           viewer.clock.stopTime = stopTime;
           viewer.clock.clockRange = Cesium.ClockRange.CLAMPED;
           viewer.clock.currentTime = startTime;
           viewer.clock.multiplier = 100;
+
+          let currentTilt = -15;
           viewer.clock.onTick.addEventListener(() => {
-            const currentPos = pin.position.getValue(viewer.clock.currentTime);
             const futureTime = new Cesium.JulianDate();
             Cesium.JulianDate.addSeconds(viewer.clock.currentTime, 20 * 60, futureTime);
             const secondsAfterEnd = Cesium.JulianDate.secondsDifference(futureTime, stopTime);
             if (secondsAfterEnd > 0) Cesium.JulianDate.addSeconds(startTime, secondsAfterEnd, futureTime);
-            const futurePos = pin.position.getValue(futureTime);
-            const currentCart = Cesium.Cartographic.fromCartesian(currentPos);
-            const futureCart = Cesium.Cartographic.fromCartesian(futurePos);
-            Cesium.sampleTerrainMostDetailed(viewer.terrainProvider, [ currentCart, futureCart ]).then((updatedCarts) => {
-              const updatedCurrentPos = Cesium.Cartesian3.fromRadians(updatedCarts[0].longitude, updatedCarts[0].latitude, updatedCarts[0].height);
-              const geodesic = new Cesium.EllipsoidGeodesic(updatedCarts[0], updatedCarts[1]);
-              viewer.camera.lookAt(updatedCurrentPos, new Cesium.HeadingPitchRange(geodesic.startHeading, Cesium.Math.toRadians(-15), 250));
-            });
+
+            const currentCart = Cesium.Cartographic.fromCartesian(pin.position.getValue(viewer.clock.currentTime));
+            const futureCart = Cesium.Cartographic.fromCartesian(pin.position.getValue(futureTime));
+            const geodesic = new Cesium.EllipsoidGeodesic(currentCart, futureCart);
+
+            const currentHeight = viewer.scene.globe.getHeight(currentCart) || currentCart.height;
+            const realCurrentPos = Cesium.Cartesian3.fromRadians(currentCart.longitude, currentCart.latitude, currentHeight);
+
+            const terrainHeightUnderCamera = viewer.scene.globe.getHeight(viewer.camera.positionCartographic);
+            if (terrainHeightUnderCamera) {
+              currentTilt += (viewer.camera.positionCartographic.height - (200 + terrainHeightUnderCamera)) * 0.01;
+              currentTilt = Math.max(currentTilt, -90);
+              currentTilt = Math.min(currentTilt, 0);
+            }
+
+            viewer.camera.lookAt(realCurrentPos, new Cesium.HeadingPitchRange(geodesic.startHeading, Cesium.Math.toRadians(currentTilt), 500));
           });
         });
       }
