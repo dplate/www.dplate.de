@@ -1,17 +1,252 @@
 <link rel="import" href="../../bower_components/polymer/polymer.html">
 <link rel="import" href="../map.html">
 <link rel="import" href="./styles.html">
+<script src="/external/exif-js/exif.js"></script>
 
 <dom-module id="my-page-maptest">
   <template>
     <style include="page-styles"></style>
+    <style>
+      :host {
+        text-align: left;
+      }
+      .pictureCard {
+        display: inline-block;
+        max-width: inherit;
+        margin: 16px;
+      }
+    </style>
 
-    <my-map></my-map>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/001.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/002.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/003.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/004.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/005.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/006.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/007.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/008.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/009.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/010.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/011.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/012.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/013.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/014.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/015.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/016.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/017.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/018.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/019.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/020.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/021.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/022.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/023.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/024.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/025.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/026.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/027.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/028.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/029.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/030.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/031.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/032.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/033.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/034.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/035.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/036.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/037.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/038.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/039.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/040.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/041.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/042.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/043.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/044.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/045.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/046.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/047.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/048.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/049.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/050.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/051.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/052.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/053.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/054.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/055.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/056.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/057.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/058.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/059.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/060.jpg" />
+    </div>
+    <div class="card pictureCard">
+      <img src="/photos/malbun/20170716/061.jpg" />
+    </div>
+    <my-map time="[[time]]"></my-map>
   </template>
 
   <script>
+    const images = [];
+
     Polymer({
-      is: 'my-page-maptest'
+      is: 'my-page-maptest',
+
+      properties: {
+        time: String
+      },
+
+      _scrollHandler: function(event) {
+        let nearestImage;
+        let minDistance = Number.MAX_SAFE_INTEGER;
+        images.forEach(function(image) {
+          const distance = Math.abs(this.scrollY - image.offsetTop);
+          if (distance < minDistance) {
+            minDistance = distance;
+            nearestImage = image;
+          }
+        });
+        if (nearestImage) {
+          this.set('time', nearestImage.getAttribute('data-time'));
+        }
+      },
+
+      ready: function() {
+        window.addEventListener('scroll', this._scrollHandler.bind(this));
+      },
+
+      attached: function() {
+        const imgElements = document.getElementsByTagName('img');
+        for (let i=0, image; image = imgElements[i]; i++) {
+          image.onload = function() {
+            EXIF.getData(image, function() {
+              const exifDate = EXIF.getTag(this, 'DateTimeOriginal');
+              if (exifDate) {
+                const [date, time] = exifDate.split(' ');
+                image.setAttribute('data-time', date.replace(/:/g, '-') + 'T' + time);
+                images.push(image);
+              }
+            });
+          };
+        }
+      }
     });
   </script>
 </dom-module>

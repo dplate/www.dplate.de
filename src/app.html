@@ -47,8 +47,8 @@
     <app-location route="{{route}}"></app-location>
     <iron-ajax id="itemsLoader" url="items.json" handle-as="json" last-response="{{items}}"></iron-ajax>
 
-    <app-drawer-layout fullbleed align="left" id="drawerLayout">
-      <app-header-layout has-scrolling-region id="headerLayout">
+    <app-drawer-layout fullbleed force-narrow align="left" id="drawerLayout">
+      <app-header-layout id="headerLayout">
         <app-header condenses reveals effects="waterfall">
           <app-toolbar>
             <paper-icon-button icon="menu" drawer-toggle></paper-icon-button>

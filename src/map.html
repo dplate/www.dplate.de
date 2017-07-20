@@ -5,7 +5,17 @@
   <template>
     <style>
       #cesiumContainer {
-        height: calc(100vh - 100px);
+        position: fixed;
+        height: 30vh;
+        width: 30vw;
+        right: 0;
+        bottom: 0;
+        line-height: 0.7;
+        font-size: 8px;
+        box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.75);
+      }
+      #cesiumContainer .cesium-credit-image img {
+        max-width: 5vw;
       }
     </style>
     <div id="cesiumContainer"></div>
@@ -14,130 +24,190 @@
   <script>
     Polymer({
       is: 'my-map',
+      viewer: null,
+      currentTilt: -15,
+      targetTime: null,
 
-      properties: { },
+      properties: {
+        time: {
+          type: String,
+          observer: 'timeChanged',
+          reflectToAttribute: true
+        }
+      },
+
+      timeChanged: function() {
+        this.targetTime = Cesium.JulianDate.fromIso8601(this.time);
+      },
+
+      updateCamera: function() {
+        if (!this.viewer.clock.shouldAnimate) return;
+
+        const futureTime = new Cesium.JulianDate();
+        Cesium.JulianDate.addSeconds(this.viewer.clock.currentTime, 20 * 60, futureTime);
+        const secondsAfterEnd = Cesium.JulianDate.secondsDifference(futureTime, this.viewer.clock.stopTime);
+        if (secondsAfterEnd > 0) Cesium.JulianDate.addSeconds(this.viewer.clock.startTime, secondsAfterEnd, futureTime);
+
+        const pin = this.viewer.entities.getById('pin');
+        const currentCart = Cesium.Cartographic.fromCartesian(pin.position.getValue(this.viewer.clock.currentTime));
+        const futureCart = Cesium.Cartographic.fromCartesian(pin.position.getValue(futureTime));
+        const geodesic = new Cesium.EllipsoidGeodesic(currentCart, futureCart);
+
+        const currentHeight = this.viewer.scene.globe.getHeight(currentCart) || currentCart.height;
+        const realCurrentPos = Cesium.Cartesian3.fromRadians(currentCart.longitude, currentCart.latitude, currentHeight);
+
+        const terrainHeightUnderCamera = this.viewer.scene.globe.getHeight(this.viewer.camera.positionCartographic);
+        if (terrainHeightUnderCamera) {
+          this.currentTilt += (this.viewer.camera.positionCartographic.height - (200 + terrainHeightUnderCamera)) * 0.01;
+          this.currentTilt = Math.max(this.currentTilt, -90);
+          this.currentTilt = Math.min(this.currentTilt, 0);
+        }
+
+        this.viewer.camera.lookAt(realCurrentPos, new Cesium.HeadingPitchRange(geodesic.startHeading, Cesium.Math.toRadians(this.currentTilt), 500));
+      },
+
+      updateSpeed: function() {
+        if (!this.targetTime) return;
+
+        const timeDifference = Cesium.JulianDate.secondsDifference(this.targetTime, this.viewer.clock.currentTime);
+        let multiplier = timeDifference;
+        multiplier = Math.max(multiplier, -10000);
+        multiplier = Math.min(multiplier, 10000);
+        this.viewer.clock.multiplier = multiplier;
+        if (Math.abs(multiplier) < 20) {
+          this.viewer.clock.shouldAnimate = false;
+        } else {
+          this.viewer.clock.shouldAnimate = true;
+        }
+      },
+
+      tickChanged: function() {
+        this.updateCamera();
+        this.updateSpeed();
+      },
 
       ready: function() {
         this.scopeSubtree(this.$.cesiumContainer, true);
       },
 
       attached: function() {
-        fetch('/tracks/test_long.gpx').then(response => response.text()).then(text => {
-          const doc = (new window.DOMParser()).parseFromString(text, 'text/xml');
+        this.loadTrack().then(this.setupMap.bind(this));
+      },
 
-          // Swiss extent
-          const viewer = new Cesium.Viewer('cesiumContainer', {
-            terrainProvider : new Cesium.CesiumTerrainProvider({
-              url : '//3d.geo.admin.ch/1.0.0/ch.swisstopo.terrain.3d/default/20160115/4326/',
-              requestVertexNormals: true
-            }),
-            baseLayerPicker : false,
-            geocoder: false,
-            animation: true,
-            fullscreenButton: false,
-            homeButton: false,
-            infoBox: false,
-            sceneModePicker: false,
-            selectionIndicator: false,
-            timeline: false,
-            navigationHelpButton: false,
-            navigationInstructionsInitiallyVisible: false,
-            scene3DOnly: true,
-            imageryProvider : new Cesium.BingMapsImageryProvider({
-              url : 'https://dev.virtualearth.net',
-              key : 'AkvC0n8biVNXoCbpiAc4p3g7S9ZHoUWvlpgcJKYQd8FhCA5sn6C8OUmhIR8IEO0X',
-              mapStyle : Cesium.BingMapsStyle.AERIAL
-            })
-          });
+      loadTrack: function() {
+        return fetch('/tracks/test2.gpx').then(response => response.text());
+      },
 
-          viewer.clock.shouldAnimate = false;
-          viewer.scene.globe.enableLighting = true;
-          viewer.scene.globe.depthTestAgainstTerrain = true;
+      setupMap: function(gpxRaw) {
+        this.setupViewer();
+        const trackData = this.parseTrackData(gpxRaw);
+        this.addTrack(trackData.positions);
+        this.addPin(trackData.sampledPosition);
+        this.addSwissSatellite(trackData.positions);
+        this.setupClock(trackData.startTime, trackData.stopTime);
+      },
 
-          const sampledPosition = new Cesium.SampledPositionProperty();
-          let startTime = null;
-          let stopTime = null;
-          const positions = [];
-          Array.prototype.slice.call(doc.getElementsByTagName('trkpt')).forEach((trackPoint) => {
-            const position = Cesium.Cartesian3.fromDegrees(trackPoint.getAttribute('lon'), trackPoint.getAttribute('lat'), 0);
-            if (positions.length > 0 && Cesium.Cartesian3.distance(position, positions[positions.length - 1]) < 10) return;
-            const date = Cesium.JulianDate.fromIso8601(trackPoint.getElementsByTagName('time')[0].firstChild.nodeValue);
-            if (!startTime) startTime = date;
-            stopTime = date;
-            sampledPosition.addSample(date, position);
-            positions.push(position);
-          });
-
-          const corridor = new Cesium.CorridorGraphics({
-            positions,
-            material: Cesium.Color.RED,
-            width: 2.0
-          });
-
-          viewer.entities.add(new Cesium.Entity({
-            id : 'track',
-            corridor
-          }));
-
-          const billboard = new Cesium.BillboardGraphics({
-            image: '/external/Cesium/Assets/Textures/pin.svg',
-            heightReference: Cesium.HeightReference.CLAMP_TO_GROUND,
-            verticalOrigin: Cesium.VerticalOrigin.BOTTOM,
-            depthTestAgainstTerrain: 0
-          });
-
-          const pin = new Cesium.Entity({
-            id : 'pin',
-            billboard,
-            position: sampledPosition
-          });
-          viewer.entities.add(pin);
-
-          const hdRectangle = Cesium.Rectangle.fromCartesianArray(positions, Cesium.Ellipsoid.WGS84);
-          hdRectangle.east += 0.005; hdRectangle.west -= 0.005; hdRectangle.north += 0.003; hdRectangle.south -= 0.003;
-          viewer.scene.imageryLayers.addImageryProvider(new Cesium.UrlTemplateImageryProvider({
-            url: "//wmts{s}.geo.admin.ch/1.0.0/ch.swisstopo.swissimage-product/default/current/4326/{z}/{y}/{x}.jpeg",
-            subdomains: '56789',
-            minimumLevel: 8,
-            maximumLevel: 17,
-            tilingScheme: new Cesium.GeographicTilingScheme({
-              numberOfLevelZeroTilesX: 2,
-              numberOfLevelZeroTilesY: 1
-            }),
-            rectangle: hdRectangle,
-            credit: 'geodata © swisstopo'
-          }));
-
-          viewer.clock.startTime = startTime;
-          viewer.clock.stopTime = stopTime;
-          viewer.clock.clockRange = Cesium.ClockRange.CLAMPED;
-          viewer.clock.currentTime = startTime;
-          viewer.clock.multiplier = 100;
-
-          let currentTilt = -15;
-          viewer.clock.onTick.addEventListener(() => {
-            const futureTime = new Cesium.JulianDate();
-            Cesium.JulianDate.addSeconds(viewer.clock.currentTime, 20 * 60, futureTime);
-            const secondsAfterEnd = Cesium.JulianDate.secondsDifference(futureTime, stopTime);
-            if (secondsAfterEnd > 0) Cesium.JulianDate.addSeconds(startTime, secondsAfterEnd, futureTime);
-
-            const currentCart = Cesium.Cartographic.fromCartesian(pin.position.getValue(viewer.clock.currentTime));
-            const futureCart = Cesium.Cartographic.fromCartesian(pin.position.getValue(futureTime));
-            const geodesic = new Cesium.EllipsoidGeodesic(currentCart, futureCart);
-
-            const currentHeight = viewer.scene.globe.getHeight(currentCart) || currentCart.height;
-            const realCurrentPos = Cesium.Cartesian3.fromRadians(currentCart.longitude, currentCart.latitude, currentHeight);
-
-            const terrainHeightUnderCamera = viewer.scene.globe.getHeight(viewer.camera.positionCartographic);
-            if (terrainHeightUnderCamera) {
-              currentTilt += (viewer.camera.positionCartographic.height - (200 + terrainHeightUnderCamera)) * 0.01;
-              currentTilt = Math.max(currentTilt, -90);
-              currentTilt = Math.min(currentTilt, 0);
-            }
-
-            viewer.camera.lookAt(realCurrentPos, new Cesium.HeadingPitchRange(geodesic.startHeading, Cesium.Math.toRadians(currentTilt), 500));
-          });
+      setupViewer: function() {
+        this.viewer = new Cesium.Viewer('cesiumContainer', {
+          terrainProvider : new Cesium.CesiumTerrainProvider({
+            url : '//3d.geo.admin.ch/1.0.0/ch.swisstopo.terrain.3d/default/20160115/4326/',
+            requestVertexNormals: true
+          }),
+          baseLayerPicker : false,
+          geocoder: false,
+          animation: false,
+          fullscreenButton: false,
+          homeButton: false,
+          infoBox: false,
+          sceneModePicker: false,
+          selectionIndicator: false,
+          timeline: false,
+          navigationHelpButton: false,
+          navigationInstructionsInitiallyVisible: false,
+          scene3DOnly: true,
+          imageryProvider : new Cesium.BingMapsImageryProvider({
+            url : 'https://dev.virtualearth.net',
+            key : 'AkvC0n8biVNXoCbpiAc4p3g7S9ZHoUWvlpgcJKYQd8FhCA5sn6C8OUmhIR8IEO0X',
+            mapStyle : Cesium.BingMapsStyle.AERIAL
+          })
         });
+
+        this.viewer.scene.globe.enableLighting = true;
+        this.viewer.scene.globe.depthTestAgainstTerrain = true;
+      },
+
+      parseTrackData: function(gpxRaw) {
+        const trackData = {
+          startTime: null,
+          stopTime: null,
+          sampledPosition: new Cesium.SampledPositionProperty(),
+          positions: []
+        };
+        const doc = (new window.DOMParser()).parseFromString(gpxRaw, 'text/xml');
+        Array.prototype.slice.call(doc.getElementsByTagName('trkpt')).forEach((trackPoint) => {
+          const position = Cesium.Cartesian3.fromDegrees(trackPoint.getAttribute('lon'), trackPoint.getAttribute('lat'), 0);
+          if (trackData.positions.length > 0 && Cesium.Cartesian3.distance(position, trackData.positions[trackData.positions.length - 1]) < 10) return;
+          const date = Cesium.JulianDate.fromIso8601(trackPoint.getElementsByTagName('time')[0].firstChild.nodeValue);
+          if (!trackData.startTime) trackData.startTime = date;
+          trackData.stopTime = date;
+          trackData.sampledPosition.addSample(date, position);
+          trackData.positions.push(position);
+        });
+        return trackData;
+      },
+
+      addTrack: function(positions) {
+        const corridor = new Cesium.CorridorGraphics({
+          positions,
+          material: Cesium.Color.RED,
+          width: 2.0
+        });
+
+        this.viewer.entities.add(new Cesium.Entity({
+          id : 'track',
+          corridor
+        }));
+      },
+
+      addPin: function(sampledPosition) {
+        const billboard = new Cesium.BillboardGraphics({
+          image: '/external/Cesium/Assets/Textures/pin.svg',
+          heightReference: Cesium.HeightReference.CLAMP_TO_GROUND,
+          verticalOrigin: Cesium.VerticalOrigin.BOTTOM,
+          depthTestAgainstTerrain: 0
+        });
+        const pin = new Cesium.Entity({
+          id : 'pin',
+          billboard,
+          position: sampledPosition
+        });
+        this.viewer.entities.add(pin);
+      },
+
+      addSwissSatellite: function(positions) {
+        const hdRectangle = Cesium.Rectangle.fromCartesianArray(positions, Cesium.Ellipsoid.WGS84);
+        hdRectangle.east += 0.005; hdRectangle.west -= 0.005; hdRectangle.north += 0.003; hdRectangle.south -= 0.003;
+        this.viewer.scene.imageryLayers.addImageryProvider(new Cesium.UrlTemplateImageryProvider({
+          url: "//wmts{s}.geo.admin.ch/1.0.0/ch.swisstopo.swissimage-product/default/current/4326/{z}/{y}/{x}.jpeg",
+          subdomains: '56789',
+          minimumLevel: 8,
+          maximumLevel: 17,
+          tilingScheme: new Cesium.GeographicTilingScheme({
+            numberOfLevelZeroTilesX: 2,
+            numberOfLevelZeroTilesY: 1
+          }),
+          rectangle: hdRectangle,
+          credit: 'geodata © swisstopo'
+        }));
+      },
+
+      setupClock: function(startTime, stopTime) {
+        this.viewer.clock.startTime = startTime;
+        this.viewer.clock.stopTime = stopTime;
+        this.viewer.clock.clockRange = Cesium.ClockRange.CLAMPED;
+        this.viewer.clock.currentTime = startTime;
+        this.viewer.clock.multiplier = 0.1;
+        this.viewer.clock.onTick.addEventListener(this.tickChanged.bind(this));
       }
     });
   </script>
