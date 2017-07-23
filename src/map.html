@@ -9,12 +9,16 @@
         line-height: 0.7;
         font-size: 8px;
         box-shadow: 0 0 20px 0 rgba(0,0,0,0.75);
+        cursor: all-scroll;
       }
       #cesiumContainer .cesium-credit-image img {
         max-width: 5vw;
       }
       #cesiumContainer .cesium-viewer-bottom {
         bottom: 3px !important;
+      }
+      #cesiumContainer.wait {
+        cursor: wait;
       }
       #cesiumContainer.teaser {
         right: 5px;
@@ -109,7 +113,7 @@
         display: none;
       }
     </style>
-    <div id="cesiumContainer" class$="[[size]]"></div>
+    <div id="cesiumContainer" class$="[[size]] [[mapStatus]]"></div>
     <img on-tap="changeSize" id="resizeIcon" class$="[[size]]" src="/images/icons/resize.svg" />
     <img on-tap="changeSize" id="mapIcon" class$="[[size]]" src="/images/icons/map.svg" />
   </template>
@@ -122,6 +126,10 @@
       targetTime: null,
 
       properties: {
+        gpxPath: {
+          type: String,
+          reflectToAttribute: true
+        },
         time: {
           type: String,
           observer: 'timeChanged',
@@ -131,6 +139,10 @@
           type: String,
           value: 'teaser',
           reflectToAttribute: true
+        },
+        mapStatus: {
+          type: String,
+          value: 'wait'
         }
       },
 
@@ -182,8 +194,10 @@
         this.viewer.clock.multiplier = multiplier;
         if (Math.abs(multiplier) < 20) {
           this.viewer.clock.shouldAnimate = false;
+          this.mapStatus = 'free';
         } else {
           this.viewer.clock.shouldAnimate = true;
+          this.mapStatus = 'wait';
         }
       },
 
@@ -201,7 +215,7 @@
       },
 
       loadTrack: function() {
-        return fetch('/tracks/test2.gpx').then(response => response.text());
+        return fetch(this.gpxPath).then(response => response.text());
       },
 
       setupMap: function(gpxRaw) {
@@ -312,7 +326,6 @@
         this.viewer.clock.stopTime = stopTime;
         this.viewer.clock.clockRange = Cesium.ClockRange.CLAMPED;
         this.viewer.clock.currentTime = startTime;
-        this.viewer.clock.multiplier = 0.1;
         this.viewer.clock.onTick.addEventListener(this.tickChanged.bind(this));
       }
     });
