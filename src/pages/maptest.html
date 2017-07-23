@@ -13,7 +13,10 @@
       .pictureCard {
         display: inline-block;
         max-width: inherit;
-        margin: 16px;
+      }
+
+      .pictureCard img {
+        margin-bottom: 0;
       }
     </style>
 
@@ -204,10 +207,11 @@
   </template>
 
   <script>
-    const images = [];
+
 
     Polymer({
       is: 'my-page-maptest',
+      images: [],
 
       properties: {
         time: String
@@ -216,7 +220,7 @@
       _scrollHandler: function(event) {
         let nearestImage;
         let minDistance = Number.MAX_SAFE_INTEGER;
-        images.forEach(function(image) {
+        this.images.forEach(function(image) {
           const distance = Math.abs(this.scrollY - image.offsetTop);
           if (distance < minDistance) {
             minDistance = distance;
@@ -232,19 +236,26 @@
         window.addEventListener('scroll', this._scrollHandler.bind(this));
       },
 
+      retrieveImageDate: function(image) {
+        const self = this;
+        EXIF.getData(image, function() {
+          const exifDate = EXIF.getTag(this, 'DateTimeOriginal');
+          if (exifDate) {
+            const [date, time] = exifDate.split(' ');
+            image.setAttribute('data-time', date.replace(/:/g, '-') + 'T' + time);
+            self.images.push(image);
+          }
+        });
+      },
+
       attached: function() {
-        const imgElements = document.getElementsByTagName('img');
+        const imgElements = document.querySelectorAll('.pictureCard img');
         for (let i=0, image; image = imgElements[i]; i++) {
-          image.onload = function() {
-            EXIF.getData(image, function() {
-              const exifDate = EXIF.getTag(this, 'DateTimeOriginal');
-              if (exifDate) {
-                const [date, time] = exifDate.split(' ');
-                image.setAttribute('data-time', date.replace(/:/g, '-') + 'T' + time);
-                images.push(image);
-              }
-            });
-          };
+          if (image.complete) {
+            this.retrieveImageDate(image);
+          } else {
+            image.onload = this.retrieveImageDate.bind(this, image);
+          }
         }
       }
     });

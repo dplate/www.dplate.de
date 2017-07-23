@@ -6,19 +6,112 @@
     <style>
       #cesiumContainer {
         position: fixed;
-        height: 30vh;
-        width: 30vw;
-        right: 0;
-        bottom: 0;
         line-height: 0.7;
         font-size: 8px;
-        box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.75);
+        box-shadow: 0 0 20px 0 rgba(0,0,0,0.75);
       }
       #cesiumContainer .cesium-credit-image img {
         max-width: 5vw;
       }
+      #cesiumContainer .cesium-viewer-bottom {
+        bottom: 3px !important;
+      }
+      #cesiumContainer.teaser {
+        right: 5px;
+        bottom: 5px;
+        height: 30vh;
+        width: 30vw;
+      }
+      @media (max-width: 640px) and (orientation: portrait) {
+        #cesiumContainer.teaser {
+          right: 0;
+          bottom: 0;
+          height: 30vh;
+          width: 100%;
+        }
+      }
+      @media (max-height: 400px) {
+        #cesiumContainer.teaser {
+          right: 0;
+          bottom: 0;
+          width: 30vw;
+          height: 100%;
+        }
+        #cesiumContainer.teaser .cesium-viewer-bottom {
+          right: 40px;
+        }
+      }
+      #cesiumContainer.fullscreen {
+        left: 0;
+        top: 0;
+        height: 100%;
+        width: 100%;
+      }
+      #cesiumContainer.fullscreen .cesium-viewer-bottom {
+        right: 40px;
+      }
+      #cesiumContainer.icon {
+        display: none
+      }
+      #resizeIcon {
+        position: fixed;
+        cursor: pointer;
+        transform: scale(-1, 1);
+        opacity: 0.5;
+        filter: invert(100%);
+        height: 24px;
+        width: 24px;
+        box-shadow: 0 0 5px 0 rgba(255,255,255,1);
+      }
+      #resizeIcon:hover {
+        opacity: 1.0;
+      }
+      #resizeIcon.teaser {
+        right:  calc(30vw - 25px);
+        bottom: calc(30vh - 25px);
+      }
+      @media (max-width: 640px) and (orientation: portrait) {
+        #resizeIcon.teaser {
+          right: inherit;
+          left: 5px;
+          bottom: calc(30vh - 30px);
+        }
+      }
+      @media (max-height: 400px) {
+        #resizeIcon.teaser {
+          right: 5px;
+          bottom: 5px;
+        }
+      }
+      #resizeIcon.fullscreen {
+        right: 5px;
+        bottom: 5px;
+      }
+      #resizeIcon.icon {
+        display: none;
+      }
+      #mapIcon {
+        position: fixed;
+        cursor: pointer;
+        height: 35px;
+        width: 35px;
+        right: 5px;
+        bottom: 5px;
+        opacity: 0.5;
+      }
+      #mapIcon:hover {
+        opacity: 1.0;
+      }
+      #mapIcon.teaser {
+        display: none;
+      }
+      #mapIcon.fullscreen {
+        display: none;
+      }
     </style>
-    <div id="cesiumContainer"></div>
+    <div id="cesiumContainer" class$="[[size]]"></div>
+    <img on-tap="changeSize" id="resizeIcon" class$="[[size]]" src="/images/icons/resize.svg" />
+    <img on-tap="changeSize" id="mapIcon" class$="[[size]]" src="/images/icons/map.svg" />
   </template>
 
   <script>
@@ -33,7 +126,20 @@
           type: String,
           observer: 'timeChanged',
           reflectToAttribute: true
+        },
+        size: {
+          type: String,
+          value: 'teaser',
+          reflectToAttribute: true
         }
+      },
+
+      changeSize: function() {
+        if (this.size === 'teaser') {
+          this.size = 'fullscreen';
+        } else if (this.size === 'fullscreen') {
+          this.size = 'icon';
+        } else this.size = 'teaser';
       },
 
       timeChanged: function() {
@@ -186,7 +292,7 @@
 
       addSwissSatellite: function(positions) {
         const hdRectangle = Cesium.Rectangle.fromCartesianArray(positions, Cesium.Ellipsoid.WGS84);
-        hdRectangle.east += 0.005; hdRectangle.west -= 0.005; hdRectangle.north += 0.003; hdRectangle.south -= 0.003;
+        hdRectangle.east += 0.001; hdRectangle.west -= 0.001; hdRectangle.north += 0.0005; hdRectangle.south -= 0.0005;
         this.viewer.scene.imageryLayers.addImageryProvider(new Cesium.UrlTemplateImageryProvider({
           url: "//wmts{s}.geo.admin.ch/1.0.0/ch.swisstopo.swissimage-product/default/current/4326/{z}/{y}/{x}.jpeg",
           subdomains: '56789',
