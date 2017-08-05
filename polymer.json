@@ -15,9 +15,11 @@
   ],
   "fragments": [
     "src/map.html",
+    "src/report.html",
     "src/pages/start.html",
     "src/pages/impressum.html",
     "src/pages/photos.html",
+    "src/pages/404.html",
     "src/pages/games/schiffbruch.html",
     "src/pages/games/modracer.html",
     "src/pages/games/cannonhill.html",

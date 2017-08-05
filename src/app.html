@@ -9,10 +9,8 @@
 <link rel="import" href="../bower_components/paper-icon-button/paper-icon-button.html">
 <link rel="import" href="../bower_components/iron-ajax/iron-ajax.html">
 <link rel="import" href="../bower_components/iron-pages/iron-pages.html">
-<link rel="import" href="./pages/404.html">
-<link rel="import" href="icons.html">
-<link rel="import" href="menu.html">
-<link rel="import" href="report.html">
+<link rel="import" href="./icons.html">
+<link rel="import" href="./menu.html">
 
 <dom-module id="my-app">
   <template>
@@ -59,6 +57,8 @@
           </app-toolbar>
         </app-header>
         <iron-pages selected="[[route.path]]" attr-for-selected="name" fallback-selection="/404" role="main" id="pages">
+          <my-report name="/alpine/malbun/20170716"></my-report>
+          <my-report name="/alpine/davos/20170801"></my-report>
           <my-page-start name="/" items="[[items]]"></my-page-start>
           <my-page-games-schiffbruch name="/games/schiffbruch"></my-page-games-schiffbruch>
           <my-page-games-modracer name="/games/modracer"></my-page-games-modracer>
@@ -67,8 +67,8 @@
           <my-page-tools-scapemaker name="/tools/scapemaker"></my-page-tools-scapemaker>
           <my-page-tools-kensentme name="/tools/kensentme"></my-page-tools-kensentme>
           <my-page-impressum name="/impressum"></my-page-impressum>
-          <my-page-404 name="/404"></my-page-404>
           <my-page-photos name="/photos"></my-page-photos>
+          <my-page-404 name="/404"></my-page-404>
           <my-page-alpine-flumserberg-20161112 name="/alpine/flumserberg/20161112"></my-page-alpine-flumserberg-20161112>
           <my-page-alpine-lenzerheide-20161029 name="/alpine/lenzerheide/20161029"></my-page-alpine-lenzerheide-20161029>
           <my-page-alpine-malbun-20161016 name="/alpine/malbun/20161016"></my-page-alpine-malbun-20161016>
@@ -187,7 +187,6 @@
           <my-page-alpine-kaunertal-20170506 name="/alpine/kaunertal/20170506"></my-page-alpine-kaunertal-20170506>
           <my-page-alpine-speer-20170603 name="/alpine/speer/20170603"></my-page-alpine-speer-20170603>
           <my-page-alpine-alpstein-20170617 name="/alpine/alpstein/20170617"></my-page-alpine-alpstein-20170617>
-          <my-report name="/alpine/malbun/20170716"></my-report>
         </iron-pages>
       </app-header-layout>
       <app-drawer>
@@ -228,12 +227,11 @@
       },
 
       _pageChanged: function(page) {
-        if (page !== '/alpine/malbun/20170716') {
-          var resolvedPageUrl = this.resolveUrl('pages' + page + '.html');
-          this.importHref(resolvedPageUrl, this._pageLoaded.bind(this, page), this._pageLoaded.bind(this, page), false);
-        } else {
-          this._pageLoaded(page);
+        var resolvedPageUrl = this.resolveUrl('pages' + page + '.html');
+        if (page === '/alpine/malbun/20170716' || page === '/alpine/davos/20170801') {
+          resolvedPageUrl = this.resolveUrl('report.html');
         }
+        this.importHref(resolvedPageUrl, this._pageLoaded.bind(this, page), this._showPage404, false);
       },
 
       _pageLoaded: function(page) {
@@ -244,6 +242,10 @@
         this.$.headerLayout.resetLayout();
         ga('set', 'page', page);
         ga('send', 'pageview');
+      },
+
+      _showPage404: function() {
+        this.page = '/404';
       },
 
       _changeMetatags: function(page, items) {

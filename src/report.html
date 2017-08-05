@@ -43,7 +43,7 @@
       </figure>
     </template>
     <p inner-h-t-m-l="[[content.outro]]"></p>
-    <my-map gpx-path="/res[[name]]/track.gpx" time="[[time]]"></my-map>
+    <my-map name="[[getMapName()]]" gpx-path="/res[[name]]/track.gpx" time="[[time]]"></my-map>
   </template>
 
   <script>
@@ -68,6 +68,10 @@
       getCardType: function(card) {
         if (card.photos) return 'pictureCard';
         else return '';
+      },
+
+      getMapName: function() {
+        return Math.round(Math.random()*1000);
       },
 
       getPhotoPath: function(photo) {

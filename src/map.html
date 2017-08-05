@@ -4,30 +4,30 @@
 <dom-module id="my-map">
   <template>
     <style>
-      #cesiumContainer {
+      .cesiumContainer {
         position: fixed;
         line-height: 0.7;
         font-size: 8px;
         box-shadow: 0 0 20px 0 rgba(0,0,0,0.75);
         cursor: all-scroll;
       }
-      #cesiumContainer .cesium-credit-image img {
+      .cesiumContainer .cesium-credit-image img {
         max-width: 5vw;
       }
-      #cesiumContainer .cesium-viewer-bottom {
+      .cesiumContainer .cesium-viewer-bottom {
         bottom: 3px !important;
       }
-      #cesiumContainer.wait {
+      .cesiumContainer.wait {
         cursor: wait;
       }
-      #cesiumContainer.teaser {
+      .cesiumContainer.teaser {
         right: 5px;
         bottom: 5px;
         height: 30vh;
         width: 30vw;
       }
       @media (max-width: 640px) and (orientation: portrait) {
-        #cesiumContainer.teaser {
+        .cesiumContainer.teaser {
           right: 0;
           bottom: 0;
           height: 30vh;
@@ -35,26 +35,26 @@
         }
       }
       @media (max-height: 400px) {
-        #cesiumContainer.teaser {
+        .cesiumContainer.teaser {
           right: 0;
           bottom: 0;
           width: 30vw;
           height: 100%;
         }
-        #cesiumContainer.teaser .cesium-viewer-bottom {
+        .cesiumContainer.teaser .cesium-viewer-bottom {
           right: 40px;
         }
       }
-      #cesiumContainer.fullscreen {
+      .cesiumContainer.fullscreen {
         left: 0;
         top: 0;
         height: 100%;
         width: 100%;
       }
-      #cesiumContainer.fullscreen .cesium-viewer-bottom {
+      .cesiumContainer.fullscreen .cesium-viewer-bottom {
         right: 40px;
       }
-      #cesiumContainer.icon {
+      .cesiumContainer.icon {
         display: none
       }
       #resizeIcon {
@@ -113,7 +113,7 @@
         display: none;
       }
     </style>
-    <div id="cesiumContainer" class$="[[size]] [[mapStatus]]"></div>
+    <div id="cesiumContainer[[name]]" class$="cesiumContainer [[size]] [[mapStatus]]"></div>
     <img on-tap="changeSize" id="resizeIcon" class$="[[size]]" src="/images/icons/resize.svg" />
     <img on-tap="changeSize" id="mapIcon" class$="[[size]]" src="/images/icons/map.svg" />
   </template>
@@ -126,6 +126,7 @@
       targetTime: null,
 
       properties: {
+        name: String,
         gpxPath: {
           type: String,
           reflectToAttribute: true
@@ -207,7 +208,7 @@
       },
 
       ready: function() {
-        this.scopeSubtree(this.$.cesiumContainer, true);
+        this.scopeSubtree(this.$$('#cesiumContainer' + this.name), true);
       },
 
       attached: function() {
@@ -228,7 +229,9 @@
       },
 
       setupViewer: function() {
-        this.viewer = new Cesium.Viewer('cesiumContainer', {
+        console.log('test');
+        console.log('cesiumContainer' + this.name);
+        this.viewer = new Cesium.Viewer('cesiumContainer' + this.name, {
           terrainProvider : new Cesium.CesiumTerrainProvider({
             url : '//3d.geo.admin.ch/1.0.0/ch.swisstopo.terrain.3d/default/20160115/4326/',
             requestVertexNormals: true
