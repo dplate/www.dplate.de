@@ -1,0 +1,201 @@
+import React from 'react'
+import Link from 'gatsby-link'
+import PropTypes from 'prop-types'
+import styled from 'styled-components'
+import formatDate from '../utils/formatDate'
+
+const Background = styled.div`
+  position: fixed;
+  z-index: 3;
+  top: 0px;
+  left: 300px;
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  opacity: 0.5;
+  cursor: pointer;
+`;
+
+const MenuLayer = styled.div`
+  position: fixed;
+  display: block;
+  z-index: 3;
+  top: 0px;
+  left: 0px;
+  height: 100%;
+  width: 300px;
+  background-color: #9EC1A3;
+  overflow: auto;
+`;
+
+const ItemList = styled.ul`
+  list-style-type: none;
+  padding-left: 10px;
+  li {
+    padding-top: 5px;
+        
+    > a {
+      display: block;
+      text-decoration: none;
+      color: black;
+      padding: 5px;
+      &:hover {
+        background-color: #8EB193;
+      }
+    }
+    > div > div {
+      cursor: pointer;
+      padding: 5px;
+      &:hover {
+        background-color: #8EB193;
+      }
+    }
+    .selected {
+      font-weight: bold;
+    }
+  }
+`;
+
+const destinationNames = {
+  'davos': 'Davos',
+  'malbun': 'Malbun'
+};
+
+class Menu extends React.Component {
+
+  constructor(props) {
+    super(props);
+    this.state = {
+      items: []
+    };
+    this.renderItem = this.renderItem.bind(this);
+  }
+
+  componentWillMount() {
+    const items = this.createItems(this.props.reports);
+    this.selectCurrentPath(this.props.currentPath, items);
+    this.setState({items});
+  }
+
+  selectCurrentPath(currentPath, items) {
+    const item = items.find((i) => {
+      if (i.items) return this.selectCurrentPath(currentPath, i.items);
+      else return i.path === currentPath;
+    });
+    if (item) {
+      item.selected = true;
+      item.show = true;
+      return true;
+    }
+    return false;
+  }
+
+  renderLink(item) {
+    return (
+      <Link to={item.path} className={item.selected ? 'selected' : ''} onClick={this.props.onClose}>
+        {item.name}
+        </Link>
+    )
+  };
+
+  toggleSub(item) {
+    item.show = !item.show;
+    this.forceUpdate();
+  }
+
+  renderSub(item) {
+    return (
+      <div>
+        <div className={item.selected ? 'selected' : ''} onClick={this.toggleSub.bind(this, item)}>
+          {item.name}
+        </div>
+        {item.show && this.renderItems(item.items)}
+      </div>
+    )
+  }
+
+  renderItem(item) {
+    return (
+      <li key={item.id}>
+        {item.items ? this.renderSub(item) : this.renderLink(item)}
+      </li>
+    )
+  }
+
+  renderItems(items) {
+    return (
+      <ItemList>
+        {items.map(this.renderItem)}
+      </ItemList>
+    )
+  }
+
+  createAlpineItem(report) {
+    return {
+      id: report.date,
+      name: `${formatDate(report.date)} - ${report.title}`,
+      path: `/alpine/${report.destination}/${report.date}`
+    }
+  }
+
+  createAlpineItems(reports) {
+    const items = [];
+    reports.forEach((report) => {
+      let item = items.find((i) => i.id === report.destination);
+      if (!item) {
+        item = {
+          id: report.destination,
+          name: destinationNames[report.destination],
+          items: []
+        };
+        items.push(item);
+      }
+      item.items.push(this.createAlpineItem(report));
+    });
+    return items;
+  }
+
+  createAlpine(reports) {
+    return {
+      id: 'alpine',
+      name: 'Alpinfunk',
+      items: this.createAlpineItems(reports)
+    }
+  }
+
+  createItems(reports) {
+    return [
+      {
+        id: 'start',
+        name: 'Start',
+        path: '/'
+      },
+      this.createAlpine(reports)
+    ]
+  }
+
+  render() {
+    return (
+      <div>
+        <MenuLayer>
+          {this.renderItems(this.state.items)}
+        </MenuLayer>
+        <Background onClick={this.props.onClose} />
+      </div>
+    )
+  }
+}
+
+Menu.propTypes = {
+  onClose: PropTypes.func.isRequired,
+  reports: PropTypes.arrayOf(PropTypes.shape({
+    destination: PropTypes.string.isRequired,
+    date: PropTypes.string.isRequired,
+    title: PropTypes.string.isRequired
+  })),
+  currentPath: PropTypes.string.isRequired
+};
+
+export default Menu;
+
+
