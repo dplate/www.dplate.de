@@ -1,13 +1,13 @@
 RewriteEngine On
+
+DirectoryIndex index.html
+Options +MultiViews
+DirectorySlash Off
+
 RewriteBase /
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^(.*)/$ /$1 [L,R=301]
-RewriteRule ^404$ index.html
-RewriteRule ^impressum$ index.html
-RewriteRule ^games/ index.html
-RewriteRule ^tools/ index.html
-RewriteRule ^alpine/ index.html
-RewriteRule ^photos/(.*)/.*_([0-9]*)\.jpg$ photos/$1/$2.jpg
+RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI}/index.html -f
+RewriteRule ^(.*)$ /$1/index.html [L]
+RewriteRule ^photos/(.*)/.*_(.*)\.jpg$ photos/$1/$2.jpg
 
 ErrorDocument 404 /404
 

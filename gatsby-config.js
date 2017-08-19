@@ -8,7 +8,13 @@ module.exports = {
         name: `reports`,
       },
     },
-    `gatsby-plugin-styled-components`
+    `gatsby-plugin-styled-components`,
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: 'UA-678641-3',
+      }
+    }
   ],
   pathPrefix: '/'
 };

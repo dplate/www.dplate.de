@@ -1,7 +1,10 @@
 import React from 'react'
+import { Helmet } from 'react-helmet';
 import styled from 'styled-components'
 import { EXIF } from '../external/exif-js/exif'
 import Map from '../components/map'
+import {videoWrapperStyle, videoContainerStyle} from '../styles/basestyle.js'
+import formatDate from '../utils/formatDate'
 
 const Content = styled.div`
   display: block;
@@ -33,6 +36,15 @@ const Photo = styled.img`
   max-width: 100%;
   max-height: calc(100vh - 75px);
   margin: 10px 0;
+`;
+
+const VideoContainer = styled.div`
+  ${videoContainerStyle}
+  margin: 0;
+`;
+
+const VideoWrapper = styled.div`
+  ${videoWrapperStyle}
 `;
 
 class Report extends React.Component {
@@ -94,15 +106,30 @@ class Report extends React.Component {
   }
 
   renderPhoto(photo, index) {
-    const fileName = photo.split('_')[1];
+    let fileName = photo;
+    if (process.env.NODE_ENV !== `production`) {
+      fileName = photo.split('_')[1] || fileName;
+    }
+
     const photoPath = __PATH_PREFIX__ + '/photos' + this.getReportPath() + '/' + fileName + '.jpg';
     return <Photo key={index} src={photoPath} />;
+  }
+
+  renderVideo(video, index) {
+    return (
+      <VideoContainer key={index}>
+        <VideoWrapper>
+          <iframe src={`http://www.youtube.com/embed/${video}?wmode=transparent`} frameBorder="0" allowFullScreen />
+        </VideoWrapper>
+      </VideoContainer>
+    );
   }
 
   renderLandmark(landmark, index) {
     return (
       <Landmark key={index} className="landmark">
-        {landmark.photos.map(this.renderPhoto.bind(this))}
+        {landmark.photos && landmark.photos.map(this.renderPhoto.bind(this))}
+        {landmark.videos && landmark.videos.map(this.renderVideo.bind(this))}
         <Caption dangerouslySetInnerHTML={{ __html: landmark.text }} />
       </Landmark>
     )
@@ -114,14 +141,15 @@ class Report extends React.Component {
 
   render() {
     const content = this.props.data.reportJson;
-    const {destination, date, title, intro, landmarks, outro} = content;
+    const {date, track, title, intro, landmarks, outro} = content;
     return (
       <Content>
-        <h1>{title}</h1>
+        <Helmet><title>{title}</title></Helmet>
+        <h1>{title} - {formatDate(date)}</h1>
         <Chapter dangerouslySetInnerHTML={{__html: intro}}/>
         {landmarks.map(this.renderLandmark.bind(this))}
         <Chapter dangerouslySetInnerHTML={{__html: outro}}/>
-        {this.state.time && <Map gpxPath={__PATH_PREFIX__ + '/tracks' + this.getReportPath() + '.gpx'} time={this.state.time}></Map>}
+        {track && this.state.time && <Map gpxPath={__PATH_PREFIX__ + '/tracks' + this.getReportPath() + '.gpx'} time={this.state.time}></Map>}
       </Content>
     );
   }
@@ -132,7 +160,7 @@ export default Report;
 export const pageQuery = graphql`
   query ReportByDestinationAndDate($destination: String!, $date: String!) {
     reportJson(destination: {eq: $destination}, date: {eq: $date}) {
-      destination, date, title, intro, landmarks {photos, text}, outro
+      destination, date, track, title, intro, landmarks {photos, videos, text}, outro
     }
   }
 `;

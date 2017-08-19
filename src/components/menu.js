@@ -57,8 +57,39 @@ const ItemList = styled.ul`
 `;
 
 const destinationNames = {
+  'airolo': 'Airolo',
+  'alpstein': 'Alpstein',
+  'alvier': 'Alvier',
+  'andermatt': 'Andermatt',
+  'arlberg': 'Arlberg',
+  'brandnertal': 'Brandnertal',
+  'boedele': 'Bödele',
+  'damuels': 'Damüls',
   'davos': 'Davos',
-  'malbun': 'Malbun'
+  'disentis': 'Disentis',
+  'flumserberg': 'Flumserberg',
+  'fronalpstock': 'Fronalpstock',
+  'gargellen': 'Gargellen',
+  'grasgehren': 'Grasgehren',
+  'hohekugel': 'Hohe Kugel',
+  'hoher-freschen': 'Hoher Freschen',
+  'ischgl': 'Ischgl',
+  'kaunertal': 'Kaunertal',
+  'laax': 'Laax',
+  'laterns': 'Laterns',
+  'lenzerheide': 'Lenzerheide-Arosa',
+  'malbun': 'Malbun',
+  'montafon': 'Silvretta-Montafon',
+  'murgseen': 'Murgseen',
+  'obersaxen': 'Obersaxen-Mundaun',
+  'pizol': 'Pizol',
+  'sankt-moritz': 'St. Moritz',
+  'savognin': 'Savognin',
+  'serfaus-fiss-ladis': 'Serfaus-Fiss-Ladis',
+  'speer': 'Speer',
+  'sulzfluh': 'Sulzfluh',
+  'titlis': 'Titlis',
+  'toggenburg': 'Toggenburg'
 };
 
 class Menu extends React.Component {
@@ -133,7 +164,7 @@ class Menu extends React.Component {
   createAlpineItem(report) {
     return {
       id: report.date,
-      name: `${formatDate(report.date)} - ${report.title}`,
+      name: `${formatDate(report.date)} - ${report.shortTitle}`,
       path: `/alpine/${report.destination}/${report.date}`
     }
   }
@@ -170,7 +201,59 @@ class Menu extends React.Component {
         name: 'Start',
         path: '/'
       },
-      this.createAlpine(reports)
+      this.createAlpine(reports),
+      {
+        id: 'photos',
+        name: 'Photolabor',
+        path: '/photos'
+      },
+      {
+        id: 'games',
+        name: 'Spielzimmer',
+        items: [
+          {
+            id: 'schiffbruch',
+            name: 'Schiffbruch',
+            path: '/games/schiffbruch'
+          },
+          {
+            id: 'cannonhill',
+            name: 'Cannonhill',
+            path: '/games/cannonhill'
+          },
+          {
+            id: 'modracer',
+            name: 'Modracer',
+            path: '/games/modracer'
+          },
+          {
+            id: 'ancient',
+            name: 'Antike Spiele',
+            path: '/games/ancient'
+          }
+        ]
+      },
+      {
+        id: 'tools',
+        name: 'Werkzeugschuppen',
+        items: [
+          {
+            id: 'scapemaker',
+            name: 'ScapeMaker',
+            path: '/tools/scapemaker'
+          },
+          {
+            id: 'kensentme',
+            name: 'KenSentMe',
+            path: '/tools/kensentme'
+          }
+        ]
+      },
+      {
+        id: 'impressum',
+        name: 'Impressum',
+        path: '/impressum'
+      }
     ]
   }
 
@@ -191,7 +274,7 @@ Menu.propTypes = {
   reports: PropTypes.arrayOf(PropTypes.shape({
     destination: PropTypes.string.isRequired,
     date: PropTypes.string.isRequired,
-    title: PropTypes.string.isRequired
+    shortTitle: PropTypes.string.isRequired
   })),
   currentPath: PropTypes.string.isRequired
 };

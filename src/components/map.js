@@ -1,6 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types';
 import styled from 'styled-components'
+import Script from 'react-load-script'
 import resizeIcon from '../icons/resize.svg'
 import mapIcon from '../icons/map.svg'
 
@@ -131,16 +132,10 @@ class Map extends React.Component {
     }
   }
 
-  componentDidMount() {
+  initCesium() {
     window.CESIUM_BASE_URL = __PATH_PREFIX__ + '/Cesium';
-    const script = document.createElement('script');
-    script.onload = () => {
-      this.Cesium = window.Cesium;
-      this.loadTrack().then(this.setupMap.bind(this));
-    };
-    script.src = __PATH_PREFIX__ + '/Cesium/Cesium.js';
-    script.async = true;
-    document.body.appendChild(script);
+    this.Cesium = window.Cesium;
+    this.loadTrack().then(this.setupMap.bind(this));
   }
 
   changeSize() {
@@ -328,6 +323,7 @@ class Map extends React.Component {
         <CesiumContainer id="cesiumContainer" className={this.state.size + ' ' + this.state.mapStatus} />
         <ResizeIcon onClick={this.changeSize.bind(this)} id="resizeIcon" className={this.state.size} src={resizeIcon} />
         <MapIcon onClick={this.changeSize.bind(this)} id="mapIcon" className={this.state.size} src={mapIcon} />
+        <Script url={__PATH_PREFIX__ + '/Cesium/Cesium.js'} onLoad={this.initCesium.bind(this)} />
       </div>
     );
   }

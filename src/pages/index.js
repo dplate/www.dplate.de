@@ -1,7 +1,9 @@
 import React from 'react'
+import { Helmet } from 'react-helmet';
 import Link from 'gatsby-link'
 import styled from 'styled-components'
 import formatDate from '../utils/formatDate'
+import {cardStyle} from '../styles/basestyle.js'
 
 const FlexContainer = styled.div`
   display: flex;
@@ -10,32 +12,23 @@ const FlexContainer = styled.div`
 `;
 
 const FlexCard = styled.div`
-  background-color: white;
+  ${cardStyle}
   flex-basis: 300px;
-  margin: 16px;
-  padding: 16px;
-  border-radius: 5px;
-  box-shadow: 0 4px 4px 0 rgba(0,0,0,1), 0 1px 5px 0 rgba(0,0,0,1), 0 3px 1px -2px rgba(0,0,0,1);
   a {
     display: block;
   }
 `;
 
 const Title = styled.div`
-  display:block;
-  background-color: white;
-  margin: 16px;
-  padding: 16px;
+  ${cardStyle}
   max-width: 664px;
-  border-radius: 5px;
-  box-shadow: 0 4px 4px 0 rgba(0,0,0,1), 0 1px 5px 0 rgba(0,0,0,1), 0 3px 1px -2px rgba(0,0,0,1);
 `;
 
 const renderReportLink = (report) => {
   const path = `/alpine/${report.node.destination}/${report.node.date}`;
   return (
     <Link key={path} to={path}>
-      ${formatDate(report.node.date)} - {report.node.title}
+      {formatDate(report.node.date)} - {report.node.title}
     </Link>
   )
 };
@@ -43,6 +36,7 @@ const renderReportLink = (report) => {
 export default (props) => {
   return (
     <div>
+      <Helmet><title>www.dplate.de</title></Helmet>
       <Title>
         <h1>Herzlich willkommen</h1>
         <p>Hier findest Du ein wildes Sammelsurium von allem, was ich für veröffentlichbar halte.</p>

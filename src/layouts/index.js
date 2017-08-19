@@ -111,12 +111,12 @@ export default Layout;
 
 export const layoutQuery = graphql`
   query AllReports{
-   allReportJson(filter:{}, sort:{fields:[destination, date], order:DESC }) {
+   allReportJson(filter:{}, sort:{fields:[destination, date], order:ASC }) {
      edges {
        node {
          destination, 
          date, 
-         title
+         shortTitle
        }
      }
    }

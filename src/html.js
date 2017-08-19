@@ -16,7 +16,7 @@ export default (props) => {
   return (
     <html lang="de-de">
       <head>
-        <meta charset="utf-8" />
+        <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1, user-scalable=yes" />
         <link rel="icon" href={__PATH_PREFIX__ + '/icons/favicon.ico'} />
         <link rel="manifest" href={__PATH_PREFIX__ + '/manifest.json'} />
