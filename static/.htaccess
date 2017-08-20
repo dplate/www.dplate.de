@@ -5,8 +5,11 @@ Options +MultiViews
 DirectorySlash Off
 
 RewriteBase /
+RewriteRule ^(.*)/$ /$1 [L,R=301]
+
 RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI}/index.html -f
 RewriteRule ^(.*)$ /$1/index.html [L]
+
 RewriteRule ^photos/(.*)/.*_(.*)\.jpg$ photos/$1/$2.jpg
 
 ErrorDocument 404 /404

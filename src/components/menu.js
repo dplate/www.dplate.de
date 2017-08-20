@@ -8,7 +8,7 @@ const Background = styled.div`
   position: fixed;
   z-index: 3;
   top: 0px;
-  left: 300px;
+  left: 250px;
   height: 100%;
   width: 100%;
   background-color: black;
@@ -23,7 +23,7 @@ const MenuLayer = styled.div`
   top: 0px;
   left: 0px;
   height: 100%;
-  width: 300px;
+  width: 250px;
   background-color: #9EC1A3;
   overflow: auto;
 `;
@@ -54,6 +54,11 @@ const ItemList = styled.ul`
       font-weight: bold;
     }
   }
+`;
+
+const ItemDate = styled.div`
+  font-style: italic;
+  font-size: 12px;
 `;
 
 const destinationNames = {
@@ -164,7 +169,7 @@ class Menu extends React.Component {
   createAlpineItem(report) {
     return {
       id: report.date,
-      name: `${formatDate(report.date)} - ${report.shortTitle}`,
+      name: <div>{report.shortTitle}<ItemDate>{formatDate(report.date)}</ItemDate></div>,
       path: `/alpine/${report.destination}/${report.date}`
     }
   }
@@ -187,10 +192,16 @@ class Menu extends React.Component {
   }
 
   createAlpine(reports) {
+    const sortedReports = reports.sort((a, b) => {
+      if (a.destination !== b.destination) {
+        return a.destination.localeCompare(b.destination);
+      }
+      return b.date.localeCompare(a.date);
+    });
     return {
       id: 'alpine',
       name: 'Alpinfunk',
-      items: this.createAlpineItems(reports)
+      items: this.createAlpineItems(sortedReports)
     }
   }
 
@@ -203,9 +214,9 @@ class Menu extends React.Component {
       },
       this.createAlpine(reports),
       {
-        id: 'photos',
+        id: 'showcase',
         name: 'Photolabor',
-        path: '/photos'
+        path: '/showcase'
       },
       {
         id: 'games',

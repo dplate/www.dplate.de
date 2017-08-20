@@ -55,7 +55,7 @@ export default (props) => {
         <FlexCard>
           <h2>Fotolabor</h2>
           <p>Eine Auswahl meiner besten Fotos.</p>
-          <Link to="/photos">Anschauen</Link>
+          <Link to="/showcase">Anschauen</Link>
         </FlexCard>
 
         <FlexCard>

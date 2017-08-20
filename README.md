@@ -19,7 +19,7 @@ routing for the app:
 
 ### Build
 
-Collects the required `fragments` and call `polymer build`:
+Builds the page into the `public` folder:
 
     node --max-old-space-size=8192 node_modules/gatsby/dist/gatsby-cli.js build
     

@@ -56,12 +56,10 @@ export default () => {
       <Card>
         <h2>Weitere Links</h2>
         <h3>Mobile Ports von Johannes Tscholl</h3>
-        <p>
-          <ul>
-            <li><a href="https://play.google.com/store/apps/details?id=com.johannestscholl.schiffbruch&hl=de">Android</a></li>
-            <li><a href="https://itunes.apple.com/de/app/schiffbruch/id1034225507?mt=8">IOS</a></li>
-          </ul>
-        </p>
+        <ul>
+          <li><a href="https://play.google.com/store/apps/details?id=com.johannestscholl.schiffbruch&hl=de">Android</a></li>
+          <li><a href="https://itunes.apple.com/de/app/schiffbruch/id1034225507?mt=8">IOS</a></li>
+        </ul>
         <h3>Modernisierter Sourcecode von Lukas Dürrenberger</h3>
         <p><a href="https://github.com/eXpl0it3r/Schiffbruch">Github</a></p>
       </Card>

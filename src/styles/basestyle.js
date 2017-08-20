@@ -19,6 +19,7 @@ export const cardStyle = css`
 
   h2 {
     font-size: 18px;
+    line-height: 2;
   }
 
   h3 {
@@ -28,6 +29,10 @@ export const cardStyle = css`
   
   ul {
     padding-left: 20px;
+  }
+  
+  p {
+    margin-bottom: 8px;
   }
 `;
 
