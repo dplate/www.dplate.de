@@ -1,239 +1,574 @@
-[{
-  "destination": "davos",
-  "date": "20170801",
-  "track": true,
-  "shortTitle": "Schwarzhorn",
-  "title": "Flüela-Schwarzhorn",
-  "intro": "Der schneearme Winter und warme Frühling haben den meisten Schnee in den Alpen dieses Jahr schon sehr früh weggeschmolzen. Um der Hitze zu entgehen habe ich mir deshalb am Schweizer Nationalfeiertag eine Wanderung auf das 3100m hohe Schwarzhorn direkt neben dem Flüelapass vorgenommen.<br />Für Graubünden war eine heißer Sommertag mit Föhnsturm angesagt. Dieser machte sich bereits bei der Anfahrt im Rheintal mit 29° um 6:30 bemerkbar! Bei angenehmeren 14° stellte ich mein Auto um 7:30 an Flüelapassstraße an der Haltestelle \"Abzweigung Schwarzhorn\" auf 2300m ab.",
-  "landmarks": [
-    {
-      "photos": [ "flüelapass_001" ],
-      "text": "Ich wählte als Hinweg den direkten Aufstieg auf das Schwarzhorn. Zuerst ging es am Hang neben der Straße zu einem seitlichem Hochtal bergauf, das sich Radönt nennt.<br />Überraschenderweise kamen mir viele Wanderer trotz der frühen Stunde entgegen. Wie sich herausstellte waren sie zum Sonnenaufgang auf dem Schwarzhorn gewesen."
-    },
-    {
-      "photos": [ "radönt_002" ],
-      "text": "Das Hochtal Radönt war schnell erreicht und der Weg führt gleichmäßig ansteigend an dessen Rand hinauf. Das nächste Ziel war der Grat, der hier durch das kleine Schneefeld markiert ist."
-    },
-    {
-      "photos": [ "klatschnelke_003" ],
-      "text": "Blick zurück mit einer Klatschnelke im Vordergrund."
-    },
-    {
-      "photos": [ "serpentinen_004" ],
-      "text": "Am Ende des Hochtals ging es in (flachen) Serpentinen die letzten Grashänge hinauf."
-    },
-    {
-      "photos": [ "schwarzhorn_005" ],
-      "text": "Erster richtiger Blick zum Schwarzhorn (rechts). Zuerst ging es aber zum Pass links, um dann über den Grat aufzusteigen."
-    },
-    {
-      "photos": [ "radönt_006" ],
-      "text": "Die Grasgrenze war nun überschritten. Hier der Blick zurück auf das Hochtal Radönt und der Flüelapassstraße im Hintergrund."
-    },
-    {
-      "photos": [ "schwarzhornfurgga_007" ],
-      "text": "Noch 80m unterhalb des Passes befindet sich eine Abzweigung Richtung Fuorcla Radönt, wohin ich nach dem Abstieg vom Schwarzhorn abbiegen werde. D.h. bis hier musste ich wieder auf gleichem Weg zurück."
-    },
-    {
-      "photos": [ "dischmatal_008" ],
-      "text": "Den fast 2900m hohen Pass Schwarzhornfurgga erreichte ich bereits gegen 9:00. Hier wehte ein stürmischer Wind, so dass ich eine Jacke über das T-Shirt zog und etwas unterhalb windgeschützt die erste Pause machte.<br />Der Blick geht hier nach Westen in das Dischmatal (1000m tiefer)."
-    },
-    {
-      "photos": [ "piz-kesch_009" ],
-      "text": "Tele nach Süden, ganz rechts das Chüealphorn, daneben der Piz Kesch und ganz hinten die 4000m hohe Berninagruppe."
-    },
-    {
-      "photos": [ "felsenweg_010" ],
-      "text": "Direkt nach dem Pass wurde der Weg zuerst etwas steiler und überwindet eine Felsstufe - aber alles ziemlich harmlos. Nur der starke Sturm brachte mich manchmal etwas aus dem Gleichgewicht."
-    },
-    {
-      "photos": [ "hochgebirge_011" ],
-      "text": "Danach wird es dann aber wieder flacher und der Weg führt sehr gut ausgebaut über ein Geröllfeld. Hier der Blick zurück."
-    },
-    {
-      "photos": [ "geröllhang_012" ],
-      "text": "Und so überraschend harmlos und breit war der Grat. Der Weg ist auch recht flach angelegt, so dass man ohne große Anstrengung voran kommt."
-    },
-    {
-      "photos": [ "dischmatal_013" ],
-      "text": "Auf beiden Seiten des Grats geht es aber durchaus weit und steil bergab, hier noch einmal der Blick zum Dischmatal."
-    },
-    {
-      "photos": [ "unterengadin_014" ],
-      "text": "Und auf der anderen Seite den Flüelapass hinab ins dunstige Unterengadin."
-    },
-    {
-      "photos": [ "piz-kesch_015" ],
-      "text": "Tele zum Piz Kesch."
-    },
-    {
-      "photos": [ "piz-radönt_016" ],
-      "text": "Fast oben das Panorama nach Süden. Jetzt tauchte der Grialetschgletscher hinter dem dunklen Piz Radönt auf. Der wird später noch relevant."
-    },
-    {
-      "photos": [ "gipfelkreuz_017" ],
-      "text": "Das Gipfelkreuz des Schwarzhorns erreichte ich um 9:30 nach nur 2h Aufstieg. Der Berg fällt steil zum Flüelapass ab, der hier hinter dem Kreuz zu sehen ist. Der Gipfel ist recht breit und flach - ich war aber ohnehin alleine dort oben."
-    },
-    {
-      "photos": [ "dischmatal_018", "davos_019" ],
-      "text": "Blick vom Schwarzhorn nach Davos. Dahinter das Weißhorn."
-    },
-    {
-      "photos": [ "panorama-schwarzhorn_020" ],
-      "text": "Noch einmal das Panorama vom Schwarzhorn nach Süden"
-    },
-    {
-      "photos": [ "berninagruppe_021" ],
-      "text": "Stark nachbearbeitetes Bild von der Berninagruppe. Es war leider alles etwas dunstig, so dass die weiter entfernten Berge nicht gut sichtbar waren."
-    },
-    {
-      "photos": [ "flüelapass_022", "flüelapass_023", "flüelapass_024" ],
-      "text": "Verschiedene Aufnahmen vom Schwarzhorn runter zum 800m tieferen, aber nur 2km entfernten Flüelapass."
-    },
-    {
-      "photos": [ "dürrboden_025" ],
-      "text": "Nach einer Pause machte mich schon bald wieder auf den Abstieg auf dem gleichen Weg. Hier der steile Blick runter ins Dischmatal zur Alp Dürrboden, die im Sommer mit Auto und Bus erreichbar und auch als Ausgangspunkt für Wanderungen geeignet ist. "
-    },
-    {
-      "photos": [ "bergweg_026" ],
-      "text": "Der Wanderweg auf das Schwarzhorn ist so gut ausgebaut, dass ich bergab sehr flott unterwegs war. Eigentlich schade, wenn man den schönen Gipfel so schnell wieder hinter sich lässt."
-    },
-    {
-      "photos": [ "schwarzhornfurgga_027" ],
-      "text": "Und natürlich musste auch wieder das Steilstück vor der Schwarzhornfurgga überwunden werden. Jetzt kamen mir auch einige Wanderer entgegen."
-    },
-    {
-      "photos": [ "radöntgletscher_028" ],
-      "text": "Um 10:00 erreichte ich die Abzweigung und ich bog zur Fuorcla Radönt ab. Das ist der Pass, der hier links von der Mitte zu sehen ist.<br />Der Weg führte nun also durch dieses riesige Geröllfeld an dem kleinen See und den kläglichen Resten des Radöntgletschers vorbei. "
-    },
-    {
-      "photos": [ "schwarzhorn_029" ],
-      "text": "Blick zurück zum Schwarzhorn, das von dieser Seite gar nicht so schwarz ist."
-    },
-    {
-      "photos": [ "fuorcla-radönt_030" ],
-      "text": "Der namenlose See und die Fuorcla Radönt im Hintergund."
-    },
-    {
-      "photos": [ "bergsee_031" ],
-      "text": "Panorama am See. Links das Schwarzhorn und in der Mitte würde es zum Flüelapass hinab gehen."
-    },
-    {
-      "photos": [ "schwarzhorn_032" ],
-      "text": "Noch einmal das Schwarzhorn vom See aus gesehen."
-    },
-    {
-      "photos": [ "radöntgletscher_033" ],
-      "text": "Danach wurde der Weg etwas mühseliger. Zum einen, da es nun zur Fuorcla Radönt bergauf ging, zum anderen wurde das Geröll gröber und man musste weglos von einer Markierung zur nächsten finden. Hier der Blick zurück über die durchwanderte Landschaft. Links der Piz Radönt, rechts mal wieder das Schwarzhorn."
-    },
-    {
-      "photos": [ "piz-radönt_034" ],
-      "text": "Piz Radönt, auf den kein Weg führt."
-    },
-    {
-      "photos": [ "schwarzhorn_035" ],
-      "text": "Etwas unterhalb der Fuorcla Radönt erreichte ich den Hauptweg vom Flüelapass zur Fuorcla Radönt. Von hier direkt zur Passtraße wäre es auch nur rund 1h."
-    },
-    {
-      "photos": [ "fuorcla-radönt_036" ],
-      "text": "Die 2800m hohe Fuorcla Radönt erreichte ich um 11:00. Als Backup falls das Wetter schlechter geworden wäre oder es schon später gewesen wäre, hätte ich von hier den direkten Rückweg genommen. Da beides aber nicht der Fall war, beschloss ich noch zur Grialetschhütte zu gehen."
-    },
-    {
-      "photos": [ "grialetschgletscher_037" ],
-      "text": "Blick von der Fuorcla Radönt zum Grialetschgletscher. Die Grialetschhütte befindet sich ganz rechts. D.h. für mich ging es nun immer rechts am Hang entlang."
-    },
-    {
-      "photos": [ "felssturz_038", "felssturz_039" ],
-      "text": "In der Theorie (auf der Karte) sah der Weg eigentlich recht einfach aus, aber er führt durch zwei große Felsstürze. Die Wegzeichen geben dabei nur grob die Richtung vor und es war zum Teil nicht einfach, einen vernünftigen Weg zwischen den mannshohen Felsen zu finden. Ohne Hilfe der Hände kommt man da auf jeden Fall nicht durch."
-    },
-    {
-      "photos": [ "grialetschtal_040" ],
-      "text": "Zwischen den beiden Felsstürzen hatte ich kurz Gelegenheit zum Ausruhen und konnte den Blick über das Grialetschtal genießen."
-    },
-    {
-      "photos": [ "chüealphorn_041", "piz-grialetsch_042" ],
-      "text": "Nach 45min hatte ich es aber endgültig geschafft. Hier noch einmal der Blick zum Chüealphorn."
-    },
-    {
-      "photos": [ "bergblumen_043" ],
-      "text": "Nach dem ganzen Fels fällt natürlich jede noch so kleine Blume auf."
-    },
-    {
-      "photos": [ "grialetschhütte_044" ],
-      "text": "Blick auf den Grialetschgletscher und die Grialetschhütte. Zu dieser ging es nun 200 Höhenmeter bergab."
-    },
-    {
-      "photos": [ "grialetschhütte_045", "grialetschhütte_046", "grialetschhütte_047" ],
-      "text": "Die Grialetschhütte aus verschiedenen Perspektiven während des steilen Abstiegs. Zum Glück musste ich nicht hochsteigen. ;)"
-    },
-    {
-      "photos": [ "alpensee_048" ],
-      "text": "Einer der beiden kleinen Seen an der Hütte, die zur Wasserversorgung dienen."
-    },
-    {
-      "photos": [ "grialetschhütte_049", "grialetschhütte_050" ],
-      "text": "Grialetschhütte mit gleichnamigen Gletscher. Man kann sich vorstellen, dass dieser Gletscher vor einigen Jahrzehnten sicher viel beeindruckender war. Jetzt sah er eher etwas traurig aus."
-    },
-    {
-      "photos": [ "grialetschhütte_051" ],
-      "text": "Grialetschhütte. Ich verzichtete auf eine Einkehr, da ich noch genug Getränke mit mir rumschleppte. Die Hütte ist von Dürrboden im Dischmatal einfach und schnell in einer guten Stunde zu erreichen.<br />Ich erreichte sie um 12:00."
-    },
-    {
-      "photos": [ "grialetschgletscher_052", "wollgrass_053" ],
-      "text": "Grialetschgletscher ohne und mit Wollgras."
-    },
-    {
-      "photos": [ "hangweg_054" ],
-      "text": "Ich ging nun parallel zum Hinweg wieder am Hang zurück, nur rund 200m tiefer. Hier der Blick zurück. Dieser weg war nun wieder deutlich besser ausgebaut und einfach zu gehen."
-    },
-    {
-      "photos": [ "wanderweg_055" ],
-      "text": "Schöner Wanderweg entlang des Hangs. Es ging aber auch immer etwas hoch und runter."
-    },
-    {
-      "photos": [ "wegweiser_056" ],
-      "text": "Unterhalb der Fuorcla Radönt erreicht man eine Abzweigung, man könnte also auch von hier zum Pass gelangen. Von oben her hatte ich gar keinen Wegweiser hier runter gesehen."
-    },
-    {
-      "photos": [ "grialetschtal_057", "grialetschtal_058" ],
-      "text": "Das Grialetschtal bergab und bergauf."
-    },
-    {
-      "photos": [ "grialetschtal_059" ],
-      "text": "Um 13:30 hatte ich fast das Ende des Grialetschtals erreicht."
-    },
-    {
-      "photos": [ "grialetschgletscher_060" ],
-      "text": "Noch ein letzter Blick zurück zum Grialetschgletscher."
-    },
-    {
-      "photos": [ "unterengadin_061", "flussüberquerung_062" ],
-      "text": "Bevor ich aber in das Flüelapasstal abbog, ging es erst noch mal runter, um einen kleinen Fluss zu überqueren."
-    },
-    {
-      "photos": [ "kaulquappe_063" ],
-      "text": "Außerdem gab es dort einen kleine See, der zur Pause und (trotz Riesenkaulquappen) zum Abkühlen der Füße einlud."
-    },
-    {
-      "photos": [ "moos-mit-bach_064", "flüela-wisshorn_065" ],
-      "text": "Direkt nach dem See verlässt man das Grialetschtal und es ging über eine Wiese samt kleinem Bach bergab. Es war sehr angenehm über das weiche Gras runterzulaufen."
-    },
-    {
-      "photos": [ "flüelapassstraße_066" ],
-      "text": "Blick vom Grashang hinunter zur Passstraße. Links das Schwarzhorn (das von hier doch wieder schwarz war). Ich musste leider etwas weiter absteigen, als mein Auto parkte. Wenn ich gewusst hätte, dass ich die größere Runde laufe, hätte ich eher etwas tiefer geparkt."
-    },
-    {
-      "photos": [ "serpentine_067" ],
-      "text": "Auf der Flüelapassstraße war nun deutlich mehr Verkehr als am Morgen. Die Motorräder sorgten für eine entsprechende Geräuschkulisse."
-    },
-    {
-      "photos": [ "wasserfall_068" ],
-      "text": "Und dieser Wasserfall aus dem Radönt war der Grund, warum der Weg unnötig weit nach unten führen musste."
-    },
-    {
-      "photos": [ "flüelapassstraße_069" ],
-      "text": "Das letzte Stück ging es dann entlang der Straße wieder bergauf. Von der kleinen Grasnase in der Mitte des Bilds kam ich herunter.<br />Das Auto erreichte ich um 15:00, auf der Rückfahrt im Rheintal dann 37° bei starkem Föhnsturm."
-    }
-  ],
-  "outro": "Fazit: Das Schwarzhorn ist ein sehr einfacherer Gipfel und für jeden Wanderer, der gerne mal einen 3000er erklimmen will, kein Problem. Nur das Schwarzhorn lastet einen aber nur bedingt aus und die Zusatzrunde über die Grialetschhütte ist schon deutlich weiter. Abgesehen vom Kraxeln über die Felsstürze war es aber alles einfach zu gehen.<br />Und die Landschaft soweit oben ist auf jeden Fall beeindruckend. Es gibt aber nur wenige Wochen im Jahr, wo einerseits das Wetter stabil genug ist und auf 3000m kein Schnee liegt.<br />Ich habe für die 16km und 1300 Höhenmeter mit Pausen 7,5h gebraucht."
-}]
+[
+  {
+    "destination": "davos",
+    "date": "20170801",
+    "track": true,
+    "shortTitle": "Schwarzhorn",
+    "title": "Flüela-Schwarzhorn",
+    "intro": "Der schneearme Winter und warme Frühling haben den meisten Schnee in den Alpen dieses Jahr schon sehr früh weggeschmolzen. Um der Hitze zu entgehen habe ich mir deshalb am Schweizer Nationalfeiertag eine Wanderung auf das 3100m hohe Schwarzhorn direkt neben dem Flüelapass vorgenommen.<br />Für Graubünden war eine heißer Sommertag mit Föhnsturm angesagt. Dieser machte sich bereits bei der Anfahrt im Rheintal mit 29° um 6:30 bemerkbar! Bei angenehmeren 14° stellte ich mein Auto um 7:30 an Flüelapassstraße an der Haltestelle \"Abzweigung Schwarzhorn\" auf 2300m ab.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Flüelapass"
+          }
+        ],
+        "text": "Ich wählte als Hinweg den direkten Aufstieg auf das Schwarzhorn. Zuerst ging es am Hang neben der Straße zu einem seitlichem Hochtal bergauf, das sich Radönt nennt.<br />Überraschenderweise kamen mir viele Wanderer trotz der frühen Stunde entgegen. Wie sich herausstellte waren sie zum Sonnenaufgang auf dem Schwarzhorn gewesen."
+      },
+      {
+        "photos": [
+          {
+            "name": "002",
+            "alt": "Radönt"
+          }
+        ],
+        "text": "Das Hochtal Radönt war schnell erreicht und der Weg führt gleichmäßig ansteigend an dessen Rand hinauf. Das nächste Ziel war der Grat, der hier durch das kleine Schneefeld markiert ist."
+      },
+      {
+        "photos": [
+          {
+            "name": "003",
+            "alt": "Klatschnelke"
+          }
+        ],
+        "text": "Blick zurück mit einer Klatschnelke im Vordergrund."
+      },
+      {
+        "photos": [
+          {
+            "name": "004",
+            "alt": "Serpentinen"
+          }
+        ],
+        "text": "Am Ende des Hochtals ging es in (flachen) Serpentinen die letzten Grashänge hinauf."
+      },
+      {
+        "photos": [
+          {
+            "name": "005",
+            "alt": "Schwarzhorn"
+          }
+        ],
+        "text": "Erster richtiger Blick zum Schwarzhorn (rechts). Zuerst ging es aber zum Pass links, um dann über den Grat aufzusteigen."
+      },
+      {
+        "photos": [
+          {
+            "name": "006",
+            "alt": "Radönt"
+          }
+        ],
+        "text": "Die Grasgrenze war nun überschritten. Hier der Blick zurück auf das Hochtal Radönt und der Flüelapassstraße im Hintergrund."
+      },
+      {
+        "photos": [
+          {
+            "name": "007",
+            "alt": "Schwarzhornfurgga"
+          }
+        ],
+        "text": "Noch 80m unterhalb des Passes befindet sich eine Abzweigung Richtung Fuorcla Radönt, wohin ich nach dem Abstieg vom Schwarzhorn abbiegen werde. D.h. bis hier musste ich wieder auf gleichem Weg zurück."
+      },
+      {
+        "photos": [
+          {
+            "name": "008",
+            "alt": "Dischmatal"
+          }
+        ],
+        "text": "Den fast 2900m hohen Pass Schwarzhornfurgga erreichte ich bereits gegen 9:00. Hier wehte ein stürmischer Wind, so dass ich eine Jacke über das T-Shirt zog und etwas unterhalb windgeschützt die erste Pause machte.<br />Der Blick geht hier nach Westen in das Dischmatal (1000m tiefer)."
+      },
+      {
+        "photos": [
+          {
+            "name": "009",
+            "alt": "Piz Kesch"
+          }
+        ],
+        "text": "Tele nach Süden, ganz rechts das Chüealphorn, daneben der Piz Kesch und ganz hinten die 4000m hohe Berninagruppe."
+      },
+      {
+        "photos": [
+          {
+            "name": "010",
+            "alt": "Felsenweg"
+          }
+        ],
+        "text": "Direkt nach dem Pass wurde der Weg zuerst etwas steiler und überwindet eine Felsstufe - aber alles ziemlich harmlos. Nur der starke Sturm brachte mich manchmal etwas aus dem Gleichgewicht."
+      },
+      {
+        "photos": [
+          {
+            "name": "011",
+            "alt": "Hochgebirge"
+          }
+        ],
+        "text": "Danach wird es dann aber wieder flacher und der Weg führt sehr gut ausgebaut über ein Geröllfeld. Hier der Blick zurück."
+      },
+      {
+        "photos": [
+          {
+            "name": "012",
+            "alt": "Geröllhang"
+          }
+        ],
+        "text": "Und so überraschend harmlos und breit war der Grat. Der Weg ist auch recht flach angelegt, so dass man ohne große Anstrengung voran kommt."
+      },
+      {
+        "photos": [
+          {
+            "name": "013",
+            "alt": "Dischmatal"
+          }
+        ],
+        "text": "Auf beiden Seiten des Grats geht es aber durchaus weit und steil bergab, hier noch einmal der Blick zum Dischmatal."
+      },
+      {
+        "photos": [
+          {
+            "name": "014",
+            "alt": "Unterengadin"
+          }
+        ],
+        "text": "Und auf der anderen Seite den Flüelapass hinab ins dunstige Unterengadin."
+      },
+      {
+        "photos": [
+          {
+            "name": "015",
+            "alt": "Piz Kesch"
+          }
+        ],
+        "text": "Tele zum Piz Kesch."
+      },
+      {
+        "photos": [
+          {
+            "name": "016",
+            "alt": "Piz Radönt"
+          }
+        ],
+        "text": "Fast oben das Panorama nach Süden. Jetzt tauchte der Grialetschgletscher hinter dem dunklen Piz Radönt auf. Der wird später noch relevant."
+      },
+      {
+        "photos": [
+          {
+            "name": "017",
+            "alt": "Gipfelkreuz"
+          }
+        ],
+        "text": "Das Gipfelkreuz des Schwarzhorns erreichte ich um 9:30 nach nur 2h Aufstieg. Der Berg fällt steil zum Flüelapass ab, der hier hinter dem Kreuz zu sehen ist. Der Gipfel ist recht breit und flach - ich war aber ohnehin alleine dort oben."
+      },
+      {
+        "photos": [
+          {
+            "name": "018",
+            "alt": "Dischmatal"
+          },
+          {
+            "name": "019",
+            "alt": "Davos"
+          }
+        ],
+        "text": "Blick vom Schwarzhorn nach Davos. Dahinter das Weißhorn."
+      },
+      {
+        "photos": [
+          {
+            "name": "020",
+            "alt": "Panorama Schwarzhorn"
+          }
+        ],
+        "text": "Noch einmal das Panorama vom Schwarzhorn nach Süden"
+      },
+      {
+        "photos": [
+          {
+            "name": "021",
+            "alt": "Berninagruppe"
+          }
+        ],
+        "text": "Stark nachbearbeitetes Bild von der Berninagruppe. Es war leider alles etwas dunstig, so dass die weiter entfernten Berge nicht gut sichtbar waren."
+      },
+      {
+        "photos": [
+          {
+            "name": "022",
+            "alt": "Flüelapass"
+          },
+          {
+            "name": "023",
+            "alt": "Flüelapass"
+          },
+          {
+            "name": "024",
+            "alt": "Flüelapass"
+          }
+        ],
+        "text": "Verschiedene Aufnahmen vom Schwarzhorn runter zum 800m tieferen, aber nur 2km entfernten Flüelapass."
+      },
+      {
+        "photos": [
+          {
+            "name": "025",
+            "alt": "Dürrboden"
+          }
+        ],
+        "text": "Nach einer Pause machte mich schon bald wieder auf den Abstieg auf dem gleichen Weg. Hier der steile Blick runter ins Dischmatal zur Alp Dürrboden, die im Sommer mit Auto und Bus erreichbar und auch als Ausgangspunkt für Wanderungen geeignet ist. "
+      },
+      {
+        "photos": [
+          {
+            "name": "026",
+            "alt": "Bergweg"
+          }
+        ],
+        "text": "Der Wanderweg auf das Schwarzhorn ist so gut ausgebaut, dass ich bergab sehr flott unterwegs war. Eigentlich schade, wenn man den schönen Gipfel so schnell wieder hinter sich lässt."
+      },
+      {
+        "photos": [
+          {
+            "name": "027",
+            "alt": "Schwarzhornfurgga"
+          }
+        ],
+        "text": "Und natürlich musste auch wieder das Steilstück vor der Schwarzhornfurgga überwunden werden. Jetzt kamen mir auch einige Wanderer entgegen."
+      },
+      {
+        "photos": [
+          {
+            "name": "028",
+            "alt": "Radöntgletscher"
+          }
+        ],
+        "text": "Um 10:00 erreichte ich die Abzweigung und ich bog zur Fuorcla Radönt ab. Das ist der Pass, der hier links von der Mitte zu sehen ist.<br />Der Weg führte nun also durch dieses riesige Geröllfeld an dem kleinen See und den kläglichen Resten des Radöntgletschers vorbei. "
+      },
+      {
+        "photos": [
+          {
+            "name": "029",
+            "alt": "Schwarzhorn"
+          }
+        ],
+        "text": "Blick zurück zum Schwarzhorn, das von dieser Seite gar nicht so schwarz ist."
+      },
+      {
+        "photos": [
+          {
+            "name": "030",
+            "alt": "Fuorcla Radönt"
+          }
+        ],
+        "text": "Der namenlose See und die Fuorcla Radönt im Hintergund."
+      },
+      {
+        "photos": [
+          {
+            "name": "031",
+            "alt": "Bergsee"
+          }
+        ],
+        "text": "Panorama am See. Links das Schwarzhorn und in der Mitte würde es zum Flüelapass hinab gehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "032",
+            "alt": "Schwarzhorn"
+          }
+        ],
+        "text": "Noch einmal das Schwarzhorn vom See aus gesehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "033",
+            "alt": "Radöntgletscher"
+          }
+        ],
+        "text": "Danach wurde der Weg etwas mühseliger. Zum einen, da es nun zur Fuorcla Radönt bergauf ging, zum anderen wurde das Geröll gröber und man musste weglos von einer Markierung zur nächsten finden. Hier der Blick zurück über die durchwanderte Landschaft. Links der Piz Radönt, rechts mal wieder das Schwarzhorn."
+      },
+      {
+        "photos": [
+          {
+            "name": "034",
+            "alt": "Piz Radönt"
+          }
+        ],
+        "text": "Piz Radönt, auf den kein Weg führt."
+      },
+      {
+        "photos": [
+          {
+            "name": "035",
+            "alt": "Schwarzhorn"
+          }
+        ],
+        "text": "Etwas unterhalb der Fuorcla Radönt erreichte ich den Hauptweg vom Flüelapass zur Fuorcla Radönt. Von hier direkt zur Passtraße wäre es auch nur rund 1h."
+      },
+      {
+        "photos": [
+          {
+            "name": "036",
+            "alt": "Fuorcla Radönt"
+          }
+        ],
+        "text": "Die 2800m hohe Fuorcla Radönt erreichte ich um 11:00. Als Backup falls das Wetter schlechter geworden wäre oder es schon später gewesen wäre, hätte ich von hier den direkten Rückweg genommen. Da beides aber nicht der Fall war, beschloss ich noch zur Grialetschhütte zu gehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "037",
+            "alt": "Grialetschgletscher"
+          }
+        ],
+        "text": "Blick von der Fuorcla Radönt zum Grialetschgletscher. Die Grialetschhütte befindet sich ganz rechts. D.h. für mich ging es nun immer rechts am Hang entlang."
+      },
+      {
+        "photos": [
+          {
+            "name": "038",
+            "alt": "Felssturz"
+          },
+          {
+            "name": "039",
+            "alt": "Felssturz"
+          }
+        ],
+        "text": "In der Theorie (auf der Karte) sah der Weg eigentlich recht einfach aus, aber er führt durch zwei große Felsstürze. Die Wegzeichen geben dabei nur grob die Richtung vor und es war zum Teil nicht einfach, einen vernünftigen Weg zwischen den mannshohen Felsen zu finden. Ohne Hilfe der Hände kommt man da auf jeden Fall nicht durch."
+      },
+      {
+        "photos": [
+          {
+            "name": "040",
+            "alt": "Grialetschtal"
+          }
+        ],
+        "text": "Zwischen den beiden Felsstürzen hatte ich kurz Gelegenheit zum Ausruhen und konnte den Blick über das Grialetschtal genießen."
+      },
+      {
+        "photos": [
+          {
+            "name": "041",
+            "alt": "Chüealphorn"
+          },
+          {
+            "name": "042",
+            "alt": "Piz Grialetsch"
+          }
+        ],
+        "text": "Nach 45min hatte ich es aber endgültig geschafft. Hier noch einmal der Blick zum Chüealphorn."
+      },
+      {
+        "photos": [
+          {
+            "name": "043",
+            "alt": "Bergblumen"
+          }
+        ],
+        "text": "Nach dem ganzen Fels fällt natürlich jede noch so kleine Blume auf."
+      },
+      {
+        "photos": [
+          {
+            "name": "044",
+            "alt": "Grialetschhütte"
+          }
+        ],
+        "text": "Blick auf den Grialetschgletscher und die Grialetschhütte. Zu dieser ging es nun 200 Höhenmeter bergab."
+      },
+      {
+        "photos": [
+          {
+            "name": "045",
+            "alt": "Grialetschhütte"
+          },
+          {
+            "name": "046",
+            "alt": "Grialetschhütte"
+          },
+          {
+            "name": "047",
+            "alt": "Grialetschhütte"
+          }
+        ],
+        "text": "Die Grialetschhütte aus verschiedenen Perspektiven während des steilen Abstiegs. Zum Glück musste ich nicht hochsteigen. ;)"
+      },
+      {
+        "photos": [
+          {
+            "name": "048",
+            "alt": "Alpensee"
+          }
+        ],
+        "text": "Einer der beiden kleinen Seen an der Hütte, die zur Wasserversorgung dienen."
+      },
+      {
+        "photos": [
+          {
+            "name": "049",
+            "alt": "Grialetschhütte"
+          },
+          {
+            "name": "050",
+            "alt": "Grialetschhütte"
+          }
+        ],
+        "text": "Grialetschhütte mit gleichnamigen Gletscher. Man kann sich vorstellen, dass dieser Gletscher vor einigen Jahrzehnten sicher viel beeindruckender war. Jetzt sah er eher etwas traurig aus."
+      },
+      {
+        "photos": [
+          {
+            "name": "051",
+            "alt": "Grialetschhütte"
+          }
+        ],
+        "text": "Grialetschhütte. Ich verzichtete auf eine Einkehr, da ich noch genug Getränke mit mir rumschleppte. Die Hütte ist von Dürrboden im Dischmatal einfach und schnell in einer guten Stunde zu erreichen.<br />Ich erreichte sie um 12:00."
+      },
+      {
+        "photos": [
+          {
+            "name": "052",
+            "alt": "Grialetschgletscher"
+          },
+          {
+            "name": "053",
+            "alt": "Wollgrass"
+          }
+        ],
+        "text": "Grialetschgletscher ohne und mit Wollgras."
+      },
+      {
+        "photos": [
+          {
+            "name": "054",
+            "alt": "Hangweg"
+          }
+        ],
+        "text": "Ich ging nun parallel zum Hinweg wieder am Hang zurück, nur rund 200m tiefer. Hier der Blick zurück. Dieser weg war nun wieder deutlich besser ausgebaut und einfach zu gehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "055",
+            "alt": "Wanderweg"
+          }
+        ],
+        "text": "Schöner Wanderweg entlang des Hangs. Es ging aber auch immer etwas hoch und runter."
+      },
+      {
+        "photos": [
+          {
+            "name": "056",
+            "alt": "Wegweiser"
+          }
+        ],
+        "text": "Unterhalb der Fuorcla Radönt erreicht man eine Abzweigung, man könnte also auch von hier zum Pass gelangen. Von oben her hatte ich gar keinen Wegweiser hier runter gesehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "057",
+            "alt": "Grialetschtal"
+          },
+          {
+            "name": "058",
+            "alt": "Grialetschtal"
+          }
+        ],
+        "text": "Das Grialetschtal bergab und bergauf."
+      },
+      {
+        "photos": [
+          {
+            "name": "059",
+            "alt": "Grialetschtal"
+          }
+        ],
+        "text": "Um 13:30 hatte ich fast das Ende des Grialetschtals erreicht."
+      },
+      {
+        "photos": [
+          {
+            "name": "060",
+            "alt": "Grialetschgletscher"
+          }
+        ],
+        "text": "Noch ein letzter Blick zurück zum Grialetschgletscher."
+      },
+      {
+        "photos": [
+          {
+            "name": "061",
+            "alt": "Unterengadin"
+          },
+          {
+            "name": "062",
+            "alt": "Flussüberquerung"
+          }
+        ],
+        "text": "Bevor ich aber in das Flüelapasstal abbog, ging es erst noch mal runter, um einen kleinen Fluss zu überqueren."
+      },
+      {
+        "photos": [
+          {
+            "name": "063",
+            "alt": "Kaulquappe"
+          }
+        ],
+        "text": "Außerdem gab es dort einen kleine See, der zur Pause und (trotz Riesenkaulquappen) zum Abkühlen der Füße einlud."
+      },
+      {
+        "photos": [
+          {
+            "name": "064",
+            "alt": "Moos mit Bach"
+          },
+          {
+            "name": "065",
+            "alt": "Flüela Wisshorn"
+          }
+        ],
+        "text": "Direkt nach dem See verlässt man das Grialetschtal und es ging über eine Wiese samt kleinem Bach bergab. Es war sehr angenehm über das weiche Gras runterzulaufen."
+      },
+      {
+        "photos": [
+          {
+            "name": "066",
+            "alt": "Flüelapassstraße"
+          }
+        ],
+        "text": "Blick vom Grashang hinunter zur Passstraße. Links das Schwarzhorn (das von hier doch wieder schwarz war). Ich musste leider etwas weiter absteigen, als mein Auto parkte. Wenn ich gewusst hätte, dass ich die größere Runde laufe, hätte ich eher etwas tiefer geparkt."
+      },
+      {
+        "photos": [
+          {
+            "name": "067",
+            "alt": "Serpentine"
+          }
+        ],
+        "text": "Auf der Flüelapassstraße war nun deutlich mehr Verkehr als am Morgen. Die Motorräder sorgten für eine entsprechende Geräuschkulisse."
+      },
+      {
+        "photos": [
+          {
+            "name": "068",
+            "alt": "Wasserfall"
+          }
+        ],
+        "text": "Und dieser Wasserfall aus dem Radönt war der Grund, warum der Weg unnötig weit nach unten führen musste."
+      },
+      {
+        "photos": [
+          {
+            "name": "069",
+            "alt": "Flüelapassstraße"
+          }
+        ],
+        "text": "Das letzte Stück ging es dann entlang der Straße wieder bergauf. Von der kleinen Grasnase in der Mitte des Bilds kam ich herunter.<br />Das Auto erreichte ich um 15:00, auf der Rückfahrt im Rheintal dann 37° bei starkem Föhnsturm."
+      }
+    ],
+    "outro": "Fazit: Das Schwarzhorn ist ein sehr einfacherer Gipfel und für jeden Wanderer, der gerne mal einen 3000er erklimmen will, kein Problem. Nur das Schwarzhorn lastet einen aber nur bedingt aus und die Zusatzrunde über die Grialetschhütte ist schon deutlich weiter. Abgesehen vom Kraxeln über die Felsstürze war es aber alles einfach zu gehen.<br />Und die Landschaft soweit oben ist auf jeden Fall beeindruckend. Es gibt aber nur wenige Wochen im Jahr, wo einerseits das Wetter stabil genug ist und auf 3000m kein Schnee liegt.<br />Ich habe für die 16km und 1300 Höhenmeter mit Pausen 7,5h gebraucht."
+  }
+]

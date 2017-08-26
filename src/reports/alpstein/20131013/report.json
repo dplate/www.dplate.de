@@ -9,199 +9,292 @@
     "landmarks": [
       {
         "photos": [
-          "herisau-mit-eisenbahnbrücke_KMICT1N"
+          {
+            "name": "KMICT1N",
+            "alt": "Herisau mit Eisenbahnbrücke"
+          }
         ],
         "videos": [],
         "text": "Auf der Hinfahrt in Herisau, einem etwas industriell angehauchtem Dorf mit dem Glatttalviadukt und im Hintergrund dem Säntis."
       },
       {
         "photos": [
-          "schwägalp-passtraße_HiwjHoU"
+          {
+            "name": "HiwjHoU",
+            "alt": "Schwägalp Passtraße"
+          }
         ],
         "videos": [],
         "text": "Weiter auf der ziemlich gut ausgebauten Straße hinauf zur Schwägalp."
       },
       {
         "photos": [
-          "schnee-auf-der-schwägalp_2HV8NCh"
+          {
+            "name": "2HV8NCh",
+            "alt": "Schnee auf der Schwägalp"
+          }
         ],
         "videos": [],
         "text": "Oben (1300m) angekommen lag ca. 10-15cm leicht angefrorener Schnee. Ich folgte dem schon gut ausgetrampelten Weg Richtung Chammhalde, einem großen Schuttkegel."
       },
       {
         "photos": [
-          "chammhalde-säntis_I17lxvV"
+          {
+            "name": "I17lxvV",
+            "alt": "Chammhalde Säntis"
+          }
         ],
         "videos": [],
         "text": "Hier bereits an der Chammhalde, Blick zurück Richtung Säntis und Schwägalp."
       },
       {
         "photos": [
-          "wegweiser_ZVRe0sD",
-          "weg-zur-chammhaldenhütte_bIy2NU6"
+          {
+            "name": "ZVRe0sD",
+            "alt": "Wegweiser"
+          },
+          {
+            "name": "bIy2NU6",
+            "alt": "Weg zur Chammhaldenhütte"
+          }
         ],
         "videos": [],
         "text": "Anschließend weiter zur bewirtschafteten Chammhaldenhütte..."
       },
       {
         "photos": [
-          "matschiger-weg_NA3Raz3"
+          {
+            "name": "NA3Raz3",
+            "alt": "Matschiger Weg"
+          }
         ],
         "videos": [],
         "text": "... aber dran vorbei hinein in den sumpfigen Wald zwischen Schägalp und Kronberg (dem Ziel der kleinen Wanderung)."
       },
       {
         "photos": [
-          "aufstieg-mit-schnee_0kIsM2u"
+          {
+            "name": "0kIsM2u",
+            "alt": "Aufstieg mit Schnee"
+          }
         ],
         "videos": [],
         "text": "Nach dem Wald geht es recht steil hinauf an den Südhängen des Kronbergs. Der Schnee sehr nass. Auf Grund der Steigung und der intensiven Sonne nun T-Shirt-Zeit."
       },
       {
         "photos": [
-          "schmelzender-schnee-vom-dach_hEPTCEQ"
+          {
+            "name": "hEPTCEQ",
+            "alt": "Schmelzender Schnee vom Dach"
+          }
         ],
         "videos": [],
         "text": "Auch dem Schnee auf den Dächern diverser Alphütten ging es an den Kragen."
       },
       {
         "photos": [
-          "blick-nach-osten_R8LBFDl"
+          {
+            "name": "R8LBFDl",
+            "alt": "Blick nach Osten"
+          }
         ],
         "videos": [],
         "text": "Ein Stück weiter oben der Blick nach Osten. Ganz hinten die vorarlberger Berge."
       },
       {
         "photos": [
-          "trampelpfad-im-schnee_mjTuIq1"
+          {
+            "name": "mjTuIq1",
+            "alt": "Trampelpfad im Schnee"
+          }
         ],
         "videos": [],
         "text": "Oben wurde es natürlich wieder etwas winterlicher."
       },
       {
         "photos": [
-          "blick-zum-hohen-kasten_hubgYDC"
+          {
+            "name": "hubgYDC",
+            "alt": "Blick zum Hohen Kasten"
+          }
         ],
         "videos": [],
         "text": "Und nochmal Richtung Osten. Diesmal ist der Hohe Kasten sichtbar (mitte), der noch auf meiner Liste für dieses Jahr steht."
       },
       {
         "photos": [
-          "blume-im-schnee_7EAhQSd",
-          "blümchen-vor-häusern_yIhDIoT"
+          {
+            "name": "7EAhQSd",
+            "alt": "Blume im Schnee"
+          },
+          {
+            "name": "yIhDIoT",
+            "alt": "Blümchen vor Häusern"
+          }
         ],
         "videos": [],
         "text": "Widerstandsfähige Blümchen im Schnee."
       },
       {
         "photos": [
-          "berge-mit-wolken_Od8yA8y"
+          {
+            "name": "Od8yA8y",
+            "alt": "Berge mit Wolken"
+          }
         ],
         "videos": [],
         "text": "Fast oben Blick nach Westen."
       },
       {
         "photos": [
-          "aussicht-vom-kronberg_TXmV3x3"
+          {
+            "name": "TXmV3x3",
+            "alt": "Aussicht vom Kronberg"
+          }
         ],
         "videos": [],
         "text": "Und jetzt ganz oben (1700m). Endlich ist die Aussicht nach Norden ins Flachland möglich. Im vorderen Bereich ist das Appenzeller Land und ganz hinten (dank guter Sicht) ist auch der Bodensee sichtbar.<br />\nHochauflösendes Panorama (300MPixel). Am besten mit GoogleEarth anschauen:<br />\n<a href=\"http://www.gigapan.com/gigapans/142406.kml\" onclick=\"this.target='_blank';\">http://www.gigapan.com/gigapans/142406.kml</a>"
       },
       {
         "photos": [
-          "blick-auf-den-bodensee_dByr8Mf"
+          {
+            "name": "dByr8Mf",
+            "alt": "Blick auf den Bodensee"
+          }
         ],
         "videos": [],
         "text": "Nochmal der Bodensee herangezoomt (immerhin 50km entfernt)."
       },
       {
         "photos": [
-          "kronbergbahn_nN3Q9GE"
+          {
+            "name": "nN3Q9GE",
+            "alt": "Kronbergbahn"
+          }
         ],
         "videos": [],
         "text": "Gelbe Kronbergseilbahngondel - an diesem Tag nicht sehr voll."
       },
       {
         "photos": [
-          "blick-vom-kronberg-zum-säntis_pQQJLSz"
+          {
+            "name": "pQQJLSz",
+            "alt": "Blick vom Kronberg zum Säntis"
+          }
         ],
         "videos": [],
         "text": "Blick von der Terrasse des (teuren) Restaurants auf die zurückgelegte Strecke."
       },
       {
         "photos": [
-          "paraglider-vor-säntis_ICco5wb"
+          {
+            "name": "ICco5wb",
+            "alt": "Paraglider vor Säntis"
+          }
         ],
         "videos": [],
         "text": "Der Kronberg ist auch beliebter Startplatz für Gleitschirmflieger, die aber nur Richtung Säntis starten und dann anschließend gleich nach Norden Richtung Talstation abbiegen."
       },
       {
         "photos": [
-          "verschneite-berge_UjzwAOM"
+          {
+            "name": "UjzwAOM",
+            "alt": "Verschneite Berge"
+          }
         ],
         "videos": [],
         "text": "Panorama Richtung Westen. Keine Ahnung, was man da alles sieht... trotzdem schön. 😃"
       },
       {
         "photos": [
-          "alpendohle_xPHQDiC"
+          {
+            "name": "xPHQDiC",
+            "alt": "Alpendohle"
+          }
         ],
         "videos": [],
         "text": "Wenn's irgendwo Pommes gibt, ist die Alpendohle nicht weit."
       },
       {
         "photos": [
-          "blume-vor-säntis_OT5skan"
+          {
+            "name": "OT5skan",
+            "alt": "Blume vor Säntis"
+          }
         ],
         "videos": [],
         "text": "Nach der Pause auf dem gleichen Weg zurück. Wobei es durch die fortschreitende Schneeschmelze eine ziemlich schmierige und rutschige Angelegenheit war."
       },
       {
         "photos": [
-          "wassertropfen-an-tannennadel_b6ndVc9"
+          {
+            "name": "b6ndVc9",
+            "alt": "Wassertropfen an Tannennadel"
+          }
         ],
         "videos": [],
         "text": "Ebenfalls so im tropfenden und triefenden Wald."
       },
       {
         "photos": [
-          "säntisbahn-im-winter_vt4yPmy"
+          {
+            "name": "vt4yPmy",
+            "alt": "Säntisbahn im Winter"
+          }
         ],
         "videos": [],
         "text": "Wieder an der Schwägalp. Blick hinauf zum spektakulären Trassenverlauf der Säntisbahn."
       },
       {
         "photos": [
-          "altes-restaurant-auf-schwägalp_jixDI6r"
+          {
+            "name": "jixDI6r",
+            "alt": "Altes Restaurant auf Schwägalp"
+          }
         ],
         "videos": [],
         "text": "Die Schwägalp in ihrer ganzen &quot;Schönheit&quot;. Vorne das alte Berghotel und Talstation der Seilbahn. Hinten die neue Station und dazwischen die Baustelle des neuen Hotels/Restaurants."
       },
       {
         "photos": [
-          "säntisbahn-vor-felswand_ojt5JyZ",
-          "bergstation-der-säntisbahn_F8KIkxl"
+          {
+            "name": "ojt5JyZ",
+            "alt": "Säntisbahn vor Felswand"
+          },
+          {
+            "name": "F8KIkxl",
+            "alt": "Bergstation der Säntisbahn"
+          }
         ],
         "videos": [],
         "text": "Trasse der Seilbahn."
       },
       {
         "photos": [
-          "säntis-mit-schnee-hinter-grüner-wiese_99saWCm"
+          {
+            "name": "99saWCm",
+            "alt": "Säntis mit Schnee hinter Grüner Wiese"
+          }
         ],
         "videos": [],
         "text": "Auf der etwas individuelleren Rückfahrt nochmal der Blick zurück."
       },
       {
         "photos": [
-          "hemberg-am-abend_iTLPJ7R"
+          {
+            "name": "iTLPJ7R",
+            "alt": "Hemberg am Abend"
+          }
         ],
         "videos": [],
         "text": "Vorbei am Ort Hemberg, der auf einem Bergrücken liegt."
       },
       {
         "photos": [
-          "wegstrecke_bA9GMKZ"
+          {
+            "name": "bA9GMKZ",
+            "alt": "Wegstrecke"
+          }
         ],
         "videos": [],
         "text": "Wegstrecke. Insgesamt 3 1/2 Stunden Gehzeit, bei besseren Wegverhältnissen sicher weniger."

@@ -9,136 +9,202 @@
     "landmarks": [
       {
         "photos": [
-          "halb-tageskarte_HxEU4"
+          {
+            "name": "HxEU4",
+            "alt": "Halb Tageskarte"
+          }
         ],
         "videos": [],
         "text": "Mit einem recht langem Babylift gelangt man zur Talstation und Kasse des Lifts. Der Lift lief nun, aber ich konnte erst mal niemanden finden, die Kasse war unbesetzt. Dann kam aber doch eine Mutter mit ihrem Kind, die den Lift betreut und verkaufte mir für 20CHF die hübsch gestaltete analoge Halbtageskarte."
       },
       {
         "photos": [
-          "verschneites-bergrestaurant_hvVjE"
+          {
+            "name": "hvVjE",
+            "alt": "Verschneites Bergrestaurant"
+          }
         ],
         "videos": [],
         "text": "Nach 250 Höhenmetern Ankunft am Restaurant an der Bergstation auf 1100m. Tief verschneit und an diesem Dienstag nicht geöffnet."
       },
       {
         "photos": [
-          "blick-schwägalp_uiDhh"
+          {
+            "name": "uiDhh",
+            "alt": "Blick Schwägalp"
+          }
         ],
         "videos": [],
         "text": "Blick Richtung Schwägalp. Entgegen der Wettervorhersage brach die Sonne durch. 😃"
       },
       {
         "photos": [
-          "tiefschnee-auf-piste_ngMyc"
+          {
+            "name": "ngMyc",
+            "alt": "Tiefschnee auf Piste"
+          }
         ],
         "videos": [],
         "text": "Die Liftspur und Piste war nicht frisch päpariert und somit mit dem Neuschnee der letzten Tage verfeinert. Hier der mittlere Abschnitt der Piste."
       },
       {
         "photos": [
-          "schmale-piste-im-wald_sJmNb"
+          {
+            "name": "sJmNb",
+            "alt": "Schmale Piste im Wald"
+          }
         ],
         "videos": [],
         "text": "Das obere Stück führt recht schmal durch den dichten Wald (keine Abfahrten durch den Wald möglich)."
       },
       {
         "photos": [
-          "urnäsch-im-winter_mrLxG"
+          {
+            "name": "mrLxG",
+            "alt": "Urnäsch im Winter"
+          }
         ],
         "videos": [],
         "text": "Blick von ungefähr der Mitte zum malerischen tief verschneiten Dorf Urnäsch."
       },
       {
         "photos": [
-          "spuren-im-tiefschnee_x1tOC"
+          {
+            "name": "x1tOC",
+            "alt": "Spuren im Tiefschnee"
+          }
         ],
         "videos": [],
         "text": "In der unteren Hälfte gab es einige Tiefschnee-Varianten. Die Neuschneemenge war gerade noch fahrbar oder um es anders zu veranschaulichen: Zum Pinkeln musste ich ein Loch vor mir graben und das nicht nur, weil ich so gut bestückt bin. 😉"
       },
       {
         "photos": [
-          "talstation-skilift_2s7oW"
+          {
+            "name": "2s7oW",
+            "alt": "Talstation Skilift"
+          }
         ],
         "videos": [],
         "text": "Talstation mit eindeutiger Beschriftung."
       },
       {
         "photos": [
-          "neuschnee-bei-tiefer-sonne_9TCEu"
+          {
+            "name": "9TCEu",
+            "alt": "Neuschnee bei tiefer Sonne"
+          }
         ],
         "videos": [],
         "text": "Der Schnee sieht lecker aus, oder nicht?"
       },
       {
         "photos": [
-          "babylift_O9eSm"
+          {
+            "name": "O9eSm",
+            "alt": "Babylift"
+          }
         ],
         "videos": [],
         "text": "Blick auf die Talstation und Piste des Babylift."
       },
       {
         "photos": [
-          "tiefschneeabfahrt_fFGtR"
+          {
+            "name": "fFGtR",
+            "alt": "Tiefschneeabfahrt"
+          }
         ],
         "videos": [],
         "text": "Schön wars. 😃"
       },
       {
         "photos": [
-          "winterlandschaft_wFiPR",
-          "dunkle-wolken-in-verschneiter-landschaft_2ktQm"
+          {
+            "name": "wFiPR",
+            "alt": "Winterlandschaft"
+          },
+          {
+            "name": "2ktQm",
+            "alt": "Dunkle Wolken in verschneiter Landschaft"
+          }
         ],
         "videos": [],
         "text": "Blick talaufwärts, wie man sieht zog es später leider wieder etwas zu."
       },
       {
         "photos": [
-          "skilift-trasse_FIQwN"
+          {
+            "name": "FIQwN",
+            "alt": "Skilift Trasse"
+          }
         ],
         "videos": [],
         "text": "Die Trasse von der Bergstation aus gesehen. Außer mir waren vielleicht noch 10 Kinder unterwegs, die aber keine Konkurrenz im Tiefschnee waren, da sie sich auf ihre Schanzen beschränkten."
       },
       {
         "photos": [
-          "skilift-ausstieg_LGL3c"
+          {
+            "name": "LGL3c",
+            "alt": "Skilift Ausstieg"
+          }
         ],
         "videos": [],
         "text": "Der (unbewachte) Ausstieg."
       },
       {
         "photos": [
-          "verschneiter-tisch-und-stühle_o5nJj"
+          {
+            "name": "o5nJj",
+            "alt": "Verschneiter Tisch und Stühle"
+          }
         ],
         "videos": [],
         "text": "Auf der Terasse des Restaurants. Dürfte der Neuschnee von 24h sein."
       },
       {
         "photos": [
-          "talstation-mit-schafen_vor63",
-          "skiflift-vor-schafherde_TZadj"
+          {
+            "name": "vor63",
+            "alt": "Talstation mit Schafen"
+          },
+          {
+            "name": "TZadj",
+            "alt": "Skiflift vor Schafherde"
+          }
         ],
         "videos": [],
         "text": "Die Talstation mit Schafherde."
       },
       {
         "photos": [
-          "einfahrt-skilift_a3nKv",
-          "altmodische-talstation_xTvRz"
+          {
+            "name": "a3nKv",
+            "alt": "Einfahrt Skilift"
+          },
+          {
+            "name": "xTvRz",
+            "alt": "Altmodische Talstation"
+          }
         ],
         "videos": [],
         "text": "Was für die Nostalgiker hier im Forum."
       },
       {
         "photos": [
-          "talstation-babylift_G6kox"
+          {
+            "name": "G6kox",
+            "alt": "Talstation Babylift"
+          }
         ],
         "videos": [],
         "text": "Überblick vom Babylift über das Skigebiet. Ich habe dann um 16:15 Schluss gemacht. Danach noch eine schöne Heimfahrt bei Schneefall durch weihnachtlich beleuchtete Dörfer."
       },
       {
         "photos": [
-          "gefahrene-strecke_MZz6c"
+          {
+            "name": "MZz6c",
+            "alt": "Gefahrene Strecke"
+          }
         ],
         "videos": [],
         "text": "GPS-Track. 19mal hoch und runter. 😃"

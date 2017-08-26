@@ -8,6 +8,7 @@
     "gatsby": "^1.8.11",
     "gatsby-link": "^1.6.7",
     "gatsby-plugin-google-analytics": "^1.0.4",
+    "gatsby-plugin-react-helmet": "^1.0.4",
     "gatsby-plugin-styled-components": "^1.0.2",
     "gatsby-source-filesystem": "^1.4.2",
     "gatsby-transformer-json": "^1.0.2",

@@ -106,13 +106,13 @@ class Report extends React.Component {
   }
 
   renderPhoto(photo, index) {
-    let fileName = photo;
-    if (process.env.NODE_ENV !== `production`) {
-      fileName = photo.split('_')[1] || fileName;
+    let fileName = photo.name;
+    if (process.env.NODE_ENV !== `production` && photo.alt) {
+      fileName = photo.alt.split(' ').join('-').toLowerCase() + '_' + photo.name;
     }
 
     const photoPath = __PATH_PREFIX__ + '/photos' + this.getReportPath() + '/' + fileName + '.jpg';
-    return <Photo key={index} src={photoPath} />;
+    return <Photo key={index} src={photoPath} alt={photo.alt} />;
   }
 
   renderVideo(video, index) {
@@ -160,7 +160,7 @@ export default Report;
 export const pageQuery = graphql`
   query ReportByDestinationAndDate($destination: String!, $date: String!) {
     reportJson(destination: {eq: $destination}, date: {eq: $date}) {
-      destination, date, track, title, intro, landmarks {photos, videos, text}, outro
+      destination, date, track, title, intro, landmarks {photos {name, alt}, videos, text}, outro
     }
   }
 `;
