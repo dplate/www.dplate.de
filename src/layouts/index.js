@@ -1,4 +1,5 @@
 import React from 'react'
+import ReactDisqusComments from 'react-disqus-comments-sso'
 import logoIcon from '../icons/logo.png'
 import menuIcon from '../icons/menu.svg'
 import styled from 'styled-components'
@@ -56,6 +57,10 @@ const Content = styled.div`
   padding-top: 57px;  
 `;
 
+const Disqus = styled.div`
+  margin: 25px 15px; 
+`;
+
 class Layout extends React.Component {
 
   constructor(props) {
@@ -94,6 +99,9 @@ class Layout extends React.Component {
         <Content>
           {this.props.children()}
         </Content>
+        <Disqus>
+          <ReactDisqusComments shortname="dplate" />
+        </Disqus>
         <Header className={this.state.showHeader?'showHeader':''}>
           <MenuButton src={menuIcon} onClick={this.toggleMenu} />
           <Link to="/">

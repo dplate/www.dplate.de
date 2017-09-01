@@ -1,5 +1,5 @@
 import React from 'react'
-import { Helmet } from 'react-helmet';
+import { Helmet } from 'react-helmet'
 import styled from 'styled-components'
 import { EXIF } from '../external/exif-js/exif'
 import Map from '../components/map'
@@ -107,7 +107,7 @@ class Report extends React.Component {
 
   renderPhoto(photo, index) {
     let fileName = photo.name;
-    if (process.env.NODE_ENV !== `production` && photo.alt) {
+    if (process.env.NODE_ENV === `production` && photo.alt) {
       fileName = photo.alt.split(' ').join('-').toLowerCase() + '_' + photo.name;
     }
 
