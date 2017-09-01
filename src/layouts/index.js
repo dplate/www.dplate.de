@@ -59,6 +59,7 @@ const Content = styled.div`
 
 const Disqus = styled.div`
   margin: 25px 15px; 
+  max-width: 800px;
 `;
 
 class Layout extends React.Component {
@@ -94,13 +95,20 @@ class Layout extends React.Component {
 
   render() {
     const reports = this.props.data.allReportJson.edges.map((element) => element.node);
+    let disqusId = this.props.location.pathname.substr(1);
+    if (!disqusId) disqusId = 'start';
     return (
       <div>
         <Content>
           {this.props.children()}
         </Content>
         <Disqus>
-          <ReactDisqusComments shortname="dplate" />
+          <ReactDisqusComments
+            shortname="dplate"
+            identifier={disqusId}
+            url={'http://www.dplate.de' + this.props.location.pathname}
+            title={disqusId}
+          />
         </Disqus>
         <Header className={this.state.showHeader?'showHeader':''}>
           <MenuButton src={menuIcon} onClick={this.toggleMenu} />
