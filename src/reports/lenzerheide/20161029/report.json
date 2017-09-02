@@ -3,7 +3,7 @@
     "destination": "lenzerheide",
     "date": "20161029",
     "type": "hike",
-    "track": false,
+    "track": true,
     "shortTitle": "Fulhorn",
     "title": "Brambrüesch - Fulhorn",
     "intro": "So langsam geht die Wandersaison zu Ende. Da aber letztes Wochenende noch einmal sonniges Wetter in der Höhe angesagt war, ging es für mich für diese Jahreszeit noch mal recht weit hinauf - zum 2500m hohen Fulhorn zwischen Lenzerheide und Chur.<br />\nAls Ausgangspunkt wählte ich den kleinen Skiort Brambrüesch, der mit einer Seilbahn von Chur aus erreichbar ist. Da ich aber auch gerne Bergstraßen fahre, bin ich die einspurige Straße hinaufgekurvt und stellte mein Auto auf dem großen Parkplatz um 8:40 auf 1600m Höhe ab. Normalerweise kostet es dort Parkgebühren, aber außerhalb der Saison war der Automat zugehängt... ich war in dem Moment auch das einzige Auto.",
@@ -11,7 +11,8 @@
       {
         "photos": [
           {
-            "name": "QE29I4P"
+            "name": "001",
+            "alt": "Fahrweg Brambrüesch"
           }
         ],
         "videos": [],
@@ -20,7 +21,8 @@
       {
         "photos": [
           {
-            "name": "CvNRMiX"
+            "name": "002",
+            "alt": "Sonnenaufgang"
           }
         ],
         "videos": [],
@@ -29,7 +31,8 @@
       {
         "photos": [
           {
-            "name": "d8aI8Kc"
+            "name": "003",
+            "alt": "Wanderweg Brambrüesch Pradaschier"
           }
         ],
         "videos": [],
@@ -38,7 +41,8 @@
       {
         "photos": [
           {
-            "name": "5KPGXHE"
+            "name": "004",
+            "alt": "Calanda"
           }
         ],
         "videos": [],
@@ -47,7 +51,8 @@
       {
         "photos": [
           {
-            "name": "cqlnnO7"
+            "name": "005",
+            "alt": "Lärchen im Herbst"
           }
         ],
         "videos": [],
@@ -56,10 +61,12 @@
       {
         "photos": [
           {
-            "name": "bQbo11v"
+            "name": "006",
+            "alt": "Galtialp"
           },
           {
-            "name": "7N65exU"
+            "name": "007",
+            "alt": "Panorama Galtialp"
           }
         ],
         "videos": [],
@@ -68,7 +75,8 @@
       {
         "photos": [
           {
-            "name": "re7TWGR"
+            "name": "008",
+            "alt": "Churwalden"
           }
         ],
         "videos": [],
@@ -77,7 +85,8 @@
       {
         "photos": [
           {
-            "name": "NmJ0zj5"
+            "name": "009",
+            "alt": "Treppe aus Plastik"
           }
         ],
         "videos": [],
@@ -86,7 +95,8 @@
       {
         "photos": [
           {
-            "name": "YfSvI1o"
+            "name": "010",
+            "alt": "Rheintal"
           }
         ],
         "videos": [],
@@ -95,10 +105,12 @@
       {
         "photos": [
           {
-            "name": "n0WUuDw"
+            "name": "011",
+            "alt": "Rote Beeren"
           },
           {
-            "name": "RHRoLAt"
+            "name": "012",
+            "alt": "Weiße Flechte"
           }
         ],
         "videos": [],
@@ -107,7 +119,8 @@
       {
         "photos": [
           {
-            "name": "q4e4mco"
+            "name": "013",
+            "alt": "Eisstruktur"
           }
         ],
         "videos": [],
@@ -116,7 +129,8 @@
       {
         "photos": [
           {
-            "name": "hFNsONX"
+            "name": "014",
+            "alt": "Gefrorener Bergsee"
           }
         ],
         "videos": [],
@@ -125,7 +139,8 @@
       {
         "photos": [
           {
-            "name": "c5VSskF"
+            "name": "015",
+            "alt": "Rothorn Lenzerheide"
           }
         ],
         "videos": [],
@@ -134,7 +149,8 @@
       {
         "photos": [
           {
-            "name": "UmiEcOU"
+            "name": "016",
+            "alt": "Bergsee"
           }
         ],
         "videos": [],
@@ -143,7 +159,8 @@
       {
         "photos": [
           {
-            "name": "gAbkzSk"
+            "name": "017",
+            "alt": "Fulenberg"
           }
         ],
         "videos": [],
@@ -152,7 +169,8 @@
       {
         "photos": [
           {
-            "name": "JnbH2CZ"
+            "name": "018",
+            "alt": "Churwalden"
           }
         ],
         "videos": [],
@@ -161,7 +179,8 @@
       {
         "photos": [
           {
-            "name": "RLzSid7"
+            "name": "019",
+            "alt": "Pass Fulhorn"
           }
         ],
         "videos": [],
@@ -170,7 +189,8 @@
       {
         "photos": [
           {
-            "name": "OxDiFDA"
+            "name": "020",
+            "alt": "Wegweiser Fulhorn"
           }
         ],
         "videos": [],
@@ -179,7 +199,8 @@
       {
         "photos": [
           {
-            "name": "JswNBrz"
+            "name": "021",
+            "alt": "Aufstieg Fulhorn"
           }
         ],
         "videos": [],
@@ -188,7 +209,8 @@
       {
         "photos": [
           {
-            "name": "FzRnG59"
+            "name": "022",
+            "alt": "Gipfel Fulhorn"
           }
         ],
         "videos": [],
@@ -197,7 +219,8 @@
       {
         "photos": [
           {
-            "name": "EFiLCuS"
+            "name": "023",
+            "alt": "Aussicht Fulhorn"
           }
         ],
         "videos": [],
@@ -206,7 +229,8 @@
       {
         "photos": [
           {
-            "name": "XjEFVeH"
+            "name": "026",
+            "alt": "Panorama Fulhorn"
           }
         ],
         "videos": [],
@@ -215,7 +239,8 @@
       {
         "photos": [
           {
-            "name": "oj29CjX"
+            "name": "024",
+            "alt": "Scheid Purz"
           }
         ],
         "videos": [],
@@ -224,7 +249,8 @@
       {
         "photos": [
           {
-            "name": "uM6KDsh"
+            "name": "025",
+            "alt": "Heinzenberg"
           }
         ],
         "videos": [],
@@ -233,7 +259,8 @@
       {
         "photos": [
           {
-            "name": "t0PwGmc"
+            "name": "027",
+            "alt": "Stätzerhorn"
           }
         ],
         "videos": [],
@@ -242,7 +269,8 @@
       {
         "photos": [
           {
-            "name": "6CO1ie7"
+            "name": "028",
+            "alt": "Nordgrat Fulhorn"
           }
         ],
         "videos": [],
@@ -251,7 +279,8 @@
       {
         "photos": [
           {
-            "name": "6lF5oFu"
+            "name": "029",
+            "alt": "Tiefblick Fulhorn"
           }
         ],
         "videos": [],
@@ -260,7 +289,8 @@
       {
         "photos": [
           {
-            "name": "GU2HHHS"
+            "name": "030",
+            "alt": "Fulhorn"
           }
         ],
         "videos": [],
@@ -269,7 +299,8 @@
       {
         "photos": [
           {
-            "name": "RuKofEa"
+            "name": "031",
+            "alt": "Flims im Herbst"
           }
         ],
         "videos": [],
@@ -278,7 +309,8 @@
       {
         "photos": [
           {
-            "name": "zsNITHL"
+            "name": "032",
+            "alt": "Tödi"
           }
         ],
         "videos": [],
@@ -287,7 +319,8 @@
       {
         "photos": [
           {
-            "name": "P3LYqZ6"
+            "name": "033",
+            "alt": "Eisscherbe"
           }
         ],
         "videos": [],
@@ -296,7 +329,8 @@
       {
         "photos": [
           {
-            "name": "dr1kgIL"
+            "name": "034",
+            "alt": "Bucklige Wiese"
           }
         ],
         "videos": [],
@@ -305,7 +339,8 @@
       {
         "photos": [
           {
-            "name": "edBpPr6"
+            "name": "035",
+            "alt": "Arosa Weisshorn"
           }
         ],
         "videos": [],
@@ -314,7 +349,8 @@
       {
         "photos": [
           {
-            "name": "b0MfPF6"
+            "name": "036",
+            "alt": "Windegga"
           }
         ],
         "videos": [],
@@ -323,7 +359,8 @@
       {
         "photos": [
           {
-            "name": "uspt3yf"
+            "name": "038",
+            "alt": "Skilift Windegga"
           }
         ],
         "videos": [],
@@ -332,7 +369,8 @@
       {
         "photos": [
           {
-            "name": "CpoyOVJ"
+            "name": "039",
+            "alt": "Hochfläche Brambrüesch"
           }
         ],
         "videos": [],
@@ -341,16 +379,20 @@
       {
         "photos": [
           {
-            "name": "Phf2TtK"
+            "name": "040",
+            "alt": "Bergsee"
           },
           {
-            "name": "11299vv"
+            "name": "041",
+            "alt": "Wasserreflexion"
           },
           {
-            "name": "J1AuGxM"
+            "name": "042",
+            "alt": "See mit Wegweiser"
           },
           {
-            "name": "0umxW6Y"
+            "name": "043",
+            "alt": "Dunkelblauer See"
           }
         ],
         "videos": [],
@@ -359,7 +401,8 @@
       {
         "photos": [
           {
-            "name": "vfrGFTP"
+            "name": "044",
+            "alt": "Matschiger Weg"
           }
         ],
         "videos": [],
@@ -368,7 +411,8 @@
       {
         "photos": [
           {
-            "name": "FmzDx1k"
+            "name": "045",
+            "alt": "Hochebene"
           }
         ],
         "videos": [],
@@ -377,7 +421,8 @@
       {
         "photos": [
           {
-            "name": "2ZHwpY9"
+            "name": "046",
+            "alt": "Dreibündenstein"
           }
         ],
         "videos": [],
@@ -386,7 +431,8 @@
       {
         "photos": [
           {
-            "name": "Sda5ExP"
+            "name": "047",
+            "alt": "Ringelspitz"
           }
         ],
         "videos": [],
@@ -395,7 +441,8 @@
       {
         "photos": [
           {
-            "name": "tgh9D8Q"
+            "name": "048",
+            "alt": "Aussicht Furggabüel"
           }
         ],
         "videos": [],
@@ -404,7 +451,8 @@
       {
         "photos": [
           {
-            "name": "optioD9"
+            "name": "050",
+            "alt": "Panorama Brambrüesch"
           }
         ],
         "videos": [],
@@ -413,7 +461,8 @@
       {
         "photos": [
           {
-            "name": "41pNlXX"
+            "name": "049",
+            "alt": "Dreckiger Bergschuh"
           }
         ],
         "videos": [],
@@ -422,7 +471,8 @@
       {
         "photos": [
           {
-            "name": "UO1jNuy"
+            "name": "052",
+            "alt": "Ringelspitz"
           }
         ],
         "videos": [],
@@ -431,10 +481,12 @@
       {
         "photos": [
           {
-            "name": "YQy91RA"
+            "name": "053",
+            "alt": "Sesselbahn Furggabüel"
           },
           {
-            "name": "e8ahK7Z"
+            "name": "054",
+            "alt": "Furggabüel Rheintal"
           }
         ],
         "videos": [],
@@ -443,10 +495,12 @@
       {
         "photos": [
           {
-            "name": "KsJgZjC"
+            "name": "055",
+            "alt": "Farbige Lärchen"
           },
           {
-            "name": "WmxMHCN"
+            "name": "056",
+            "alt": "Herbst"
           }
         ],
         "videos": [],
@@ -455,10 +509,12 @@
       {
         "photos": [
           {
-            "name": "wuacN9Q"
+            "name": "057",
+            "alt": "Weg nach Brambrüesch"
           },
           {
-            "name": "UBwmmfY"
+            "name": "058",
+            "alt": "Parkplatz Brambrüesch"
           }
         ],
         "videos": [],
@@ -467,10 +523,12 @@
       {
         "photos": [
           {
-            "name": "fb3yCIY"
+            "name": "track1",
+            "alt": "Wanderkarte Brambrüesch"
           },
           {
-            "name": "1WLg5Kr"
+            "name": "track2",
+            "alt": "Höhenprofil Fulhorn"
           }
         ],
         "videos": [],
