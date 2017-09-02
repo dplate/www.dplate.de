@@ -132,6 +132,7 @@ export const layoutQuery = graphql`
        node {
          destination, 
          date, 
+         type,
          shortTitle
        }
      }

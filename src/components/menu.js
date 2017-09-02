@@ -169,7 +169,7 @@ class Menu extends React.Component {
   createAlpineItem(report) {
     return {
       id: report.date,
-      name: <div>{report.shortTitle}<ItemDate>{formatDate(report.date)}</ItemDate></div>,
+      name: <div>{report.type === 'hike' ? '☀' : '❄'} {report.shortTitle}<ItemDate>{formatDate(report.date)}</ItemDate></div>,
       path: `/alpine/${report.destination}/${report.date}`
     }
   }
@@ -285,7 +285,8 @@ Menu.propTypes = {
   reports: PropTypes.arrayOf(PropTypes.shape({
     destination: PropTypes.string.isRequired,
     date: PropTypes.string.isRequired,
-    shortTitle: PropTypes.string.isRequired
+    type: PropTypes.string,
+    shortTitle: PropTypes.string.isRequired,
   })),
   currentPath: PropTypes.string.isRequired
 };

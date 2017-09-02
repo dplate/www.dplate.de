@@ -302,7 +302,7 @@ class Map extends React.Component {
     return (
       <div>
         <link rel="stylesheet" href={__PATH_PREFIX__ + '/Cesium/Widgets/widgets.css'} media="screen" type="text/css" />
-        <CesiumContainer id="cesiumContainer" className={this.state.size + ' ' + this.state.mapStatus} />
+        <CesiumContainer id="cesiumContainer" className={this.state.size + ' ' + this.state.mapStatus} onClick={this.props.onClick} />
         <ResizeIcon onClick={this.changeSize.bind(this)} id="resizeIcon" className={this.state.size} src={resizeIcon} />
         <MapIcon onClick={this.changeSize.bind(this)} id="mapIcon" className={this.state.size} src={mapIcon} />
         <Script url={__PATH_PREFIX__ + '/Cesium/Cesium.js'} onLoad={this.initCesium.bind(this)} />
@@ -313,7 +313,8 @@ class Map extends React.Component {
 
 Map.propTypes = {
   gpxPath: PropTypes.string.isRequired,
-  time: PropTypes.string.isRequired
+  time: PropTypes.string.isRequired,
+  onClick: PropTypes.func
 };
 
 export default Map;

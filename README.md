@@ -15,11 +15,11 @@ Install required dependencies:
 This command serves the app at `http://localhost:8000` and provides basic URL
 routing for the app:
 
-    node --max-old-space-size=8192 node_modules/gatsby/dist/gatsby-cli.js develop
+    gatsby develop
 
 ### Build
 
 Builds the page into the `public` folder:
 
-    node --max-old-space-size=8192 node_modules/gatsby/dist/gatsby-cli.js build
+    gatsby build
     

@@ -42,6 +42,7 @@ const Photo = styled.img`
     z-index: 2;
     box-shadow: 0 0 20px 0 rgba(0,0,0,0.75);
   }
+  transition: box-shadow 0.3s ease-in-out;
 `;
 
 const VideoContainer = styled.div`
@@ -118,6 +119,12 @@ class Report extends React.Component {
     })
   }
 
+  resetFocus() {
+    this.setState({
+      focus: undefined
+    })
+  }
+
   renderPhoto(photo, index) {
     let fileName = photo.name;
     if (process.env.NODE_ENV === `production` && photo.alt) {
@@ -158,17 +165,39 @@ class Report extends React.Component {
     return '/' + this.props.data.reportJson.destination + '/' + this.props.data.reportJson.date;
   }
 
+  buildPageTitle(title, type) {
+    if (type === 'hike') {
+      return `⛰ ${title} Wanderung`;
+    }
+    return `⛷ ${title} Skigebiet`;
+  }
+
+  buildPageDescription(title, type, date) {
+    if (type === 'hike') {
+      return `⛰ Wanderbericht ${title} vom ${formatDate(date)} mit vielen Fotos, ausführlicher Wegbeschreibung und Wanderkarte`;
+    }
+    return `⛷ Skigebiet ${title} am ${formatDate(date)} mit vielen Fotos, Pistenplan und Beschreibung der Abfahrten/Schneeverhältnisse`;
+  }
+
+
   render() {
     const content = this.props.data.reportJson;
-    const {date, track, title, intro, landmarks, outro} = content;
+    const {date, type, track, title, intro, landmarks, outro} = content;
     return (
       <Content>
-        <Helmet><title>{title}</title></Helmet>
+        <Helmet>
+          <title>{this.buildPageTitle(title, type)}</title>
+          <meta name="description" content={this.buildPageDescription(title, type, date)} />
+        </Helmet>
         <h1>{title} - {formatDate(date)}</h1>
         <Chapter dangerouslySetInnerHTML={{__html: intro}}/>
         {landmarks.map(this.renderLandmark.bind(this))}
         <Chapter dangerouslySetInnerHTML={{__html: outro}}/>
-        {track && this.state.time && <Map gpxPath={__PATH_PREFIX__ + '/tracks' + this.getReportPath() + '.gpx'} time={this.state.time}></Map>}
+        {track && this.state.time && <Map
+          gpxPath={__PATH_PREFIX__ + '/tracks' + this.getReportPath() + '.gpx'}
+          time={this.state.time}
+          onClick={this.resetFocus.bind(this)}
+         />}
       </Content>
     );
   }
@@ -179,7 +208,7 @@ export default Report;
 export const pageQuery = graphql`
   query ReportByDestinationAndDate($destination: String!, $date: String!) {
     reportJson(destination: {eq: $destination}, date: {eq: $date}) {
-      destination, date, track, title, intro, landmarks {photos {name, alt}, videos, text}, outro
+      destination, date, type, track, title, intro, landmarks {photos {name, alt}, videos, text}, outro
     }
   }
 `;
