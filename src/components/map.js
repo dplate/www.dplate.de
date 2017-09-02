@@ -167,10 +167,10 @@ class Map extends React.Component {
     this.viewer.clock.multiplier = multiplier;
     if (Math.abs(multiplier) < 20) {
       this.viewer.clock.shouldAnimate = false;
-      this.mapStatus = 'free';
+      if (this.state.mapStatus !== 'free') this.setState({ mapStatus: 'free' });
     } else {
       this.viewer.clock.shouldAnimate = true;
-      this.mapStatus = 'wait';
+      if (this.state.mapStatus !== 'wait') this.setState({ mapStatus: 'wait' });
     }
   }
 

@@ -32,10 +32,16 @@ const Landmark = styled.figure`
 `;
 
 const Photo = styled.img`
+  position: relative;
   display: block;
   max-width: 100%;
   max-height: calc(100vh - 75px);
   margin: 10px 0;
+  cursor: pointer;
+  &.focus {
+    z-index: 2;
+    box-shadow: 0 0 20px 0 rgba(0,0,0,0.75);
+  }
 `;
 
 const VideoContainer = styled.div`
@@ -51,7 +57,8 @@ class Report extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      time: undefined
+      time: undefined,
+      focus: undefined
     };
     this.scrollHandler = this.scrollHandler.bind(this)
   }
@@ -105,6 +112,12 @@ class Report extends React.Component {
     }
   }
 
+  toggleFocus(photo) {
+    this.setState({
+      focus: this.state.focus === photo ? undefined : photo
+    })
+  }
+
   renderPhoto(photo, index) {
     let fileName = photo.name;
     if (process.env.NODE_ENV === `production` && photo.alt) {
@@ -112,7 +125,13 @@ class Report extends React.Component {
     }
 
     const photoPath = __PATH_PREFIX__ + '/photos' + this.getReportPath() + '/' + fileName + '.jpg';
-    return <Photo key={index} src={photoPath} alt={photo.alt} />;
+    return <Photo
+      key={index}
+      src={photoPath}
+      alt={photo.alt}
+      className={this.state.focus === photo ? 'focus' : undefined}
+      onClick={this.toggleFocus.bind(this, photo)}
+    />;
   }
 
   renderVideo(video, index) {
