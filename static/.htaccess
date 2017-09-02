@@ -1,0 +1,30 @@
+RewriteEngine On
+
+DirectoryIndex index.html
+Options +MultiViews
+DirectorySlash Off
+
+RewriteBase /
+RewriteRule ^(.*)/$ /$1 [L,R=301]
+
+RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI}/index.html -f
+RewriteRule ^(.*)$ /$1/index.html [L]
+
+RewriteRule ^photos/(.*)/.*_(.*)\.jpg$ photos/$1/$2.jpg
+
+ErrorDocument 404 /404
+
+Redirect 301 /start http://www.dplate.de
+Redirect 301 /sbanleit.html http://www.dplate.de/games/schiffbruch
+Redirect 301 /schiffbruch http://www.dplate.de/games/schiffbruch
+Redirect 301 /schiffbruchfaq/schiffbruchfaq.htm http://www.dplate.de/games/schiffbruch
+Redirect 301 /schiffbruchfaq/gegenstaende.htm http://www.dplate.de/games/schiffbruch
+Redirect 301 /cannonhill http://www.dplate.de/games/cannonhill
+Redirect 301 /scapemaker/home_e.html http://www.dplate.de/tools/scapemaker
+Redirect 301 /scapemaker/index_e.html http://www.dplate.de/tools/scapemaker
+Redirect 301 /scapemaker http://www.dplate.de/tools/scapemaker
+Redirect 301 /kensentme/kensentme.jnlp http://www.dplate.de/tools/kensentme
+Redirect 301 /kensentme/ http://www.dplate.de/tools/kensentme
+Redirect 301 /kensentme http://www.dplate.de/tools/kensentme
+Redirect 301 /java.html http://www.dplate.de
+Redirect 301 /javae.html http://www.dplate.de
