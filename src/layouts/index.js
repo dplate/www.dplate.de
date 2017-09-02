@@ -58,7 +58,7 @@ const Content = styled.div`
 `;
 
 const Disqus = styled.div`
-  margin: 25px 15px; 
+  margin: 50px 15px; 
   max-width: 800px;
 `;
 

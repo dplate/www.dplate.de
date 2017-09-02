@@ -26,25 +26,6 @@ const CesiumContainer = styled.div`
     height: 30vh;
     width: 30vw;
   }
-  @media (max-width: 640px) and (orientation: portrait) {
-    &.teaser {
-      right: 0;
-      bottom: 0;
-      height: 30vh;
-      width: 100%;
-    }
-  }
-  @media (max-height: 400px) {
-    &.teaser {
-      right: 0;
-      bottom: 0;
-      width: 30vw;
-      height: 100%;
-      .cesium-viewer-bottom {
-        right: 40px;
-      }
-    }
-  }
   &.fullscreen {
     left: 0;
     top: 0;
@@ -73,19 +54,6 @@ const ResizeIcon = styled.img`
   &.teaser {
     right:  calc(30vw - 25px);
     bottom: calc(30vh - 25px);
-  }
-  @media (max-width: 640px) and (orientation: portrait) {
-    &.teaser {
-      right: inherit;
-      left: 5px;
-      bottom: calc(30vh - 30px);
-    }
-  }
-  @media (max-height: 400px) {
-    &.teaser {
-      right: 5px;
-      bottom: 5px;
-    }
   }
   &.fullscreen {
     right: 5px;
@@ -122,8 +90,18 @@ class Map extends React.Component {
     this.targetTime = null;
     this.state = {
       size: 'teaser',
-      mapStatus: 'wait'
+      mapStatus: 'wait',
+      allowTeaser: true
     };
+  }
+
+  componentDidMount() {
+    if (window.innerWidth < 1200) {
+      this.setState({
+        size: 'icon',
+        allowTeaser: window.innerWidth >= 640
+      })
+    }
   }
 
   componentWillReceiveProps(nextProps) {
@@ -143,7 +121,11 @@ class Map extends React.Component {
       this.setState({ size: 'fullscreen' });
     } else if (this.state.size === 'fullscreen') {
       this.setState({ size: 'icon' });
-    } else this.setState({ size: 'teaser' });
+    } else if (this.state.allowTeaser) {
+      this.setState({ size: 'teaser' });
+    } else {
+      this.setState({ size: 'fullscreen' });
+    }
   }
 
   timeChanged(newTime) {
