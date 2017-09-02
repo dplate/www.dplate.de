@@ -48,6 +48,8 @@ const Photo = styled.img`
 const VideoContainer = styled.div`
   ${videoContainerStyle}
   margin: 0;
+  z-index: 2;
+  position: relative;
 `;
 
 const VideoWrapper = styled.div`
@@ -113,9 +115,9 @@ class Report extends React.Component {
     }
   }
 
-  toggleFocus(photo) {
+  toggleFocus(medium) {
     this.setState({
-      focus: this.state.focus === photo ? undefined : photo
+      focus: this.state.focus === medium ? undefined : medium
     })
   }
 

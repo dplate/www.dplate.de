@@ -3,7 +3,7 @@
     "destination": "speer",
     "date": "20170603",
     "type": "hike",
-    "track": false,
+    "track": true,
     "shortTitle": "Krummenau-Speer",
     "title": "Krummenau - Speer",
     "intro": "Für die erste Wanderung dieser Saison entschied ich mich für den Speer. Da der Aufstieg von Süden her erfolgt,\n      kann man ihn trotz einer Höhe von fast 2000m schon recht früh im Jahr machen.<br />\n      Vor zwei Jahren habe die <a href=\"/alpine/speer/20150606\">Wanderung auf den Speer von Amden</a> aus gemacht,\n      diesmal wählte ich als Startpunkt den Ort Krummenau im Toggenburg.<br />\n      Mein Auto stellte ich um 8:15 auf dem großen Parkplatz (gratis) ab und ging den kurzen Weg zur Talstation der\n      Sesselbahn Wolzenalp. Die Bergfahrt kostete 9 CHF und erfolgte pünktlich um 8:30.",
@@ -11,10 +11,12 @@
       {
         "photos": [
           {
-            "name": "LEr8zNK"
+            "name": "001",
+            "alt": "Sesselbahn Wolzenalp"
           },
           {
-            "name": "DWz520p"
+            "name": "002",
+            "alt": "Sesselbahn Krummenau"
           }
         ],
         "videos": [],
@@ -23,7 +25,8 @@
       {
         "photos": [
           {
-            "name": "0wPb57T"
+            "name": "003",
+            "alt": "Rietbach"
           }
         ],
         "videos": [],
@@ -32,7 +35,8 @@
       {
         "photos": [
           {
-            "name": "HRwmrmk"
+            "name": "004",
+            "alt": "Wolzenalp Moor"
           }
         ],
         "videos": [],
@@ -41,7 +45,8 @@
       {
         "photos": [
           {
-            "name": "8F6sXFS"
+            "name": "005",
+            "alt": "Fahrweg Wolzenalp"
           }
         ],
         "videos": [],
@@ -50,7 +55,8 @@
       {
         "photos": [
           {
-            "name": "1Ak7Gay"
+            "name": "006",
+            "alt": "Skilift Wolzenalp"
           }
         ],
         "videos": [],
@@ -59,7 +65,8 @@
       {
         "photos": [
           {
-            "name": "4mlO45u"
+            "name": "007",
+            "alt": "Rietbach Moor"
           }
         ],
         "videos": [],
@@ -68,7 +75,8 @@
       {
         "photos": [
           {
-            "name": "AfWwwCP"
+            "name": "008",
+            "alt": "Bergstation Skilift Wolzenalp"
           }
         ],
         "videos": [],
@@ -77,7 +85,8 @@
       {
         "photos": [
           {
-            "name": "Rawucrc"
+            "name": "009",
+            "alt": "Bergwegmarkierung"
           }
         ],
         "videos": [],
@@ -86,7 +95,8 @@
       {
         "photos": [
           {
-            "name": "nW7YcyO"
+            "name": "010",
+            "alt": "Wanderweg vor Wald"
           }
         ],
         "videos": [],
@@ -95,7 +105,8 @@
       {
         "photos": [
           {
-            "name": "toEJf1h"
+            "name": "011",
+            "alt": "Wanderweg Wolzenalp Speer"
           }
         ],
         "videos": [],
@@ -104,7 +115,8 @@
       {
         "photos": [
           {
-            "name": "Z9jqYtF"
+            "name": "012",
+            "alt": "Blick auf Ebnat-Kappel"
           }
         ],
         "videos": [],
@@ -113,7 +125,8 @@
       {
         "photos": [
           {
-            "name": "iewQJfE"
+            "name": "013",
+            "alt": "Wanderweg zum Speer"
           }
         ],
         "videos": [],
@@ -122,7 +135,8 @@
       {
         "photos": [
           {
-            "name": "rXdR3cj"
+            "name": "014",
+            "alt": "Alp Bütz"
           }
         ],
         "videos": [],
@@ -131,7 +145,8 @@
       {
         "photos": [
           {
-            "name": "9lmnT2K"
+            "name": "015",
+            "alt": "Speer"
           }
         ],
         "videos": [],
@@ -140,7 +155,8 @@
       {
         "photos": [
           {
-            "name": "30aTIe2"
+            "name": "016",
+            "alt": "Leiterli"
           }
         ],
         "videos": [],
@@ -149,7 +165,8 @@
       {
         "photos": [
           {
-            "name": "oQlxsZa"
+            "name": "017",
+            "alt": "Hangweg"
           }
         ],
         "videos": [],
@@ -158,7 +175,8 @@
       {
         "photos": [
           {
-            "name": "GY9v4wf"
+            "name": "018",
+            "alt": "Säntis"
           }
         ],
         "videos": [],
@@ -167,7 +185,8 @@
       {
         "photos": [
           {
-            "name": "gqik0FW"
+            "name": "019",
+            "alt": "Weg über Schneefeld"
           }
         ],
         "videos": [],
@@ -176,7 +195,8 @@
       {
         "photos": [
           {
-            "name": "vfcKGyC"
+            "name": "020",
+            "alt": "Steile Wiese"
           }
         ],
         "videos": [],
@@ -185,10 +205,12 @@
       {
         "photos": [
           {
-            "name": "56GPQVO"
+            "name": "021",
+            "alt": "Wanderweg mit Schneefeld"
           },
           {
-            "name": "wG92rye"
+            "name": "022",
+            "alt": "Altschnee"
           }
         ],
         "videos": [],
@@ -197,7 +219,8 @@
       {
         "photos": [
           {
-            "name": "PFXJKfU"
+            "name": "023",
+            "alt": "Geologie des Speers"
           }
         ],
         "videos": [],
@@ -206,7 +229,8 @@
       {
         "photos": [
           {
-            "name": "W5EfbuD"
+            "name": "024",
+            "alt": "Glarus"
           }
         ],
         "videos": [],
@@ -215,7 +239,8 @@
       {
         "photos": [
           {
-            "name": "hPsEO2d"
+            "name": "025",
+            "alt": "Gipfel des Speers"
           }
         ],
         "videos": [],
@@ -224,7 +249,8 @@
       {
         "photos": [
           {
-            "name": "JiEl3C1"
+            "name": "026",
+            "alt": "Glarus"
           }
         ],
         "videos": [],
@@ -233,7 +259,8 @@
       {
         "photos": [
           {
-            "name": "qQKlOYS"
+            "name": "027",
+            "alt": "Panorama Speer"
           }
         ],
         "videos": [],
@@ -242,7 +269,8 @@
       {
         "photos": [
           {
-            "name": "DKSKOog"
+            "name": "028",
+            "alt": "Wegweiser Speer"
           }
         ],
         "videos": [],
@@ -251,7 +279,8 @@
       {
         "photos": [
           {
-            "name": "pu6mxBM"
+            "name": "029",
+            "alt": "Gratweg"
           }
         ],
         "videos": [],
@@ -260,7 +289,8 @@
       {
         "photos": [
           {
-            "name": "J1pXYKN"
+            "name": "030",
+            "alt": "Panorama Speer"
           }
         ],
         "videos": [],
@@ -269,7 +299,8 @@
       {
         "photos": [
           {
-            "name": "TLKYFbo"
+            "name": "031",
+            "alt": "Abbruchkante Speer"
           }
         ],
         "videos": [],
@@ -278,7 +309,8 @@
       {
         "photos": [
           {
-            "name": "vmCmldQ"
+            "name": "032",
+            "alt": "Weg Wolzenalp Speer"
           }
         ],
         "videos": [],
@@ -287,7 +319,8 @@
       {
         "photos": [
           {
-            "name": "xP80qeS"
+            "name": "034",
+            "alt": "Säntis in Schwarzweiß"
           }
         ],
         "videos": [],
@@ -296,7 +329,8 @@
       {
         "photos": [
           {
-            "name": "9S6PLdn"
+            "name": "035",
+            "alt": "Serpentinen"
           }
         ],
         "videos": [],
@@ -305,7 +339,8 @@
       {
         "photos": [
           {
-            "name": "O04TIhf"
+            "name": "036",
+            "alt": "Toggenburg"
           }
         ],
         "videos": [],
@@ -314,7 +349,8 @@
       {
         "photos": [
           {
-            "name": "UD2nJAY"
+            "name": "037",
+            "alt": "Alpenblume"
           }
         ],
         "videos": [],
@@ -323,7 +359,8 @@
       {
         "photos": [
           {
-            "name": "o87XA6m"
+            "name": "038",
+            "alt": "Leiterli"
           }
         ],
         "videos": [],
@@ -332,7 +369,8 @@
       {
         "photos": [
           {
-            "name": "zwIacRX"
+            "name": "039",
+            "alt": "Alp Hengst"
           }
         ],
         "videos": [],
@@ -341,7 +379,8 @@
       {
         "photos": [
           {
-            "name": "FL3j2OJ"
+            "name": "040",
+            "alt": "Ijental"
           }
         ],
         "videos": [],
@@ -350,7 +389,8 @@
       {
         "photos": [
           {
-            "name": "T8GKvzY"
+            "name": "041",
+            "alt": "Ijental"
           }
         ],
         "videos": [],
@@ -359,7 +399,8 @@
       {
         "photos": [
           {
-            "name": "ShIzIB7"
+            "name": "042",
+            "alt": "Straße durchs Ijental"
           }
         ],
         "videos": [],
@@ -368,7 +409,8 @@
       {
         "photos": [
           {
-            "name": "QUflb9H"
+            "name": "043",
+            "alt": "Stausee"
           }
         ],
         "videos": [],
@@ -377,7 +419,8 @@
       {
         "photos": [
           {
-            "name": "sxe969g"
+            "name": "044",
+            "alt": "Dunkle Schlucht"
           }
         ],
         "videos": [],
@@ -386,7 +429,8 @@
       {
         "photos": [
           {
-            "name": "m95RMnC"
+            "name": "045",
+            "alt": "Kapelle an Thur"
           }
         ],
         "videos": [],
@@ -395,7 +439,8 @@
       {
         "photos": [
           {
-            "name": "Go0tqhO"
+            "name": "046",
+            "alt": "Thurweg"
           }
         ],
         "videos": [],
@@ -404,10 +449,12 @@
       {
         "photos": [
           {
-            "name": "TYmyLmt"
+            "name": "track1",
+            "alt": "Wanderkarte Speer"
           },
           {
-            "name": "Nv9uRGo"
+            "name": "track2",
+            "alt": "Höhenprofil Speer"
           }
         ],
         "videos": [],
