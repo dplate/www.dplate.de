@@ -83,6 +83,7 @@ class Report extends React.Component {
         const [date, time] = exifDate.split(' ');
         image.setAttribute('data-time', date.replace(/:/g, '-') + 'T' + time);
         self.images.push(image);
+        self.images.sort((image1, image2) => image1.offsetTop - image2.offsetTop);
         self.scrollHandler();
       }
     });
@@ -101,17 +102,29 @@ class Report extends React.Component {
   }
 
   scrollHandler() {
-    let nearestImage;
-    let minDistance = Number.MAX_SAFE_INTEGER;
-    this.images.forEach((image) => {
-      const distance = Math.abs(window.pageYOffset  - image.offsetTop);
-      if (distance < minDistance) {
-        minDistance = distance;
-        nearestImage = image;
+    if (this.images.length > 0) {
+      if (window.pageYOffset < this.images[0].offsetTop ) {
+        this.setState({time: 'start'});
+        return;
       }
-    });
-    if (nearestImage) {
-      this.setState({time: nearestImage.getAttribute('data-time')});
+
+      if (window.pageYOffset > this.images[this.images.length - 1].offsetTop ) {
+        this.setState({time: 'end'});
+        return;
+      }
+
+      let time;
+      let minDistance = Number.MAX_SAFE_INTEGER;
+      this.images.forEach((image) => {
+        const distance = Math.abs(window.pageYOffset  - image.offsetTop);
+        if (distance < minDistance) {
+          minDistance = distance;
+          time = image.getAttribute('data-time');
+        }
+      });
+      if (time) {
+        this.setState({time});
+      }
     }
   }
 

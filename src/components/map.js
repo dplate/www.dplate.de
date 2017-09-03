@@ -129,11 +129,19 @@ class Map extends React.Component {
   }
 
   timeChanged(newTime) {
-    this.targetTime = this.Cesium.JulianDate.fromIso8601(newTime);
+    if (newTime === 'start') {
+      this.targetTime = this.viewer.clock.startTime;
+    } else if (newTime === 'end') {
+      this.targetTime = this.viewer.clock.stopTime;
+    } else {
+      this.targetTime = this.Cesium.JulianDate.fromIso8601(newTime);
+    }
   }
 
   updateCamera() {
-    if (!this.viewer.clock.shouldAnimate) return;
+    const terrainHeightUnderCamera = this.viewer.scene.globe.getHeight(this.viewer.camera.positionCartographic);
+    const cameraHeight = this.viewer.camera.positionCartographic.height;
+    if (!this.viewer.clock.shouldAnimate && cameraHeight > terrainHeightUnderCamera) return;
 
     const futureTime = new this.Cesium.JulianDate();
     this.Cesium.JulianDate.addSeconds(this.viewer.clock.currentTime, 20 * 60, futureTime);
@@ -148,9 +156,8 @@ class Map extends React.Component {
     const currentHeight = this.viewer.scene.globe.getHeight(currentCart) || currentCart.height;
     const realCurrentPos = this.Cesium.Cartesian3.fromRadians(currentCart.longitude, currentCart.latitude, currentHeight);
 
-    const terrainHeightUnderCamera = this.viewer.scene.globe.getHeight(this.viewer.camera.positionCartographic);
     if (terrainHeightUnderCamera) {
-      this.currentTilt += (this.viewer.camera.positionCartographic.height - (200 + terrainHeightUnderCamera)) * 0.01;
+      this.currentTilt += (cameraHeight - (200 + terrainHeightUnderCamera)) * 0.01;
       this.currentTilt = Math.max(this.currentTilt, -90);
       this.currentTilt = Math.min(this.currentTilt, 0);
     }
@@ -217,7 +224,6 @@ class Map extends React.Component {
         mapStyle : this.Cesium.BingMapsStyle.AERIAL
       })
     });
-
     this.viewer.scene.globe.enableLighting = true;
     this.viewer.scene.globe.depthTestAgainstTerrain = true;
   }
