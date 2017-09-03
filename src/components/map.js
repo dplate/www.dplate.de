@@ -280,7 +280,7 @@ class Map extends React.Component {
 
   addSwissSatellite(positions) {
     const hdRectangle = this.Cesium.Rectangle.fromCartesianArray(positions, this.Cesium.Ellipsoid.WGS84);
-    hdRectangle.east += 0.001; hdRectangle.west -= 0.001; hdRectangle.north += 0.0005; hdRectangle.south -= 0.0005;
+    hdRectangle.east += 0.0005; hdRectangle.west -= 0.0005; hdRectangle.north += 0.00025; hdRectangle.south -= 0.00025;
     const provider = new this.Cesium.UrlTemplateImageryProvider({
       url: "//wmts{s}.geo.admin.ch/1.0.0/ch.swisstopo.swissimage-product/default/current/4326/{z}/{y}/{x}.jpeg",
       subdomains: '56789',
