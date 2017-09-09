@@ -3,7 +3,7 @@
     "destination": "toggenburg",
     "date": "20160813",
     "type": "hike",
-    "track": false,
+    "track": true,
     "shortTitle": "Hinterrugg",
     "title": "Schwendiseen - Hinterrugg",
     "intro": "Bei schönstem Wetter fuhr ich diesen Samstag zu den Schwendiseen, die auf halber Höhe zwischen dem Skigebiet von Wildhaus und Iltios liegen. Dort kann man für 1CHF pro Stunde sein Auto abstellen. Um 7:45 lief ich auf 1160m Höhe los Richtung Iltios.",
@@ -11,7 +11,8 @@
       {
         "photos": [
           {
-            "name": "1OFbYsU"
+            "name": "001",
+            "alt": "Fahrweg Itlios"
           }
         ],
         "videos": [],
@@ -20,7 +21,8 @@
       {
         "photos": [
           {
-            "name": "vRSkmDS"
+            "name": "002",
+            "alt": "Seilbahn Iltios"
           }
         ],
         "videos": [],
@@ -29,7 +31,8 @@
       {
         "photos": [
           {
-            "name": "bbaff8L"
+            "name": "003",
+            "alt": "Waldweg"
           }
         ],
         "videos": [],
@@ -38,7 +41,8 @@
       {
         "photos": [
           {
-            "name": "Ny8Aomq"
+            "name": "004",
+            "alt": "Panorama Toggenburg"
           }
         ],
         "videos": [],
@@ -47,7 +51,8 @@
       {
         "photos": [
           {
-            "name": "7YFWNne"
+            "name": "005",
+            "alt": "Churfirsten"
           }
         ],
         "videos": [],
@@ -56,7 +61,8 @@
       {
         "photos": [
           {
-            "name": "2Joj72F"
+            "name": "006",
+            "alt": "Felsenweg Hinterrugg"
           }
         ],
         "videos": [],
@@ -65,7 +71,8 @@
       {
         "photos": [
           {
-            "name": "XpODhuw"
+            "name": "008",
+            "alt": "Hütte Sattel"
           }
         ],
         "videos": [],
@@ -74,7 +81,8 @@
       {
         "photos": [
           {
-            "name": "qOw9bk7"
+            "name": "009",
+            "alt": "Wanderweg Hinterrugg"
           }
         ],
         "videos": [],
@@ -83,7 +91,8 @@
       {
         "photos": [
           {
-            "name": "JN4RtzG"
+            "name": "010",
+            "alt": "Säntis und Schafberg"
           }
         ],
         "videos": [],
@@ -92,7 +101,8 @@
       {
         "photos": [
           {
-            "name": "79cfC8b"
+            "name": "011",
+            "alt": "Chäserrugbahn"
           }
         ],
         "videos": [],
@@ -101,7 +111,8 @@
       {
         "photos": [
           {
-            "name": "npHCOhY"
+            "name": "013",
+            "alt": "Aufstieg Hinterrugg"
           }
         ],
         "videos": [],
@@ -110,16 +121,8 @@
       {
         "photos": [
           {
-            "name": "9bIMhWo"
-          }
-        ],
-        "videos": [],
-        "text": "Panorama während des schweißtreibenden Aufstiegs."
-      },
-      {
-        "photos": [
-          {
-            "name": "JliYFSx"
+            "name": "014",
+            "alt": "Blumen auf Bergweg"
           }
         ],
         "videos": [],
@@ -128,7 +131,18 @@
       {
         "photos": [
           {
-            "name": "tGOJUwL"
+            "name": "016",
+            "alt": "Wandergebiet Toggenburg"
+          }
+        ],
+        "videos": [],
+        "text": "Panorama während des schweißtreibenden Aufstiegs."
+      },
+      {
+        "photos": [
+          {
+            "name": "017",
+            "alt": "Zwischen Churfirsten"
           }
         ],
         "videos": [],
@@ -137,16 +151,8 @@
       {
         "photos": [
           {
-            "name": "aA5Gapn"
-          }
-        ],
-        "videos": [],
-        "text": "Noch mehr Blumen auf dem nun deutlich flacher werdenden Rückens."
-      },
-      {
-        "photos": [
-          {
-            "name": "YSJBpmU"
+            "name": "019",
+            "alt": "Rheintal"
           }
         ],
         "videos": [],
@@ -155,25 +161,38 @@
       {
         "photos": [
           {
-            "name": "MBfrFOb"
+            "name": "020",
+            "alt": "Glockenblumen"
           }
         ],
         "videos": [],
-        "text": "Fast oben begrüßten mich die umfangreichen Schutzzäune gegen Windverfrachtungen. Sie schützen laut Tafel die Gemeinde Waalenstadt vor Lawinen."
+        "text": "Noch mehr Blumen auf dem nun deutlich flacher werdenden Rückens."
       },
       {
         "photos": [
           {
-            "name": "IanVcQg"
+            "name": "021",
+            "alt": "Windzäune Hinterrugg"
           }
         ],
         "videos": [],
-        "text": "Und schon tauchte auch der passende Waalensee auf und man sah schön die steil abfallenden Flanken der Churfirsten."
+        "text": "Fast oben begrüßten mich die umfangreichen Schutzzäune gegen Windverfrachtungen. Sie schützen laut Tafel die Gemeinde Walenstadt vor Lawinen."
       },
       {
         "photos": [
           {
-            "name": "2ycU7Ye"
+            "name": "022",
+            "alt": "Felswände Churfirsten"
+          }
+        ],
+        "videos": [],
+        "text": "Und schon tauchte auch der passende Walensee auf und man sah schön die steil abfallenden Flanken der Churfirsten."
+      },
+      {
+        "photos": [
+          {
+            "name": "023",
+            "alt": "Lawinenverbauungen Hinterrugg"
           }
         ],
         "videos": [],
@@ -182,16 +201,18 @@
       {
         "photos": [
           {
-            "name": "H0QmAFf"
+            "name": "024",
+            "alt": "Wegweiser Hinterrugg"
           }
         ],
         "videos": [],
-        "text": "Oben! Ein Gipfelkreuz gibt es auf dem Höchsten (2306m) der Churfirsten seltsamerweise nicht, deshalb muss als Beweis der Wegweiser auf dem Gipfel erhalten. Für die knapp 1200m Aufstieg habe ich ziemlich genau 3h Stunden gebraucht und die gesamte Zeit bin ich keinem anderen Menschen begegnet. Ab hier änderte sich das aber."
+        "text": "Oben! Ein Gipfelkreuz gibt es auf dem höchsten (2306m) der Churfirsten seltsamerweise nicht, deshalb muss als Beweis der Wegweiser auf dem Gipfel erhalten. Für die knapp 1200m Aufstieg habe ich ziemlich genau 3h Stunden gebraucht und die gesamte Zeit bin ich keinem anderen Menschen begegnet. Ab hier änderte sich das aber."
       },
       {
         "photos": [
           {
-            "name": "TJrXqvv"
+            "name": "025",
+            "alt": "Aussicht Hinterrugg"
           }
         ],
         "videos": [],
@@ -200,7 +221,8 @@
       {
         "photos": [
           {
-            "name": "97ASUSD"
+            "name": "026",
+            "alt": "Fernblick Hinterrugg"
           }
         ],
         "videos": [],
@@ -209,7 +231,8 @@
       {
         "photos": [
           {
-            "name": "EY5Irlj"
+            "name": "027",
+            "alt": "Panoramaweg Rosenboden"
           }
         ],
         "videos": [],
@@ -218,7 +241,8 @@
       {
         "photos": [
           {
-            "name": "QUpw7MD"
+            "name": "029",
+            "alt": "Pusteblume"
           }
         ],
         "videos": [],
@@ -227,16 +251,8 @@
       {
         "photos": [
           {
-            "name": "3OOZQoE"
-          }
-        ],
-        "videos": [],
-        "text": "Ich ging dann noch mal etwas in die falsche Richtung zum Abgrund, um dieses volle Panorama aufzunehmen. Weiter an die Kante wollte ich allerdings nicht. 😉"
-      },
-      {
-        "photos": [
-          {
-            "name": "iHuTJio"
+            "name": "028",
+            "alt": "Autobahn"
           }
         ],
         "videos": [],
@@ -245,19 +261,32 @@
       {
         "photos": [
           {
-            "name": "QfpAxbS"
-          },
-          {
-            "name": "BeYwM3v"
+            "name": "030",
+            "alt": "Walensee"
           }
         ],
         "videos": [],
-        "text": "Nun ging es vom Gamserrugg hinüber zum benachbarten Chäserrugg. Die Bergstation ist schon riesig, die Terasse hat aber unverständlicherweise nur sehr wenige Plätze."
+        "text": "Ich ging dann noch mal etwas in die falsche Richtung zum Abgrund, um dieses volle Panorama aufzunehmen. Weiter an die Kante wollte ich allerdings nicht. 😉"
       },
       {
         "photos": [
           {
-            "name": "r8RODjO"
+            "name": "031",
+            "alt": "Weg Hinterrugg Chäserrugg"
+          },
+          {
+            "name": "032",
+            "alt": "Restaurant Chäserrugg"
+          }
+        ],
+        "videos": [],
+        "text": "Nun ging es vom Hinterrugg hinüber zum benachbarten Chäserrugg. Die Bergstation ist schon riesig, die Terasse hat aber unverständlicherweise nur sehr wenige Plätze."
+      },
+      {
+        "photos": [
+          {
+            "name": "033",
+            "alt": "Gipfel Hinterrugg"
           }
         ],
         "videos": [],
@@ -266,7 +295,8 @@
       {
         "photos": [
           {
-            "name": "SSJWYtP"
+            "name": "034",
+            "alt": "Ostaufstieg Chäserrrugg"
           }
         ],
         "videos": [],
@@ -275,10 +305,12 @@
       {
         "photos": [
           {
-            "name": "IlKIrn6"
+            "name": "035",
+            "alt": "Kuh vor Säntis"
           },
           {
-            "name": "CW59yT8"
+            "name": "036",
+            "alt": "Wanderweg Chäserrugg Gamsalp"
           }
         ],
         "videos": [],
@@ -287,7 +319,8 @@
       {
         "photos": [
           {
-            "name": "DN3N4WG"
+            "name": "037",
+            "alt": "Geologischer Rundweg Gamserrugg"
           }
         ],
         "videos": [],
@@ -296,7 +329,8 @@
       {
         "photos": [
           {
-            "name": "ViWADJm"
+            "name": "038",
+            "alt": "Voralpsee"
           }
         ],
         "videos": [],
@@ -305,7 +339,8 @@
       {
         "photos": [
           {
-            "name": "k9ACCb8"
+            "name": "039",
+            "alt": "Nideripass"
           }
         ],
         "videos": [],
@@ -314,16 +349,8 @@
       {
         "photos": [
           {
-            "name": "2S3vw09"
-          }
-        ],
-        "videos": [],
-        "text": "Und noch mehr Blumen."
-      },
-      {
-        "photos": [
-          {
-            "name": "915J2wV"
+            "name": "040",
+            "alt": "Inggadells Rundweg"
           }
         ],
         "videos": [],
@@ -332,7 +359,18 @@
       {
         "photos": [
           {
-            "name": "m7lBfUL"
+            "name": "041",
+            "alt": "Blümchen"
+          }
+        ],
+        "videos": [],
+        "text": "Und noch mehr Blumen."
+      },
+      {
+        "photos": [
+          {
+            "name": "042",
+            "alt": "Abgestorbener Baum"
           }
         ],
         "videos": [],
@@ -341,16 +379,8 @@
       {
         "photos": [
           {
-            "name": "OMsiOwX"
-          }
-        ],
-        "videos": [],
-        "text": "Anschließend ging es sehr bunt weiter auf der Ostabfahrt des Gamserrugg."
-      },
-      {
-        "photos": [
-          {
-            "name": "Qtgldtj"
+            "name": "043",
+            "alt": "Gamsalp"
           }
         ],
         "videos": [],
@@ -359,7 +389,18 @@
       {
         "photos": [
           {
-            "name": "nRcYD3r"
+            "name": "044",
+            "alt": "Wanderweg durch Blumen"
+          }
+        ],
+        "videos": [],
+        "text": "Anschließend ging es sehr bunt weiter auf der Ostabfahrt des Gamserrugg."
+      },
+      {
+        "photos": [
+          {
+            "name": "045",
+            "alt": "Warmtobel im Sommer"
           }
         ],
         "videos": [],
@@ -368,16 +409,8 @@
       {
         "photos": [
           {
-            "name": "OkXsWvC"
-          }
-        ],
-        "videos": [],
-        "text": "Auch hier gab es viele Blumen."
-      },
-      {
-        "photos": [
-          {
-            "name": "pkKAth5"
+            "name": "046",
+            "alt": "Blauer Stausee"
           }
         ],
         "videos": [],
@@ -386,7 +419,18 @@
       {
         "photos": [
           {
-            "name": "URLjo5h"
+            "name": "047",
+            "alt": "Lila Blumen"
+          }
+        ],
+        "videos": [],
+        "text": "Auch hier gab es viele Blumen."
+      },
+      {
+        "photos": [
+          {
+            "name": "048",
+            "alt": "Freienalp"
           }
         ],
         "videos": [],
@@ -395,7 +439,8 @@
       {
         "photos": [
           {
-            "name": "EAtMOmA"
+            "name": "049",
+            "alt": "Klangweg"
           }
         ],
         "videos": [],
@@ -404,7 +449,8 @@
       {
         "photos": [
           {
-            "name": "Wb9QMEe"
+            "name": "050",
+            "alt": "Schwendiseen im Sommer"
           }
         ],
         "videos": [],
@@ -413,10 +459,10 @@
       {
         "photos": [
           {
-            "name": "xCzHyw1"
+            "name": "track1"
           },
           {
-            "name": "2mVXeCT"
+            "name": "track2"
           }
         ],
         "videos": [],

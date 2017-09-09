@@ -3,7 +3,7 @@
     "destination": "murgseen",
     "date": "20160709",
     "type": "hike",
-    "track": false,
+    "track": true,
     "shortTitle": "Murgseen",
     "title": "Murgseen",
     "intro": "Ein wenig verzögert startete auch meine Wandersaison. Letztes Wochenende ging es dafür zu den Murgseen oberhalb des Walensees. Den Startpunkt der relative bekannten Rundtour erreicht man über eine kostenplichtige Straße von Murg aus. Die Maut (inkl. Parkgebühr) beträgt 10CHF, die man in Münzen dabei haben sollte. Die einspurige Straße führt in vielen Serpentinen das Tal bis auf 1100m hinauf. Ich parkte um 8:00 auf dem unteren der beiden Parkplätze, der für die Rundtour besser geeignet ist, da man sonst entweder am Anfang bergab oder am Ende bergauf steigen müsste (beides seltsam beim Wandern). Ich entschied mich die Tour entgegen des Uhrzeigersinns zu unternehmen.",
@@ -11,10 +11,12 @@
       {
         "photos": [
           {
-            "name": "7mKtNd9"
+            "name": "001",
+            "alt": "Brücke über Bergbach"
           },
           {
-            "name": "jUGUm56"
+            "name": "002",
+            "alt": "Bach mit Steinen"
           }
         ],
         "videos": [],
@@ -23,7 +25,8 @@
       {
         "photos": [
           {
-            "name": "3zpOARp"
+            "name": "003",
+            "alt": "Moos"
           }
         ],
         "videos": [],
@@ -32,7 +35,8 @@
       {
         "photos": [
           {
-            "name": "2cDfHql"
+            "name": "004",
+            "alt": "Churfirsten in Wolken"
           }
         ],
         "videos": [],
@@ -41,7 +45,8 @@
       {
         "photos": [
           {
-            "name": "3m5Jhl6"
+            "name": "005",
+            "alt": "Wanderweg mit Holzstufen"
           }
         ],
         "videos": [],
@@ -50,10 +55,12 @@
       {
         "photos": [
           {
-            "name": "9xg3O4n"
+            "name": "006",
+            "alt": "Weg über Wiese"
           },
           {
-            "name": "NRYj9q0"
+            "name": "007",
+            "alt": "Bergbach"
           }
         ],
         "videos": [],
@@ -62,16 +69,20 @@
       {
         "photos": [
           {
-            "name": "KelCW0o"
+            "name": "008",
+            "alt": "Felssturz"
           },
           {
-            "name": "b7CKP7n"
+            "name": "009",
+            "alt": "Abgestorbener Baum vor Fels"
           },
           {
-            "name": "tZTDKa5"
+            "name": "010",
+            "alt": "Violette Blümchen"
           },
           {
-            "name": "qp3ognl"
+            "name": "011",
+            "alt": "Kleiner Wasserfall"
           }
         ],
         "videos": [],
@@ -80,7 +91,8 @@
       {
         "photos": [
           {
-            "name": "WM029yp"
+            "name": "012",
+            "alt": "Gsponbach"
           }
         ],
         "videos": [],
@@ -89,13 +101,16 @@
       {
         "photos": [
           {
-            "name": "0eiG1KO"
+            "name": "013",
+            "alt": "Alp mit dunklen Wolken"
           },
           {
-            "name": "aqYLmeT"
+            "name": "014",
+            "alt": "Alpwiese mit Bach"
           },
           {
-            "name": "9MIFWAN"
+            "name": "015",
+            "alt": "Alpweg"
           }
         ],
         "videos": [],
@@ -104,13 +119,16 @@
       {
         "photos": [
           {
-            "name": "iTpebVV"
+            "name": "016",
+            "alt": "Wanderweg zum Murgseefurggel"
           },
           {
-            "name": "3R7jdQJ"
+            "name": "018",
+            "alt": "Murgsee Rundweg"
           },
           {
-            "name": "CrjQKjw"
+            "name": "019",
+            "alt": "Alpenrosen"
           }
         ],
         "videos": [],
@@ -119,10 +137,12 @@
       {
         "photos": [
           {
-            "name": "fyzW26V"
+            "name": "020",
+            "alt": "Bach in den Bergen"
           },
           {
-            "name": "LEEX3X5"
+            "name": "021",
+            "alt": "Holzbrücke über Gebirgsbach"
           }
         ],
         "videos": [],
@@ -131,7 +151,8 @@
       {
         "photos": [
           {
-            "name": "zowkSI5"
+            "name": "023",
+            "alt": "Mürtschenstock"
           }
         ],
         "videos": [],
@@ -140,7 +161,8 @@
       {
         "photos": [
           {
-            "name": "nZWdmgk"
+            "name": "024",
+            "alt": "Alpenrosen"
           }
         ],
         "videos": [],
@@ -149,13 +171,16 @@
       {
         "photos": [
           {
-            "name": "dq3MJBC"
+            "name": "025",
+            "alt": "Oberer Murgsee"
           },
           {
-            "name": "ToXI3ju"
+            "name": "026",
+            "alt": "Murgseehütte"
           },
           {
-            "name": "oNslnEi"
+            "name": "027",
+            "alt": "Alpenrosen am Murgsee"
           }
         ],
         "videos": [],
@@ -164,10 +189,12 @@
       {
         "photos": [
           {
-            "name": "xzhu93O"
+            "name": "028",
+            "alt": "Blumenwiese am Murgsee"
           },
           {
-            "name": "SLd2xNH"
+            "name": "029",
+            "alt": "Insel auf Murgsee"
           }
         ],
         "videos": [],
@@ -176,10 +203,12 @@
       {
         "photos": [
           {
-            "name": "Boavd4P"
+            "name": "030",
+            "alt": "Wanderweg zwischen Murgseen"
           },
           {
-            "name": "FbHFEns"
+            "name": "031",
+            "alt": "Staumauer Murgsee"
           }
         ],
         "videos": [],
@@ -188,7 +217,8 @@
       {
         "photos": [
           {
-            "name": "eIhA7Xp"
+            "name": "033",
+            "alt": "Murgseehütte"
           }
         ],
         "videos": [],
@@ -197,10 +227,12 @@
       {
         "photos": [
           {
-            "name": "tOP7bOZ"
+            "name": "034",
+            "alt": "Mittlerer Murgsee"
           },
           {
-            "name": "AzfCJk0"
+            "name": "035",
+            "alt": "Mittlerer Murgsee"
           }
         ],
         "videos": [],
@@ -209,10 +241,12 @@
       {
         "photos": [
           {
-            "name": "gTHLcGy"
+            "name": "036",
+            "alt": "Unterer Murgsee"
           },
           {
-            "name": "yAJoFCD"
+            "name": "037",
+            "alt": "Unterer Murgsee"
           }
         ],
         "videos": [],
@@ -221,7 +255,8 @@
       {
         "photos": [
           {
-            "name": "39BonEt"
+            "name": "039",
+            "alt": "Lila Blume mit Farn"
           }
         ],
         "videos": [],
@@ -230,7 +265,8 @@
       {
         "photos": [
           {
-            "name": "UpMxYsu"
+            "name": "040",
+            "alt": "Alp unter Felswand"
           }
         ],
         "videos": [],
@@ -239,7 +275,8 @@
       {
         "photos": [
           {
-            "name": "3g8TVvU"
+            "name": "041",
+            "alt": "Steile Serpentine"
           }
         ],
         "videos": [],
@@ -248,7 +285,8 @@
       {
         "photos": [
           {
-            "name": "rMFEaLK"
+            "name": "042",
+            "alt": "Fahrweg zu den Murgseen"
           }
         ],
         "videos": [],
@@ -257,7 +295,8 @@
       {
         "photos": [
           {
-            "name": "WQDTuSt"
+            "name": "043",
+            "alt": "Straße Walensee Murgseen"
           }
         ],
         "videos": [],
@@ -266,10 +305,10 @@
       {
         "photos": [
           {
-            "name": "p6YB3ru"
+            "name": "track1"
           },
           {
-            "name": "cCohyMi"
+            "name": "track2"
           }
         ],
         "videos": [],

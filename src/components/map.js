@@ -135,6 +135,9 @@ class Map extends React.Component {
       this.targetTime = this.viewer.clock.stopTime;
     } else {
       this.targetTime = this.Cesium.JulianDate.fromIso8601(newTime);
+      if (this.props.timeShift) {
+        this.Cesium.JulianDate.addSeconds(this.targetTime, this.props.timeShift, this.targetTime);
+      }
     }
   }
 
@@ -168,9 +171,9 @@ class Map extends React.Component {
     if (!this.targetTime) return;
 
     const timeDifference = this.Cesium.JulianDate.secondsDifference(this.targetTime, this.viewer.clock.currentTime);
-    let multiplier = timeDifference;
-    multiplier = Math.max(multiplier, -10000);
-    multiplier = Math.min(multiplier, 10000);
+    let multiplier = timeDifference/3;
+    multiplier = Math.max(multiplier, -5000);
+    multiplier = Math.min(multiplier, 5000);
     this.viewer.clock.multiplier = multiplier;
     if (Math.abs(multiplier) < 20) {
       this.viewer.clock.shouldAnimate = false;
@@ -320,6 +323,7 @@ class Map extends React.Component {
 Map.propTypes = {
   gpxPath: PropTypes.string.isRequired,
   time: PropTypes.string.isRequired,
+  timeShift: PropTypes.number,
   onClick: PropTypes.func
 };
 

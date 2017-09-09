@@ -3,7 +3,7 @@
     "destination": "fronalpstock",
     "date": "20160716",
     "type": "hike",
-    "track": false,
+    "track": true,
     "shortTitle": "Fronalpstock",
     "title": "Umrundung Fronalpstock",
     "intro": "Durch den Neuschnee der vergangenen Woche war ich bei der Auswahl von Wanderzielen auf die Höhe von unter 2000m eingeschränkt. Ich entschied mich für die Umrundung des Glaruser Fronalpstocks, der ganz in der Nähe der Murgseen liegt, die ich in der Woche zuvor besuchte.<br />\nPünktlich zum Betriebsstart der Sesselbahn parkte ich mein Auto um 8:00 in Filzbach, einem kleinen Ort oberhalb des Walensees.",
@@ -11,10 +11,12 @@
       {
         "photos": [
           {
-            "name": "FEyG4o7"
+            "name": "001",
+            "alt": "Sesselbahn Filzbach"
           },
           {
-            "name": "kdNr0Yr"
+            "name": "003",
+            "alt": "Bergstation Sesselbahn Filzbach"
           }
         ],
         "videos": [],
@@ -23,7 +25,8 @@
       {
         "photos": [
           {
-            "name": "wqJUXic"
+            "name": "004",
+            "alt": "Blick Zürichsee"
           }
         ],
         "videos": [],
@@ -32,7 +35,8 @@
       {
         "photos": [
           {
-            "name": "E59vuIB"
+            "name": "005",
+            "alt": "Wanderweg durch Wald"
           }
         ],
         "videos": [],
@@ -41,7 +45,8 @@
       {
         "photos": [
           {
-            "name": "Dt88cps"
+            "name": "006",
+            "alt": "Glarus"
           }
         ],
         "videos": [],
@@ -50,7 +55,8 @@
       {
         "photos": [
           {
-            "name": "cJ9cGgI"
+            "name": "007",
+            "alt": "Dunkle Tannen"
           }
         ],
         "videos": [],
@@ -59,7 +65,8 @@
       {
         "photos": [
           {
-            "name": "6pXW8Ht"
+            "name": "008",
+            "alt": "Mullern"
           }
         ],
         "videos": [],
@@ -68,7 +75,8 @@
       {
         "photos": [
           {
-            "name": "sjywTsM"
+            "name": "009",
+            "alt": "Fahrstraße Mullern"
           }
         ],
         "videos": [],
@@ -77,10 +85,12 @@
       {
         "photos": [
           {
-            "name": "x8u9Zt8"
+            "name": "010",
+            "alt": "Alp"
           },
           {
-            "name": "nAzJwBM"
+            "name": "011",
+            "alt": "Vermostes Wegzeichen"
           }
         ],
         "videos": [],
@@ -89,7 +99,8 @@
       {
         "photos": [
           {
-            "name": "M04i5qR"
+            "name": "013",
+            "alt": "Naturfreundehaus Fronalp"
           }
         ],
         "videos": [],
@@ -98,7 +109,8 @@
       {
         "photos": [
           {
-            "name": "MGfKvyS"
+            "name": "MGfKvyS",
+            "alt": "Verschneiter Tödi"
           }
         ],
         "videos": [],
@@ -107,7 +119,8 @@
       {
         "photos": [
           {
-            "name": "0HWEXJX"
+            "name": "015",
+            "alt": "Katze an Bauernhof"
           }
         ],
         "videos": [],
@@ -116,7 +129,8 @@
       {
         "photos": [
           {
-            "name": "M9JDWnK"
+            "name": "017",
+            "alt": "Klöntalersee"
           }
         ],
         "videos": [],
@@ -125,7 +139,8 @@
       {
         "photos": [
           {
-            "name": "lIaaBUF"
+            "name": "018",
+            "alt": "Mürtschenstock"
           }
         ],
         "videos": [],
@@ -134,7 +149,8 @@
       {
         "photos": [
           {
-            "name": "zrv004c"
+            "name": "019",
+            "alt": "Fronalpstock"
           }
         ],
         "videos": [],
@@ -143,7 +159,8 @@
       {
         "photos": [
           {
-            "name": "8emjEi2"
+            "name": "020",
+            "alt": "Mürtschenstock mit Blume"
           }
         ],
         "videos": [],
@@ -152,7 +169,8 @@
       {
         "photos": [
           {
-            "name": "ov0JyPx"
+            "name": "021",
+            "alt": "Abstieg Fronalppass"
           }
         ],
         "videos": [],
@@ -161,7 +179,8 @@
       {
         "photos": [
           {
-            "name": "vcqMYbB"
+            "name": "022",
+            "alt": "Wanderweg zum Fronalpstock"
           }
         ],
         "videos": [],
@@ -170,7 +189,8 @@
       {
         "photos": [
           {
-            "name": "CaxIvuc"
+            "name": "024",
+            "alt": "Alp Hummel"
           }
         ],
         "videos": [],
@@ -179,7 +199,8 @@
       {
         "photos": [
           {
-            "name": "eodQk3C"
+            "name": "025",
+            "alt": "Spaneggsee"
           }
         ],
         "videos": [],
@@ -188,7 +209,8 @@
       {
         "photos": [
           {
-            "name": "bmvknza"
+            "name": "026",
+            "alt": "Talalpsee"
           }
         ],
         "videos": [],
@@ -197,7 +219,8 @@
       {
         "photos": [
           {
-            "name": "Yp64IIj"
+            "name": "028",
+            "alt": "Aufstieg Spaneggsee"
           }
         ],
         "videos": [],
@@ -206,7 +229,8 @@
       {
         "photos": [
           {
-            "name": "cRgL1E5"
+            "name": "029",
+            "alt": "Talalpsee"
           }
         ],
         "videos": [],
@@ -215,7 +239,8 @@
       {
         "photos": [
           {
-            "name": "wGQIT2j"
+            "name": "030",
+            "alt": "Talalpsee"
           }
         ],
         "videos": [],
@@ -224,7 +249,8 @@
       {
         "photos": [
           {
-            "name": "CMeiMVh"
+            "name": "031",
+            "alt": "Wanderweg durch Schlucht"
           }
         ],
         "videos": [],
@@ -233,10 +259,10 @@
       {
         "photos": [
           {
-            "name": "3Ancxqc"
+            "name": "track1"
           },
           {
-            "name": "scVeG0j"
+            "name": "track2"
           }
         ],
         "videos": [],

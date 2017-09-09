@@ -3,7 +3,7 @@
     "destination": "alpstein",
     "date": "20160730",
     "type": "hike",
-    "track": false,
+    "track": true,
     "shortTitle": "Wagenlücke",
     "title": "Wasserauen - Wagenlücke",
     "intro": "An diesem Samstag habe ich mich dran gemacht, ein paar weitere Lücken im Alpstein zu füllen und mir die Wagenlücke als Ziel ausgesucht. Die Wagenlücke ist ein Pass unterhalb des Säntis, der am besten von Wasserauen bei Appenzell zu erreichen ist.",
@@ -11,7 +11,7 @@
       {
         "photos": [
           {
-            "name": "rl3FuuH",
+            "name": "001",
             "alt": "Parkplatz Wasserauen"
           }
         ],
@@ -21,12 +21,12 @@
       {
         "photos": [
           {
-            "name": "1Lpp4ef",
-            "alt": "Wasserfall durch Felsen"
+            "name": "002",
+            "alt": "Waldweg Wasserauen Seealpsee"
           },
           {
-            "name": "GzKMAti",
-            "alt": "Waldweg Wasserauen Seealpsee"
+            "name": "003",
+            "alt": "Wasserfall durch Felsen"
           }
         ],
         "videos": [],
@@ -35,7 +35,17 @@
       {
         "photos": [
           {
-            "name": "G2bcdVK",
+            "name": "004",
+            "alt": "Gasthaus Äscher unter Felswand"
+          }
+        ],
+        "videos": [],
+        "text": "Der Blick auf die andere Seite des Tals wurde möglich. Hier ist die Gaststätte Äscher zu sehen, die unterhalb einer hohen Felswand kauert. Weiter rechts kann man das Wildkirchli und den Höhleneingang hinauf zur Ebenalp erahnen."
+      },
+      {
+        "photos": [
+          {
+            "name": "005",
             "alt": "Haus im Alpstein"
           }
         ],
@@ -45,29 +55,19 @@
       {
         "photos": [
           {
-            "name": "5raB1w7",
-            "alt": "Gasthaus Äscher unter Felswand"
-          }
-        ],
-        "videos": [],
-        "text": "Auch der Blick auf die andere Seite des Tals wurde nun möglich. Hier ist die Gaststätte Äscher zu sehen, die unterhalb einer hohen Felswand kauert. Weiter rechts kann man das Wildkirchli und den Höhleneingang hinauf zur Ebenalp erahnen."
-      },
-      {
-        "photos": [
-          {
-            "name": "HZQCj90",
+            "name": "006",
             "alt": "Großhütten"
           },
           {
-            "name": "Rjr5fP7",
+            "name": "007",
             "alt": "Weidende Kühe vor Säntis"
           },
           {
-            "name": "guQTx2D",
+            "name": "008",
             "alt": "Kuh vor Felswand"
           },
           {
-            "name": "okuLwC3",
+            "name": "009",
             "alt": "Blumenwiese oberhalb Großhütten"
           }
         ],
@@ -77,7 +77,7 @@
       {
         "photos": [
           {
-            "name": "XInyNGS",
+            "name": "010",
             "alt": "Schrennen"
           }
         ],
@@ -87,7 +87,7 @@
       {
         "photos": [
           {
-            "name": "XBG4jwR",
+            "name": "011",
             "alt": "Schäfler"
           }
         ],
@@ -97,11 +97,11 @@
       {
         "photos": [
           {
-            "name": "QSV8Nxo",
+            "name": "012",
             "alt": "Miniaturaufnahme Restaurants Seealpsee"
           },
           {
-            "name": "IDJz81K",
+            "name": "013",
             "alt": "Türkiser Seealpsee von oben"
           }
         ],
@@ -111,15 +111,15 @@
       {
         "photos": [
           {
-            "name": "dN7XZbp",
+            "name": "015",
             "alt": "Ageteplatte"
           },
           {
-            "name": "RvIPgV7",
+            "name": "016",
             "alt": "Wanderweg zur Meglisalp"
           },
           {
-            "name": "8eeeIND",
+            "name": "017",
             "alt": "Meglisalp"
           }
         ],
@@ -129,7 +129,7 @@
       {
         "photos": [
           {
-            "name": "gZD4DuQ",
+            "name": "018",
             "alt": "Bergweg Meglisalp Ageteplatte"
           }
         ],
@@ -139,7 +139,7 @@
       {
         "photos": [
           {
-            "name": "6rdzBNs",
+            "name": "019",
             "alt": "Blumen auf Bergwiese"
           }
         ],
@@ -149,17 +149,7 @@
       {
         "photos": [
           {
-            "name": "A1FQ5JP",
-            "alt": "Seealpsee"
-          }
-        ],
-        "videos": [],
-        "text": "Noch mal der Blick zurück zum Seealpsee und rechts im Schatten den Schrennen."
-      },
-      {
-        "photos": [
-          {
-            "name": "I9FVxKB",
+            "name": "020",
             "alt": "Raupe auf Stein"
           }
         ],
@@ -169,7 +159,17 @@
       {
         "photos": [
           {
-            "name": "vctegyh",
+            "name": "021",
+            "alt": "Seealpsee"
+          }
+        ],
+        "videos": [],
+        "text": "Noch mal der Blick zurück zum Seealpsee und rechts im Schatten den Schrennen."
+      },
+      {
+        "photos": [
+          {
+            "name": "022",
             "alt": "Wanderweg vor Altmann"
           }
         ],
@@ -179,11 +179,11 @@
       {
         "photos": [
           {
-            "name": "qPTA1JJ",
+            "name": "023",
             "alt": "Rote Blume"
           },
           {
-            "name": "VXcoCG0",
+            "name": "024",
             "alt": "Blaue Blume"
           }
         ],
@@ -193,8 +193,8 @@
       {
         "photos": [
           {
-            "name": "zZfABVr",
-            "alt": "Kühe in Alpstein"
+            "name": "025",
+            "alt": "Kühe im Alpstein"
           }
         ],
         "videos": [],
@@ -203,7 +203,7 @@
       {
         "photos": [
           {
-            "name": "QC0i2OT",
+            "name": "027",
             "alt": "Hütte an Wagenlücke"
           }
         ],
@@ -213,7 +213,7 @@
       {
         "photos": [
           {
-            "name": "5Kkv4Fi",
+            "name": "026",
             "alt": "Blick Wagenlücke zum Säntis Gipfel"
           }
         ],
@@ -223,11 +223,11 @@
       {
         "photos": [
           {
-            "name": "QKofCh7",
+            "name": "028",
             "alt": "Alte Zahnrad Säntisbahn"
           },
           {
-            "name": "qgrTomg",
+            "name": "029",
             "alt": "Tafel Haltestelle Sörenböhl"
           }
         ],
@@ -237,7 +237,7 @@
       {
         "photos": [
           {
-            "name": "sKbxvuF",
+            "name": "030",
             "alt": "Wagenlücke"
           }
         ],
@@ -247,7 +247,7 @@
       {
         "photos": [
           {
-            "name": "jYqrfyC",
+            "name": "031",
             "alt": "Wagenlücke Richtung Säntis"
           }
         ],
@@ -257,7 +257,7 @@
       {
         "photos": [
           {
-            "name": "vDTjo6t",
+            "name": "032",
             "alt": "Wanderweg Wagenlücke Mesmer"
           }
         ],
@@ -267,8 +267,8 @@
       {
         "photos": [
           {
-            "name": "IiITi4T",
-            "alt": "Insekten auf Weißer Blume"
+            "name": "033",
+            "alt": "Insekten auf weißer Blume"
           }
         ],
         "videos": [],
@@ -277,11 +277,11 @@
       {
         "photos": [
           {
-            "name": "5VLjDcg",
+            "name": "034",
             "alt": "Drahtseil zwischen Mesmer und Wagenlücke"
           },
           {
-            "name": "Ztq1moE",
+            "name": "035",
             "alt": "Bergweg unterhalb Felswand"
           }
         ],
@@ -291,7 +291,7 @@
       {
         "photos": [
           {
-            "name": "R1xGuSM",
+            "name": "036",
             "alt": "Gelbe Blumen"
           }
         ],
@@ -301,7 +301,7 @@
       {
         "photos": [
           {
-            "name": "FfO5Maj",
+            "name": "037",
             "alt": "Gasthaus Mesmer mit Säntis"
           }
         ],
@@ -311,11 +311,11 @@
       {
         "photos": [
           {
-            "name": "mpzCv0O",
+            "name": "038",
             "alt": "Blick Mesmer Seealpsee"
           },
           {
-            "name": "970CvmQ",
+            "name": "039",
             "alt": "Seealpsee"
           }
         ],
@@ -325,7 +325,7 @@
       {
         "photos": [
           {
-            "name": "rklzhsn",
+            "name": "040",
             "alt": "Bergbach"
           }
         ],
@@ -335,11 +335,11 @@
       {
         "photos": [
           {
-            "name": "4cTnHYw",
+            "name": "041",
             "alt": "Alpwiesen vor Seealpsee"
           },
           {
-            "name": "uFPPZOs",
+            "name": "042",
             "alt": "Alpen am Seealpsee"
           }
         ],
@@ -349,7 +349,7 @@
       {
         "photos": [
           {
-            "name": "GiFz0zW",
+            "name": "043",
             "alt": "Badeplatz Seealpsee"
           }
         ],
@@ -359,11 +359,11 @@
       {
         "photos": [
           {
-            "name": "l7xeh2v",
+            "name": "044",
             "alt": "Schwimmen im Seealpsee"
           },
           {
-            "name": "WaXx1VJ",
+            "name": "045",
             "alt": "Waldweg am Seealpsee"
           }
         ],
@@ -373,7 +373,7 @@
       {
         "photos": [
           {
-            "name": "McwFpaR",
+            "name": "046",
             "alt": "Fahrstraße Wasserauen Seealpsee"
           }
         ],
@@ -383,11 +383,11 @@
       {
         "photos": [
           {
-            "name": "RCNzpls",
+            "name": "track1",
             "alt": "Wegstrecke Wasserauen Wagenlücke"
           },
           {
-            "name": "GjWIOIG",
+            "name": "track2",
             "alt": "Höhenprofil Wasserauen Wagenlücke"
           }
         ],
