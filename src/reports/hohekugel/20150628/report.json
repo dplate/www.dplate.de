@@ -3,7 +3,8 @@
     "destination": "hohekugel",
     "date": "20150628",
     "type": "hike",
-    "track": false,
+    "track": true,
+    "hideSwissMap": true,
     "shortTitle": "Hohe Kugel",
     "title": "Ebnit - Hohe Kugel",
     "intro": "Ein Schönwettersonntag stand an, ich beschloss eine kleinere Wanderung auf die Hohe Kugel in Vorarlberg zu unternehmen. Nach gut einer Stunde Fahrt kam ich in dem kleinen und abgelegenen Ort Ebnit um 7:45 an. Ebnit (1000m) liegt oberhalb Dornbirns und ist nur durch eine einspurige und steile Straße durch den Rappenlochschlucht zu erreichen.",
@@ -11,7 +12,7 @@
       {
         "photos": [
           {
-            "name": "c9x5Vto"
+            "name": "001"
           }
         ],
         "videos": [],
@@ -20,7 +21,7 @@
       {
         "photos": [
           {
-            "name": "Lzhdbei"
+            "name": "002"
           }
         ],
         "videos": [],
@@ -29,7 +30,7 @@
       {
         "photos": [
           {
-            "name": "ftgobfM"
+            "name": "003"
           }
         ],
         "videos": [],
@@ -38,7 +39,7 @@
       {
         "photos": [
           {
-            "name": "UqbkdHX"
+            "name": "004"
           }
         ],
         "videos": [],
@@ -47,7 +48,7 @@
       {
         "photos": [
           {
-            "name": "O4IdH7H"
+            "name": "005"
           }
         ],
         "videos": [],
@@ -56,7 +57,7 @@
       {
         "photos": [
           {
-            "name": "HfBNDKg"
+            "name": "006"
           }
         ],
         "videos": [],
@@ -65,7 +66,7 @@
       {
         "photos": [
           {
-            "name": "bPt3PeC"
+            "name": "007"
           }
         ],
         "videos": [],
@@ -74,7 +75,7 @@
       {
         "photos": [
           {
-            "name": "WHBX47W"
+            "name": "008"
           }
         ],
         "videos": [],
@@ -83,7 +84,7 @@
       {
         "photos": [
           {
-            "name": "9WrOQQt"
+            "name": "009"
           }
         ],
         "videos": [],
@@ -92,7 +93,7 @@
       {
         "photos": [
           {
-            "name": "9TJpruL"
+            "name": "010"
           }
         ],
         "videos": [],
@@ -101,7 +102,7 @@
       {
         "photos": [
           {
-            "name": "H8mz79Y"
+            "name": "011"
           }
         ],
         "videos": [],
@@ -110,7 +111,7 @@
       {
         "photos": [
           {
-            "name": "vHfYOuR"
+            "name": "012"
           }
         ],
         "videos": [],
@@ -119,7 +120,7 @@
       {
         "photos": [
           {
-            "name": "rv4e5gy"
+            "name": "013"
           }
         ],
         "videos": [],
@@ -128,7 +129,7 @@
       {
         "photos": [
           {
-            "name": "mt8i6yU"
+            "name": "014"
           }
         ],
         "videos": [],
@@ -137,7 +138,7 @@
       {
         "photos": [
           {
-            "name": "xamXcCw"
+            "name": "015"
           }
         ],
         "videos": [],
@@ -146,13 +147,13 @@
       {
         "photos": [
           {
-            "name": "6rvRuhx"
+            "name": "016"
           },
           {
-            "name": "oHFuN1m"
+            "name": "017"
           },
           {
-            "name": "V316ZQr"
+            "name": "018"
           }
         ],
         "videos": [],
@@ -161,7 +162,7 @@
       {
         "photos": [
           {
-            "name": "Css01pJ"
+            "name": "019"
           }
         ],
         "videos": [],
@@ -170,7 +171,7 @@
       {
         "photos": [
           {
-            "name": "5H9ZIRs"
+            "name": "020"
           }
         ],
         "videos": [],
@@ -179,7 +180,7 @@
       {
         "photos": [
           {
-            "name": "RiUGiiu"
+            "name": "021"
           }
         ],
         "videos": [],
@@ -188,7 +189,7 @@
       {
         "photos": [
           {
-            "name": "HtWxN8J"
+            "name": "022"
           }
         ],
         "videos": [],
@@ -197,7 +198,7 @@
       {
         "photos": [
           {
-            "name": "hrwuDsg"
+            "name": "024"
           }
         ],
         "videos": [],
@@ -206,7 +207,7 @@
       {
         "photos": [
           {
-            "name": "MvFCVLz"
+            "name": "025"
           }
         ],
         "videos": [],
@@ -215,10 +216,10 @@
       {
         "photos": [
           {
-            "name": "IBGqePq"
+            "name": "track1"
           },
           {
-            "name": "nCZdNv4"
+            "name": "track2"
           }
         ],
         "videos": [],

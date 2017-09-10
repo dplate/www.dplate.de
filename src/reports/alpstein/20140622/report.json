@@ -3,7 +3,7 @@
     "destination": "alpstein",
     "date": "20140622",
     "type": "hike",
-    "track": false,
+    "track": true,
     "shortTitle": "Seealpsee",
     "title": "Umrundung Seealpsee",
     "intro": "Nachdem ich im letzten Herbst bereits eine bekannte Wanderung am Hohen Kasten im Alpsteingebiet unternommen hatte (<a href=\"/alpine/alpstein/20131019\">Bericht</a>), machte ich mich diesen Sonntag zu einer weiteren populären Tour in diesem Gebirgsmassivs auf - rund um den Seealpsee.<br />\nDa ich mir gerne Zeit beim Wandern lasse, war ich bereits um 7:30 am Gratisparkplatz in Wasserauen angekommen. Während auf der Fahrt fast niemand unterwegs war, waren überraschenderweise die Parkflächen bereits halb belegt (wahrscheinlich viele Mehrtageswanderer).",
@@ -11,7 +11,7 @@
       {
         "photos": [
           {
-            "name": "cMLmvv9",
+            "name": "001",
             "alt": "Talstation Ebenalp Seilbahn"
           }
         ],
@@ -21,7 +21,7 @@
       {
         "photos": [
           {
-            "name": "OlK4U7S",
+            "name": "002",
             "alt": "Wanderweg am Waldrand"
           }
         ],
@@ -31,7 +31,7 @@
       {
         "photos": [
           {
-            "name": "dWMgMgV",
+            "name": "003",
             "alt": "Blick aus Dunklem Wald zur Ebenalp"
           }
         ],
@@ -41,7 +41,7 @@
       {
         "photos": [
           {
-            "name": "33MHvVb",
+            "name": "004",
             "alt": "Blühende Weiden vor Ebenalp"
           }
         ],
@@ -51,7 +51,7 @@
       {
         "photos": [
           {
-            "name": "HAzCPTs",
+            "name": "005",
             "alt": "Seilbahntrasse Hoher Kasten"
           }
         ],
@@ -61,7 +61,7 @@
       {
         "photos": [
           {
-            "name": "V25UjpK",
+            "name": "006",
             "alt": "Ebenalp Seilbahn vor Felswand"
           }
         ],
@@ -71,7 +71,7 @@
       {
         "photos": [
           {
-            "name": "3yFKxdN",
+            "name": "007",
             "alt": "Idyllische Alp"
           }
         ],
@@ -81,7 +81,7 @@
       {
         "photos": [
           {
-            "name": "El2kkZL",
+            "name": "008",
             "alt": "Wanderweg mit Holzstufen"
           }
         ],
@@ -91,7 +91,7 @@
       {
         "photos": [
           {
-            "name": "bM9zYhu",
+            "name": "009",
             "alt": "Gondel der Ebenalp Seilbahn"
           }
         ],
@@ -101,7 +101,7 @@
       {
         "photos": [
           {
-            "name": "iecEDG8",
+            "name": "010",
             "alt": "Wanderweg mit Blick ins Appenzeller Land"
           }
         ],
@@ -111,7 +111,7 @@
       {
         "photos": [
           {
-            "name": "6Fj7qVe",
+            "name": "011",
             "alt": "Weg unterhalb von Felswand"
           }
         ],
@@ -121,11 +121,11 @@
       {
         "photos": [
           {
-            "name": "Z0IRYHJ",
+            "name": "012",
             "alt": "Panorama Äscher"
           },
           {
-            "name": "sgK1vJk",
+            "name": "013",
             "alt": "Restaurant Äscher in Felswand"
           }
         ],
@@ -135,7 +135,7 @@
       {
         "photos": [
           {
-            "name": "rC2c2wp",
+            "name": "014",
             "alt": "Weg von Restaurant Äscher zur Kapelle Wildkirchli"
           }
         ],
@@ -145,7 +145,7 @@
       {
         "photos": [
           {
-            "name": "ANiS0qq",
+            "name": "015",
             "alt": "Höhleneingang Wildkirchli mit Seilbahn"
           }
         ],
@@ -155,11 +155,11 @@
       {
         "photos": [
           {
-            "name": "XDQM0OS",
+            "name": "016",
             "alt": "Höhle hinter Wildkirchli"
           },
           {
-            "name": "0xaZd8Z",
+            "name": "017",
             "alt": "Höhle unterhalb Ebenalp"
           }
         ],
@@ -169,7 +169,7 @@
       {
         "photos": [
           {
-            "name": "BtNYDlB",
+            "name": "018",
             "alt": "Weg von Ebenalp zur Höhle"
           }
         ],
@@ -179,7 +179,7 @@
       {
         "photos": [
           {
-            "name": "cm6Bjlh",
+            "name": "019",
             "alt": "Bank auf Ebenalp vor Seilbahn"
           }
         ],
@@ -189,7 +189,7 @@
       {
         "photos": [
           {
-            "name": "H7xWDiA",
+            "name": "020",
             "alt": "Wegweiser zum Schäfler"
           }
         ],
@@ -199,7 +199,7 @@
       {
         "photos": [
           {
-            "name": "tDXcSmD",
+            "name": "021",
             "alt": "Blick von Ebenalp zum Schäfler"
           }
         ],
@@ -209,7 +209,7 @@
       {
         "photos": [
           {
-            "name": "w6IKnkh",
+            "name": "022",
             "alt": "Blick von Ebenalp zum Seealpsee"
           }
         ],
@@ -219,7 +219,7 @@
       {
         "photos": [
           {
-            "name": "fUOHI3L",
+            "name": "023",
             "alt": "Wanderweg zum Schäfler"
           }
         ],
@@ -229,7 +229,7 @@
       {
         "photos": [
           {
-            "name": "G7FJHox",
+            "name": "024",
             "alt": "Hauptweg zum Schäfler"
           }
         ],
@@ -239,7 +239,7 @@
       {
         "photos": [
           {
-            "name": "hKZEh1k",
+            "name": "025",
             "alt": "Pferd mit Altmann"
           }
         ],
@@ -249,7 +249,7 @@
       {
         "photos": [
           {
-            "name": "LOXPk3I",
+            "name": "026",
             "alt": "Skilift Ebenalp im Sommer"
           }
         ],
@@ -259,7 +259,7 @@
       {
         "photos": [
           {
-            "name": "RcEtpt4",
+            "name": "027",
             "alt": "Kuh mit Blick auf Kronberg"
           }
         ],
@@ -269,7 +269,7 @@
       {
         "photos": [
           {
-            "name": "GRwTLCD",
+            "name": "028",
             "alt": "Alpendohle über Appenzeller Land"
           }
         ],
@@ -279,7 +279,7 @@
       {
         "photos": [
           {
-            "name": "ufkVQjo",
+            "name": "029",
             "alt": "Gaststätte Schäfler"
           }
         ],
@@ -289,11 +289,11 @@
       {
         "photos": [
           {
-            "name": "O67bCs6",
+            "name": "030",
             "alt": "Panorama vom Schäfler"
           },
           {
-            "name": "n2Sg1DO",
+            "name": "031",
             "alt": "Steiler Weg am Schäfler"
           }
         ],
@@ -303,7 +303,7 @@
       {
         "photos": [
           {
-            "name": "bZSePmx",
+            "name": "032",
             "alt": "Gasthaus Schäfler mit Wiese"
           }
         ],
@@ -313,11 +313,11 @@
       {
         "photos": [
           {
-            "name": "KnDNF7Q",
+            "name": "033",
             "alt": "Drahtseil am Schäfler"
           },
           {
-            "name": "6R9RFw5",
+            "name": "034",
             "alt": "Weg um Felswand"
           }
         ],
@@ -327,11 +327,11 @@
       {
         "photos": [
           {
-            "name": "fQZfJtl",
+            "name": "035",
             "alt": "Rostige Treppe am Schäfler"
           },
           {
-            "name": "sSiH6dy",
+            "name": "036",
             "alt": "Treppe mit Drahtseil"
           }
         ],
@@ -341,7 +341,7 @@
       {
         "photos": [
           {
-            "name": "EVDaWXw",
+            "name": "037",
             "alt": "Treppe mit Hangweg"
           }
         ],
@@ -351,7 +351,7 @@
       {
         "photos": [
           {
-            "name": "BQXCwMy",
+            "name": "038",
             "alt": "Steiler Hangweg mit Drahtseil"
           }
         ],
@@ -361,7 +361,7 @@
       {
         "photos": [
           {
-            "name": "nEyOMbG",
+            "name": "039",
             "alt": "Wanderweg am Steilhang"
           }
         ],
@@ -371,7 +371,7 @@
       {
         "photos": [
           {
-            "name": "DRgRR7c",
+            "name": "040",
             "alt": "Bergweg zum Schäfler"
           }
         ],
@@ -381,7 +381,7 @@
       {
         "photos": [
           {
-            "name": "U0HxGP5",
+            "name": "041",
             "alt": "Blick auf Schäfler und Seealpsee"
           }
         ],
@@ -391,7 +391,7 @@
       {
         "photos": [
           {
-            "name": "75srMLy",
+            "name": "042",
             "alt": "Weg über Scharte"
           }
         ],
@@ -401,7 +401,7 @@
       {
         "photos": [
           {
-            "name": "BrDuFUY",
+            "name": "043",
             "alt": "Blick von Scharte zum Gasthaus Mesmer"
           }
         ],
@@ -411,7 +411,7 @@
       {
         "photos": [
           {
-            "name": "TilNIi5",
+            "name": "044",
             "alt": "Bergschuhe mit Seealpsee"
           }
         ],
@@ -421,7 +421,7 @@
       {
         "photos": [
           {
-            "name": "uYu5s3s",
+            "name": "045",
             "alt": "Sonniger Abstieg von Scharte"
           }
         ],
@@ -431,7 +431,7 @@
       {
         "photos": [
           {
-            "name": "9pPB01A",
+            "name": "046",
             "alt": "Seealpsee von Mesmer"
           }
         ],
@@ -441,7 +441,7 @@
       {
         "photos": [
           {
-            "name": "Lk0IMEH",
+            "name": "047",
             "alt": "Miniaturaufnahme Gasthaus Mesmer"
           }
         ],
@@ -451,7 +451,7 @@
       {
         "photos": [
           {
-            "name": "jPfFxpH",
+            "name": "048",
             "alt": "Kühe vor Säntis"
           }
         ],
@@ -461,7 +461,7 @@
       {
         "photos": [
           {
-            "name": "RI8WPO3",
+            "name": "049",
             "alt": "Steiler Weg zur Ageteplatte"
           }
         ],
@@ -471,7 +471,7 @@
       {
         "photos": [
           {
-            "name": "iGA0TWU",
+            "name": "050",
             "alt": "Unterhalb der Ageteplatte"
           }
         ],
@@ -481,7 +481,7 @@
       {
         "photos": [
           {
-            "name": "AI3e9wX",
+            "name": "051",
             "alt": "Aussicht von Ageteplatte"
           }
         ],
@@ -491,11 +491,11 @@
       {
         "photos": [
           {
-            "name": "oX6B8pR",
+            "name": "052",
             "alt": "Blick von Ageteplatte"
           },
           {
-            "name": "wY8qnA7",
+            "name": "055",
             "alt": "Meglisalp von oben"
           }
         ],
@@ -505,7 +505,7 @@
       {
         "photos": [
           {
-            "name": "gvWMxAI",
+            "name": "057",
             "alt": "Miniaturaufnahme Meglisalp"
           }
         ],
@@ -515,7 +515,7 @@
       {
         "photos": [
           {
-            "name": "Vn32AKv",
+            "name": "058",
             "alt": "Abstieg Ageteplatte"
           }
         ],
@@ -525,7 +525,7 @@
       {
         "photos": [
           {
-            "name": "4konFBy",
+            "name": "061",
             "alt": "Meglisalp"
           }
         ],
@@ -535,7 +535,7 @@
       {
         "photos": [
           {
-            "name": "TSJ3GQr",
+            "name": "062",
             "alt": "Hochtal Meglisalp"
           }
         ],
@@ -545,7 +545,7 @@
       {
         "photos": [
           {
-            "name": "TH17URY",
+            "name": "063",
             "alt": "Gottesdienst Kapelle Meglisalp"
           }
         ],
@@ -555,7 +555,7 @@
       {
         "photos": [
           {
-            "name": "QD1BmBQ",
+            "name": "064",
             "alt": "Meglisalp und Ageteplatte"
           }
         ],
@@ -565,11 +565,11 @@
       {
         "photos": [
           {
-            "name": "tzGPLh9",
+            "name": "065",
             "alt": "Steiler Abstieg zum Seealpsee"
           },
           {
-            "name": "B3RVpDo",
+            "name": "066",
             "alt": "Weg durch Felswand zum Seealpsee"
           }
         ],
@@ -579,7 +579,7 @@
       {
         "photos": [
           {
-            "name": "Qu8UwHQ",
+            "name": "067",
             "alt": "Steile Stufen oberhalb des Sees"
           }
         ],
@@ -589,11 +589,11 @@
       {
         "photos": [
           {
-            "name": "PaxRhVQ",
+            "name": "069",
             "alt": "Ufer des Seealpsee"
           },
           {
-            "name": "nmr29fE",
+            "name": "068",
             "alt": "Baden im Seealpsee"
           }
         ],
@@ -603,7 +603,7 @@
       {
         "photos": [
           {
-            "name": "gfuHYW9",
+            "name": "070",
             "alt": "Grillstellen am Seealpsee"
           }
         ],
@@ -613,7 +613,7 @@
       {
         "photos": [
           {
-            "name": "fcqBOhW",
+            "name": "071",
             "alt": "Wasserfall im Dunklen Wald"
           }
         ],
@@ -623,7 +623,7 @@
       {
         "photos": [
           {
-            "name": "RWhlAYP",
+            "name": "072",
             "alt": "Historische Säntisbahn"
           }
         ],
@@ -633,11 +633,11 @@
       {
         "photos": [
           {
-            "name": "FL8KZWu",
+            "name": "track1",
             "alt": "Wegstrecke um den Seealpsee"
           },
           {
-            "name": "lLTjXKU",
+            "name": "track2",
             "alt": "Höhenprofil um den Seealpsee"
           }
         ],

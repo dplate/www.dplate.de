@@ -3,7 +3,8 @@
     "destination": "hoher-freschen",
     "date": "20141129",
     "type": "hike",
-    "track": false,
+    "track": true,
+    "hideSwissMap": true,
     "shortTitle": "Hoher Freschen",
     "title": "Laterns Bad - Hoher Freschen",
     "intro": "Zu Beginn eine formelle Entschuldigung für einen Wanderbericht Ende November. Liebend gerne hätte ich statt dessen über einen Skitag bei einem halben Meter Neuschnee geschrieben. Aber irgendwie ist das Wetter noch so wenig winterlich, dass eine stundenlange Autofahrt zu einem teuren, nur in Ansätzen geöffneten, Skigebiet selbst mir zu gewollt vorgekommen wäre.<br />\nAlso ging es schweren Herzens zum Wandern. Nach einer guten Stunde Fahrt kam ich um 8:30 in Laterns Bad an, einem Restaurent am Ende des Laternser Tals vor dem Furkajoch (ein Pass der hinüber nach Damüls führt).",
@@ -11,7 +12,7 @@
       {
         "photos": [
           {
-            "name": "y0aFISM"
+            "name": "001"
           }
         ],
         "videos": [],
@@ -20,7 +21,7 @@
       {
         "photos": [
           {
-            "name": "iuG9nyw"
+            "name": "002"
           }
         ],
         "videos": [],
@@ -29,7 +30,7 @@
       {
         "photos": [
           {
-            "name": "c8F51Ga"
+            "name": "003"
           }
         ],
         "videos": [],
@@ -38,7 +39,7 @@
       {
         "photos": [
           {
-            "name": "R3p2nBX"
+            "name": "004"
           }
         ],
         "videos": [],
@@ -47,7 +48,7 @@
       {
         "photos": [
           {
-            "name": "qRhkgDJ"
+            "name": "005"
           }
         ],
         "videos": [],
@@ -56,7 +57,7 @@
       {
         "photos": [
           {
-            "name": "Jo8imal"
+            "name": "006"
           }
         ],
         "videos": [],
@@ -65,7 +66,7 @@
       {
         "photos": [
           {
-            "name": "eiIZJAf"
+            "name": "007"
           }
         ],
         "videos": [],
@@ -74,7 +75,7 @@
       {
         "photos": [
           {
-            "name": "UFihkIh"
+            "name": "008"
           }
         ],
         "videos": [],
@@ -83,7 +84,7 @@
       {
         "photos": [
           {
-            "name": "0VcJuQl"
+            "name": "009"
           }
         ],
         "videos": [],
@@ -92,7 +93,7 @@
       {
         "photos": [
           {
-            "name": "ZXXZ5c2"
+            "name": "010"
           }
         ],
         "videos": [],
@@ -101,7 +102,7 @@
       {
         "photos": [
           {
-            "name": "qwfoH8m"
+            "name": "011"
           }
         ],
         "videos": [],
@@ -110,7 +111,7 @@
       {
         "photos": [
           {
-            "name": "oRQDuiH"
+            "name": "012"
           }
         ],
         "videos": [],
@@ -119,7 +120,7 @@
       {
         "photos": [
           {
-            "name": "egsAGCw"
+            "name": "013"
           }
         ],
         "videos": [],
@@ -128,7 +129,7 @@
       {
         "photos": [
           {
-            "name": "bBXEVRl"
+            "name": "014"
           }
         ],
         "videos": [],
@@ -137,7 +138,7 @@
       {
         "photos": [
           {
-            "name": "boNsKoQ"
+            "name": "015"
           }
         ],
         "videos": [],
@@ -146,7 +147,7 @@
       {
         "photos": [
           {
-            "name": "OYhvvHb"
+            "name": "018"
           }
         ],
         "videos": [],
@@ -155,7 +156,7 @@
       {
         "photos": [
           {
-            "name": "oPfiWPE"
+            "name": "016"
           }
         ],
         "videos": [],
@@ -164,7 +165,7 @@
       {
         "photos": [
           {
-            "name": "UbBtWsW"
+            "name": "017"
           }
         ],
         "videos": [],
@@ -173,7 +174,7 @@
       {
         "photos": [
           {
-            "name": "PGoN3c6"
+            "name": "019"
           }
         ],
         "videos": [],
@@ -182,10 +183,10 @@
       {
         "photos": [
           {
-            "name": "10scmyH"
+            "name": "020"
           },
           {
-            "name": "pkl1dHg"
+            "name": "021"
           }
         ],
         "videos": [],
@@ -194,7 +195,7 @@
       {
         "photos": [
           {
-            "name": "ngXkQ41"
+            "name": "022"
           }
         ],
         "videos": [],
@@ -203,7 +204,7 @@
       {
         "photos": [
           {
-            "name": "cYuct9u"
+            "name": "023"
           }
         ],
         "videos": [],
@@ -212,7 +213,7 @@
       {
         "photos": [
           {
-            "name": "ZIw9uEp"
+            "name": "024"
           }
         ],
         "videos": [],
@@ -221,7 +222,7 @@
       {
         "photos": [
           {
-            "name": "WXnOkgi"
+            "name": "025"
           }
         ],
         "videos": [],
@@ -230,7 +231,7 @@
       {
         "photos": [
           {
-            "name": "z1iYgZF"
+            "name": "026"
           }
         ],
         "videos": [],
@@ -239,7 +240,7 @@
       {
         "photos": [
           {
-            "name": "oESscF5"
+            "name": "027"
           }
         ],
         "videos": [],
@@ -248,7 +249,7 @@
       {
         "photos": [
           {
-            "name": "4O1cVGA"
+            "name": "028"
           }
         ],
         "videos": [],
@@ -257,7 +258,7 @@
       {
         "photos": [
           {
-            "name": "vQbgggY"
+            "name": "029"
           }
         ],
         "videos": [],
@@ -266,7 +267,7 @@
       {
         "photos": [
           {
-            "name": "3QlIqeD"
+            "name": "030"
           }
         ],
         "videos": [],
@@ -275,7 +276,7 @@
       {
         "photos": [
           {
-            "name": "VgDYajV"
+            "name": "031"
           }
         ],
         "videos": [],
@@ -284,10 +285,10 @@
       {
         "photos": [
           {
-            "name": "Nfz4EYj"
+            "name": "track1"
           },
           {
-            "name": "0SZuG12"
+            "name": "track2"
           }
         ],
         "videos": [],

@@ -3,7 +3,7 @@
     "destination": "alpstein",
     "date": "20131019",
     "type": "hike",
-    "track": false,
+    "track": true,
     "shortTitle": "Hoher Kasten",
     "title": "Hoher Kasten -  Geologischer Wanderweg",
     "intro": "Zum Leidwesen der Skigebiete (denen nun total die Grundlage für den Winter fehlt) schmolz der Schnee der letzte Woche recht schnell dahin. Das ermöglichte mir aber, die letzte große Tour in diesem Herbst zu unternehmen - am Hohen Kasten im Alpstein.<br />Um 7:45 Ankuft auf dem Parkplatz der PB Alp Sigel kurz hinter Brülisau. Anschließend steiler Aufstieg auf einem schmalen Pfad nach Steig (von 900m auf 1300m).",
@@ -11,7 +11,7 @@
       {
         "photos": [
           {
-            "name": "Y1vqwEC",
+            "name": "001",
             "alt": "Dunkler Wald"
           }
         ],
@@ -21,7 +21,7 @@
       {
         "photos": [
           {
-            "name": "jOkU719",
+            "name": "002",
             "alt": "Bergstation Alp Sigel"
           }
         ],
@@ -31,7 +31,7 @@
       {
         "photos": [
           {
-            "name": "MPSjXkX",
+            "name": "003",
             "alt": "Weg zum Sämtisersee"
           }
         ],
@@ -41,7 +41,7 @@
       {
         "photos": [
           {
-            "name": "Pe2487P",
+            "name": "004",
             "alt": "Sämtisersee mit Spiegelung"
           }
         ],
@@ -51,7 +51,7 @@
       {
         "photos": [
           {
-            "name": "QAMPWDP",
+            "name": "005",
             "alt": "Nahaufnahme Viehgitter"
           }
         ],
@@ -61,11 +61,11 @@
       {
         "photos": [
           {
-            "name": "BvcKu1M",
+            "name": "006",
             "alt": "Tal mit Alp Richtung Altmann"
           },
           {
-            "name": "8pDGTcs",
+            "name": "007",
             "alt": "Tal mit Hohem Kasten"
           }
         ],
@@ -75,8 +75,8 @@
       {
         "photos": [
           {
-            "name": "WRfPsQ8",
-            "alt": "Holzstufen im Felsigen Wald"
+            "name": "008",
+            "alt": "Holzstufen im felsigen Wald"
           }
         ],
         "videos": [],
@@ -85,11 +85,11 @@
       {
         "photos": [
           {
-            "name": "fHLsxkB",
+            "name": "009",
             "alt": "Fälensee mit Spiegelung"
           },
           {
-            "name": "KBcVN3v",
+            "name": "010",
             "alt": "Fälensee mit Reflexion"
           }
         ],
@@ -99,7 +99,7 @@
       {
         "photos": [
           {
-            "name": "szrvLHo",
+            "name": "011",
             "alt": "Tafel des Geologischen Wanderwegs"
           }
         ],
@@ -109,7 +109,7 @@
       {
         "photos": [
           {
-            "name": "1DFnr6U",
+            "name": "012",
             "alt": "Berggasthaus Bollenwees am Fälensee"
           }
         ],
@@ -119,7 +119,7 @@
       {
         "photos": [
           {
-            "name": "w01QJqT",
+            "name": "013",
             "alt": "Saxerlücke mit Blick ins Rheintal"
           }
         ],
@@ -129,7 +129,7 @@
       {
         "photos": [
           {
-            "name": "NUVwsEL",
+            "name": "014",
             "alt": "Kreuzberge"
           }
         ],
@@ -139,7 +139,7 @@
       {
         "photos": [
           {
-            "name": "HC8Vjch",
+            "name": "015",
             "alt": "Blick Hinab auf Bollenwees"
           }
         ],
@@ -149,7 +149,7 @@
       {
         "photos": [
           {
-            "name": "WLeDno9",
+            "name": "016",
             "alt": "Steiler Weg vor Saxerlücker"
           }
         ],
@@ -159,7 +159,7 @@
       {
         "photos": [
           {
-            "name": "xyoGZSC",
+            "name": "017",
             "alt": "Kreuzberge hinter Saxerlücke"
           }
         ],
@@ -169,7 +169,7 @@
       {
         "photos": [
           {
-            "name": "Xdo2c8u",
+            "name": "018",
             "alt": "Hangweg"
           }
         ],
@@ -179,11 +179,11 @@
       {
         "photos": [
           {
-            "name": "pfZ7sJS",
+            "name": "019",
             "alt": "Panorama Kreuzberge"
           },
           {
-            "name": "185zvch",
+            "name": "020",
             "alt": "Kreuzberge aus Entfernung"
           }
         ],
@@ -193,7 +193,7 @@
       {
         "photos": [
           {
-            "name": "pIev6Wh",
+            "name": "021",
             "alt": "Gratweg"
           }
         ],
@@ -203,7 +203,7 @@
       {
         "photos": [
           {
-            "name": "ixmFNL1",
+            "name": "022",
             "alt": "Blick durch den Alpstein auf den Säntis"
           }
         ],
@@ -213,7 +213,7 @@
       {
         "photos": [
           {
-            "name": "ivN7v1H",
+            "name": "023",
             "alt": "Tiefblick in das Rheintal"
           }
         ],
@@ -223,7 +223,7 @@
       {
         "photos": [
           {
-            "name": "o1wiiK2",
+            "name": "024",
             "alt": "Herbstwald von oben"
           }
         ],
@@ -233,7 +233,7 @@
       {
         "photos": [
           {
-            "name": "Kbdq6th",
+            "name": "025",
             "alt": "Fälensee mit Säntis"
           }
         ],
@@ -243,7 +243,7 @@
       {
         "photos": [
           {
-            "name": "3oGYyU7",
+            "name": "026",
             "alt": "Ebenalp vor Nebelmeer"
           }
         ],
@@ -253,23 +253,23 @@
       {
         "photos": [
           {
-            "name": "PCj5r92",
+            "name": "027",
             "alt": "Tanne neben Felsenweg"
           },
           {
-            "name": "1SrTnuz",
+            "name": "028",
             "alt": "In Fels Geschlagener Weg"
           },
           {
-            "name": "hHAd3tZ",
+            "name": "029",
             "alt": "Weg neben Fels mit Geländer"
           },
           {
-            "name": "kvVq404",
+            "name": "030",
             "alt": "Säntis mit Dunklem Vordergrund"
           },
           {
-            "name": "sCrDaWW",
+            "name": "031",
             "alt": "Felsiger Weg vor Säntis"
           }
         ],
@@ -279,11 +279,11 @@
       {
         "photos": [
           {
-            "name": "RqUkNbZ",
+            "name": "032",
             "alt": "Panorama Gasthaus Staubern"
           },
           {
-            "name": "XBQeXRv",
+            "name": "033",
             "alt": "Staubern"
           }
         ],
@@ -293,7 +293,7 @@
       {
         "photos": [
           {
-            "name": "9XPq5eC",
+            "name": "035",
             "alt": "Seilbahn Staubern mit Rheintal"
           }
         ],
@@ -303,11 +303,11 @@
       {
         "photos": [
           {
-            "name": "Ccc8zLo",
+            "name": "036",
             "alt": "Restaurant Staubern"
           },
           {
-            "name": "ioENClh",
+            "name": "037",
             "alt": "Wanderweg nach Staubern"
           }
         ],
@@ -317,7 +317,7 @@
       {
         "photos": [
           {
-            "name": "MH9Sxnn",
+            "name": "038",
             "alt": "Gratweg zum Hohen Kasten"
           }
         ],
@@ -327,7 +327,7 @@
       {
         "photos": [
           {
-            "name": "VcfjZA9",
+            "name": "039",
             "alt": "Tal mit Verschneitem Säntis"
           }
         ],
@@ -337,7 +337,7 @@
       {
         "photos": [
           {
-            "name": "kSn7rgs",
+            "name": "040",
             "alt": "Blick auf Brülisau"
           }
         ],
@@ -347,7 +347,7 @@
       {
         "photos": [
           {
-            "name": "vBNmSsw",
+            "name": "042",
             "alt": "Sämtisersee mit Säntis"
           }
         ],
@@ -357,11 +357,11 @@
       {
         "photos": [
           {
-            "name": "jCThTkp",
+            "name": "043",
             "alt": "Bergstation Hoher Kasten"
           },
           {
-            "name": "2IGrXxb",
+            "name": "044",
             "alt": "Panorama mit Hoher Kasten und Rheintal"
           }
         ],
@@ -371,7 +371,7 @@
       {
         "photos": [
           {
-            "name": "31CDFoJ",
+            "name": "045",
             "alt": "Sämtisersee im Alpstein"
           }
         ],
@@ -381,7 +381,7 @@
       {
         "photos": [
           {
-            "name": "ZuUpJCV",
+            "name": "046",
             "alt": "Miniaturaufnahme Alphütte"
           }
         ],
@@ -391,7 +391,7 @@
       {
         "photos": [
           {
-            "name": "Hjw0pmG",
+            "name": "047",
             "alt": "Weg zum Hohen Kasten"
           }
         ],
@@ -401,7 +401,7 @@
       {
         "photos": [
           {
-            "name": "49LMl1e",
+            "name": "048",
             "alt": "Blick auf Bergstation Alp Sigel"
           }
         ],
@@ -411,7 +411,7 @@
       {
         "photos": [
           {
-            "name": "g3WWIII",
+            "name": "049",
             "alt": "Alpstein"
           }
         ],
@@ -421,7 +421,7 @@
       {
         "photos": [
           {
-            "name": "IP86pxq",
+            "name": "050",
             "alt": "Sämtisersee mit Altmann"
           }
         ],
@@ -431,7 +431,7 @@
       {
         "photos": [
           {
-            "name": "2dDkaDH",
+            "name": "053",
             "alt": "Hoher Kasten Seilbahn"
           }
         ],
@@ -441,7 +441,7 @@
       {
         "photos": [
           {
-            "name": "KZikJxe",
+            "name": "054",
             "alt": "Rheintalpanorama vom Hohen Kasten"
           }
         ],
@@ -451,7 +451,7 @@
       {
         "photos": [
           {
-            "name": "8dNQNNx",
+            "name": "055",
             "alt": "Historisches Skifahren Hoher Kasten"
           }
         ],
@@ -461,7 +461,7 @@
       {
         "photos": [
           {
-            "name": "DS6WUSu",
+            "name": "056",
             "alt": "Alpendohle vor Rheintal"
           }
         ],
@@ -471,7 +471,7 @@
       {
         "photos": [
           {
-            "name": "pDvdVrd",
+            "name": "057",
             "alt": "Appenzeller Land"
           }
         ],
@@ -481,7 +481,7 @@
       {
         "photos": [
           {
-            "name": "76x6RqW",
+            "name": "058",
             "alt": "Drehrestaurant Hoher Kasten."
           }
         ],
@@ -491,7 +491,7 @@
       {
         "photos": [
           {
-            "name": "Mf0KiOz",
+            "name": "059",
             "alt": "Panorama vom Hohen Kasten zum Bodensee"
           }
         ],
@@ -501,7 +501,7 @@
       {
         "photos": [
           {
-            "name": "1Rut14Y",
+            "name": "060",
             "alt": "Panorama vom Kamor zum Alpstein"
           }
         ],
@@ -511,7 +511,7 @@
       {
         "photos": [
           {
-            "name": "1B48mjs",
+            "name": "061",
             "alt": "Gipfel des Hohen Kasten mit Antenne"
           }
         ],
@@ -521,7 +521,7 @@
       {
         "photos": [
           {
-            "name": "MFJ9mO5",
+            "name": "063",
             "alt": "Radfahrer auf Kamor vor Rheintal"
           }
         ],
@@ -531,11 +531,11 @@
       {
         "photos": [
           {
-            "name": "cq87v2j",
+            "name": "065",
             "alt": "Blick vom Ruhesitz zum Hohen Kasten"
           },
           {
-            "name": "hV0Z6OX",
+            "name": "066",
             "alt": "Berggasthaus Ruhesitz"
           }
         ],
@@ -545,7 +545,7 @@
       {
         "photos": [
           {
-            "name": "LVfvq6k",
+            "name": "067",
             "alt": "Miniaturaufnahme Brülisau"
           }
         ],
@@ -555,7 +555,7 @@
       {
         "photos": [
           {
-            "name": "QVcMCCa",
+            "name": "068",
             "alt": "Spazierweg Brülisau an Waldrand"
           }
         ],
@@ -565,7 +565,7 @@
       {
         "photos": [
           {
-            "name": "iHdzQkR",
+            "name": "069",
             "alt": "Blick von Brülisau zum Hohen Kasten"
           }
         ],
@@ -575,11 +575,11 @@
       {
         "photos": [
           {
-            "name": "LKn7ets",
+            "name": "track1",
             "alt": "Wegstrecke Geologischer Wanderweg"
           },
           {
-            "name": "iaBAWhk",
+            "name": "track2",
             "alt": "Höhenprofil Geologiscer Wanderweg"
           }
         ],

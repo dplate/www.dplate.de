@@ -108,7 +108,7 @@ class Report extends React.Component {
         return;
       }
 
-      if (window.pageYOffset > this.images[this.images.length - 1].offsetTop ) {
+      if (window.pageYOffset > this.images[this.images.length - 1].offsetTop + 500 ) {
         this.setState({time: 'end'});
         return;
       }
@@ -197,7 +197,7 @@ class Report extends React.Component {
 
   render() {
     const content = this.props.data.reportJson;
-    const {date, type, track, timeShift, title, intro, landmarks, outro} = content;
+    const {date, type, track, timeShift, hideSwissMap, title, intro, landmarks, outro} = content;
     return (
       <Content>
         <Helmet>
@@ -212,6 +212,7 @@ class Report extends React.Component {
           gpxPath={__PATH_PREFIX__ + '/tracks' + this.getReportPath() + '.gpx'}
           time={this.state.time}
           timeShift={timeShift}
+          hideSwissMap={hideSwissMap}
           onClick={this.resetFocus.bind(this)}
          />}
       </Content>
@@ -224,7 +225,7 @@ export default Report;
 export const pageQuery = graphql`
   query ReportByDestinationAndDate($destination: String!, $date: String!) {
     reportJson(destination: {eq: $destination}, date: {eq: $date}) {
-      destination, date, type, track, timeShift, title, intro, landmarks {photos {name, alt}, videos, text}, outro
+      destination, date, type, track, timeShift, hideSwissMap, title, intro, landmarks {photos {name, alt}, videos, text}, outro
     }
   }
 `;

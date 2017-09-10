@@ -3,7 +3,8 @@
     "destination": "gargellen",
     "date": "20150822",
     "type": "hike",
-    "track": false,
+    "track": true,
+    "hideSwissMap": true,
     "shortTitle": "Madrisa Rundtour",
     "title": "Gargellen - Madrisa-Rundtour",
     "intro": "Schon lange auf meiner Liste für Wanderungen steht die recht bekannte <a href=\"http://touren.montafon.at/oar-montafon/de/tour/fernwanderweg/madrisa-rundtour/6877160/\" onclick=\"this.target='_blank';\">Madrisa-Rundtour</a>. Um die an einem Tag zu schaffen, startet man am besten von der Bergstation der Gondelbahn von Gargellen.<br />\nAls ich um 8:30 am Parkplatz der Bahn ankam, war ich erstmal verblüfft: Parkplatz schon halb voll, Wartezeit an den Kassen und eine lange Schlange vor den Gondeln. Als ich aber schließlich um 9:00 an der Bergstation ankam stellte sich zum Glück heraus, dass fast alle nur zum Bergfrühstück nach oben fuhren und kaum jemand sich auf den Wanderweg begab.",
@@ -11,7 +12,7 @@
       {
         "photos": [
           {
-            "name": "KwbOTaQ"
+            "name": "001"
           }
         ],
         "videos": [],
@@ -20,7 +21,7 @@
       {
         "photos": [
           {
-            "name": "zcNLfxV"
+            "name": "002"
           }
         ],
         "videos": [],
@@ -29,7 +30,7 @@
       {
         "photos": [
           {
-            "name": "WqREtKi"
+            "name": "003"
           }
         ],
         "videos": [],
@@ -38,7 +39,7 @@
       {
         "photos": [
           {
-            "name": "PwsnEMn"
+            "name": "004"
           }
         ],
         "videos": [],
@@ -47,7 +48,7 @@
       {
         "photos": [
           {
-            "name": "AkDEer3"
+            "name": "005"
           }
         ],
         "videos": [],
@@ -56,7 +57,7 @@
       {
         "photos": [
           {
-            "name": "5loL6wP"
+            "name": "006"
           }
         ],
         "videos": [],
@@ -65,7 +66,7 @@
       {
         "photos": [
           {
-            "name": "YPCuZBg"
+            "name": "007"
           }
         ],
         "videos": [],
@@ -74,7 +75,7 @@
       {
         "photos": [
           {
-            "name": "tFbhDRe"
+            "name": "008"
           }
         ],
         "videos": [],
@@ -83,7 +84,7 @@
       {
         "photos": [
           {
-            "name": "5moB2AO"
+            "name": "009"
           }
         ],
         "videos": [],
@@ -92,7 +93,7 @@
       {
         "photos": [
           {
-            "name": "4jl3NzA"
+            "name": "011"
           }
         ],
         "videos": [],
@@ -101,7 +102,7 @@
       {
         "photos": [
           {
-            "name": "q811Wxv"
+            "name": "012"
           }
         ],
         "videos": [],
@@ -110,7 +111,7 @@
       {
         "photos": [
           {
-            "name": "GpHvhyX"
+            "name": "014"
           }
         ],
         "videos": [],
@@ -119,7 +120,7 @@
       {
         "photos": [
           {
-            "name": "eAZ2upy"
+            "name": "015"
           }
         ],
         "videos": [],
@@ -128,7 +129,7 @@
       {
         "photos": [
           {
-            "name": "iLyGcnL"
+            "name": "016"
           }
         ],
         "videos": [],
@@ -137,7 +138,7 @@
       {
         "photos": [
           {
-            "name": "PDStpT7"
+            "name": "017"
           }
         ],
         "videos": [],
@@ -146,7 +147,7 @@
       {
         "photos": [
           {
-            "name": "vbEtlTB"
+            "name": "018"
           }
         ],
         "videos": [],
@@ -155,7 +156,7 @@
       {
         "photos": [
           {
-            "name": "TsxWSDY"
+            "name": "019"
           }
         ],
         "videos": [],
@@ -164,7 +165,7 @@
       {
         "photos": [
           {
-            "name": "CEycSBU"
+            "name": "020"
           }
         ],
         "videos": [],
@@ -173,7 +174,7 @@
       {
         "photos": [
           {
-            "name": "2T6l3sv"
+            "name": "021"
           }
         ],
         "videos": [],
@@ -182,7 +183,7 @@
       {
         "photos": [
           {
-            "name": "526JGtr"
+            "name": "022"
           }
         ],
         "videos": [],
@@ -191,7 +192,7 @@
       {
         "photos": [
           {
-            "name": "uXX3gHk"
+            "name": "023"
           }
         ],
         "videos": [],
@@ -200,7 +201,7 @@
       {
         "photos": [
           {
-            "name": "SHpSh4E"
+            "name": "024"
           }
         ],
         "videos": [],
@@ -209,7 +210,7 @@
       {
         "photos": [
           {
-            "name": "XnuKTiH"
+            "name": "025"
           }
         ],
         "videos": [],
@@ -218,7 +219,7 @@
       {
         "photos": [
           {
-            "name": "llFswK5"
+            "name": "026"
           }
         ],
         "videos": [],
@@ -227,7 +228,7 @@
       {
         "photos": [
           {
-            "name": "B49Zz09"
+            "name": "027"
           }
         ],
         "videos": [],
@@ -236,7 +237,7 @@
       {
         "photos": [
           {
-            "name": "VsxReDf"
+            "name": "028"
           }
         ],
         "videos": [],
@@ -245,7 +246,7 @@
       {
         "photos": [
           {
-            "name": "PZGorat"
+            "name": "030"
           }
         ],
         "videos": [],
@@ -254,7 +255,7 @@
       {
         "photos": [
           {
-            "name": "em3sAru"
+            "name": "031"
           }
         ],
         "videos": [],
@@ -263,7 +264,7 @@
       {
         "photos": [
           {
-            "name": "PZlglZx"
+            "name": "032"
           }
         ],
         "videos": [],
@@ -272,10 +273,10 @@
       {
         "photos": [
           {
-            "name": "rIS5C74"
+            "name": "033"
           },
           {
-            "name": "0V3ST9E"
+            "name": "034"
           }
         ],
         "videos": [],
@@ -284,7 +285,7 @@
       {
         "photos": [
           {
-            "name": "evGdBXZ"
+            "name": "035"
           }
         ],
         "videos": [],
@@ -293,10 +294,10 @@
       {
         "photos": [
           {
-            "name": "ZvI7OGB"
+            "name": "036"
           },
           {
-            "name": "gwnablo"
+            "name": "037"
           }
         ],
         "videos": [],
@@ -305,7 +306,7 @@
       {
         "photos": [
           {
-            "name": "UTsrs0q"
+            "name": "038"
           }
         ],
         "videos": [],
@@ -314,7 +315,7 @@
       {
         "photos": [
           {
-            "name": "BzZAzdZ"
+            "name": "039"
           }
         ],
         "videos": [],
@@ -323,7 +324,7 @@
       {
         "photos": [
           {
-            "name": "ICyh5hR"
+            "name": "040"
           }
         ],
         "videos": [],
@@ -332,7 +333,7 @@
       {
         "photos": [
           {
-            "name": "3sfkaEc"
+            "name": "041"
           }
         ],
         "videos": [],
@@ -341,7 +342,7 @@
       {
         "photos": [
           {
-            "name": "WEY7l1p"
+            "name": "042"
           }
         ],
         "videos": [],
@@ -350,7 +351,7 @@
       {
         "photos": [
           {
-            "name": "h6tiKb2"
+            "name": "043"
           }
         ],
         "videos": [],
@@ -359,7 +360,7 @@
       {
         "photos": [
           {
-            "name": "GdJMR2j"
+            "name": "044"
           }
         ],
         "videos": [],
@@ -368,7 +369,7 @@
       {
         "photos": [
           {
-            "name": "To43yfw"
+            "name": "045"
           }
         ],
         "videos": [],
@@ -377,10 +378,10 @@
       {
         "photos": [
           {
-            "name": "B2pAFjn"
+            "name": "046"
           },
           {
-            "name": "404nFXN"
+            "name": "047"
           }
         ],
         "videos": [],
@@ -389,7 +390,7 @@
       {
         "photos": [
           {
-            "name": "vsh13vD"
+            "name": "048"
           }
         ],
         "videos": [],
@@ -398,7 +399,7 @@
       {
         "photos": [
           {
-            "name": "rOdZehF"
+            "name": "049"
           }
         ],
         "videos": [],
@@ -407,10 +408,10 @@
       {
         "photos": [
           {
-            "name": "XXk3sSJ"
+            "name": "track1"
           },
           {
-            "name": "haXevvp"
+            "name": "track2"
           }
         ],
         "videos": [],

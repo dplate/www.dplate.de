@@ -3,7 +3,8 @@
     "destination": "boedele",
     "date": "20140927",
     "type": "hike",
-    "track": false,
+    "track": true,
+    "hideSwissMap": true,
     "shortTitle": "Bödele",
     "title": "Bödele - Fohramoos",
     "intro": "Erst Mittags ging es am letzten Samstag los zu einem Spaziergang auf dem Bödele, dem Hausberg Dornbirns oberhalb des Rheintals.<br />\nBei schönstem und warmem Herbstwetter Ankunft auf den großen Parkplätzen entlang der Passstraße des Bödeles.",
@@ -11,7 +12,7 @@
       {
         "photos": [
           {
-            "name": "RHA6IjX"
+            "name": "002"
           }
         ],
         "videos": [],
@@ -20,10 +21,10 @@
       {
         "photos": [
           {
-            "name": "4qIF2cF"
+            "name": "004"
           },
           {
-            "name": "yKto7bV"
+            "name": "006"
           }
         ],
         "videos": [],
@@ -32,10 +33,10 @@
       {
         "photos": [
           {
-            "name": "wAzokbb"
+            "name": "009"
           },
           {
-            "name": "3TXJ626"
+            "name": "011"
           }
         ],
         "videos": [],
@@ -44,13 +45,13 @@
       {
         "photos": [
           {
-            "name": "oVqV9sB"
+            "name": "012"
           },
           {
-            "name": "6fKKHWG"
+            "name": "013"
           },
           {
-            "name": "sLPnUej"
+            "name": "014"
           }
         ],
         "videos": [],
@@ -59,10 +60,10 @@
       {
         "photos": [
           {
-            "name": "I1yvNNT"
+            "name": "015"
           },
           {
-            "name": "ytTq7hV"
+            "name": "016"
           }
         ],
         "videos": [],
@@ -71,7 +72,7 @@
       {
         "photos": [
           {
-            "name": "m8rqVwP"
+            "name": "018"
           }
         ],
         "videos": [],
@@ -80,7 +81,7 @@
       {
         "photos": [
           {
-            "name": "ycvsOrK"
+            "name": "021"
           }
         ],
         "videos": [],
@@ -89,7 +90,7 @@
       {
         "photos": [
           {
-            "name": "ShLVsIb"
+            "name": "023"
           }
         ],
         "videos": [],
@@ -98,7 +99,7 @@
       {
         "photos": [
           {
-            "name": "JXqYkwh"
+            "name": "025"
           }
         ],
         "videos": [],
@@ -107,7 +108,7 @@
       {
         "photos": [
           {
-            "name": "2KxlvyA"
+            "name": "026"
           }
         ],
         "videos": [],
@@ -116,7 +117,7 @@
       {
         "photos": [
           {
-            "name": "UjTRUJn"
+            "name": "track1"
           }
         ],
         "videos": [],

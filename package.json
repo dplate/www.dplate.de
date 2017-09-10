@@ -15,5 +15,8 @@
     "react-disqus-comments-sso": "github:etanlubeck/react-disqus-comments-sso",
     "react-helmet": "^5.1.3",
     "react-load-script": "0.0.6"
+  },
+  "devDependencies": {
+    "gm": "1.23.0"
   }
 }

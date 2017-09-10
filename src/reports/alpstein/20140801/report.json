@@ -3,7 +3,7 @@
     "destination": "alpstein",
     "date": "20140801",
     "type": "hike",
-    "track": false,
+    "track": true,
     "shortTitle": "Säntis",
     "title": "Schwägalp - Säntis",
     "intro": "Und weiter geht's mit meinen Touren im Alpstein. Nach dem <a href=\"/alpine/alpstein/20131019\" class=\"postlink-local\">Hohen Kasten</a> und dem <a href=\"/alpine/alpstein/20140622\">Seealpsee</a> nun der Säntis, mit 2500m der höchste Berg im Alpstein.",
@@ -11,7 +11,7 @@
       {
         "photos": [
           {
-            "name": "TxGjZbQ",
+            "name": "001",
             "alt": "Wegweiser Schwägalp"
           }
         ],
@@ -21,7 +21,7 @@
       {
         "photos": [
           {
-            "name": "glpkHgv",
+            "name": "002",
             "alt": "Skilift Schwägalp"
           }
         ],
@@ -31,7 +31,7 @@
       {
         "photos": [
           {
-            "name": "1l8tVDh",
+            "name": "003",
             "alt": "Weg auf Schuttkegel"
           }
         ],
@@ -41,7 +41,7 @@
       {
         "photos": [
           {
-            "name": "W3qvI9Y",
+            "name": "004",
             "alt": "Silhouette Säntisbahn"
           }
         ],
@@ -51,7 +51,7 @@
       {
         "photos": [
           {
-            "name": "2g7Czhf",
+            "name": "005",
             "alt": "Zugewachsener Bergweg"
           }
         ],
@@ -61,7 +61,7 @@
       {
         "photos": [
           {
-            "name": "egHoqze",
+            "name": "006",
             "alt": "Steiler Aufstieg durch Rinne"
           }
         ],
@@ -71,7 +71,7 @@
       {
         "photos": [
           {
-            "name": "8coZYfB",
+            "name": "007",
             "alt": "Blick von Schwägalp zum Kronberg"
           }
         ],
@@ -81,7 +81,7 @@
       {
         "photos": [
           {
-            "name": "lSZbBSt",
+            "name": "008",
             "alt": "Wanderweg in Felswand"
           }
         ],
@@ -91,7 +91,7 @@
       {
         "photos": [
           {
-            "name": "pIChcMP",
+            "name": "009",
             "alt": "Felswand im Schatten"
           }
         ],
@@ -101,7 +101,7 @@
       {
         "photos": [
           {
-            "name": "dER10AX",
+            "name": "010",
             "alt": "Holzstufen im Fels"
           }
         ],
@@ -111,7 +111,7 @@
       {
         "photos": [
           {
-            "name": "QFTwolM",
+            "name": "011",
             "alt": "Blick aus Säntis Felswand zum Kronberg"
           }
         ],
@@ -121,7 +121,7 @@
       {
         "photos": [
           {
-            "name": "ps6jWhM",
+            "name": "012",
             "alt": "Säntisbahn an Stütze"
           }
         ],
@@ -131,7 +131,7 @@
       {
         "photos": [
           {
-            "name": "tGHC0Wo",
+            "name": "013",
             "alt": "Gondeln der Säntis Seilbahn vor Chammhalde"
           }
         ],
@@ -141,7 +141,7 @@
       {
         "photos": [
           {
-            "name": "wWGxRXF",
+            "name": "014",
             "alt": "Felsiger Bergweg"
           }
         ],
@@ -151,7 +151,7 @@
       {
         "photos": [
           {
-            "name": "xwg61Un",
+            "name": "015",
             "alt": "Unterhalb Tierwies"
           }
         ],
@@ -161,7 +161,7 @@
       {
         "photos": [
           {
-            "name": "ZpFK1GB",
+            "name": "016",
             "alt": "Panorama von Tierwies zum Toggenburg"
           }
         ],
@@ -171,7 +171,7 @@
       {
         "photos": [
           {
-            "name": "OjDI5Mk",
+            "name": "017",
             "alt": "Gasthaus Tierwies auf Grat"
           }
         ],
@@ -181,7 +181,7 @@
       {
         "photos": [
           {
-            "name": "JmOIgbv",
+            "name": "018",
             "alt": "Blick von Tierwies zum Säntis"
           }
         ],
@@ -191,7 +191,7 @@
       {
         "photos": [
           {
-            "name": "1uDYEKs",
+            "name": "019",
             "alt": "Weg durch Kalksteinschichtungen"
           }
         ],
@@ -201,7 +201,7 @@
       {
         "photos": [
           {
-            "name": "XGApaOs",
+            "name": "020",
             "alt": "Wanderer auf der Himmelsleiter"
           }
         ],
@@ -211,7 +211,7 @@
       {
         "photos": [
           {
-            "name": "a7PJAA9",
+            "name": "021",
             "alt": "Unterhalb des Säntis Gipfels"
           }
         ],
@@ -221,7 +221,7 @@
       {
         "photos": [
           {
-            "name": "tY1GZQK",
+            "name": "022",
             "alt": "Zwischenausstieg Säntisbahn"
           }
         ],
@@ -231,7 +231,7 @@
       {
         "photos": [
           {
-            "name": "RAzzvHp",
+            "name": "023",
             "alt": "Felsiger Weg zum Grat"
           }
         ],
@@ -241,7 +241,7 @@
       {
         "photos": [
           {
-            "name": "om9ioGJ",
+            "name": "024",
             "alt": "Grat vor dem Säntis"
           }
         ],
@@ -251,7 +251,7 @@
       {
         "photos": [
           {
-            "name": "f3QJTFs",
+            "name": "025",
             "alt": "Himmelsleiter"
           }
         ],
@@ -261,7 +261,7 @@
       {
         "photos": [
           {
-            "name": "FEKiah0",
+            "name": "026",
             "alt": "Tunnel unter Säntis"
           }
         ],
@@ -271,7 +271,7 @@
       {
         "photos": [
           {
-            "name": "tgZEy0K",
+            "name": "027",
             "alt": "Säntisgipfel"
           }
         ],
@@ -281,7 +281,7 @@
       {
         "photos": [
           {
-            "name": "06WQobC",
+            "name": "028",
             "alt": "Restaurant alter Säntis von oben"
           }
         ],
@@ -291,7 +291,7 @@
       {
         "photos": [
           {
-            "name": "jKLWLdR",
+            "name": "029",
             "alt": "Vom Säntis zum Lisengrat und Altmann"
           }
         ],
@@ -301,7 +301,7 @@
       {
         "photos": [
           {
-            "name": "U6q0pjx",
+            "name": "030",
             "alt": "Himmelsleiter von oben"
           }
         ],
@@ -311,7 +311,7 @@
       {
         "photos": [
           {
-            "name": "hZwrOf6",
+            "name": "031",
             "alt": "Antenne auf Säntis"
           }
         ],
@@ -321,7 +321,7 @@
       {
         "photos": [
           {
-            "name": "OA9zoeC",
+            "name": "032",
             "alt": "Terrasse alter Säntis"
           }
         ],
@@ -331,7 +331,7 @@
       {
         "photos": [
           {
-            "name": "fpQw5am",
+            "name": "033",
             "alt": "Abstieg Himmelsleiter"
           }
         ],
@@ -341,7 +341,7 @@
       {
         "photos": [
           {
-            "name": "XhoyFCx",
+            "name": "034",
             "alt": "360° Panorama Himmelsleiter"
           }
         ],
@@ -351,7 +351,7 @@
       {
         "photos": [
           {
-            "name": "sgEV2Ol",
+            "name": "035",
             "alt": "Blumen in Felsspalte"
           }
         ],
@@ -361,7 +361,7 @@
       {
         "photos": [
           {
-            "name": "hTgwN7k",
+            "name": "036",
             "alt": "Bergwegzeichen in Fels"
           }
         ],
@@ -371,7 +371,7 @@
       {
         "photos": [
           {
-            "name": "tTIrnNx",
+            "name": "037",
             "alt": "Versteinerungen in Felswand"
           }
         ],
@@ -381,7 +381,7 @@
       {
         "photos": [
           {
-            "name": "MF6BFAH",
+            "name": "038",
             "alt": "Blick von oben auf Schwägalp"
           }
         ],
@@ -391,7 +391,7 @@
       {
         "photos": [
           {
-            "name": "eLcGSkC",
+            "name": "039",
             "alt": "Nebelschaden oberhalb der Schwägalp"
           }
         ],
@@ -401,7 +401,7 @@
       {
         "photos": [
           {
-            "name": "bwinr5H",
+            "name": "040",
             "alt": "Säntisbahn durch Wolken in Felswand"
           }
         ],
@@ -411,7 +411,7 @@
       {
         "photos": [
           {
-            "name": "5HGFHp8",
+            "name": "041",
             "alt": "Blumen über der Schwägalp"
           }
         ],
@@ -421,7 +421,7 @@
       {
         "photos": [
           {
-            "name": "fLlG46J",
+            "name": "042",
             "alt": "Steiler Abstieg mit Ketten Gesichert"
           }
         ],
@@ -431,7 +431,7 @@
       {
         "photos": [
           {
-            "name": "TmPvVld",
+            "name": "043",
             "alt": "Blick von Schwägalp Richtung Toggenburg"
           }
         ],
@@ -441,7 +441,7 @@
       {
         "photos": [
           {
-            "name": "75V1SUV",
+            "name": "044",
             "alt": "Miniaturaufnahme Kuhweide"
           }
         ],
@@ -451,7 +451,7 @@
       {
         "photos": [
           {
-            "name": "o8vZvsA",
+            "name": "045",
             "alt": "Abgestorbener Baum auf Schwägalp"
           }
         ],
@@ -461,7 +461,7 @@
       {
         "photos": [
           {
-            "name": "irUfrNE",
+            "name": "046",
             "alt": "Altes Berghotel Schwägalp"
           }
         ],
@@ -471,7 +471,7 @@
       {
         "photos": [
           {
-            "name": "u5gPTgA",
+            "name": "047",
             "alt": "Säntis in Wolken"
           }
         ],
@@ -481,16 +481,16 @@
       {
         "photos": [
           {
-            "name": "9tXYkLU",
+            "name": "track1",
             "alt": "Wegstrecke Schwägalp Säntis"
           },
           {
-            "name": "13kIC3o",
+            "name": "track2",
             "alt": "Höhenprofil Aufstieg Säntis"
           }
         ],
         "videos": [],
-        "text": "Gelaufene Strecke. Dem Track sieht man an, dass GPS manchmal ziemlich ungenau ist... Auf- und Abstieg waren eigentlich fast identisch. Der Höhenverlauf verrät, dass ich mir beim Abstieg ziemlich viel Zeit gelassen habe."
+        "text": "Gelaufene Strecke. Der Höhenverlauf verrät, dass ich mir beim Abstieg ziemlich viel Zeit gelassen habe."
       }
     ],
     "outro": "Fazit: Wenn man in der Gegend wohnt, muss man einmal diesen Aufstieg auf den Säntis gemacht haben. Runter ist es auf Grund der Steilheit und des Gegenverkehrs nicht so zu empfehlen. Da sollte man besser die Seilbahn nehmen oder nach Wildhaus bzw. Wasserauen absteigen."

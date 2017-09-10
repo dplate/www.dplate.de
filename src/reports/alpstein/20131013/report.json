@@ -3,7 +3,7 @@
     "destination": "alpstein",
     "date": "20131013",
     "type": "hike",
-    "track": false,
+    "track": true,
     "shortTitle": "Kronberg",
     "title": "Schwägalp - Kronberg",
     "intro": "Nach 1 1/2 Monaten Nebel und/oder Regen am Bodensee musste ich die Sonne diesen Sonntag so richtig genießen. Richtig hoch hinaus ging es auf Grund des Neuschnees nicht, deshalb habe ich mich für die Schwägalp am Säntis entschieden, um etwas den Winter zu spüren.",
@@ -11,7 +11,7 @@
       {
         "photos": [
           {
-            "name": "KMICT1N",
+            "name": "001",
             "alt": "Herisau mit Eisenbahnbrücke"
           }
         ],
@@ -21,7 +21,7 @@
       {
         "photos": [
           {
-            "name": "HiwjHoU",
+            "name": "002",
             "alt": "Schwägalp Passtraße"
           }
         ],
@@ -31,7 +31,7 @@
       {
         "photos": [
           {
-            "name": "2HV8NCh",
+            "name": "003",
             "alt": "Schnee auf der Schwägalp"
           }
         ],
@@ -41,7 +41,7 @@
       {
         "photos": [
           {
-            "name": "I17lxvV",
+            "name": "004",
             "alt": "Chammhalde Säntis"
           }
         ],
@@ -51,11 +51,11 @@
       {
         "photos": [
           {
-            "name": "ZVRe0sD",
+            "name": "005",
             "alt": "Wegweiser"
           },
           {
-            "name": "bIy2NU6",
+            "name": "006",
             "alt": "Weg zur Chammhaldenhütte"
           }
         ],
@@ -65,7 +65,7 @@
       {
         "photos": [
           {
-            "name": "NA3Raz3",
+            "name": "007",
             "alt": "Matschiger Weg"
           }
         ],
@@ -75,7 +75,7 @@
       {
         "photos": [
           {
-            "name": "0kIsM2u",
+            "name": "008",
             "alt": "Aufstieg mit Schnee"
           }
         ],
@@ -85,7 +85,7 @@
       {
         "photos": [
           {
-            "name": "hEPTCEQ",
+            "name": "009",
             "alt": "Schmelzender Schnee vom Dach"
           }
         ],
@@ -95,7 +95,7 @@
       {
         "photos": [
           {
-            "name": "R8LBFDl",
+            "name": "010",
             "alt": "Blick nach Osten"
           }
         ],
@@ -105,7 +105,7 @@
       {
         "photos": [
           {
-            "name": "mjTuIq1",
+            "name": "011",
             "alt": "Trampelpfad im Schnee"
           }
         ],
@@ -115,7 +115,7 @@
       {
         "photos": [
           {
-            "name": "hubgYDC",
+            "name": "012",
             "alt": "Blick zum Hohen Kasten"
           }
         ],
@@ -125,11 +125,11 @@
       {
         "photos": [
           {
-            "name": "7EAhQSd",
+            "name": "013",
             "alt": "Blume im Schnee"
           },
           {
-            "name": "yIhDIoT",
+            "name": "014",
             "alt": "Blümchen vor Häusern"
           }
         ],
@@ -139,7 +139,7 @@
       {
         "photos": [
           {
-            "name": "Od8yA8y",
+            "name": "015",
             "alt": "Berge mit Wolken"
           }
         ],
@@ -149,7 +149,7 @@
       {
         "photos": [
           {
-            "name": "TXmV3x3",
+            "name": "016",
             "alt": "Aussicht vom Kronberg"
           }
         ],
@@ -159,7 +159,7 @@
       {
         "photos": [
           {
-            "name": "dByr8Mf",
+            "name": "017",
             "alt": "Blick auf den Bodensee"
           }
         ],
@@ -169,7 +169,7 @@
       {
         "photos": [
           {
-            "name": "nN3Q9GE",
+            "name": "018",
             "alt": "Kronbergbahn"
           }
         ],
@@ -179,7 +179,7 @@
       {
         "photos": [
           {
-            "name": "pQQJLSz",
+            "name": "019",
             "alt": "Blick vom Kronberg zum Säntis"
           }
         ],
@@ -189,7 +189,7 @@
       {
         "photos": [
           {
-            "name": "ICco5wb",
+            "name": "020",
             "alt": "Paraglider vor Säntis"
           }
         ],
@@ -199,7 +199,7 @@
       {
         "photos": [
           {
-            "name": "UjzwAOM",
+            "name": "021",
             "alt": "Verschneite Berge"
           }
         ],
@@ -209,7 +209,7 @@
       {
         "photos": [
           {
-            "name": "xPHQDiC",
+            "name": "022",
             "alt": "Alpendohle"
           }
         ],
@@ -219,7 +219,7 @@
       {
         "photos": [
           {
-            "name": "OT5skan",
+            "name": "023",
             "alt": "Blume vor Säntis"
           }
         ],
@@ -229,7 +229,7 @@
       {
         "photos": [
           {
-            "name": "b6ndVc9",
+            "name": "024",
             "alt": "Wassertropfen an Tannennadel"
           }
         ],
@@ -239,7 +239,7 @@
       {
         "photos": [
           {
-            "name": "vt4yPmy",
+            "name": "025",
             "alt": "Säntisbahn im Winter"
           }
         ],
@@ -249,7 +249,7 @@
       {
         "photos": [
           {
-            "name": "jixDI6r",
+            "name": "026",
             "alt": "Altes Restaurant auf Schwägalp"
           }
         ],
@@ -259,11 +259,11 @@
       {
         "photos": [
           {
-            "name": "ojt5JyZ",
+            "name": "027",
             "alt": "Säntisbahn vor Felswand"
           },
           {
-            "name": "F8KIkxl",
+            "name": "028",
             "alt": "Bergstation der Säntisbahn"
           }
         ],
@@ -273,7 +273,7 @@
       {
         "photos": [
           {
-            "name": "99saWCm",
+            "name": "033",
             "alt": "Säntis mit Schnee hinter Grüner Wiese"
           }
         ],
@@ -283,7 +283,7 @@
       {
         "photos": [
           {
-            "name": "iTLPJ7R",
+            "name": "034",
             "alt": "Hemberg am Abend"
           }
         ],
@@ -293,7 +293,7 @@
       {
         "photos": [
           {
-            "name": "bA9GMKZ",
+            "name": "track1",
             "alt": "Wegstrecke"
           }
         ],

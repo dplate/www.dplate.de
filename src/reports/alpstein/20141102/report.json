@@ -3,7 +3,7 @@
     "destination": "alpstein",
     "date": "20141102",
     "type": "hike",
-    "track": false,
+    "track": true,
     "shortTitle": "Kronberg",
     "title": "Jakobsbad - Kronberg",
     "intro": "2. November und immer noch (oder besser wieder) sommerliche Temperaturen. In den Bergen aber oberhalb 1800m trotzdem zuviel Schnee zum Wandern. Deshalb entschied ich mich zu einer Fahrt zum Kronberg im Appenzeller Land, um eine letzte Tour vor dem richtigen Start der Skisaison zu unternehmen.<br />\nNach der Fahrt durch überwiegend dichten Nebel (endlich mal Nebelschlussleuchte erlaubt), kam ich bei strahlendem Sonnenschein an der Talstation der Kronbergbahn in Jakobsbad an. Parkplatz war (um kurz vor 9:00) noch ziemlich leer.",
@@ -11,7 +11,7 @@
       {
         "photos": [
           {
-            "name": "VCCWTQi",
+            "name": "001",
             "alt": "Kronbergbahn vor Kuhweide"
           }
         ],
@@ -21,7 +21,7 @@
       {
         "photos": [
           {
-            "name": "s563YIq",
+            "name": "002",
             "alt": "Schleierwolken und Wiese"
           }
         ],
@@ -31,7 +31,7 @@
       {
         "photos": [
           {
-            "name": "nnFuwPT",
+            "name": "003",
             "alt": "Rosen an alter Wand mit Schindeln"
           }
         ],
@@ -41,7 +41,7 @@
       {
         "photos": [
           {
-            "name": "hrhLOOt",
+            "name": "004",
             "alt": "Blick auf Säntis mit Herbstlaub"
           }
         ],
@@ -51,7 +51,7 @@
       {
         "photos": [
           {
-            "name": "Is3mJi8",
+            "name": "005",
             "alt": "Fahrweg zur Scheidegg mit Blick auf das Appenzeller Land"
           }
         ],
@@ -61,7 +61,7 @@
       {
         "photos": [
           {
-            "name": "jCF25Bg",
+            "name": "006",
             "alt": "Steile Straße im Schatten"
           }
         ],
@@ -71,7 +71,7 @@
       {
         "photos": [
           {
-            "name": "OhUFuKt",
+            "name": "007",
             "alt": "Grat des Kronbergs mit Säntis"
           }
         ],
@@ -81,11 +81,11 @@
       {
         "photos": [
           {
-            "name": "Hn9x5Ou",
+            "name": "008",
             "alt": "Weg zur Scheidegg"
           },
           {
-            "name": "1iIx4gC",
+            "name": "009",
             "alt": "Gasthaus Scheidegg"
           }
         ],
@@ -95,7 +95,7 @@
       {
         "photos": [
           {
-            "name": "ct2XJo3",
+            "name": "010",
             "alt": "Jakobskapelle auf dem Grat des Kronbergs"
           }
         ],
@@ -105,7 +105,7 @@
       {
         "photos": [
           {
-            "name": "vT8uVIO",
+            "name": "011",
             "alt": "Grasrücken auf dem Kronberg"
           }
         ],
@@ -115,7 +115,7 @@
       {
         "photos": [
           {
-            "name": "ybqnHps",
+            "name": "012",
             "alt": "Ausgetretener Weg zum Gipfel"
           }
         ],
@@ -125,7 +125,7 @@
       {
         "photos": [
           {
-            "name": "0AdDHlS",
+            "name": "013",
             "alt": "Sehr Lange Bank"
           }
         ],
@@ -135,7 +135,7 @@
       {
         "photos": [
           {
-            "name": "ys95fLS",
+            "name": "014",
             "alt": "Blick vom Gipfel zur Bergstation der Kronbergbahn"
           }
         ],
@@ -145,7 +145,7 @@
       {
         "photos": [
           {
-            "name": "sy9cTSV",
+            "name": "015",
             "alt": "Holzliegen mit Aussicht auf das Nebelmeer"
           }
         ],
@@ -155,7 +155,7 @@
       {
         "photos": [
           {
-            "name": "44XZpIZ",
+            "name": "016",
             "alt": "Wegweiser auf Kronberg vor Säntis"
           }
         ],
@@ -165,7 +165,7 @@
       {
         "photos": [
           {
-            "name": "KNMOiML",
+            "name": "017",
             "alt": "Paraglider auf Kronberg"
           }
         ],
@@ -175,7 +175,7 @@
       {
         "photos": [
           {
-            "name": "1Hksp67",
+            "name": "018",
             "alt": "Zaun vor dem Säntis"
           }
         ],
@@ -185,7 +185,7 @@
       {
         "photos": [
           {
-            "name": "YoLu55f",
+            "name": "019",
             "alt": "Wanderweg auf Grat Entlang Eines Zauns"
           }
         ],
@@ -195,7 +195,7 @@
       {
         "photos": [
           {
-            "name": "DFvrOpJ",
+            "name": "020",
             "alt": "Kronberg von Osten"
           }
         ],
@@ -205,11 +205,11 @@
       {
         "photos": [
           {
-            "name": "qEOmDwh",
+            "name": "021",
             "alt": "Hangweg zur Petersalp"
           },
           {
-            "name": "g7VQFSm",
+            "name": "022",
             "alt": "Petersalp"
           }
         ],
@@ -219,7 +219,7 @@
       {
         "photos": [
           {
-            "name": "CDBqrUC",
+            "name": "023",
             "alt": "Grashang mit Aussicht"
           }
         ],
@@ -229,7 +229,7 @@
       {
         "photos": [
           {
-            "name": "wqXJiFH",
+            "name": "024",
             "alt": "Nackte Füsse im November"
           }
         ],
@@ -239,7 +239,7 @@
       {
         "photos": [
           {
-            "name": "XbbWJWg",
+            "name": "025",
             "alt": "Schneereste vor dem Kronberg"
           }
         ],
@@ -249,7 +249,7 @@
       {
         "photos": [
           {
-            "name": "6n1LY2H",
+            "name": "026",
             "alt": "Blick auf Urnäsch"
           }
         ],
@@ -259,7 +259,7 @@
       {
         "photos": [
           {
-            "name": "YsgmncN",
+            "name": "027",
             "alt": "Rücken des Laufteggs"
           }
         ],
@@ -269,7 +269,7 @@
       {
         "photos": [
           {
-            "name": "kb4ljBu",
+            "name": "028",
             "alt": "Miniaturaufnahme Gross Eugst"
           }
         ],
@@ -279,11 +279,11 @@
       {
         "photos": [
           {
-            "name": "k2e60NG",
+            "name": "029",
             "alt": "Schleierwolkem am Kronberg"
           },
           {
-            "name": "GyWBNWp",
+            "name": "030",
             "alt": "Eiswolken über dem Gipfel"
           }
         ],
@@ -293,7 +293,7 @@
       {
         "photos": [
           {
-            "name": "lBI0H93",
+            "name": "031",
             "alt": "Fahrweg Lauftegg mit Bauernhaus"
           }
         ],
@@ -303,7 +303,7 @@
       {
         "photos": [
           {
-            "name": "chsJaT8",
+            "name": "032",
             "alt": "Panorama Kronberg Säntis Zimmermanns"
           }
         ],
@@ -313,11 +313,11 @@
       {
         "photos": [
           {
-            "name": "gSy82Bs",
+            "name": "033",
             "alt": "Stachlige Blume vor Zaun"
           },
           {
-            "name": "K5yqV9H",
+            "name": "034",
             "alt": "Gänseblumen"
           }
         ],
@@ -327,7 +327,7 @@
       {
         "photos": [
           {
-            "name": "gkRhwvf",
+            "name": "035",
             "alt": "Kondenzstreifen vor abgestorbenem Baum"
           }
         ],
@@ -337,7 +337,7 @@
       {
         "photos": [
           {
-            "name": "x4XJ1Hk",
+            "name": "036",
             "alt": "Skilift Lauftegg mit Pferden vor Gonten"
           }
         ],
@@ -347,7 +347,7 @@
       {
         "photos": [
           {
-            "name": "S2MmJtw",
+            "name": "038",
             "alt": "Wanderweg in herbstlichen Wald"
           }
         ],
@@ -357,7 +357,7 @@
       {
         "photos": [
           {
-            "name": "hZFCTut",
+            "name": "040",
             "alt": "Steile Trasse des Skilift Lauftegg"
           }
         ],
@@ -367,7 +367,7 @@
       {
         "photos": [
           {
-            "name": "nAPrp5y",
+            "name": "041",
             "alt": "Skilift Lauftegg vor Gonten"
           }
         ],
@@ -377,7 +377,7 @@
       {
         "photos": [
           {
-            "name": "17RBv7z",
+            "name": "042",
             "alt": "Talstation Seilbahn Kronberg mit vollem Parkplatz"
           }
         ],
@@ -387,7 +387,7 @@
       {
         "photos": [
           {
-            "name": "lF2Ffgi",
+            "name": "043",
             "alt": "Miniaturaufnahme Kloster Jakobsbad"
           }
         ],
@@ -397,7 +397,7 @@
       {
         "photos": [
           {
-            "name": "ZEzovFw",
+            "name": "044",
             "alt": "Miniaturaufnahme Appenzeller Bauernhof"
           }
         ],
@@ -407,7 +407,7 @@
       {
         "photos": [
           {
-            "name": "QNm4BME",
+            "name": "045",
             "alt": "Kronbergbahn Talstation"
           }
         ],
@@ -417,7 +417,7 @@
       {
         "photos": [
           {
-            "name": "ePbdxs0",
+            "name": "046",
             "alt": "Wanderkarte Appenzellerland"
           }
         ],
@@ -427,11 +427,11 @@
       {
         "photos": [
           {
-            "name": "w8yKP1m",
+            "name": "track1",
             "alt": "Wegstrecke Jakobsbad Kronberg"
           },
           {
-            "name": "zfnFYiH",
+            "name": "track2",
             "alt": "Höhenprofil Jakobsbad Kronberg"
           }
         ],

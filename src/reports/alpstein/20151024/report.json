@@ -3,7 +3,7 @@
     "destination": "alpstein",
     "date": "20151024",
     "type": "hike",
-    "track": false,
+    "track": true,
     "shortTitle": "Schwägalp",
     "title": "Hochalp - Schwägalp",
     "intro": "Die Auswahl an Wanderzielen wurde auf Grund der Schneefälle geringer. Deshalb entschied ich mich für diese Wanderung auf die Schwägalp, die 1500 Höhenmeter nur knapp überschreitet.<br />\nBei frostigen Temperaturen stellte ich mein Auto um 8:00 in Steinfluh an der Schwägalp-Passstraße ab. Da der Aufstieg zur Hochalp beim Restaurant Rossfall beginnt, musste ich erst ein Stück wieder im Tal bergab laufen. Zum Glück aber nicht direkt an der Straße, sondern auf schön angelegtem Weg auf der anderen Flussseite.<br />\nAb dort ging es dann auf rustikaler Fahrstraße sehr steil direkt den Hang hinauf. Mit jedem Meter wurde es spürbar wärmer und ich konnte schnell die Jacke verstauen. Für den Rest das Tages waren kurze Hose und T-Shirt angesagt.",
@@ -11,7 +11,7 @@
       {
         "photos": [
           {
-            "name": "xvJDJlA",
+            "name": "001",
             "alt": "Qualm und Nebel über Urnäsch"
           }
         ],
@@ -21,7 +21,7 @@
       {
         "photos": [
           {
-            "name": "Zfui76M",
+            "name": "002",
             "alt": "Steile Straße zur Alp Faltig"
           }
         ],
@@ -31,7 +31,7 @@
       {
         "photos": [
           {
-            "name": "iX7FrAa",
+            "name": "003",
             "alt": "Alp Faltig im Morgenlicht"
           }
         ],
@@ -41,7 +41,7 @@
       {
         "photos": [
           {
-            "name": "Ofi5nhS",
+            "name": "004",
             "alt": "Grat oberhalb Neckertal"
           }
         ],
@@ -51,7 +51,7 @@
       {
         "photos": [
           {
-            "name": "kHpe8Up",
+            "name": "005",
             "alt": "Panorama Hochalp"
           }
         ],
@@ -61,7 +61,7 @@
       {
         "photos": [
           {
-            "name": "82KesmX",
+            "name": "006",
             "alt": "Gipfel Hochalp"
           }
         ],
@@ -71,7 +71,7 @@
       {
         "photos": [
           {
-            "name": "U7otF3E",
+            "name": "007",
             "alt": "Gasthaus Hochalp"
           }
         ],
@@ -81,7 +81,7 @@
       {
         "photos": [
           {
-            "name": "AhDaWIJ",
+            "name": "008",
             "alt": "Verschneite Churfirsten"
           }
         ],
@@ -91,7 +91,7 @@
       {
         "photos": [
           {
-            "name": "dQTZU28",
+            "name": "009",
             "alt": "Wanderweg Hochalp Spicher"
           }
         ],
@@ -101,7 +101,7 @@
       {
         "photos": [
           {
-            "name": "sUTiD3X",
+            "name": "010",
             "alt": "Hangweg zu einer Alp"
           }
         ],
@@ -111,7 +111,7 @@
       {
         "photos": [
           {
-            "name": "p1UPp2K",
+            "name": "011",
             "alt": "Bewaldetes Tal im Herbst"
           }
         ],
@@ -121,7 +121,7 @@
       {
         "photos": [
           {
-            "name": "VDO48cn",
+            "name": "012",
             "alt": "Heißluftballon von unten"
           }
         ],
@@ -131,7 +131,7 @@
       {
         "photos": [
           {
-            "name": "PSDwmLp",
+            "name": "013",
             "alt": "Weg mit Bäumen im Herbst"
           }
         ],
@@ -141,7 +141,7 @@
       {
         "photos": [
           {
-            "name": "a8717IR",
+            "name": "014",
             "alt": "Blick vom Spicher ins Flachland"
           }
         ],
@@ -151,7 +151,7 @@
       {
         "photos": [
           {
-            "name": "ptk51GZ",
+            "name": "015",
             "alt": "Blick vom Spicher zum Säntis"
           }
         ],
@@ -161,7 +161,7 @@
       {
         "photos": [
           {
-            "name": "QONnmQZ",
+            "name": "016",
             "alt": "Blick vom Spicher zum Kronberg"
           }
         ],
@@ -171,7 +171,7 @@
       {
         "photos": [
           {
-            "name": "wNHCPvb",
+            "name": "017",
             "alt": "Blick vom Spicher zur Hochalp"
           }
         ],
@@ -181,7 +181,7 @@
       {
         "photos": [
           {
-            "name": "yOqkRDd",
+            "name": "018",
             "alt": "Serpentinen der Schägalp Passstraße"
           }
         ],
@@ -191,7 +191,7 @@
       {
         "photos": [
           {
-            "name": "KWWVB0Q",
+            "name": "019",
             "alt": "Sumpfiger Wald"
           }
         ],
@@ -201,7 +201,7 @@
       {
         "photos": [
           {
-            "name": "1fg1YUX",
+            "name": "020",
             "alt": "Holzweg durch Moor"
           }
         ],
@@ -211,7 +211,7 @@
       {
         "photos": [
           {
-            "name": "roroj4L",
+            "name": "021",
             "alt": "Herbstliche Moorwiese"
           }
         ],
@@ -221,11 +221,11 @@
       {
         "photos": [
           {
-            "name": "E1n3ONp",
+            "name": "022",
             "alt": "Pilze mit Moos"
           },
           {
-            "name": "Su9mJgf",
+            "name": "023",
             "alt": "Pilz an Baumstamm"
           }
         ],
@@ -235,11 +235,11 @@
       {
         "photos": [
           {
-            "name": "g2VUnzT",
+            "name": "024",
             "alt": "Passhöhe Schwägalp mit Säntis"
           },
           {
-            "name": "4zzXjAh",
+            "name": "025",
             "alt": "Gasthaus Passhöhe Schwägalp"
           }
         ],
@@ -249,7 +249,7 @@
       {
         "photos": [
           {
-            "name": "07OZanX",
+            "name": "026",
             "alt": "Naturerlebnisweg Schwägalp"
           }
         ],
@@ -259,7 +259,7 @@
       {
         "photos": [
           {
-            "name": "1DYZpym",
+            "name": "027",
             "alt": "Aussicht Schwägalp"
           }
         ],
@@ -269,7 +269,7 @@
       {
         "photos": [
           {
-            "name": "6CnDKPd",
+            "name": "028",
             "alt": "Hochtal Schwägalp"
           }
         ],
@@ -279,7 +279,7 @@
       {
         "photos": [
           {
-            "name": "3EYsCJY",
+            "name": "029",
             "alt": "Alp Aueli"
           }
         ],
@@ -289,7 +289,7 @@
       {
         "photos": [
           {
-            "name": "WBCGc7y",
+            "name": "030",
             "alt": "Steinmauer auf Alp Aueli mit Säntis"
           }
         ],
@@ -299,7 +299,7 @@
       {
         "photos": [
           {
-            "name": "Vu4kPwI",
+            "name": "032",
             "alt": "Alte Passstraße zur Schwägalp"
           }
         ],
@@ -309,11 +309,11 @@
       {
         "photos": [
           {
-            "name": "EUybArs",
+            "name": "track1",
             "alt": "Wegstrecke Hochalp Schwägalp"
           },
           {
-            "name": "RL2Mk3a",
+            "name": "track2",
             "alt": "Höhenprofil Hochalp Schwägalp"
           }
         ],

@@ -198,7 +198,9 @@ class Map extends React.Component {
     const trackData = this.parseTrackData(gpxRaw);
     this.addTrack(trackData.positions);
     this.addPin(trackData.sampledPosition);
-    this.addSwissSatellite(trackData.positions);
+    if (!this.props.hideSwissMap) {
+      this.addSwissSatellite(trackData.positions);
+    }
     this.setupClock(trackData.startTime, trackData.stopTime);
     this.timeChanged(this.props.time);
   }
@@ -324,6 +326,7 @@ Map.propTypes = {
   gpxPath: PropTypes.string.isRequired,
   time: PropTypes.string.isRequired,
   timeShift: PropTypes.number,
+  hideSwissMap: PropTypes.bool,
   onClick: PropTypes.func
 };
 

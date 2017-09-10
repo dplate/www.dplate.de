@@ -3,7 +3,8 @@
     "destination": "brandnertal",
     "date": "20150829",
     "type": "hike",
-    "track": false,
+    "track": true,
+    "hideSwissMap": true,
     "shortTitle": "Schesaplana",
     "title": "Lünersee - Schesaplana",
     "intro": "Da man nie genau weiß, wie lang im Jahr man noch Wanderungen bis hinauf auf knapp 3000m unternehmen kann, ging ich auf Nummer sicher und hatte mir diesen Samstag die Schesaplana vorgenommen.<br />\nAls Ausgangspunkt der Tour entschloss ich mich für die Talstation der Lünerseebahn auf 1500m am Ende des Brandnertals. Da ich der Hitze des Tages beim Aufstieg etwas entgehen wollte, war ich bereits um 7:00 auf dem großzügigen Parkplatz angekommen.",
@@ -11,7 +12,7 @@
       {
         "photos": [
           {
-            "name": "EYQNSMa"
+            "name": "001"
           }
         ],
         "videos": [],
@@ -20,7 +21,7 @@
       {
         "photos": [
           {
-            "name": "NWCNFF8"
+            "name": "002"
           }
         ],
         "videos": [],
@@ -29,7 +30,7 @@
       {
         "photos": [
           {
-            "name": "jyX68DX"
+            "name": "003"
           }
         ],
         "videos": [],
@@ -38,7 +39,7 @@
       {
         "photos": [
           {
-            "name": "nTxy7KD"
+            "name": "004"
           }
         ],
         "videos": [],
@@ -47,7 +48,7 @@
       {
         "photos": [
           {
-            "name": "P9MsxCW"
+            "name": "005"
           }
         ],
         "videos": [],
@@ -56,7 +57,7 @@
       {
         "photos": [
           {
-            "name": "oL5F4Kw"
+            "name": "006"
           }
         ],
         "videos": [],
@@ -65,7 +66,7 @@
       {
         "photos": [
           {
-            "name": "evMoGHN"
+            "name": "007"
           }
         ],
         "videos": [],
@@ -74,7 +75,7 @@
       {
         "photos": [
           {
-            "name": "dqTGkdq"
+            "name": "008"
           }
         ],
         "videos": [],
@@ -83,7 +84,7 @@
       {
         "photos": [
           {
-            "name": "1Fp4P41"
+            "name": "009"
           }
         ],
         "videos": [],
@@ -92,7 +93,7 @@
       {
         "photos": [
           {
-            "name": "7yG6UBh"
+            "name": "010"
           }
         ],
         "videos": [],
@@ -101,7 +102,7 @@
       {
         "photos": [
           {
-            "name": "3IboMEj"
+            "name": "011"
           }
         ],
         "videos": [],
@@ -110,7 +111,7 @@
       {
         "photos": [
           {
-            "name": "1gWz66Z"
+            "name": "012"
           }
         ],
         "videos": [],
@@ -119,7 +120,7 @@
       {
         "photos": [
           {
-            "name": "Ifu5DNs"
+            "name": "014"
           }
         ],
         "videos": [],
@@ -128,10 +129,10 @@
       {
         "photos": [
           {
-            "name": "yaPqxja"
+            "name": "015"
           },
           {
-            "name": "jxO6cNJ"
+            "name": "016"
           }
         ],
         "videos": [],
@@ -140,7 +141,7 @@
       {
         "photos": [
           {
-            "name": "TpnAgAL"
+            "name": "017"
           }
         ],
         "videos": [],
@@ -149,7 +150,7 @@
       {
         "photos": [
           {
-            "name": "ggodgVM"
+            "name": "018"
           }
         ],
         "videos": [],
@@ -158,7 +159,7 @@
       {
         "photos": [
           {
-            "name": "hvV3GEM"
+            "name": "019"
           }
         ],
         "videos": [],
@@ -167,7 +168,7 @@
       {
         "photos": [
           {
-            "name": "S6dLZ6u"
+            "name": "020"
           }
         ],
         "videos": [],
@@ -176,7 +177,7 @@
       {
         "photos": [
           {
-            "name": "Sl0viS0"
+            "name": "021"
           }
         ],
         "videos": [],
@@ -185,10 +186,10 @@
       {
         "photos": [
           {
-            "name": "IgOMiOc"
+            "name": "022"
           },
           {
-            "name": "d6XeW3D"
+            "name": "023"
           }
         ],
         "videos": [],
@@ -197,7 +198,7 @@
       {
         "photos": [
           {
-            "name": "gx4Qrzp"
+            "name": "024"
           }
         ],
         "videos": [],
@@ -206,7 +207,7 @@
       {
         "photos": [
           {
-            "name": "Bbozyr3"
+            "name": "025"
           }
         ],
         "videos": [],
@@ -215,7 +216,7 @@
       {
         "photos": [
           {
-            "name": "KZUchpI"
+            "name": "026"
           }
         ],
         "videos": [],
@@ -224,7 +225,7 @@
       {
         "photos": [
           {
-            "name": "MC6NhD4"
+            "name": "027"
           }
         ],
         "videos": [],
@@ -233,7 +234,7 @@
       {
         "photos": [
           {
-            "name": "pcWfBpd"
+            "name": "028"
           }
         ],
         "videos": [],
@@ -242,7 +243,7 @@
       {
         "photos": [
           {
-            "name": "neHmqlG"
+            "name": "029"
           }
         ],
         "videos": [],
@@ -251,7 +252,7 @@
       {
         "photos": [
           {
-            "name": "82WSNIQ"
+            "name": "030"
           }
         ],
         "videos": [],
@@ -260,16 +261,16 @@
       {
         "photos": [
           {
-            "name": "bI3AqPp"
+            "name": "031"
           },
           {
-            "name": "QgtQ9vW"
+            "name": "032"
           },
           {
-            "name": "ETRYAVF"
+            "name": "033"
           },
           {
-            "name": "JYbx1pY"
+            "name": "034"
           }
         ],
         "videos": [],
@@ -278,7 +279,7 @@
       {
         "photos": [
           {
-            "name": "Vbd0xIe"
+            "name": "035"
           }
         ],
         "videos": [],
@@ -287,7 +288,7 @@
       {
         "photos": [
           {
-            "name": "0DgASVw"
+            "name": "036"
           }
         ],
         "videos": [],
@@ -296,7 +297,7 @@
       {
         "photos": [
           {
-            "name": "LH4tOvO"
+            "name": "037"
           }
         ],
         "videos": [],
@@ -305,7 +306,7 @@
       {
         "photos": [
           {
-            "name": "9Lbh0Sp"
+            "name": "038"
           }
         ],
         "videos": [],
@@ -314,7 +315,7 @@
       {
         "photos": [
           {
-            "name": "lmHQpEL"
+            "name": "039"
           }
         ],
         "videos": [],
@@ -323,7 +324,7 @@
       {
         "photos": [
           {
-            "name": "n64uTRf"
+            "name": "040"
           }
         ],
         "videos": [],
@@ -332,7 +333,7 @@
       {
         "photos": [
           {
-            "name": "XnlDYKm"
+            "name": "041"
           }
         ],
         "videos": [],
@@ -341,7 +342,7 @@
       {
         "photos": [
           {
-            "name": "bjyCtOg"
+            "name": "042"
           }
         ],
         "videos": [],
@@ -350,7 +351,7 @@
       {
         "photos": [
           {
-            "name": "dPOL3DM"
+            "name": "043"
           }
         ],
         "videos": [],
@@ -359,7 +360,7 @@
       {
         "photos": [
           {
-            "name": "qjlXiiN"
+            "name": "044"
           }
         ],
         "videos": [],
@@ -368,10 +369,10 @@
       {
         "photos": [
           {
-            "name": "yzQ50vE"
+            "name": "045"
           },
           {
-            "name": "yBSmUOB"
+            "name": "046"
           }
         ],
         "videos": [],
@@ -380,7 +381,7 @@
       {
         "photos": [
           {
-            "name": "Wl4qrQ0"
+            "name": "047"
           }
         ],
         "videos": [],
@@ -389,7 +390,7 @@
       {
         "photos": [
           {
-            "name": "acsOGtH"
+            "name": "048"
           }
         ],
         "videos": [],
@@ -398,7 +399,7 @@
       {
         "photos": [
           {
-            "name": "cGgleVw"
+            "name": "049"
           }
         ],
         "videos": [],
@@ -407,7 +408,7 @@
       {
         "photos": [
           {
-            "name": "yKZyXKb"
+            "name": "050"
           }
         ],
         "videos": [],
@@ -416,7 +417,7 @@
       {
         "photos": [
           {
-            "name": "5YBg1Po"
+            "name": "052"
           }
         ],
         "videos": [],
@@ -425,10 +426,10 @@
       {
         "photos": [
           {
-            "name": "SC7W7Ol"
+            "name": "track1"
           },
           {
-            "name": "fbbjN7h"
+            "name": "track2"
           }
         ],
         "videos": [],
