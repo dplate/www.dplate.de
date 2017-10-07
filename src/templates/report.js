@@ -59,16 +59,26 @@ class Report extends React.Component {
       time: undefined,
       focus: undefined
     };
-    this.scrollHandler = this.scrollHandler.bind(this)
+    this.scrollHandler = this.scrollHandler.bind(this);
+    this.enableScrollHandler = this.enableScrollHandler.bind(this);
   }
 
   componentDidMount() {
-    window.addEventListener('scroll', this.scrollHandler);
+    //window.addEventListener('load', this.enableScrollHandler);
     this.retrieveImageDates();
   }
 
   componentWillUnmount() {
+   // window.removeEventListener('load', this.enableScrollHandler);
     window.removeEventListener('scroll', this.scrollHandler);
+  }
+
+  enableScrollHandler() {
+    if (window.location.hash !== '') {
+      window.location.href = window.location.hash;
+    }
+    window.addEventListener('scroll', this.scrollHandler);
+    this.scrollHandler();
   }
 
   retrieveImageDate(image) {
@@ -81,14 +91,18 @@ class Report extends React.Component {
       }
       self.images.push(image);
       self.images.sort((image1, image2) => image1.offsetTop - image2.offsetTop);
-      self.scrollHandler();
+      if (self.images.length >= self.requiredImages.length) {
+        self.enableScrollHandler();
+      }
     });
   }
 
   retrieveImageDates() {
     this.images = [];
+    this.requiredImages = [];
     const imgElements = document.querySelectorAll('.landmark img');
     for (let i=0, image; image = imgElements[i]; i++) {
+      this.requiredImages.push(image);
       if (image.complete) {
         this.retrieveImageDate(image);
       } else {
@@ -123,8 +137,14 @@ class Report extends React.Component {
       if (time) {
         this.setState({time});
       }
-      if (id) {
-        window.location.hash = id;
+      if (id && location.hash !== '#' + id) {
+        if(history.replaceState) {
+          history.replaceState(null, null, '#' + id);
+          console.log(location.hash);
+        }
+        else {
+          location.hash = '#' + id;
+        }
       }
     }
   }
