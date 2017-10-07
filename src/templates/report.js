@@ -23,11 +23,7 @@ const Chapter = styled.p`
   max-width: 800px;
 `;
 
-const Caption = styled.figcaption`
-  max-width: 800px;
-`;
-
-const Landmark = styled.figure`
+const Landmark = styled.div`
   margin: 0 0 25px 0;
 `;
 
@@ -82,10 +78,10 @@ class Report extends React.Component {
       if (exifDate) {
         const [date, time] = exifDate.split(' ');
         image.setAttribute('data-time', date.replace(/:/g, '-') + 'T' + time);
-        self.images.push(image);
-        self.images.sort((image1, image2) => image1.offsetTop - image2.offsetTop);
-        self.scrollHandler();
       }
+      self.images.push(image);
+      self.images.sort((image1, image2) => image1.offsetTop - image2.offsetTop);
+      self.scrollHandler();
     });
   }
 
@@ -114,16 +110,21 @@ class Report extends React.Component {
       }
 
       let time;
+      let id;
       let minDistance = Number.MAX_SAFE_INTEGER;
       this.images.forEach((image) => {
         const distance = Math.abs(window.pageYOffset  - image.offsetTop);
         if (distance < minDistance) {
           minDistance = distance;
           time = image.getAttribute('data-time');
+          id = image.getAttribute('id');
         }
       });
       if (time) {
         this.setState({time});
+      }
+      if (id) {
+        window.location.hash = id;
       }
     }
   }
@@ -147,13 +148,15 @@ class Report extends React.Component {
     }
 
     const photoPath = __PATH_PREFIX__ + '/photos' + this.getReportPath() + '/' + fileName + '.jpg';
-    return <Photo
-      key={index}
-      src={photoPath}
-      alt={photo.alt}
-      className={this.state.focus === photo ? 'focus' : undefined}
-      onClick={this.toggleFocus.bind(this, photo)}
-    />;
+    return <a href={'#' + fileName} key={index}>
+      <Photo
+        id={fileName}
+        src={photoPath}
+        alt={photo.alt}
+        className={this.state.focus === photo ? 'focus' : undefined}
+        onClick={this.toggleFocus.bind(this, photo)}
+      />
+    </a>;
   }
 
   renderVideo(video, index) {
@@ -171,7 +174,7 @@ class Report extends React.Component {
       <Landmark key={index} className="landmark">
         {landmark.photos && landmark.photos.map(this.renderPhoto.bind(this))}
         {landmark.videos && landmark.videos.map(this.renderVideo.bind(this))}
-        <Caption dangerouslySetInnerHTML={{ __html: landmark.text }} />
+        <Chapter dangerouslySetInnerHTML={{ __html: landmark.text }} />
       </Landmark>
     )
   }
