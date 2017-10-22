@@ -44,7 +44,7 @@ http://www.dplate.de/alpine/sankt-moritz/20141210
 http://www.dplate.de/alpine/hoher-freschen/20141129
 http://www.dplate.de/alpine/alpstein/20141102
 http://www.dplate.de/alpine/grasgehren/20141026
-http://www.dplate.de/alpine/alvier/20140907
+http://www.dplate.de/alpine/alviergruppe/20140907
 http://www.dplate.de/alpine/boedele/20140927
 http://www.dplate.de/alpine/toggenburg/20140928
 http://www.dplate.de/alpine/sulzfluh/20141012
@@ -128,3 +128,4 @@ http://www.dplate.de/alpine/alpstein/20170617
 http://www.dplate.de/alpine/malbun/20170716
 http://www.dplate.de/alpine/davos/20170801
 http://www.dplate.de/alpine/sulzfluh/20171015
+http://www.dplate.de/alpine/alviergruppe/20171021

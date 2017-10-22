@@ -1,6 +1,6 @@
 [
   {
-    "destination": "alvier",
+    "destination": "alviergruppe",
     "date": "20140907",
     "type": "hike",
     "track": true,
@@ -11,7 +11,8 @@
       {
         "photos": [
           {
-            "name": "001"
+            "name": "001",
+            "alt": "Straße Palfries"
           }
         ],
         "videos": [],
@@ -20,7 +21,8 @@
       {
         "photos": [
           {
-            "name": "002"
+            "name": "002",
+            "alt": "Pilze"
           }
         ],
         "videos": [],
@@ -29,7 +31,8 @@
       {
         "photos": [
           {
-            "name": "003"
+            "name": "003",
+            "alt": "Straße Palfries"
           }
         ],
         "videos": [],
@@ -38,7 +41,8 @@
       {
         "photos": [
           {
-            "name": "004"
+            "name": "004",
+            "alt": "Gauschla"
           }
         ],
         "videos": [],
@@ -47,10 +51,12 @@
       {
         "photos": [
           {
-            "name": "005"
+            "name": "005",
+            "alt": "Weg zwischen Bäumen"
           },
           {
-            "name": "006"
+            "name": "006",
+            "alt": "Wanderweg nach Palfries"
           }
         ],
         "videos": [],
@@ -59,7 +65,8 @@
       {
         "photos": [
           {
-            "name": "007"
+            "name": "007",
+            "alt": "Dreckiger Bergschuh"
           }
         ],
         "videos": [],
@@ -68,7 +75,8 @@
       {
         "photos": [
           {
-            "name": "008"
+            "name": "008",
+            "alt": "Panorama Palfries"
           }
         ],
         "videos": [],
@@ -77,7 +85,8 @@
       {
         "photos": [
           {
-            "name": "009"
+            "name": "009",
+            "alt": "Wanderung Palfries"
           }
         ],
         "videos": [],
@@ -86,7 +95,8 @@
       {
         "photos": [
           {
-            "name": "010"
+            "name": "010",
+            "alt": "Alvier Südsseite"
           }
         ],
         "videos": [],
@@ -95,7 +105,8 @@
       {
         "photos": [
           {
-            "name": "011"
+            "name": "011",
+            "alt": "Wegweiser Palfries"
           }
         ],
         "videos": [],
@@ -104,7 +115,8 @@
       {
         "photos": [
           {
-            "name": "012"
+            "name": "012",
+            "alt": "Hochebene Palfries"
           }
         ],
         "videos": [],
@@ -113,7 +125,8 @@
       {
         "photos": [
           {
-            "name": "013"
+            "name": "013",
+            "alt": "Steiler Aufstieg Alvier"
           }
         ],
         "videos": [],
@@ -122,7 +135,8 @@
       {
         "photos": [
           {
-            "name": "014"
+            "name": "014",
+            "alt": "Felswand Palfries"
           }
         ],
         "videos": [],
@@ -131,7 +145,8 @@
       {
         "photos": [
           {
-            "name": "015"
+            "name": "015",
+            "alt": "Walensee"
           }
         ],
         "videos": [],
@@ -140,7 +155,8 @@
       {
         "photos": [
           {
-            "name": "016"
+            "name": "016",
+            "alt": "Übergang Alvier"
           }
         ],
         "videos": [],
@@ -149,7 +165,8 @@
       {
         "photos": [
           {
-            "name": "017"
+            "name": "017",
+            "alt": "Sepentinen mit Walensee"
           }
         ],
         "videos": [],
@@ -158,7 +175,8 @@
       {
         "photos": [
           {
-            "name": "018"
+            "name": "018",
+            "alt": "Leiter Alvier"
           }
         ],
         "videos": [],
@@ -167,7 +185,8 @@
       {
         "photos": [
           {
-            "name": "019"
+            "name": "019",
+            "alt": "Rheintal Alviergruppe"
           }
         ],
         "videos": [],
@@ -176,10 +195,12 @@
       {
         "photos": [
           {
-            "name": "020"
+            "name": "020",
+            "alt": "Leiter Palfries Alvier"
           },
           {
-            "name": "021"
+            "name": "021",
+            "alt": "Leiter Palfries Alvier"
           }
         ],
         "videos": [],
@@ -188,7 +209,8 @@
       {
         "photos": [
           {
-            "name": "022"
+            "name": "022",
+            "alt": "Schafe auf steiler Bergwiese"
           }
         ],
         "videos": [],
@@ -197,7 +219,8 @@
       {
         "photos": [
           {
-            "name": "023"
+            "name": "023",
+            "alt": "Glockenblume"
           }
         ],
         "videos": [],
@@ -206,7 +229,8 @@
       {
         "photos": [
           {
-            "name": "024"
+            "name": "024",
+            "alt": "Alvier Drahtseil"
           }
         ],
         "videos": [],
@@ -215,7 +239,8 @@
       {
         "photos": [
           {
-            "name": "025"
+            "name": "025",
+            "alt": "Blick Alvier Palfries"
           }
         ],
         "videos": [],
@@ -224,7 +249,8 @@
       {
         "photos": [
           {
-            "name": "026"
+            "name": "026",
+            "alt": "Alviergruppe mit Walensee"
           }
         ],
         "videos": [],
@@ -233,7 +259,8 @@
       {
         "photos": [
           {
-            "name": "027"
+            "name": "027",
+            "alt": "Alvier Gipfel"
           }
         ],
         "videos": [],
@@ -242,7 +269,8 @@
       {
         "photos": [
           {
-            "name": "028"
+            "name": "028",
+            "alt": "Alvierkette"
           }
         ],
         "videos": [],
@@ -251,7 +279,8 @@
       {
         "photos": [
           {
-            "name": "029"
+            "name": "029",
+            "alt": "Walensee"
           }
         ],
         "videos": [],
@@ -260,7 +289,8 @@
       {
         "photos": [
           {
-            "name": "030"
+            "name": "030",
+            "alt": "Alp Palfries"
           }
         ],
         "videos": [],
@@ -269,7 +299,8 @@
       {
         "photos": [
           {
-            "name": "031"
+            "name": "031",
+            "alt": "Alvier Gipfel"
           }
         ],
         "videos": [],
@@ -278,7 +309,8 @@
       {
         "photos": [
           {
-            "name": "032"
+            "name": "032",
+            "alt": "Alvier Hütte"
           }
         ],
         "videos": [],
@@ -287,7 +319,8 @@
       {
         "photos": [
           {
-            "name": "033"
+            "name": "033",
+            "alt": "Rheintal"
           }
         ],
         "videos": [],
@@ -296,7 +329,8 @@
       {
         "photos": [
           {
-            "name": "034"
+            "name": "034",
+            "alt": "Wanderweg Alvier"
           }
         ],
         "videos": [],
@@ -305,10 +339,12 @@
       {
         "photos": [
           {
-            "name": "035"
+            "name": "035",
+            "alt": "Barbielergrat"
           },
           {
-            "name": "036"
+            "name": "036",
+            "alt": "Barbielergrat"
           }
         ],
         "videos": [],
@@ -317,7 +353,8 @@
       {
         "photos": [
           {
-            "name": "037"
+            "name": "037",
+            "alt": "Wanderweg über Wiese"
           }
         ],
         "videos": [],
@@ -326,7 +363,8 @@
       {
         "photos": [
           {
-            "name": "038"
+            "name": "038",
+            "alt": "Versteinerungen"
           }
         ],
         "videos": [],
@@ -335,7 +373,8 @@
       {
         "photos": [
           {
-            "name": "039"
+            "name": "039",
+            "alt": "Grashang"
           }
         ],
         "videos": [],
@@ -344,7 +383,8 @@
       {
         "photos": [
           {
-            "name": "040"
+            "name": "040",
+            "alt": "Rheintal"
           }
         ],
         "videos": [],
@@ -353,7 +393,8 @@
       {
         "photos": [
           {
-            "name": "041"
+            "name": "041",
+            "alt": "Arlans"
           }
         ],
         "videos": [],
@@ -362,7 +403,8 @@
       {
         "photos": [
           {
-            "name": "042"
+            "name": "042",
+            "alt": "Aussicht Arlans"
           }
         ],
         "videos": [],
@@ -371,7 +413,8 @@
       {
         "photos": [
           {
-            "name": "043"
+            "name": "043",
+            "alt": "Alvier"
           }
         ],
         "videos": [],
@@ -380,7 +423,8 @@
       {
         "photos": [
           {
-            "name": "044"
+            "name": "044",
+            "alt": "Arlans Palfries Leiter"
           }
         ],
         "videos": [],
@@ -389,7 +433,8 @@
       {
         "photos": [
           {
-            "name": "045"
+            "name": "045",
+            "alt": "Steinmännchen"
           }
         ],
         "videos": [],
@@ -398,7 +443,8 @@
       {
         "photos": [
           {
-            "name": "046"
+            "name": "046",
+            "alt": "Straße Palfries"
           }
         ],
         "videos": [],
@@ -407,10 +453,12 @@
       {
         "photos": [
           {
-            "name": "track1"
+            "name": "track1",
+            "alt": "Wanderkarte Alvier"
           },
           {
-            "name": "track2"
+            "name": "track2",
+            "alt": "Höhenprofil Alvier"
           }
         ],
         "videos": [],
@@ -419,7 +467,8 @@
       {
         "photos": [
           {
-            "name": "047"
+            "name": "047",
+            "alt": "Regitzer Spitz"
           }
         ],
         "videos": [],
