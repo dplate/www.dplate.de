@@ -31,7 +31,7 @@ const Photo = styled.img`
   position: relative;
   display: block;
   max-width: 100%;
-  max-height: calc(100vh - 75px);
+  max-height: calc(100vh - 125px);
   margin: 10px 0;
   cursor: pointer;
   &.focus {
@@ -140,7 +140,6 @@ class Report extends React.Component {
       if (id && location.hash !== '#' + id) {
         if(history.replaceState) {
           history.replaceState(null, null, '#' + id);
-          console.log(location.hash);
         }
         else {
           location.hash = '#' + id;
