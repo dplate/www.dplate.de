@@ -64,7 +64,7 @@ const ItemDate = styled.div`
 const destinationNames = {
   'airolo': 'Airolo',
   'alpstein': 'Alpstein',
-  'alvier': 'Alvier',
+  'alviergruppe': 'Alviergruppe',
   'andermatt': 'Andermatt',
   'arlberg': 'Arlberg',
   'brandnertal': 'Brandnertal',
