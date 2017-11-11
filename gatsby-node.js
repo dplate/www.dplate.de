@@ -25,13 +25,13 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
         }
         result.data.allReportJson.edges.forEach(({ node }) => {
           const { destination, date } = node;
-          const path = '/alpine/' + destination + '/' + date;
+          const path = '/alpine/' + destination + '/' + date.substring(1);
           createPage({
             path,
             component: reportTemplate,
             context: {
               destination,
-              date
+              date: date
             }
           })
         })

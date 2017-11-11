@@ -170,7 +170,7 @@ class Menu extends React.Component {
     return {
       id: report.date,
       name: <div>{report.type === 'hike' ? '☀' : '❄'} {report.shortTitle}<ItemDate>{formatDate(report.date)}</ItemDate></div>,
-      path: `/alpine/${report.destination}/${report.date}`
+      path: `/alpine/${report.destination}/${report.date.substring(1)}`
     }
   }
 

@@ -25,7 +25,7 @@ const Title = styled.div`
 `;
 
 const renderReportLink = (report) => {
-  const path = `/alpine/${report.node.destination}/${report.node.date}`;
+  const path = `/alpine/${report.node.destination}/${report.node.date.substring(1)}`;
   return (
     <Link key={path} to={path}>
       {formatDate(report.node.date)} - {report.node.title}

@@ -199,7 +199,7 @@ class Report extends React.Component {
   }
 
   getReportPath() {
-    return '/' + this.props.data.reportJson.destination + '/' + this.props.data.reportJson.date;
+    return '/' + this.props.data.reportJson.destination + '/' + this.props.data.reportJson.date.substring(1);
   }
 
   buildPageTitle(title, type) {
