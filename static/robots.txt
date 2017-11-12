@@ -1,10 +1,4 @@
 User-agent: *
 Allow: /
 
-User-agent: *
-Disallow: /*title-foreground.png$
-
-User-agent: *
-Disallow: /*title-background.jpg$
-
 Sitemap: http://www.dplate.de/sitemap.txt
