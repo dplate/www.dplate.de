@@ -3,6 +3,7 @@ import { Helmet } from 'react-helmet'
 import styled from 'styled-components'
 import { EXIF } from '../external/exif-js/exif'
 import Map from '../components/map'
+import Title3D from '../components/title3d'
 import {videoWrapperStyle, videoContainerStyle} from '../styles/basestyle.js'
 import formatDate from '../utils/formatDate'
 import gpxIcon from '../icons/gpx.svg'
@@ -83,12 +84,10 @@ class Report extends React.Component {
   }
 
   componentDidMount() {
-    //window.addEventListener('load', this.enableScrollHandler);
     this.retrieveImageDates();
   }
 
   componentWillUnmount() {
-   // window.removeEventListener('load', this.enableScrollHandler);
     window.removeEventListener('scroll', this.scrollHandler);
   }
 
@@ -246,15 +245,17 @@ class Report extends React.Component {
 
   render() {
     const content = this.props.data.reportJson;
-    const {date, type, track, timeShift, hideSwissMap, hideSwissTopo, title, intro, landmarks, outro} = content;
+    const {date, destination, type, track, timeShift, hideSwissMap, hideSwissTopo, title, show3DTitle, intro, landmarks, outro} = content;
     const gpxPath = __PATH_PREFIX__ + '/tracks' + this.getReportPath() + '.gpx';
+    const fullTitle = title + ' - ' + formatDate(date);
     return (
       <Content>
         <Helmet>
           <title>{this.buildPageTitle(title, type)}</title>
           <meta name="description" content={this.buildPageDescription(title, type, date)} />
         </Helmet>
-        <h1>{title} - {formatDate(date)}</h1>
+        {!show3DTitle && <h1>{fullTitle}</h1>}
+        {show3DTitle && <Title3D reportPath={this.getReportPath()} title={fullTitle} />}
         <Chapter dangerouslySetInnerHTML={{__html: intro}}/>
         {landmarks.map(this.renderLandmark.bind(this))}
         <Chapter dangerouslySetInnerHTML={{__html: outro}}/>
@@ -278,7 +279,22 @@ export default Report;
 export const pageQuery = graphql`
   query ReportByDestinationAndDate($destination: String!, $date: String!) {
     reportJson(destination: {eq: $destination}, date: {eq: $date}) {
-      destination, date, type, track, timeShift, hideSwissMap, hideSwissTopo, title, intro, landmarks {photos {name, alt}, videos, text}, outro
+      destination, 
+      date, 
+      type, 
+      track, 
+      timeShift, 
+      hideSwissMap, 
+      hideSwissTopo, 
+      title,
+      show3DTitle,
+      intro, 
+      landmarks {
+        photos {name, alt}, 
+        videos, 
+        text
+      }, 
+      outro
     }
   }
 `;
