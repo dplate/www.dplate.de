@@ -198,19 +198,33 @@ class Map extends React.Component {
     const trackData = this.parseTrackData(gpxRaw);
     this.addTrack(trackData.positions);
     this.addPin(trackData.sampledPosition);
+    const hdRectangle = this.createHdRectangle(trackData.positions);
     if (!this.props.hideSwissMap) {
-      this.addSwissSatellite(trackData.positions);
+      this.addSwissSatellite(hdRectangle);
+    }
+    if (this.props.winter) {
+      this.turnToWinter(hdRectangle);
     }
     this.setupClock(trackData.startTime, trackData.stopTime);
     this.timeChanged(this.props.time);
   }
 
+  createTerrainProvider() {
+    if (this.props.hideSwissTopo) {
+      return new this.Cesium.CesiumTerrainProvider({
+        url : '//assets.agi.com/stk-terrain/v1/tilesets/world/tiles',
+        requestVertexNormals: true
+      })
+    }
+    return new this.Cesium.CesiumTerrainProvider({
+      url : '//3d.geo.admin.ch/1.0.0/ch.swisstopo.terrain.3d/default/20160115/4326/',
+      requestVertexNormals: true
+    })
+  }
+
   setupViewer() {
     this.viewer = new this.Cesium.Viewer('cesiumContainer', {
-      terrainProvider : new this.Cesium.CesiumTerrainProvider({
-        url : '//3d.geo.admin.ch/1.0.0/ch.swisstopo.terrain.3d/default/20160115/4326/',
-        requestVertexNormals: true
-      }),
+      terrainProvider : this.createTerrainProvider(),
       baseLayerPicker : false,
       geocoder: false,
       animation: false,
@@ -226,7 +240,7 @@ class Map extends React.Component {
       imageryProvider : new this.Cesium.BingMapsImageryProvider({
         url : 'https://dev.virtualearth.net',
         key : 'AkvC0n8biVNXoCbpiAc4p3g7S9ZHoUWvlpgcJKYQd8FhCA5sn6C8OUmhIR8IEO0X',
-        mapStyle : this.Cesium.BingMapsStyle.AERIAL
+        mapStyle : this.Cesium.BingMapsStyle.AERIAL,
       })
     });
     this.viewer.scene.globe.enableLighting = true;
@@ -283,9 +297,28 @@ class Map extends React.Component {
     this.viewer.entities.add(pin);
   }
 
-  addSwissSatellite(positions) {
+  turnToWinter(hdRectangle) {
+    const layers = this.viewer.scene.imageryLayers;
+    for (let i = 0; i < layers.length; i++) {
+      const layer = layers.get(i);
+      layer.contrast = 3.0;
+      layer.saturation = 0.2;
+      layer.brightness = 1.7;
+    }
+    const snowLayer = layers.addImageryProvider(new Cesium.SingleTileImageryProvider({
+      url : __PATH_PREFIX__ + '/snow-texture.jpg',
+      rectangle : hdRectangle
+    }));
+    snowLayer.alpha = 0.2;
+  }
+
+  createHdRectangle(positions) {
     const hdRectangle = this.Cesium.Rectangle.fromCartesianArray(positions, this.Cesium.Ellipsoid.WGS84);
     hdRectangle.east += 0.0005; hdRectangle.west -= 0.0005; hdRectangle.north += 0.00025; hdRectangle.south -= 0.00025;
+    return hdRectangle;
+  }
+
+  addSwissSatellite(hdRectangle) {
     const provider = new this.Cesium.UrlTemplateImageryProvider({
       url: "//wmts{s}.geo.admin.ch/1.0.0/ch.swisstopo.swissimage-product/default/current/4326/{z}/{y}/{x}.jpeg",
       subdomains: '56789',
@@ -327,6 +360,8 @@ Map.propTypes = {
   time: PropTypes.string.isRequired,
   timeShift: PropTypes.number,
   hideSwissMap: PropTypes.bool,
+  hideSwissTopo: PropTypes.bool,
+  winter: PropTypes.bool,
   onClick: PropTypes.func
 };
 

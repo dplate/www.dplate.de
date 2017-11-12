@@ -2,7 +2,10 @@
   {
     "destination": "serfaus-fiss-ladis",
     "date": "d20140407",
-    "track": false,
+    "track": true,
+    "timeShift": 75,
+    "hideSwissMap": true,
+    "hideSwissTopo": true,
     "shortTitle": "Serfaus Fiss Ladis",
     "title": "Serfaus/Fiss/Ladis",
     "intro": "Nach den vielen Serfaus/Fiss/Ladis-Berichten hier, beschloss ich dort auch mal hinzufahren. Kurzer Check im Routenplaner gibt 2:20h als Fahrzeit und 200km an... für mich gerade noch akzeptabel für einen Tagesausflug. <br />\nAlso ging es am sechsten Skitag meines Urlaub früh morgens an diesem sonnigen Montag los und ich erreichte den Parkplatz der Waldbahn in Fiss um 8:30. Erst zweites Auto auf dem riesigen Parkplatz, da die Bahn erst um 8:45 startet. Tageskarte kostete 43€, leider keine großen Rabatte für Tageskarten durch die aktuellen Frühlingsaktionen.",
@@ -10,7 +13,8 @@
       {
         "photos": [
           {
-            "name": "UCiaocy"
+            "name": "001",
+            "alt": "Pistenplan"
           }
         ],
         "videos": [],
@@ -19,7 +23,8 @@
       {
         "photos": [
           {
-            "name": "GSwE9HB"
+            "name": "002",
+            "alt": "Talabfahrt Waldbahn"
           }
         ],
         "videos": [],
@@ -28,7 +33,8 @@
       {
         "photos": [
           {
-            "name": "Kq9ps6c"
+            "name": "003",
+            "alt": "Fiss"
           }
         ],
         "videos": [],
@@ -37,7 +43,8 @@
       {
         "photos": [
           {
-            "name": "fTYbTW3"
+            "name": "004",
+            "alt": "Schneebänder Fiss"
           }
         ],
         "videos": [],
@@ -46,7 +53,8 @@
       {
         "photos": [
           {
-            "name": "HI8cJ16"
+            "name": "005",
+            "alt": "Schönjochbahn"
           }
         ],
         "videos": [],
@@ -55,10 +63,12 @@
       {
         "photos": [
           {
-            "name": "k0i1iDI"
+            "name": "006",
+            "alt": "Plazörabfahrt"
           },
           {
-            "name": "SieADVn"
+            "name": "007",
+            "alt": "Zirbenhütte"
           }
         ],
         "videos": [],
@@ -67,7 +77,8 @@
       {
         "photos": [
           {
-            "name": "99l3zGm"
+            "name": "008",
+            "alt": "Schöngampbahn"
           }
         ],
         "videos": [],
@@ -76,7 +87,8 @@
       {
         "photos": [
           {
-            "name": "bbWFMV6"
+            "name": "009",
+            "alt": "Almbahn"
           }
         ],
         "videos": [],
@@ -85,16 +97,18 @@
       {
         "photos": [
           {
-            "name": "NGEKBeH"
+            "name": "010",
+            "alt": "Aussichtsplattform Zwölferkopf"
           }
         ],
         "videos": [],
-        "text": "Aussichtsplatform am Gipfel der Almbahn. Ziemlich unnötig, da man von dort oben nicht mehr sieht als direkt daneben."
+        "text": "Aussichtsplatfform am Gipfel der Almbahn. Ziemlich unnötig, da man von dort oben nicht mehr sieht als direkt daneben."
       },
       {
         "photos": [
           {
-            "name": "a1IxeBy"
+            "name": "011",
+            "alt": "Schönjochabfahrt"
           }
         ],
         "videos": [],
@@ -103,7 +117,8 @@
       {
         "photos": [
           {
-            "name": "N6G7mkz"
+            "name": "012",
+            "alt": "Kunstschneepisten"
           }
         ],
         "videos": [],
@@ -112,13 +127,16 @@
       {
         "photos": [
           {
-            "name": "Bmhvsom"
+            "name": "013",
+            "alt": "Kunstschnee"
           },
           {
-            "name": "CZfJxpr"
+            "name": "014",
+            "alt": "Skigebiet Serfaus"
           },
           {
-            "name": "wlmNVQ1"
+            "name": "015",
+            "alt": "Talabfahrt Serfaus"
           }
         ],
         "videos": [],
@@ -127,7 +145,8 @@
       {
         "photos": [
           {
-            "name": "n2IZxo5"
+            "name": "016",
+            "alt": "Serfaus Frühling"
           }
         ],
         "videos": [],
@@ -136,7 +155,8 @@
       {
         "photos": [
           {
-            "name": "Gw2Mv9V"
+            "name": "017",
+            "alt": "Panorama Obere Scheid"
           }
         ],
         "videos": [],
@@ -145,7 +165,8 @@
       {
         "photos": [
           {
-            "name": "q8jTJeB"
+            "name": "018",
+            "alt": "Masnerkopf"
           }
         ],
         "videos": [],
@@ -154,7 +175,8 @@
       {
         "photos": [
           {
-            "name": "huXwmuW"
+            "name": "019",
+            "alt": "Skihütte Masner"
           }
         ],
         "videos": [],
@@ -163,7 +185,8 @@
       {
         "photos": [
           {
-            "name": "CPyAxGU"
+            "name": "020",
+            "alt": "Abfahrt Masnerkopf"
           }
         ],
         "videos": [],
@@ -172,10 +195,12 @@
       {
         "photos": [
           {
-            "name": "FDFWz67"
+            "name": "021",
+            "alt": "Piste Pezidbahn"
           },
           {
-            "name": "bUUCTOK"
+            "name": "022",
+            "alt": "Pezidbahn"
           }
         ],
         "videos": [],
@@ -184,7 +209,8 @@
       {
         "photos": [
           {
-            "name": "xzW8IWW"
+            "name": "023",
+            "alt": "Scheidbahn"
           }
         ],
         "videos": [],
@@ -193,7 +219,8 @@
       {
         "photos": [
           {
-            "name": "k36OINL"
+            "name": "024",
+            "alt": "Abfahrt Laustalbahn"
           }
         ],
         "videos": [],
@@ -202,7 +229,8 @@
       {
         "photos": [
           {
-            "name": "eF8GvPp"
+            "name": "025",
+            "alt": "Laustalbahn"
           }
         ],
         "videos": [],
@@ -211,7 +239,8 @@
       {
         "photos": [
           {
-            "name": "KcBFvu4"
+            "name": "026",
+            "alt": "Lawensbahn"
           }
         ],
         "videos": [],
@@ -220,7 +249,8 @@
       {
         "photos": [
           {
-            "name": "RD2aQ0P"
+            "name": "027",
+            "alt": "Restaurant Lassida"
           }
         ],
         "videos": [],
@@ -229,7 +259,8 @@
       {
         "photos": [
           {
-            "name": "hcCZWiT"
+            "name": "028",
+            "alt": "Hohe Pleis Abfahrt"
           }
         ],
         "videos": [],
@@ -238,7 +269,8 @@
       {
         "photos": [
           {
-            "name": "QDeLhwo"
+            "name": "029",
+            "alt": "Komperdell"
           }
         ],
         "videos": [],
@@ -247,10 +279,12 @@
       {
         "photos": [
           {
-            "name": "L4Jzfpm"
+            "name": "030",
+            "alt": "Waldabfahrt Serfaus"
           },
           {
-            "name": "o44NMUq"
+            "name": "031",
+            "alt": "Alpkopfbahn"
           }
         ],
         "videos": [],
@@ -259,7 +293,8 @@
       {
         "photos": [
           {
-            "name": "vO0oXAz"
+            "name": "032",
+            "alt": "Almbahn"
           }
         ],
         "videos": [],
@@ -268,7 +303,8 @@
       {
         "photos": [
           {
-            "name": "fthzoBP"
+            "name": "033",
+            "alt": "Adlerpiste"
           }
         ],
         "videos": [],
@@ -277,7 +313,8 @@
       {
         "photos": [
           {
-            "name": "wga8K0e"
+            "name": "034",
+            "alt": "Frommesabfahrt"
           }
         ],
         "videos": [],
@@ -286,7 +323,8 @@
       {
         "photos": [
           {
-            "name": "mziVoCi"
+            "name": "035",
+            "alt": "Sonnenbahn Ladis-Fiss"
           }
         ],
         "videos": [],
@@ -295,7 +333,8 @@
       {
         "photos": [
           {
-            "name": "mFQPEOK"
+            "name": "036",
+            "alt": "Fiss"
           }
         ],
         "videos": [],
@@ -304,10 +343,12 @@
       {
         "photos": [
           {
-            "name": "fwAGMHd"
+            "name": "track1",
+            "alt": "Streckenplan"
           },
           {
-            "name": "1UPi0zx"
+            "name": "track2",
+            "alt": "Höhenprofil"
           }
         ],
         "videos": [],

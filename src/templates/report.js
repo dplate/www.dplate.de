@@ -219,7 +219,7 @@ class Report extends React.Component {
 
   render() {
     const content = this.props.data.reportJson;
-    const {date, type, track, timeShift, hideSwissMap, title, intro, landmarks, outro} = content;
+    const {date, type, track, timeShift, hideSwissMap, hideSwissTopo, title, intro, landmarks, outro} = content;
     return (
       <Content>
         <Helmet>
@@ -235,6 +235,8 @@ class Report extends React.Component {
           time={this.state.time}
           timeShift={timeShift}
           hideSwissMap={hideSwissMap}
+          hideSwissTopo={hideSwissTopo}
+          winter={type !== 'hike'}
           onClick={this.resetFocus.bind(this)}
          />}
       </Content>
@@ -247,7 +249,7 @@ export default Report;
 export const pageQuery = graphql`
   query ReportByDestinationAndDate($destination: String!, $date: String!) {
     reportJson(destination: {eq: $destination}, date: {eq: $date}) {
-      destination, date, type, track, timeShift, hideSwissMap, title, intro, landmarks {photos {name, alt}, videos, text}, outro
+      destination, date, type, track, timeShift, hideSwissMap, hideSwissTopo, title, intro, landmarks {photos {name, alt}, videos, text}, outro
     }
   }
 `;
