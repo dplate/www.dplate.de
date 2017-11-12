@@ -230,7 +230,7 @@ class Report extends React.Component {
 
   buildPageDescription(title, type, date) {
     if (type === 'hike') {
-      return `⛰ Wanderbericht ${title} vom ${formatDate(date)} mit vielen Fotos, ausführlicher Wegbeschreibung und Wanderkarte`;
+      return `⛰ Wandern ${title} vom ${formatDate(date)} mit vielen Fotos, ausführlicher Wegbeschreibung und Wanderkarte`;
     }
     return `⛷ Skigebiet ${title} am ${formatDate(date)} mit vielen Fotos, Pistenplan und Beschreibung der Abfahrten/Schneeverhältnisse`;
   }
@@ -238,7 +238,7 @@ class Report extends React.Component {
   renderGpxDownload(gpxPath) {
     const downloadName = 'www-dplate-de-' + this.props.data.reportJson.destination + '-' + this.props.data.reportJson.date.substring(1) + '.gpx';
     return (
-        <GpxDownload href={gpxPath} download={downloadName}>
+        <GpxDownload href={gpxPath} download={downloadName} onClick={() => {window.ga && window.ga('send', 'event', 'gpxDownload', 'click');}}>
           <GpxDownloadIcon src={gpxIcon} alt="Download GPX Track" title="Download GPX Track" />
         </GpxDownload>
     );

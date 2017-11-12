@@ -64,7 +64,7 @@ export default (props) => {
 
         <FlexCard>
           <h2>Spielzimmer</h2>
-          <p>Downloads von mir entwickelter PC-Spiele.</p>
+          <p>Downloads von mir entwickelter PC&#8209;Spiele.</p>
           <Link to="/games/schiffbruch">Schiffbruch</Link>
           <Link to="/games/cannonhill">Cannonhill</Link>
           <Link to="/games/modracer">Modracer</Link>
@@ -73,7 +73,7 @@ export default (props) => {
 
         <FlexCard>
           <h2>Werkzeugschuppen</h2>
-          <p>Downloads von mir entwickelter PC-Tools.</p>
+          <p>Downloads von mir entwickelter PC&#8209;Tools.</p>
           <Link to="/tools/scapemaker">ScapeMaker</Link>
           <Link to="/tools/kensentme">KenSentMe</Link>
         </FlexCard>
