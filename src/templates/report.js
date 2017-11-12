@@ -129,15 +129,36 @@ class Report extends React.Component {
     }
   }
 
+  changeHash(id) {
+    if (id) {
+      const hash = '#' + id;
+      if (location.hash !== hash) {
+        if(history.replaceState) {
+          history.replaceState(null, null, hash);
+        }
+        else {
+          location.hash = hash;
+        }
+      }
+    } else {
+      if (location.hash && history.replaceState) {
+        history.replaceState(null, null, window.location.pathname);
+      }
+    }
+
+  }
+
   scrollHandler() {
     if (this.images.length > 0) {
       if (window.pageYOffset < this.images[0].offsetTop ) {
         this.setState({time: 'start'});
+        this.changeHash();
         return;
       }
 
       if (window.pageYOffset > this.images[this.images.length - 1].offsetTop + 500 ) {
         this.setState({time: 'end'});
+        this.changeHash();
         return;
       }
 
@@ -155,14 +176,7 @@ class Report extends React.Component {
       if (time) {
         this.setState({time});
       }
-      if (id && location.hash !== '#' + id) {
-        if(history.replaceState) {
-          history.replaceState(null, null, '#' + id);
-        }
-        else {
-          location.hash = '#' + id;
-        }
-      }
+      this.changeHash(id);
     }
   }
 
