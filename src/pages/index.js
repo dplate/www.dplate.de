@@ -16,6 +16,10 @@ const FlexCard = styled.div`
   flex-basis: 300px;
   a {
     display: block;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 300px;
   }
 `;
 
