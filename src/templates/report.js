@@ -5,6 +5,7 @@ import { EXIF } from '../external/exif-js/exif'
 import Map from '../components/map'
 import {videoWrapperStyle, videoContainerStyle} from '../styles/basestyle.js'
 import formatDate from '../utils/formatDate'
+import gpxIcon from '../icons/gpx.svg'
 
 const Content = styled.div`
   display: block;
@@ -50,6 +51,24 @@ const VideoContainer = styled.div`
 
 const VideoWrapper = styled.div`
   ${videoWrapperStyle}
+`;
+
+const GpxDownload = styled.a`
+  display: inline-block;
+  margin: 20px 0px 0px 0px;
+  padding: 10px 10px 5px 17px;
+  background-color: #CFE0C3;
+  border: 3px solid #40798C;
+  border-radius: 5px;
+  width: 60px;
+  &:hover {
+    background-color: #9EC1A3;
+  }
+`;
+
+const GpxDownloadIcon = styled.img`
+  width: 50px;
+  height: auto;
 `;
 
 class Report extends React.Component {
@@ -216,10 +235,19 @@ class Report extends React.Component {
     return `⛷ Skigebiet ${title} am ${formatDate(date)} mit vielen Fotos, Pistenplan und Beschreibung der Abfahrten/Schneeverhältnisse`;
   }
 
+  renderGpxDownload(gpxPath) {
+    const downloadName = 'www-dplate-de-' + this.props.data.reportJson.destination + '-' + this.props.data.reportJson.date.substring(1) + '.gpx';
+    return (
+        <GpxDownload href={gpxPath} download={downloadName}>
+          <GpxDownloadIcon src={gpxIcon} alt="Download GPX Track" title="Download GPX Track" />
+        </GpxDownload>
+    );
+  }
 
   render() {
     const content = this.props.data.reportJson;
     const {date, type, track, timeShift, hideSwissMap, hideSwissTopo, title, intro, landmarks, outro} = content;
+    const gpxPath = __PATH_PREFIX__ + '/tracks' + this.getReportPath() + '.gpx';
     return (
       <Content>
         <Helmet>
@@ -230,8 +258,9 @@ class Report extends React.Component {
         <Chapter dangerouslySetInnerHTML={{__html: intro}}/>
         {landmarks.map(this.renderLandmark.bind(this))}
         <Chapter dangerouslySetInnerHTML={{__html: outro}}/>
+        {track && this.renderGpxDownload(gpxPath)}
         {track && this.state.time && <Map
-          gpxPath={__PATH_PREFIX__ + '/tracks' + this.getReportPath() + '.gpx'}
+          gpxPath={gpxPath}
           time={this.state.time}
           timeShift={timeShift}
           hideSwissMap={hideSwissMap}
