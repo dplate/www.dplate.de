@@ -4,6 +4,7 @@
     "date": "d20160911",
     "type": "hike",
     "track": true,
+    "detailMap": "swiss",
     "timeShift": -120,
     "shortTitle": "Säntis",
     "title": "Ebenalp - Säntis",

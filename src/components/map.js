@@ -199,8 +199,11 @@ class Map extends React.Component {
     this.addTrack(trackData.positions);
     this.addPin(trackData.sampledPosition);
     const hdRectangle = this.createHdRectangle(trackData.positions);
-    if (!this.props.hideSwissMap) {
+    if (this.props.detailMap === 'swiss') {
       this.addSwissSatellite(hdRectangle);
+    }
+    if (this.props.detailMap === 'austria') {
+      this.addAustriaSatellite(hdRectangle);
     }
     if (this.props.winter) {
       this.turnToWinter(hdRectangle);
@@ -320,7 +323,7 @@ class Map extends React.Component {
 
   addSwissSatellite(hdRectangle) {
     const provider = new this.Cesium.UrlTemplateImageryProvider({
-      url: "//wmts{s}.geo.admin.ch/1.0.0/ch.swisstopo.swissimage-product/default/current/4326/{z}/{y}/{x}.jpeg",
+      url: '//wmts{s}.geo.admin.ch/1.0.0/ch.swisstopo.swissimage-product/default/current/4326/{z}/{y}/{x}.jpeg',
       subdomains: '56789',
       minimumLevel: 8,
       maximumLevel: 17,
@@ -330,6 +333,19 @@ class Map extends React.Component {
       }),
       rectangle: hdRectangle,
       credit: 'geodata © swisstopo'
+    });
+    this.viewer.scene.imageryLayers.addImageryProvider(provider);
+  }
+
+  addAustriaSatellite(hdRectangle) {
+    const provider = new this.Cesium.WebMapTileServiceImageryProvider({
+      url: '//maps{s}.wien.gv.at/basemap/bmaporthofoto30cm/{Style}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg',
+      layer: 'bmaporthofoto30cm',
+      style: 'normal',
+      tileMatrixSetID: 'google3857',
+      subdomains: '1234',
+      rectangle: hdRectangle,
+      credit: new Cesium.Credit('Datenquelle: basemap.at', null, 'https://www.basemap.at/')
     });
     this.viewer.scene.imageryLayers.addImageryProvider(provider);
   }
@@ -359,7 +375,7 @@ Map.propTypes = {
   gpxPath: PropTypes.string.isRequired,
   time: PropTypes.string.isRequired,
   timeShift: PropTypes.number,
-  hideSwissMap: PropTypes.bool,
+  detailMap: PropTypes.string,
   hideSwissTopo: PropTypes.bool,
   winter: PropTypes.bool,
   onClick: PropTypes.func

@@ -259,7 +259,7 @@ class Report extends React.Component {
 
   render() {
     const content = this.props.data.reportJson;
-    const {date, type, track, timeShift, hideSwissMap, hideSwissTopo, title, title3d, intro, landmarks, outro} = content;
+    const {date, type, track, timeShift, detailMap, hideSwissTopo, title, title3d, intro, landmarks, outro} = content;
     const gpxPath = __PATH_PREFIX__ + '/tracks' + this.getReportPath() + '.gpx';
     const fullTitle = title + ' - ' + formatDate(date);
     return (
@@ -278,7 +278,7 @@ class Report extends React.Component {
           gpxPath={gpxPath}
           time={this.state.time}
           timeShift={timeShift}
-          hideSwissMap={hideSwissMap}
+          detailMap={detailMap}
           hideSwissTopo={hideSwissTopo}
           winter={type !== 'hike'}
           onClick={this.resetFocus.bind(this)}
@@ -298,7 +298,7 @@ export const pageQuery = graphql`
       type, 
       track, 
       timeShift, 
-      hideSwissMap, 
+      detailMap, 
       hideSwissTopo, 
       title,
       title3d {
