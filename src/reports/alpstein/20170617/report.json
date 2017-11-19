@@ -6,7 +6,10 @@
     "track": true,
     "shortTitle": "Zwinglipass",
     "title": "Brülisau - Zwinglipass",
-    "show3DTitle": true,
+    "title3d": {
+      "offsetY": 15.0,
+      "fontSize": 5.0
+    },
     "intro": "Für diesen Samstag suchte ich mir den Zwinglipass im Alpstein als Ziel meiner Wanderung aus. Ich wählte als\n      Ausgangspunkt Brülisau in Appenzell, weil ich von dieser Seite aus noch einige Abschnitte der Tour noch nicht\n      kannte.<br />\n      Um 7:30 erreichte mit dem Auto den Parkplatz bei Pfannenstiel bei der Talstation der Alp Sigel Bahn. Die\n      Parkgebühren betragen dort 3 CHF. Alternativ kann man auch in Brülisau parken, muss dann aber ein ganzes Stück\n      zu Fuß extra auf der Straße zurücklegen.",
     "landmarks": [
       {

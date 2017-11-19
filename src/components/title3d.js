@@ -17,7 +17,7 @@ const Background = styled.img`
 const Title = styled.h1`
   position: absolute;
   left: 3vw;
-  font-size: 5vw;
+  line-height: initial;
   text-shadow: 2px 2px 4px #000000;
 `;
 
@@ -51,11 +51,11 @@ class Title3D extends React.Component {
   }
 
   render() {
-    const {reportPath, title} = this.props;
+    const {reportPath, title, offsetY, fontSize} = this.props;
     return (
       <Wrapper>
         <Background src={__PATH_PREFIX__ + '/photos' + reportPath + '/title-background.jpg'} style={{ top: this.state.pageYOffset / 20 + 'vh' }} />
-        <Title style={{ top: 'calc(15vw + ' + this.state.pageYOffset / 40 + 'vh)' }}>{title}</Title>
+        <Title style={{ top: 'calc(' + offsetY + 'vw + ' + this.state.pageYOffset / 40 + 'vh)', fontSize: fontSize + 'vw' }}>{title}</Title>
         <Foreground src={__PATH_PREFIX__ + '/photos' + reportPath + '/title-foreground.png'} />
       </Wrapper>
     )
@@ -64,7 +64,9 @@ class Title3D extends React.Component {
 
 Title3D.propTypes = {
   reportPath: PropTypes.string.isRequired,
-  title: PropTypes.string.isRequired
+  title: PropTypes.string.isRequired,
+  offsetY: PropTypes.number.isRequired,
+  fontSize:  PropTypes.number.isRequired
 };
 
 export default Title3D;
