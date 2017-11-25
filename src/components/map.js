@@ -304,9 +304,9 @@ class Map extends React.Component {
     const layers = this.viewer.scene.imageryLayers;
     for (let i = 0; i < layers.length; i++) {
       const layer = layers.get(i);
-      layer.contrast = 3.0;
+      layer.contrast = 2.5;
       layer.saturation = 0.2;
-      layer.brightness = 1.7;
+      layer.brightness = 1.5;
     }
     const snowLayer = layers.addImageryProvider(new Cesium.SingleTileImageryProvider({
       url : __PATH_PREFIX__ + '/snow-texture.jpg',
