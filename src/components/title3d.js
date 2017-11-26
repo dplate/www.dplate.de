@@ -52,9 +52,13 @@ class Title3D extends React.Component {
 
   render() {
     const {reportPath, title, offsetY, fontSize} = this.props;
+    let backgroundFile = 'title.jpg';
+    if (process.env.NODE_ENV === `production`) {
+      backgroundFile = title.split(' ').join('-').toLowerCase() + '_' + backgroundFile;
+    }
     return (
       <Wrapper>
-        <Background src={__PATH_PREFIX__ + '/photos' + reportPath + '/title-background.jpg'} style={{ top: this.state.pageYOffset / 20 + 'vh' }} />
+        <Background src={__PATH_PREFIX__ + '/photos' + reportPath + '/' + backgroundFile} style={{ top: this.state.pageYOffset / 20 + 'vh' }} />
         <Title style={{ top: 'calc(' + offsetY + 'vw + ' + this.state.pageYOffset / 40 + 'vh)', fontSize: fontSize + 'vw' }}>{title}</Title>
         <Foreground src={__PATH_PREFIX__ + '/photos' + reportPath + '/title-foreground.png'} />
       </Wrapper>
