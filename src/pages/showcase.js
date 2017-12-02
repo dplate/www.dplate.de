@@ -22,7 +22,7 @@ export default () => {
       <Description>
           <h1>Fotolabor</h1>
           <p>
-              Meine besten Bilder veröffentliche ich bei 500px. Dort können auch Lizenzen zur eigenen Verwendung erworben werden:<br />
+              Meine besten Bilder veröffentliche ich bei 500px. Dort können auch Lizenzen zur eigenen Verwendung erworben werden:
               <a href="https://500px.com/dprogerwilco">https://500px.com/dprogerwilco</a><br />
               Findest Du dort ein Foto nicht, dann <Link to="/impressum">kontaktiere mich</Link>.
           </p>
@@ -30,6 +30,15 @@ export default () => {
               Hier findest Du eine kleine Auswahl dieser Fotos:
           </p>
       </Description>
+
+      <Picture>
+        <div className='pixels-photo'>
+          <p>
+            <img src='https://drscdn.500px.org/photo/236887527/m%3D900/v2?user_id=10324387&webp=true&sig=512fe5de233e9883b3c3c25d7b2413b11011b6a55a2dacc2d5e4381450b1a7dd' alt='Mullerbahn by Dirk Plate on 500px.com' />
+          </p>
+          <a href='https://500px.com/photo/236887527/mullerbahn-by-dirk-plate' alt='Mullerbahn by Dirk Plate on 500px.com'/>
+        </div>
+      </Picture>
 
       <Picture>
         <div className='pixels-photo'>
