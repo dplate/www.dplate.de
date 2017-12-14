@@ -131,3 +131,4 @@ http://www.dplate.de/alpine/sulzfluh/20171015
 http://www.dplate.de/alpine/alviergruppe/20171021
 http://www.dplate.de/alpine/toggenburg/20171104
 http://www.dplate.de/alpine/ischgl/20171123
+http://www.dplate.de/alpine/lenzerheide/20171213
