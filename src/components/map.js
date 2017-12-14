@@ -199,9 +199,9 @@ class Map extends React.Component {
     this.addTrack(trackData.positions);
     this.addPin(trackData.sampledPosition);
     const hdRectangle = this.createHdRectangle(trackData.positions);
-    if (this.props.detailMap === 'swiss') {
+    /*if (this.props.detailMap === 'swiss') {
       this.addSwissSatellite(hdRectangle);
-    }
+    }*/
     if (this.props.detailMap === 'austria') {
       this.addAustriaSatellite(hdRectangle);
     }
