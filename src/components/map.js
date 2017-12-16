@@ -199,9 +199,9 @@ class Map extends React.Component {
     this.addTrack(trackData.positions);
     this.addPin(trackData.sampledPosition);
     const hdRectangle = this.createHdRectangle(trackData.positions);
-    /*if (this.props.detailMap === 'swiss') {
+    if (this.props.detailMap === 'swiss') {
       this.addSwissSatellite(hdRectangle);
-    }*/
+    }
     if (this.props.detailMap === 'austria') {
       this.addAustriaSatellite(hdRectangle);
     }
@@ -323,8 +323,8 @@ class Map extends React.Component {
 
   addSwissSatellite(hdRectangle) {
     const provider = new this.Cesium.UrlTemplateImageryProvider({
-      url: '//wmts{s}.geo.admin.ch/1.0.0/ch.swisstopo.swissimage-product/default/current/4326/{z}/{y}/{x}.jpeg',
-      subdomains: '56789',
+      url: '//wmts{s}.geo.admin.ch/1.0.0/ch.swisstopo.swissimage-product/default/current/4326/{z}/{x}/{y}.jpeg',
+      subdomains: ['5', '6', '7', '8', '9', '20'],
       minimumLevel: 8,
       maximumLevel: 17,
       tilingScheme: new this.Cesium.GeographicTilingScheme({
