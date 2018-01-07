@@ -2,7 +2,9 @@
   {
     "destination": "flumserberg",
     "date": "d20121212",
-    "track": false,
+    "track": true,
+    "detailMap": "swiss",
+    "timeShift": -30,
     "shortTitle": "Flumserberg",
     "title": "Flumserberg",
     "intro": "Alle, die am Mittwoch arbeiten mussten, müssen jetzt ganz tapfer sein. <br />\nEin ganzer Tag strahlender Sonnenschein kündigte sich an. Zusammen mit dem Neuschnee der letzten Tage und den kalten Temperaturen die richtigen Zutaten für einen besonderen Skitag.<br />\nIch entschloss mich für Flumserberg. Nach verschneiter Autobahn Ankunft in Tannheim auf 1200m um 9:00Uhr - auch ein paar andere Autos auf dem Parkplatz. Tageskarte noch günstiger für 49CHF.",
@@ -10,7 +12,8 @@
       {
         "photos": [
           {
-            "name": "7rwfL"
+            "name": "001",
+            "alt": "Prodalp"
           }
         ],
         "videos": [],
@@ -19,13 +22,16 @@
       {
         "photos": [
           {
-            "name": "rTPA3"
+            "name": "002",
+            "alt": "Sonnenaufgang Prodalp"
           },
           {
-            "name": "pOOhG"
+            "name": "003",
+            "alt": "Talabfahrt Tannenheim"
           },
           {
-            "name": "81bt6"
+            "name": "004",
+            "alt": "Gondelbahn Prodalp Express"
           }
         ],
         "videos": [],
@@ -34,7 +40,8 @@
       {
         "photos": [
           {
-            "name": "6CjHt"
+            "name": "005",
+            "alt": "Pistenplan Flumserberg"
           }
         ],
         "videos": [],
@@ -43,10 +50,12 @@
       {
         "photos": [
           {
-            "name": "uo7VS"
+            "name": "006",
+            "alt": "Tiefschnee Skispur"
           },
           {
-            "name": "JVVVt"
+            "name": "007",
+            "alt": "Schneekanone"
           }
         ],
         "videos": [],
@@ -55,10 +64,12 @@
       {
         "photos": [
           {
-            "name": "GuArC"
+            "name": "009",
+            "alt": "Sesselbahn Prodkamm"
           },
           {
-            "name": "AnZNs"
+            "name": "008",
+            "alt": "Skipiste Prodkamm"
           }
         ],
         "videos": [],
@@ -67,7 +78,8 @@
       {
         "photos": [
           {
-            "name": "UhX5z"
+            "name": "010",
+            "alt": "Panorama Churfirsten"
           }
         ],
         "videos": [],
@@ -76,16 +88,20 @@
       {
         "photos": [
           {
-            "name": "FEDpO"
+            "name": "011",
+            "alt": "Piste durch verschneiten Wald"
           },
           {
-            "name": "SLExH"
+            "name": "012",
+            "alt": "Verschneite Tanne"
           },
           {
-            "name": "4lj2j"
+            "name": "013",
+            "alt": "Neuschnee im Wald"
           },
           {
-            "name": "SI3RL"
+            "name": "014",
+            "alt": "Talabfahrt Tannenboden"
           }
         ],
         "videos": [],
@@ -94,7 +110,8 @@
       {
         "photos": [
           {
-            "name": "Q4kK1"
+            "name": "015",
+            "alt": "Maschgenkamm"
           }
         ],
         "videos": [],
@@ -103,7 +120,8 @@
       {
         "photos": [
           {
-            "name": "k5lOz"
+            "name": "016",
+            "alt": "Sesselbahn Seeeben"
           }
         ],
         "videos": [],
@@ -112,10 +130,12 @@
       {
         "photos": [
           {
-            "name": "QzfIs"
+            "name": "017",
+            "alt": "Seebensee Winter"
           },
           {
-            "name": "fWasL"
+            "name": "018",
+            "alt": "Zufahrt Terza-Abfahrt"
           }
         ],
         "videos": [],
@@ -124,7 +144,8 @@
       {
         "photos": [
           {
-            "name": "usenf"
+            "name": "019",
+            "alt": "Einfahrt Terza-Abfahrt"
           }
         ],
         "videos": [],
@@ -133,7 +154,8 @@
       {
         "photos": [
           {
-            "name": "jGy5Q"
+            "name": "020",
+            "alt": "Schmale Piste durch Wald"
           }
         ],
         "videos": [],
@@ -142,10 +164,12 @@
       {
         "photos": [
           {
-            "name": "EiUZo"
+            "name": "021",
+            "alt": "Terza-Abfahrt"
           },
           {
-            "name": "70rZJ"
+            "name": "022",
+            "alt": "Steilstück Terza-Abfahrt"
           }
         ],
         "videos": [],
@@ -154,10 +178,12 @@
       {
         "photos": [
           {
-            "name": "3PuR8"
+            "name": "023",
+            "alt": "Gafadur"
           },
           {
-            "name": "aCXmg"
+            "name": "024",
+            "alt": "Skiroute"
           }
         ],
         "videos": [],
@@ -166,7 +192,8 @@
       {
         "photos": [
           {
-            "name": "BPBk8"
+            "name": "025",
+            "alt": "Skiabfahrt Oberterzen"
           }
         ],
         "videos": [],
@@ -175,7 +202,8 @@
       {
         "photos": [
           {
-            "name": "SVGuQ"
+            "name": "026",
+            "alt": "Gondelbahn Oberterzen"
           }
         ],
         "videos": [],
@@ -184,7 +212,8 @@
       {
         "photos": [
           {
-            "name": "jVhip"
+            "name": "027",
+            "alt": "Parkplatz Tannenboden"
           }
         ],
         "videos": [],
@@ -193,10 +222,12 @@
       {
         "photos": [
           {
-            "name": "wBGC8"
+            "name": "028",
+            "alt": "Sesselbahn Chrüz"
           },
           {
-            "name": "yHpkx"
+            "name": "029",
+            "alt": "Sesselbahn Tannenboden"
           }
         ],
         "videos": [],
@@ -205,7 +236,8 @@
       {
         "photos": [
           {
-            "name": "TzOoi"
+            "name": "030",
+            "alt": "Maschgenkamm Spitzmeilen"
           }
         ],
         "videos": [],
@@ -214,7 +246,8 @@
       {
         "photos": [
           {
-            "name": "IvvEe"
+            "name": "031",
+            "alt": "Piste 27 nach Seeben"
           }
         ],
         "videos": [],
@@ -223,7 +256,8 @@
       {
         "photos": [
           {
-            "name": "CjZhU"
+            "name": "032",
+            "alt": "Restaurant Seebenalp im Winter"
           }
         ],
         "videos": [],
@@ -232,19 +266,24 @@
       {
         "photos": [
           {
-            "name": "L5oiz"
+            "name": "033",
+            "alt": "Tiefschnee Flumserberg"
           },
           {
-            "name": "UNxeQ"
+            "name": "034",
+            "alt": "Stellitäli"
           },
           {
-            "name": "994Qp"
+            "name": "035",
+            "alt": "Tief verschneite Winterlandschaft"
           },
           {
-            "name": "SCobU"
+            "name": "036",
+            "alt": "Verschneiter Hang"
           },
           {
-            "name": "wRdCq"
+            "name": "037",
+            "alt": "Walensee im Winter"
           }
         ],
         "videos": [],
@@ -253,7 +292,8 @@
       {
         "photos": [
           {
-            "name": "LwC2G"
+            "name": "038",
+            "alt": "Sesselbahn Stelli"
           }
         ],
         "videos": [],
@@ -262,10 +302,12 @@
       {
         "photos": [
           {
-            "name": "hSTRJ"
+            "name": "039",
+            "alt": "Piste 9 Prodkamm Arve"
           },
           {
-            "name": "Ij0av"
+            "name": "040",
+            "alt": "Skigebiet Flumserberg"
           }
         ],
         "videos": [],
@@ -274,7 +316,8 @@
       {
         "photos": [
           {
-            "name": "U8OQk"
+            "name": "041",
+            "alt": "Panüöl"
           }
         ],
         "videos": [],
@@ -283,7 +326,8 @@
       {
         "photos": [
           {
-            "name": "SIt1v"
+            "name": "042",
+            "alt": "Spuren im Tiefschnee bei Sonnenuntergang"
           }
         ],
         "videos": [],
@@ -292,13 +336,16 @@
       {
         "photos": [
           {
-            "name": "gA8CW"
+            "name": "043",
+            "alt": "Baum auf Felsvorsprung"
           },
           {
-            "name": "n4aqT"
+            "name": "044",
+            "alt": "Abendstimmung Flumserberg"
           },
           {
-            "name": "QAN7Z"
+            "name": "045",
+            "alt": "Churfirsten im Abendlicht"
           }
         ],
         "videos": [],
@@ -307,10 +354,12 @@
       {
         "photos": [
           {
-            "name": "4rj3N"
+            "name": "track1",
+            "alt": "Streckenplan Flumserberg"
           },
           {
-            "name": "XTcXl"
+            "name": "track2",
+            "alt": "Höhenprofil Flumserberg"
           }
         ],
         "videos": [],

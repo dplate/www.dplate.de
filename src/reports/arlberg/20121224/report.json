@@ -2,7 +2,9 @@
   {
     "destination": "arlberg",
     "date": "d20121224",
-    "track": false,
+    "track": true,
+    "detailMap": "austria",
+    "timeShift": -30,
     "shortTitle": "Sonnenkopf",
     "title": "Sonnenkopf",
     "intro": "Aus gegebenem Anlaß ein etwas verkürzter Skitag am Sonnenkopf vorm Arlberg. Eigentlich stand Pizol auf dem Programm, habe mich dann aber auf Grund des angesagten Föhnsturm umentschieden.<br />\nSuperpünktliche Ankunft um 8:30 an der Talstation, Tageskarte 37€ + 5€ Pfand. Musste dann noch bis 8:45 warten, bis die erste Gondel fuhr.",
@@ -10,7 +12,8 @@
       {
         "photos": [
           {
-            "name": "tKm8S"
+            "name": "001",
+            "alt": "Pistenplan Sonnenkopf"
           }
         ],
         "videos": [],
@@ -19,7 +22,8 @@
       {
         "photos": [
           {
-            "name": "fKCZb"
+            "name": "002",
+            "alt": "Panorama Sonnenkopf"
           }
         ],
         "videos": [],
@@ -28,7 +32,8 @@
       {
         "photos": [
           {
-            "name": "5NNod"
+            "name": "003",
+            "alt": "Glattingrat"
           }
         ],
         "videos": [],
@@ -37,10 +42,12 @@
       {
         "photos": [
           {
-            "name": "TGBIb"
+            "name": "004",
+            "alt": "Eisige Piste"
           },
           {
-            "name": "8xlGr"
+            "name": "005",
+            "alt": "Talabfahrt Sonnenkopf"
           }
         ],
         "videos": [],
@@ -49,7 +56,8 @@
       {
         "photos": [
           {
-            "name": "xEW5V"
+            "name": "006",
+            "alt": "Riedkopf"
           }
         ],
         "videos": [],
@@ -58,10 +66,12 @@
       {
         "photos": [
           {
-            "name": "Bvj1h"
+            "name": "007",
+            "alt": "Sesselbahn Riedkopf"
           },
           {
-            "name": "FD7C9"
+            "name": "008",
+            "alt": "Bergrestaurand Muttjöchle"
           }
         ],
         "videos": [],
@@ -70,10 +80,12 @@
       {
         "photos": [
           {
-            "name": "FNsCO"
+            "name": "009",
+            "alt": "Sesselbahn vor Sonne"
           },
           {
-            "name": "BdUGu"
+            "name": "010",
+            "alt": "Talstation Sesselbahn Riedkopf"
           }
         ],
         "videos": [],
@@ -82,13 +94,16 @@
       {
         "photos": [
           {
-            "name": "mAyeH"
+            "name": "011",
+            "alt": "Skilift Riedboden"
           },
           {
-            "name": "Nlb8Z"
+            "name": "012",
+            "alt": "Glänzender Tiefschnee"
           },
           {
-            "name": "BMAvI"
+            "name": "013",
+            "alt": "Tiefschnee nach Regen"
           }
         ],
         "videos": [],
@@ -97,7 +112,8 @@
       {
         "photos": [
           {
-            "name": "b8xaT"
+            "name": "014",
+            "alt": "Winterwanderweg Sonnenkopf"
           }
         ],
         "videos": [],
@@ -106,7 +122,8 @@
       {
         "photos": [
           {
-            "name": "nUrd8"
+            "name": "015",
+            "alt": "Bergstation Sonnenkopfbahn"
           }
         ],
         "videos": [],
@@ -115,10 +132,12 @@
       {
         "photos": [
           {
-            "name": "o3aXT"
+            "name": "016",
+            "alt": "Skipiste Sonnenkopf"
           },
           {
-            "name": "mVeBY"
+            "name": "017",
+            "alt": "Abfahrt Obermuribahn"
           }
         ],
         "videos": [],
@@ -127,10 +146,12 @@
       {
         "photos": [
           {
-            "name": "l6VUI"
+            "name": "018",
+            "alt": "Regen im Schnee"
           },
           {
-            "name": "t3S3c"
+            "name": "019",
+            "alt": "Skilifte Sonnenkopf"
           }
         ],
         "videos": [],
@@ -139,10 +160,12 @@
       {
         "photos": [
           {
-            "name": "MJNdJ"
+            "name": "020",
+            "alt": "Schwarze Piste 10"
           },
           {
-            "name": "w2RME"
+            "name": "021",
+            "alt": "Schwarze Piste Sonnenkopf"
           }
         ],
         "videos": [],
@@ -151,7 +174,8 @@
       {
         "photos": [
           {
-            "name": "mbgxY"
+            "name": "022",
+            "alt": "Panorama Glattingrat"
           }
         ],
         "videos": [],
@@ -160,7 +184,8 @@
       {
         "photos": [
           {
-            "name": "2EHis"
+            "name": "023",
+            "alt": "Skipiste Glattingrat"
           }
         ],
         "videos": [],
@@ -169,7 +194,8 @@
       {
         "photos": [
           {
-            "name": "INy1v"
+            "name": "024",
+            "alt": "Talstation Obermoos"
           }
         ],
         "videos": [],
@@ -178,7 +204,8 @@
       {
         "photos": [
           {
-            "name": "j8eT2"
+            "name": "025",
+            "alt": "Parkplatz Sonnenkopf"
           }
         ],
         "videos": [],
@@ -187,7 +214,8 @@
       {
         "photos": [
           {
-            "name": "PbRrU"
+            "name": "026",
+            "alt": "Mittelstation Sonnenkopfbahn"
           }
         ],
         "videos": [],
@@ -196,7 +224,8 @@
       {
         "photos": [
           {
-            "name": "95GOq"
+            "name": "027",
+            "alt": "Föhnwolken"
           }
         ],
         "videos": [],
@@ -205,7 +234,8 @@
       {
         "photos": [
           {
-            "name": "hwGRz"
+            "name": "028",
+            "alt": "Skipiste Riedkopf"
           }
         ],
         "videos": [],
@@ -214,7 +244,8 @@
       {
         "photos": [
           {
-            "name": "iio7m"
+            "name": "029",
+            "alt": "Föhn"
           }
         ],
         "videos": [],
@@ -223,7 +254,8 @@
       {
         "photos": [
           {
-            "name": "yzlgM"
+            "name": "030",
+            "alt": "Skigebiet Sonnenkopf"
           }
         ],
         "videos": [],
@@ -232,10 +264,12 @@
       {
         "photos": [
           {
-            "name": "yQlLi"
+            "name": "track1",
+            "alt": "Pisten Sonnenkopf"
           },
           {
-            "name": "9QaTn"
+            "name": "track2",
+            "alt": "Höhenprofil Sonnenkopf"
           }
         ],
         "videos": [],
