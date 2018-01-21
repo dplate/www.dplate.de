@@ -10,10 +10,12 @@
       {
         "photos": [
           {
-            "name": "CxIaN"
+            "name": "001",
+            "alt": "Jägeralp Express"
           },
           {
-            "name": "Taast"
+            "name": "002",
+            "alt": "Blaue Abfahrt Warth"
           }
         ],
         "videos": [],
@@ -22,7 +24,8 @@
       {
         "photos": [
           {
-            "name": "U607f"
+            "name": "003",
+            "alt": "Schlechte Pistenpräparierung"
           }
         ],
         "videos": [],
@@ -31,7 +34,8 @@
       {
         "photos": [
           {
-            "name": "HdAUh"
+            "name": "004",
+            "alt": "Steffisalp Express"
           }
         ],
         "videos": [],
@@ -40,7 +44,8 @@
       {
         "photos": [
           {
-            "name": "fijOa"
+            "name": "005",
+            "alt": "Steffisalp"
           }
         ],
         "videos": [],
@@ -49,7 +54,8 @@
       {
         "photos": [
           {
-            "name": "tM5He"
+            "name": "006",
+            "alt": "Tiefschneehänge Warth"
           }
         ],
         "videos": [],
@@ -58,7 +64,8 @@
       {
         "photos": [
           {
-            "name": "hl5f0"
+            "name": "007",
+            "alt": "Skiroute Warth Lech"
           }
         ],
         "videos": [],
@@ -67,10 +74,12 @@
       {
         "photos": [
           {
-            "name": "xJ2Ec"
+            "name": "008",
+            "alt": "Skipiste Auenfeld"
           },
           {
-            "name": "DqyI7"
+            "name": "009",
+            "alt": "Sonnen Jet Schröcken"
           }
         ],
         "videos": [],
@@ -79,7 +88,8 @@
       {
         "photos": [
           {
-            "name": "LwqrL"
+            "name": "010",
+            "alt": "Verschneites Hochtal"
           }
         ],
         "videos": [],
@@ -88,7 +98,8 @@
       {
         "photos": [
           {
-            "name": "5bgIT"
+            "name": "011",
+            "alt": "Restaurant Salober"
           }
         ],
         "videos": [],
@@ -97,7 +108,8 @@
       {
         "photos": [
           {
-            "name": "VsGay"
+            "name": "012",
+            "alt": "Salober"
           }
         ],
         "videos": [],
@@ -106,7 +118,8 @@
       {
         "photos": [
           {
-            "name": "VQp8L"
+            "name": "013",
+            "alt": "Kuchlbahn"
           }
         ],
         "videos": [],
@@ -115,13 +128,16 @@
       {
         "photos": [
           {
-            "name": "AuAOu"
+            "name": "014",
+            "alt": "Alte Piste Körbersee"
           },
           {
-            "name": "dnlyb"
+            "name": "015",
+            "alt": "Skiabfahrt Körbersee"
           },
           {
-            "name": "hzJdl"
+            "name": "016",
+            "alt": "Skischaukel Falken"
           }
         ],
         "videos": [],
@@ -130,7 +146,8 @@
       {
         "photos": [
           {
-            "name": "rBjGu"
+            "name": "017",
+            "alt": "Steile Skipiste"
           }
         ],
         "videos": [],
@@ -139,7 +156,8 @@
       {
         "photos": [
           {
-            "name": "9ESZl"
+            "name": "018",
+            "alt": "Skiroute Walserstutz"
           }
         ],
         "videos": [],
@@ -148,7 +166,8 @@
       {
         "photos": [
           {
-            "name": "QZPWk"
+            "name": "019",
+            "alt": "Skiroute Jägeralp"
           }
         ],
         "videos": [],
@@ -157,7 +176,8 @@
       {
         "photos": [
           {
-            "name": "5mth0"
+            "name": "020",
+            "alt": "Buckelpiste Warth"
           }
         ],
         "videos": [],
@@ -166,10 +186,12 @@
       {
         "photos": [
           {
-            "name": "eT1x9"
+            "name": "021",
+            "alt": "Skifahren im Tal"
           },
           {
-            "name": "7IqcA"
+            "name": "022",
+            "alt": "Frühlingsski in Warth"
           }
         ],
         "videos": [],
@@ -178,7 +200,8 @@
       {
         "photos": [
           {
-            "name": "UXj00"
+            "name": "023",
+            "alt": "Walserschuss Jägeralp"
           }
         ],
         "videos": [],
@@ -187,7 +210,8 @@
       {
         "photos": [
           {
-            "name": "wbhmF"
+            "name": "024",
+            "alt": "Schwarze Pisten"
           }
         ],
         "videos": [],

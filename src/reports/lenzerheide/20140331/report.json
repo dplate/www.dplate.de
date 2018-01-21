@@ -2,7 +2,8 @@
   {
     "destination": "lenzerheide",
     "date": "d20140331",
-    "track": false,
+    "track": true,
+    "detailMap": "swiss",
     "shortTitle": "Lenzerheide Arosa",
     "title": "Lenzerheide-Arosa",
     "intro": "Am zweiten Ski-Tag meines Frühlingsurlaubs wählte ich für diesen Montag Lenzerheide/Arosa als Ziel. Ankunft in 8:15 in Valbella in Lenzerheide auf 1500m. Tageskarte hatte ich bereits ein paar Monate im Auto liegen, da ich sie schon im Karstadt-Sport in Konstanz für (umgerechnet) 59CHF gekauft hatte. Netterweise waren die Parkscheinautomaten zugehängt, so dass ich mir auch die 5CHF Parkgebühren sparen konnte.",
@@ -10,7 +11,8 @@
       {
         "photos": [
           {
-            "name": "1q7GiXK"
+            "name": "001",
+            "alt": "Sesselbahn Lavoz"
           }
         ],
         "videos": [],
@@ -19,10 +21,12 @@
       {
         "photos": [
           {
-            "name": "UiyJ0OB"
+            "name": "002",
+            "alt": "Skipiste Piz Scalottas"
           },
           {
-            "name": "djrSp9r"
+            "name": "003",
+            "alt": "Restaurant Tgantieni"
           }
         ],
         "videos": [],
@@ -31,7 +35,8 @@
       {
         "photos": [
           {
-            "name": "ugTbYDP"
+            "name": "004",
+            "alt": "Westseite Lenzerheide"
           }
         ],
         "videos": [],
@@ -40,7 +45,8 @@
       {
         "photos": [
           {
-            "name": "UmygBSk"
+            "name": "005",
+            "alt": "Skiabfahrt Pedra Grossa"
           }
         ],
         "videos": [],
@@ -49,7 +55,8 @@
       {
         "photos": [
           {
-            "name": "s9tvNPN"
+            "name": "006",
+            "alt": "Verbindungspiste Gertrud Lavoz"
           }
         ],
         "videos": [],
@@ -58,7 +65,8 @@
       {
         "photos": [
           {
-            "name": "TYL82py"
+            "name": "007",
+            "alt": "Leere Piste"
           }
         ],
         "videos": [],
@@ -67,7 +75,8 @@
       {
         "photos": [
           {
-            "name": "QFBg2b2"
+            "name": "008",
+            "alt": "Skifahren Stätzerhorn"
           }
         ],
         "videos": [],
@@ -76,7 +85,8 @@
       {
         "photos": [
           {
-            "name": "mmhY5Qv"
+            "name": "009",
+            "alt": "Skigebiet Lenzerheide"
           }
         ],
         "videos": [],
@@ -85,7 +95,8 @@
       {
         "photos": [
           {
-            "name": "9ChHs8s"
+            "name": "010",
+            "alt": "Verbindungsbahn Urdenbahn"
           }
         ],
         "videos": [],
@@ -94,7 +105,8 @@
       {
         "photos": [
           {
-            "name": "0JC9Ag2"
+            "name": "011",
+            "alt": "Arosa Hörnlibahn"
           }
         ],
         "videos": [],
@@ -103,7 +115,8 @@
       {
         "photos": [
           {
-            "name": "fSxSpyU"
+            "name": "012",
+            "alt": "Sesselbahn Carmenna"
           }
         ],
         "videos": [],
@@ -112,7 +125,8 @@
       {
         "photos": [
           {
-            "name": "rWSmY2J"
+            "name": "013",
+            "alt": "Skiabfahrt Carmenna"
           }
         ],
         "videos": [],
@@ -121,10 +135,12 @@
       {
         "photos": [
           {
-            "name": "ggYSkQx"
+            "name": "014",
+            "alt": "Terrasse Brüggerstuba"
           },
           {
-            "name": "FOm8T8f"
+            "name": "015",
+            "alt": "Skilift Ried"
           }
         ],
         "videos": [],
@@ -133,7 +149,8 @@
       {
         "photos": [
           {
-            "name": "ZR4aS8G"
+            "name": "016",
+            "alt": "Chur"
           }
         ],
         "videos": [],
@@ -142,7 +159,8 @@
       {
         "photos": [
           {
-            "name": "Zwwsi7k"
+            "name": "017",
+            "alt": "Sesselbahn Brüggerhorn"
           }
         ],
         "videos": [],
@@ -151,13 +169,16 @@
       {
         "photos": [
           {
-            "name": "qdw9qC8"
+            "name": "018",
+            "alt": "Skipiste Leichte Maran"
           },
           {
-            "name": "j6ZZXBp"
+            "name": "019",
+            "alt": "Skiabfahrt Leichte Maran"
           },
           {
-            "name": "GGysORF"
+            "name": "020",
+            "alt": "Abseits in Arosa"
           }
         ],
         "videos": [],
@@ -166,7 +187,8 @@
       {
         "photos": [
           {
-            "name": "qWcYu51"
+            "name": "021",
+            "alt": "Tschuggengebiet Arosa"
           }
         ],
         "videos": [],
@@ -175,7 +197,8 @@
       {
         "photos": [
           {
-            "name": "9gPjdBb"
+            "name": "022",
+            "alt": "Schwarze Piste Weisshorn"
           }
         ],
         "videos": [],
@@ -184,10 +207,12 @@
       {
         "photos": [
           {
-            "name": "6pTCsvL"
+            "name": "023",
+            "alt": "Inner-Arosa"
           },
           {
-            "name": "JHz8LmM"
+            "name": "024",
+            "alt": "Hörnli-Express Talstation Parkplatz"
           }
         ],
         "videos": [],
@@ -196,7 +221,8 @@
       {
         "photos": [
           {
-            "name": "MtjdXRn"
+            "name": "025",
+            "alt": "Skiklamotten im Frühjahr"
           }
         ],
         "videos": [],
@@ -205,7 +231,8 @@
       {
         "photos": [
           {
-            "name": "wNsoYtv"
+            "name": "026",
+            "alt": "Skipisten Hörnli"
           }
         ],
         "videos": [],
@@ -214,7 +241,8 @@
       {
         "photos": [
           {
-            "name": "e5dYGoS"
+            "name": "027",
+            "alt": "Urdental"
           }
         ],
         "videos": [],
@@ -223,10 +251,12 @@
       {
         "photos": [
           {
-            "name": "UKXBjqd"
+            "name": "028",
+            "alt": "Skifahren Parpan"
           },
           {
-            "name": "sZCXKHm"
+            "name": "029",
+            "alt": "Sesselbahn Heimberg"
           }
         ],
         "videos": [],
@@ -235,7 +265,8 @@
       {
         "photos": [
           {
-            "name": "vWm4951"
+            "name": "030",
+            "alt": "Pistenplan Lenzerheide-Arosa"
           }
         ],
         "videos": [],
@@ -244,10 +275,12 @@
       {
         "photos": [
           {
-            "name": "zsVkGVC"
+            "name": "031",
+            "alt": "Scharmoin Rothorn"
           },
           {
-            "name": "qZKy9yt"
+            "name": "032",
+            "alt": "Rothorn Seilbahn"
           }
         ],
         "videos": [],
@@ -256,7 +289,8 @@
       {
         "photos": [
           {
-            "name": "dgjA886"
+            "name": "033",
+            "alt": "Skiabfahrt Rothorn"
           }
         ],
         "videos": [],
@@ -265,7 +299,8 @@
       {
         "photos": [
           {
-            "name": "jFCMXXQ"
+            "name": "034",
+            "alt": "Bergstation Weisshorn Speed"
           }
         ],
         "videos": [],
@@ -274,7 +309,8 @@
       {
         "photos": [
           {
-            "name": "jiN2L7m"
+            "name": "035",
+            "alt": "Talabfahrt Valbella"
           }
         ],
         "videos": [],
@@ -283,7 +319,8 @@
       {
         "photos": [
           {
-            "name": "uhJ9mvY"
+            "name": "036",
+            "alt": "Parkplatz Valbella"
           }
         ],
         "videos": [],
@@ -292,14 +329,16 @@
       {
         "photos": [
           {
-            "name": "kQP4YPF"
+            "name": "track2",
+            "alt": "Streckenplan Lenzerheide Arosa"
           },
           {
-            "name": "sA0u6fh"
+            "name": "track1",
+            "alt": "Höhenprofil Lenzerheide Arosa"
           }
         ],
         "videos": [],
-        "text": "Gefahren Strecke: 150km und 17 Höhenkilometer."
+        "text": "Gefahrene Strecke: 150km und 17 Höhenkilometer."
       }
     ],
     "outro": "Fazit: Super-Frühlingsskitag. Fast keine Piste doppelt gefahren, nie angestanden und nie irgendjemandem auf der Piste vor mir gehabt. <br />\nSchön für mich, aber sicher nicht rentabel für das Skigebiet."

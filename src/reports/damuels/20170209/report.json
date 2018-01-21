@@ -2,15 +2,17 @@
   {
     "destination": "damuels",
     "date": "d20170209",
-    "track": false,
+    "track": true,
+    "detailMap": "austria",
     "shortTitle": "Damüls Mellau",
-    "title": "Damüls",
+    "title": "Damüls Mellau",
     "intro": "Die Wettervorhersagen für diesen Donnerstag war sehr sprunghaft. Mal waren 6h Sonne vorhergesagt, mal nur 1h.\n      Noch unschlüssig entschloß ich mich erst nach dem Studium der Webcams an diesem Tag nach Damüls zu\n      fahren (was nicht so einfach ist, wenn es um 7:00 noch dunkel ist).<br />\n      Fast noch pünktlich erreichte ich um 8:30 den riesigen Parkplatz in Mellau. Für einen Donnerstag war schon gut\n      was los, aber da ich meine Karte bereits gekauft hatte, konnte ich sofort in die Gondelbahn.",
     "landmarks": [
       {
         "photos": [
           {
-            "name": "O5SrOUa"
+            "name": "001",
+            "alt": "Mellaubahn"
           }
         ],
         "videos": [],
@@ -19,7 +21,8 @@
       {
         "photos": [
           {
-            "name": "sBR72FT"
+            "name": "002",
+            "alt": "Skipiste Hohe Wacht"
           }
         ],
         "videos": [],
@@ -28,7 +31,8 @@
       {
         "photos": [
           {
-            "name": "vjnsyiF"
+            "name": "003",
+            "alt": "Sesselbahn Elsenkopf"
           }
         ],
         "videos": [],
@@ -37,10 +41,12 @@
       {
         "photos": [
           {
-            "name": "RocgptI"
+            "name": "005",
+            "alt": "Panorama Hohe Wacht"
           },
           {
-            "name": "SpCTxNS"
+            "name": "004",
+            "alt": "Nebelmeer"
           }
         ],
         "videos": [],
@@ -49,10 +55,12 @@
       {
         "photos": [
           {
-            "name": "sR7GX5C"
+            "name": "006",
+            "alt": "Sesselbahn Hohe Wacht"
           },
           {
-            "name": "kEHGhFH"
+            "name": "007",
+            "alt": "Skigebiet Mellau Damüls"
           }
         ],
         "videos": [],
@@ -61,10 +69,12 @@
       {
         "photos": [
           {
-            "name": "cdb3SSO"
+            "name": "008",
+            "alt": "Steilhang Sunnegg"
           },
           {
-            "name": "gZgPvZ5"
+            "name": "009",
+            "alt": "Sesselbahn Sunnegg"
           }
         ],
         "videos": [],
@@ -73,7 +83,8 @@
       {
         "photos": [
           {
-            "name": "5CJFPwM"
+            "name": "010",
+            "alt": "Skiroute Sunnegg Nord"
           }
         ],
         "videos": [],
@@ -82,13 +93,16 @@
       {
         "photos": [
           {
-            "name": "k1s164x"
+            "name": "011",
+            "alt": "Winterlandschaft Damüls"
           },
           {
-            "name": "UKW7Css"
+            "name": "012",
+            "alt": "Skipiste Hohes Licht"
           },
           {
-            "name": "QVnNLPL"
+            "name": "013",
+            "alt": "Skipisten Damüls"
           }
         ],
         "videos": [],
@@ -97,10 +111,12 @@
       {
         "photos": [
           {
-            "name": "descYKC"
+            "name": "014",
+            "alt": "Skifahrt über Abgrund"
           },
           {
-            "name": "3KVQFVp"
+            "name": "015",
+            "alt": "Abfahrt Hohes Licht Ragaz"
           }
         ],
         "videos": [],
@@ -109,7 +125,8 @@
       {
         "photos": [
           {
-            "name": "oZXiTAa"
+            "name": "016",
+            "alt": "Tiefschnee"
           }
         ],
         "videos": [],
@@ -118,7 +135,8 @@
       {
         "photos": [
           {
-            "name": "bs6tFLa"
+            "name": "017",
+            "alt": "Panorama Ragazer Blanken"
           }
         ],
         "videos": [],
@@ -127,10 +145,12 @@
       {
         "photos": [
           {
-            "name": "Qacsvc7"
+            "name": "018",
+            "alt": "Fernblick Alpen"
           },
           {
-            "name": "kcvtl3m"
+            "name": "019",
+            "alt": "Skiroute Sünserjoch"
           }
         ],
         "videos": [],
@@ -139,7 +159,8 @@
       {
         "photos": [
           {
-            "name": "A6qwBBa"
+            "name": "020",
+            "alt": "Sünserjoch"
           }
         ],
         "videos": [],
@@ -148,7 +169,8 @@
       {
         "photos": [
           {
-            "name": "vdmnwjy"
+            "name": "021",
+            "alt": "Skiroute 8 Ragazer Blanken"
           }
         ],
         "videos": [],
@@ -157,7 +179,8 @@
       {
         "photos": [
           {
-            "name": "8IrXdnz"
+            "name": "022",
+            "alt": "Skipisten Damüls"
           }
         ],
         "videos": [],
@@ -166,7 +189,8 @@
       {
         "photos": [
           {
-            "name": "m1mmKMD"
+            "name": "023",
+            "alt": "Oberdamüls Kirche"
           }
         ],
         "videos": [],
@@ -175,10 +199,12 @@
       {
         "photos": [
           {
-            "name": "xm0EJ1c"
+            "name": "024",
+            "alt": "Sesselbahn Oberdamüls"
           },
           {
-            "name": "AiT6p9g"
+            "name": "025",
+            "alt": "Restaurant Sunnegg"
           }
         ],
         "videos": [],
@@ -187,7 +213,8 @@
       {
         "photos": [
           {
-            "name": "RP4liMl"
+            "name": "026",
+            "alt": "Passstraße Furka"
           }
         ],
         "videos": [],
@@ -196,7 +223,8 @@
       {
         "photos": [
           {
-            "name": "UObMxEJ"
+            "name": "027",
+            "alt": "Buckelpiste Damüls"
           }
         ],
         "videos": [],
@@ -205,7 +233,8 @@
       {
         "photos": [
           {
-            "name": "uFLg3xb"
+            "name": "029",
+            "alt": "Sesselbahn über Nebel"
           }
         ],
         "videos": [],
@@ -214,16 +243,18 @@
       {
         "photos": [
           {
-            "name": "FQIQkCf"
+            "name": "028",
+            "alt": "Uga Bahn"
           }
         ],
         "videos": [],
-        "text": "Ich war nun auf den Pisten der Uga-Bahn unterwegs, die allerdings im unteren Bereic bereits im Nebel lagen."
+        "text": "Ich war nun auf den Pisten der Uga-Bahn unterwegs, die allerdings im unteren Bereich bereits im Nebel lagen."
       },
       {
         "photos": [
           {
-            "name": "qrmai2V"
+            "name": "030",
+            "alt": "Uga Alp mit Mittagsspitze"
           }
         ],
         "videos": [],
@@ -232,7 +263,8 @@
       {
         "photos": [
           {
-            "name": "qsNWbK8"
+            "name": "031",
+            "alt": "Rote Piste Hasenbühel"
           }
         ],
         "videos": [],
@@ -241,7 +273,8 @@
       {
         "photos": [
           {
-            "name": "amopQJB"
+            "name": "032",
+            "alt": "Panoramablick Damüls"
           }
         ],
         "videos": [],
@@ -257,7 +290,8 @@
       {
         "photos": [
           {
-            "name": "3X6UVgp"
+            "name": "033",
+            "alt": "Nebelmeer Damüls"
           }
         ],
         "videos": [],
@@ -266,7 +300,8 @@
       {
         "photos": [
           {
-            "name": "owlXABs"
+            "name": "034",
+            "alt": "Bergstation Faschina"
           }
         ],
         "videos": [],
@@ -275,7 +310,8 @@
       {
         "photos": [
           {
-            "name": "WAYmoRc"
+            "name": "035",
+            "alt": "Sessellift im Nebel"
           }
         ],
         "videos": [],
@@ -284,7 +320,8 @@
       {
         "photos": [
           {
-            "name": "MPpepbl"
+            "name": "036",
+            "alt": "Gipfelbahn Mellau"
           }
         ],
         "videos": [],
@@ -293,7 +330,8 @@
       {
         "photos": [
           {
-            "name": "Lfsd7xE"
+            "name": "037",
+            "alt": "Nebelgrenze Winter"
           }
         ],
         "videos": [],
@@ -302,7 +340,8 @@
       {
         "photos": [
           {
-            "name": "bjNtzRG"
+            "name": "038",
+            "alt": "Sesselbahn Suttis"
           }
         ],
         "videos": [],
@@ -311,7 +350,8 @@
       {
         "photos": [
           {
-            "name": "qQF3unl"
+            "name": "040",
+            "alt": "Gams über Nebelmeer"
           }
         ],
         "videos": [],
@@ -320,7 +360,8 @@
       {
         "photos": [
           {
-            "name": "hKsITw7"
+            "name": "041",
+            "alt": "Nebelmeer"
           }
         ],
         "videos": [],
