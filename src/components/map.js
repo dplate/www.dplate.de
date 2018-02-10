@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types';
-import styled from 'styled-components'
+import styled, { keyframes } from 'styled-components'
 import Script from 'react-load-script'
 import resizeIcon from '../icons/resize.svg'
 import mapIcon from '../icons/map.svg'
@@ -64,16 +64,35 @@ const ResizeIcon = styled.img`
   }
 `;
 
-const MapIcon = styled.img`
+const bounceIn = keyframes`
+  0% {
+    bottom: -50px;
+    opacity: 1.0;
+  }
+  25% {
+    bottom: 5px;
+  }
+  75% {
+    bottom: 5px;
+    opacity: 1.0;
+  }
+  100% {
+    bottom: -20px;
+    opacity: 0.5;
+  }
+`;
+const MapButton = styled.span`
   position: fixed;
   cursor: pointer;
-  height: 35px;
-  width: 35px;
-  right: 5px;
-  bottom: 5px;
+  right: 10px;
+  bottom: -20px;
   opacity: 0.5;
+  text-align: right;
   :hover {
     opacity: 1.0;
+  }
+  :not(:empty) {    
+    animation: ${bounceIn} 5s ease;
   }
   &.teaser {
     display: none;
@@ -81,6 +100,18 @@ const MapIcon = styled.img`
   &.fullscreen {
     display: none;
   }
+}
+`;
+const TimeBar = styled.div`
+  text-align: right;
+`;
+const MapIcon = styled.img`
+  height: 35px;
+  width: 35px;
+  margin-right: 2px;
+`;
+const MapInfo = styled.div`
+  text-align: right;
 `;
 
 class Map extends React.Component {
@@ -89,17 +120,16 @@ class Map extends React.Component {
     this.currentTilt = -15;
     this.targetTime = null;
     this.state = {
-      size: 'teaser',
+      size: 'icon',
       mapStatus: 'wait',
       allowTeaser: true
     };
   }
 
   componentDidMount() {
-    if (window.innerWidth < 1200) {
+    if (window.innerWidth < 640) {
       this.setState({
-        size: 'icon',
-        allowTeaser: window.innerWidth >= 640
+        allowTeaser: false
       })
     }
   }
@@ -123,8 +153,16 @@ class Map extends React.Component {
       this.setState({ size: 'icon' });
     } else if (this.state.allowTeaser) {
       this.setState({ size: 'teaser' });
+      this.jumpToTargetTime();
     } else {
       this.setState({ size: 'fullscreen' });
+      this.jumpToTargetTime();
+    }
+  }
+
+  jumpToTargetTime() {
+    if (this.targetTime) {
+      this.viewer.clock.currentTime = this.targetTime;
     }
   }
 
@@ -358,14 +396,27 @@ class Map extends React.Component {
     this.viewer.clock.onTick.addEventListener(this.tickChanged.bind(this));
   }
 
+  renderMapButton() {
+    if (this.props.time && this.props.time !== 'start' && this.props.time !== 'end') {
+      const timeParts = this.props.time.split('T')[1].split(':');
+      const formattedTime = `${timeParts[0]}:${timeParts[1]}`;
+      return [
+          <TimeBar key="timeBar" className={this.state.size}>{formattedTime}</TimeBar>,
+          <MapIcon key="mapIcon" src={mapIcon} />,
+          <MapInfo key="mapInfo">Karte</MapInfo>
+      ];
+    }
+  }
+
   render() {
+    const shouldInjectCesium = (!this.Cesium && this.state.size !== 'icon') || this.Cesium;
     return (
       <div>
-        <link rel="stylesheet" href={__PATH_PREFIX__ + '/Cesium/Widgets/widgets.css'} media="screen" type="text/css" />
+        { shouldInjectCesium && <link rel="stylesheet" href={__PATH_PREFIX__ + '/Cesium/Widgets/widgets.css'} media="screen" type="text/css" /> }
         <CesiumContainer id="cesiumContainer" className={this.state.size + ' ' + this.state.mapStatus} onClick={this.props.onClick} />
-        <ResizeIcon onClick={this.changeSize.bind(this)} id="resizeIcon" className={this.state.size} src={resizeIcon} />
-        <MapIcon onClick={this.changeSize.bind(this)} id="mapIcon" className={this.state.size} src={mapIcon} />
-        <Script url={__PATH_PREFIX__ + '/Cesium/Cesium.js'} onLoad={this.initCesium.bind(this)} />
+        <ResizeIcon onClick={this.changeSize.bind(this)} className={this.state.size} src={resizeIcon} />
+        <MapButton onClick={this.changeSize.bind(this)} className={this.state.size}>{ this.renderMapButton() }</MapButton>
+        { shouldInjectCesium && <Script url={__PATH_PREFIX__ + '/Cesium/Cesium.js'} onLoad={this.initCesium.bind(this)} /> }
       </div>
     );
   }
