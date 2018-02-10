@@ -1,4 +1,5 @@
 import React from 'react'
+import { Helmet } from 'react-helmet';
 import styled from 'styled-components'
 import {cardStyle, pictureStyle} from '../../styles/basestyle.js'
 
@@ -13,6 +14,7 @@ const Picture = styled.img`
 export default () => {
   return (
     <div>
+      <Helmet><title>Antike Spiele</title></Helmet>
       <Card>
         <h1>Labyland</h1>
         <img src={__PATH_PREFIX__ + '/screenshots/labyland.jpg'} />
@@ -81,7 +83,7 @@ export default () => {
         <h1>Das Katapultspiel</h1>
         <img src={__PATH_PREFIX__ + '/screenshots/katapult.jpg'} />
         <p>
-          "Das Katapultspiel" der Vorläufer von "Cannonhill". Im Gegensatz zu "Cannonhill" spielt man hier aber nicht
+          "Das Katapultspiel" ist der Vorläufer von "Cannonhill". Im Gegensatz zu "Cannonhill" spielt man hier aber nicht
           gleichzeitig, sondern nacheinander. Mit Katapulten muss man versuchen, sich in einer Gebirgslandschaft
           gegenseitig abzuschießen.
         </p>

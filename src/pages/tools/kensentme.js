@@ -118,9 +118,7 @@ export default () => {
 
       <Card>
         <h2>Credits</h2>
-        Zur Erzeugung des mjpeg Videos verwende ich die Library
-        <a href="http://randelshofer.ch/blog/?p=43">AVIOutputStream</a> von
-        <a href="http://www.randelshofer.ch/">Werner Randelshofer</a>.
+        Zur Erzeugung des mjpeg Videos verwende ich die Library <a href="http://randelshofer.ch/blog/?p=43">AVIOutputStream</a> von <a href="http://www.randelshofer.ch/">Werner Randelshofer</a>.
       </Card>
     </div>
   );

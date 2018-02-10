@@ -22,8 +22,8 @@ export default () => {
       <Description>
           <h1>Fotolabor</h1>
           <p>
-              Meine besten Bilder veröffentliche ich bei 500px. Dort können auch Lizenzen zur eigenen Verwendung erworben werden:
-              <a href="https://500px.com/dprogerwilco">https://500px.com/dprogerwilco</a><br />
+              Meine besten Bilder veröffentliche ich bei 500px. Dort können auch Lizenzen zur eigenen Verwendung erworben
+              werden: <a href="https://500px.com/dprogerwilco">https://500px.com/dprogerwilco</a><br />
               Findest Du dort ein Foto nicht, dann <Link to="/impressum">kontaktiere mich</Link>.
           </p>
           <p>
