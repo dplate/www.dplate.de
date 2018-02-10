@@ -57,8 +57,23 @@ const Content = styled.div`
   padding-top: 57px;  
 `;
 
+const DisqusButton = styled.a`
+  display: inline-block;
+  margin: 16px 16px;
+  padding: 10px 16px;
+  background-color: #CFE0C3;
+  border: 3px solid #40798C;
+  border-radius: 5px;
+  white-space: nowrap;
+  cursor: pointer;
+  font-weight: bold;
+  &:hover {
+    background-color: #9EC1A3;
+  }
+`;
+
 const Disqus = styled.div`
-  margin: 50px 15px; 
+  margin: 32px 16px; 
   max-width: 800px;
 `;
 
@@ -68,11 +83,13 @@ class Layout extends React.Component {
     super(props);
     this.state = {
       showHeader: true,
-      showMenu: false
+      showMenu: false,
+      showDisqus: false
     };
     this.lastScrollY = 0;
     this.scrollHandler = this.scrollHandler.bind(this);
     this.toggleMenu = this.toggleMenu.bind(this);
+    this.toggleDisqus = this.toggleDisqus.bind(this);
   }
 
   scrollHandler() {
@@ -83,6 +100,10 @@ class Layout extends React.Component {
 
   toggleMenu() {
     this.setState({showMenu: !this.state.showMenu});
+  }
+
+  toggleDisqus() {
+    this.setState({showDisqus: !this.state.showDisqus});
   }
 
   componentDidMount() {
@@ -102,14 +123,15 @@ class Layout extends React.Component {
         <Content>
           {this.props.children()}
         </Content>
-        <Disqus>
+        { !this.state.showDisqus && <DisqusButton onClick={this.toggleDisqus}>Kommentare anzeigen (Disqus)</DisqusButton>}
+        { this.state.showDisqus && <Disqus>
           <ReactDisqusComments
             shortname="dplate"
             identifier={disqusId}
             url={'http://www.dplate.de' + this.props.location.pathname}
             title={disqusId}
           />
-        </Disqus>
+        </Disqus> }
         <Header className={this.state.showHeader?'showHeader':''}>
           <MenuButton src={menuIcon} onClick={this.toggleMenu} />
           <Link to="/">

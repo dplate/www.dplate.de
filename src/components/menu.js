@@ -262,7 +262,7 @@ class Menu extends React.Component {
       },
       {
         id: 'impressum',
-        name: 'Impressum',
+        name: 'Impressum / Datenschutz',
         path: '/impressum'
       }
     ]
