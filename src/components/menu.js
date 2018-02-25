@@ -71,6 +71,7 @@ const destinationNames = {
   'boedele': 'Bödele',
   'damuels': 'Damüls',
   'davos': 'Davos',
+  'dolomiten': 'Dolomiten',
   'disentis': 'Disentis',
   'flumserberg': 'Flumserberg',
   'fronalpstock': 'Fronalpstock',
