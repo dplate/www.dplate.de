@@ -134,3 +134,4 @@ http://www.dplate.de/alpine/ischgl/20171123
 http://www.dplate.de/alpine/lenzerheide/20171213
 http://www.dplate.de/alpine/savognin/20180127
 http://www.dplate.de/alpine/dolomiten/20180219
+http://www.dplate.de/alpine/dolomiten/20180220
