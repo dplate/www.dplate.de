@@ -116,6 +116,7 @@ class Layout extends React.Component {
 
   render() {
     const reports = this.props.data.allReportJson.edges.map((element) => element.node);
+    const destinations = this.props.data.allDestinationJson.edges.map((element) => element.node);
     let disqusId = this.props.location.pathname.substr(1);
     if (!disqusId) disqusId = 'start';
     return (
@@ -139,7 +140,7 @@ class Layout extends React.Component {
             <Logo src={logoIcon} />
           </Link>
         </Header>
-        { this.state.showMenu && <Menu onClose={this.toggleMenu} reports={reports} currentPath={this.props.location.pathname} />}
+        { this.state.showMenu && <Menu onClose={this.toggleMenu} reports={reports} destinations={destinations} currentPath={this.props.location.pathname} />}
       </div>
     )
   }
@@ -148,16 +149,24 @@ class Layout extends React.Component {
 export default Layout;
 
 export const layoutQuery = graphql`
-  query AllReports{
-   allReportJson(filter:{}, sort:{fields:[destination, date], order:ASC }) {
-     edges {
-       node {
-         destination, 
-         date, 
-         type,
-         shortTitle
-       }
-     }
-   }
- }
+  query AllDynamicItems{
+    allDestinationJson(filter:{}, sort:{fields:[name], order:ASC }) {
+      edges {
+        node {
+          destination, 
+          name
+        }
+      }
+    },
+    allReportJson(filter:{}, sort:{fields:[date], order:DESC }) {
+      edges {
+        node {
+          destination, 
+          date, 
+          type,
+          shortTitle
+        }
+      }
+    }
+  }
 `;

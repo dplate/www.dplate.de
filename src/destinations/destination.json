@@ -1,0 +1,140 @@
+[
+  {
+    "destination": "airolo",
+    "name": "Airolo"
+  },
+  {
+    "destination": "alpstein",
+    "name": "Alpstein"
+  },
+  {
+    "destination": "alviergruppe",
+    "name": "Alviergruppe"
+  },
+  {
+    "destination": "andermatt",
+    "name": "Andermatt"
+  },
+  {
+    "destination": "arlberg",
+    "name": "Arlberg"
+  },
+  {
+    "destination": "brandnertal",
+    "name": "Brandnertal"
+  },
+  {
+    "destination": "boedele",
+    "name": "Bödele"
+  },
+  {
+    "destination": "damuels",
+    "name": "Damüls"
+  },
+  {
+    "destination": "davos",
+    "name": "Davos"
+  },
+  {
+    "destination": "dolomiten",
+    "name": "Dolomiten"
+  },
+  {
+    "destination": "disentis",
+    "name": "Disentis"
+  },
+  {
+    "destination": "flumserberg",
+    "name": "Flumserberg"
+  },
+  {
+    "destination": "fronalpstock",
+    "name": "Fronalpstock"
+  },
+  {
+    "destination": "gargellen",
+    "name": "Gargellen"
+  },
+  {
+    "destination": "grasgehren",
+    "name": "Grasgehren"
+  },
+  {
+    "destination": "hohekugel",
+    "name": "Hohe Kugel"
+  },
+  {
+    "destination": "hoher-freschen",
+    "name": "Hoher Freschen"
+  },
+  {
+    "destination": "ischgl",
+    "name": "Ischgl"
+  },
+  {
+    "destination": "kaunertal",
+    "name": "Kaunertal"
+  },
+  {
+    "destination": "laax",
+    "name": "Laax"
+  },
+  {
+    "destination": "laterns",
+    "name": "Laterns"
+  },
+  {
+    "destination": "lenzerheide",
+    "name": "Lenzerheide-Arosa"
+  },
+  {
+    "destination": "malbun",
+    "name": "Malbun"
+  },
+  {
+    "destination": "montafon",
+    "name": "Silvretta-Montafon"
+  },
+  {
+    "destination": "murgseen",
+    "name": "Murgseen"
+  },
+  {
+    "destination": "obersaxen",
+    "name": "Obersaxen-Mundaun"
+  },
+  {
+    "destination": "pizol",
+    "name": "Pizol"
+  },
+  {
+    "destination": "sankt-moritz",
+    "name": "St. Moritz"
+  },
+  {
+    "destination": "savognin",
+    "name": "Savognin"
+  },
+  {
+    "destination": "serfaus-fiss-ladis",
+    "name": "Serfaus-Fiss-Ladis"
+  },
+  {
+    "destination": "speer",
+    "name": "Speer"
+  },
+  {
+    "destination": "sulzfluh",
+    "name": "Sulzfluh"
+  },
+  {
+    "destination": "titlis",
+    "name": "Titlis"
+  },
+  {
+    "destination": "toggenburg",
+    "name": "Toggenburg",
+    "skiTeaser": true,
+    "hikeTeaser": true
+  }
+]

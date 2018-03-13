@@ -3,7 +3,7 @@ const path = require('path');
 exports.createPages = ({ boundActionCreators, graphql }) => {
   const { createPage } = boundActionCreators;
 
-  return new Promise((resolve, reject) => {
+  const reports =  new Promise((resolve, reject) => {
     const reportTemplate = path.resolve(`src/templates/report.js`);
     resolve(
       graphql(
@@ -37,6 +37,41 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
         })
       })
     )
-  })
+  });
+
+  const destinations =  new Promise((resolve, reject) => {
+    const destinationTemplate = path.resolve(`src/templates/destination.js`);
+    resolve(
+      graphql(
+        `
+          {
+            allDestinationJson(limit: 1000) {
+              edges {
+                node {
+                  destination
+                }
+              }
+            }
+          }
+        `
+      ).then(result => {
+        if (result.errors) {
+          reject(result.errors)
+        }
+        result.data.allDestinationJson.edges.forEach(({ node }) => {
+          const { destination } = node;
+          const path = '/alpine/' + destination;
+          createPage({
+            path,
+            component: destinationTemplate,
+            context: {
+              destination
+            }
+          })
+        })
+      })
+    )
+  });
+  return Promise.all([reports, destinations]);
 };
 

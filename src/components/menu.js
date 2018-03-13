@@ -34,7 +34,7 @@ const ItemList = styled.ul`
   li {
     padding-top: 5px;
         
-    > a {
+    a {
       display: block;
       text-decoration: none;
       color: black;
@@ -61,43 +61,6 @@ const ItemDate = styled.div`
   font-size: 12px;
 `;
 
-const destinationNames = {
-  'airolo': 'Airolo',
-  'alpstein': 'Alpstein',
-  'alviergruppe': 'Alviergruppe',
-  'andermatt': 'Andermatt',
-  'arlberg': 'Arlberg',
-  'brandnertal': 'Brandnertal',
-  'boedele': 'Bödele',
-  'damuels': 'Damüls',
-  'davos': 'Davos',
-  'dolomiten': 'Dolomiten',
-  'disentis': 'Disentis',
-  'flumserberg': 'Flumserberg',
-  'fronalpstock': 'Fronalpstock',
-  'gargellen': 'Gargellen',
-  'grasgehren': 'Grasgehren',
-  'hohekugel': 'Hohe Kugel',
-  'hoher-freschen': 'Hoher Freschen',
-  'ischgl': 'Ischgl',
-  'kaunertal': 'Kaunertal',
-  'laax': 'Laax',
-  'laterns': 'Laterns',
-  'lenzerheide': 'Lenzerheide-Arosa',
-  'malbun': 'Malbun',
-  'montafon': 'Silvretta-Montafon',
-  'murgseen': 'Murgseen',
-  'obersaxen': 'Obersaxen-Mundaun',
-  'pizol': 'Pizol',
-  'sankt-moritz': 'St. Moritz',
-  'savognin': 'Savognin',
-  'serfaus-fiss-ladis': 'Serfaus-Fiss-Ladis',
-  'speer': 'Speer',
-  'sulzfluh': 'Sulzfluh',
-  'titlis': 'Titlis',
-  'toggenburg': 'Toggenburg'
-};
-
 class Menu extends React.Component {
 
   constructor(props) {
@@ -109,15 +72,14 @@ class Menu extends React.Component {
   }
 
   componentWillMount() {
-    const items = this.createItems(this.props.reports);
+    const items = this.createItems(this.props.destinations, this.props.reports);
     this.selectCurrentPath(this.props.currentPath, items);
     this.setState({items});
   }
 
   selectCurrentPath(currentPath, items) {
     const item = items.find((i) => {
-      if (i.items) return this.selectCurrentPath(currentPath, i.items);
-      else return i.path === currentPath;
+      return i.path === currentPath || (i.items && this.selectCurrentPath(currentPath, i.items));
     });
     if (item) {
       item.selected = true;
@@ -140,12 +102,25 @@ class Menu extends React.Component {
     this.forceUpdate();
   }
 
+  renderSubTitle(item) {
+    if (item.path) {
+      return (
+        <Link to={item.path} className={item.selected ? 'selected' : ''} onClick={this.toggleSub.bind(this, item)}>
+          {item.name}
+        </Link>
+      );
+    }
+    return (
+      <div className={item.selected ? 'selected' : ''} onClick={this.toggleSub.bind(this, item)}>
+        {item.name}
+      </div>
+    );
+  }
+
   renderSub(item) {
     return (
       <div>
-        <div className={item.selected ? 'selected' : ''} onClick={this.toggleSub.bind(this, item)}>
-          {item.name}
-        </div>
+        {this.renderSubTitle(item)}
         {item.show && this.renderItems(item.items)}
       </div>
     )
@@ -175,45 +150,34 @@ class Menu extends React.Component {
     }
   }
 
-  createAlpineItems(reports) {
-    const items = [];
-    reports.forEach((report) => {
-      let item = items.find((i) => i.id === report.destination);
-      if (!item) {
-        item = {
-          id: report.destination,
-          name: destinationNames[report.destination],
-          items: []
-        };
-        items.push(item);
-      }
-      item.items.push(this.createAlpineItem(report));
-    });
-    return items;
+  createAlpineItems(destinations, reports) {
+    return destinations.map((destination) => ({
+      id: destination.destination,
+      name: destination.name,
+      path: `/alpine/${destination.destination}`,
+      items: reports
+        .filter((report) => report.destination === destination.destination)
+        .sort((a, b) => b.date.localeCompare(a.date))
+        .map(this.createAlpineItem)
+    }));
   }
 
-  createAlpine(reports) {
-    const sortedReports = reports.sort((a, b) => {
-      if (a.destination !== b.destination) {
-        return a.destination.localeCompare(b.destination);
-      }
-      return b.date.localeCompare(a.date);
-    });
+  createAlpine(destinations, reports ) {
     return {
       id: 'alpine',
       name: 'Alpinfunk',
-      items: this.createAlpineItems(sortedReports)
+      items: this.createAlpineItems(destinations, reports)
     }
   }
 
-  createItems(reports) {
+  createItems(destinations, reports) {
     return [
       {
         id: 'start',
         name: 'Start',
         path: '/'
       },
-      this.createAlpine(reports),
+      this.createAlpine(destinations, reports),
       {
         id: 'showcase',
         name: 'Photolabor',
@@ -288,6 +252,10 @@ Menu.propTypes = {
     date: PropTypes.string.isRequired,
     type: PropTypes.string,
     shortTitle: PropTypes.string.isRequired,
+  })),
+  destinations: PropTypes.arrayOf(PropTypes.shape({
+    destination: PropTypes.string.isRequired,
+    name: PropTypes.string.isRequired
   })),
   currentPath: PropTypes.string.isRequired
 };
