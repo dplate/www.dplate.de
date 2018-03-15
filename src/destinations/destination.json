@@ -105,7 +105,9 @@
   },
   {
     "destination": "pizol",
-    "name": "Pizol"
+    "name": "Pizol",
+    "skiTeaser": true,
+    "hikeTeaser": true
   },
   {
     "destination": "sankt-moritz",

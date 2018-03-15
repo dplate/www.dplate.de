@@ -79,10 +79,17 @@ const renderReports = (name, destination, teaser, reports, type) => {
   );
 };
 
-const renderDestinationTitle = (name, hikeReports, skiReports) => {
+const getDestinationTitle = (name, hikeReports, skiReports) => {
   if (hikeReports.length && skiReports.length) return `Ski- und Wandergebiet ${name}`;
   if (hikeReports.length) return `Wandergebiet ${name}`;
   if (skiReports.length) return `Skigebiet ${name}`;
+  return name;
+};
+
+const getDestinationDescription = (name, hikeReports, skiReports) => {
+  if (hikeReports.length && skiReports.length) return `Schnee- und Wanderberichte aus der ${name} Region`;
+  if (hikeReports.length) return `Wanderberichte aus der ${name} Region`;
+  if (skiReports.length) return `Schneeberichte aus der ${name} Region`;
   return name;
 };
 
@@ -91,12 +98,13 @@ export default (props) => {
   const reports = props.data.allReportJson.edges.map((element) => element.node);
   const hikeReports = reports.filter((report) => report.type === 'hike');
   const skiReports = reports.filter((report) => report.type !== 'hike');
-  const destinationTitle = renderDestinationTitle(name, hikeReports, skiReports);
+  const destinationTitle = getDestinationTitle(name, hikeReports, skiReports);
+  const destinationDescription = getDestinationDescription(name, hikeReports, skiReports);
   return (
     <div>
       <Helmet>
         <title>{destinationTitle}</title>
-        <meta name="description" content={name} />
+        <meta name="description" content={destinationDescription} />
       </Helmet>
       <Title>{destinationTitle}</Title>
       <FlexContainer>
