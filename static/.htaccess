@@ -29,3 +29,4 @@ Redirect 301 /kensentme http://www.dplate.de/tools/kensentme
 Redirect 301 /java.html http://www.dplate.de
 Redirect 301 /javae.html http://www.dplate.de
 Redirect 301 /alpine/alvier/20140907 http://www.dplate.de/alpine/alviergruppe/20140907
+redirectMatch  301 ^/photos$ http://www.dplate.de/showcase

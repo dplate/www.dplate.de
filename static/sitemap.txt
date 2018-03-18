@@ -5,7 +5,7 @@ http://www.dplate.de/games/cannonhill
 http://www.dplate.de/games/ancient
 http://www.dplate.de/tools/scapemaker
 http://www.dplate.de/tools/kensentme
-http://www.dplate.de/photos
+http://www.dplate.de/showcase
 http://www.dplate.de/impressum
 http://www.dplate.de/alpine/airolo
 http://www.dplate.de/alpine/alpstein
@@ -40,7 +40,7 @@ http://www.dplate.de/alpine/serfaus-fiss-ladis
 http://www.dplate.de/alpine/speer
 http://www.dplate.de/alpine/sulzfluh
 http://www.dplate.de/alpine/titlis
-http://www.dplate.de/alpine/toggenburg': 'Toggenburg'
+http://www.dplate.de/alpine/toggenburg
 http://www.dplate.de/alpine/flumserberg/20161112
 http://www.dplate.de/alpine/lenzerheide/20161029
 http://www.dplate.de/alpine/malbun/20161016
