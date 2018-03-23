@@ -1,9 +1,5 @@
 [
   {
-    "destination": "airolo",
-    "name": "Airolo"
-  },
-  {
     "destination": "alpstein",
     "name": "Alpstein"
   },
@@ -12,8 +8,8 @@
     "name": "Alviergruppe"
   },
   {
-    "destination": "andermatt",
-    "name": "Andermatt"
+    "destination": "gotthard",
+    "name": "Gotthardgebiet"
   },
   {
     "destination": "arlberg",
@@ -64,10 +60,6 @@
     "name": "Hohe Kugel"
   },
   {
-    "destination": "hoher-freschen",
-    "name": "Hoher Freschen"
-  },
-  {
     "destination": "ischgl",
     "name": "Ischgl"
   },
@@ -110,6 +102,10 @@
     "hikeTeaser": true
   },
   {
+    "destination": "praettigau",
+    "name": "Prättigau"
+  },
+  {
     "destination": "sankt-moritz",
     "name": "St. Moritz"
   },
@@ -120,14 +116,6 @@
   {
     "destination": "serfaus-fiss-ladis",
     "name": "Serfaus-Fiss-Ladis"
-  },
-  {
-    "destination": "speer",
-    "name": "Speer"
-  },
-  {
-    "destination": "sulzfluh",
-    "name": "Sulzfluh"
   },
   {
     "destination": "titlis",
