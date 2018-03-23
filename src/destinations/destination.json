@@ -40,6 +40,11 @@
     "name": "Disentis"
   },
   {
+    "destination": "feldberg",
+    "name": "Feldberg",
+    "skiTeaser": true
+  },
+  {
     "destination": "flumserberg",
     "name": "Flumserberg"
   },

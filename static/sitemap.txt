@@ -16,6 +16,7 @@ http://www.dplate.de/alpine/damuels
 http://www.dplate.de/alpine/davos
 http://www.dplate.de/alpine/dolomiten
 http://www.dplate.de/alpine/disentis
+http://www.dplate.de/alpine/feldberg
 http://www.dplate.de/alpine/flumserberg
 http://www.dplate.de/alpine/fronalpstock
 http://www.dplate.de/alpine/gargellen
@@ -168,3 +169,4 @@ http://www.dplate.de/alpine/dolomiten/20180219
 http://www.dplate.de/alpine/dolomiten/20180220
 http://www.dplate.de/alpine/toggenburg/20180308
 http://www.dplate.de/alpine/pizol/20180314
+http://www.dplate.de/alpine/feldberg/20180321
