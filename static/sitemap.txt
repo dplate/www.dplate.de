@@ -170,3 +170,4 @@ http://www.dplate.de/alpine/dolomiten/20180220
 http://www.dplate.de/alpine/toggenburg/20180308
 http://www.dplate.de/alpine/pizol/20180314
 http://www.dplate.de/alpine/feldberg/20180321
+http://www.dplate.de/alpine/laax/20180406

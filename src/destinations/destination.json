@@ -74,7 +74,8 @@
   },
   {
     "destination": "laax",
-    "name": "Laax"
+    "name": "Laax",
+    "skiTeaser": true
   },
   {
     "destination": "laterns",
