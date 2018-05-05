@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /impressum
 
 Sitemap: http://www.dplate.de/sitemap.txt

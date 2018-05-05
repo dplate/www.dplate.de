@@ -1,5 +1,4 @@
 import React from 'react'
-import ReactDisqusComments from 'react-disqus-comments-sso'
 import logoIcon from '../icons/logo.png'
 import menuIcon from '../icons/menu.svg'
 import styled from 'styled-components'
@@ -28,7 +27,7 @@ const Header = styled.div`
   }
 `;
 
-const MenuButton = styled.img`
+const MenuButton = styled.div`
   display: inline-block;
   position: absolute;
   left: 20px;
@@ -36,6 +35,20 @@ const MenuButton = styled.img`
   height: 24px;
   width: 24px;
   cursor: pointer;
+  white-space: nowrap;
+`;
+
+const MenuIcon = styled.img`
+  height: 24px;
+  width: 24px;
+`;
+
+const MenuText = styled.span`
+  position: absolute;
+  margin-left: 8px;
+  @media(max-width: 420px) {
+    display: none;
+  }
 `;
 
 const Title = styled.div`
@@ -57,26 +70,6 @@ const Content = styled.div`
   padding-top: 57px;  
 `;
 
-const DisqusButton = styled.a`
-  display: inline-block;
-  margin: 16px 16px;
-  padding: 10px 16px;
-  background-color: #CFE0C3;
-  border: 3px solid #40798C;
-  border-radius: 5px;
-  white-space: nowrap;
-  cursor: pointer;
-  font-weight: bold;
-  &:hover {
-    background-color: #9EC1A3;
-  }
-`;
-
-const Disqus = styled.div`
-  margin: 32px 16px; 
-  max-width: 800px;
-`;
-
 class Layout extends React.Component {
 
   constructor(props) {
@@ -84,26 +77,22 @@ class Layout extends React.Component {
     this.state = {
       showHeader: true,
       showMenu: false,
-      showDisqus: false
+      lastScrollY: 0
     };
-    this.lastScrollY = 0;
     this.scrollHandler = this.scrollHandler.bind(this);
     this.toggleMenu = this.toggleMenu.bind(this);
-    this.toggleDisqus = this.toggleDisqus.bind(this);
   }
 
   scrollHandler() {
-    if (window.pageYOffset === this.lastScrollY) return;
-    this.setState({ showHeader: window.pageYOffset < this.lastScrollY });
-    this.lastScrollY = window.pageYOffset
+    if (window.pageYOffset === this.state.lastScrollY) return;
+    this.setState({
+      showHeader: window.pageYOffset < this.state.lastScrollY,
+      lastScrollY: window.pageYOffset
+    });
   }
 
   toggleMenu() {
     this.setState({showMenu: !this.state.showMenu});
-  }
-
-  toggleDisqus() {
-    this.setState({showDisqus: !this.state.showDisqus});
   }
 
   componentDidMount() {
@@ -117,24 +106,13 @@ class Layout extends React.Component {
   render() {
     const reports = this.props.data.allReportJson.edges.map((element) => element.node);
     const destinations = this.props.data.allDestinationJson.edges.map((element) => element.node);
-    let disqusId = this.props.location.pathname.substr(1);
-    if (!disqusId) disqusId = 'start';
     return (
       <div>
         <Content>
           {this.props.children()}
         </Content>
-        { !this.state.showDisqus && <DisqusButton onClick={this.toggleDisqus}>Kommentare anzeigen (Disqus)</DisqusButton>}
-        { this.state.showDisqus && <Disqus>
-          <ReactDisqusComments
-            shortname="dplate"
-            identifier={disqusId}
-            url={'http://www.dplate.de' + this.props.location.pathname}
-            title={disqusId}
-          />
-        </Disqus> }
         <Header className={this.state.showHeader?'showHeader':''}>
-          <MenuButton src={menuIcon} onClick={this.toggleMenu} />
+          <MenuButton onClick={this.toggleMenu}><MenuIcon src={menuIcon} /><MenuText>Menü</MenuText></MenuButton>
           <Link to="/">
             <Title>www.dplate.de</Title>
             <Logo src={logoIcon} />
