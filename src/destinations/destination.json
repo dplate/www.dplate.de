@@ -70,7 +70,8 @@
   },
   {
     "destination": "kaunertal",
-    "name": "Kaunertal"
+    "name": "Kaunertal",
+    "skiTeaser": true
   },
   {
     "destination": "laax",

@@ -6,7 +6,6 @@ http://www.dplate.de/games/ancient
 http://www.dplate.de/tools/scapemaker
 http://www.dplate.de/tools/kensentme
 http://www.dplate.de/showcase
-http://www.dplate.de/impressum
 http://www.dplate.de/alpine/alpstein
 http://www.dplate.de/alpine/alviergruppe
 http://www.dplate.de/alpine/arlberg
@@ -171,3 +170,4 @@ http://www.dplate.de/alpine/toggenburg/20180308
 http://www.dplate.de/alpine/pizol/20180314
 http://www.dplate.de/alpine/feldberg/20180321
 http://www.dplate.de/alpine/laax/20180406
+http://www.dplate.de/alpine/kaunertal/20180506
