@@ -41,6 +41,8 @@ export default () => {
       <Card>
         <h2>Installationsprogramm für Windows</h2>
         <p><a target="_blank" href={__PATH_PREFIX__ + '/zips/ScapeMakerSetup_1_3.exe'}>ScapeMakerSetup_1_3.exe: 4,4 MByte</a></p>
+        <h2>Original Sourcecode für C++ mit DirectxSDK</h2>
+        <p><a target="_blank" href={__PATH_PREFIX__ + '/zips/scapemakersdk.zip'}>scapemakersdk.zip: 17 MByte</a></p>
       </Card>
     </div>
   );

@@ -51,7 +51,7 @@ export default () => {
         <p>Deutsch: <a target="_blank" href={__PATH_PREFIX__ + '/zips/schiffbruch.exe'}>schiffbruch.exe: 1 MByte</a></p>
         <p>Englisch: <a target="_blank" href={__PATH_PREFIX__ + '/zips/sbenglish.exe'}>sbenglish.exe: 1 MByte</a></p>
         <h2>Original Sourcecode für C++ mit DirectxSDK</h2>
-        <p><a target="_blank" href={__PATH_PREFIX__ + 'zips/schiffbruchsdk.zip'}>schiffbruchsdk.zip: 487 kByte</a></p>
+        <p><a target="_blank" href={__PATH_PREFIX__ + '/zips/schiffbruchsdk.zip'}>schiffbruchsdk.zip: 487 kByte</a></p>
       </Card>
       <Card>
         <h2>Weitere Links</h2>
