@@ -269,7 +269,7 @@ class Report extends React.Component {
           <meta name="description" content={this.buildPageDescription(title, type, date)} />
         </Helmet>
         {!title3d && <h1>{fullTitle}</h1>}
-        {title3d && <Title3D reportPath={this.getReportPath()} title={fullTitle} offsetY={title3d.offsetY} fontSize={title3d.fontSize} />}
+        {title3d && <Title3D reportPath={this.getReportPath()} title={fullTitle} offsetY={title3d.offsetY} fontSize={title3d.fontSize} align={title3d.align} />}
         <Chapter dangerouslySetInnerHTML={{__html: intro}}/>
         {landmarks.map(this.renderLandmark.bind(this))}
         <Chapter dangerouslySetInnerHTML={{__html: outro}}/>
@@ -304,6 +304,7 @@ export const pageQuery = graphql`
       title3d {
         offsetY,
         fontSize,
+        align,
       },
       intro, 
       landmarks {

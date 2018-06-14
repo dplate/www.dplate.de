@@ -172,3 +172,4 @@ http://www.dplate.de/alpine/feldberg/20180321
 http://www.dplate.de/alpine/laax/20180406
 http://www.dplate.de/alpine/kaunertal/20180506
 http://www.dplate.de/alpine/toggenburg/20180526
+http://www.dplate.de/alpine/davos/20180610

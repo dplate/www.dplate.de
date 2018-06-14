@@ -1,0 +1,275 @@
+[
+  {
+    "destination": "davos",
+    "date": "d20180610",
+    "type": "hike",
+    "track": true,
+    "detailMap": "swiss",
+    "shortTitle": "Wiesener Viadukt",
+    "title": "Filisur - Wiesener Viadukt",
+    "title3d": {
+      "offsetY": 2.0,
+      "fontSize": 7.0,
+      "align": "right"
+    },
+    "intro": "Diesen Sonntag stand eine Besichtigungstour entlang der Bahnstrecke zwischen Davos und Filisur an. Das Auto parkten wir auf dem (kostenpflichtigen) Parkplatz am Bahnhof von Filisur, das südlich von Davos an der Zufahrt zum Albulapass liegt.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Filisur Bahnhof"
+          }
+        ],
+        "text": "Bei Ankunft fuhren gerade drei Züge aus verschiedenen Richtungen in den kleinen Bahnhof ein. Dies passiert jede Stunde einmal und ermöglicht ein Umsteigen.<br />Wir stiegen allerdings nicht in den Zug ein, sondern folgten dem Wanderwegweiser zum Wiesener Viadukt durch das Landwassertal."
+      },
+      {
+        "photos": [
+          {
+            "name": "002",
+            "alt": "Schmitten"
+          }
+        ],
+        "text": "Zuerst ging es steil durch den Ort hinauf, aber schnell wurde es flacher und wir erreichten die blumenreichen Wiesen oberhalb von Filisur. Hier der Blick zur anderen Talseite nach Schmitten. Entlang der Schlucht in der Mitte führt die Bahnstrecke."
+      },
+      {
+        "photos": [
+          {
+            "name": "003",
+            "alt": "Straße nach Schönboden"
+          }
+        ],
+        "text": "Zu Beginn ging es hauptsächlich auf Fahrwegen zum ersten Etappenziel Schönboden. Hier der Blick zurück Richtung Filisur."
+      },
+      {
+        "photos": [
+          {
+            "name": "004",
+            "alt": "Parc Ela"
+          }
+        ],
+        "text": "Und in die andere Richtung nach Davos."
+      },
+      {
+        "photos": [
+          {
+            "name": "005",
+            "alt": "Schönboden"
+          }
+        ],
+        "text": "Im Bereich von Schönboden weideten Kühe entlang des Wegs."
+      },
+      {
+        "photos": [
+          {
+            "name": "007",
+            "alt": "Grillplatz Schönboden"
+          }
+        ],
+        "text": "Nach rund 150m Aufstieg waren nun die Grillplätze auf Schönboden erreicht. Dort endet die Fahrstraße und anschließend geht es hauptsächlich durch Wald weiter."
+      },
+      {
+        "photos": [
+          {
+            "name": "008",
+            "alt": "Wanderweg Filisur Wiesener Viadukt"
+          }
+        ],
+        "text": "Der Weg ist aber auch weiterhin sehr gut ausgebaut und ohne Schwierigkeiten. Zudem ging es nun erst mal nur noch leicht bergauf und bergab."
+      },
+      {
+        "photos": [
+          {
+            "name": "009",
+            "alt": "Wundklee"
+          }
+        ],
+        "text": "Der Wald ist ebenfalls sehr pflanzenreich. Er ist zudem bekannt für seine Orchideen, diese waren aber bereits verblüht. Zumindest diesen Wundklee gab es noch zu bewundern."
+      },
+      {
+        "photos": [
+          {
+            "name": "010",
+            "alt": "Moos im Sonnenlicht"
+          }
+        ],
+        "text": "Hier bekommt man einen Eindruck, wie feucht und moosig der Waldboden war."
+      },
+      {
+        "photos": [
+          {
+            "name": "012",
+            "alt": "Steinmännchen"
+          }
+        ],
+        "text": "An einer Stelle verlässt man kurz den Wald um ein Geröllfeld (geschmückt mit Steinmännchen) zu durchqueren."
+      },
+      {
+        "photos": [
+          {
+            "name": "013",
+            "alt": "Regentropfen auf Blatt"
+          }
+        ],
+        "text": "Am Tag zuvor gab es wohl ein tüchtiges Gewitter, so dass Regentropfen noch faul auf den Blätter herumlungerten."
+      },
+      {
+        "photos": [
+          {
+            "name": "014",
+            "alt": "Landwassertal"
+          }
+        ],
+        "text": "Nach einer längeren Strecke im Wald ging es etwas bergauf, um einen kleinen Bergrücken zu überqueren. Dort gab es eine Bank und eine schöne Aussicht ins Landwassertal, die zu einer Pause einluden.<br />Anschließend wurde der Weg etwas schmaler und führte durch ein paar Sepentinen bergab zum Fluß."
+      },
+      {
+        "photos": [
+          {
+            "name": "017",
+            "alt": "Wiesener Viadukt"
+          }
+        ],
+        "text": "Schnell war das Ziel der Wanderung erreicht, das Wiesener Viadukt. Den (nicht ausgezeichneten) Abstecher zum Aussichtspunkt sollte man nicht verpassen. Für alle, die die Brücke mit Zug erleben wollen: Immer um 09 und 48 überquert die Schmalspurbahn das Viadukt."
+      },
+      {
+        "photos": [
+          {
+            "name": "018",
+            "alt": "Wiesener Viadukt"
+          }
+        ],
+        "text": "Noch einmal der selbe Blick als starke Weitwinkelaufnahme. Das Viadukt ist 90m hoch und wurde 1908 gebaut."
+      },
+      {
+        "photos": [
+          {
+            "name": "019",
+            "alt": "Weg über Wiesener Viadukt"
+          }
+        ],
+        "text": "Der Weg führt anschließend über einen angebauten Metallsteg entlang der Schienen über die Brücke."
+      },
+      {
+        "photos": [
+          {
+            "name": "020",
+            "alt": "Landwasser"
+          }
+        ],
+        "text": "Blick von der Brücke senkrecht nach unten auf den wilden Fluss Landwasser 90m tiefer."
+      },
+      {
+        "photos": [
+          {
+            "name": "022",
+            "alt": "Glacier on Tour"
+          },
+          {
+            "name": "023",
+            "alt": "Rhätische Bahn"
+          }
+        ],
+        "text": "Nach der Überquerung der Brücke fuhr auch schon der nächste Zug der Räthischen Bahn über das Wiesener Viadukt."
+      },
+      {
+        "photos": [
+          {
+            "name": "024",
+            "alt": "Bim Statiönli"
+          },
+          {
+            "name": "025",
+            "alt": "Station Wiesen"
+          }
+        ],
+        "text": "Direkt beim Wiesener Viadukt befindet sich der Bahnhof von Wiesen mit einem kleinen Imbiss. Der eigentliche Ort Wiesen liegt 40 Gehminuten oberhalb der Schlucht."
+      },
+      {
+        "photos": [
+          {
+            "name": "026",
+            "alt": "Zügenschlucht"
+          }
+        ],
+        "text": "Obwohl wir unser eigentlich Ziel damit erreicht hatten, lohnt sich noch der kurze Abstecher zur kleine Straßenbrücke über die Zügenschlucht direkt hinter dem Bahnhof.<br />Von hier kann man in die enge Schlucht schauen."
+      },
+      {
+        "photos": [
+          {
+            "name": "027",
+            "alt": "Landwassertal bei Wiesen"
+          }
+        ],
+        "text": "Und der Blick talabwärts. Das Wiesener Viadukt ist auf Grund einer Kurve des Tals nicht zu sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "028",
+            "alt": "Brücke nach Jenisberg"
+          }
+        ],
+        "text": "Die Brücke von der anderen Schluchtseite aus gesehen. Die Straße über die Steinbrücke ist öffentlich und führt zu dem kleinen Ort Jenisberg. Trotz ihrer Kürze ist sie übrigens rund 50m hoch."
+      },
+      {
+        "photos": [
+          {
+            "name": "032",
+            "alt": "Eisenbahn aus Tunnel"
+          }
+        ],
+        "text": "Und wenn man sich genug Zeit lässt, kann man auch noch einmal einen Zug durch den Tunnel oberhalb der Zügenschlucht fahren sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "033",
+            "alt": "Räthische Bahn auf Cavja"
+          }
+        ],
+        "text": "Nach einem Eis im Bahnhofsimbiss kauften wir die Fahrkarte für 3.60CHF pro Person und fuhren mit dem Zug über diverse Brücken und durch Tunnel zurück nach Filisur."
+      },
+      {
+        "photos": [
+          {
+            "name": "034",
+            "alt": "Filisur"
+          }
+        ],
+        "text": "Blick vom Bahnhof Filisur hinab zur Dorfmitte. Das Tal hinten führt zum Albulapass.<br />Da die Rückfahrt mit dem Auto über Davos führte, entschlossen wir noch einen kurzen Halt an der Hauptstraße hinter Wiesen zu machen und einen Abstecher zum Bärentritt zu unternehmen."
+      },
+      {
+        "photos": [
+          {
+            "name": "036",
+            "alt": "Bärentritt"
+          },
+          {
+            "name": "037",
+            "alt": "Brüggentobelbach"
+          }
+        ],
+        "text": "Den Bärentritt kann man leicht über die alte Zügenstraße zu Fuß erreichen. Von einem kleinen Aussichtspunkt schaut man tief in die Zügenschlucht. Am Rand der Schlucht verlässt die Bahnstrecke kurz ihren Tunnel und überquert auf einer kleiner Brücke die Wasserfälle des Brüggentobelbachs.<br />Da ich den Fahrplan des Zugs nun im Kopf hatte, konnte ich den kurzen Moment der vorbeifahrenden Bahn abpassen. :)"
+      },
+      {
+        "photos": [
+          {
+            "name": "038",
+            "alt": "Zügenschlucht"
+          }
+        ],
+        "text": "Blick die Zügenschlucht hinab."
+      },
+      {
+        "photos": [
+          {
+            "name": "040",
+            "alt": "Händelwurz mit Brücke"
+          }
+        ],
+        "text": "Zum Abschluss eine Händelwurz neben der Zügenstraße auf dem Rückweg zum Parkplatz. Die Straße überquert hier den Brüggentobelbach deutlich weniger spektakulär als die Eisenbahn."
+      }
+    ],
+    "outro": "Fazit: Der Weg von Filisur zum Wiesener Viadukt ist nur rund 5km lang. Wer will kann auch gut oberhalb bei Davos Monstein / Schmelzboden parken und von dort die alte Zügenstraße (vorbei am sehenswerten Bärentritt) laufen. Dann kommt man zum bekannten Wiesener Viadukt und erreicht den hier beschriebenen Weg in umgekehrter Richtung. In Filisur würde sich auch noch ein Abstecher zum Landwasser Viadukt anbieten. Damit würde man dann wirklich alle Sehenswürdigkeiten der Bahnstrecke erleben."
+  }
+]
