@@ -1,0 +1,493 @@
+[
+  {
+    "destination": "toggenburg",
+    "date": "d20180616",
+    "type": "hike",
+    "track": true,
+    "detailMap": "swiss",
+    "shortTitle": "Gulmen",
+    "title": "Stein - Gulmen",
+    "title3d": {
+      "offsetY": 4.5,
+      "fontSize": 6.5
+    },
+    "intro": "Als erste richtige Wanderung der Saison nahm ich mir an diesem Samstag den fast 1800m hohen Gulmen im Toggenburg vor. Als Ausgangspunkt wählte ich den kleinen Ort Stein im Kanton St. Gallen, der rund 800m hoch liegt.<br />Im Dort gibt es viele freie Parkplätze, auf einem stellte ich mein Auto um 7:30 ab.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Kirche Stein"
+          }
+        ],
+        "videos": [],
+        "text": "Die Kirche von Stein mit zwei startenden Heißluftballons. Die Wegweiser im Ort sind nicht ganz eindeutig, so dass ich den ersten Stück vom Weg die Straße nahm, die ich eigentlich für den Rückweg eingeplant hatte. Aber wirklich verlaufen kann man sich in der Gegend eigentlich nicht."
+      },
+      {
+        "photos": [
+          {
+            "name": "002",
+            "alt": "Bauernhaus Toggenburg"
+          }
+        ],
+        "videos": [],
+        "text": "Nach einem ersten Aufstieg auf der Asphaltstraße erreichte ich das kleine Hochtal der Wiis Thur, das von Richtung des markanten Bergs <a href=\"/alpine/toggenburg/20170603\">Speer</a> kommt.<br />An diesem Bauernhof erreichte ich auch wieder meinen eigentlich geplanten Wanderweg."
+      },
+      {
+        "photos": [
+          {
+            "name": "003",
+            "alt": "Landwirtschaft Ostschweiz"
+          }
+        ],
+        "videos": [],
+        "text": "Nun ging es (weiterhin auf der Fahrstraße) flach weiter in das Tal hinein. Hier der Blick über die Wiis Thur hinweg auf die andere Seite des landwirtschaftlich genutzten Tals."
+      },
+      {
+        "photos": [
+          {
+            "name": "004",
+            "alt": "Buurebeizli Dergeten"
+          }
+        ],
+        "videos": [],
+        "text": "Die asphaltierte Straße endet an der kleinen Gastwirtschaft <a href=\"https://www.buurebeizli-dergeten.ch/\">Buurebeizli Dergeten</a>. Bis hier könnte man auch mit dem Auto fahren.<br />Ich zweigte nach links den Berg hinauf ab und verließ damit nach 3,5km endlich den Fahrweg."
+      },
+      {
+        "photos": [
+          {
+            "name": "005",
+            "alt": "Pistenraupe im Gras"
+          }
+        ],
+        "videos": [],
+        "text": "Eine alte Pistenraupe des (etwas entfernten) Skilift Tanzböden. Anscheinend wird sie nun von der Gaststätte benutzt."
+      },
+      {
+        "photos": [
+          {
+            "name": "006",
+            "alt": "Speer"
+          }
+        ],
+        "videos": [],
+        "text": "Der Weg führte nun (zum Teil kaum sichtbar) über Wiesen den Hang hinauf."
+      },
+      {
+        "photos": [
+          {
+            "name": "007",
+            "alt": "Gemähte Alpwiese"
+          }
+        ],
+        "videos": [],
+        "text": "Hier habe ich mich prompt schon wieder kurz verlaufen, da man den Weg auf der frisch gemähten Wiese nicht einmal erahnen konnte. Und die Wegzeichen sind nur von oben her wirklich gut zu erkennen.<br />Aber im Prinzip ging es einfach immer den Hang hinauf."
+      },
+      {
+        "photos": [
+          {
+            "name": "008",
+            "alt": "Händelwurz"
+          }
+        ],
+        "videos": [],
+        "text": "Die noch kuhfreien Wiesen waren übersät von verschiedenen Blumen und es surrte durch Tausenden von Insekten."
+      },
+      {
+        "photos": [
+          {
+            "name": "009",
+            "alt": "Alpwiese"
+          }
+        ],
+        "videos": [],
+        "text": "Der Aufstieg war ziemlich steil und anstrengend. Über diese Wiesen überwindet man rund 200 Höhenmeter auf einer Distanz von 1,3km."
+      },
+      {
+        "photos": [
+          {
+            "name": "010",
+            "alt": "Wiis Thur Tal"
+          }
+        ],
+        "videos": [],
+        "text": "Kleine Rast und Blick zurück ins Tal der Wiis Thur."
+      },
+      {
+        "photos": [
+          {
+            "name": "011",
+            "alt": "Hagegg"
+          }
+        ],
+        "videos": [],
+        "text": "Auf halber Höhe erreichte ich die Alp Hagegg."
+      },
+      {
+        "photos": [
+          {
+            "name": "012",
+            "alt": "Wanderweg Dergeten Gulmen"
+          }
+        ],
+        "videos": [],
+        "text": "Von dort geht es auf diesem Grasrücken etwas weniger steil weiter.<br />Hier sah ich auch das erste mal das Ziel meiner Wanderung, den Gulmen. Das ist der breitere Berg links. Noch war ich aber 600 Höhenmeter darunter."
+      },
+      {
+        "photos": [
+          {
+            "name": "013",
+            "alt": "Bergweide"
+          }
+        ],
+        "videos": [],
+        "text": "Noch ein Stück weiter der Blick zurück zur Alp Hagegg."
+      },
+      {
+        "photos": [
+          {
+            "name": "014",
+            "alt": "Waldweg"
+          }
+        ],
+        "videos": [],
+        "text": "Nachdem ich den Aufstieg über die Wiesen gemeistert hatte, ging es nun auf einer Schotterstraße deutlich flacher durch den Wald weiter."
+      },
+      {
+        "photos": [
+          {
+            "name": "015",
+            "alt": "Scheuchzers Wollgras"
+          }
+        ],
+        "videos": [],
+        "text": "Leuchtendes Scheuchzers Wollgras auf einer sumpfigen Wiese neben dem Weg."
+      },
+      {
+        "photos": [
+          {
+            "name": "016",
+            "alt": "Wegweiser Letzbüel"
+          }
+        ],
+        "videos": [],
+        "text": "Wegweiser und kleine Grillstelle bei Letzbüel. Hier erreichte ich den Hauptweg von Amden zum Gulmen. Folglich begegnete ich nun auch den ersten anderen Wanderern. Inzwischen war ich von Stein 2h unterwegs und war nun auf 1400m angelangt."
+      },
+      {
+        "photos": [
+          {
+            "name": "017",
+            "alt": "Stögglersitte"
+          }
+        ],
+        "videos": [],
+        "text": "Nun endete auch wieder die Straße und es ging auf sehr gut ausbautem Wanderweg weiter. Hier der Blick zurück - links der Mattstock und der Speer dahinter."
+      },
+      {
+        "photos": [
+          {
+            "name": "018",
+            "alt": "Wanderweg Amden Furgglen"
+          }
+        ],
+        "videos": [],
+        "text": "Nun konnte ich auch erstmals nach Süden Richtung Glarus und <a href=\"/alpine/fronalpstock/20160716\">Fronalpstock</a> sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "019",
+            "alt": "Amden"
+          }
+        ],
+        "videos": [],
+        "text": "Und der Blick auf den Ort Amden oberhalb des Walensees. Von dort habe ich schon mal eine <a href\"/alpine/toggenburg/20150606\">Wanderung zum Speer</a> gemacht."
+      },
+      {
+        "photos": [
+          {
+            "name": "020",
+            "alt": "Alpwirtschaft Furgglen"
+          }
+        ],
+        "videos": [],
+        "text": "Der Weg führt vorbei an der Alpwirtschaft Furgglen, die aber noch recht ausgestorben war."
+      },
+      {
+        "photos": [
+          {
+            "name": "021",
+            "alt": "Wegweiser Hüttlisboden"
+          }
+        ],
+        "videos": [],
+        "text": "Dann erreichte ich die Wegkreuzung bei Hüttlisboden auf 1500m. Im Hintergrund der Mürtschenstock. Von hier aus zweigt der steile Aufstieg zum Gulmen ab. Man könnte ihn auch auf leichtem Weg umgehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "022",
+            "alt": "Panorama Amden"
+          }
+        ],
+        "videos": [],
+        "text": "Blick vom steilen Weg aus zurück zum Wegweiser bei Hüttlisboden."
+      },
+      {
+        "photos": [
+          {
+            "name": "023",
+            "alt": "Wanderweg Gulmen"
+          }
+        ],
+        "videos": [],
+        "text": "Über diesen steilen Grashang ging es nun in vielen Serpentinen die noch fehlenden 200 Höhenmeter hinauf.<br />Obwohl die Sonne gerade erst um den Berg herumkroch, wurde mir ordentlich warm und die Sache war schweißtreibend."
+      },
+      {
+        "photos": [
+          {
+            "name": "024",
+            "alt": "Gipfelkreuz Gulmen"
+          }
+        ],
+        "videos": [],
+        "text": "Dieses Kreuz gab mir Hoffnung, bald den Gipfel erreicht zu haben... gemeinerweise steht es aber nicht auf dem Gulmen, sondern auf einem Absatz unterhalb."
+      },
+      {
+        "photos": [
+          {
+            "name": "025",
+            "alt": "Gulmen Churfirsten"
+          }
+        ],
+        "videos": [],
+        "text": "Blick während des Aufstiegs hinüber zu den (etwas wolkenverhangenen) Churfirsten."
+      },
+      {
+        "photos": [
+          {
+            "name": "026",
+            "alt": "Orangerotes Habichtskraut"
+          }
+        ],
+        "videos": [],
+        "text": "Makroaufnahme einer der vielen Blumen. In diesem Fall handelt es sich um Orangerotes Habichtskraut (extra nachgeschlagen)."
+      },
+      {
+        "photos": [
+          {
+            "name": "027",
+            "alt": "Gulmen"
+          }
+        ],
+        "videos": [],
+        "text": "Kreuz und damit die Hochfläche auf dem Gulmen erreicht. Die Alp bewirtschaftet die Wiesen hier oben und besitzt sogar eine eigene Materialseilbahn.<br />Der eigentlich Gipfel des Gulmen ist der Berg hinter der Alp."
+      },
+      {
+        "photos": [
+          {
+            "name": "028",
+            "alt": "Aussicht Gulmen"
+          }
+        ],
+        "videos": [],
+        "text": "Gegen 11:00 war ich schließlich oben und ich machte erst mal eine Pause. Hier oben wehte auch ein schwacher kühlender Wind - sehr angenehm.<br />Hier der Blick vom Gulmen Richtung Stein (rechts unten im Tal)."
+      },
+      {
+        "photos": [
+          {
+            "name": "029",
+            "alt": "Quellwolken über Blumenwiese"
+          }
+        ],
+        "videos": [],
+        "text": "Der flache Gipfel war voller Blumen und tiefem Gras. Die dekorativen Wolken waren dazu noch nett anzuschauen."
+      },
+      {
+        "photos": [
+          {
+            "name": "030",
+            "alt": "Panorama Gulmen"
+          }
+        ],
+        "videos": [],
+        "text": "Links das Tal der Wiis Thur, durch das ich hochgestiegen war. Mein Abstieg sollte durch das Tal rechts führen. Auf dieser Seite fällt der Gulmen über eine Felswand steil hinab."
+      },
+      {
+        "photos": [
+          {
+            "name": "031",
+            "alt": "Blumen vor Glarus"
+          }
+        ],
+        "videos": [],
+        "text": "Und der Blick in die andere Richtung zum Glarus. Der schneebedeckte Gipfel hinten ist 3000m hohe Glärnisch."
+      },
+      {
+        "photos": [
+          {
+            "name": "032",
+            "alt": "Goggeien"
+          }
+        ],
+        "videos": [],
+        "text": "Zwischen Stein und Gulmen ragt der Goggeien auf. Diesen interessant ausehenden Felsen habe ich an diesem Tag praktisch umrundet."
+      },
+      {
+        "photos": [
+          {
+            "name": "033",
+            "alt": "Gulmen Amden"
+          }
+        ],
+        "videos": [],
+        "text": "Um vom flachen Gipfel in alle Richtungen schauen zu können, muss man etwas herumlaufen. Hier auf dem Weg zur Westflanke. Unten ist wieder der Walensee und Amden zu sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "034",
+            "alt": "Wandergebiet Amden"
+          }
+        ],
+        "videos": [],
+        "text": "Und hier der steile Blick von dort hinab. Rechts wieder der Speer, links der eigentliche Gipfel des Gulmen."
+      },
+      {
+        "photos": [
+          {
+            "name": "035",
+            "alt": "Weg Gulmen Vorderhöhi"
+          },
+          {
+            "name": "036",
+            "alt": "Wanderung Gulmen"
+          }
+        ],
+        "videos": [],
+        "text": "Nach einer halben Stunde machte ich mich auf den Abstieg über den Westgrat des Gulmen. Dieser Weg ist deutlich flacher und harmloser als über den steilen Südhang."
+      },
+      {
+        "photos": [
+          {
+            "name": "037",
+            "alt": "Vorderhöhi"
+          }
+        ],
+        "videos": [],
+        "text": "Unten ist der Weg sehr gut ausgebaut und sogar in den Felsen geschlagen worden. Nach 200m Abstieg erreichte ich schnell die Alp Vorderhöhi, die auf dem Pass zwischen Amden und Toggenburg liegt. Dieser Übergang ist vor allem bei Radfahrern beliebt."
+      },
+      {
+        "photos": [
+          {
+            "name": "038",
+            "alt": "Gulmen"
+          }
+        ],
+        "videos": [],
+        "text": "Bei Vorderhöhi zweigte ich nach links ab. Laut Wegweiser sollten es nach Stein 1:30h dauern.<br />Hier der Blick zurück zum Gulmen."
+      },
+      {
+        "photos": [
+          {
+            "name": "039",
+            "alt": "Alpenwiese"
+          }
+        ],
+        "videos": [],
+        "text": "Nur kurz ging es noch einmal über eine sumpfige Wiese, aber schon bald in einen schattigeren Wald. Bei der starken Sonneneinstrahlung freute ich mich schon darauf."
+      },
+      {
+        "photos": [
+          {
+            "name": "040",
+            "alt": "Wanderweg Stein Vorderhöhi"
+          }
+        ],
+        "videos": [],
+        "text": "Ich hatte eigentlich erwartet, dass es (wie so oft) im Wald steil bergab gehen würde. Aber der Weg ging angenehm flach am Hang hinunter."
+      },
+      {
+        "photos": [
+          {
+            "name": "041",
+            "alt": "Holzstege"
+          }
+        ],
+        "videos": [],
+        "text": "Viele Holzbrücken und Stege wurden für den Weg in dem wasserreichen Wald verbaut. Außerdem hatte es bei einem Sturm viele Bäume umgelegt, die nur teilweise entfernt wurden."
+      },
+      {
+        "photos": [
+          {
+            "name": "042",
+            "alt": "Grillplatz"
+          }
+        ],
+        "videos": [],
+        "text": "Nach dem Abstieg durch den Wald erreichte ich diese kleine Sumpfwiese mit Bach und Grillstelle. Am Wasser konnte ich mich erst mal erfrischen, denn durch die niedrigere Höhe wurde es wärmer und wärmer."
+      },
+      {
+        "photos": [
+          {
+            "name": "043",
+            "alt": "Dürrenbach Tal"
+          }
+        ],
+        "videos": [],
+        "text": "Dann kam ich wieder auf Alpwiesen, die oberhalb des Dürrenbachs liegen, in dessen Tal ich mich nun befand.<br />Ganz kurz ging es nun auf einer Fahrstraße, von der man aber alternativ zu den Dürrenbach Wasserfällen abzweigen kann... was ich natürlich machte."
+      },
+      {
+        "photos": [
+          {
+            "name": "044",
+            "alt": "Dürrenbach Wasserfall"
+          }
+        ],
+        "videos": [],
+        "text": "Und hier bin ich auch schon bei dem ersten \"Wasserfall\". Es sind allerdings keine natürlichen Fälle, sondern der Dürrenbach wurde mit unzähligen Steilstufen verbaut... und bei jeder diese Stufen plätscherte der Bach hinunter."
+      },
+      {
+        "photos": [
+          {
+            "name": "045",
+            "alt": "Treppenweg an Bach"
+          }
+        ],
+        "videos": [],
+        "text": "Und so ging der Weg von einer Steilstufe zur nächsten, zum Teil über Holz- oder Steintreppen. Von der kühlenden Wirkung des kalten Bachs und des Schattens hatte ich mir mehr erhofft - es war trotzdem ziemlich drückend."
+      },
+      {
+        "photos": [
+          {
+            "name": "046",
+            "alt": "Wildwasserverbauung"
+          }
+        ],
+        "videos": [],
+        "text": "Und noch eine kleine Pause an einer der Steilstufen. Auch um die Wanderschuhe vom Schlamm des Abstiegs zu befreien."
+      },
+      {
+        "photos": [
+          {
+            "name": "047",
+            "alt": "Brücke Dürrenbach"
+          }
+        ],
+        "videos": [],
+        "text": "Schließlich hatte ich das Ende der Verbauungen erreichte und verließ den Bach. Aber nicht über diese morsche Brücke, sondern in die andere Richtung. Sie diente mir nur als Fotomotiv."
+      },
+      {
+        "photos": [
+          {
+            "name": "048",
+            "alt": "Stein St. Gallen"
+          }
+        ],
+        "videos": [],
+        "text": "Das letzte Stück ging es dann wieder auf der Fahrstraße vom Morgen hinab. Ich hätte auch etwas höher an dieser Straße parken können, dann hätte ich mit diese 800m in beide Richtungen sparen können.<br />Das Auto erreichte ich um kurz vor 14:00 nach fast 6,5h Wanderung und gut 1000 Höhenmeter rauf und runter auf 17km."
+      }
+    ],
+    "outro": "Fazit: Der Gulmen ist ein aussichtsreicher Gipfel, auch wenn die meisten Berge drumherum höher sind. Etwas haben mich die 3km Straße zur Beginn gestört, aber ansonsten gab es an der Wanderung nichts auszusetzen. Sie ist auch ziemlich harmlos, man sollte aber trotzdem vernünftige Schuhe haben. Wenn man nur den Gulmen besteigen will, kann man auch von Amden bzw. von der Bergstation der Sesselbahn Mattstock aus starten. Dann ist es deutlich kürzer."
+  }
+]
