@@ -53,7 +53,7 @@ const MenuBar = styled.div`
     bottom: calc(30vh - 30px);
   }
   &.fullscreen {
-    width: 100vw;
+    left: 0px;
     right: 0px;
     top: 0px;
   }
