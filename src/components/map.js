@@ -171,7 +171,7 @@ class Map extends React.Component {
     }
     this.setState({ size });
     this.jumpToTargetTime();
-    window.ga && window.ga('send', 'event', 'resizeMap', 'size');
+    window.ga && window.ga('send', 'event', 'resizeMap', size);
   }
 
   close() {
