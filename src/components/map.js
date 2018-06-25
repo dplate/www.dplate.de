@@ -3,10 +3,12 @@ import PropTypes from 'prop-types';
 import styled, { keyframes } from 'styled-components'
 import Script from 'react-load-script'
 import resizeIcon from '../icons/resize.svg'
+import closeIcon from '../icons/close.svg'
 import mapIcon from '../icons/map.svg'
 
 const CesiumContainer = styled.div`
   position: fixed;
+  z-index: 3;
   line-height: 0.7;
   font-size: 8px;
   box-shadow: 0 0 20px 0 rgba(0,0,0,0.75);
@@ -39,29 +41,44 @@ const CesiumContainer = styled.div`
     display: none
   }
 `;
-const ResizeIcon = styled.img`
+
+const MenuBar = styled.div`
   position: fixed;
-  cursor: pointer;
-  transform: scale(-1, 1);
-  opacity: 0.5;
-  filter: invert(100%);
-  height: 24px;
-  width: 24px;
-  box-shadow: 0 0 5px 0 rgba(255,255,255,1);
-  :hover {
-    opacity: 1.0;
-  }
+  z-index: 4;
+  background-color: rgba(0, 0, 0, 0.15);
+  height: 35px;
   &.teaser {
-    right:  calc(30vw - 25px);
-    bottom: calc(30vh - 25px);
+    width: 30vw;
+    right: 5px;
+    bottom: calc(30vh - 30px);
   }
   &.fullscreen {
-    right: 5px;
-    bottom: 5px;
+    width: 100vw;
+    right: 0px;
+    top: 0px;
   }
   &.icon {
     display: none;
   }
+`;
+
+const Icon = styled.img`
+  position: absolute;
+  cursor: pointer;
+  opacity: 0.5;
+  height: 24px;
+  width: 24px;
+  top: 5px;
+  :hover {
+    opacity: 1.0;
+  }
+`;
+const ResizeIcon = Icon.extend`
+  transform: scale(-1, 1);
+  left: 5px;
+`;
+const CloseIcon = Icon.extend`
+  right: 5px;
 `;
 
 const bounceIn = keyframes`
@@ -147,17 +164,19 @@ class Map extends React.Component {
   }
 
   changeSize() {
-    if (this.state.size === 'teaser') {
-      this.setState({ size: 'fullscreen' });
-    } else if (this.state.size === 'fullscreen') {
-      this.setState({ size: 'icon' });
-    } else if (this.state.allowTeaser) {
-      this.setState({ size: 'teaser' });
-      this.jumpToTargetTime();
-    } else {
-      this.setState({ size: 'fullscreen' });
-      this.jumpToTargetTime();
+    let size = 'fullscreen';
+    if (this.state.size === 'fullscreen' ||
+      (this.state.size === 'icon' && this.state.allowTeaser)) {
+      size = 'teaser';
     }
+    this.setState({ size });
+    this.jumpToTargetTime();
+    window.ga && window.ga('send', 'event', 'resizeMap', 'size');
+  }
+
+  close() {
+    this.setState({ size: 'icon' });
+    window.ga && window.ga('send', 'event', 'closeMap', 'click');
   }
 
   jumpToTargetTime() {
@@ -414,7 +433,10 @@ class Map extends React.Component {
       <div>
         { shouldInjectCesium && <link rel="stylesheet" href={__PATH_PREFIX__ + '/Cesium/Widgets/widgets.css'} media="screen" type="text/css" /> }
         <CesiumContainer id="cesiumContainer" className={this.state.size + ' ' + this.state.mapStatus} onClick={this.props.onClick} />
-        <ResizeIcon onClick={this.changeSize.bind(this)} className={this.state.size} src={resizeIcon} />
+        <MenuBar className={this.state.size}>
+          <ResizeIcon onClick={this.changeSize.bind(this)} src={resizeIcon} />
+          <CloseIcon onClick={this.close.bind(this)} src={closeIcon} />
+        </MenuBar>
         <MapButton onClick={this.changeSize.bind(this)} className={this.state.size}>{ this.renderMapButton() }</MapButton>
         { shouldInjectCesium && <Script url={__PATH_PREFIX__ + '/Cesium/Cesium.js'} onLoad={this.initCesium.bind(this)} /> }
       </div>
