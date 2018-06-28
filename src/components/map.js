@@ -13,7 +13,7 @@ const CesiumContainer = styled.div`
   font-size: 8px;
   box-shadow: 0 0 20px 0 rgba(0,0,0,0.75);
   cursor: all-scroll;
-  .cesium-credit-image img {
+  .cesium-credit-logoContainer img {
     max-width: 5vw;
   }
   .cesium-viewer-bottom {
@@ -271,8 +271,7 @@ class Map extends React.Component {
 
   createTerrainProvider() {
     if (this.props.hideSwissTopo) {
-      return new this.Cesium.CesiumTerrainProvider({
-        url : '//assets.agi.com/stk-terrain/v1/tilesets/world/tiles',
+      return new this.Cesium.createWorldTerrain({
         requestVertexNormals: true
       })
     }
@@ -283,6 +282,8 @@ class Map extends React.Component {
   }
 
   setupViewer() {
+    this.Cesium.Ion.defaultAccessToken = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiI2YzA0MGNiZi02N2E1LTQxZGQtYjAzNi1iNDJjYTRjNTU4NzciLCJpZCI6MTgxMSwiaWF0IjoxNTMwMjA0MjIxfQ.o1Sfgaz0-I6_tAgUIO-8RV2kw7nOB-nNupVeHwsGLj0';
+
     this.viewer = new this.Cesium.Viewer('cesiumContainer', {
       terrainProvider : this.createTerrainProvider(),
       baseLayerPicker : false,
@@ -303,8 +304,8 @@ class Map extends React.Component {
         mapStyle : this.Cesium.BingMapsStyle.AERIAL,
       })
     });
-    this.viewer.scene.globe.enableLighting = true;
     this.viewer.scene.globe.depthTestAgainstTerrain = true;
+    this.viewer.scene.globe.enableLighting = true;
   }
 
   parseTrackData(gpxRaw) {
@@ -389,7 +390,7 @@ class Map extends React.Component {
         numberOfLevelZeroTilesY: 1
       }),
       rectangle: hdRectangle,
-      credit: 'geodata © swisstopo'
+      credit: new Cesium.Credit('geodata © swisstopo', true)
     });
     this.viewer.scene.imageryLayers.addImageryProvider(provider);
   }
@@ -402,7 +403,7 @@ class Map extends React.Component {
       tileMatrixSetID: 'google3857',
       subdomains: '1234',
       rectangle: hdRectangle,
-      credit: new Cesium.Credit('Datenquelle: basemap.at', null, 'https://www.basemap.at/')
+      credit: new Cesium.Credit('<a href="https://www.basemap.at/" target="_blank">Datenquelle: basemap.at</a>', true)
     });
     this.viewer.scene.imageryLayers.addImageryProvider(provider);
   }
