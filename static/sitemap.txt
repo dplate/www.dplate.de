@@ -174,3 +174,4 @@ http://www.dplate.de/alpine/kaunertal/20180506
 http://www.dplate.de/alpine/toggenburg/20180526
 http://www.dplate.de/alpine/davos/20180610
 http://www.dplate.de/alpine/toggenburg/20180616
+http://www.dplate.de/alpine/alviergruppe/20180812
