@@ -103,6 +103,10 @@
     "name": "Obersaxen-Mundaun"
   },
   {
+    "destination": "pilatus",
+    "name": "Pilatus"
+  },
+  {
     "destination": "pizol",
     "name": "Pizol",
     "skiTeaser": true,

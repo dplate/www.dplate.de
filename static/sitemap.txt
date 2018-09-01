@@ -31,6 +31,7 @@ http://www.dplate.de/alpine/malbun
 http://www.dplate.de/alpine/montafon
 http://www.dplate.de/alpine/murgseen
 http://www.dplate.de/alpine/obersaxen
+http://www.dplate.de/alpine/pilatus
 http://www.dplate.de/alpine/pizol
 http://www.dplate.de/alpine/sankt-moritz
 http://www.dplate.de/alpine/savognin
@@ -175,3 +176,4 @@ http://www.dplate.de/alpine/toggenburg/20180526
 http://www.dplate.de/alpine/davos/20180610
 http://www.dplate.de/alpine/toggenburg/20180616
 http://www.dplate.de/alpine/alviergruppe/20180812
+http://www.dplate.de/alpine/pilatus/20180826
