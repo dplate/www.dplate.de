@@ -1,0 +1,624 @@
+[
+  {
+    "destination": "praettigau",
+    "date": "d20180908",
+    "type": "hike",
+    "track": true,
+    "timeShift": -60,
+    "detailMap": "swiss",
+    "shortTitle": "Falknis",
+    "title": "Älplibahn - Falknis",
+    "title3d": {
+      "offsetY": 4.0,
+      "fontSize": 6.0
+    },
+    "intro": "Bei meinen Wanderungen auf den Naafkopf und den Rappenstein in Liechtenstein fiel der Blick immer zum 2560m hohen Falknis. Von Liechtenstein aus lässt er sich auf normalem Bergweg nicht besteigen, sondern nur von Süden aus. Aber auch von dort ist es nicht einfach, einen geeineten Ausgangspunkt zu finden. Zum Glück gibt es die kleine Älplibahn, die von Malans (im 600m hohen Rheintal) aus bis auf fast 1800m hinauffährt und damit den Falknis an einem Tag erwanderbar macht.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Talstation Älplibahn"
+          }
+        ],
+        "text": "Die Älplibahn besteht aus zweimal zwei kleinen Gondeln, die pro Fahrt acht Personen befördern können. Sie fährt alle 15min und schafft damit in der Stunde nur maximal 32 Personen. Deshalb muss man die Fahrt vorab telefonisch reservieren. Ich habe mich für 8:00 morgens eintragen lassen. Dass man auch die Talfahrt festlegen muss ist etwas schwierig, wenn man nicht genau weiß, wie lange die Wanderung dauern würde. Ich habe mir etwas Spielraum gegeben und 16:30 gewählt.<br />Die Berg- und Talfahrt kostete recht günstige 18CHF und Parkgebühren müssen auch keine gezahlt werden.<br />Da ich schon 15min zu früh dort war und am Morgen auch noch nicht viel los war, konnte ich schon um 7:45 nach oben fahren... sogar in einer Gondel für mich alleine (abgesehen vom Kuchen für das Restaurant)."
+      },
+      {
+        "photos": [
+          {
+            "name": "002",
+            "alt": "Älplibahn Malans"
+          },
+          {
+            "name": "003",
+            "alt": "Seilbahn Malans"
+          }
+        ],
+        "text": "Zuerst geht die Bahn flach über den Parkplatz hinweg, dann wird sie aber recht steil. Dabei fährt sie aber immer nur knapp über dem Boden und die Stützen sind sehr niedrig. An einer Stelle berührte die Bahn sogar die langen Grashalme am Boden.<br />Den Höhenunterschied von 1200m erledigt sie überraschend schnell, in knapp 14min ist man oben."
+      },
+      {
+        "photos": [
+          {
+            "name": "004",
+            "alt": "Bergstation Älplibahn"
+          }
+        ],
+        "text": "Die Bergstation (und das kleine Restaurant) befindet sich mitten im bewaldeten Hang. Daran kann man erkennen, dass die Bahn ursprünglich während des 2. Weltkriegs für das Militär gebaut wurde und nicht für touristische Zwecke."
+      },
+      {
+        "photos": [
+          {
+            "name": "005",
+            "alt": "Aussicht Älplibahn"
+          }
+        ],
+        "text": "Zuerst führt der Wanderweg auf einem breiten Weg entlang des Hangs ohne große Steigungen nach Norden. Noch lag hier alles im Schatten."
+      },
+      {
+        "photos": [
+          {
+            "name": "006",
+            "alt": "Glegghorn"
+          },
+          {
+            "name": "007",
+            "alt": "Spazierweg Älplibahn"
+          }
+        ],
+        "text": "Schnell verlässt man aber den Wald und kommt auf Weiden, die unterhalb des eindrucksvollen Glegghorn liegen. Dieser Berg liegt genau zwischen der Seilbahnstation und meinem Ziel, dem Falknis. Auf meiner Wanderung habe ich ihn rechts herum umgangen."
+      },
+      {
+        "photos": [
+          {
+            "name": "008",
+            "alt": "Vorderalp"
+          },
+          {
+            "name": "009",
+            "alt": "Sonnenaufgang Vilan"
+          }
+        ],
+        "text": "Auf einem Fahrweg ging es nun an der Vorderalp vorbei und dann anschließend in einer Serpentine den Grashang hinauf. Der Blick viel dabei zurück auf die ersten Sonnenstrahlen des Tages hinter dem Vilan (dem Berg in der Mitte)."
+      },
+      {
+        "photos": [
+          {
+            "name": "010",
+            "alt": "Alp über Rheintal"
+          }
+        ],
+        "text": "Der Alpweg führt über einen kleinen Pass auf rund 2000m, den auch ich überqueren musste. Hier hatte ich fast die Höhe erreicht und konnte beim Blick zurück ins Rheintal schauen."
+      },
+      {
+        "photos": [
+          {
+            "name": "011",
+            "alt": "Maienfelder Alpen"
+          }
+        ],
+        "text": "Und nun bin ich oben auf dem Pass und konnte auf der anderen Seite ins Prättigau blicken, genauer ins Tal der Maienfelder Alpen. Links immer noch das Glegghorn.<br />Nun musste ich ein kleines Stück absteigen, um dann in das Fläscher Tal in der Mitte des Fotos abzubiegen."
+      },
+      {
+        "photos": [
+          {
+            "name": "012",
+            "alt": "Calanda"
+          }
+        ],
+        "text": "Tele zurück über den Pass zur Calanda auf der anderen Seite des Rheintals."
+      },
+      {
+        "photos": [
+          {
+            "name": "013",
+            "alt": "Pferde auf Alp"
+          }
+        ],
+        "text": "Die ersten Meter bergab ging es noch immer auf dem Fahrweg, aber an dieser Stelle bog ich nun nach links auf einen richtigen Wanderweg ab. Aufmerksam beobachtet von diesen Pferden und Kühen."
+      },
+      {
+        "photos": [
+          {
+            "name": "014",
+            "alt": "Wandern Prättigau"
+          },
+          {
+            "name": "015",
+            "alt": "Alpental"
+          },
+          {
+            "name": "016",
+            "alt": "Wanderweg Älpi Fläscher Tal"
+          }
+        ],
+        "text": "Der Weg ging nun einfach, aber recht matschig, am Hang unterhalb des Glegghorns entlang. Die Morgensonne tauchte das Tal in ein schönes Licht."
+      },
+      {
+        "photos": [
+          {
+            "name": "017",
+            "alt": "Bergsee in Morgensonne"
+          }
+        ],
+        "text": "Dann erreichte ich den Eingang in das Fläscher Tal, wo auch gleich der erste der drei Seen dieses Tals auf mich wartete - der Vorderst See.<br />Dieser See sieht sehr malerisch aus und ist gesäumt von Lärchen. Mit Herbstfärbung sicher auch ein schöner Anblick."
+      },
+      {
+        "photos": [
+          {
+            "name": "018",
+            "alt": "Fläscher Tal"
+          }
+        ],
+        "text": "Blick das einsame Fläscher Tal hinauf. Links das umwanderte Glegghorn und hinten/rechts der Gipfel des Falknis.<br />Bis zu dem Pass in der Mitte des Bilds ging es nun in diesem Tal hinauf. Inzwischen war es 9:30, ich war also 1,5h bis hier unterwegs."
+      },
+      {
+        "photos": [
+          {
+            "name": "019",
+            "alt": "Perfekte Spiegelung im See"
+          },
+          {
+            "name": "020",
+            "alt": "Mittler See"
+          }
+        ],
+        "text": "Über einen sehr matschigen Weg erreichte ich schnell den zweiten See, den Mittler See. Da kein Wind war, konnte ich diese perfekte Reflexion fotografieren. :) Ich war dort übrigens völlig alleine - während der gesamten Wanderung war mir noch niemand begegnet. Ich machte nun erstmal eine erste Pause."
+      },
+      {
+        "photos": [
+          {
+            "name": "021",
+            "alt": "Wandern über Alpwiesen"
+          },
+          {
+            "name": "022",
+            "alt": "Walenbach"
+          }
+        ],
+        "text": "Nach dem Mittler See und der kleinen Alp Obersäss wurde der Weg deutlich trockener und führte über Wiesen und entlang des Walenbachs das Tal hinauf."
+      },
+      {
+        "photos": [
+          {
+            "name": "023",
+            "alt": "Oberst See"
+          },
+          {
+            "name": "024",
+            "alt": "Seen im Fläscher Tal"
+          }
+        ],
+        "text": "Und dann ging es vorbei am dritten und letzten See, dem Oberst See. Ich finde ja, man hätte diesen schönen Seen auch originellere Namen geben können - Vorderst, Mittler und Oberst ist aber zumindest eindeutig. ;)"
+      },
+      {
+        "photos": [
+          {
+            "name": "025",
+            "alt": "Fläscher Tal Wanderung"
+          }
+        ],
+        "text": "Nachdem Oberst See geht es steiler bergauf, aber alles harmlos. Die Temperatur war inzwischen recht warm, so dass mal wieder eine kleine Getränkepause nötig war. Dabei der Blick zurück durch das Tal."
+      },
+      {
+        "photos": [
+          {
+            "name": "026",
+            "alt": "Grauspitz"
+          }
+        ],
+        "text": "Über dem Tal thront die 2600m hohe Grauspitz, auf die aber kein Weg führt. Dafür polterten von dort Steine hinab - wahrscheinlich ausgelöst von Gämsen oder Steinböcken, die ich aber nicht erkennen konnte. Um mich herum pfiffen dafür die Murmeltiere, die aber jetzt noch zu flink für meine Kamera waren."
+      },
+      {
+        "photos": [
+          {
+            "name": "027",
+            "alt": "Wegweiser Fläscher Fürggli"
+          }
+        ],
+        "text": "Schließlich erreichte ich den Pass am Ende des Tals, das Fläscher Fürggli. Auf der anderen Seite geht es steil bergab ins Rheintal, trotzdem kommt von dort ein blau/weißer Weg von der Enderlinhütte hinauf. Sah von hier oben aber nicht sehr einladend aus.<br />Nun war ich 2,5h unterwegs und zum Gipfel des Falknis war noch eine Stunde angegeben. Etwas überraschend, denn das Gipfelkreuz sah schon verführerisch nah aus. Aber es fehlten auch noch 300 Höhenmeter."
+      },
+      {
+        "photos": [
+          {
+            "name": "028",
+            "alt": "Taminabrücke"
+          }
+        ],
+        "text": "Tele zur 2017 neu gebauten Taminabrücke auf der anderen Seite des Rheintals. Mit einer Spannweite von 260m ist sie die längste Bogenbrücke der Schweiz."
+      },
+      {
+        "photos": [
+          {
+            "name": "029",
+            "alt": "Fläscher Fürggli"
+          },
+          {
+            "name": "030",
+            "alt": "Schwarzhorn"
+          }
+        ],
+        "text": "Ab dem Fläscher Fürggli biegt der Weg nach rechts ab und geht nun (mehr oder weniger) auf dem breiten Grat hinauf zum Falknis. Hier der Blick zurück zum Fläscher Fürggli, dem Schwarzhorn (vorne) und dem bereits bekannten Glegghorn (hinten)."
+      },
+      {
+        "photos": [
+          {
+            "name": "031",
+            "alt": "Weg Fläscher Fürggli Falknis"
+          },
+          {
+            "name": "032",
+            "alt": "Wanderweg Falknis"
+          }
+        ],
+        "text": "Der Weg geht zwar zügig bergauf, aber bleibt relativ einfach. Die Hände habe ich nicht gebraucht und es ist auch nicht ausgesetzt."
+      },
+      {
+        "photos": [
+          {
+            "name": "033",
+            "alt": "Aufstieg Falknis"
+          }
+        ],
+        "text": "Das Gipfelkreuz kam nur sehr langsam näher. Das letzte Stück wurde es dann geröllig."
+      },
+      {
+        "photos": [
+          {
+            "name": "034",
+            "alt": "St. Galler Rheintal"
+          }
+        ],
+        "text": "Immer noch nicht ganz oben konnte ich aber schon das erste Mal nach Norden in das Rheintal herabblicken. Auf dieser Seite fällt der Falknis steil bergab, dafür ist der Blick um so beeindruckender. In der Bildmitte übrigens der vor einem Monat bestiegene <a href='/alpine/alviergruppe/20180812'>Alvier</a>."
+      },
+      {
+        "photos": [
+          {
+            "name": "035",
+            "alt": "Gipfel Falknis"
+          }
+        ],
+        "text": "Der eigentliche Gipfel ist dann doch noch mal steiler, aber nichts, was mich jetzt noch aufhalten konnte. Man kann hier aber schon gut erkennen, wie steil der Falknis auf der Nordseite ist."
+      },
+      {
+        "photos": [
+          {
+            "name": "036",
+            "alt": "Lawena vom Falknis"
+          }
+        ],
+        "text": "Um 11:15 hatte ich dann den Gipfel des 2560m hohen Falknis erreicht. Angsteinflösend der extreme Blick hinab ins 1500m hohe Lawena Tal unterhalb der Nordflanke."
+      },
+      {
+        "photos": [
+          {
+            "name": "037",
+            "alt": "Prättigau vom Falknis"
+          }
+        ],
+        "text": "Nach Osten ist es nicht so steil, aber die Aussicht war trotzdem wunderbar. Hier kann man gut das Fläscher Tal sehen, durch das ich hinaufgekommen war. Rechts wirkte das Glegghorn nun ziemlich mickrig. Links die Grauspitz. "
+      },
+      {
+        "photos": [
+          {
+            "name": "038",
+            "alt": "Säntis über Wolken"
+          }
+        ],
+        "text": "Tele zum <a href='/alpine/alpstein'>Alpstein-Gebirge</a> und dem ziemlich gleich hohen Säntis in der Mitte. Dort hingen noch deutlich mehr Wolken als bei mir."
+      },
+      {
+        "photos": [
+          {
+            "name": "039",
+            "alt": "Falknis Naafkopf"
+          }
+        ],
+        "text": "Blick die kantige Bergkette zwischen Falknis und <a href='/alpine/malbun/20161016'>Naafkopf</a> entlang."
+      },
+      {
+        "photos": [
+          {
+            "name": "040",
+            "alt": "Radaufis vom Falknis"
+          }
+        ],
+        "text": "Tele zu den drei Seen des Fläscher Tals"
+      },
+      {
+        "photos": [
+          {
+            "name": "041",
+            "alt": "Rappenstein vom Falknis"
+          }
+        ],
+        "text": "Blick über Lawena hinweg zum <a href='/alpine/malbun/20170716'>Rappenstein</a> in der Bildmitte. Immer wieder interessant bekannte Gipfel von einem völlig anderen Blickwinkel aus zu sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "042",
+            "alt": "Falknis"
+          }
+        ],
+        "text": "Das Gipfelkreuz des Falknis mit dem 2000m tieferen Rheintal im Hintergrund. Der Blick ist in alle Richtungen uneingeschränkt."
+      },
+      {
+        "photos": [
+          {
+            "name": "043",
+            "alt": "Panorama Falknis"
+          }
+        ],
+        "text": "Jetzt noch der Blick nach Süden. Rechts das Rheintal, in der Mitte wieder das Glegghorn und dahinter der Vilan."
+      },
+      {
+        "photos": [
+          {
+            "name": "044",
+            "alt": "Bergdohle auf Felskante"
+          }
+        ],
+        "text": "Ich war noch immer völlig alleine. Die einzige Gesellschaft bei meiner Pause auf dem Gipfel war diese Bergdohle, die ganz offensichtlich keine Höhenangst hatte. Unten der Ort Balzers."
+      },
+      {
+        "photos": [
+          {
+            "name": "045",
+            "alt": "Alpen mit Wolken"
+          }
+        ],
+        "text": "Tele zu den einzigen sichtbaren Schneeresten. Von links nach rechts: Ringelspitz, Piz Segnas, Tödi, Clariden und Titlis."
+      },
+      {
+        "photos": [
+          {
+            "name": "046",
+            "alt": "Grauspitz vom Falknis"
+          }
+        ],
+        "text": "Um 11:30 machte ich mich nach den vielen Fotos schon wieder auf den Abstieg - nun mit Jacke, da nun ein doch etwas kühler Wind aufkam. Hier der Blick an der Grauspitz vorbei zur <a href='/alpine/brandnertal/20150829'>Schesaplana</a>."
+      },
+      {
+        "photos": [
+          {
+            "name": "047",
+            "alt": "Abstieg Falknis"
+          },
+          {
+            "name": "048",
+            "alt": "Bergweg Falknis"
+          }
+        ],
+        "text": "Bis zum Vorderst See ging nun der Weg exakt meinem Aufstieg zurück. Eine richtige Rundwanderung ist auf den Falknis leider kaum möglich. Aber man schaut dabei ja in die andere Richtung und die Landschaft dort ist einfach toll."
+      },
+      {
+        "photos": [
+          {
+            "name": "049",
+            "alt": "Serpentinenweg über Abgrund"
+          }
+        ],
+        "text": "Beim Aufstieg war mir diese Stelle gar nicht aufgefallen, Von oben gesehen war der Abgrund dann doch etwas näher. Aber der Weg ist breit und gut zu gehen und wirklich nicht besonders gefährlich."
+      },
+      {
+        "photos": [
+          {
+            "name": "050",
+            "alt": "Alpinweg Falknis"
+          }
+        ],
+        "text": "Etwas unterhalb des Gipfel zweigt der Blau/Weiße Weg ins Lawena Tal ab. Wie der genau aber um den Falknis herumführt, konnte ich von hier nicht sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "051",
+            "alt": "Panoramaweg"
+          },
+          {
+            "name": "052",
+            "alt": "Churer Rheintal"
+          }
+        ],
+        "text": "Die Aussicht ins Churer Rheintal beim Abstieg zum Fläscher Fürggli war sehr schön. Nun begegneten mir auch die ersten anderen Wanderer des Tages, die aber noch den Aufstieg vor sich hatten."
+      },
+      {
+        "photos": [
+          {
+            "name": "053",
+            "alt": "Murmeltier"
+          },
+          {
+            "name": "054",
+            "alt": "Murmeltier im Fläscher Tal"
+          }
+        ],
+        "text": "Unterhalb des Fläscher Fürggli sah ich ein Murmeltier in seinem Loch verschwinden. Also setzte ich mich nebendran und wartete. Nach etwas zögern kam es dann wieder heraus für diese Fotos."
+      },
+      {
+        "photos": [
+          {
+            "name": "055",
+            "alt": "Oberst See"
+          },
+          {
+            "name": "056",
+            "alt": "Mittler See"
+          }
+        ,
+          {
+            "name": "057",
+            "alt": "Vorderst See"
+          }
+        ],
+        "text": "Natürlich ging es auch wieder an den drei Seen vorbei, die nun in der Mittagssonne ein anderes Bild ergaben."
+      },
+      {
+        "photos": [
+          {
+            "name": "058",
+            "alt": "Bergsee mit Lärche"
+          },
+          {
+            "name": "059",
+            "alt": "See im Fläscher Tal"
+          }
+        ],
+        "text": "Noch zwei Impressionen vom Vorderst See. Fotogener kann es eigentlich fast nicht sein. Nun war es 13:00 und ich gönnte mir noch eine weitere Pause... hatte ich doch noch 3,5h Zeit bis zu meiner Fahrt mit der Seilbahn."
+      },
+      {
+        "photos": [
+          {
+            "name": "060",
+            "alt": "Maienfelder Alpen"
+          }
+        ],
+        "text": "Da ich noch so viel Zeit hatte, bog ich beim Ausgang aus dem Fläscher Tal von meinem Hinweg ab und stieg die 100m zur hier sichtbaren Fläscher Alp ab, anstatt rechts wieder auf gleicher Höhe am Hang abzukürzen."
+      },
+      {
+        "photos": [
+          {
+            "name": "061",
+            "alt": "Sassauna"
+          }
+        ],
+        "text": "Tele während des Abstiegs ins Prättigau zur 2300m hohen Sassauna."
+      },
+      {
+        "photos": [
+          {
+            "name": "062",
+            "alt": "Fläscher Alp Sarina"
+          }
+        ],
+        "text": "Miniaturaufnahme der Fläscher Alp."
+      },
+      {
+        "photos": [
+          {
+            "name": "063",
+            "alt": "Fahrweg Fläscher Alp"
+          }
+        ],
+        "text": "Zur Fläscher Alp führt von Seewies ein Fahrweg durch das schöne Tal hinauf. Auch ein möglicher Aufstieg zum Falknis, aber mit mehr Höhenmetern verbunden."
+      },
+      {
+        "photos": [
+          {
+            "name": "064",
+            "alt": "Alpwirtschaft"
+          }
+        ],
+        "text": "Die 100m Abstieg zur Fläscher Alp (rechts) musste ich mit 100m schweißtreibenden Aufstieg den Fahrweg hinauf zur Alp Bad (links) büßen. Von dort bin ich nun den Hang entlang gelaufen. Ganz links übrigens der Pass, den ich für den Hinweg gewählt hatte. Am Gegenhang kann man auch den Weg erkennen, der den (unnötigen) Abstieg umgeht."
+      },
+      {
+        "photos": [
+          {
+            "name": "065",
+            "alt": "Wanderweg Ober Tritt"
+          }
+        ],
+        "text": "Der Weg den Hang entlang ist breit ausgebaut, am Ende ging es aber noch mal steiler auf den Grat hinauf."
+      },
+      {
+        "photos": [
+          {
+            "name": "066",
+            "alt": "Tümpel vor Vilan"
+          }
+        ],
+        "text": "Auf dem Grat erreichte ich diesen Tümpel. Dahinter tauchte der Vilan auf (links). Ich musste nun also irgendwie nach rechts runter zur Älplibahn."
+      },
+      {
+        "photos": [
+          {
+            "name": "067",
+            "alt": "Ruchenberg"
+          }
+        ],
+        "text": "Zuerst aber noch mal eine Pause im warmen Gras. Inzwischen war ich auch schon ziemlich erschöpft und der neuerliche Aufstieg am Ende der Wanderung war anstrengend.<br />Der Blick hier wieder zur Calanda."
+      },
+      {
+        "photos": [
+          {
+            "name": "068",
+            "alt": "Wanderung über Wiesen"
+          },
+          {
+            "name": "069",
+            "alt": "Herbstwanderung"
+          }
+        ],
+        "text": "Die Landschaft dort oben mit den Grashügeln war prinzipiell sehr schön, aber der Weg war zum Teil sehr schlammig und und nicht immer konnte man die Drecklöcher über das Gras umgehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "070",
+            "alt": "Aufstieg Vilan"
+          }
+        ],
+        "text": "Durch dieses sanfte moorige Tal verlief der Abstieg. Nun erreichte ich den Hauptweg auf den Vilan, wo ein paar mehr Wanderer unterwegs waren."
+      },
+      {
+        "photos": [
+          {
+            "name": "071",
+            "alt": "Vorderalp"
+          },
+          {
+            "name": "072",
+            "alt": "Mittelsäss"
+          }
+        ],
+        "text": "Nun wurde die Landschaft wieder vertrauter, konnte ich doch den Fahrweg wieder sehen, den ich für den Aufstieg zum Pass am Morgen gewählt hatte. Mein Weg ging aber schön über die Wiesen hinunter und führte nur kurz auf einer Straße."
+      },
+      {
+        "photos": [
+          {
+            "name": "073",
+            "alt": "Aussichtsbank"
+          }
+        ],
+        "text": "Schnell erreichte ich den Panoramweg der Älplibahn, nun war es nur noch ein paar Minuten bis zur Bergstation."
+      },
+      {
+        "photos": [
+          {
+            "name": "074",
+            "alt": "Älplibahn Rheintal"
+          }
+        ],
+        "text": "Schlußendlich war ich um 15:30 an der Bergstation der Älpibahn. Obwohl ich mir auf dem Rückweg viel Zeit gelassen hatte, also eine Stunde zu früh. Ich fragte nach, ob ich schon früher hinunterfahren konnte, aber bis 16:15 war alles ausgebucht. Also setzte ich mich auf eine Bank und genoß einfach die schöne Aussicht und das perfekte Wetter."
+      },
+      {
+        "photos": [
+          {
+            "name": "075",
+            "alt": "Restaurant Älplibahn"
+          }
+        ],
+        "text": "Ich hätte auch das Restaurant der von einem Verein betriebenen Älplibahn in Anspruch nehmen können, aber ich hatte sowieso noch etwas Proviant im Rucksack."
+      },
+      {
+        "photos": [
+          {
+            "name": "076",
+            "alt": "Wasserfall Ülltobel"
+          }
+        ],
+        "text": "Blick aus der engen und heißen Gondel der Älplibahn auf einen Wasserfall im benachbarten Ülltobel."
+      },
+      {
+        "photos": [
+          {
+            "name": "077",
+            "alt": "Trasse Älplibahn"
+          }
+        ],
+        "text": "Um 16:30 war ich dann am Auto. Hier noch einmal der Blick die Trasse der Älplibahn hinauf."
+      }
+    ],
+    "outro": "Fazit: Der Falknis ist ein lohnendes Ziel einer Wanderung. Der Weg ist relativ einfach, die Seen schön und die Aussicht super, aber acht Stunden sollte man für die Tour schon einplanen. Ich war 7,5h unterwegs, um die 18km und ca. 1200 Höhenmeter zurückzulegen. Etwas nervig empfinde ich die (verständliche) Reservierung der Älplibahn, hat man dadurch doch beim Wandern Termine einzuhalten..."
+  }
+]

@@ -177,3 +177,4 @@ http://www.dplate.de/alpine/davos/20180610
 http://www.dplate.de/alpine/toggenburg/20180616
 http://www.dplate.de/alpine/alviergruppe/20180812
 http://www.dplate.de/alpine/pilatus/20180826
+http://www.dplate.de/alpine/praettigau/20180908
