@@ -1,0 +1,593 @@
+[
+  {
+    "destination": "malbun",
+    "date": "d20181013",
+    "type": "hike",
+    "track": true,
+    "detailMap": "swiss",
+    "shortTitle": "Fürstensteig",
+    "title": "Fürstensteig - Garsellikopf",
+    "title3d": {
+      "offsetY": 1.0,
+      "fontSize": 7.0
+    },
+    "intro": "An diesem Samstag galt es eine große Lücke in meinen Wanderzielen zu schließen: Ich wollte den bekannten Fürstensteig in Liechtenstein machen.<br />Als Start wählte ich den bereits 1500m hohen Parkplatz in Gaflei oberhalb des Rheintals. Das Parken ist dort gratis, aber es sind nicht sehr viele Plätze verfügbar. Da ich aber bereits um 7:45 dort ankam, war es für mich kein Problem.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Parkplatz Gaflei"
+          }
+        ],
+        "text": "Vom Parkplatz in Gaflei muss man noch rund 200m bis zum Einstieg in den Fürstensteig hochsteigen. Hier der Blick zurück zum Parkplatz und der Baustelle des Clinicum Alpinum, einer Privatklinik. Außerdem gibt es dort noch einen Aussichtsturm, der allerdings geschlossen war."
+      },
+      {
+        "photos": [
+          {
+            "name": "002",
+            "alt": "Wanderweg Gaflei"
+          }
+        ],
+        "text": "Der Wanderweg von Gaflei hinauf zum Fürstensteig ist einfach und geht nicht sehr steil in zwei Serpentinen den Hang hinauf."
+      },
+      {
+        "photos": [
+          {
+            "name": "003",
+            "alt": "Fürstensteig Steinschlag"
+          }
+        ],
+        "text": "Nach eine halben Stunde erreichte ich den Eingang zum Fürstensteig. Das Schild deutet bereits an, dass dieser Weg durch ein ziemlich bröckeliges Gestein angelegt wurde."
+      },
+      {
+        "photos": [
+          {
+            "name": "004",
+            "alt": "Felsenweg"
+          }
+        ],
+        "text": "Sobald das Schild passiert wurde, geht es gleich spektakulär los. Der Weg ist meistens knapp 1m breit und wurde in den Fels geschlagen. Auf der linken Seite geht es steil rund 1200 Höhenmeter bis in Rheintal hinab."
+      },
+      {
+        "photos": [
+          {
+            "name": "005",
+            "alt": "Aussichtspunkt Fürstensteig"
+          }
+        ],
+        "text": "Nur an wenigen Stellen ist der Weg so gut abgesichert, wie hier an diesem Aussichtspunkt. Aber es handelt sich ingesamt um einen normalen Bergweg, es sind also keine besonderen Sicherungen notwendig - nur etwas schwindelfrei sollte man natürlich sein."
+      },
+      {
+        "photos": [
+          {
+            "name": "006",
+            "alt": "Gaflei Fürstensteig"
+          }
+        ],
+        "text": "Nach den ersten umwanderten Felsnasen der Blick zurück. Unten kann man meinen Startpunkt Gaflei sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "007",
+            "alt": "Holzbrücke Fürstensteig"
+          }
+        ],
+        "text": "Zwischen den Felsnasen geht es durch kleine Schluchten, in denen sich der Schotter den Weg ins Rheintal sucht. Die Steilheit kommt hier nicht so ganz raus."
+      },
+      {
+        "photos": [
+          {
+            "name": "008",
+            "alt": "Wanderweg durch Fels"
+          }
+        ],
+        "text": "Ab und zu gibt es ein rostiges Geländer, aber meist waren an den engeren Stellen Drahtseile an den Fels angebracht."
+      },
+      {
+        "photos": [
+          {
+            "name": "009",
+            "alt": "In Fels geschlagener Weg"
+          }
+        ],
+        "text": "Blick zurück auf einen typischen Abschnitt des Wegs, der mir sehr viel Spaß machte."
+      },
+      {
+        "photos": [
+          {
+            "name": "010",
+            "alt": "Fürstensteig gefährlich"
+          },
+          {
+            "name": "011",
+            "alt": "Fürstensteig schwierig"
+          }
+        ],
+        "text": "Hier das ausgesetzteste und schmalste Stück des Fürstensteigs. Alles gut machbar, aber hier musste ich schon mit Bedacht gehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "012",
+            "alt": "Felsenweg Liechtenstein"
+          }
+        ],
+        "text": "Der Steig scheint gar kein Ende zu nehmen, immer wieder geht es um neue Felsrippen. Dabei geht es die ganze Zeit sanft bergauf, insgesamt aber nur rund 150 Höhenmeter."
+      },
+      {
+        "photos": [
+          {
+            "name": "013",
+            "alt": "Fürstensteig abgerutscht"
+          }
+        ],
+        "text": "Hier kann man erahnen, welchen Wartungsaufwand dieser Weg hat. Mittig vorne kann man (freistehend) die Reste einer betonierten Treppenstufe sehen. Der Weg drumherum ist komplett weggerutscht und ein Ersatz wurde links in den Fels geschlagen. Lang wird aber auch das nichts halten."
+      },
+      {
+        "photos": [
+          {
+            "name": "014",
+            "alt": "Fürstensteig"
+          },
+          {
+            "name": "015",
+            "alt": "Wanderung Fürstensteig"
+          }
+        ],
+        "text": "Jeweils der Blick zurück. Auf dem zweiten Bild kann man einen großen Teil des Fürstensteigs erkennen und man bekommt auch einen Eindruck über die Größenverhältnisse. Ein sehr beeindruckender Weg."
+      },
+      {
+        "photos": [
+          {
+            "name": "016",
+            "alt": "Drahtseil Fürstensteig"
+          }
+        ],
+        "text": "Gegen Ende des Steigs ändert sich der Verlauf etwas, denn dann geht es den Fels hinauf. Hier auf einem gut gesicherten Grat."
+      },
+      {
+        "photos": [
+          {
+            "name": "017",
+            "alt": "Holzweg"
+          },
+          {
+            "name": "018",
+            "alt": "Serpentinen Fürstensteig"
+          }
+        ],
+        "text": "Und dann geht es in einer Serpentine weiter rauf. Man beachte beim ersten Bild, wie Teile der Holzbrücke von herabfallenden Felsen weggeschlagen wurden. Also bei Regen würde ich dort nicht gehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "019",
+            "alt": "Gafleisattel"
+          }
+        ],
+        "text": "Dann schließlich erreichte ich den Gafleisattel am Ende des Fürstensteigs. Für den Steig hatte ich 45min gebraucht: Ich habe mir aber auch viel Zeit gelassen, denn der war das Hauptziel meiner Wanderung."
+      },
+      {
+        "photos": [
+          {
+            "name": "020",
+            "alt": "Wanderweg Fürstensteig Kuegrat"
+          }
+        ],
+        "text": "Hier kann man nun den weiteren Verlauf des Wegs vom Fürstensteig zum Kuegrat sehen. Ich hatte vor, so weit ich Lust hätte, diesen Weg weiterzugehen. Bis zum Gafleisattel musste ich aber auf jeden Fall den selben Weg wieder zurück, da es im weiteren Verlauf nur einen Wanderweg gibt.<br />Alternativ könnte man auch den Grat über die Drei Schwestern auslaufen und mit dem Bus zurück."
+      },
+      {
+        "photos": [
+          {
+            "name": "021",
+            "alt": "Rotes Herbstlaub"
+          }
+        ],
+        "text": "Ich genoss nach dem schattigen Fürstensteig erst einmal die Sonnenstrahlen und die Herbstfarben."
+      },
+      {
+        "photos": [
+          {
+            "name": "022",
+            "alt": "Kleine Alp"
+          }
+        ],
+        "text": "Miniaturaufnahme der kleinen Alp Garsälli unterhalb des Grats."
+      },
+      {
+        "photos": [
+          {
+            "name": "023",
+            "alt": "Wanderweg durch Latschenkiefer"
+          }
+        ],
+        "text": "Der Weg war nun sehr einfach und ging entlang des mit Latschenkiefern bewachsenen Hangs. Da es zu dem noch windstill war, heizte die Sonne ordentlich ein und der Schweiß tropfte - obwohl es nur sanft bergauf ging."
+      },
+      {
+        "photos": [
+          {
+            "name": "024",
+            "alt": "Panorama Gafleispitz"
+          }
+        ],
+        "text": "Der eigentliche Wanderweg führt an der Gafleispitz nur vorbei. Da ich kein konkretes Ziel mehr hatte, gönnte ich mir den kleinen (unbezeichneten) Abstecher auf diesen Gipfel und legte meine erste längere Pause ein. Immer noch sehr steil geht es auf der Westseite des Grats runter ins Rheintal. Rechts ist der <a href='/alpine/alpstein'>Alpstein</a> und links die <a href='/alpine/alviergruppe'>Alviergruppe</a> zu sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "025",
+            "alt": "Alpspitz"
+          }
+        ],
+        "text": "Blick während der Pause zurück zum Gafleisattel (Bildmitte). Rechts durch den Fels führte der Fürstensteig. Beim Rückweg werde ich vom Gafleisattel nach links hochsteigen und die Alpspitz hinter dem Gafleisattel mitnehmem."
+      },
+      {
+        "photos": [
+          {
+            "name": "026",
+            "alt": "Wanderweg Kuegrat"
+          }
+        ],
+        "text": "Nach der Gafleispitz geht der Weg ein kurzes Stück auf der steileren Westseite des Grats. Der Temperaturunterschied zwischen schattigem West- und sonnigem Osthang war sehr extrem."
+      },
+      {
+        "photos": [
+          {
+            "name": "027",
+            "alt": "Gratweg Liechtenstein"
+          }
+        ],
+        "text": "Nach der Westseite geht es kurz direkt auf dem Grat, aber der Weg ist breit genug. Hier der Blick zurück."
+      },
+      {
+        "photos": [
+          {
+            "name": "028",
+            "alt": "Garsellitörm"
+          }
+        ],
+        "text": "Der höchste Gipfel des Grats ist der 2122m hohe Kuegrat. Bevor ich diesen erreichte, konnte ich schon kurz den weiteren Verlauf des Grats einsehen, der nachfolgend deutlich felsiger wird. Links der Garsellikopf und rechts davon der Garsellitörm."
+      },
+      {
+        "photos": [
+          {
+            "name": "029",
+            "alt": "Aussichtsbank Kuegrat"
+          }
+        ],
+        "text": "Kurz unterhalb des Gipfels des Kuegrats steht überraschend diese spektakuläre Aussichtbank."
+      },
+      {
+        "photos": [
+          {
+            "name": "030",
+            "alt": "Aussicht Kuegrat"
+          }
+        ],
+        "text": "Den Gipfel des Kuegrat erreichte ich um 10:00, und war damit erst gut 2h unterwegs. Da der weitere Weg auf den Garsellikopf (rechts) sehr interessant aussah, beschloss ich noch dort hin zu laufen - auch wenn ich dafür knapp 100m runter und wieder hoch musste."
+      },
+      {
+        "photos": [
+          {
+            "name": "031",
+            "alt": "Garsellikopf"
+          }
+        ],
+        "text": "Tele zum Garsellikopf. Der Weg führt dort erst rechts am Fels vorbei und dann über steile Treppen hinauf."
+      },
+      {
+        "photos": [
+          {
+            "name": "032",
+            "alt": "Bergweg"
+          },
+          {
+            "name": "033",
+            "alt": "Weg durch Felsscharte"
+          }
+        ],
+        "text": "Nach dem Abstieg vom Kuegrat geht der Weg sehr schön über den Grat. Was hier so gefährlich aussieht, war es aber eigentlich nicht.<br />Blick durch die Felsen hindurch ins Rheintal. Hinten das Ostende des Bodensees mit ein paar wenigen Nebelresten."
+      },
+      {
+        "photos": [
+          {
+            "name": "034",
+            "alt": "Drahtseil Garsellikopf"
+          },
+          {
+            "name": "035",
+            "alt": "Garsellikopf gefährlich"
+          }
+        ],
+        "text": "Der eigentliche Aufstieg auf den Garsellikopf hat es dann aber doch in sich. Er ist deutlich schwieriger als der eigentliche Fürstensteig und man braucht auf jeden Fall die Hände. Die meiste Zeit hat man aber ein Drahtseil, an dem man sich festhalten kann."
+      },
+      {
+        "photos": [
+          {
+            "name": "036",
+            "alt": "Grat Garsellikopf"
+          }
+        ],
+        "text": "Das letzte Stück geht es dann recht ausgesetzt auf dem Grat zum Gipfel des Garsellikopf. Auch hier gibt es ein Drahtseil... dessen betonierter Sockel aber nicht mehr sehr vertrauenswürdig aussah."
+      },
+      {
+        "photos": [
+          {
+            "name": "037",
+            "alt": "Panorama Garsellikopf"
+          }
+        ],
+        "text": "Um 10:30 war ich dann auf dem (schmalen) Gipfel des Garsellikopf angelangt. Hier der Blick den weiteren Grat entlang zu den Drei Schwestern. Hier beschloss ich nun Schluss zu machen und umzudrehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "038",
+            "alt": "Kuegrat"
+          }
+        ],
+        "text": "Tele zurück zum Kuegrat."
+      },
+      {
+        "photos": [
+          {
+            "name": "039",
+            "alt": "Wanderung Garsellikopf"
+          }
+        ],
+        "text": "Da ich bis zum Gafleisattel den selben Weg zurück nahm, wird sich nun viel wiederholen. Zuerst wieder über den Grat des Garsellikopf zurück."
+      },
+      {
+        "photos": [
+          {
+            "name": "040",
+            "alt": "Schwierig Garsellikopf"
+          },
+          {
+            "name": "041",
+            "alt": "Treppen Fels"
+          }
+        ],
+        "text": "Und dann steil durch den Fels hinunter. Jetzt kamen mir einige entgegen, so dass ich häufiger warten musste, bis die schmalen Wegabschnitte frei waren."
+      },
+      {
+        "photos": [
+          {
+            "name": "042",
+            "alt": "Gipfelkreuz Kuegrat"
+          }
+        ],
+        "text": "Und nach dem anstrengenden Anstieg nun wieder auf dem Kuegrat."
+      },
+      {
+        "photos": [
+          {
+            "name": "043",
+            "alt": "Schaan Buchs"
+          }
+        ],
+        "text": "Tiefblick ins Rheintal. Vorne Schaan in Liechtenstein und hinten Buchs in der Schweiz. Das Rheintal ist inzwischen so vollgebaut, dass die vielen Orte dort mehr und mehr zusammenwachsen."
+      },
+      {
+        "photos": [
+          {
+            "name": "044",
+            "alt": "Panoramaweg"
+          },
+          {
+            "name": "045",
+            "alt": "Wanderung Liechtenstein"
+          },
+          {
+            "name": "046",
+            "alt": "Gafleispitz"
+          }
+        ],
+        "text": "Und vom Kuegrat hinunter zur Gafleispitz. Diesmal habe ich mir aber den Abstecher gespart."
+      },
+      {
+        "photos": [
+          {
+            "name": "047",
+            "alt": "Wanderweg Gafleisattel"
+          },
+          {
+            "name": "048",
+            "alt": "Lärche in Bergen"
+          }
+        ],
+        "text": "Da der Weg zum Gafleisattel nun leicht berab ging, war ich dort sehr zügig unterwegs. Es kamen mir immer mehr Wanderer entgegen - je später, desto unprofessioneller waren sie ausgerüstet: es scheinen doch viele den Fürstensteig in Turnschuhen zu machen."
+      },
+      {
+        "photos": [
+          {
+            "name": "049",
+            "alt": "Weg durch Murengänge"
+          },
+          {
+            "name": "050",
+            "alt": "Wanderweg Chemi"
+          }
+        ],
+        "text": "Nach dem Gafleisattel ging ich nach links, die sogenannte leichte Umgehung des Fürstensteigs. Ich fand sie gar nicht so leicht, geht sie doch zu Beginn durch sehr loses Gestein und Murengänge, wo der Weg schon mehrfach weggerutscht war. Richtig gefährlich war es zwar nicht, aber der Anstieg ist sehr steil und rutschig. Die Wegsicherungsmaßnahmen wirkten dort etwas verzweifelt."
+      },
+      {
+        "photos": [
+          {
+            "name": "051",
+            "alt": "Felsenweg Chemi"
+          }
+        ],
+        "text": "Erst oberhalb des Schotters im festen Fels wird der Weg breit und gut ausgebaut. Den Grat überscheitet man über den kleinen Pass Chemi."
+      },
+      {
+        "photos": [
+          {
+            "name": "052",
+            "alt": "Landschaft Liechtenstein"
+          }
+        ],
+        "text": "Angekommen auf dem Grat öffnet sich der Blick nach Norden. Links befindet sich <a href='/alpine/malbun/20170716'>Steg und das Valünatal</a>. Dahinter kann man den <a href='/alpine/malbun/20161016'>Naafkopf</a> und <a href='/alpine/praettigau/20180908'>Falknis</a> sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "053",
+            "alt": "Alpspitz"
+          }
+        ],
+        "text": "Vom Chemi geht der Hauptweg den Hang entlang an der Alpspitz vorbei. Es führt aber auch ein guter Weg über den Gipfel. Da es nur 60 Höhenmeter mehr sind, gibt es keinen Grund diesen Berg auszulassen.<br />Hier ist die Alpspitz links zu sehen, rechts der Weg vom Kuegrat zum Gafleisattel."
+      },
+      {
+        "photos": [
+          {
+            "name": "054",
+            "alt": "Alviergruppe"
+          }
+        ],
+        "text": "Tele während des Aufstieg hinüber zur Alviergruppe. Von links nach rechts: Gauschla, <a href='/alpine/alviergruppe/20140907'>Alvier</a>, Chrummenstein und Fulfirst."
+      },
+      {
+        "photos": [
+          {
+            "name": "055",
+            "alt": "Panorama Alpspitz"
+          }
+        ],
+        "text": "Auf dem Gipfel der Alpspitz war ich um 12:20 angekommen. Dort oben war es überraschend voll, weshalb ich nur eine kurze Pause machte. Hier der Blick nach Norden, rechts der Kuegrat."
+      },
+      {
+        "photos": [
+          {
+            "name": "056",
+            "alt": "Abgrund Alpspitz"
+          }
+        ],
+        "text": "Der steile Blick von der Alpspitz hinab ins Rheintal. Irgendwo da unten führt der Fürstensteig an der Alpspitz vorbei."
+      },
+      {
+        "photos": [
+          {
+            "name": "057",
+            "alt": "Wanderung Alpspitz"
+          }
+        ],
+        "text": "Von der Alpspitz geht es sehr schön über Wiesen hinab zum Bargällasattel - hier links zu sehen. Das Wetter war in diesem Tag einfach perfekt zum Wandern."
+      },
+      {
+        "photos": [
+          {
+            "name": "058",
+            "alt": "Mittelpunkt von Liechtenstein"
+          }
+        ],
+        "text": "Ankunft am Bargällasattel noch vor 13:00. Dort in der Nähe befindet sich der Mittelpunkt von Liechtenstein und man kann sich mit diesem Schild fotogafieren. Mir ist nicht ganz klar, was daran so besonders ist. ;)<br />Vom Bärgällasattel hätte ich in einer halben Stunde zum Parkplatz in Gaflei absteigen können. Da es aber noch früh war und das Wetter so schön, beschloß ich noch einen Extraumweg einzubauen."
+      },
+      {
+        "photos": [
+          {
+            "name": "059",
+            "alt": "Schönberg"
+          }
+        ],
+        "text": "Man kann nämlich den Grat auch nach Norden weiter laufen. Den ersten Gipfel des Grats umgeht der Wanderweg allerdings auf der Ostseite."
+      },
+      {
+        "photos": [
+          {
+            "name": "060",
+            "alt": "Weg aus dem Schatten"
+          },
+          {
+            "name": "061",
+            "alt": "Wanderweg auf Grasgrat"
+          }
+        ],
+        "text": "Aber schon bald erreichte ich wieder den Grat. Durch die geringere Höhe geht es aber meist durch Wald - flach ist es aber trotzdem nicht, sowohl links als auch rechts."
+      },
+      {
+        "photos": [
+          {
+            "name": "062",
+            "alt": "Plattaspitz"
+          }
+        ],
+        "text": "Der Weg führt über die 1700m hohe Plattaspitz. Der Gipfel ist ziemlich ausgesetzt und man muss ein wenig durch den Fels hinaufklettern."
+      },
+      {
+        "photos": [
+          {
+            "name": "063",
+            "alt": "Wanderweg Plattaspitz"
+          }
+        ],
+        "text": "Auch danach fand ich den Weg nicht ganz ohne. Hier direkt auf dem schmalen Grat. Die Bewaldung sorgte aber für genügend Beruhigung."
+      },
+      {
+        "photos": [
+          {
+            "name": "064",
+            "alt": "Steg"
+          }
+        ],
+        "text": "Herbstlicher Blick hinab nach Steg.<br />Nach dem Abstieg von der Plattaspitz beendete ich meinen Umweg und ging nach rechts vom Grat hinunter und wieder Richtung Norden zurück nach Gaflei."
+      },
+      {
+        "photos": [
+          {
+            "name": "065",
+            "alt": "Spazierweg Liechtenstein"
+          },
+          {
+            "name": "066",
+            "alt": "Silum"
+          }
+        ],
+        "text": "Nun war es mit den steilen Bergwegen vorbei und es ging auf breitem Spazierweg den Hang entlang zurück nach Gaflei. Zuerst hinab zu den Häusern von Silum."
+      },
+      {
+        "photos": [
+          {
+            "name": "067",
+            "alt": "Hochlandrind Liechtenstein"
+          }
+        ],
+        "text": "Ungewöhnliche, aber gutmütige, Rinder versperrten mir den Weg bei Silum."
+      },
+      {
+        "photos": [
+          {
+            "name": "068",
+            "alt": "Berggasthaus Silum"
+          }
+        ],
+        "text": "Idylisch und harmlos ging es auch nach Silum weiter. Hier der Blick zurück."
+      },
+      {
+        "photos": [
+          {
+            "name": "069",
+            "alt": "Panoramaweg Liechtenstein"
+          },
+          {
+            "name": "070",
+            "alt": "Weg durch Waldhang"
+          }
+        ],
+        "text": "Immer flach geht es weiter den Hang entlang bis Gaflei - sehr angenehm so am Schluss der Wanderung."
+      },
+      {
+        "photos": [
+          {
+            "name": "071",
+            "alt": "Clinicum Alpinum"
+          }
+        ],
+        "text": "Um kurz nach 14:00 Uhr erreichte ich mein Auto in Gaflei und beendete damit meine Wanderung in Liechtenstein."
+      }
+    ],
+    "outro": "Fazit: Der Fürstensteig und die Besteigung des Garsellikopfs haben mir sehr gut gefallen. Genau die richtige Mischung aus Nervenkitzel und guter Absicherung. Etwas schade ist, dass man keine richtige Rundtour machen kann. Aber Abwechslung habe ich mir mit meiner Erweiterung der Wanderung zur Alpspitz und Plattaspitz genug geschaffen. Andersherum wäre die Tour auch nicht schlecht gewesen, da ich dann das Highlight Fürstensteig am Ende gehabt hätte.<br />Wenn man nur den Fürstensteig machen will, dann würde ich das am Nachmittag oder Abend empfehlen. Dann dürfte wieder Platz auf dem Parkplatz sein und man hat (im Gegensatz zu mir) Sonne während der Wanderung durch den Fels."
+  }
+]
