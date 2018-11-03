@@ -198,6 +198,21 @@ class Map extends React.Component {
     }
   }
 
+  findOptimalCameraHeight(pinPos) {
+    const cameraPos = this.viewer.camera.positionCartographic;
+    let optimalHeight = 0;
+    for (let distanceFactor = 0.0; distanceFactor < 1.0; distanceFactor += 0.1) {
+      const samplePos = new Cesium.Cartographic(
+        pinPos.longitude * distanceFactor + cameraPos.longitude * (1.0 - distanceFactor),
+        pinPos.latitude * distanceFactor + cameraPos.latitude * (1.0 - distanceFactor),
+        pinPos.height * distanceFactor + cameraPos.height * (1.0 - distanceFactor)
+      );
+      const terrainHeight = this.viewer.scene.globe.getHeight(samplePos);
+      optimalHeight = Math.max(optimalHeight, pinPos.height + (terrainHeight -  pinPos.height) / (1.0 - distanceFactor));
+    }
+    return optimalHeight + 150;
+  }
+
   updateCamera() {
     const terrainHeightUnderCamera = this.viewer.scene.globe.getHeight(this.viewer.camera.positionCartographic);
     const cameraHeight = this.viewer.camera.positionCartographic.height;
@@ -216,8 +231,9 @@ class Map extends React.Component {
     const currentHeight = this.viewer.scene.globe.getHeight(currentCart) || currentCart.height;
     const realCurrentPos = this.Cesium.Cartesian3.fromRadians(currentCart.longitude, currentCart.latitude, currentHeight);
 
-    if (terrainHeightUnderCamera) {
-      this.currentTilt += (cameraHeight - (200 + terrainHeightUnderCamera)) * 0.01;
+    const optimalCameraHeight = this.findOptimalCameraHeight(new Cesium.Cartographic(currentCart.longitude, currentCart.latitude, currentHeight));
+    if (cameraHeight && optimalCameraHeight) {
+      this.currentTilt += (cameraHeight - optimalCameraHeight) * 0.01;
       this.currentTilt = Math.max(this.currentTilt, -90);
       this.currentTilt = Math.min(this.currentTilt, 0);
     }
