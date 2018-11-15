@@ -1,0 +1,406 @@
+[
+  {
+    "destination": "praettigau",
+    "date": "d20181110",
+    "type": "hike",
+    "track": true,
+    "detailMap": "swiss",
+    "shortTitle": "Vilan",
+    "title": "Seewis - Vilan",
+    "title3d": {
+      "offsetY": 2.5,
+      "fontSize": 7.0
+    },
+    "intro": "Bei meiner <a href='/alpine/praettigau/20180908'>Wanderung auf den Falknis</a> dieses Jahr war mir der Vilan aufgefallen. Ein fast 2400m Aussichtsberg genau an der Ecke, wo das Prättigau in das Rheintal mündet. Da es in der Höhe nun doch schon etwas Schnee gibt, beschloss ich diesen Gipfel über den langgezogenen Südhang von Seewis aus zu besteigen.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Parkplatz Seewis"
+          }
+        ],
+        "text": "Geparkt habe ich mein Auto um 8:20 auf dem Parkplatz des (noch arbeitslosen) Skilifts in Seewis (Wegweiser zum Jugendhaus folgen). Die Parkgebühren für einen Tag betragen dort 5CHF."
+      },
+      {
+        "photos": [
+          {
+            "name": "002",
+            "alt": "Seewis"
+          }
+        ],
+        "text": "Es gibt viele verschiedene Wege von Seewis Richtung Vilan. Ich wählte für den Aufstieg den direktesten - beim Aufstieg immer rechts halten. Hier der Blick hinab auf Seewis und im Hintergrund die Straße nach Klosters und Davos."
+      },
+      {
+        "photos": [
+          {
+            "name": "003",
+            "alt": "Straße mit Herbstlaub"
+          }
+        ],
+        "text": "Zu Beginn ging es auf dieser Fahrstraße hinauf, auf dem es auch etwas Anliegerverkehr gab. Dafür war das Wetter schon spitze und das Herbstlaub schön bunt."
+      },
+      {
+        "photos": [
+          {
+            "name": "004",
+            "alt": "Herbst in Alpen"
+          },
+          {
+            "name": "005",
+            "alt": "Holzhütte vor Wald"
+          }
+        ],
+        "text": "Dann verließ der Wanderweg aber die Straße und es ging über Weiden den Hang hoch."
+      },
+      {
+        "photos": [
+          {
+            "name": "006",
+            "alt": "Serpentine"
+          },
+          {
+            "name": "007",
+            "alt": "Wanderweg Vilan"
+          }
+        ],
+        "text": "Immer wieder kommt man beim Aufstieg wieder kurz auf Schotterstraßen, nur um deren Serpentinen dann wieder abzukürzen. Das Angenehme im Spätherbst ist, dass keine Kühe und Zäune auf den Weiden stören."
+      },
+      {
+        "photos": [
+          {
+            "name": "008",
+            "alt": "Schesaplana"
+          },
+          {
+            "name": "009",
+            "alt": "Guora"
+          }
+        ],
+        "text": "Vorbei ging es auch an einigen Hütten. Im Hintergrund jeweils die fast 3000m hohe <a href='/alpine/brandnertal/20150829'>Schesaplana</a>, die ich schon mal von der Rückseite aus bestiegen habe."
+      },
+      {
+        "photos": [
+          {
+            "name": "010",
+            "alt": "Wandern Prättigau"
+          },
+          {
+            "name": "011",
+            "alt": "Haus mit Lärche"
+          }
+        ],
+        "text": "Noch vorbei an zwei weiteren Hütten und ich erreichte die Waldgrenze und das Ende des bewohnten Gebiets auf 1800m nach 800m Aufstieg. Inzwischen war ich gut 1,5h unterwegs."
+      },
+      {
+        "photos": [
+          {
+            "name": "012",
+            "alt": "Salarueljoch"
+          }
+        ],
+        "text": "Inwischen befand ich mich auf einem Grat, der sich zum Vilan hochzieht. Deshalb konnte ich nun auch Richtung Norden schauen. Im Hintergrund ist das 2200m hohe Salarueljoch zu sehen, über das man in den österreichischen Nenzinger Himmel kommt."
+      },
+      {
+        "photos": [
+          {
+            "name": "013",
+            "alt": "Sadreinegg"
+          },
+          {
+            "name": "014",
+            "alt": "Holzwegweiser"
+          }
+        ],
+        "text": "Ich erreichte nun als kleines Zwischenziel das 1910m hohe Sadreinegg, auf das ein alter Holzwegweiser hinweist."
+      },
+      {
+        "photos": [
+          {
+            "name": "015",
+            "alt": "Gratweg Vilan"
+          }
+        ],
+        "text": "Ab hier führt der Weg sehr schön auf dem Grat weiter hinauf zum Vilan, hier erstmals zu sehen (der mittlere der drei Gipfel)."
+      },
+      {
+        "photos": [
+          {
+            "name": "016",
+            "alt": "Herbstwanderung"
+          },
+          {
+            "name": "017",
+            "alt": "Bergtour Prättigau"
+          }
+        ],
+        "text": "Jeweils der selbe Blick zurück aus unterschiedlichen Höhen. Links wieder die Schesaplana, rechts der Sassauna, auch mal ein Kandidat für eine Wanderung im Prättigau."
+      },
+      {
+        "photos": [
+          {
+            "name": "018",
+            "alt": "Hütten vor Rheintal"
+          }
+        ],
+        "text": "Mal der Blick in die andere Richtung an Hütten auf einer Nase vorbei zum Churer Rheintal. Der Berg rechts ist die Calanda. Von Süden schwappten die Wolken über den Alpenhauptkamm, denn es herrschte Föhn, der sich auch bei mir mit starkem Wind bemerkbar machte. Deshalb zog hier dann doch die Jacke über."
+      },
+      {
+        "photos": [
+          {
+            "name": "019",
+            "alt": "Aufstieg Vilan"
+          },
+          {
+            "name": "020",
+            "alt": "Schnee Nordhang"
+          }
+        ],
+        "text": "Mit der Höhe kam nun auf den sonnenabgewandten Nordhängen Schnee hinzu. Da der Weg aber genau auf dem Grat ging, war ich davon nicht betroffen. Auf jeden Fall ein Weg, der mit gut gefallen hat."
+      },
+      {
+        "photos": [
+          {
+            "name": "021",
+            "alt": "Vilan im Herbst"
+          },
+          {
+            "name": "022",
+            "alt": "Wanderweg mit Schesaplana"
+          },
+          {
+            "name": "023",
+            "alt": "Hangweg zum Vilan"
+          }
+        ],
+        "text": "Die letzten 100 Höhenmeter geht es entlang eines kleinen Talkessels zum Gipfel. Alles harmlos und einfach zu gehen, nur der Boden war etwas schmierig."
+      },
+      {
+        "photos": [
+          {
+            "name": "024",
+            "alt": "Aussicht Vilan"
+          }
+        ],
+        "text": "Ankunft auf dem Gipfel des Vilans um 11:20, also nach 3h Aufstieg von Seewis aus. Auf der anderen Seite ist der Vilan deutlich steiler und fällt 1800m bis ins Rheintal ab, das ich hier eingefangen habe."
+      },
+      {
+        "photos": [
+          {
+            "name": "025",
+            "alt": "Vilan Prättigau"
+          }
+        ],
+        "text": "Blick in die andere Richtung ins Prättigau. Über den Grat in der Mitte kam ich hier hinauf."
+      },
+      {
+        "photos": [
+          {
+            "name": "026",
+            "alt": "Panorama Vilan"
+          }
+        ],
+        "text": "Fehlt noch die Aussicht nach Norden. Links der <a href='/alpine/praettigau/20180908'>Falknis</a> und rechts der <a href='/alpine/malbun/20161016'>Naafkopf</a>."
+      },
+      {
+        "photos": [
+          {
+            "name": "027",
+            "alt": "Wegweiser Vilan"
+          }
+        ],
+        "text": "Auf dem Gipfel gibt es kein Kreuz, sondern nur einen Wegweiser, eine schöne Bank und ein seltsames Metallgestell. Ob das zum Aufhängen von Rucksäcken gedacht ist?"
+      },
+      {
+        "photos": [
+          {
+            "name": "028",
+            "alt": "Aussichtsbank"
+          }
+        ],
+        "text": "Noch einmal der Blick das Rheintal nach Westen entlang."
+      },
+      {
+        "photos": [
+          {
+            "name": "029",
+            "alt": "Steiler Aufstieg Vilan"
+          }
+        ],
+        "text": "Über diesen Grat führt der steile - blau/weiß markierte - Aufstieg von der Älplibahn zum Vilan hinauf. Obwohl er nicht ganz schneefrei war, kamen von dort einige Wanderer an diesem Tag rauf. Der Normalaufstieg von der Älplibahn weiter rechts hätte aber auch deutlich mehr Schnee gehabt."
+      },
+      {
+        "photos": [
+          {
+            "name": "030",
+            "alt": "Maienfeld im Herbst"
+          }
+        ],
+        "text": "Tele hinab ins Rheintal zu den herbstlichen Weinbergen von Maienfeld."
+      },
+      {
+        "photos": [
+          {
+            "name": "031",
+            "alt": "Vilan Schesaplana"
+          }
+        ],
+        "text": "Und der Blick vom Vilan Richtung Schesaplana"
+      },
+      {
+        "photos": [
+          {
+            "name": "032",
+            "alt": "Vilan"
+          }
+        ],
+        "text": "Da es durch den starken und kalten Wind oben nicht all zu gemütlich für eine längere Pause war, machte ich mich bereits nach 10min wieder an den Abstieg. Hier der Blick zurück zum Gipfel des Vilans."
+      },
+      {
+        "photos": [
+          {
+            "name": "033",
+            "alt": "Weg in Grashang"
+          }
+        ],
+        "text": "Auf der Südseite führt nur ein Weg auf den Vilan, deshalb ging es nun für mich die ersten 300 Höhenmeter den selben Weg zurück. Da dieser Abschnitt aber sehr schön ist, machte mir das nichts aus."
+      },
+      {
+        "photos": [
+          {
+            "name": "034",
+            "alt": "Schesaplana"
+          }
+        ],
+        "text": "Tele hinüber zur Schesaplana."
+      },
+      {
+        "photos": [
+          {
+            "name": "035",
+            "alt": "Lawinenverbauung"
+          },
+          {
+            "name": "036",
+            "alt": "Frumaschan"
+          }
+        ],
+        "text": "Dann verließ ich aber meinen Hinweg und es ging vorbei an den bereits vorher aufgenommen Häuschen bei Frumaschan."
+      },
+      {
+        "photos": [
+          {
+            "name": "037",
+            "alt": "Prättigau Höhenweg"
+          },
+          {
+            "name": "038",
+            "alt": "Weg über Rheintal"
+          }
+        ],
+        "text": "Anschließend querte ich den Hang auf sehr schönem Weg nach Westen, wo es dann für mich runter ging."
+      },
+      {
+        "photos": [
+          {
+            "name": "039",
+            "alt": "Gilieila"
+          }
+        ],
+        "text": "Auf einer Bank machte ich nun eine längere Pause und blickte hinab zu den Häusern von Gilieila, die ich später unterhalb passieren werde."
+      },
+      {
+        "photos": [
+          {
+            "name": "040",
+            "alt": "Baum über Weg"
+          },
+          {
+            "name": "041",
+            "alt": "Wanderweg"
+          }
+        ],
+        "text": "Nach einem steilen Abstieg auf schmalem Weg kam ich nach der Unterquerung eines umgefallenen Baums nach Gügli."
+      },
+      {
+        "photos": [
+          {
+            "name": "042",
+            "alt": "Gügli"
+          },
+          {
+            "name": "043",
+            "alt": "Weiße Gesteinschicht"
+          },
+          {
+            "name": "044",
+            "alt": "Wanderung Vilan"
+          }
+        ],
+        "text": "Gügli ist ein zum Teil überwachsener Geröllsturz mit interessanten Gesteinsablagerungen. Der Weg geht dort unterhalb vorbei."
+      },
+      {
+        "photos": [
+          {
+            "name": "045",
+            "alt": "Wanderweg über Wiese"
+          },
+          {
+            "name": "046",
+            "alt": "Wanderweg mit Bäumen"
+          }
+        ],
+        "text": "Der Wanderweg ist hier sehr schön angelegt und geht über Wiesen und durch lichte Wälder angenehm flach hinunter. Es war sehr gut zu gehen und hat mir gut gefallen."
+      },
+      {
+        "photos": [
+          {
+            "name": "047",
+            "alt": "Pricawalli"
+          },
+          {
+            "name": "048",
+            "alt": "Schrankzaun"
+          }
+        ],
+        "text": "Vorbei ging es an der Alp Pricawalli, das ihr Weidegebiet durch einen fotogenen Schrankzaun eingezäunt hat... allerdings mit zusätzlich angebrachtem Elektrozaun. ;)"
+      },
+      {
+        "photos": [
+          {
+            "name": "049",
+            "alt": "Weg durch Herbstlaub"
+          },
+          {
+            "name": "050",
+            "alt": "Berghütte im Sonnenschein"
+          }
+        ],
+        "text": "Nach der Querung des Matantobels ging es hinab nach Fulli und ich hatte meinen westlichsten Punkt erreicht. Ich hätte auch schon vorher wieder nach Seewis abbiegen können, entschied mich aber für diesen kleinen Umweg, um möglichst keinen doppelten Weg zu haben."
+      },
+      {
+        "photos": [
+          {
+            "name": "051",
+            "alt": "Spaziergang Seewis"
+          },
+          {
+            "name": "052",
+            "alt": "Spazierweg mit Bänken"
+          }
+        ],
+        "text": "Von Fulli aus ging es leider nur auf asphaltiertem Weg sanft die letzten 200 Höhenmeter nach Seewis zurück. So konnte ich aber zumindest auf Sandalen wechseln, was am Ende einer Wanderung auch angenehm ist."
+      },
+      {
+        "photos": [
+          {
+            "name": "053",
+            "alt": "Seewis im Prättigau"
+          }
+        ],
+        "text": "Um 14:30 erreichte ich dann die Häuser von Seewis und kurz danach auch meinen Parkplatz."
+      }
+    ],
+    "outro": "Fazit: Mitte November noch eine Wanderung auf fast 2400m ohne Schnee zu unternehmen ist nicht selbstverständlich. Das war hier auch nur möglich, da der Aufstieg von Seewis zum Vilan auf einem Südhang führt. Im Hochsommer wäre der Aufstieg sicher viel zu heiß, so aber war es perfekt. Der Weg ist nie gefährlich oder schwierig und die Wanderung ist auch nicht übermäßig lang. Wer will kann auch kürzere Varianten finden, meine hat mir aber gut gefallen. Wer die unteren straßenlastigen Abschnitte vermeiden will, kann sich auch eine Fahrgenehmigung für 10CHF im Tourismusbüro kaufen und weiter oben parken. Notwendig ist das aber nicht wirklich."
+  }
+]
