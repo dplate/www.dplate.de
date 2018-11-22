@@ -183,3 +183,4 @@ http://www.dplate.de/alpine/savognin/20181009
 http://www.dplate.de/alpine/malbun/20181013
 http://www.dplate.de/alpine/toggenburg/20181104
 http://www.dplate.de/alpine/praettigau/20181110
+http://www.dplate.de/alpine/malbun/20181117

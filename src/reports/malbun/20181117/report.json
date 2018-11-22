@@ -1,0 +1,592 @@
+[
+  {
+    "destination": "malbun",
+    "date": "d20181117",
+    "type": "hike",
+    "track": true,
+    "detailMap": "swiss",
+    "shortTitle": "Galinakopf",
+    "title": "Galinakopf - Schönberg",
+    "title3d": {
+      "offsetY": 1.0,
+      "fontSize": 7.0
+    },
+    "intro": "Da diesen November noch so gutes Wanderwetter ist, bin ich am Samstag auf eine Wanderung von Malbun (1600m) aus aufgebrochen. Entspannt habe ich erst um 8:45 auf dem großen Gratisparkplatz mein Auto dort abgestellt, da ich eigentlich nur den nahen Schönberg (2100m) besteigen wollte.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Weg Malbun Sass"
+          }
+        ],
+        "text": "Vom Parkplatz aus bin ich bei leichten Minustemperaturen zuerst nach Malbun rauf, um den gut ausgebauten Spazierweg nach Sass zu erreichen."
+      },
+      {
+        "photos": [
+          {
+            "name": "002",
+            "alt": "Malbun im Schatten"
+          }
+        ],
+        "text": "Vom ersten Aussichtspunkt aus der Blick zurück auf das noch schattige Malbun, das um diese Jahreszeit ziemlich verlassen ist."
+      },
+      {
+        "photos": [
+          {
+            "name": "003",
+            "alt": "Sonnenaufgang Malbun"
+          },
+          {
+            "name": "004",
+            "alt": "Forscherweg"
+          }
+        ],
+        "text": "Nach etwas Aufstieg erreicht ich nun auch die Sonnenstrahlen und es wurde zumindest etwas wärmer. Der Weg war bereits mit violetten Stangen auf seine Bestimmung als Winterwanderweg vorbereitet."
+      },
+      {
+        "photos": [
+          {
+            "name": "005",
+            "alt": "Fernglas Weierböda"
+          }
+        ],
+        "text": "Nach einer knappen halben Stunde Ankunft auf dem 1750m hohen Weierböda, ausgestattet mit Grillplatz und Fernglas."
+      },
+      {
+        "photos": [
+          {
+            "name": "006",
+            "alt": "Gefrorener See"
+          }
+        ],
+        "text": "Passend zum Namen gibt es auf Weierböda auch einen kleinen See, der sogar schon eine (sehr dünne) Eisdecke hatte."
+      },
+      {
+        "photos": [
+          {
+            "name": "007",
+            "alt": "Alviergruppe"
+          }
+        ],
+        "text": "Tele Richtung Rheintal und der <a href='/alpine/alviergruppe'>Alviergruppe</a>."
+      },
+      {
+        "photos": [
+          {
+            "name": "008",
+            "alt": "Sass"
+          }
+        ],
+        "text": "Dann erreichte ich Sass und die Fahrstraße, die hier ebenfalls von Malbun aus hinaufführt. Diesen Weg wollte ich später als Rückweg wählen."
+      },
+      {
+        "photos": [
+          {
+            "name": "009",
+            "alt": "Schönberg"
+          }
+        ],
+        "text": "Nach Sass kam ich auf das 1780m hohe Sassförkle. Von dort waren es laut Wegweiser auf den hier zu sehenden Schönberg (rechts) nur eine gute Stunde Aufstieg. Das hätte bedeutet, dass ich schon Mittags wieder zurück am Auto gewesen wäre. Da auch das Wetter so schön war, beschloß ich dort meine Wanderung auszudehnen und statt dem Aufstieg auf den Schönberg dem Wegweiser zum 2200m hohen Galinakopf zu folgen. Der Wegweiser gab dort hin 2:45h an, was mir für die nur nötigen 400 Höhenmeter etwas lang vorkam.<br />Vom Pass aus ging es auf einem Fahrweg zuerst etwas runter und dann (leider noch im Schatten) immer am Hang lang Richtung Mattajoch."
+      },
+      {
+        "photos": [
+          {
+            "name": "010",
+            "alt": "Mattaförkle"
+          }
+        ],
+        "text": "Am Mattajoch ging es für mich aber nur knapp unterhalb vorbei und stattdessen kam ich zum Mattförkle. Dort verläßt auch endlich der Wanderweg den Fahrweg.<br />Hier hinten rechts ist auch schon das Ziel zu sehen, der Galinakopf."
+      },
+      {
+        "photos": [
+          {
+            "name": "011",
+            "alt": "Weg durch Latschenkiefer"
+          },
+          {
+            "name": "012",
+            "alt": "Guschgfieljoch"
+          }
+        ],
+        "text": "Immer auf gleicher Höhe ging es nun weiter bis zum Guschgfieljoch. Nun war genau auf der Grenze zu Österreich und konnte hier das Tal des Gampbach hinabschauen. Von dort kommt auch ein Wanderweg hinauf, um den Galinakopf von Österreich aus zu besteigen."
+      },
+      {
+        "photos": [
+          {
+            "name": "013",
+            "alt": "Wanderweg Galinakopf"
+          },
+          {
+            "name": "014",
+            "alt": "Aufstieg durch Latschenkiefern"
+          }
+        ],
+        "text": "Nachdem eine schöne Wiese überquert war, begann der eigentliche Aufstieg - noch fehlten mir 300 Höhenmeter."
+      },
+      {
+        "photos": [
+          {
+            "name": "015",
+            "alt": "Landschaft Liechtenstein"
+          }
+        ],
+        "text": "Wieder der Blick zum Rheintal. Diesmal auf der anderen Seite des Schönbergs vorbei, dessen steile Flanke hier links zu sehen ist."
+      },
+      {
+        "photos": [
+          {
+            "name": "016",
+            "alt": "Felsen Galinakopf"
+          },
+          {
+            "name": "017",
+            "alt": "Wanderung Galinakopf"
+          }
+        ],
+        "text": "Nach der Querung des Wiesenhangs des Galinakopfs führt das letzte Stück des Aufstieg auf dem Grat. Auf der Nordseite ist der Galinakopf ziemlich steil und felsig, der Weg hinauf ist aber harmlos und gut zu gehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "018",
+            "alt": "Galinakopf"
+          }
+        ],
+        "text": "Nachdem ich zwei gämsenfotografierende Wanderer (die ersten, denen ich an dem Tag begegnet war) überholt hatte, ging es über diesen schönen Gratweg die letzten Meter hinauf. Der Galinakopf ist ein richtig schöner Gipfel."
+      },
+      {
+        "photos": [
+          {
+            "name": "019",
+            "alt": "Panorama Galinakopf"
+          },
+          {
+            "name": "020",
+            "alt": "Schattenspiel"
+          }
+        ],
+        "text": "Blick vom Galinakopf nach Norden, wo noch ein paar Nebelreste über dem Bodensee waberten."
+      },
+      {
+        "photos": [
+          {
+            "name": "021",
+            "alt": "Aussicht Galinakopf"
+          },
+          {
+            "name": "022",
+            "alt": "Vorarlberg"
+          }
+        ],
+        "text": "Und die Aussicht nach Westen, in die Berge von Vorarlberg hinein."
+      },
+      {
+        "photos": [
+          {
+            "name": "023",
+            "alt": "Malbun Galinakopf"
+          }
+        ],
+        "text": "Der Blick zurück Richtung Malbun. Hier kann man einen Großteil meines bisherigen Wegs sehen. In der Bildmitte das Sassförkle, rechts davon der Schönberg. Links, zwischen den beiden kleinen Bergen, das Mattaförkle. Vom Sassförkle hatte ich bis auf den Galinakopf nur 1,5h gebraucht, die Angabe auf dem Wegweiser war also tatsächlich sehr großzügig."
+      },
+      {
+        "photos": [
+          {
+            "name": "024",
+            "alt": "Gipfelkreuz Galinakopf"
+          }
+        ],
+        "text": "Das Gipfelkreuz des Galinakopfs."
+      },
+      {
+        "photos": [
+          {
+            "name": "025",
+            "alt": "Alpinweg Galinakopf"
+          }
+        ],
+        "text": "Von Österreich führt auch ein blau/weiß markierter Weg auf den Galinakopf, der hier links zu sehen ist. Er zweigt wohl irgendwo weiter unten von diesem harmlosen Grashang in die Felswand ab.<br />Ich machte mich um 11:15 wieder auf den Abstieg - aber auf dem Normalweg, den ich auch hinaufgekommen war."
+      },
+      {
+        "photos": [
+          {
+            "name": "026",
+            "alt": "Gratweg Galinakopf"
+          }
+        ],
+        "text": "Zuerst wieder auf dem Grat mit Blick zum Schönberg (links) und dahinter dem Rheintal."
+      },
+      {
+        "photos": [
+          {
+            "name": "027",
+            "alt": "Felsenhund"
+          }
+        ],
+        "text": "Kleines Felshund neben dem Weg. Im Hintergrund unscharf der <a href='/alpine/alpstein/20131019'>Hohe Kasten</a>"
+      },
+      {
+        "photos": [
+          {
+            "name": "028",
+            "alt": "Galinakopf Schönberg"
+          }
+        ],
+        "text": "Noch eine Teleaufnahme des Schönbergs. Ganz hinten in den südlicheren Alpen hingen einige Wolken, bei mir herrschte dagegen schönster Sonnenschein. Warm war es aber nicht, so dass ich die Jacke anbehalten musste."
+      },
+      {
+        "photos": [
+          {
+            "name": "029",
+            "alt": "Zaunpfähle"
+          },
+          {
+            "name": "030",
+            "alt": "Guschgfiel"
+          }
+        ],
+        "text": "Leider musste ich nun bis zum Sassförkle den selben Weg zurück. Der große Nachteil vom Wanderweg Malbun - Galinakopf. Dafür war es nun sonniger und zumindest bis Mattjoch ist der Weg auch schön."
+      },
+      {
+        "photos": [
+          {
+            "name": "031",
+            "alt": "Mattajoch"
+          },
+          {
+            "name": "032",
+            "alt": "Grenzschild Mattajoch"
+          }
+        ],
+        "text": "Beim Rückweg habe ich auch noch den kleinen Abstecher hinauf auf das Mattajoch unternommen. Dort kommt der Wanderweg vom Berghaus Mattajoch aus Österreich hinauf. Auch ein paar Mountainbiker traf ich dort an."
+      },
+      {
+        "photos": [
+          {
+            "name": "033",
+            "alt": "Wanderung Mattajoch"
+          },
+          {
+            "name": "034",
+            "alt": "Sassförkle"
+          }
+        ],
+        "text": "Vom Mattajoch dann die Durststrecke auf der Straße zurück zum Sassförkle. Hier der Blick zurück zum Mattajoch (rechts) und Galinakopf (links)."
+      },
+      {
+        "photos": [
+          {
+            "name": "035",
+            "alt": "Herbstwiese"
+          }
+        ],
+        "text": "Da der 'Abstecher' zum Galinakopf schneller als gedacht erledigt war, entschloß ich mich nun noch für den Aufstieg auf den Schönberg, meinem eigentlichen Ziel."
+      },
+      {
+        "photos": [
+          {
+            "name": "036",
+            "alt": "Eis auf Wanderweg"
+          },
+          {
+            "name": "037",
+            "alt": "Geforenes Gras"
+          }
+        ],
+        "text": "Im Schatten wurde es ganztags nicht warm, so dass dort eine gefrorene Eisplatte zu überqueren war und das Gras eisig weiß eingefärbt war."
+      },
+      {
+        "photos": [
+          {
+            "name": "038",
+            "alt": "Serpentinen Schönberg"
+          }
+        ],
+        "text": "Zu Beginn ging es nur leicht bergauf, aber dann ging es in einigen Serpentinen zu den Felsen des Stachlerkopfs hinauf. Hier der Blick zurück."
+      },
+      {
+        "photos": [
+          {
+            "name": "039",
+            "alt": "Kelchle"
+          }
+        ],
+        "text": "Beim Aufstieg der kleine Felsen 'Kelchle' mit Kreuz. Im Hintergrund das Massiv der fast 3000m hohen <a href='/alpine/brandnertal/20150829'>Schesaplana</a>, genauer der Panüeler Kopf."
+      },
+      {
+        "photos": [
+          {
+            "name": "040",
+            "alt": "Schönberg gefährlich"
+          },
+          {
+            "name": "041",
+            "alt": "Felsenweg Schönberg"
+          }
+        ],
+        "text": "Unterhalb des Stachlerkopfs geht es (nicht ganz ohne) durch Schutthänge und Felsen, zum Teil auch mit Drahtseil gesichert. Das ganze wirkt etwas unnötig, denn man könnte statt dessen auch einfach über die Wiesen unterhalb zum Schönberg aufsteigen.<br />So war es aber natürlich abwechslungsreicher."
+      },
+      {
+        "photos": [
+          {
+            "name": "042",
+            "alt": "Wanderweg Schönberg"
+          }
+        ],
+        "text": "Schnell ist man aber aus dem steilen Geländer wieder raus und es geht direkt auf den Gipfel des Schönbergs zu."
+      },
+      {
+        "photos": [
+          {
+            "name": "043",
+            "alt": "Rheintal mit Dunst"
+          }
+        ],
+        "text": "Der Aufstieg auf den Schönberg verläuft dann auf dem Grat. Hier der Blick hinunter auf der Rückseite ins dunstige Rheintal."
+      },
+      {
+        "photos": [
+          {
+            "name": "044",
+            "alt": "Wanderung Schönberg"
+          },
+          {
+            "name": "045",
+            "alt": "Wegweiser Schönberg"
+          }
+        ],
+        "text": "Der Grat zum Schönberg ist harmlos. Dabei passierte ich die Abzweigung für einen alternativen Abstieg nach Malbun. Diesen hatte ich mir schon im vorhinein als Rückweg ausgesucht - aber jetzt zuerst noch auf den Gipfel des Schönbergs!"
+      },
+      {
+        "photos": [
+          {
+            "name": "046",
+            "alt": "Gipfel Schönberg"
+          }
+        ],
+        "text": "Und so ging es die letzten Meter zum Gipfel des Schönberg hinauf, den ich um 13:40 erreichte."
+      },
+      {
+        "photos": [
+          {
+            "name": "047",
+            "alt": "Panorama Schönberg"
+          }
+        ],
+        "text": "Blick vom Gipfel nach Norden. In der Mitte der Galinakopf."
+      },
+      {
+        "photos": [
+          {
+            "name": "048",
+            "alt": "Alpspitz"
+          }
+        ],
+        "text": "Tele über die Alpspitz hinweg zum <a href='/alpine/alpstein/20160911'>Säntis</a>."
+      },
+      {
+        "photos": [
+          {
+            "name": "049",
+            "alt": "Rheinttal im Herbst"
+          }
+        ],
+        "text": "Blick das Rheintal hinauf Richtung Sargans."
+      },
+      {
+        "photos": [
+          {
+            "name": "050",
+            "alt": "Startende Alpendohle"
+          }
+        ],
+        "text": "Während meiner Pause auf der Wiese versuchte ich eine Alpdohle im Flug zu fotografieren. Zumindest den Absprung von einem Zaunpfahl konnte ich festhalten."
+      },
+      {
+        "photos": [
+          {
+            "name": "051",
+            "alt": "Kuegrat"
+          }
+        ],
+        "text": "Blick hinüber zum <a href='/alpine/malbun/20181013'>Kuegrat, Garsellikopf</a> und den drei Schwestern, wo ich gerade mal vor einem Monat unterwegs war."
+      },
+      {
+        "photos": [
+          {
+            "name": "052",
+            "alt": "Schönberg Galinakopf"
+          }
+        ],
+        "text": "Noch einmal der Galinakopf (links) und das Guschgfieljoch in der Mitte."
+      },
+      {
+        "photos": [
+          {
+            "name": "053",
+            "alt": "Zimba"
+          }
+        ],
+        "text": "Tele zu den österreichischen Bergen. In der Bildmitte die markante Zimba."
+      },
+      {
+        "photos": [
+          {
+            "name": "054",
+            "alt": "Herbstwanderung Schönberg"
+          }
+        ],
+        "text": "Und so harmlos ist der Gipfel des Schönbergs auf der sonnigen Südseite.<br />Noch vor 14:00 machte ich mich auf den Abstieg... denn im November wird es auch schon recht früh dunkel."
+      },
+      {
+        "photos": [
+          {
+            "name": "055",
+            "alt": "Hangweg"
+          },
+          {
+            "name": "056",
+            "alt": "Wanderweg Stein Schönberg"
+          }
+        ],
+        "text": "Wie angekündigt zweigte ich beim Abtieg vom Hauptweg ab und ging nach Osten Richtung Steg. Dabei ist der Schönberg auf dieser Seite deutlich steiler, aber der Weg geht ungefährlich zwischen den Felswänden hindurch. Hier noch einmal der Blick zurück zum Schönberg (ganz rechts)."
+      },
+      {
+        "photos": [
+          {
+            "name": "057",
+            "alt": "Wanderung Liechtenstein"
+          }
+        ],
+        "text": "Und immer weiter gehts es schön durch den Hang. Wieder der Blick zurück."
+      },
+      {
+        "photos": [
+          {
+            "name": "058",
+            "alt": "Felsen auf Bergwiese"
+          },
+          {
+            "name": "059",
+            "alt": "Wanderweg Schönberg"
+          }
+        ],
+        "text": "Dann kam ich von oben her auf die Weiden von Bergli, einer kleinen Alp mitten im steilen Hang zwischen dem Ort Steg im Tal und dem Schönberg."
+      },
+      {
+        "photos": [
+          {
+            "name": "060",
+            "alt": "Dunstschicht"
+          }
+        ],
+        "text": "Toll war der Blick während des Abstiegs ins Rheintal und auf die Dunstschicht."
+      },
+      {
+        "photos": [
+          {
+            "name": "061",
+            "alt": "Rundwanderung Damüls"
+          }
+        ],
+        "text": "Nun ging es in kleinen Serpentinen durch eine schöne Landschaft über die Wiese hinab. Der Abschnitt war der bisher eindrucksvollste der ganzen Wanderung."
+      },
+      {
+        "photos": [
+          {
+            "name": "062",
+            "alt": "Steile Wiese"
+          }
+        ],
+        "text": "Nach dem kurzen 80m Abstieg ging es dann wieder weiter am Hang entlang. Im Hintergrund das <a href='/alpine/malbun/20170716'>Valünertal</a> bei Steg."
+      },
+      {
+        "photos": [
+          {
+            "name": "063",
+            "alt": "Malbun"
+          }
+        ],
+        "text": "Da ich nun schon einiges um den Berg herumgelaufen war, tauchte Malbun auf - wieder im Schatten. Dahinter die verschneite Schesaplana."
+      },
+      {
+        "photos": [
+          {
+            "name": "064",
+            "alt": "Bergli Bärgli"
+          }
+        ],
+        "text": "Dann führt der Weg an der kleinen Alp Bergli aka Bärgli vorbei. Hier zweigt der Weg nach Steg rechts ab. Mein Weg führt weiter geradeaus am Hang entlang Richtung Malbun."
+      },
+      {
+        "photos": [
+          {
+            "name": "065",
+            "alt": "Schattenmensch"
+          }
+        ],
+        "text": "Obwohl es noch vor 15 Uhr war, stand die Sonne schon flach genug für solche Schattenspiele."
+      },
+      {
+        "photos": [
+          {
+            "name": "066",
+            "alt": "Wanderweg Bergli"
+          }
+        ],
+        "text": "Sehr schön ging der Weg durch die lichten Wälder des Hangs, aber durchaus mit Zwischenanstiegen."
+      },
+      {
+        "photos": [
+          {
+            "name": "067",
+            "alt": "Sesselbahn Sareis"
+          }
+        ],
+        "text": "Tele auf die Sesselbahn Sareis von Malbun."
+      },
+      {
+        "photos": [
+          {
+            "name": "068",
+            "alt": "Gämse im Wald"
+          }
+        ],
+        "text": "Mitten auf dem Wanderweg stand eine Gämse, die nicht besonders scheu war. Langsam trabte sie davon, also ich angestapft kam."
+      },
+      {
+        "photos": [
+          {
+            "name": "069",
+            "alt": "Wanderung am Abend"
+          }
+        ],
+        "text": "Die Lichtstimmung während meinem Weg durch den Wald war sehr schön. Nur leider war ich nun doch schon ziemlich erschöpft und jeder Zwischenauf- und abstieg zerrte an den letzten Kräften."
+      },
+      {
+        "photos": [
+          {
+            "name": "070",
+            "alt": "Sass Stall"
+          },
+          {
+            "name": "071",
+            "alt": "Spazierweg Malbun"
+          }
+        ],
+        "text": "Dann erreichte ich aber um 15:30 die Häuser von Sass Stall und damit das Ende des Hangs.<br />Weiter ging es nun auf der Fahrstraße hinab nach Malbun. Aber zuerst noch eine Pause in den letzten Sonnenstrahlen auf einer Bank."
+      },
+      {
+        "photos": [
+          {
+            "name": "072",
+            "alt": "Jufa Malbun"
+          }
+        ],
+        "text": "Um 16:00 kam ich dann am Parkplatz in Malbun an. Dort hatte es bereits deutlich abgekühlt und ich war froh die Heizung im Auto aufdrehen zu können."
+      }
+    ],
+    "outro": "Fazit: Aus der eigentlich kurzen geplanten Wanderung entwickelte sich eine 23km lange Tour mit 1500 Höhenmetern während 7,5h. Da es sich eigentlich um zwei Wanderungen handelte, auch meine Zusammenfassung zweigeteilt: Der Gipfel des Galinakopfs bietet eine tolle Aussicht, aber von Malbun ist der Weg sehr einfach und leider auch hin- und zurück identisch. Außerdem auch einiges auf Straße. Der Weg auf den Schönberg dagegen ist sehr abwechslungsreich und deutlich schöner. Besonders der Rückweg über Bergli hat mir gefallen. Dafür ist das Gipfelerlebnis nicht so eindrucksvoll wie auf dem Galinakopf."
+  }
+]
