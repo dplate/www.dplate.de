@@ -9,6 +9,9 @@ const Card = styled.div`
 
 const Picture = styled.img`
   ${pictureStyle}
+  margin-left: 0;
+  margin-right: 0;
+  max-width: 100%;
 `;
 
 export default () => {
@@ -17,7 +20,7 @@ export default () => {
       <Helmet><title>Antike Spiele</title></Helmet>
       <Card>
         <h1>Labyland</h1>
-        <img src={__PATH_PREFIX__ + '/screenshots/labyland.jpg'} />
+        <Picture src={__PATH_PREFIX__ + '/screenshots/labyland.jpg'} />
         <p>
           Inspiriert vom Brettspiel "Das verrückte Labyrinth" sammelt man mit bis zu 4 Spielern Geldscheine in einer
           Stadt ein. Dabei lassen sich ganze Straßenzüge verschieben und damit neue Wege erschaffen.
@@ -38,7 +41,7 @@ export default () => {
 
       <Card>
         <h1>Cups</h1>
-        <img src={__PATH_PREFIX__ + '/screenshots/cups.jpg'} />
+        <Picture src={__PATH_PREFIX__ + '/screenshots/cups.jpg'} />
         <p>
           Vom Bettler zum Millionär, in dem man ein Jahr lang Geschirr von der Küche in ein Schrank sortiert.
           Da die Geschwindigkeit immer mehr ansteigt, wird das am Ende des Jahres zu einem stressigen Unterfangen...
@@ -60,7 +63,7 @@ export default () => {
 
       <Card>
         <h1>Die Vulkaninsel</h1>
-        <img src={__PATH_PREFIX__ + '/screenshots/vulkan.jpg'} />
+        <Picture src={__PATH_PREFIX__ + '/screenshots/vulkan.jpg'} />
         <p>
           Praktisch der Vorgänger von "Schiffbruch", nur dass es sich hier um ein Textadventure mit statischen Bildern
           handelt. Über Texteingaben steuert man Erik über eine Vulkaninsel und löst einige Rätsel.
@@ -81,7 +84,7 @@ export default () => {
 
       <Card>
         <h1>Das Katapultspiel</h1>
-        <img src={__PATH_PREFIX__ + '/screenshots/katapult.jpg'} />
+        <Picture src={__PATH_PREFIX__ + '/screenshots/katapult.jpg'} />
         <p>
           "Das Katapultspiel" ist der Vorläufer von "Cannonhill". Im Gegensatz zu "Cannonhill" spielt man hier aber nicht
           gleichzeitig, sondern nacheinander. Mit Katapulten muss man versuchen, sich in einer Gebirgslandschaft
@@ -103,7 +106,7 @@ export default () => {
 
       <Card>
         <h1>Zahlorie</h1>
-        <img src={__PATH_PREFIX__ + '/screenshots/zahlorie.jpg'} />
+        <Picture src={__PATH_PREFIX__ + '/screenshots/zahlorie.jpg'} />
         <p>
           Ein Mix aus Memory und Mathespiel. Statt zwei Bildern werden drei Zahlen aufgedeckt. Diese drei Zahlen
           müssen eine Formel erfüllen. Dabei stehen verschiedene Schwierigskeitsgrade und auch Computergegner zur
