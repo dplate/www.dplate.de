@@ -185,3 +185,4 @@ http://www.dplate.de/alpine/toggenburg/20181104
 http://www.dplate.de/alpine/praettigau/20181110
 http://www.dplate.de/alpine/malbun/20181117
 http://www.dplate.de/alpine/lenzerheide/20181220
+http://www.dplate.de/alpine/obersaxen/20190209
