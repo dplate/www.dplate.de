@@ -215,8 +215,9 @@ class Map extends React.Component {
 
   updateCamera() {
     const terrainHeightUnderCamera = this.viewer.scene.globe.getHeight(this.viewer.camera.positionCartographic);
+    const allowedMinimumCameraHeight = terrainHeightUnderCamera + 10;
     const cameraHeight = this.viewer.camera.positionCartographic.height;
-    if (!this.viewer.clock.shouldAnimate && cameraHeight > terrainHeightUnderCamera) return;
+    if (!this.viewer.clock.shouldAnimate && (!allowedMinimumCameraHeight || cameraHeight > allowedMinimumCameraHeight)) return;
 
     const futureTime = new this.Cesium.JulianDate();
     this.Cesium.JulianDate.addSeconds(this.viewer.clock.currentTime, 20 * 60, futureTime);
@@ -225,19 +226,29 @@ class Map extends React.Component {
 
     const pin = this.viewer.entities.getById('pin');
     const currentCart = this.Cesium.Cartographic.fromCartesian(pin.position.getValue(this.viewer.clock.currentTime));
-    const futureCart = this.Cesium.Cartographic.fromCartesian(pin.position.getValue(futureTime));
-    const geodesic = new this.Cesium.EllipsoidGeodesic(currentCart, futureCart);
 
     const currentHeight = this.viewer.scene.globe.getHeight(currentCart) || currentCart.height;
     const realCurrentPos = this.Cesium.Cartesian3.fromRadians(currentCart.longitude, currentCart.latitude, currentHeight);
 
-    const optimalCameraHeight = this.findOptimalCameraHeight(new this.Cesium.Cartographic(currentCart.longitude, currentCart.latitude, currentHeight));
-    if (cameraHeight && optimalCameraHeight) {
-      this.currentTilt += (cameraHeight - optimalCameraHeight) * 0.01;
-      this.currentTilt = Math.max(this.currentTilt, -90);
-      this.currentTilt = Math.min(this.currentTilt, 0);
+    let newHeading;
+    let newPitch;
+    if (this.viewer.clock.shouldAnimate) {
+      const futureCart = this.Cesium.Cartographic.fromCartesian(pin.position.getValue(futureTime));
+      const geodesic = new this.Cesium.EllipsoidGeodesic(currentCart, futureCart);
+      newHeading = geodesic.startHeading;
+
+      const optimalCameraHeight = this.findOptimalCameraHeight(new this.Cesium.Cartographic(currentCart.longitude, currentCart.latitude, currentHeight));
+      if (cameraHeight && optimalCameraHeight) {
+        this.currentTilt += (cameraHeight - optimalCameraHeight) * 0.01;
+        this.currentTilt = Math.max(this.currentTilt, -90);
+        this.currentTilt = Math.min(this.currentTilt, 0);
+      }
+      newPitch = this.Cesium.Math.toRadians(this.currentTilt);
+    } else {
+      newHeading = this.viewer.camera.heading;
+      newPitch = this.viewer.camera.pitch + (cameraHeight - allowedMinimumCameraHeight) * 0.005;
     }
-    this.viewer.camera.lookAt(realCurrentPos, new this.Cesium.HeadingPitchRange(geodesic.startHeading, this.Cesium.Math.toRadians(this.currentTilt), 500));
+    this.viewer.camera.lookAt(realCurrentPos, new this.Cesium.HeadingPitchRange(newHeading, newPitch, 500));
   }
 
   updateSpeed() {
@@ -387,6 +398,7 @@ class Map extends React.Component {
       rectangle : hdRectangle
     }));
     snowLayer.alpha = 0.2;
+    this.viewer.scene.highDynamicRange = false;
   }
 
   createHdRectangle(positions) {
