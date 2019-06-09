@@ -2,7 +2,7 @@ import React from 'react'
 import logoIcon from '../icons/logo.png'
 import menuIcon from '../icons/menu.svg'
 import styled from 'styled-components'
-import Link from 'gatsby-link'
+import { graphql, Link, StaticQuery } from 'gatsby'
 import Menu from '../components/menu'
 
 const Header = styled.div`
@@ -70,6 +70,29 @@ const Content = styled.div`
   padding-top: 57px;  
 `;
 
+const layoutQuery = graphql`
+  query AllDynamicItems{
+    allDestinationJson(filter:{}, sort:{fields:[name], order:ASC }) {
+      edges {
+        node {
+          destination, 
+          name
+        }
+      }
+    },
+    allReportJson(filter:{}, sort:{fields:[date], order:DESC }) {
+      edges {
+        node {
+          destination, 
+          date, 
+          type,
+          shortTitle
+        }
+      }
+    }
+  }
+`;
+
 class Layout extends React.Component {
 
   constructor(props) {
@@ -104,47 +127,31 @@ class Layout extends React.Component {
   }
 
   render() {
-    const reports = this.props.data.allReportJson.edges.map((element) => element.node);
-    const destinations = this.props.data.allDestinationJson.edges.map((element) => element.node);
     return (
-      <div>
-        <Content>
-          {this.props.children()}
-        </Content>
-        <Header className={this.state.showHeader?'showHeader':''}>
-          <MenuButton onClick={this.toggleMenu}><MenuIcon src={menuIcon} /><MenuText>Menü</MenuText></MenuButton>
-          <Link to="/">
-            <Title>www.dplate.de</Title>
-            <Logo src={logoIcon} />
-          </Link>
-        </Header>
-        { this.state.showMenu && <Menu onClose={this.toggleMenu} reports={reports} destinations={destinations} currentPath={this.props.location.pathname} />}
-      </div>
+      <StaticQuery
+        query={layoutQuery}
+        render={data => {
+          const reports = data.allReportJson.edges.map((element) => element.node);
+          const destinations = data.allDestinationJson.edges.map((element) => element.node);
+          return (
+            <div>
+              <Content>
+                {this.props.children}
+              </Content>
+              <Header className={this.state.showHeader?'showHeader':''}>
+                <MenuButton onClick={this.toggleMenu}><MenuIcon src={menuIcon} /><MenuText>Menü</MenuText></MenuButton>
+                <Link to="/">
+                  <Title>www.dplate.de</Title>
+                  <Logo src={logoIcon} />
+                </Link>
+              </Header>
+              { this.state.showMenu && <Menu onClose={this.toggleMenu} reports={reports} destinations={destinations} currentPath={this.props.location.pathname} />}
+            </div>
+          )
+        }}
+      />
     )
   }
 }
 
 export default Layout;
-
-export const layoutQuery = graphql`
-  query AllDynamicItems{
-    allDestinationJson(filter:{}, sort:{fields:[name], order:ASC }) {
-      edges {
-        node {
-          destination, 
-          name
-        }
-      }
-    },
-    allReportJson(filter:{}, sort:{fields:[date], order:DESC }) {
-      edges {
-        node {
-          destination, 
-          date, 
-          type,
-          shortTitle
-        }
-      }
-    }
-  }
-`;

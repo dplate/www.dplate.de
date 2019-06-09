@@ -1,9 +1,10 @@
 import React from 'react'
 import { Helmet } from 'react-helmet'
-import Link from 'gatsby-link'
+import { graphql, Link } from 'gatsby'
 import styled from 'styled-components'
 import formatDate from '../utils/formatDate'
 import {cardStyle} from '../styles/basestyle.js'
+import Layout from '../components/layout'
 
 const Title = styled.h1`
   margin: 16px 0 0 16px;
@@ -101,17 +102,19 @@ export default (props) => {
   const destinationTitle = getDestinationTitle(name, hikeReports, skiReports);
   const destinationDescription = getDestinationDescription(name, hikeReports, skiReports);
   return (
-    <div>
-      <Helmet>
-        <title>{destinationTitle}</title>
-        <meta name="description" content={destinationDescription} />
-      </Helmet>
-      <Title>{destinationTitle}</Title>
-      <FlexContainer>
-        {renderReports(name, destination, hikeTeaser, hikeReports, 'hike')}
-        {renderReports(name, destination, skiTeaser, skiReports, 'ski')}
-      </FlexContainer>
-    </div>
+    <Layout location={props.location}>
+      <div>
+        <Helmet>
+          <title>{destinationTitle}</title>
+          <meta name="description" content={destinationDescription} />
+        </Helmet>
+        <Title>{destinationTitle}</Title>
+        <FlexContainer>
+          {renderReports(name, destination, hikeTeaser, hikeReports, 'hike')}
+          {renderReports(name, destination, skiTeaser, skiReports, 'ski')}
+        </FlexContainer>
+      </div>
+    </Layout>
   );
 };
 

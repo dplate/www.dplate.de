@@ -7,6 +7,8 @@ import Title3D from '../components/title3d'
 import {videoWrapperStyle, videoContainerStyle} from '../styles/basestyle.js'
 import formatDate from '../utils/formatDate'
 import gpxIcon from '../icons/gpx.svg'
+import { graphql } from 'gatsby'
+import Layout from '../components/layout'
 
 const Content = styled.div`
   display: block;
@@ -119,7 +121,7 @@ class Report extends React.Component {
     this.images = [];
     this.requiredImages = [];
     const imgElements = document.querySelectorAll('.landmark img');
-    for (let i=0, image; image = imgElements[i]; i++) {
+    for (let i=0, image=null; (image = imgElements[i]); i++) {
       this.requiredImages.push(image);
       if (image.complete) {
         this.retrieveImageDate(image);
@@ -132,17 +134,17 @@ class Report extends React.Component {
   changeHash(id) {
     if (id) {
       const hash = '#' + id;
-      if (location.hash !== hash) {
-        if(history.replaceState) {
-          history.replaceState(null, null, hash);
+      if (window.location.hash !== hash) {
+        if(window.history.replaceState) {
+          window.history.replaceState(null, null, hash);
         }
         else {
-          location.hash = hash;
+          window.location.hash = hash;
         }
       }
     } else {
-      if (location.hash && history.replaceState) {
-        history.replaceState(null, null, window.location.pathname);
+      if (window.location.hash && window.history.replaceState) {
+        window.history.replaceState(null, null, window.location.pathname);
       }
     }
 
@@ -214,7 +216,7 @@ class Report extends React.Component {
     return (
       <VideoContainer key={index}>
         <VideoWrapper>
-          <iframe src={`http://www.youtube.com/embed/${video}?wmode=transparent`} frameBorder="0" allowFullScreen />
+          <iframe src={`http://www.youtube.com/embed/${video}?wmode=transparent`} frameBorder="0" allowFullScreen title={video} />
         </VideoWrapper>
       </VideoContainer>
     );
@@ -263,27 +265,29 @@ class Report extends React.Component {
     const gpxPath = __PATH_PREFIX__ + '/tracks' + this.getReportPath() + '.gpx';
     const fullTitle = title + ' - ' + formatDate(date);
     return (
-      <Content>
-        <Helmet>
-          <title>{this.buildPageTitle(title, type)}</title>
-          <meta name="description" content={this.buildPageDescription(title, type, date)} />
-        </Helmet>
-        {!title3d && <h1>{fullTitle}</h1>}
-        {title3d && <Title3D reportPath={this.getReportPath()} title={fullTitle} offsetY={title3d.offsetY} fontSize={title3d.fontSize} align={title3d.align} />}
-        <Chapter dangerouslySetInnerHTML={{__html: intro}}/>
-        {landmarks.map(this.renderLandmark.bind(this))}
-        <Chapter dangerouslySetInnerHTML={{__html: outro}}/>
-        {track && this.renderGpxDownload(gpxPath)}
-        {track && this.state.time && <Map
-          gpxPath={gpxPath}
-          time={this.state.time}
-          timeShift={timeShift}
-          detailMap={detailMap}
-          hideSwissTopo={hideSwissTopo}
-          winter={type !== 'hike'}
-          onClick={this.resetFocus.bind(this)}
-         />}
-      </Content>
+      <Layout location={this.props.location}>
+        <Content>
+          <Helmet>
+            <title>{this.buildPageTitle(title, type)}</title>
+            <meta name="description" content={this.buildPageDescription(title, type, date)} />
+          </Helmet>
+          {!title3d && <h1>{fullTitle}</h1>}
+          {title3d && <Title3D reportPath={this.getReportPath()} title={fullTitle} offsetY={title3d.offsetY} fontSize={title3d.fontSize} align={title3d.align} />}
+          <Chapter dangerouslySetInnerHTML={{__html: intro}}/>
+          {landmarks.map(this.renderLandmark.bind(this))}
+          <Chapter dangerouslySetInnerHTML={{__html: outro}}/>
+          {track && this.renderGpxDownload(gpxPath)}
+          {track && this.state.time && <Map
+            gpxPath={gpxPath}
+            time={this.state.time}
+            timeShift={timeShift}
+            detailMap={detailMap}
+            hideSwissTopo={hideSwissTopo}
+            winter={type !== 'hike'}
+            onClick={this.resetFocus.bind(this)}
+           />}
+        </Content>
+      </Layout>
     );
   }
 }

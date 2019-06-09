@@ -8,7 +8,7 @@ https://coolors.co/1f363d-40798c-70a9a1-9ec1a3-cfe0c3
 
 Install required dependencies:
 
-    npm run install
+    npm install
 
 ### Start the development server
 

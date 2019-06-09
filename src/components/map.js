@@ -73,11 +73,11 @@ const Icon = styled.img`
     opacity: 1.0;
   }
 `;
-const ResizeIcon = Icon.extend`
+const ResizeIcon = styled(Icon)`
   transform: scale(-1, 1);
   left: 5px;
 `;
-const CloseIcon = Icon.extend`
+const CloseIcon = styled(Icon)`
   right: 5px;
 `;
 
@@ -202,7 +202,7 @@ class Map extends React.Component {
     const cameraPos = this.viewer.camera.positionCartographic;
     let optimalHeight = 0;
     for (let distanceFactor = 0.0; distanceFactor < 1.0; distanceFactor += 0.1) {
-      const samplePos = new Cesium.Cartographic(
+      const samplePos = new this.Cesium.Cartographic(
         pinPos.longitude * distanceFactor + cameraPos.longitude * (1.0 - distanceFactor),
         pinPos.latitude * distanceFactor + cameraPos.latitude * (1.0 - distanceFactor),
         pinPos.height * distanceFactor + cameraPos.height * (1.0 - distanceFactor)
@@ -231,7 +231,7 @@ class Map extends React.Component {
     const currentHeight = this.viewer.scene.globe.getHeight(currentCart) || currentCart.height;
     const realCurrentPos = this.Cesium.Cartesian3.fromRadians(currentCart.longitude, currentCart.latitude, currentHeight);
 
-    const optimalCameraHeight = this.findOptimalCameraHeight(new Cesium.Cartographic(currentCart.longitude, currentCart.latitude, currentHeight));
+    const optimalCameraHeight = this.findOptimalCameraHeight(new this.Cesium.Cartographic(currentCart.longitude, currentCart.latitude, currentHeight));
     if (cameraHeight && optimalCameraHeight) {
       this.currentTilt += (cameraHeight - optimalCameraHeight) * 0.01;
       this.currentTilt = Math.max(this.currentTilt, -90);
@@ -382,7 +382,7 @@ class Map extends React.Component {
       layer.saturation = 0.2;
       layer.brightness = 1.5;
     }
-    const snowLayer = layers.addImageryProvider(new Cesium.SingleTileImageryProvider({
+    const snowLayer = layers.addImageryProvider(new this.Cesium.SingleTileImageryProvider({
       url : __PATH_PREFIX__ + '/snow-texture.jpg',
       rectangle : hdRectangle
     }));
@@ -406,7 +406,7 @@ class Map extends React.Component {
         numberOfLevelZeroTilesY: 1
       }),
       rectangle: hdRectangle,
-      credit: new Cesium.Credit('geodata © swisstopo', true)
+      credit: new this.Cesium.Credit('geodata © swisstopo', true)
     });
     this.viewer.scene.imageryLayers.addImageryProvider(provider);
   }
@@ -419,7 +419,7 @@ class Map extends React.Component {
       tileMatrixSetID: 'google3857',
       subdomains: '1234',
       rectangle: hdRectangle,
-      credit: new Cesium.Credit('<a href="https://www.basemap.at/" target="_blank">Datenquelle: basemap.at</a>', true)
+      credit: new this.Cesium.Credit('<a href="https://www.basemap.at/" target="_blank">Datenquelle: basemap.at</a>', true)
     });
     this.viewer.scene.imageryLayers.addImageryProvider(provider);
   }
