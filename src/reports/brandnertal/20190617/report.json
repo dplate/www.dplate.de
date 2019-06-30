@@ -1,0 +1,194 @@
+[
+  {
+    "destination": "brandnertal",
+    "date": "d20190617",
+    "type": "hike",
+    "track": true,
+    "detailMap": "austria",
+    "shortTitle": "Natursprünge-Weg",
+    "title": "Brandnertal Natursprünge-Weg",
+    "title3d": {
+      "offsetY": 2.0,
+      "fontSize": 7.2,
+      "align": "right"
+    },
+    "intro": "Nachdem der viele Schnee in den Alpen nun (zumindest unter 2000m) weg ist, ging es an diesem Montag auf eine kleine Panoramawanderung ins Brandnertal. Um 10:30 stellten wir das Auto auf dem Gratisparkplatz mitten in Brand ab und kauften die Tageskarte für die Bergbahnen für 23€ pro Person. Da wir insgesamt drei Bahnfahrten vor hatten, war die Tageskarte bereits das günstigste Angebot.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Bergstation Dorfbahn"
+          }
+        ],
+        "text": "Die ersten 400 Höhenmeter auf 1390m ging schnell es mit der Dorfbahn hinauf. Von dort ging es dann zu Fuß erst auf angelegtem Wanderweg hinauf. Hier der Blick zurück auf die Bergstation der Dorfbahn auf Parpfienz. An diesem Tag war es windstill und warm."
+      },
+      {
+        "photos": [
+          {
+            "name": "002",
+            "alt": "Aufstieg Innere Parfienzalpe"
+          }
+        ],
+        "text": "Am Anfang geht der Weg etwas zügiger zu der kleinen Hochfläche bei der Inneren Parfienzalpe hinauf. Aber da es sich um einen kinderwagengängigen Weg handelt ist alles sehr harmlos."
+      },
+      {
+        "photos": [
+          {
+            "name": "004",
+            "alt": "Innere Parfienzalpe"
+          },
+          {
+            "name": "005",
+            "alt": "Stausee Parfienz"
+          }
+        ],
+        "text": "Schnell war der kleine Stausee etwas unterhalb der Inneren Pafienzalpe erreicht, um den auch ein angelegter Barfußweg führt. Auch eine Grillstelle gibt es dort, aber leider ist er (typisch Schneekanonensee) nicht zum Baden geeignet.<br />An der Inneren Parfienzalpe gibt es eine kleine Alpwirtschaft, aber an dieser gingen wir nur vorbei."
+      },
+      {
+        "photos": [
+          {
+            "name": "006",
+            "alt": "Schliefwaldbach"
+          }
+        ],
+        "text": "Nach der Alp ist das Ende des Tals erreicht und ab nun ging es auf breiten Feldweg weiter. Hier hatten wir bereits den Schliefwaldbach überquert. Entlang des Natursprünge-Weg gibt es viele Stationen für Kinder, wo die Natur der Alpen erklärt werden."
+      },
+      {
+        "photos": [
+          {
+            "name": "007",
+            "alt": "Tuklar"
+          }
+        ],
+        "text": "Blick hinauf zum 2300m hohen Tuklar."
+      },
+      {
+        "photos": [
+          {
+            "name": "008",
+            "alt": "Natursprünge-Weg"
+          }
+        ],
+        "text": "So sieht der weitere Verlauf des Natursprünge-Weg hauptsächlich aus. Ein gleichmäßig ansteigender Feldweg entlang des tiefen Tals des Schliefwaldbachs."
+      },
+      {
+        "photos": [
+          {
+            "name": "010",
+            "alt": "Gulmabahn"
+          }
+        ],
+        "text": "Hinter uns war nun die Bergstation der Gulmabahn zusehen, die aber im Sommer nicht in Betrieb war. Dort wurden nur gerade Revisionsarbeiten durchgeführt."
+      },
+      {
+        "photos": [
+          {
+            "name": "011",
+            "alt": "Wanderweg Brandnertal"
+          }
+        ],
+        "text": "Und weiter ging es auf dem Weg hinauf zum fast 1700m hohen Parfienzsattel. Hier der Blick zurück. Es war für einen Montag einiges los, die meisten Urlauber machten diesen Weg aber abwärts - was die Sache noch einfacher macht. Auch ein paar Mountainbiker (viele mit Hilfsmotor) waren hier unterwegs."
+      },
+      {
+        "photos": [
+          {
+            "name": "012",
+            "alt": "Seilbahn vor Felsen"
+          }
+        ],
+        "text": "Tele zu den Gondeln der Panoramabahn, die uns nach dem Natursprünge-Weg wieder zurück nach Parfienz bringen wird."
+      },
+      {
+        "photos": [
+          {
+            "name": "013",
+            "alt": "Enzian"
+          },
+          {
+            "name": "014",
+            "alt": "Trollblume"
+          }
+        ],
+        "text": "Enzian und Trollblume am Wegesrand."
+      },
+      {
+        "photos": [
+          {
+            "name": "015",
+            "alt": "Panorama Brandnertal"
+          }
+        ],
+        "text": "Bei diesem Blick zurück kann man ein Großteil des bisherigen Wegs sehen. Links die Bergstation der Dorfbahn / Talstationd der Panoramabahn, in der Mitte der Stausee der Inneren Parfienzalpe und recht der Feldweg.<br />Im Hintergrund ist nun links die Staumauer des Lünersees zu sehen und in der Mitte die fast 3000m hohe <a target='_blank' href='/alpine/brandnertal/20150829'>Schesaplana</a>, die ich vor vier Jahren mal bestiegen hatte."
+      },
+      {
+        "photos": [
+          {
+            "name": "016",
+            "alt": "Windeggerspitze"
+          }
+        ],
+        "text": "Tele zurück zur 2300m hohen Windeggerspitze."
+      },
+      {
+        "photos": [
+          {
+            "name": "017",
+            "alt": "Parfienzsattel"
+          },
+          {
+            "name": "021",
+            "alt": "Vordere Parfienzalpe"
+          }
+        ],
+        "text": "Noch vor dem Parfienzsattel geht es an der idylischen Vorderen Parfienzalpe oberhalb vorbei. Noch vor drei Monaten sah es hier übrigens so aus: <a href='https://500px.com/photo/299666485/vordere-parfienzalpe-by-dirk-plate' target='_blank'>Vordere Parfienzalpe im Winter</a>."
+      },
+      {
+        "photos": [
+          {
+            "name": "023",
+            "alt": "Faregglift im Sommer"
+          }
+        ],
+        "text": "Blick vom Parfienzsattel hinab auf der Rückseite. Dort befindet sich der kleine Faregglift, den man verwendet um genau diesen Natursprünge-Weg im Winter als Verbindungspiste nach Brand zu benutzen."
+      },
+      {
+        "photos": [
+          {
+            "name": "025",
+            "alt": "Spazierweg Vorarlberg"
+          }
+        ],
+        "text": "Ein letzter Blick zurück auf die zurückgelegte Strecke bei immer noch schönstem Wetter. Ab dem Parfienzsattel führt der Weg durch einen lichten Wald weiter am Hang entlang - nun aber mit einigen kleinen Auf- und Abstiegen."
+      },
+      {
+        "photos": [
+          {
+            "name": "026",
+            "alt": "Baumstumpf"
+          }
+        ],
+        "text": "Alter Baumstumpf am Wegrand mit Ameisenhaufen und Pilz."
+      },
+      {
+        "photos": [
+          {
+            "name": "027",
+            "alt": "Berggasthaus Frööd"
+          }
+        ],
+        "text": "Ankunft auf dem 1680m hohen Burtschasattel um 14:00, dem Ziel unserer Wanderung. Dort befindet sich die Bergstation der Panoramabahn und die Gaststätte Frööd, bei der wir dann auf der Terasse die Wanderung beendeten."
+      },
+      {
+        "photos": [
+          {
+            "name": "028",
+            "alt": "Panoramabahn Brand"
+          }
+        ],
+        "text": "Anschließend ging es dann mit der Panoramabahn und der Dorfbahn zurück nach Brand."
+      }
+    ],
+    "outro": "Fazit: Kleine und einfache Wanderung bei schönstem Wetter. Hauptsächlich führt der Natürsprünge-Weg auf Fahrstraßen. Aber damit ist er natürlich auch für jeden gut machbar. Wer sich nicht so viel Zeit lässt wie wir, schafft die 5km in unter 2h. Und wem die 300m Aufstieg zu viel sind, kann die Tour auch andersherum machen. Ich denke aber auch, dass auf diesem Weg an Wochenenden ziemlich viel los ist."
+  }
+]

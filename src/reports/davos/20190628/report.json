@@ -1,0 +1,313 @@
+[
+  {
+    "destination": "davos",
+    "date": "d20190628",
+    "type": "hike",
+    "track": true,
+    "detailMap": "swiss",
+    "shortTitle": "Zügenschlucht",
+    "title": "Zügenschlucht",
+    "title3d": {
+      "offsetY": 1.0,
+      "fontSize": 12.0,
+      "align": "center"
+    },
+    "intro": "An diesem Freitag sollten es über 30° werden, so suchten wir als Ziel für eine kleine Wanderung die Zügenschlucht südlich von Davos aus.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Bahnhof Davos Monstein"
+          }
+        ],
+        "text": "Das Auto stellten wir am kleinen (und ziemlich verlassenem) Bahnhof Monstein ab. Der eigentliche Ort liegt ein paar hundert Meter oberhalb, so dass es abgesehen von der Straße und einem Brunnen dort nicht viel gibt. Wir hatten vor mit der Bahn die Schlucht hinab zum Bahnhof Wiesen zu fahren und von dort die Schlucht hinauf zu gehen.<br />Nachdem die Fahrkarte am Automaten gelöst war, mussten wir noch eine knappe halbe Stunde auf den stündlich fahrenden Zug warten."
+      },
+      {
+        "photos": [
+          {
+            "name": "002",
+            "alt": "RhB-Krododil 415"
+          }
+        ],
+        "text": "Aber die Wartezeit hatte sich gelohnt, fährt doch im Sommer auf dieser Strecke zum Teil eine historische Bahn im normalen Linienverkehr (also auch zum normalen Tarif). In unserem Fall kam die Krokodil 415 der Rhätischen Bahn aus dem Jahr 1929 angerollt, passend mit ebenfalls alten Waggons."
+      },
+      {
+        "photos": [
+          {
+            "name": "003",
+            "alt": "Offener Waggon Zügenschlucht"
+          }
+        ],
+        "text": "Teil des Zugs waren auch zwei offene Waggons, in denen man die Fahrt am intensivsten erleben kann. Man muss aber dazu sagen, dass die Bahn zwischen Monstein und Wiesen die meiste Zeit im Tunnel fährt."
+      },
+      {
+        "photos": [
+          {
+            "name": "004",
+            "alt": "Bärentritt im historischem Zug"
+          }
+        ],
+        "text": "Highlight der kurzen (4-5km) Fahrt ist die Passage der Brücke beim Bärentritt. Diese nur ca. 5m lange Brücke befindet sich zwischen zwei Tunneln und überquert dabei einen tosenden Wasserfall. Dabei wird man auf den offenen Waggons von der Gischt eingenebelt. Der historische Zug fährt dabei an dieser Stelle extra langsam. :)"
+      },
+      {
+        "photos": [
+          {
+            "name": "005",
+            "alt": "Krododil 415 in Wiesen"
+          }
+        ],
+        "text": "Ankunft am Bahnhof in Wiesen. Der Zug fährt direkt anschließend über das <a href='/alpine/davos/20180610' target='_blank'>Wiesener Viadukt</a>, das ich im Jahr zuvor besichtigt hatte."
+      },
+      {
+        "photos": [
+          {
+            "name": "006",
+            "alt": "Carrozza panoramica"
+          }
+        ],
+        "text": "Blick auf das hintere Ende des historischen Zugs mit den beiden offenen Panoramawagen."
+      },
+      {
+        "photos": [
+          {
+            "name": "007",
+            "alt": "Bahnhof Wiesen"
+          }
+        ],
+        "text": "Für uns ging es nun zu Fuß zurück. Blick zurück auf den Bahnhof Wiesen, der wie der Bahnhof Monstein ebenfalls weit unterhalb des eigentlichen Orts Wiesen liegt."
+      },
+      {
+        "photos": [
+          {
+            "name": "008",
+            "alt": "Steinbrücke Alpen"
+          }
+        ],
+        "text": "Der erste Abschnitt des Wegs vom Bahnhof Wiesen zum Bärentritt führt auf gut ausgebautem Wanderweg oberhalb der Bahnstrecke. Hier der Blick hinab zur kleinen (aber sehr hohen) Straßenbrücke zum Ort Jenisberg direkt beim Bahnhof Wiesen."
+      },
+      {
+        "photos": [
+          {
+            "name": "010",
+            "alt": "Wasserfall Zügenschlucht"
+          }
+        ],
+        "text": "Bei einem kleinen Aussichtspunkt kann man nun das Tal weiter hinaufschauen. Der Wasserfall (dank der Schneeschmelze gerade ziemlich intensiv) befindet sich genau beim Bärentritt, worüber die Eisenbahn zuvor fuhr. Die Brücke ist aus dieser Perspektive aber nicht zu sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "012",
+            "alt": "Landwasser"
+          }
+        ],
+        "text": "Tiefblick hinab zum Fluß Landwasser, der diese tiefe Schlucht in den Berg gegraben hat. Während der ganzen Wanderung war das Tosen des Bachs unüberhörbar."
+      },
+      {
+        "photos": [
+          {
+            "name": "013",
+            "alt": "Wanderweg Wiesen Bärentritt"
+          }
+        ],
+        "text": "Und so sah der Wanderweg hier aus. An steileren Abschnitten zusätzlich mit Geländer gesichert, also ungefährlich. Nur bei starkem Regen wird von diesem Weg gewarnt, da es wohl zu Erdrutschen kommen kann."
+      },
+      {
+        "photos": [
+          {
+            "name": "014",
+            "alt": "Brücke Bärentritt"
+          },
+          {
+            "name": "015",
+            "alt": "Bach Bärentritt"
+          }
+        ],
+        "text": "Etwas oberhalb der Eisenbahnbrücke überquert der Wanderweg den Bach beim Bärentritt, der auf dem Bild zuvor den beindruckenden Wasserfall gebildet hatte."
+      },
+      {
+        "photos": [
+          {
+            "name": "016",
+            "alt": "Tunnel Bärentritt"
+          },
+          {
+            "name": "017",
+            "alt": "Historischer Zug auf Bärentritt"
+          }
+        ],
+        "text": "Ich hatte leider knapp den Zeitpunkt verpasst, als die offenen Wagen des historischen Zugs die Brücke beim Bärentritt passierten, deshalb hier nur Bilder von den (ebenfalls alten) Güterwaggons über dem Wasserfall."
+      },
+      {
+        "photos": [
+          {
+            "name": "018",
+            "alt": "Sehenswürdigkeit Bärentritt"
+          }
+        ],
+        "text": "Und noch ein Bild vom Aussichtspunkt oberhalb des Wasserfalls. Schon ein irres Bauwerk."
+      },
+      {
+        "photos": [
+          {
+            "name": "019",
+            "alt": "Wasserfall mit Regenbogen"
+          }
+        ],
+        "text": "Ein letztes Foto am Bärentritt direkt nach unten, wo der Wasserfall auf das Landwasser tritt... inklusive kleinem Regenbogen."
+      },
+      {
+        "photos": [
+          {
+            "name": "021",
+            "alt": "Kunstbauten alte Zügenstraße"
+          }
+        ],
+        "text": "Ab Bärentritt geht der Weg auf der alten Zügenstraße entlang, die aber nur noch für Radfahrer und Fußgänger geöffnet ist. Diese schmale Straße durch die Schlucht wurde innerhalb von nur zwei Jahren 1874 erbaut und war bis 1974 in Betrieb. Heutzutage geht es mit dem Auto deutlich weniger schön durch einen langen Straßentunnel."
+      },
+      {
+        "photos": [
+          {
+            "name": "022",
+            "alt": "Alte Zügenstraße"
+          },
+          {
+            "name": "023",
+            "alt": "Tunnelausgang"
+          },
+          {
+            "name": "025",
+            "alt": "Straße durch die Zügenschlucht"
+          }
+        ],
+        "text": "Es geht auf der Straße durch viele kurz (unbeleuchtete) Tunnel. Angenehm, da in jedem dieser Tunnel ein frischer Wind wehte (ja, es war warm)."
+      },
+      {
+        "photos": [
+          {
+            "name": "026",
+            "alt": "Mobilitätsweg"
+          },
+          {
+            "name": "027",
+            "alt": "Lawinenreste"
+          }
+        ],
+        "text": "An zwei Stellen war im Winter eine Lawine in die Schlucht abgegangen. Hier die Reste der ersten, die langsam vom Landwasser abgetragen wird. Die Größenverhältnisse sind hier nicht so sichtbar, aber die Schneedicke war dort sicher um die 5m. Auch steckten im Schnee ganze Baumstämme."
+      },
+      {
+        "photos": [
+          {
+            "name": "028",
+            "alt": "Landwasser"
+          },
+          {
+            "name": "029",
+            "alt": "Holzbrücke Jenisberg"
+          }
+        ],
+        "text": "Aus der Schlucht geht es über eine Holzbrücke über das Landwasser nach Jenisberg. Dort hinüber sind wir aber nicht gegangen."
+      },
+      {
+        "photos": [
+          {
+            "name": "030",
+            "alt": "Gewöhnliche Kratzdistel"
+          }
+        ],
+        "text": "Farbenfrohe Blüte der Kratzdistel mit farbenfrohem Insekt am Wegrand."
+      },
+      {
+        "photos": [
+          {
+            "name": "031",
+            "alt": "Lawinenkegel"
+          }
+        ],
+        "text": "Zweiter Lawinenkegel. Noch deutlich massiver als der Erste. Ich schätze die Dicke auf 15m. Man vergleiche die Bäume drumherum."
+      },
+      {
+        "photos": [
+          {
+            "name": "033",
+            "alt": "Schmetterling auf Finger"
+          }
+        ],
+        "text": "Ein kleiner Schmetterling macht Rast auf dem Finger."
+      },
+      {
+        "photos": [
+          {
+            "name": "034",
+            "alt": "Eisenbahnbrücke"
+          }
+        ],
+        "text": "Dann unterquerte die alte Zügenstraße die Eisenbahnstrecke, die an dieser Stelle die Talseite wechselt."
+      },
+      {
+        "photos": [
+          {
+            "name": "035",
+            "alt": "Steinbrücke alte Zügenstraße"
+          }
+        ],
+        "text": "Wenig später überquert auch die alte Zügenstraße das Landwasser. Allerdings über eine deutlich niedrigere Brücke."
+      },
+      {
+        "photos": [
+          {
+            "name": "036",
+            "alt": "Radfahren Zügenschlucht"
+          },
+          {
+            "name": "038",
+            "alt": "Landwasser Tal"
+          }
+        ],
+        "text": "Anschließend geht die Straße immer direkt unten am Fluss entlang, aber auch weiterhin durch Fels und Tunnel."
+      },
+      {
+        "photos": [
+          {
+            "name": "039",
+            "alt": "Felsschichtungen"
+          }
+        ],
+        "text": "Blick den steilen Hang hinauf, wo die Felschichtungen gut erkennbar waren. Ein kleiner Bach hatte sich hier durch die schräg verlaufenen Schichtungen gekämpft."
+      },
+      {
+        "photos": [
+          {
+            "name": "041",
+            "alt": "Strömender Bach"
+          }
+        ],
+        "text": "Noch eine längere Pause am strömenden (und eiskalten) Bach. Versuch einer längeren Belichtungsdauer trotz strahlendem Sonnenschein und ohne Graufilter, stattdessen durch die Sonnenbrille."
+      },
+      {
+        "photos": [
+          {
+            "name": "042",
+            "alt": "Wanderung Zügenschlucht"
+          },
+          {
+            "name": "044",
+            "alt": "Rhätische Bahn"
+          }
+        ],
+        "text": "Am Ende (eigentlich Anfang) der Schlucht erreicht man wieder die Eisenbahnstrecke und das Tal öffnet sich."
+      },
+      {
+        "photos": [
+          {
+            "name": "046",
+            "alt": "Rhätische Bahn Davos Monstein"
+          }
+        ],
+        "text": "Und nach einem kurzen Abschnitt entlang der Hauptstraße war auch wieder der Bahnhof Monstein erreicht, bei dem gerade mal wieder die Bahn ankam."
+      }
+    ],
+    "outro": "Fazit: Der rund 5km lange Weg ist abwechslungsreich, aber trotzdem einfach zu gehen. Highlight ist die Fahrt mit der historischen Bahn und der Bärentritt. Aber auch sonst sind die steilen Felswände der Schlucht und das tosende Landwasser beeindruckend.<br />Wer es etwas länger will, kann auch die ganze Strecke bis nach Filisur wandern."
+  }
+]

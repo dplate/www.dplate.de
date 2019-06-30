@@ -187,3 +187,5 @@ http://www.dplate.de/alpine/malbun/20181117
 http://www.dplate.de/alpine/lenzerheide/20181220
 http://www.dplate.de/alpine/obersaxen/20190209
 http://www.dplate.de/alpine/flumserberg/20190405
+http://www.dplate.de/alpine/brandnertal/20190617
+http://www.dplate.de/alpine/davos/20190628
