@@ -1,0 +1,565 @@
+[
+  {
+    "destination": "davos",
+    "date": "d20190811",
+    "type": "hike",
+    "track": true,
+    "detailMap": "swiss",
+    "shortTitle": "Pischahorn",
+    "title": "Tschuggen - Pischahorn",
+    "title3d": {
+      "offsetY": 3.0,
+      "fontSize": 7.5,
+      "align": "left"
+    },
+    "intro": "Mitte August ist der Schnee auch von den hohen Bergen verschwunden und für diesen Sonntag war außerdem noch stabiles Bergwetter angesagt. Also nahm ich mir mal wieder einen richtig hohen Gipfel vor: das knapp 3000m hohe Pischahorn bei Davos.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Gasthaus Tschuggen"
+          }
+        ],
+        "text": "Das Auto stellte ich um 8:00 auf dem großen Parkplatz des Gasthaus Tschuggen an der Flüela-Passstraße ab. Es könnte sein, dass der Parkplatz eigentlich nur für Gäste ist - aber er ist auch so groß, dass es niemanden störte. Ansonsten könnte man auch kleines Stück weiter oben parken.<br />Los ging es dann den Westhang hinauf, bereits dem Wegweiser Pischahorn folgend."
+      },
+      {
+        "photos": [
+          {
+            "name": "002",
+            "alt": "Sonnenaufgang Flüelapass"
+          }
+        ],
+        "text": "Nur kurz lief ich im Schatten, denn die Sonne ist im August schon früh hoch genug. Über dem Flüelapass (hier rechts) waberten noch ein paar Wolkenreste."
+      },
+      {
+        "photos": [
+          {
+            "name": "003",
+            "alt": "Lila Glockenblume"
+          }
+        ],
+        "text": "Das Gras (und die Glockenblumen) am Wegrand waren noch nass von der Nacht und glitzerten in den ersten Sonnenstrahlen."
+      },
+      {
+        "photos": [
+          {
+            "name": "004",
+            "alt": "Flüelapass"
+          }
+        ],
+        "text": "Tele zum nebeligen Flüelapass."
+      },
+      {
+        "photos": [
+          {
+            "name": "005",
+            "alt": "Alpensalamander"
+          }
+        ],
+        "text": "Auf dem Weg brachten sich einige Alpensalamander auf Betriebstemperatur, bevor sie vor mir ins Gras flüchteten. Ich war wohl auch der erste Wanderer hier an diesem Tag."
+      },
+      {
+        "photos": [
+          {
+            "name": "006",
+            "alt": "Sentisch Horn"
+          }
+        ],
+        "text": "Noch einmal die Passstraße zum Flüelapass. Der Berg rechts ist das 2800m hohe Sentisch Horn."
+      },
+      {
+        "photos": [
+          {
+            "name": "007",
+            "alt": "Wanderweg Pischa"
+          }
+        ],
+        "text": "Der Weg geht zuerst in vielen Serpentinen hinauf, aber nicht sehr steil und damit wenig anstrengend."
+      },
+      {
+        "photos": [
+          {
+            "name": "008",
+            "alt": "Scheuchzers Glockenblume"
+          }
+        ],
+        "text": "Eine weitere Glockenblume mit Tautropfen."
+      },
+      {
+        "photos": [
+          {
+            "name": "009",
+            "alt": "Restaurant Tschuggen"
+          }
+        ],
+        "text": "Tele hinab zu meinem Ausgangspunkt Tschuggen. Noch war mein Auto das einzige auf dem Parkplatz. Der Postbus über den Flüelapass fährt tagsüber übrigens nur alle 2h - ist also nicht so leicht für Wanderungen einzuplanen."
+      },
+      {
+        "photos": [
+          {
+            "name": "010",
+            "alt": "Weite Graslandschaft"
+          }
+        ],
+        "text": "Nach den Serpentinen biegt der Weg nach links ab und geht mit nur sehr leichter Steigung den Hang entlang."
+      },
+      {
+        "photos": [
+          {
+            "name": "011",
+            "alt": "Bank mit Weissfluh"
+          }
+        ],
+        "text": "Entlang des gut ausgebauten Wegs sind sogar einige Bänke aufgestellt. Im Hintergrund ist überigens der Weissfluh Gipfel von Parsenn zu sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "012",
+            "alt": "Zwei Murmeltiere"
+          }
+        ],
+        "text": "Auf diesem Abschnitt des Wegs wimmelte es links und rechts von Murmeltieren. Besonders scheu waren sie nicht."
+      },
+      {
+        "photos": [
+          {
+            "name": "013",
+            "alt": "Pass mit ziehenden Wolken"
+          }
+        ],
+        "videos": [
+          "AjnPPx-fQXw"
+        ],
+        "text": "16 fache Zeitrafferaufnahme der Wolken, wie sie über den Flüelapass ziehen, nur um sich direkt danach aufzulösen."
+      },
+      {
+        "photos": [
+          {
+            "name": "014",
+            "alt": "Bergstation Pischa"
+          },
+          {
+            "name": "015",
+            "alt": "Wegweiser Pischa"
+          }
+        ],
+        "text": "Dann erreichte ich nach 500m Aufstieg mein erstes Zwischenziel, die Bergstation der Pischabahn auf knapp 2500m. Da die Seilbahn im Sommer nicht mehr in Betrieb ist, war dort alles ausgestorben."
+      },
+      {
+        "photos": [
+          {
+            "name": "016",
+            "alt": "Pischagrat"
+          }
+        ],
+        "text": "Von Pischa aus ging es nun 100m weiter hinauf auf den Pischagrat und der Blick fällt in das dahinter versteckte Tal des Mönchalpbachs."
+      },
+      {
+        "photos": [
+          {
+            "name": "017",
+            "alt": "Wanderung Pischa"
+          }
+        ],
+        "text": "Nun der erste richtige Blick auf das Pischahorn (links). Mein Aufstieg folgte dem Grat von rechts kommend. Es ging also jetzt zuerst auf den namenlosen Buckel (2700m) rechts rauf."
+      },
+      {
+        "photos": [
+          {
+            "name": "018",
+            "alt": "Pischagrat"
+          }
+        ],
+        "text": "Blick zurück beim Anstieg auf den Pischagrat und die Bergstation Pischa."
+      },
+      {
+        "photos": [
+          {
+            "name": "019",
+            "alt": "Aufstieg"
+          }
+        ],
+        "text": "Der Weg ging nun deutlich zügiger und anstrengender bergauf, aber es blieb ungefährlich."
+      },
+      {
+        "photos": [
+          {
+            "name": "020",
+            "alt": "Schwarzhorn"
+          }
+        ],
+        "text": "Tele auf das 3100m hohe <a href='/alpine/davos/20170801' target='_blank'>Schwarzhorn</a> beim Flüelapass, das ich vor zwei Jahren mal bestiegen hatte. Auch eine empfehlenswerte Gipfeltour."
+      },
+      {
+        "photos": [
+          {
+            "name": "021",
+            "alt": "Wanderung Pischahorn"
+          },
+          {
+            "name": "022",
+            "alt": "Panorama Pischa"
+          }
+        ],
+        "text": "Blick vom 'kleinen' Buckel: erst Richtung Pischahorn und dann zurück nach Pischa. Im Hintergrund ist jetzt auch Davos zu sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "023",
+            "alt": "Wanderung Davos"
+          }
+        ],
+        "text": "Nach dem Buckel ging es wieder ein kleines Stück bergab. Hier der Blick zurück."
+      },
+      {
+        "photos": [
+          {
+            "name": "024",
+            "alt": "Weg durch Gras und Fels"
+          }
+        ],
+        "text": "Anschließend weiter ansteigend durch die letzte Vegetation, bevor nur noch eine Felslandschaft die Umgebung prägte."
+      },
+      {
+        "photos": [
+          {
+            "name": "025",
+            "alt": "Gefährlicher Weg Pischahorn"
+          }
+        ],
+        "text": "Dies war der gefährlichste Abschnitt des Aufstiegs. Dank des Seils kommt man aber problemlos um den Felsen herum... aber man würde es auch gut ohne schaffen, denn besonders schmal war der Weg nicht."
+      },
+      {
+        "photos": [
+          {
+            "name": "026",
+            "alt": "Aufstieg Pischahorn"
+          }
+        ],
+        "text": "Trotz des unwirklichen Untergrunds war der Weg ziemlich gut ausgebaut, selbst durch dieses Geröllfeld ging es recht einfach rauf."
+      },
+      {
+        "photos": [
+          {
+            "name": "027",
+            "alt": "Seen Pischahorn"
+          },
+          {
+            "name": "028",
+            "alt": "Bergweg Pischahorn"
+          }
+        ],
+        "text": "Der Aufstieg zog sich dann doch etwas überraschend lange hin. Immer wieder ging es auch mal auf den Grat und die Aussicht wurde mit jedem Meter Aufstieg schöner."
+      },
+      {
+        "photos": [
+          {
+            "name": "029",
+            "alt": "Pischa Vereina"
+          }
+        ],
+        "text": "Auf 2900m Höhe erreichte ich die Abzweigung zum Berghaus Vereina, das aber 1000m tiefer liegt. Für mich ging es natürlich hier nach links weiter."
+      },
+      {
+        "photos": [
+          {
+            "name": "030",
+            "alt": "Isentällispitz"
+          }
+        ],
+        "text": "Nun konnte ich auch mal etwas nach Süden schauen. Hier ist die Isentällispitz zu sehen, die zwischen dem Pischhorn und den <a href='/alpine/davos/20150808' target='_blank'>Jöriseen</a> liegt.<br />Der hier im Bild zu sehende Schnee störte beim Aufstieg nicht, denn der Weg war komplett im schneefreien Gelände angelegt."
+      },
+      {
+        "photos": [
+          {
+            "name": "031",
+            "alt": "Gratwanderung Davos"
+          }
+        ],
+        "text": "Kurz vor dem Gipfel ging es noch mal ein Stück über den Grat. Das sieht hier auf dem Foto aber schwieriger aus, als es war."
+      },
+      {
+        "photos": [
+          {
+            "name": "032",
+            "alt": "Plattenhörner"
+          }
+        ],
+        "text": "Auf dem Gipfel angekommen beeindruckt sofort der Blick ins Vereina-Tal und die dahinter hochragenden Felsen der 3200m hohen Plattenhörner. Das hatte ich so gar nicht erwartet. Der 3400m hohe Piz Linard rechts dahinter versteckte sich leider die ganze Zeit hinter Wolken."
+      },
+      {
+        "photos": [
+          {
+            "name": "033",
+            "alt": "Aussicht Pischahorn"
+          }
+        ],
+        "text": "Weniger spektakulär der Blick nach Süden zum Flüelapass, dem Ausgangspunkt meiner Wanderung."
+      },
+      {
+        "photos": [
+          {
+            "name": "034",
+            "alt": "Vereina"
+          }
+        ],
+        "text": "Deshalb noch mal der beeindruckende Blick ins Vereina-Tal.<br />Inzwischen war es übrigens 11:45, ich hatte also für die gut 1000m Aufstieg 3,5h gebraucht."
+      },
+      {
+        "photos": [
+          {
+            "name": "035",
+            "alt": "Gipfel Pischahorn"
+          }
+        ],
+        "text": "Der Gipfel des Pischahorns ist sehr langgezogen und man kann nicht wirklich ausmachen, wo der höchste Punkt ist. Hier bin ich auf dem Weg vom Süd- zum Nordgipfel."
+      },
+      {
+        "photos": [
+          {
+            "name": "036",
+            "alt": "Panorama Pischahorn"
+          }
+        ],
+        "text": "Dort war ein fotogenes Steinmänchen aufgebaut, dass natürlich noch mal für ein Foto mit den Plattenhörnern erhalten musste."
+      },
+      {
+        "photos": [
+          {
+            "name": "037",
+            "alt": "Wegweiser Pischahorn"
+          }
+        ],
+        "text": "Außerdem steht oben auch auch noch ein Wegweiser. Von links war ich gekommen und für den Abstieg nahm ich den Weg nach rechts."
+      },
+      {
+        "photos": [
+          {
+            "name": "038",
+            "alt": "Wanderurlaub Davos"
+          }
+        ],
+        "text": "Dieses Foto Richtung Davos bietet einen guten Überblick: Über den Grat links war ich von Pischa (Bildmitte) aufgestiegen. Nun sollte es über den Grat rechts wieder hinuntergehen, um dann unterhalb der beiden Seen das Tal wieder nach links Richtung Pischa zu kreuzen."
+      },
+      {
+        "photos": [
+          {
+            "name": "039",
+            "alt": "Gipfelplateau Pischahorn"
+          }
+        ],
+        "text": "Noch ein letzter Blick vor dem Abstieg vom Nord- zum Südgipfel. Zum Teil wurde die Sonne nun von Wolken verdeckt, es war für fast 3000m Höhe aber trotzdem ziemlich mild, so dass ich nicht mal eine Jacke über das T-Shirt ziehen musste."
+      },
+      {
+        "photos": [
+          {
+            "name": "040",
+            "alt": "Nordgrat Pischahorn"
+          }
+        ],
+        "text": "Der Abstieg über den Nordgrat war noch einfacher, als der Aufstieg. Ich konnte überraschend locker hinunterspazieren."
+      },
+      {
+        "photos": [
+          {
+            "name": "041",
+            "alt": "Drahtseil Pischahorn"
+          }
+        ],
+        "text": "Nur ein kurzer Abschnitt war wieder mit einem Drahtseil gesichert - als es hier an diesem Felsen vorbeiging."
+      },
+      {
+        "photos": [
+          {
+            "name": "042",
+            "alt": "Weg durch Fels"
+          }
+        ],
+        "text": "Der Weg hat mir gut gefallen, hier ging es originell durch die Felsen hindurch."
+      },
+      {
+        "photos": [
+          {
+            "name": "043",
+            "alt": "Pischahorn"
+          }
+        ],
+        "text": "Blick zurück zum Pischahorn. Den 'Gletscher' darunter wird es wohl nicht mehr lange geben. Über ihn polterten unaufhörlich Steine vom Gipfel herab."
+      },
+      {
+        "photos": [
+          {
+            "name": "044",
+            "alt": "Silvrettagletscher"
+          }
+        ],
+        "text": "Richtung Westen dagegen konnte ich noch einen richtigen Gletscher sehen, den Silvrettagletscher vor dem Piz Buin."
+      },
+      {
+        "photos": [
+          {
+            "name": "045",
+            "alt": "Piz Linard"
+          }
+        ],
+        "text": "Ein letzter Blick zu den Plattenhörnern und dem Piz Linard. Jetzt mit etwas weniger Wolken."
+      },
+      {
+        "photos": [
+          {
+            "name": "046",
+            "alt": "Lauizughorn"
+          }
+        ],
+        "text": "Bevor ich den Grat Richtung Süden verließ, die Aussicht nach Norden.<br />Hier begegnete ich auch dem ersten anderen Wanderer des Tages, der von Richtung Klosters heraufkam."
+      },
+      {
+        "photos": [
+          {
+            "name": "047",
+            "alt": "Hochgebirgswanderung"
+          }
+        ],
+        "text": "Nach dem Abstieg vom Grat ging es nun quer durch das Tal Richtung Pischa. Links das Pischahorn und in der Bildmitte der Buckel vom Aufstieg."
+      },
+      {
+        "photos": [
+          {
+            "name": "048",
+            "alt": "Wanderweg in Alpen"
+          }
+        ],
+        "text": "Auch dieser Abschnitt des Wegs war wirklich schön. :)"
+      },
+      {
+        "photos": [
+          {
+            "name": "049",
+            "alt": "Wegweiser zum See"
+          }
+        ],
+        "text": "Der Wanderweg geht eigentlich oberhalb des Pischasees vorbei, ich entschied mich aber für den kleinen zusätzlichen Abstieg zum See."
+      },
+      {
+        "photos": [
+          {
+            "name": "050",
+            "alt": "Pischasee"
+          }
+        ],
+        "text": "Und hier ist er auch schon, der 2500m hoch gelegene Pischasee."
+      },
+      {
+        "photos": [
+          {
+            "name": "051",
+            "alt": "Wollgras"
+          }
+        ],
+        "text": "Nebenan gibt es auch noch einen kleineren, mit Wollgras geschmückten See. Zeit für eine weitere Pause."
+      },
+      {
+        "photos": [
+          {
+            "name": "052",
+            "alt": "Davos See"
+          }
+        ],
+        "text": "Hier noch mal der Pischasee von der anderen Seite. Man könnte wahrscheinlich auch baden, aber so heiß war mir an diesem Tag nicht."
+      },
+      {
+        "photos": [
+          {
+            "name": "053",
+            "alt": "Hochgebirgslandschaft"
+          }
+        ],
+        "text": "Vom See muss man nicht unbedingt zum offiziellen Wanderwerg zurücklaufen, sondern man kann auch einen aufgegebenen Weg weiterlaufen. Dieser ist noch gut zu erkennen und (bis auf eine kleine Steilstufe durch den Fels) auch einfach zu gehen. Auf den Karten ist dieser Weg auch noch eingezeichnet."
+      },
+      {
+        "photos": [
+          {
+            "name": "054",
+            "alt": "Gotschnagrat"
+          }
+        ],
+        "text": "Tele zum Gotschnagrat, auf den eine Seilbahn von Klosters hinaufführt."
+      },
+      {
+        "photos": [
+          {
+            "name": "055",
+            "alt": "Geröllfeld"
+          },
+          {
+            "name": "056",
+            "alt": "Wanderweg Pischasee"
+          }
+        ],
+        "text": "Zum anderen Grat hin ging es durch dieses Geröllfeld etwas bergauf. Langsam hatte ich keine Lust mehr auf weitere Aufstiege. ;)"
+      },
+      {
+        "photos": [
+          {
+            "name": "057",
+            "alt": "Skilift Mittelgrat"
+          },
+          {
+            "name": "058",
+            "alt": "Wiese mit Steinen"
+          }
+        ],
+        "text": "Auf dem Grat angekommen, entschied ich mich den Schlenker zur Pischabahn abzukürzen und einfach direkt über die flache, steinige Wiese zum Rückweg nach Tschuggen abzusteigen. Dabei ging es vorbei an der Bergstation des Skilifts Mittelgrat, der abgesehen davon aber komplett abgerissen wurde."
+      },
+      {
+        "photos": [
+          {
+            "name": "059",
+            "alt": "Alpenklee"
+          }
+        ],
+        "text": "Alpenklee"
+      },
+      {
+        "photos": [
+          {
+            "name": "060",
+            "alt": "Flüelagebiet"
+          }
+        ],
+        "text": "Anschließend ging es den Hinweg zurück nach Tschuggen. Nun waren die Nebelresten am Flüelapass verschwunden."
+      },
+      {
+        "photos": [
+          {
+            "name": "061",
+            "alt": "Murmeltier zwischen Felsen"
+          }
+        ],
+        "text": "Und natürlich ging es auch wieder an den neugierigen Murmeltieren vorbei."
+      },
+      {
+        "photos": [
+          {
+            "name": "062",
+            "alt": "Flüela Pass Straße"
+          }
+        ],
+        "text": "Blick auf die kurvig schöne Flüelapassstraße ins Engadin, die im Winter geschlossen ist."
+      },
+      {
+        "photos": [
+          {
+            "name": "063",
+            "alt": "Kapelle Flüela"
+          }
+        ],
+        "text": "Gegen 16:00 erreichte ich dann wieder Tschuggen und beendete damit meine Wanderung."
+      }
+    ],
+    "outro": "Fazit: Bisher haben mir alle Wanderungen rund um den Flüelapass sehr gut gefallen, so auch diese ziemlich unbegangene Tour auf das Pischahorn. Da die Pischabahn nicht mehr im Sommer fährt, kommt kaum noch jemand auf diesen schönen Gipfel... es lohnt sich aber. Die Tour ist rund 18km lang und es sind 1200 Höhenmeter zur überwinden. Ich habe dafür knapp 8h gebraucht, mich aber auch nicht besonders beeilt."
+  }
+]
