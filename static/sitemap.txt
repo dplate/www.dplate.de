@@ -191,3 +191,4 @@ http://www.dplate.de/alpine/brandnertal/20190617
 http://www.dplate.de/alpine/davos/20190628
 http://www.dplate.de/alpine/alpstein/20190801
 http://www.dplate.de/alpine/davos/20190811
+http://www.dplate.de/alpine/savognin/20190915
