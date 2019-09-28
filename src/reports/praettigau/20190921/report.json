@@ -1,0 +1,519 @@
+[
+  {
+    "destination": "praettigau",
+    "date": "d20190921",
+    "type": "hike",
+    "track": true,
+    "detailMap": "swiss",
+    "shortTitle": "Riedkopf",
+    "title": "Partnun - Rotspitz - Riedkopf",
+    "title3d": {
+      "offsetY": 1,
+      "fontSize": 8.0
+    },
+    "intro": "Da ich die Landschaft rund um St. Antönien im Prättigau sehr schön finde, habe ich mir für diesen Schönwettersamstag eine eher wenig begangene Runde vom Wanderparkplatz in Partnun ausgesucht.<br />Gegen 8:30 kam ich dort mit dem Auto an. Eigentlich kostet das Parkticket dort 6 CHF, aber der Parkautomat war irgendwie defekt und schluckte kommentarlos 6 weitere Franken aus meinem Parkmünzvorrat.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Partnun am Morgen"
+          }
+        ],
+        "text": "Vom Parkplatz gehen praktisch alle Wanderwege zurerst Richtung Partnunstafel, eine kleiner Ansammlung von Häusern. Parken ist dort für die Allgemeinheit nicht mehr möglich.<br />Hier der Blick zurück Richtung Parkplatz, der hier aber gerade schon nicht mehr sichtbar ist."
+      },
+      {
+        "photos": [
+          {
+            "name": "002",
+            "alt": "Alpstraße im Schatten"
+          },
+          {
+            "name": "003",
+            "alt": "Tällibach"
+          }
+        ],
+        "text": "Bei Partnunstafel verließ ich bereits die meisten anderen Wanderer, denn der Großteil war zum Partnunsee, zur Sulzfluh oder zur Tilisunahütte unterwegs. Ein paar folgten aber auch meinem Weg nach rechts am Tällibach entlang."
+      },
+      {
+        "photos": [
+          {
+            "name": "004",
+            "alt": "Weberlisch Höli"
+          },
+          {
+            "name": "005",
+            "alt": "Wegweiser auf Felsen"
+          },
+          {
+            "name": "006",
+            "alt": "Weberlisch Höli Felswand"
+          }
+        ],
+        "text": "Nach eher sanftem Anstieg erreichte ich nach rund einer Stunde die Weberlisch Höli, sehr große Höhlen in der Felswand der Schijenflue, die man aber nicht ohne Kletterrei erreichen kann. Dort zweigte mein Weg zur Rotspitz vom Hauptweg zum Plasseggenpass ab und ich war erst man völlig alleine unterwegs."
+      },
+      {
+        "photos": [
+          {
+            "name": "007",
+            "alt": "Schijenflue"
+          },
+          {
+            "name": "008",
+            "alt": "Wanderweg Partnun"
+          }
+        ],
+        "text": "Nun wurde es deutlich anstrengender, muss doch der Weg eine kleine Steilstufe von rund 200 Höhenmeter überwinden. Los gelaufen war ich auf 1600m und die 2200m waren bald erreicht.<br />Rechts ist hier übrigens die Sulzfluh zu sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "009",
+            "alt": "Weg über Bergwiese"
+          }
+        ],
+        "text": "Wieder in flacherem Gelände angekommen entschied ich mich, den Abstecher zur 2500m hohen Rotspitz zu unternehmen. Dafür muss man aber wissen, dass dies 300 Höhenmeter extra bedeutet, muss man doch bei diesem Gipfel den gleichen Weg auch wieder hinunter."
+      },
+      {
+        "photos": [
+          {
+            "name": "010",
+            "alt": "Ausgetrockneter Bergsee"
+          }
+        ],
+        "text": "Zuerst geht es relativ flach über Wiesen und an einem ausgetrockneten Bergsee vorbei hinauf."
+      },
+      {
+        "photos": [
+          {
+            "name": "011",
+            "alt": "Wanderung Rotspitz"
+          }
+        ],
+        "text": "Interessanter wurde es, als ich den Grat zum Gipfel erreichte. Dieser Grat ist gleichzeitig die Grenze zu Österreich, wobei er auf dessen Seite deutlich steiler ist."
+      },
+      {
+        "photos": [
+          {
+            "name": "012",
+            "alt": "Vergaldner Tal"
+          },
+          {
+            "name": "013",
+            "alt": "Vergalda"
+          }
+        ],
+        "text": "Vom Grat aus schaut man hinunter zum Urlaubsort Gargellen und in das dort beginnende Vergaldner Tal, in dem ich aber noch nie war."
+      },
+      {
+        "photos": [
+          {
+            "name": "014",
+            "alt": "Wanderweg Rotspitz"
+          }
+        ],
+        "text": "Auch das letzte Stück des Wegs auf die Rotspitz ist zwar steiler, aber harmlos und gut zu gehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "015",
+            "alt": "Rotspitz"
+          }
+        ],
+        "text": "Ankunft auf der Rotzspitz um 10:30. Im Hintergrund die Sulzfluh und rechts die Schijenflue. Zeit für eine Pause um die Aussicht zu genießen."
+      },
+      {
+        "photos": [
+          {
+            "name": "016",
+            "alt": "Panorama Rotzspitz"
+          }
+        ],
+        "text": "Blick Richtung Österreich. Von hier rechts kam ich hinauf."
+      },
+      {
+        "photos": [
+          {
+            "name": "017",
+            "alt": "Sarotlaspitzen"
+          }
+        ],
+        "text": "Und der Blick nach Norden entlang der österreichischen Grenze. Hinten ist der Plasseggenpass zu sehen. Auf dieser Seite fällt die Rotspitz steil ab."
+      },
+      {
+        "photos": [
+          {
+            "name": "018",
+            "alt": "Aussicht Rotspitz"
+          }
+        ],
+        "text": "Dann auch noch ein Bild Richtung Partnun, wo ich gestartet war."
+      },
+      {
+        "photos": [
+          {
+            "name": "019",
+            "alt": "Montafon im Herbst"
+          }
+        ],
+        "text": "Tele zum <a href='/alpine/montafon/20170109' target='_blank'>Skigebiet Silvretta-Montafon</a> und dahinter der Stausee Kops beim Skigebiet Galtür."
+      },
+      {
+        "photos": [
+          {
+            "name": "020",
+            "alt": "Ronggspitz"
+          }
+        ],
+        "text": "Blick von der Rotspitz zum Riedkopf aka Riedchopf aka Ronggspitz. Nicht weit entfernt, aber es gibt keinen direkten Weg den Grat entlang. D.h. ich musste erst nach rechts/unten zurück, dann das Tal hinauf zum Pass und den Grat von rechts kommend auf den Gipfel."
+      },
+      {
+        "photos": [
+          {
+            "name": "021",
+            "alt": "Valgraggesspitze"
+          }
+        ],
+        "text": "Und noch ein Tele zu den witzig aussehenden diversen Valgragges-Gipfeln in der Nähe der Silvretta Hochalpenstraße."
+      },
+      {
+        "photos": [
+          {
+            "name": "022",
+            "alt": "Abstieg Rotspitz"
+          },
+          {
+            "name": "023",
+            "alt": "Grasweg"
+          }
+        ],
+        "text": "Nun musste ich aber weiter und ich machte mich an den Abstieg.<br />Dann beging ich einen Fehler, weil ich mir die letzten 100 Höhenmeter sparen wollte. Es sah nämlich relativ einfach aus, über einen Hang abzukürzen... aber der war steiler als gedacht und die Querung war sehr anstrengend. Das hatte sich nicht gelohnt und es war unnötig gefährlich."
+      },
+      {
+        "photos": [
+          {
+            "name": "024",
+            "alt": "Sulzfluh Schijenflue Rotspitz"
+          }
+        ],
+        "text": "Froh wieder auf dem Wanderweg zu sein erst mal eine kleine Pause und der Blick zurück. Rechts die Rotspitz, von der ich hinunterkam."
+      },
+      {
+        "photos": [
+          {
+            "name": "025",
+            "alt": "Wanderweg Partnun Riedkopf"
+          }
+        ],
+        "text": "Der nun folgende Aufstieg zum Pass beim Riedkopf war auch nicht ganz ohne, ging es doch recht schmal und steil hinauf. Auch war der Boden nicht immer besonders rutschfest. Runter sicher nicht angenehm."
+      },
+      {
+        "photos": [
+          {
+            "name": "026",
+            "alt": "Schijenflue"
+          }
+        ],
+        "text": "Tele zur Schijenflue"
+      },
+      {
+        "photos": [
+          {
+            "name": "027",
+            "alt": "Steiler Bergweg"
+          },
+          {
+            "name": "028",
+            "alt": "Wandern Prättigau"
+          }
+        ],
+        "text": "Weitere Impressionen während des anstrengenden Aufstiegs auf den Pass."
+      },
+      {
+        "photos": [
+          {
+            "name": "029",
+            "alt": "Wanderung Gargellen"
+          }
+        ],
+        "text": "Ankunft auf dem Pass. Rechts ist der Gipfel des Riedkopfs zu sehen. Hinten in der Mitte die Rotspitz. Nun wurde es deutlich belebter, fast voll, denn von Gargellen (oder besser gesagt von der Bergstation der Gondelbahn dort) ist der Riedkopf ein beliebtes Wanderziel."
+      },
+      {
+        "photos": [
+          {
+            "name": "030",
+            "alt": "Steig Riedkopf"
+          }
+        ],
+        "text": "Zum eigentlichen Gipfel führt nur ein ungesicherter und unmarkierter Steig. Wobei 'unmarkiert' unproblematisch ist, da es einfach den Grat entlang geht."
+      },
+      {
+        "photos": [
+          {
+            "name": "031",
+            "alt": "Riedkopf"
+          }
+        ],
+        "text": "Am Anfang ist der Weg noch einfach und die Aussicht schön."
+      },
+      {
+        "photos": [
+          {
+            "name": "032",
+            "alt": "Gefährlicher Weg Riedkopf"
+          }
+        ],
+        "text": "Aber je näher man dem Gipfelkreuz kommt, desto schwieriger wird es. Hier ging es noch einigermaßen."
+      },
+      {
+        "photos": [
+          {
+            "name": "033",
+            "alt": "Gipfelkreuz Riedkopf"
+          }
+        ],
+        "text": "Ganz zum Schluß wird es richtig knifflig, muss man sich doch um einen Felsen herumdrücken. Die Stelle habe ich nicht aufgenommen, also nicht von diesem harmlosen Foto des Gipfels täuschen lassen."
+      },
+      {
+        "photos": [
+          {
+            "name": "034",
+            "alt": "Panorama Riedkopf"
+          }
+        ],
+        "text": "Kurz vor 12:00 war ich dann auf dem 2550m hohen Gipfel angekommen. Ehrlich gesagt war mir nicht ganz wohl auf dieser ausgesetzten Spitze... bin aber auch nicht ganz schwindelfrei."
+      },
+      {
+        "photos": [
+          {
+            "name": "035",
+            "alt": "Tiefblick Ronggspitz"
+          }
+        ],
+        "text": "Tiefblick hinab Richtung Partnun. Hier ist ein Großteil meines Aufstiegs zu sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "036",
+            "alt": "Aussicht Riedkopf"
+          },
+          {
+            "name": "037",
+            "alt": "Gratweg Gargellen"
+          }
+        ],
+        "text": "Da es auf dem kleinem Gipfel auch recht voll war, habe ich nach einer nur kurzen Pause das erste Steilstück wieder überwunden und etwas unterhalb auf einer gemütlicheren Wiese eine länger Pause gemacht.<br />Hier der Blick auf den Gratweg vom Pass zum Riedkopf."
+      },
+      {
+        "photos": [
+          {
+            "name": "039",
+            "alt": "Fernsicht Alpen"
+          },
+          {
+            "name": "040",
+            "alt": "Wegweiser Riedkopf"
+          }
+        ],
+        "text": "Wieder zurück beim Pass der (österreichische) Wegweiser. 1 1/2 Stunden nach Partnunstafel halte ich für etwas optimistisch. Für mich ging es aber noch nicht direkt zurück, sondern nun Richtung St. Antönier Joch. Da ich allerdings nicht ganz dort hin musste, wählte ich die (für mich) kürzere 'leichte Variante'."
+      },
+      {
+        "photos": [
+          {
+            "name": "041",
+            "alt": "Wanderung Gargellen Riedkopf"
+          }
+        ],
+        "text": "Blick zurück zum Pass in der Bildmitte und dem Riedkopf rechts."
+      },
+      {
+        "photos": [
+          {
+            "name": "042",
+            "alt": "St. Antönier Joch"
+          }
+        ],
+        "text": "Tele zum St. Antönier Joch bzw. Gargäller Joch (je nachdem, ob man es von der Schweiz oder von Österreich aus überquert. Dort waren sehr viele Wanderer unterwegs, geht doch dort die viel beworbene Schmugglerpfad-Wanderung von Gargellen aus entlang."
+      },
+      {
+        "photos": [
+          {
+            "name": "043",
+            "alt": "St. Antönien Riedkopf Wanderung"
+          },
+          {
+            "name": "044",
+            "alt": "Wanderweg Gargäller Joch"
+          },
+          {
+            "name": "045",
+            "alt": "Wollgras mit Hütte"
+          }
+        ],
+        "text": "Für mich ging es jetzt auf einfachem Weg über Wiesen das Alpeltitälli Richtung St. Antönien hinab."
+      },
+      {
+        "photos": [
+          {
+            "name": "046",
+            "alt": "Klares Bergwasser"
+          }
+        ],
+        "text": "Die Sonne war nun ziemlich intensiv und ich war froh, bergab unterwegs zu sein. Trotzdem diente dieser klare Bergbach als willkommende Erfrischung. :)"
+      },
+      {
+        "photos": [
+          {
+            "name": "047",
+            "alt": "Blick auf St. Antönien"
+          }
+        ],
+        "text": "Dann erreichte ich eine Steilstufe. Hier der Blick hinab auf St. Antönien (links/hinten). Ich hatte aber nicht vor bis ganz ins Tal abzusteigen, sondern ich wollte den Hang rechts entlanglaufen, wo die Fahrwege zu sehen sind."
+      },
+      {
+        "photos": [
+          {
+            "name": "048",
+            "alt": "Alpwirtschaft"
+          }
+        ],
+        "text": "Blick zurück auf die nun überwundene Steilstufe. Ungefährlich aber schon recht steil."
+      },
+      {
+        "photos": [
+          {
+            "name": "049",
+            "alt": "Alphütte mit Brunnen"
+          },
+          {
+            "name": "050",
+            "alt": "Alpstraße"
+          }
+        ],
+        "text": "Hier verließ ich wieder den offiziellen Wanderweg und kürzte ein paar Höhenmeter über die obere von zwei Fahrstraßen ab. Trotzdem ging es nun wieder 100m hinauf, was bei der intensiven Sonne und den Höhenmetern in den Beinen nicht mehr die reinste Freude war.<br />Hier bin ich übrigens schon ziemlich weit oben - aus dem Tal links kam ich herunter."
+      },
+      {
+        "photos": [
+          {
+            "name": "051",
+            "alt": "Chrüz"
+          }
+        ],
+        "text": "Das Tal hinab konnte ich jetzt gut den Gipfel des <a href='/alpine/praettigau/20151031' target='_blank'>Chrüz</a> hinter St. Antönien sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "052",
+            "alt": "Grosslaub"
+          },
+          {
+            "name": "053",
+            "alt": "Sanfte Alpwiesen"
+          }
+        ],
+        "text": "Über die sanften (und feuchten) Alpwiesen von Grosslaub ging der Weg jetzt zurück Richtung Partnun. Es ging dabei aber auch immer etwas hoch und runter."
+      },
+      {
+        "photos": [
+          {
+            "name": "054",
+            "alt": "Steile Straße"
+          }
+        ],
+        "text": "Diesen steilen Feldweg musste ich aber zum Glück nicht mehr hoch. Mein Weg überquerte sie nur und ging weiter links den Hang entlang. Im Hintergrund die felsige Schijenflue mal aus einer anderen Perspektive."
+      },
+      {
+        "photos": [
+          {
+            "name": "055",
+            "alt": "Parkplatz Partnun"
+          }
+        ],
+        "text": "Ziemlich nah ging der Weg nun oberhalb des Parkplatz von Partnun vorbei. Einen direkten Weg zu meinem Auto gab es hier aber nicht."
+      },
+      {
+        "photos": [
+          {
+            "name": "056",
+            "alt": "Sulzfluh"
+          }
+        ],
+        "text": "Tele zum alles beherrschenden Gipfel der <a href='/alpine/praettigau/20141012' target='_blank'>Sulzfluh</a>. Ein sehr lohnendes Wanderziel."
+      },
+      {
+        "photos": [
+          {
+            "name": "057",
+            "alt": "Sulzfluh Schijenflue"
+          },
+          {
+            "name": "058",
+            "alt": "Herbstwanderung"
+          }
+        ],
+        "text": "Und immer weiter über die Wiesen auf fast unsichtbarem Pfad. Zum Teil war es aber ziemlich sumpfig, also wasserfeste Schuhe sind auch auf diesem einfachen Weg zu empfehlen."
+      },
+      {
+        "photos": [
+          {
+            "name": "059",
+            "alt": "Partnunstafel"
+          }
+        ],
+        "text": "Dann erreichte ich das Ende der Hochfläche und ich konnte hinab nach Partnunstafel blicken. Dort gibt es zwei Restaurants, ein paar Bauernhöfe und einige Ferienhäuser."
+      },
+      {
+        "photos": [
+          {
+            "name": "060",
+            "alt": "Weberlisch Höli"
+          }
+        ],
+        "text": "Nun schien auch bei den vom morgen bekannten Weberlisch Höli die Sonne, d.h. bald hatte ich meinen Hinweg erreicht."
+      },
+      {
+        "photos": [
+          {
+            "name": "061",
+            "alt": "Alpenimpression"
+          }
+        ],
+        "text": "Nach dem Abstieg auf einem vom Alpabtrieb total zertretenem Weg traf tatsächlich auf meinen Hinweg. An dem schönen Bach machte ich erst mal eine Pause und wechselte nun auf Sandalen für den Rückweg zum Auto."
+      },
+      {
+        "photos": [
+          {
+            "name": "062",
+            "alt": "Holzhaus Prättigau"
+          },
+          {
+            "name": "063",
+            "alt": "Elfenkrokus"
+          },
+          {
+            "name": "064",
+            "alt": "Parkplatz Sulzfluh"
+          }
+        ],
+        "text": "Nun nur noch vorbei an den schönen Häusern von Partnunstafel und einem Elfenkrokus, und ich hatte den Parkplatz um 15:30 erreicht."
+      },
+      {
+        "photos": [
+          {
+            "name": "065",
+            "alt": "Burgruine Castels"
+          },
+          {
+            "name": "066",
+            "alt": "Burg Putz"
+          }
+        ],
+        "text": "Bonus: Bei der Rückfahrt habe ich noch einen Halt an der Burgruine Castels bei Putz gemacht. Viel zu sehen gibt es dort aber nicht... aber ein schöner Grillplatz."
+      }
+    ],
+    "outro": "Fazit: Super Wetter und schöne Aussicht von den beiden Gipfeln, insgesamt 16km, 1300 Höhenmeter in 7h. Aber ehrlich gesagt war die Runde nicht besonders gut geplant, zum Einen der zusätzlich Hin- und Rückweg auf die Rotspitz und zum Anderen auch der lange Wiesenweg am Schluß zurück nach Partnun passten nicht so recht rein. Alternativ könnten man vielleicht vom Parkplatz Rüti (zwischen St. Antönien und Partnun) auf den Riedkopf laufen und dann am Ende mit dem Trotinett von Partnun zurückfahren. Dann kann man sich am Ende entscheiden, ob man noch den Abstecher zur Rotspitz machen will.<br />Noch ein Tipp: Wer nicht gerne klettert sollte sich das letzte Stück zum Riedkopf sparen. Man sieht auch schon davor alles."
+  }
+]
