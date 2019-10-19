@@ -193,3 +193,5 @@ http://www.dplate.de/alpine/alpstein/20190801
 http://www.dplate.de/alpine/davos/20190811
 http://www.dplate.de/alpine/savognin/20190915
 http://www.dplate.de/alpine/praettigau/20190921
+http://www.dplate.de/alpine/lenzerheide/20191012
+http://www.dplate.de/alpine/montafon/20191013
