@@ -303,7 +303,7 @@ class Map extends React.Component {
       })
     }
     return new this.Cesium.CesiumTerrainProvider({
-      url : '//3d.geo.admin.ch/1.0.0/ch.swisstopo.terrain.3d/default/20160115/4326/',
+      url : '//3d.geo.admin.ch/1.0.0/ch.swisstopo.terrain.3d/default/20180601/4326/',
       requestVertexNormals: true
     })
   }
