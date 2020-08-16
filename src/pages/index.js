@@ -66,7 +66,8 @@ export default props => {
 
           <FlexCard>
             <h2>Spielzimmer</h2>
-            <p>Downloads von mir entwickelter PC&#8209;Spiele.</p>
+            <p>Downloads von mir entwickelter Spiele.</p>
+            <Link to="/games/draw-a-mountain">Draw-A-Mountain</Link>
             <Link to="/games/schiffbruch">Schiffbruch</Link>
             <Link to="/games/cannonhill">Cannonhill</Link>
             <Link to="/games/modracer">Modracer</Link>

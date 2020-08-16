@@ -7,7 +7,7 @@ import Title3D from '../components/title3d'
 import {videoWrapperStyle, videoContainerStyle} from '../styles/basestyle.js'
 import formatDate from '../utils/formatDate'
 import gpxIcon from '../icons/gpx.svg'
-import { graphql } from 'gatsby'
+import {graphql, Link} from 'gatsby'
 import Layout from '../components/layout'
 
 const Content = styled.div`
@@ -72,6 +72,16 @@ const GpxDownload = styled.a`
 const GpxDownloadIcon = styled.img`
   width: 50px;
   height: auto;
+`;
+
+const Ad = styled.div`
+  margin-top: 50px;
+  img {
+    display: inline-block;
+    margin-top: 20px;  
+    margin-bottom: 20px;
+    max-width: 640px;
+  }
 `;
 
 class Report extends React.Component {
@@ -165,7 +175,7 @@ class Report extends React.Component {
       }
 
       let time;
-      let id;
+      let id = null;
       let minDistance = Number.MAX_SAFE_INTEGER;
       this.images.forEach((image) => {
         const distance = Math.abs(window.pageYOffset  - image.offsetTop);
@@ -286,6 +296,11 @@ class Report extends React.Component {
             winter={type !== 'hike'}
             onClick={this.resetFocus.bind(this)}
            />}
+           <Ad>
+             <h2>Zu schlechtes Wetter um selbst in die Berge zu gehen?</h2>
+             <Link to="/games/draw-a-mountain"><img src={__PATH_PREFIX__ + '/screenshots/draw-a-mountain.jpg'}  alt="Draw-A-Mountain"/></Link>
+             <p>Probiere doch mein neues kostenloses Spiel <Link to="/games/draw-a-mountain">"Draw-A-Mountain"</Link> aus.</p>
+           </Ad>
         </Content>
       </Layout>
     );

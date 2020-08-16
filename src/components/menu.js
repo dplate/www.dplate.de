@@ -188,6 +188,11 @@ class Menu extends React.Component {
         name: 'Spielzimmer',
         items: [
           {
+            id: 'draw-a-mountain',
+            name: 'Draw-A-Mountain',
+            path: '/games/draw-a-mountain'
+          },
+          {
             id: 'schiffbruch',
             name: 'Schiffbruch',
             path: '/games/schiffbruch'
