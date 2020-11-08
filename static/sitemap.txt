@@ -199,3 +199,4 @@ http://www.dplate.de/alpine/montafon/20191013
 http://www.dplate.de/alpine/montafon/20191026
 http://www.dplate.de/alpine/montafon/20200905
 http://www.dplate.de/alpine/praettigau/20200919
+http://www.dplate.de/alpine/boedele/20201013
