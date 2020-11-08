@@ -226,7 +226,7 @@ class Report extends React.Component {
     return (
       <VideoContainer key={index}>
         <VideoWrapper>
-          <iframe src={`http://www.youtube.com/embed/${video}?wmode=transparent`} frameBorder="0" allowFullScreen title={video} />
+          <iframe src={`https://www.youtube.com/embed/${video}?wmode=transparent`} frameBorder="0" allowFullScreen title={video} />
         </VideoWrapper>
       </VideoContainer>
     );

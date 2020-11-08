@@ -4,6 +4,9 @@ DirectoryIndex index.html
 Options +MultiViews
 DirectorySlash Off
 
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://www.dplate.de/$1 [R=301,L]
+
 RewriteBase /
 RewriteRule ^(.*)/$ /$1 [L,R=301]
 
@@ -14,31 +17,31 @@ RewriteRule ^photos/(.*)/.*_(.*)\.jpg$ photos/$1/$2.jpg
 
 ErrorDocument 404 /404
 
-Redirect 301 /start http://www.dplate.de
-Redirect 301 /sbanleit.html http://www.dplate.de/games/schiffbruch
-Redirect 301 /schiffbruch http://www.dplate.de/games/schiffbruch
-Redirect 301 /schiffbruchfaq/schiffbruchfaq.htm http://www.dplate.de/games/schiffbruch
-Redirect 301 /schiffbruchfaq/gegenstaende.htm http://www.dplate.de/games/schiffbruch
-Redirect 301 /cannonhill http://www.dplate.de/games/cannonhill
-Redirect 301 /scapemaker/home_e.html http://www.dplate.de/tools/scapemaker
-Redirect 301 /scapemaker/index_e.html http://www.dplate.de/tools/scapemaker
-Redirect 301 /scapemaker http://www.dplate.de/tools/scapemaker
-Redirect 301 /kensentme/kensentme.jnlp http://www.dplate.de/tools/kensentme
-Redirect 301 /kensentme/ http://www.dplate.de/tools/kensentme
-Redirect 301 /kensentme http://www.dplate.de/tools/kensentme
-Redirect 301 /java.html http://www.dplate.de
-Redirect 301 /javae.html http://www.dplate.de
-Redirect 301 /alpine/alvier/20140907 http://www.dplate.de/alpine/alviergruppe/20140907
-Redirect 301 /alpine/sulzfluh http://www.dplate.de/alpine/praettigau
-Redirect 301 /photos/sulzfluh http://www.dplate.de/photos/praettigau
-Redirect 301 /alpine/davos/20151031 http://www.dplate.de/alpine/praettigau/20151031
-Redirect 301 /photos/davos/20151031 http://www.dplate.de/photos/praettigau/20151031
-Redirect 301 /alpine/speer http://www.dplate.de/alpine/toggenburg
-Redirect 301 /photos/speer http://www.dplate.de/photos/toggenburg
-Redirect 301 /alpine/andermatt http://www.dplate.de/alpine/gotthard
-Redirect 301 /photos/andermatt http://www.dplate.de/photos/gotthard
-Redirect 301 /alpine/airolo http://www.dplate.de/alpine/gotthard
-Redirect 301 /photos/airolo http://www.dplate.de/photos/gotthard
-Redirect 301 /alpine/hoher-freschen http://www.dplate.de/alpine/laterns
-Redirect 301 /photos/hoher-freschen http://www.dplate.de/photos/laterns
-redirectMatch  301 ^/photos$ http://www.dplate.de/showcase
+Redirect 301 /start https://www.dplate.de
+Redirect 301 /sbanleit.html https://www.dplate.de/games/schiffbruch
+Redirect 301 /schiffbruch https://www.dplate.de/games/schiffbruch
+Redirect 301 /schiffbruchfaq/schiffbruchfaq.htm https://www.dplate.de/games/schiffbruch
+Redirect 301 /schiffbruchfaq/gegenstaende.htm https://www.dplate.de/games/schiffbruch
+Redirect 301 /cannonhill https://www.dplate.de/games/cannonhill
+Redirect 301 /scapemaker/home_e.html https://www.dplate.de/tools/scapemaker
+Redirect 301 /scapemaker/index_e.html https://www.dplate.de/tools/scapemaker
+Redirect 301 /scapemaker https://www.dplate.de/tools/scapemaker
+Redirect 301 /kensentme/kensentme.jnlp https://www.dplate.de/tools/kensentme
+Redirect 301 /kensentme/ https://www.dplate.de/tools/kensentme
+Redirect 301 /kensentme https://www.dplate.de/tools/kensentme
+Redirect 301 /java.html https://www.dplate.de
+Redirect 301 /javae.html https://www.dplate.de
+Redirect 301 /alpine/alvier/20140907 https://www.dplate.de/alpine/alviergruppe/20140907
+Redirect 301 /alpine/sulzfluh https://www.dplate.de/alpine/praettigau
+Redirect 301 /photos/sulzfluh https://www.dplate.de/photos/praettigau
+Redirect 301 /alpine/davos/20151031 https://www.dplate.de/alpine/praettigau/20151031
+Redirect 301 /photos/davos/20151031 https://www.dplate.de/photos/praettigau/20151031
+Redirect 301 /alpine/speer https://www.dplate.de/alpine/toggenburg
+Redirect 301 /photos/speer https://www.dplate.de/photos/toggenburg
+Redirect 301 /alpine/andermatt https://www.dplate.de/alpine/gotthard
+Redirect 301 /photos/andermatt https://www.dplate.de/photos/gotthard
+Redirect 301 /alpine/airolo https://www.dplate.de/alpine/gotthard
+Redirect 301 /photos/airolo https://www.dplate.de/photos/gotthard
+Redirect 301 /alpine/hoher-freschen https://www.dplate.de/alpine/laterns
+Redirect 301 /photos/hoher-freschen https://www.dplate.de/photos/laterns
+redirectMatch  301 ^/photos$ https://www.dplate.de/showcase

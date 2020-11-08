@@ -46,7 +46,7 @@ export default props => {
           <p><a href='https://play.google.com/store/apps/details?id=de.dplate.draw_a_mountain'>Google Play-Store</a></p>
           <p><a href='https://www.amazon.de/dP-Software-Draw-A-Mountain/dp/B08FHBY4F4'>Amazon App-Store</a></p>
           <h2>Web-App</h2>
-          <p><a href='http://www.draw-a-mountain.com'>Draw-A-Mountain.com</a></p>
+          <p><a href='https://www.draw-a-mountain.com'>Draw-A-Mountain.com</a></p>
           <h2>Sourcecode</h2>
           <p><a href='https://github.com/dplate/draw-a-mountain'>github.com/dplate/draw-a-mountain</a></p>
         </Card>

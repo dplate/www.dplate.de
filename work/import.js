@@ -110,7 +110,7 @@ function addPageToPages(destination, day, month, year) {
 function addPageToSitemap(destination, day, month, year) {
   const sitemapFile = './sitemap.txt';
   let sitemap = fs.readFileSync(sitemapFile, 'utf8');
-  const url = 'http://www.dplate.de/alpine/' + destination + '/' + year + month + day;
+  const url = 'https://www.dplate.de/alpine/' + destination + '/' + year + month + day;
   if (sitemap.indexOf(url) === -1) {
     sitemap = sitemap + '\n' + url;
     fs.writeFileSync(sitemapFile, sitemap);

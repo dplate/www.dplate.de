@@ -40,19 +40,19 @@ export default props => {
 
         <VideoContainer>
           <VideoWrapper>
-            <iframe src="http://www.youtube.com/embed/mwb6_sKLWNE?wmode=transparent" frameBorder="0" allowFullScreen title="Beispiel 1" />
+            <iframe src="https://www.youtube.com/embed/mwb6_sKLWNE?wmode=transparent" frameBorder="0" allowFullScreen title="Beispiel 1" />
           </VideoWrapper>
         </VideoContainer>
 
         <VideoContainer>
           <VideoWrapper>
-            <iframe src="http://www.youtube.com/embed/keunot3XZfw?wmode=transparent" frameBorder="0" allowFullScreen title="Beispiel 2" />
+            <iframe src="https://www.youtube.com/embed/keunot3XZfw?wmode=transparent" frameBorder="0" allowFullScreen title="Beispiel 2" />
           </VideoWrapper>
         </VideoContainer>
 
         <VideoContainer>
           <VideoWrapper>
-            <iframe src="http://www.youtube.com/embed/16ay-Kw0TcM?wmode=transparent" frameBorder="0" allowFullScreen title="Beispiel 3" />
+            <iframe src="https://www.youtube.com/embed/16ay-Kw0TcM?wmode=transparent" frameBorder="0" allowFullScreen title="Beispiel 3" />
           </VideoWrapper>
         </VideoContainer>
 
@@ -60,7 +60,7 @@ export default props => {
           <h2>Systemanforderungen</h2>
           <ul>
             <li><a href="https://java.com/de/download/">Java</a></li>
-            <li>Optional um h264 Videos zu erstellen: <a href="http://www.ffmpeg.org/index.html">ffmpeg</a></li>
+            <li>Optional um h264 Videos zu erstellen: <a href="https://www.ffmpeg.org/index.html">ffmpeg</a></li>
           </ul>
         </Card>
 
@@ -120,7 +120,7 @@ export default props => {
 
         <Card>
           <h2>Credits</h2>
-          Zur Erzeugung des mjpeg Videos verwende ich die Library <a href="http://randelshofer.ch/blog/?p=43">AVIOutputStream</a> von <a href="http://www.randelshofer.ch/">Werner Randelshofer</a>.
+          Zur Erzeugung des mjpeg Videos verwende ich die Library <a href="https://randelshofer.ch/blog/?p=43">AVIOutputStream</a> von <a href="https://www.randelshofer.ch/">Werner Randelshofer</a>.
         </Card>
       </div>
     </Layout>
