@@ -299,7 +299,7 @@ class Report extends React.Component {
            <Ad>
              <h2>Zu schlechtes Wetter um selbst in die Berge zu gehen?</h2>
              <Link to="/games/draw-a-mountain"><img src={__PATH_PREFIX__ + '/screenshots/draw-a-mountain.jpg'}  alt="Draw-A-Mountain"/></Link>
-             <p>Probiere doch mein neues kostenloses Spiel <Link to="/games/draw-a-mountain">"Draw-A-Mountain"</Link> aus.</p>
+             <p>Probiere doch mein kostenloses Spiel <Link to="/games/draw-a-mountain">"Draw-A-Mountain"</Link> aus.</p>
            </Ad>
         </Content>
       </Layout>
