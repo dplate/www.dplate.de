@@ -17,6 +17,10 @@ RewriteRule ^photos/(.*)/.*_(.*)\.jpg$ photos/$1/$2.jpg
 
 ErrorDocument 404 /404
 
+<FilesMatch "\.(jpg|png|svg|ico)$">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+</FilesMatch>
+
 Redirect 301 /start https://www.dplate.de
 Redirect 301 /sbanleit.html https://www.dplate.de/games/schiffbruch
 Redirect 301 /schiffbruch https://www.dplate.de/games/schiffbruch
