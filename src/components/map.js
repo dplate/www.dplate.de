@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types';
-import styled, { keyframes } from 'styled-components'
+import styled, { keyframes, css } from 'styled-components'
 import Script from 'react-load-script'
 import resizeIcon from '../icons/resize.svg'
 import closeIcon from '../icons/close.svg'
@@ -18,6 +18,9 @@ const CesiumContainer = styled.div`
   }
   .cesium-viewer-bottom {
     bottom: 3px !important;
+  }
+  .cesium-widget-credits {
+    ${props => props.noUserInterface && css`display: none !important;`}
   }
   &.wait {
     cursor: wait;
@@ -53,9 +56,9 @@ const MenuBar = styled.div`
     bottom: calc(30vh - 30px);
   }
   &.fullscreen {
-    left: 0px;
-    right: 0px;
-    top: 0px;
+    left: 0;
+    right: 0;
+    top: 0;
   }
   &.icon {
     display: none;
@@ -137,7 +140,7 @@ class Map extends React.Component {
     this.currentTilt = -15;
     this.targetTime = null;
     this.state = {
-      size: 'icon',
+      size: this.props.noUserInterface ? 'fullscreen' : 'icon',
       mapStatus: 'wait',
       allowTeaser: true
     };
@@ -259,9 +262,14 @@ class Map extends React.Component {
     multiplier = Math.max(multiplier, -5000);
     multiplier = Math.min(multiplier, 5000);
     this.viewer.clock.multiplier = multiplier;
-    if (Math.abs(multiplier) < 20) {
+    if (Math.abs(multiplier) < 20 || timeDifference <= 0) {
+      if (this.viewer.clock.shouldAnimate && this.props.onTimeReached) {
+        this.props.onTimeReached();
+      }
       this.viewer.clock.shouldAnimate = false;
-      if (this.state.mapStatus !== 'free') this.setState({ mapStatus: 'free' });
+      if (this.state.mapStatus !== 'free') {
+        this.setState({ mapStatus: 'free' });
+      }
     } else {
       this.viewer.clock.shouldAnimate = true;
       if (this.state.mapStatus !== 'wait') this.setState({ mapStatus: 'wait' });
@@ -461,12 +469,18 @@ class Map extends React.Component {
     return (
       <div>
         { shouldInjectCesium && <link rel="stylesheet" href={__PATH_PREFIX__ + '/Cesium/Widgets/widgets.css'} media="screen" type="text/css" /> }
-        <CesiumContainer id="cesiumContainer" className={this.state.size + ' ' + this.state.mapStatus} onClick={this.props.onClick} />
-        <MenuBar className={this.state.size}>
-          <ResizeIcon onClick={this.changeSize.bind(this)} src={resizeIcon} />
-          <CloseIcon onClick={this.close.bind(this)} src={closeIcon} />
-        </MenuBar>
-        <MapButton onClick={this.changeSize.bind(this)} className={this.state.size}>{ this.renderMapButton() }</MapButton>
+        <CesiumContainer
+          id="cesiumContainer"
+          className={this.state.size + ' ' + this.state.mapStatus}
+          onClick={this.props.onClick}
+          noUserInterface={this.props.noUserInterface} />
+        { !this.props.noUserInterface && (
+          <MenuBar className={this.state.size}>
+            <ResizeIcon onClick={this.changeSize.bind(this)} src={resizeIcon} />
+            <CloseIcon onClick={this.close.bind(this)} src={closeIcon} />
+          </MenuBar>
+        ) }
+        {!this.props.noUserInterface && <MapButton onClick={this.changeSize.bind(this)} className={this.state.size}>{ this.renderMapButton() }</MapButton> }
         { shouldInjectCesium && <Script url={__PATH_PREFIX__ + '/Cesium/Cesium.js'} onLoad={this.initCesium.bind(this)} /> }
       </div>
     );
@@ -480,7 +494,9 @@ Map.propTypes = {
   detailMap: PropTypes.string,
   hideSwissTopo: PropTypes.bool,
   winter: PropTypes.bool,
-  onClick: PropTypes.func
+  onClick: PropTypes.func,
+  noUserInterface: PropTypes.bool,
+  onTimeReached: PropTypes.func
 };
 
 export default Map;

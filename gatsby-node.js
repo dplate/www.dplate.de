@@ -39,6 +39,42 @@ exports.createPages = ({ actions, graphql }) => {
     )
   });
 
+  const reportMovies =  new Promise((resolve, reject) => {
+    const reportMovieTemplate = path.resolve(`src/templates/reportmovie.js`);
+    resolve(
+      graphql(
+        `
+          {
+            allReportJson(limit: 1000) {
+              edges {
+                node {
+                  destination,
+                  date
+                }
+              }
+            }
+          }
+        `
+      ).then(result => {
+        if (result.errors) {
+          reject(result.errors)
+        }
+        result.data.allReportJson.edges.forEach(({ node }) => {
+          const { destination, date } = node;
+          const path = '/alpine/' + destination + '/' + date.substring(1) + '/movie';
+          createPage({
+            path,
+            component: reportMovieTemplate,
+            context: {
+              destination,
+              date: date
+            }
+          })
+        })
+      })
+    )
+  });
+
   const destinations =  new Promise((resolve, reject) => {
     const destinationTemplate = path.resolve(`src/templates/destination.js`);
     resolve(
@@ -72,6 +108,6 @@ exports.createPages = ({ actions, graphql }) => {
       })
     )
   });
-  return Promise.all([reports, destinations]);
+  return Promise.all([reports, reportMovies, destinations]);
 };
 
