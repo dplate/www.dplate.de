@@ -78,9 +78,9 @@ const Ad = styled.div`
   margin-top: 50px;
   img {
     display: inline-block;
+    max-width: min(640px, 100%);
     margin-top: 20px;  
     margin-bottom: 20px;
-    max-width: 640px;
   }
 `;
 
@@ -263,9 +263,9 @@ class Report extends React.Component {
   renderGpxDownload(gpxPath) {
     const downloadName = 'www-dplate-de-' + this.props.data.reportJson.destination + '-' + this.props.data.reportJson.date.substring(1) + '.gpx';
     return (
-        <GpxDownload href={gpxPath} download={downloadName} onClick={() => {window.ga && window.ga('send', 'event', 'gpxDownload', 'click');}}>
-          <GpxDownloadIcon src={gpxIcon} alt="Download GPX Track" title="Download GPX Track" />
-        </GpxDownload>
+      <GpxDownload href={gpxPath} download={downloadName} onClick={() => {window.ga && window.ga('send', 'event', 'gpxDownload', 'click');}}>
+        <GpxDownloadIcon src={gpxIcon} alt="Download GPX Track" title="Download GPX Track" />
+      </GpxDownload>
     );
   }
 
