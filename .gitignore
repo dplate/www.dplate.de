@@ -63,3 +63,5 @@ public
 static/photos/
 
 package-lock.json
+
+work/ffmpeg.exe

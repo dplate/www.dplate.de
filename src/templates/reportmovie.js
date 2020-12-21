@@ -3,6 +3,13 @@ import Map from '../components/map'
 import {graphql} from 'gatsby'
 import {EXIF} from '../external/exif-js/exif.js';
 import styled, {css} from 'styled-components';
+import {Motion, spring} from 'react-motion';
+
+const Container = styled.div`
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+`;
 
 const Landmark = styled.div`
 `;
@@ -18,8 +25,7 @@ const Photo = styled.img`
   left: 50%;
   margin-right: -50%;
   transform: translate(-50%, -50%);
-  ${props => props.show ? css`opacity: 1;` : css`opacity: 0;`};
-  transition: opacity 500ms ease-out;
+  ${props => css`opacity: ${props.opacity};`};
 `;
 
 class ReportMovie extends React.Component {
@@ -142,13 +148,14 @@ class ReportMovie extends React.Component {
   renderPhoto(photo, index) {
     const fileName = photo.name;
     const photoPath = __PATH_PREFIX__ + '/photos' + this.getReportPath() + '/' + fileName + '.jpg';
-    return <Photo
-        key={index}
+    return  <Motion key={index} style={{opacity: spring(this.state.phase === 'photo' && this.state.photo.name === fileName ? 1 : 0)}}>
+      {({opacity}) => <Photo
         id={fileName}
         src={photoPath}
         alt={photo.alt}
-        show={this.state.phase === 'photo' && this.state.photo.name === fileName}
-    />;
+        opacity={opacity}
+      />}
+    </Motion>;
   }
 
   renderLandmark(landmark, index) {
@@ -164,7 +171,7 @@ class ReportMovie extends React.Component {
     const {type, track, timeShift, detailMap, hideSwissTopo, landmarks} = content;
     const gpxPath = __PATH_PREFIX__ + '/tracks' + this.getReportPath() + '.gpx';
     return (
-      <div id='movie'>
+      <Container id='movie'>
         {track && <Map
           gpxPath={gpxPath}
           time={this.getTargetTime()}
@@ -176,7 +183,7 @@ class ReportMovie extends React.Component {
           onTimeReached={this.nextPhase}
          />}
         {landmarks.map(this.renderLandmark)}
-      </div>
+      </Container>
     );
   }
 }

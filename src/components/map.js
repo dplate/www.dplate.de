@@ -302,6 +302,10 @@ class Map extends React.Component {
     }
     this.setupClock(trackData.startTime, trackData.stopTime);
     this.timeChanged(this.props.time);
+    this.jumpToTargetTime();
+    this.viewer.clock.shouldAnimate = true;
+    this.updateCamera();
+    this.viewer.clock.shouldAnimate = false;
   }
 
   createTerrainProvider() {
