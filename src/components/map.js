@@ -144,6 +144,12 @@ class Map extends React.Component {
       mapStatus: 'wait',
       allowTeaser: true
     };
+    this.hiker = {
+      front: null,
+      back: null,
+      left: null,
+      right: null
+    }
   }
 
   componentDidMount() {
@@ -234,7 +240,6 @@ class Map extends React.Component {
     const realCurrentPos = this.Cesium.Cartesian3.fromRadians(currentCart.longitude, currentCart.latitude, currentHeight);
 
     let newHeading;
-    let newPitch;
     if (this.viewer.clock.shouldAnimate) {
       const futureCart = this.Cesium.Cartographic.fromCartesian(pin.position.getValue(futureTime));
       const geodesic = new this.Cesium.EllipsoidGeodesic(currentCart, futureCart);
@@ -242,16 +247,47 @@ class Map extends React.Component {
 
       const optimalCameraHeight = this.findOptimalCameraHeight(new this.Cesium.Cartographic(currentCart.longitude, currentCart.latitude, currentHeight));
       if (cameraHeight && optimalCameraHeight) {
-        this.currentTilt += (cameraHeight - optimalCameraHeight) * 0.01;
+        if (this.currentTilt === -15) {
+          this.currentTilt = cameraHeight - optimalCameraHeight;
+        } else {
+          this.currentTilt += (cameraHeight - optimalCameraHeight) * 0.01;
+        }
         this.currentTilt = Math.max(this.currentTilt, -90);
         this.currentTilt = Math.min(this.currentTilt, 0);
       }
-      newPitch = this.Cesium.Math.toRadians(this.currentTilt);
     } else {
       newHeading = this.viewer.camera.heading;
-      newPitch = this.viewer.camera.pitch + (cameraHeight - allowedMinimumCameraHeight) * 0.005;
+      this.currentTilt = cameraHeight - allowedMinimumCameraHeight;
     }
+    const newPitch = this.Cesium.Math.toRadians(this.currentTilt);
     this.viewer.camera.lookAt(realCurrentPos, new this.Cesium.HeadingPitchRange(newHeading, newPitch, 500));
+  }
+
+  updateHiker() {
+    const pin = this.viewer.entities.getById('pin');
+
+    const currentPos = pin.position.getValue(this.viewer.clock.currentTime);
+    if (!currentPos) return;
+    const currentCart = this.Cesium.Cartographic.fromCartesian(currentPos);
+
+    const futureTime = new this.Cesium.JulianDate();
+    this.Cesium.JulianDate.addSeconds(this.viewer.clock.currentTime, 30, futureTime);
+    const futureCart = this.Cesium.Cartographic.fromCartesian(pin.position.getValue(futureTime));
+
+    const geodesic = new this.Cesium.EllipsoidGeodesic(currentCart, futureCart);
+    const hikerHeading = geodesic.startHeading;
+    const cameraHeading = this.viewer.camera.heading;
+    const viewAngle = (cameraHeading - hikerHeading) % (2 * Math.PI);
+
+    if (viewAngle >= 0.25 * Math.PI && viewAngle < 0.75 * Math.PI) {
+      pin.billboard = this.hiker.left;
+    } else if (viewAngle >= 0.75 * Math.PI && viewAngle < 1.25 * Math.PI) {
+      pin.billboard = this.hiker.front;
+    } else if (viewAngle >= 1.25 * Math.PI && viewAngle < 1.75 * Math.PI) {
+      pin.billboard = this.hiker.right;
+    } else {
+      pin.billboard = this.hiker.back;
+    }
   }
 
   updateSpeed() {
@@ -262,7 +298,7 @@ class Map extends React.Component {
     multiplier = Math.max(multiplier, -5000);
     multiplier = Math.min(multiplier, 5000);
     this.viewer.clock.multiplier = multiplier;
-    if (Math.abs(multiplier) < 20 || timeDifference <= 0) {
+    if (Math.abs(multiplier) < 20 || Math.abs(timeDifference) <= 10) {
       if (this.viewer.clock.shouldAnimate && this.props.onTimeReached) {
         this.props.onTimeReached();
       }
@@ -279,6 +315,7 @@ class Map extends React.Component {
   tickChanged() {
     this.updateCamera();
     this.updateSpeed();
+    this.updateHiker()
   }
 
   loadTrack() {
@@ -301,11 +338,13 @@ class Map extends React.Component {
       this.turnToWinter(hdRectangle);
     }
     this.setupClock(trackData.startTime, trackData.stopTime);
-    this.timeChanged(this.props.time);
-    this.jumpToTargetTime();
-    this.viewer.clock.shouldAnimate = true;
-    this.updateCamera();
-    this.viewer.clock.shouldAnimate = false;
+    this.viewer.terrainProvider.readyPromise.then(() => {
+      this.timeChanged(this.props.time);
+      this.jumpToTargetTime();
+      this.viewer.clock.shouldAnimate = true;
+      this.updateCamera();
+      this.viewer.clock.shouldAnimate = false;
+    })
   }
 
   createTerrainProvider() {
@@ -382,16 +421,22 @@ class Map extends React.Component {
     }));
   }
 
+  loadHiker() {
+    ['front', 'back', 'left', 'right'].forEach(orientation => {
+      this.hiker[orientation] = new this.Cesium.BillboardGraphics({
+        image: __PATH_PREFIX__ + '/assets/hiker-' + orientation + '.svg',
+        heightReference: this.Cesium.HeightReference.CLAMP_TO_GROUND,
+        verticalOrigin: this.Cesium.VerticalOrigin.BOTTOM,
+        depthTestAgainstTerrain: 0
+      });
+    })
+  }
+
   addPin(sampledPosition) {
-    const billboard = new this.Cesium.BillboardGraphics({
-      image: __PATH_PREFIX__ + '/Cesium/Assets/Textures/pin.svg',
-      heightReference: this.Cesium.HeightReference.CLAMP_TO_GROUND,
-      verticalOrigin: this.Cesium.VerticalOrigin.BOTTOM,
-      depthTestAgainstTerrain: 0
-    });
+    this.loadHiker();
     const pin = new this.Cesium.Entity({
       id : 'pin',
-      billboard,
+      billboard: this.hiker.back,
       position: sampledPosition
     });
     this.viewer.entities.add(pin);

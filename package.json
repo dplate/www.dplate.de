@@ -19,7 +19,6 @@
     "styled-components": "^4.3.1"
   },
   "devDependencies": {
-    "gm": "1.23.0",
-    "timecut": "^0.1.4"
+    "gm": "1.23.0"
   }
 }
