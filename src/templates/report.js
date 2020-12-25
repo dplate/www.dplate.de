@@ -17,7 +17,7 @@ const Content = styled.div`
   
   a {
     color: #CFE0C3;
-    &:visited: {
+    &:visited {
       color: #9EC1A3;
     }
   }
@@ -46,7 +46,7 @@ const Photo = styled.img`
 `;
 
 const VideoContainer = styled.div`
-  ${videoContainerStyle}
+  ${videoContainerStyle};
   margin: 0;
   z-index: 2;
   position: relative;
@@ -58,12 +58,13 @@ const VideoWrapper = styled.div`
 
 const GpxDownload = styled.a`
   display: inline-block;
-  margin: 20px 0px 0px 0px;
+  margin: 20px 0 0 0;
   padding: 10px 10px 5px 17px;
   background-color: #CFE0C3;
   border: 3px solid #40798C;
   border-radius: 5px;
   width: 60px;
+
   &:hover {
     background-color: #9EC1A3;
   }

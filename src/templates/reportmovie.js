@@ -1,4 +1,5 @@
 import React, {Fragment} from 'react'
+import { Helmet } from 'react-helmet'
 import Map from '../components/map'
 import {graphql} from 'gatsby'
 import {EXIF} from '../external/exif-js/exif.js';
@@ -7,58 +8,6 @@ import {Motion, spring} from 'react-motion';
 import Title3D from '../components/title3d.js';
 import formatDate from '../utils/formatDate.js';
 
-
-/**
- * title: ⛰ Schäfler - Seealpsee Wanderung
- * description:
- Wanderkarte und Bilder des Wegs Schäfler - Seealpsee vom 18.11.2020.
-
- Der ausführliche Bericht dieser Wanderung und der Download der GPX-Datei sind hier zu finden:
- https://www.dplate.de/alpine/alpstein/20201118
-
- Map engine:
- - Cesium
-
- Data Attributions:
- - Bing Imagery
- - © 2020 Microsoft Corporation
- - Earthstar Geographics  SIO
- - © 2020 Maxar
- - ©CNES (2020) Distribution Airbus DS
- - geodata © swisstopo
- - basemap.at
-
- * Playlist: Alpstein Wanderungen
- * Tags:
- Schäfler - Seealpsee
- Wanderung
- Wandern
- Alpen
- Bilder
- Fotos
- GPX
- Track
- Karte
- 3D
- AlpinFunk
- Bergsteigen
- Reise
- Urlaub
- Beschreibung
- Wegbeschreibung
- dplate
- Schäfler
- Rundweg
- Weg
- Bergweg
-
- * Aufnahmedatum: 18.11.2020
- * Aufnahmeort: Schäfler
- * Kategorie: Reisen und Events
- * Sichtbarkeit: Öffentlich
-
-
- */
 const Movie = styled.div`
   position: fixed;
   width: 100vw;
@@ -147,8 +96,43 @@ class ReportMovie extends React.Component {
     };
   }
 
+  getReportPath() {
+    return '/' + this.props.data.reportJson.destination + '/' + this.props.data.reportJson.date.substring(1);
+  }
+
+  outputMetadata() {
+    const {date, destination, title, shortTitle} = this.props.data.reportJson;
+    console.log({
+      title: `⛰ ${title} Wanderung`,
+      description: 'Wanderkarte und Bilder des Wegs ' + title + ' vom ' + formatDate(date) + '.\n' +
+        '\n' +
+        'Der ausführliche Bericht dieser Wanderung und der Download der GPX-Datei sind hier zu finden:\n' +
+        'https://www.dplate.de/alpine' + this.getReportPath() + '\n' +
+        '\n' +
+        'Map engine:\n' +
+        '- Cesium\n' +
+        '\n' +
+        'Data Attributions:\n' +
+        '- Bing Imagery\n' +
+        '- © 2020 Microsoft Corporation\n' +
+        '- Earthstar Geographics  SIO\n' +
+        '- © 2020 Maxar\n' +
+        '- ©CNES (2020) Distribution Airbus DS\n' +
+        '- geodata © swisstopo\n' +
+        '- basemap.at',
+      playlist: destination.charAt(0).toUpperCase() + destination.slice(1) + ' Wanderungen',
+      tags: title + ',' + shortTitle + ',Wanderung,Wandern,Alpen,Bilder,Fotos,GPX,Track,Karte,3D,AlpinFunk,Bergsteigen,' +
+        'Reise,Urlaub,Beschreibung,Wegbeschreibung,dplate,Rundweg,Weg,Bergweg',
+      date: formatDate(date),
+      location: shortTitle,
+      category: 'Reisen und Events',
+      visibility: 'Öffentlich'
+    });
+  }
+
   componentDidMount() {
     this.retrievePhotoDates();
+    this.outputMetadata();
   }
 
   findNextPhoto() {
@@ -255,10 +239,6 @@ class ReportMovie extends React.Component {
     })
   }
 
-  getReportPath() {
-    return '/' + this.props.data.reportJson.destination + '/' + this.props.data.reportJson.date.substring(1);
-  }
-
   renderPhoto(photo, index) {
     const fileName = photo.name;
     const photoPath = __PATH_PREFIX__ + '/photos' + this.getReportPath() + '/' + fileName + '.jpg';
@@ -341,6 +321,10 @@ class ReportMovie extends React.Component {
   render() {
     return (
       <Movie id='movie'>
+        <Helmet>
+          <link rel="canonical" href={`/alpine${this.getReportPath()}`} />
+          <meta name="robots" content="noindex" />
+        </Helmet>
         {this.renderCurtain()}
         {this.renderLogo()}
         {this.renderTitle()}
@@ -364,6 +348,7 @@ export const pageQuery = graphql`
       detailMap, 
       hideSwissTopo, 
       title,
+      shortTitle,
       title3d {
         offsetY,
         fontSize,
