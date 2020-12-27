@@ -105,7 +105,6 @@ class ReportMovie extends React.Component {
     console.log({
       title: `⛰ ${title} Wanderung`,
       description: 'Wanderkarte und Bilder des Wegs ' + title + ' vom ' + formatDate(date) + '.\n' +
-        '\n' +
         'Der ausführliche Bericht dieser Wanderung und der Download der GPX-Datei sind hier zu finden:\n' +
         'https://www.dplate.de/alpine' + this.getReportPath() + '\n' +
         '\n' +

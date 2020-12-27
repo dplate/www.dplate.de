@@ -205,6 +205,7 @@ class Map extends React.Component {
         this.Cesium.JulianDate.addSeconds(this.targetTime, this.props.timeShift, this.targetTime);
       }
     }
+    this.viewer.clock.shouldAnimate = true;
   }
 
   findOptimalCameraHeight(pinPos) {
