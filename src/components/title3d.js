@@ -1,4 +1,4 @@
-import React from 'react'
+import React, {useRef, useState, useEffect} from 'react'
 import PropTypes from 'prop-types'
 import styled from 'styled-components'
 
@@ -29,60 +29,44 @@ const Foreground = styled.img`
   max-width: 100%;
 `;
 
-class Title3D extends React.Component {
+const Title3D = ({reportPath, title, offsetY, fontSize, align, scrollTrigger}) => {
+  const containerRef = useRef(null);
 
-  constructor(props) {
-    super(props);
-    this.state = {
-      initialYOffset: 0,
-      currentYOffset: 0
+  const [currentYOffset, setCurrentYOffset] = useState(0);
+  const [initialYOffset, setInitalYOffset] = useState(null);
+
+  useEffect( () => {
+    if (containerRef.current) {
+      setCurrentYOffset(containerRef.current.getBoundingClientRect().top)
+    }
+  }, [scrollTrigger])
+
+  useEffect(() => {
+    const handleScroll = () => {
+      if (containerRef.current) {
+        setCurrentYOffset(containerRef.current.getBoundingClientRect().top)
+      }
     };
-    this.scrollHandler = this.scrollHandler.bind(this);
-  }
-
-  getCurrentYOffset() {
-    return window.document.getElementById('title3d').getBoundingClientRect().top
-  }
-
-  scrollHandler() {
-    this.setState({ currentYOffset: this.getCurrentYOffset() });
-  }
-
-  componentDidMount() {
-    const currentYOffset = this.getCurrentYOffset();
-    this.setState({
-      initialYOffset: currentYOffset,
-      currentYOffset
-    })
-    window.addEventListener('scroll', this.scrollHandler);
-  }
-
-  componentWillUnmount() {
-    window.removeEventListener('scroll', this.scrollHandler);
-  }
-
-  componentWillReceiveProps(nextProps) {
-    if (this.props.scrollTrigger && this.props.scrollTrigger !== nextProps.scrollTrigger) {
-      this.scrollHandler();
+    if (containerRef.current) {
+      setInitalYOffset(containerRef.current.getBoundingClientRect().top);
     }
-  }
+    window.addEventListener("scroll", handleScroll, { passive: true });
+    return () => window.removeEventListener("scroll", handleScroll);
+  }, []);
 
-  render() {
-    const {reportPath, title, offsetY, fontSize, align} = this.props;
-    let backgroundFile = 'title.jpg';
-    if (process.env.NODE_ENV === `production`) {
-      backgroundFile = title.split(' ').join('-').toLowerCase() + '_' + backgroundFile;
-    }
-    const yMovement = this.state.initialYOffset - this.state.currentYOffset;
-    return (
-      <Wrapper id='title3d' style={{ textAlign: align }}>
-        <Background src={__PATH_PREFIX__ + '/photos' + reportPath + '/' + backgroundFile} style={{ top: yMovement / 20 + 'vh' }} />
-        <Title style={{ top: 'calc(' + offsetY + 'vw + ' + yMovement / 40 + 'vh)', fontSize: fontSize + 'vw' }}>{title}</Title>
-        <Foreground src={__PATH_PREFIX__ + '/photos' + reportPath + '/title-foreground.png'} />
-      </Wrapper>
-    )
+  let backgroundFile = 'title.jpg';
+  if (process.env.NODE_ENV === `production`) {
+    backgroundFile = title.split(' ').join('-').toLowerCase() + '_' + backgroundFile;
   }
-}
+  const yMovement = initialYOffset - currentYOffset;
+  return (
+    <Wrapper id='title3d' ref={containerRef} style={{ textAlign: align }}>
+      <Background src={__PATH_PREFIX__ + '/photos' + reportPath + '/' + backgroundFile} style={{ top: yMovement / 20 + 'vh' }} />
+      <Title style={{ top: 'calc(' + offsetY + 'vw + ' + yMovement / 40 + 'vh)', fontSize: fontSize + 'vw' }}>{title}</Title>
+      <Foreground src={__PATH_PREFIX__ + '/photos' + reportPath + '/title-foreground.png'} />
+    </Wrapper>
+  )
+};
 
 Title3D.propTypes = {
   reportPath: PropTypes.string.isRequired,

@@ -5,6 +5,7 @@
     "type": "hike",
     "track": true,
     "detailMap": "austria",
+    "hideSwissTopo": true,
     "shortTitle": "Kops‑Stausee",
     "title": "Silvretta Hochalpenstraße - Kops‑Stausee",
     "title3d": {

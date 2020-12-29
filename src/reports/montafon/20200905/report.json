@@ -5,7 +5,7 @@
     "type": "hike",
     "track": true,
     "detailMap": "austria",
-    "hideSwissTopo": false,
+    "hideSwissTopo": true,
     "shortTitle": "Litznersattel",
     "title": "Silvretta - Litznersattel",
     "title3d": {

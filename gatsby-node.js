@@ -1,4 +1,6 @@
 const path = require('path');
+const CopyWebpackPlugin = require('copy-webpack-plugin');
+const { DefinePlugin } = require('webpack');
 
 exports.createPages = ({ actions, graphql }) => {
   const { createPage } = actions;
@@ -111,3 +113,38 @@ exports.createPages = ({ actions, graphql }) => {
   return Promise.all([reports, reportMovies, destinations]);
 };
 
+exports.onCreateWebpackConfig = ({ stage, actions, loaders }) => {
+  if (stage.startsWith("develop")) {
+    actions.setWebpackConfig({
+      resolve: {
+        alias: {
+          "react-dom": "@hot-loader/react-dom",
+        },
+      },
+    })
+  }
+  actions.setWebpackConfig({
+    plugins: [
+      new CopyWebpackPlugin({
+        patterns: [
+          { from: 'node_modules/cesium/Build/Cesium/Workers', to: 'Cesium/Workers' },
+          { from: 'node_modules/cesium/Build/Cesium/Assets', to: 'Cesium/Assets' },
+          { from: 'node_modules/cesium/Build/Cesium/Widgets', to: 'Cesium/Widgets' },
+        ]
+      }),
+
+      new DefinePlugin({
+        CESIUM_BASE_URL: JSON.stringify('/Cesium/'),
+      }),
+    ],
+    module: {
+      rules: [
+        {
+          test: /\.gl(tf|b)$/,
+          use: loaders.url(),
+        },
+      ],
+      unknownContextCritical: false,
+    }
+  });
+}

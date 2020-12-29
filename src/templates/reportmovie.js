@@ -1,11 +1,10 @@
-import React, {Fragment} from 'react'
-import { Helmet } from 'react-helmet'
-import Map from '../components/map'
-import {graphql} from 'gatsby'
+import React, {Fragment} from 'react';
+import { Helmet } from 'react-helmet';
+import Map from '../components/map';
+import Title from '../components/title';
+import {graphql} from 'gatsby';
 import {EXIF} from '../external/exif-js/exif.js';
 import styled from 'styled-components';
-import {Motion, spring} from 'react-motion';
-import Title3D from '../components/title3d.js';
 import formatDate from '../utils/formatDate.js';
 
 const Movie = styled.div`
@@ -24,15 +23,6 @@ const Curtain = styled.div.attrs(({opacity}) => ({
   background-color: black;
   z-index: 5;
   transition: opacity 5s ease-in-out;
-`;
-
-const Title = styled.div.attrs(({movePercent}) => ({
-  style: ({ transform: `translate(0, -${movePercent}%)` })
-}))`
-  position: fixed;
-  top: 0;
-  width: 100vw;
-  z-index: 6;
 `;
 
 const Logo = styled.img.attrs(({width, top, left}) => ({
@@ -114,6 +104,7 @@ class ReportMovie extends React.Component {
         'Data Attributions:\n' +
         '- Bing Imagery\n' +
         '- © 2020 Microsoft Corporation\n' +
+        '- Data available from the U.S. Geological Survey, © CGIAR-CSI, Produced using Copernicus data and information funded by the European Union - EU-DEM layers, Data available from Land Information New Zealand, Data available from data.gov.uk, Data courtesy Geoscience Australia\n' +
         '- Earthstar Geographics  SIO\n' +
         '- © 2020 Maxar\n' +
         '- ©CNES (2020) Distribution Airbus DS\n' +
@@ -263,28 +254,16 @@ class ReportMovie extends React.Component {
     )
   }
 
-  renderMovingTitle(movePercent) {
-    const {date, title, title3d} = this.props.data.reportJson;
-    const fullTitle = title + ' - ' + formatDate(date);
-    return <Title movePercent={movePercent}>
-      {title3d ? <Title3D
-        reportPath={this.getReportPath()}
-        title={fullTitle}
-        offsetY={title3d.offsetY}
-        fontSize={title3d.fontSize}
-        align={title3d.align}
-        scrollTrigger={movePercent}
-      /> : <h1>{fullTitle}</h1>}
-    </Title>
-  }
-
   renderTitle() {
     const introActive = this.state.phase === 'intro'
-    return <Motion style={{
-      movePercent: spring(introActive ? 0 : 120, { stiffness: 15 })
-    }}>
-      {({movePercent}) => this.renderMovingTitle(movePercent)}
-    </Motion>;
+    const {date, title, title3d} = this.props.data.reportJson;
+    const fullTitle = title + ' - ' + formatDate(date);
+    return <Title
+      reportPath={this.getReportPath()}
+      title={fullTitle}
+      title3d={title3d}
+      visible={introActive}
+    />;
   }
 
   renderLogo() {
