@@ -363,7 +363,7 @@ class Map extends React.Component {
       })
     }
     return new Cesium.CesiumTerrainProvider({
-      url : '//3d.geo.admin.ch/1.0.0/ch.swisstopo.terrain.3d/default/20180601/4326/',
+      url : '//3d.geo.admin.ch/1.0.0/ch.swisstopo.terrain.3d/default/20200520/4326/',
       requestVertexNormals: true
     })
   }
@@ -385,6 +385,7 @@ class Map extends React.Component {
       navigationHelpButton: false,
       navigationInstructionsInitiallyVisible: false,
       scene3DOnly: true,
+      showRenderLoopErrors: false,
       imageryProvider : new Cesium.BingMapsImageryProvider({
         url : 'https://dev.virtualearth.net',
         key : 'AkvC0n8biVNXoCbpiAc4p3g7S9ZHoUWvlpgcJKYQd8FhCA5sn6C8OUmhIR8IEO0X',
@@ -393,6 +394,9 @@ class Map extends React.Component {
     });
     this.viewer.scene.globe.depthTestAgainstTerrain = true;
     this.viewer.scene.globe.enableLighting = true;
+    this.viewer.scene._renderError.raiseEvent = (scene, error) => {
+      console.error(error);
+    }
   }
 
   parseTrackData(gpxRaw) {
