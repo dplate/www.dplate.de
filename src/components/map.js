@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types';
-import styled, { keyframes, css } from 'styled-components'
+import styled, { keyframes } from 'styled-components'
 import * as Cesium from 'cesium';
 import resizeIcon from '../icons/resize.svg'
 import closeIcon from '../icons/close.svg'
@@ -19,9 +19,6 @@ const CesiumContainer = styled.div`
   }
   .cesium-viewer-bottom {
     bottom: 3px !important;
-  }
-  .cesium-widget-credits {
-    ${props => props.noUserInterface && css`display: none !important;`}
   }
   &.wait {
     cursor: wait;
@@ -531,8 +528,7 @@ class Map extends React.Component {
         <CesiumContainer
           id="cesiumContainer"
           className={this.state.size + ' ' + this.state.mapStatus}
-          onClick={this.props.onClick}
-          noUserInterface={this.props.noUserInterface} />
+          onClick={this.props.onClick} />
         { !this.props.noUserInterface && (
           <MenuBar className={this.state.size}>
             <ResizeIcon onClick={this.changeSize.bind(this)} src={resizeIcon} />
