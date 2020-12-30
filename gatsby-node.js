@@ -137,12 +137,27 @@ exports.onCreateWebpackConfig = ({ stage, actions, loaders }) => {
         CESIUM_BASE_URL: JSON.stringify('/Cesium/'),
       }),
     ],
+    optimization: {
+      usedExports: true
+    },
     module: {
       rules: [
         {
           test: /\.gl(tf|b)$/,
           use: loaders.url(),
         },
+        {
+          test: /\.js$/,
+          enforce: 'pre',
+          use: [{
+            loader: 'strip-pragma-loader',
+            options: {
+              pragmas: {
+                debug: false
+              }
+            }
+          }]
+        }
       ],
       unknownContextCritical: false,
     }
