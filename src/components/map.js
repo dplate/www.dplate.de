@@ -356,16 +356,44 @@ class Map extends React.Component {
     })
   }
 
+  catchInvalidSwissTopoTiles(provider) {
+    let randomValidTile = null;
+    const originalRequestTileGeometry = provider.requestTileGeometry.bind(provider);
+    provider.requestTileGeometry = (x, y, level, request) => {
+      const promise = originalRequestTileGeometry(x, y, level, request);
+      if (promise) {
+        return promise.then(terrainData => {
+          const indexLengths = [
+            terrainData._westIndices.length,
+            terrainData._southIndices.length,
+            terrainData._northIndices.length,
+            terrainData._eastIndices.length
+          ];
+          const brokenIndices = indexLengths.filter(length => length === 0).length;
+          if (brokenIndices > 0 && brokenIndices < 4 && randomValidTile) {
+            console.warn('Replacing possible invalid terrain tile by random correct tile');
+            return randomValidTile;
+          } else if (brokenIndices === 0) {
+            randomValidTile = terrainData;
+          }
+          return terrainData;
+        })
+      }
+    }
+    return provider;
+  }
+
   createTerrainProvider() {
     if (this.props.hideSwissTopo) {
       return new Cesium.createWorldTerrain({
         requestVertexNormals: true
       })
     }
-    return new Cesium.CesiumTerrainProvider({
+    const provider = new Cesium.CesiumTerrainProvider({
       url : '//3d.geo.admin.ch/1.0.0/ch.swisstopo.terrain.3d/default/20200520/4326/',
       requestVertexNormals: true
     })
+    return this.catchInvalidSwissTopoTiles(provider);
   }
 
   setupViewer() {
@@ -396,7 +424,7 @@ class Map extends React.Component {
     this.viewer.scene.globe.enableLighting = true;
     this.viewer.scene._renderError.raiseEvent = (scene, error) => {
       console.error(error);
-    }
+    };
   }
 
   parseTrackData(gpxRaw) {
