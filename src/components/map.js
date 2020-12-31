@@ -332,8 +332,8 @@ class Map extends React.Component {
   }
 
   setupMap(gpxRaw) {
-    this.setupViewer();
     const trackData = this.parseTrackData(gpxRaw);
+    this.setupViewer(trackData);
     this.addTrack(trackData.positions);
     this.addPin(trackData.sampledPosition);
     const hdRectangle = this.createHdRectangle(trackData.positions);
@@ -370,10 +370,12 @@ class Map extends React.Component {
             terrainData._eastIndices.length
           ];
           const brokenIndices = indexLengths.filter(length => length === 0).length;
-          if (brokenIndices > 0 && brokenIndices < 4 && randomValidTile) {
+          if (brokenIndices > 0 && brokenIndices < 4 &&
+            terrainData._minimumHeight <= 150 &&
+            randomValidTile) {
             console.warn('Replacing possible invalid terrain tile by random correct tile');
             return randomValidTile;
-          } else if (brokenIndices === 0) {
+          } else if (brokenIndices === 0 && terrainData._minimumHeight > 150) {
             randomValidTile = terrainData;
           }
           return terrainData;
@@ -396,7 +398,7 @@ class Map extends React.Component {
     return this.catchInvalidSwissTopoTiles(provider);
   }
 
-  setupViewer() {
+  setupViewer(trackData) {
     Cesium.Ion.defaultAccessToken = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiI2YzA0MGNiZi02N2E1LTQxZGQtYjAzNi1iNDJjYTRjNTU4NzciLCJpZCI6MTgxMSwiaWF0IjoxNTMwMjA0MjIxfQ.o1Sfgaz0-I6_tAgUIO-8RV2kw7nOB-nNupVeHwsGLj0';
 
     this.viewer = new Cesium.Viewer('cesiumContainer', {
@@ -421,6 +423,8 @@ class Map extends React.Component {
       })
     });
     this.viewer.scene.globe.depthTestAgainstTerrain = true;
+    this.viewer.scene.globe.tileCacheSize = 1000;
+    this.viewer.scene.globe.cartographicLimitRectangle = this.createGlobeRectangle(trackData.positions);
     this.viewer.scene.globe.enableLighting = true;
     this.viewer.scene._renderError.raiseEvent = (scene, error) => {
       console.error(error);
@@ -503,6 +507,12 @@ class Map extends React.Component {
     const hdRectangle = Cesium.Rectangle.fromCartesianArray(positions, Cesium.Ellipsoid.WGS84);
     hdRectangle.east += 0.0005; hdRectangle.west -= 0.0005; hdRectangle.north += 0.00025; hdRectangle.south -= 0.00025;
     return hdRectangle;
+  }
+
+  createGlobeRectangle(positions) {
+    const globeRectangle = Cesium.Rectangle.fromCartesianArray(positions, Cesium.Ellipsoid.WGS84);
+    globeRectangle.east += 0.01; globeRectangle.west -= 0.01; globeRectangle.north += 0.01; globeRectangle.south -= 0.01;
+    return globeRectangle;
   }
 
   addSwissSatellite(hdRectangle) {
