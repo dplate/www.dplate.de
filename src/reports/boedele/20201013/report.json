@@ -5,7 +5,7 @@
     "type": "hike",
     "track": true,
     "detailMap": "austria",
-    "hideSwissTopo": true,
+    "hideSwissTopo": false,
     "shortTitle": "Weißenfluhalpe",
     "title": "Bödele - Weißenfluhalpe",
     "title3d": {
