@@ -11,6 +11,11 @@ const Container = styled.div.attrs(({movePercent}) => ({
   top: 0;
   width: 100vw;
   z-index: 6;
+  >h1 {
+    text-align: center;
+    font-size: 100px;
+    margin: 200px 50px 0 50px;
+  }
 `;
 
 const MovingTitle = ({movePercent, reportPath, title, title3d}) => {
