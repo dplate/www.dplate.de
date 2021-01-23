@@ -1,5 +1,5 @@
 import React, {Fragment} from 'react';
-import { Helmet } from 'react-helmet';
+import {Helmet} from 'react-helmet';
 import Map from '../components/map';
 import Title from '../components/title';
 import {graphql} from 'gatsby';
@@ -90,13 +90,17 @@ class ReportMovie extends React.Component {
     return '/' + this.props.data.reportJson.destination + '/' + this.props.data.reportJson.date.substring(1);
   }
 
-  outputMetadata() {
+  async outputMetadata() {
     const {date, destination, title, shortTitle} = this.props.data.reportJson;
+    const sections = await this.generateSections();
     console.log({
       title: `⛰ ${title} Wanderung`,
       description: 'Wanderkarte und Bilder des Wegs ' + title + ' vom ' + formatDate(date) + '.\n' +
         'Der ausführliche Bericht dieser Wanderung und der Download der GPX-Datei sind hier zu finden:\n' +
         'https://www.dplate.de/alpine' + this.getReportPath() + '\n' +
+        '\n' +
+        'Inhalt:\n' +
+        sections.join('\n') + '\n' +
         '\n' +
         'Map engine:\n' +
         '- Cesium\n' +
@@ -120,9 +124,59 @@ class ReportMovie extends React.Component {
     });
   }
 
+  async generateSections() {
+    const gpxRaw = await (await fetch(this.buildGpxPath())).text();
+    const doc = (new window.DOMParser()).parseFromString(gpxRaw, 'text/xml');
+    const trackPoints = Array.prototype.slice.call(doc.getElementsByTagName('trkpt'));
+    const startDate = trackPoints[0].getElementsByTagName('time')[0].firstChild.nodeValue;
+    let lastSeconds =
+      Number(startDate.substring(11, 13)) * 60 * 60 +
+      Number(startDate.substring(14, 16)) * 60 +
+      Number(startDate.substring(17, 19));
+    let lastMovieSeconds = 7;
+    const sections = [{
+      movieSeconds: 0,
+      text: 'Titel'
+    }];
+    this.props.data.reportJson.landmarks.forEach(landmark => {
+      landmark.photos.forEach(photo => {
+        const secondsDiff = photo.seconds - lastSeconds;
+        const movieSeconds = lastMovieSeconds + 5 + Math.log10(secondsDiff / 20) * 4.925;
+        sections.push({
+          movieSeconds: (movieSeconds + lastMovieSeconds + 5) / 2,
+          text: photo.alt
+        });
+        lastSeconds = photo.seconds;
+        lastMovieSeconds = movieSeconds;
+      });
+    });
+
+    let shortestDiff = Number.MAX_VALUE;
+    do {
+      let shortestIndex = null;
+      shortestDiff = Number.MAX_VALUE;
+      for (let i = 0; i < sections.length - 1; i++) {
+        const diff = sections[i + 1].movieSeconds - sections[i].movieSeconds;
+        if (diff <= shortestDiff) {
+          shortestDiff = diff;
+          shortestIndex = i;
+        }
+      }
+      if (shortestIndex !== null && shortestDiff < 10) {
+        sections[shortestIndex].text += ' & ' + sections[shortestIndex + 1].text;
+        sections.splice(shortestIndex + 1, 1);
+      }
+    } while (shortestDiff < 10);
+
+    return sections.map(section =>
+      Math.floor(section.movieSeconds / 60).toString().padStart(2, '0') + ':' +
+      Math.floor(section.movieSeconds % 60).toString().padStart(2, '0') + ' ' +
+      section.text
+    );
+  }
+
   componentDidMount() {
     this.retrievePhotoDates();
-    this.outputMetadata();
   }
 
   findNextPhoto() {
@@ -201,12 +255,25 @@ class ReportMovie extends React.Component {
     const self = this;
     EXIF.getData(imgElement, function() {
       const exifDate = EXIF.getTag(this, 'DateTimeOriginal');
-      const [date, time] = exifDate.split(' ');
+      const gpsTime = EXIF.getTag(this, 'GPSTimeStamp');
+      let photoDate = null;
+      let photoSeconds = null;
+      if (!exifDate || !gpsTime) {
+        self.props.data.reportJson.landmarks = self.props.data.reportJson.landmarks.filter(landmark => {
+          landmark.photos = landmark.photos.filter(photo => photo.name !== imgElement.id);
+          return landmark.photos.length > 0;
+        });
+      } else {
+        const [date, time] = exifDate.split(' ');
+        photoDate = date.replace(/:/g, '-') + 'T' + time;
+        photoSeconds = gpsTime[0] * 60 * 60 + gpsTime[1] * 60 + gpsTime[2];
+      }
       let allDatesRetrieved = true;
       self.props.data.reportJson.landmarks.forEach(landmark => {
         landmark.photos.forEach(photo => {
-          if (photo.name === imgElement.id) {
-            photo.date = date.replace(/:/g, '-') + 'T' + time
+          if (photoDate && photoSeconds && photo.name === imgElement.id) {
+            photo.date = photoDate;
+            photo.seconds = photoSeconds;
           }
           if (!photo.date) {
             allDatesRetrieved = false;
@@ -214,6 +281,7 @@ class ReportMovie extends React.Component {
         });
       });
       if (allDatesRetrieved) {
+        self.outputMetadata();
         window.setTimeout(self.nextPhase, 8000);
       }
     });
@@ -281,11 +349,14 @@ class ReportMovie extends React.Component {
     return <Curtain opacity={opacity} />;
   }
 
+  buildGpxPath() {
+    return __PATH_PREFIX__ + '/tracks' + this.getReportPath() + '.gpx';
+  }
+
   renderMap() {
     const {type, track, timeShift, detailMap, hideSwissTopo} = this.props.data.reportJson;
-    const gpxPath = __PATH_PREFIX__ + '/tracks' + this.getReportPath() + '.gpx';
     return track && <Map
-      gpxPath={gpxPath}
+      gpxPath={this.buildGpxPath()}
       time={this.getTargetTime()}
       timeShift={timeShift}
       detailMap={detailMap}
@@ -297,6 +368,10 @@ class ReportMovie extends React.Component {
   }
 
   render() {
+    const reportJson = this.props.data.reportJson;
+    reportJson.landmarks = reportJson.landmarks.filter(landmark => {
+      return landmark.photos.length > 0;
+    });
     return (
       <Movie id='movie'>
         <Helmet>
