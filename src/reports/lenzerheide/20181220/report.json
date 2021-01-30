@@ -7,8 +7,10 @@
     "shortTitle": "Lenzerheide",
     "title": "Lenzerheide - Arosa",
     "title3d": {
-      "offsetY": 2.0,
-      "fontSize": 8
+      "offsetY": 2,
+      "fontSize": 8,
+      "width": 1920,
+      "height": 480
     },
     "intro": "Obwohl die Wettervorhersage für diesen Donnerstag eher bescheiden war und nur von sehr wenig Sonnenschein sprach, kaufte ich über die Webseite von Lenzerheide eine Tageskarte von 44CHF. Sie war auf Grund von Vorsaison und Werktag um 33% günstiger. Während der Fahrt im Dunklen durch Regen im Rheintal bezweifelte ich schon etwas meine Entscheidung, aber schlußendlich stellte ich mein Auto etwas zu früh um 8:15 in Churwalden ab und bezahlte die 5CHF Parkgebühren. Bis zum Start der Gondel zur Alp Stätz um 8:30 musste ich noch etwas warten, aber der Himmel über Lenzerheiden sah schon erfreulich aufgelockert aus.",
     "landmarks": [
@@ -16,7 +18,10 @@
         "photos": [
           {
             "name": "001",
-            "alt": "Schwarze Piste Stätzerhorn"
+            "alt": "Schwarze Piste Stätzerhorn",
+            "date": "2018-12-20T08:50:33.000+01:00",
+            "width": 1920,
+            "height": 1051
           }
         ],
         "videos": [],
@@ -26,11 +31,17 @@
         "photos": [
           {
             "name": "002",
-            "alt": "Aussicht Stätzerhorn"
+            "alt": "Aussicht Stätzerhorn",
+            "date": "2018-12-20T08:51:35.000+01:00",
+            "width": 1920,
+            "height": 658
           },
           {
             "name": "003",
-            "alt": "Schanfigg"
+            "alt": "Schanfigg",
+            "date": "2018-12-20T08:52:03.000+01:00",
+            "width": 1920,
+            "height": 594
           }
         ],
         "videos": [],
@@ -40,7 +51,10 @@
         "photos": [
           {
             "name": "004",
-            "alt": "Panorama Stätzerhorn"
+            "alt": "Panorama Stätzerhorn",
+            "date": "2018-12-20T08:52:28.000+01:00",
+            "width": 1920,
+            "height": 623
           }
         ],
         "videos": [],
@@ -50,7 +64,10 @@
         "photos": [
           {
             "name": "005",
-            "alt": "Skiweg"
+            "alt": "Skiweg",
+            "date": "2018-12-20T09:23:30.000+01:00",
+            "width": 1920,
+            "height": 1176
           }
         ],
         "videos": [],
@@ -60,7 +77,10 @@
         "photos": [
           {
             "name": "006",
-            "alt": "Sesselbahn Lavoz"
+            "alt": "Sesselbahn Lavoz",
+            "date": "2018-12-20T09:34:43.000+01:00",
+            "width": 1920,
+            "height": 945
           }
         ],
         "videos": [],
@@ -70,7 +90,10 @@
         "photos": [
           {
             "name": "007",
-            "alt": "Piste Tgantieni"
+            "alt": "Piste Tgantieni",
+            "date": "2018-12-20T09:40:58.000+01:00",
+            "width": 1920,
+            "height": 1298
           }
         ],
         "videos": [],
@@ -80,11 +103,17 @@
         "photos": [
           {
             "name": "008",
-            "alt": "Abfahrt Val Sporz"
+            "alt": "Abfahrt Val Sporz",
+            "date": "2018-12-20T09:44:03.000+01:00",
+            "width": 1920,
+            "height": 832
           },
           {
             "name": "009",
-            "alt": "Madlainas"
+            "alt": "Madlainas",
+            "date": "2018-12-20T09:48:15.000+01:00",
+            "width": 1920,
+            "height": 1332
           }
         ],
         "videos": [],
@@ -94,7 +123,10 @@
         "photos": [
           {
             "name": "010",
-            "alt": "Piz Scalottas"
+            "alt": "Piz Scalottas",
+            "date": "2018-12-20T10:02:00.000+01:00",
+            "width": 1920,
+            "height": 1069
           }
         ],
         "videos": [],
@@ -104,7 +136,10 @@
         "photos": [
           {
             "name": "011",
-            "alt": "Cumascheals"
+            "alt": "Cumascheals",
+            "date": "2018-12-20T10:53:41.000+01:00",
+            "width": 1920,
+            "height": 852
           }
         ],
         "videos": [],
@@ -114,7 +149,10 @@
         "photos": [
           {
             "name": "012",
-            "alt": "Lavoz"
+            "alt": "Lavoz",
+            "date": "2018-12-20T10:56:25.000+01:00",
+            "width": 1920,
+            "height": 891
           }
         ],
         "videos": [],
@@ -124,7 +162,10 @@
         "photos": [
           {
             "name": "013",
-            "alt": "Stätzerhorn"
+            "alt": "Stätzerhorn",
+            "date": "2018-12-20T11:45:25.000+01:00",
+            "width": 1920,
+            "height": 737
           }
         ],
         "videos": [],
@@ -134,7 +175,10 @@
         "photos": [
           {
             "name": "014",
-            "alt": "Chilihütta"
+            "alt": "Chilihütta",
+            "date": "2018-12-20T11:50:24.000+01:00",
+            "width": 1920,
+            "height": 984
           }
         ],
         "videos": [],
@@ -144,7 +188,10 @@
         "photos": [
           {
             "name": "015",
-            "alt": "Sesselbahn Urdenfürggli"
+            "alt": "Sesselbahn Urdenfürggli",
+            "date": "2018-12-20T12:40:57.000+01:00",
+            "width": 1920,
+            "height": 980
           }
         ],
         "videos": [],
@@ -154,11 +201,17 @@
         "photos": [
           {
             "name": "016",
-            "alt": "Talabfahrt Hörnlibahn"
+            "alt": "Talabfahrt Hörnlibahn",
+            "date": "2018-12-20T13:02:38.000+01:00",
+            "width": 1920,
+            "height": 752
           },
           {
             "name": "017",
-            "alt": "Inner-Arosa"
+            "alt": "Inner-Arosa",
+            "date": "2018-12-20T13:04:53.000+01:00",
+            "width": 1920,
+            "height": 835
           }
         ],
         "videos": [],
@@ -168,7 +221,10 @@
         "photos": [
           {
             "name": "018",
-            "alt": "Skipiste Weisshorn"
+            "alt": "Skipiste Weisshorn",
+            "date": "2018-12-20T13:31:36.000+01:00",
+            "width": 1920,
+            "height": 1066
           }
         ],
         "videos": [],
@@ -178,7 +234,10 @@
         "photos": [
           {
             "name": "019",
-            "alt": "Panorama Weisshorn"
+            "alt": "Panorama Weisshorn",
+            "date": "2018-12-20T13:47:17.000+01:00",
+            "width": 1920,
+            "height": 739
           }
         ],
         "videos": [],
@@ -188,7 +247,10 @@
         "photos": [
           {
             "name": "020",
-            "alt": "Abfahrt Weisshorn"
+            "alt": "Abfahrt Weisshorn",
+            "date": "2018-12-20T13:47:57.000+01:00",
+            "width": 1920,
+            "height": 796
           }
         ],
         "videos": [],
@@ -198,7 +260,10 @@
         "photos": [
           {
             "name": "021",
-            "alt": "Lenzerheide Rothornbahn"
+            "alt": "Lenzerheide Rothornbahn",
+            "date": "2018-12-20T15:37:32.000+01:00",
+            "width": 1920,
+            "height": 1226
           }
         ],
         "videos": [],
@@ -208,7 +273,10 @@
         "photos": [
           {
             "name": "022",
-            "alt": "Sonnenuntergang Rothorn"
+            "alt": "Sonnenuntergang Rothorn",
+            "date": "2018-12-20T15:52:01.000+01:00",
+            "width": 1920,
+            "height": 1094
           }
         ],
         "videos": [],
@@ -218,7 +286,10 @@
         "photos": [
           {
             "name": "023",
-            "alt": "Piste mit Fangzaun"
+            "alt": "Piste mit Fangzaun",
+            "date": "2018-12-20T16:00:49.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -228,7 +299,10 @@
         "photos": [
           {
             "name": "024",
-            "alt": "Weisshorn Speed"
+            "alt": "Weisshorn Speed",
+            "date": "2018-12-20T16:01:54.000+01:00",
+            "width": 1920,
+            "height": 824
           }
         ],
         "videos": [],
@@ -238,7 +312,10 @@
         "photos": [
           {
             "name": "025",
-            "alt": "Rothorn"
+            "alt": "Rothorn",
+            "date": "2018-12-20T16:02:49.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -248,7 +325,10 @@
         "photos": [
           {
             "name": "026",
-            "alt": "Weisshornmulde"
+            "alt": "Weisshornmulde",
+            "date": "2018-12-20T16:03:29.000+01:00",
+            "width": 1920,
+            "height": 907
           }
         ],
         "videos": [],
@@ -258,7 +338,10 @@
         "photos": [
           {
             "name": "027",
-            "alt": "Sonnenuntergang Lenzerheide"
+            "alt": "Sonnenuntergang Lenzerheide",
+            "date": "2018-12-20T16:03:42.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -268,7 +351,10 @@
         "photos": [
           {
             "name": "028",
-            "alt": "Skilift Scharmoin"
+            "alt": "Skilift Scharmoin",
+            "date": "2018-12-20T16:10:04.000+01:00",
+            "width": 1920,
+            "height": 955
           }
         ],
         "videos": [],
@@ -278,7 +364,10 @@
         "photos": [
           {
             "name": "029",
-            "alt": "Bergkette im Abendlicht"
+            "alt": "Bergkette im Abendlicht",
+            "date": "2018-12-20T16:24:26.000+01:00",
+            "width": 1920,
+            "height": 418
           }
         ],
         "videos": [],
@@ -288,7 +377,10 @@
         "photos": [
           {
             "name": "030",
-            "alt": "Talabfahrt Churwalden"
+            "alt": "Talabfahrt Churwalden",
+            "date": "2018-12-20T16:30:38.000+01:00",
+            "width": 1920,
+            "height": 812
           }
         ],
         "videos": [],
@@ -298,7 +390,10 @@
         "photos": [
           {
             "name": "031",
-            "alt": "Churwalden Portal"
+            "alt": "Churwalden Portal",
+            "date": "2018-12-20T16:33:26.000+01:00",
+            "width": 1920,
+            "height": 732
           }
         ],
         "videos": [],

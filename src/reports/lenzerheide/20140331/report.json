@@ -11,7 +11,10 @@
         "photos": [
           {
             "name": "001",
-            "alt": "Sesselbahn Lavoz"
+            "alt": "Sesselbahn Lavoz",
+            "date": "2014-03-31T08:56:18.000+02:00",
+            "width": 1920,
+            "height": 588
           }
         ],
         "videos": [],
@@ -21,11 +24,17 @@
         "photos": [
           {
             "name": "002",
-            "alt": "Skipiste Piz Scalottas"
+            "alt": "Skipiste Piz Scalottas",
+            "date": "2014-03-31T09:19:23.000+02:00",
+            "width": 1920,
+            "height": 991
           },
           {
             "name": "003",
-            "alt": "Restaurant Tgantieni"
+            "alt": "Restaurant Tgantieni",
+            "date": "2014-03-31T09:22:21.000+02:00",
+            "width": 1920,
+            "height": 943
           }
         ],
         "videos": [],
@@ -35,7 +44,10 @@
         "photos": [
           {
             "name": "004",
-            "alt": "Westseite Lenzerheide"
+            "alt": "Westseite Lenzerheide",
+            "date": "2014-03-31T09:29:51.000+02:00",
+            "width": 1920,
+            "height": 884
           }
         ],
         "videos": [],
@@ -45,7 +57,10 @@
         "photos": [
           {
             "name": "005",
-            "alt": "Skiabfahrt Pedra Grossa"
+            "alt": "Skiabfahrt Pedra Grossa",
+            "date": "2014-03-31T09:36:00.000+02:00",
+            "width": 1620,
+            "height": 1080
           }
         ],
         "videos": [],
@@ -55,7 +70,10 @@
         "photos": [
           {
             "name": "006",
-            "alt": "Verbindungspiste Gertrud Lavoz"
+            "alt": "Verbindungspiste Gertrud Lavoz",
+            "date": "2014-03-31T09:51:54.000+02:00",
+            "width": 1620,
+            "height": 1080
           }
         ],
         "videos": [],
@@ -65,7 +83,10 @@
         "photos": [
           {
             "name": "007",
-            "alt": "Leere Piste"
+            "alt": "Leere Piste",
+            "date": "2014-03-31T10:06:17.000+02:00",
+            "width": 1920,
+            "height": 978
           }
         ],
         "videos": [],
@@ -75,7 +96,10 @@
         "photos": [
           {
             "name": "008",
-            "alt": "Skifahren Stätzerhorn"
+            "alt": "Skifahren Stätzerhorn",
+            "date": "2014-03-31T10:23:42.000+02:00",
+            "width": 1920,
+            "height": 719
           }
         ],
         "videos": [],
@@ -85,7 +109,10 @@
         "photos": [
           {
             "name": "009",
-            "alt": "Skigebiet Lenzerheide"
+            "alt": "Skigebiet Lenzerheide",
+            "date": "2014-03-31T10:55:38.000+02:00",
+            "width": 1920,
+            "height": 1032
           }
         ],
         "videos": [],
@@ -95,7 +122,10 @@
         "photos": [
           {
             "name": "010",
-            "alt": "Verbindungsbahn Urdenbahn"
+            "alt": "Verbindungsbahn Urdenbahn",
+            "date": "2014-03-31T11:39:52.000+02:00",
+            "width": 1620,
+            "height": 1080
           }
         ],
         "videos": [],
@@ -105,7 +135,10 @@
         "photos": [
           {
             "name": "011",
-            "alt": "Arosa Hörnlibahn"
+            "alt": "Arosa Hörnlibahn",
+            "date": "2014-03-31T11:57:38.000+02:00",
+            "width": 1901,
+            "height": 1080
           }
         ],
         "videos": [],
@@ -115,7 +148,10 @@
         "photos": [
           {
             "name": "012",
-            "alt": "Sesselbahn Carmenna"
+            "alt": "Sesselbahn Carmenna",
+            "date": "2014-03-31T12:12:20.000+02:00",
+            "width": 1920,
+            "height": 858
           }
         ],
         "videos": [],
@@ -125,7 +161,10 @@
         "photos": [
           {
             "name": "013",
-            "alt": "Skiabfahrt Carmenna"
+            "alt": "Skiabfahrt Carmenna",
+            "date": "2014-03-31T12:14:58.000+02:00",
+            "width": 1920,
+            "height": 1044
           }
         ],
         "videos": [],
@@ -135,11 +174,17 @@
         "photos": [
           {
             "name": "014",
-            "alt": "Terrasse Brüggerstuba"
+            "alt": "Terrasse Brüggerstuba",
+            "date": "2014-03-31T12:26:24.000+02:00",
+            "width": 1920,
+            "height": 405
           },
           {
             "name": "015",
-            "alt": "Skilift Ried"
+            "alt": "Skilift Ried",
+            "date": "2014-03-31T12:27:00.000+02:00",
+            "width": 1887,
+            "height": 1080
           }
         ],
         "videos": [],
@@ -149,7 +194,10 @@
         "photos": [
           {
             "name": "016",
-            "alt": "Chur"
+            "alt": "Chur",
+            "date": "2014-03-31T12:56:53.000+02:00",
+            "width": 1620,
+            "height": 1080
           }
         ],
         "videos": [],
@@ -159,7 +207,10 @@
         "photos": [
           {
             "name": "017",
-            "alt": "Sesselbahn Brüggerhorn"
+            "alt": "Sesselbahn Brüggerhorn",
+            "date": "2014-03-31T13:03:05.000+02:00",
+            "width": 1620,
+            "height": 1080
           }
         ],
         "videos": [],
@@ -169,15 +220,24 @@
         "photos": [
           {
             "name": "018",
-            "alt": "Skipiste Leichte Maran"
+            "alt": "Skipiste Leichte Maran",
+            "date": "2014-03-31T13:17:04.000+02:00",
+            "width": 1920,
+            "height": 603
           },
           {
             "name": "019",
-            "alt": "Skiabfahrt Leichte Maran"
+            "alt": "Skiabfahrt Leichte Maran",
+            "date": "2014-03-31T13:18:31.000+02:00",
+            "width": 1920,
+            "height": 1004
           },
           {
             "name": "020",
-            "alt": "Abseits in Arosa"
+            "alt": "Abseits in Arosa",
+            "date": "2014-03-31T13:19:46.000+02:00",
+            "width": 1620,
+            "height": 1080
           }
         ],
         "videos": [],
@@ -187,7 +247,10 @@
         "photos": [
           {
             "name": "021",
-            "alt": "Tschuggengebiet Arosa"
+            "alt": "Tschuggengebiet Arosa",
+            "date": "2014-03-31T13:22:10.000+02:00",
+            "width": 1920,
+            "height": 850
           }
         ],
         "videos": [],
@@ -197,7 +260,10 @@
         "photos": [
           {
             "name": "022",
-            "alt": "Schwarze Piste Weisshorn"
+            "alt": "Schwarze Piste Weisshorn",
+            "date": "2014-03-31T13:46:43.000+02:00",
+            "width": 1897,
+            "height": 1080
           }
         ],
         "videos": [],
@@ -207,11 +273,17 @@
         "photos": [
           {
             "name": "023",
-            "alt": "Inner-Arosa"
+            "alt": "Inner-Arosa",
+            "date": "2014-03-31T14:04:52.000+02:00",
+            "width": 1920,
+            "height": 712
           },
           {
             "name": "024",
-            "alt": "Hörnli-Express Talstation Parkplatz"
+            "alt": "Hörnli-Express Talstation Parkplatz",
+            "date": "2014-03-31T14:10:06.000+02:00",
+            "width": 1620,
+            "height": 1080
           }
         ],
         "videos": [],
@@ -221,7 +293,10 @@
         "photos": [
           {
             "name": "025",
-            "alt": "Skiklamotten im Frühjahr"
+            "alt": "Skiklamotten im Frühjahr",
+            "date": "2014-03-31T14:17:00.000+02:00",
+            "width": 720,
+            "height": 1080
           }
         ],
         "videos": [],
@@ -231,7 +306,10 @@
         "photos": [
           {
             "name": "026",
-            "alt": "Skipisten Hörnli"
+            "alt": "Skipisten Hörnli",
+            "date": "2014-03-31T14:42:22.000+02:00",
+            "width": 1847,
+            "height": 1080
           }
         ],
         "videos": [],
@@ -241,7 +319,10 @@
         "photos": [
           {
             "name": "027",
-            "alt": "Urdental"
+            "alt": "Urdental",
+            "date": "2014-03-31T15:08:58.000+02:00",
+            "width": 1920,
+            "height": 945
           }
         ],
         "videos": [],
@@ -251,11 +332,17 @@
         "photos": [
           {
             "name": "028",
-            "alt": "Skifahren Parpan"
+            "alt": "Skifahren Parpan",
+            "date": "2014-03-31T15:18:04.000+02:00",
+            "width": 1620,
+            "height": 1080
           },
           {
             "name": "029",
-            "alt": "Sesselbahn Heimberg"
+            "alt": "Sesselbahn Heimberg",
+            "date": "2014-03-31T15:45:56.000+02:00",
+            "width": 1920,
+            "height": 883
           }
         ],
         "videos": [],
@@ -265,7 +352,10 @@
         "photos": [
           {
             "name": "030",
-            "alt": "Pistenplan Lenzerheide-Arosa"
+            "alt": "Pistenplan Lenzerheide-Arosa",
+            "date": "2014-03-31T16:23:16.000+02:00",
+            "width": 1499,
+            "height": 1080
           }
         ],
         "videos": [],
@@ -275,11 +365,17 @@
         "photos": [
           {
             "name": "031",
-            "alt": "Scharmoin Rothorn"
+            "alt": "Scharmoin Rothorn",
+            "date": "2014-03-31T16:23:47.000+02:00",
+            "width": 1683,
+            "height": 1080
           },
           {
             "name": "032",
-            "alt": "Rothorn Seilbahn"
+            "alt": "Rothorn Seilbahn",
+            "date": "2014-03-31T16:36:13.000+02:00",
+            "width": 1620,
+            "height": 1080
           }
         ],
         "videos": [],
@@ -289,7 +385,10 @@
         "photos": [
           {
             "name": "033",
-            "alt": "Skiabfahrt Rothorn"
+            "alt": "Skiabfahrt Rothorn",
+            "date": "2014-03-31T16:38:17.000+02:00",
+            "width": 1620,
+            "height": 1080
           }
         ],
         "videos": [],
@@ -299,7 +398,10 @@
         "photos": [
           {
             "name": "034",
-            "alt": "Bergstation Weisshorn Speed"
+            "alt": "Bergstation Weisshorn Speed",
+            "date": "2014-03-31T16:42:09.000+02:00",
+            "width": 1620,
+            "height": 1080
           }
         ],
         "videos": [],
@@ -309,7 +411,10 @@
         "photos": [
           {
             "name": "035",
-            "alt": "Talabfahrt Valbella"
+            "alt": "Talabfahrt Valbella",
+            "date": "2014-03-31T16:50:46.000+02:00",
+            "width": 1140,
+            "height": 1080
           }
         ],
         "videos": [],
@@ -319,7 +424,10 @@
         "photos": [
           {
             "name": "036",
-            "alt": "Parkplatz Valbella"
+            "alt": "Parkplatz Valbella",
+            "date": "2014-03-31T17:06:45.000+02:00",
+            "width": 1820,
+            "height": 1080
           }
         ],
         "videos": [],

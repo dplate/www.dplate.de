@@ -10,7 +10,9 @@
     "title3d": {
       "offsetY": 0,
       "fontSize": 7.5,
-      "align": "right"
+      "align": "right",
+      "width": 1920,
+      "height": 381
     },
     "intro": "Nachdem es in der Vorwoche in den Alpen (besonders südlich) schon eingen Neuschnee gab, suchte ich mir als Ziel an diesem Novembersonntag eine Wanderung unter 2000m im Toggenburg heraus.<br />Ursprünglich hatte ich vor, vom 840m hohen Stein nur auf den 1780m hohen Stockberg zu wandern. Deshalb stellte ich mein Auto gegen 8:00 auf einen der vielen Gratisparkplätzen ab und lief den Südhang dem Wegweiser zum Stockberg nach.",
     "landmarks": [
@@ -18,7 +20,10 @@
         "photos": [
           {
             "name": "001",
-            "alt": "Serpentine im Nebel"
+            "alt": "Serpentine im Nebel",
+            "date": "2018-11-04T08:22:37.000+01:00",
+            "width": 1920,
+            "height": 1186
           }
         ],
         "videos": [],
@@ -28,11 +33,17 @@
         "photos": [
           {
             "name": "002",
-            "alt": "Nebelgrenze"
+            "alt": "Nebelgrenze",
+            "date": "2018-11-04T08:24:27.000+01:00",
+            "width": 1920,
+            "height": 486
           },
           {
             "name": "003",
-            "alt": "Nebel im Tal"
+            "alt": "Nebel im Tal",
+            "date": "2018-11-04T08:28:39.000+01:00",
+            "width": 1920,
+            "height": 830
           }
         ],
         "videos": [],
@@ -42,15 +53,24 @@
         "photos": [
           {
             "name": "004",
-            "alt": "Sonnenaufgang Toggenburg"
+            "alt": "Sonnenaufgang Toggenburg",
+            "date": "2018-11-04T08:45:43.000+01:00",
+            "width": 1920,
+            "height": 681
           },
           {
             "name": "005",
-            "alt": "Bauernhaus vor Nebelmeer"
+            "alt": "Bauernhaus vor Nebelmeer",
+            "date": "2018-11-04T08:46:27.000+01:00",
+            "width": 1920,
+            "height": 819
           },
           {
             "name": "006",
-            "alt": "Wanderweg Stein Nesslau"
+            "alt": "Wanderweg Stein Nesslau",
+            "date": "2018-11-04T08:48:59.000+01:00",
+            "width": 1920,
+            "height": 873
           }
         ],
         "videos": [],
@@ -60,11 +80,17 @@
         "photos": [
           {
             "name": "007",
-            "alt": "Goggeien"
+            "alt": "Goggeien",
+            "date": "2018-11-04T08:51:42.000+01:00",
+            "width": 1920,
+            "height": 1031
           },
           {
             "name": "008",
-            "alt": "Wanderweg im Wald"
+            "alt": "Wanderweg im Wald",
+            "date": "2018-11-04T08:52:42.000+01:00",
+            "width": 1920,
+            "height": 1363
           }
         ],
         "videos": [],
@@ -74,7 +100,10 @@
         "photos": [
           {
             "name": "009",
-            "alt": "Amsler"
+            "alt": "Amsler",
+            "date": "2018-11-04T09:33:43.000+01:00",
+            "width": 1920,
+            "height": 574
           }
         ],
         "videos": [],
@@ -84,11 +113,17 @@
         "photos": [
           {
             "name": "010",
-            "alt": "Wegmarkierung an Fels"
+            "alt": "Wegmarkierung an Fels",
+            "date": "2018-11-04T09:37:31.000+01:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "011",
-            "alt": "Steilste Straße"
+            "alt": "Steilste Straße",
+            "date": "2018-11-04T09:44:53.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -98,11 +133,17 @@
         "photos": [
           {
             "name": "012",
-            "alt": "Herbstnebel"
+            "alt": "Herbstnebel",
+            "date": "2018-11-04T09:51:20.000+01:00",
+            "width": 1920,
+            "height": 740
           },
           {
             "name": "013",
-            "alt": "Nebelmeer"
+            "alt": "Nebelmeer",
+            "date": "2018-11-04T10:03:08.000+01:00",
+            "width": 1920,
+            "height": 924
           }
         ],
         "videos": [],
@@ -112,7 +153,10 @@
         "photos": [
           {
             "name": "014",
-            "alt": "Gleitschirm Stockneregg"
+            "alt": "Gleitschirm Stockneregg",
+            "date": "2018-11-04T10:14:10.000+01:00",
+            "width": 1920,
+            "height": 999
           }
         ],
         "videos": [],
@@ -122,7 +166,10 @@
         "photos": [
           {
             "name": "015",
-            "alt": "Aufstieg Stockberg"
+            "alt": "Aufstieg Stockberg",
+            "date": "2018-11-04T10:34:07.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -132,7 +179,10 @@
         "photos": [
           {
             "name": "016",
-            "alt": "Stockberg Säntis"
+            "alt": "Stockberg Säntis",
+            "date": "2018-11-04T10:41:39.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -142,7 +192,10 @@
         "photos": [
           {
             "name": "017",
-            "alt": "Gipfelkreuz Stockberg"
+            "alt": "Gipfelkreuz Stockberg",
+            "date": "2018-11-04T10:46:08.000+01:00",
+            "width": 1920,
+            "height": 613
           }
         ],
         "videos": [],
@@ -152,7 +205,10 @@
         "photos": [
           {
             "name": "018",
-            "alt": "Nebel im Toggenburg"
+            "alt": "Nebel im Toggenburg",
+            "date": "2018-11-04T10:51:07.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -162,11 +218,17 @@
         "photos": [
           {
             "name": "019",
-            "alt": "Stockberg"
+            "alt": "Stockberg",
+            "date": "2018-11-04T10:52:43.000+01:00",
+            "width": 1920,
+            "height": 863
           },
           {
             "name": "020",
-            "alt": "Stockberg Schwägalp"
+            "alt": "Stockberg Schwägalp",
+            "date": "2018-11-04T10:55:14.000+01:00",
+            "width": 1920,
+            "height": 688
           }
         ],
         "videos": [],
@@ -176,7 +238,10 @@
         "photos": [
           {
             "name": "021",
-            "alt": "Wanderweg Stockberg"
+            "alt": "Wanderweg Stockberg",
+            "date": "2018-11-04T11:05:22.000+01:00",
+            "width": 1920,
+            "height": 1002
           }
         ],
         "videos": [],
@@ -186,7 +251,10 @@
         "photos": [
           {
             "name": "022",
-            "alt": "Wandern Stockberg Risipass"
+            "alt": "Wandern Stockberg Risipass",
+            "date": "2018-11-04T11:07:55.000+01:00",
+            "width": 1920,
+            "height": 862
           }
         ],
         "videos": [],
@@ -196,11 +264,17 @@
         "photos": [
           {
             "name": "023",
-            "alt": "Säntis"
+            "alt": "Säntis",
+            "date": "2018-11-04T11:15:27.000+01:00",
+            "width": 1920,
+            "height": 1149
           },
           {
             "name": "024",
-            "alt": "Risipass Schwägalp"
+            "alt": "Risipass Schwägalp",
+            "date": "2018-11-04T11:22:03.000+01:00",
+            "width": 1920,
+            "height": 909
           }
         ],
         "videos": [],
@@ -210,7 +284,10 @@
         "photos": [
           {
             "name": "025",
-            "alt": "Fahrstraße Risipass"
+            "alt": "Fahrstraße Risipass",
+            "date": "2018-11-04T11:25:19.000+01:00",
+            "width": 1920,
+            "height": 627
           }
         ],
         "videos": [],
@@ -220,11 +297,17 @@
         "photos": [
           {
             "name": "026",
-            "alt": "Risipass"
+            "alt": "Risipass",
+            "date": "2018-11-04T11:31:20.000+01:00",
+            "width": 1920,
+            "height": 700
           },
           {
             "name": "027",
-            "alt": "Wanderweg Windenpass Risipass"
+            "alt": "Wanderweg Windenpass Risipass",
+            "date": "2018-11-04T11:54:36.000+01:00",
+            "width": 1920,
+            "height": 1073
           }
         ],
         "videos": [],
@@ -234,7 +317,10 @@
         "photos": [
           {
             "name": "028",
-            "alt": "Alpli"
+            "alt": "Alpli",
+            "date": "2018-11-04T12:00:03.000+01:00",
+            "width": 1920,
+            "height": 695
           }
         ],
         "videos": [],
@@ -244,7 +330,10 @@
         "photos": [
           {
             "name": "029",
-            "alt": "Bergweg"
+            "alt": "Bergweg",
+            "date": "2018-11-04T12:09:49.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -254,7 +343,10 @@
         "photos": [
           {
             "name": "030",
-            "alt": "Aufstieg Gemeinewies"
+            "alt": "Aufstieg Gemeinewies",
+            "date": "2018-11-04T12:20:35.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -264,7 +356,10 @@
         "photos": [
           {
             "name": "031",
-            "alt": "Gräppelensee"
+            "alt": "Gräppelensee",
+            "date": "2018-11-04T12:21:30.000+01:00",
+            "width": 1920,
+            "height": 869
           }
         ],
         "videos": [],
@@ -274,11 +369,17 @@
         "photos": [
           {
             "name": "032",
-            "alt": "Namenloser Gipfel"
+            "alt": "Namenloser Gipfel",
+            "date": "2018-11-04T12:25:33.000+01:00",
+            "width": 1920,
+            "height": 810
           },
           {
             "name": "033",
-            "alt": "Alpstein"
+            "alt": "Alpstein",
+            "date": "2018-11-04T12:25:46.000+01:00",
+            "width": 1920,
+            "height": 911
           }
         ],
         "videos": [],
@@ -288,7 +389,10 @@
         "photos": [
           {
             "name": "034",
-            "alt": "Gemeinewies"
+            "alt": "Gemeinewies",
+            "date": "2018-11-04T12:30:05.000+01:00",
+            "width": 1920,
+            "height": 734
           }
         ],
         "videos": [],
@@ -298,7 +402,10 @@
         "photos": [
           {
             "name": "035",
-            "alt": "Windenpass"
+            "alt": "Windenpass",
+            "date": "2018-11-04T12:31:24.000+01:00",
+            "width": 1920,
+            "height": 791
           }
         ],
         "videos": [],
@@ -308,11 +415,17 @@
         "photos": [
           {
             "name": "036",
-            "alt": "Neuenalpspitz"
+            "alt": "Neuenalpspitz",
+            "date": "2018-11-04T12:40:01.000+01:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "037",
-            "alt": "Gmeinenwis"
+            "alt": "Gmeinenwis",
+            "date": "2018-11-04T12:42:37.000+01:00",
+            "width": 1920,
+            "height": 893
           }
         ],
         "videos": [],
@@ -322,11 +435,17 @@
         "photos": [
           {
             "name": "038",
-            "alt": "Wanderweg Windenpass Neuenalpspitz"
+            "alt": "Wanderweg Windenpass Neuenalpspitz",
+            "date": "2018-11-04T12:48:39.000+01:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "039",
-            "alt": "Kletterpassagen Neuenalpspitz"
+            "alt": "Kletterpassagen Neuenalpspitz",
+            "date": "2018-11-04T12:52:10.000+01:00",
+            "width": 1920,
+            "height": 971
           }
         ],
         "videos": [],
@@ -336,11 +455,17 @@
         "photos": [
           {
             "name": "040",
-            "alt": "Gefährlich Neuenalpspitz"
+            "alt": "Gefährlich Neuenalpspitz",
+            "date": "2018-11-04T13:07:28.000+01:00",
+            "width": 1920,
+            "height": 1503
           },
           {
             "name": "041",
-            "alt": "Steiler Wanderweg"
+            "alt": "Steiler Wanderweg",
+            "date": "2018-11-04T13:10:34.000+01:00",
+            "width": 1920,
+            "height": 1328
           }
         ],
         "videos": [],
@@ -350,15 +475,24 @@
         "photos": [
           {
             "name": "042",
-            "alt": "Gratweg Neuenalpspitz"
+            "alt": "Gratweg Neuenalpspitz",
+            "date": "2018-11-04T13:16:05.000+01:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "043",
-            "alt": "Alpinweg Neuenalpspitz"
+            "alt": "Alpinweg Neuenalpspitz",
+            "date": "2018-11-04T13:21:35.000+01:00",
+            "width": 1920,
+            "height": 751
           },
           {
             "name": "044",
-            "alt": "Panorama Alpstein"
+            "alt": "Panorama Alpstein",
+            "date": "2018-11-04T13:23:59.000+01:00",
+            "width": 1920,
+            "height": 1008
           }
         ],
         "videos": [],
@@ -368,15 +502,24 @@
         "photos": [
           {
             "name": "045",
-            "alt": "Gipfel Neuenalpspitz"
+            "alt": "Gipfel Neuenalpspitz",
+            "date": "2018-11-04T13:27:31.000+01:00",
+            "width": 1920,
+            "height": 780
           },
           {
             "name": "046",
-            "alt": "Wegweiser Neuenalpspitz"
+            "alt": "Wegweiser Neuenalpspitz",
+            "date": "2018-11-04T13:31:06.000+01:00",
+            "width": 1920,
+            "height": 832
           },
           {
             "name": "047",
-            "alt": "Aussicht Neuenalpspitz"
+            "alt": "Aussicht Neuenalpspitz",
+            "date": "2018-11-04T13:31:42.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -386,11 +529,17 @@
         "photos": [
           {
             "name": "048",
-            "alt": "Obertoggenburg"
+            "alt": "Obertoggenburg",
+            "date": "2018-11-04T13:32:16.000+01:00",
+            "width": 1920,
+            "height": 825
           },
           {
             "name": "049",
-            "alt": "Panorama Neuenalpspitz"
+            "alt": "Panorama Neuenalpspitz",
+            "date": "2018-11-04T13:33:04.000+01:00",
+            "width": 1920,
+            "height": 538
           }
         ],
         "videos": [],
@@ -400,11 +549,17 @@
         "photos": [
           {
             "name": "050",
-            "alt": "Wanderweg Neuenalpspitz"
+            "alt": "Wanderweg Neuenalpspitz",
+            "date": "2018-11-04T13:35:33.000+01:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "051",
-            "alt": "Aufstieg Neuenalpspitz"
+            "alt": "Aufstieg Neuenalpspitz",
+            "date": "2018-11-04T13:36:37.000+01:00",
+            "width": 1920,
+            "height": 852
           }
         ],
         "videos": [],
@@ -414,7 +569,10 @@
         "photos": [
           {
             "name": "052",
-            "alt": "Wanderung Neuenalpspitz"
+            "alt": "Wanderung Neuenalpspitz",
+            "date": "2018-11-04T13:43:12.000+01:00",
+            "width": 1920,
+            "height": 975
           }
         ],
         "videos": [],
@@ -424,7 +582,10 @@
         "photos": [
           {
             "name": "053",
-            "alt": "Stein Neuenalpspitz"
+            "alt": "Stein Neuenalpspitz",
+            "date": "2018-11-04T13:50:20.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -434,7 +595,10 @@
         "photos": [
           {
             "name": "054",
-            "alt": "Nesslau"
+            "alt": "Nesslau",
+            "date": "2018-11-04T13:53:16.000+01:00",
+            "width": 1920,
+            "height": 1023
           }
         ],
         "videos": [],
@@ -444,7 +608,10 @@
         "photos": [
           {
             "name": "055",
-            "alt": "Föhnwolke"
+            "alt": "Föhnwolke",
+            "date": "2018-11-04T13:54:36.000+01:00",
+            "width": 1920,
+            "height": 1042
           }
         ],
         "videos": [],
@@ -454,7 +621,10 @@
         "photos": [
           {
             "name": "056",
-            "alt": "Churfirsten"
+            "alt": "Churfirsten",
+            "date": "2018-11-04T13:55:18.000+01:00",
+            "width": 1920,
+            "height": 482
           }
         ],
         "videos": [],
@@ -464,7 +634,10 @@
         "photos": [
           {
             "name": "057",
-            "alt": "Speer"
+            "alt": "Speer",
+            "date": "2018-11-04T13:55:59.000+01:00",
+            "width": 1920,
+            "height": 1163
           }
         ],
         "videos": [],
@@ -474,7 +647,10 @@
         "photos": [
           {
             "name": "058",
-            "alt": "Schlofstein"
+            "alt": "Schlofstein",
+            "date": "2018-11-04T14:09:17.000+01:00",
+            "width": 1920,
+            "height": 1454
           }
         ],
         "videos": [],
@@ -484,11 +660,17 @@
         "photos": [
           {
             "name": "059",
-            "alt": "Hoor"
+            "alt": "Hoor",
+            "date": "2018-11-04T14:11:44.000+01:00",
+            "width": 1920,
+            "height": 952
           },
           {
             "name": "060",
-            "alt": "Wanderweg Hoor"
+            "alt": "Wanderweg Hoor",
+            "date": "2018-11-04T14:16:34.000+01:00",
+            "width": 1920,
+            "height": 1069
           }
         ],
         "videos": [],
@@ -498,7 +680,10 @@
         "photos": [
           {
             "name": "061",
-            "alt": "Tritte in Baumstamm"
+            "alt": "Tritte in Baumstamm",
+            "date": "2018-11-04T14:31:32.000+01:00",
+            "width": 1920,
+            "height": 1453
           }
         ],
         "videos": [],
@@ -508,11 +693,17 @@
         "photos": [
           {
             "name": "062",
-            "alt": "Rueboden"
+            "alt": "Rueboden",
+            "date": "2018-11-04T14:41:54.000+01:00",
+            "width": 1920,
+            "height": 691
           },
           {
             "name": "063",
-            "alt": "Wanderweg Stein Risipass"
+            "alt": "Wanderweg Stein Risipass",
+            "date": "2018-11-04T14:50:22.000+01:00",
+            "width": 1920,
+            "height": 838
           }
         ],
         "videos": [],
@@ -522,23 +713,38 @@
         "photos": [
           {
             "name": "064",
-            "alt": "Herbst in den Bergen"
+            "alt": "Herbst in den Bergen",
+            "date": "2018-11-04T14:58:25.000+01:00",
+            "width": 1920,
+            "height": 800
           },
           {
             "name": "065",
-            "alt": "Wolkengrenze"
+            "alt": "Wolkengrenze",
+            "date": "2018-11-04T15:12:55.000+01:00",
+            "width": 1920,
+            "height": 1008
           },
           {
             "name": "066",
-            "alt": "Herbstwald"
+            "alt": "Herbstwald",
+            "date": "2018-11-04T15:16:02.000+01:00",
+            "width": 1920,
+            "height": 1038
           },
           {
             "name": "067",
-            "alt": "Hag"
+            "alt": "Hag",
+            "date": "2018-11-04T15:16:20.000+01:00",
+            "width": 1920,
+            "height": 1050
           },
           {
             "name": "068",
-            "alt": "Baum vor dunstigem Tal"
+            "alt": "Baum vor dunstigem Tal",
+            "date": "2018-11-04T15:17:27.000+01:00",
+            "width": 1920,
+            "height": 1165
           }
         ],
         "videos": [],
@@ -548,7 +754,10 @@
         "photos": [
           {
             "name": "069",
-            "alt": "Stein SG"
+            "alt": "Stein SG",
+            "date": "2018-11-04T15:24:52.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],

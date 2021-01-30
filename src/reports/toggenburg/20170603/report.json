@@ -13,11 +13,17 @@
         "photos": [
           {
             "name": "001",
-            "alt": "Sesselbahn Wolzenalp"
+            "alt": "Sesselbahn Wolzenalp",
+            "date": "2017-06-03T08:37:34.000+02:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "002",
-            "alt": "Sesselbahn Krummenau"
+            "alt": "Sesselbahn Krummenau",
+            "date": "2017-06-03T08:46:02.000+02:00",
+            "width": 1920,
+            "height": 714
           }
         ],
         "videos": [],
@@ -27,7 +33,10 @@
         "photos": [
           {
             "name": "003",
-            "alt": "Rietbach"
+            "alt": "Rietbach",
+            "date": "2017-06-03T08:55:59.000+02:00",
+            "width": 1920,
+            "height": 944
           }
         ],
         "videos": [],
@@ -37,7 +46,10 @@
         "photos": [
           {
             "name": "004",
-            "alt": "Wolzenalp Moor"
+            "alt": "Wolzenalp Moor",
+            "date": "2017-06-03T08:57:11.000+02:00",
+            "width": 1920,
+            "height": 1030
           }
         ],
         "videos": [],
@@ -47,7 +59,10 @@
         "photos": [
           {
             "name": "005",
-            "alt": "Fahrweg Wolzenalp"
+            "alt": "Fahrweg Wolzenalp",
+            "date": "2017-06-03T09:10:26.000+02:00",
+            "width": 1920,
+            "height": 1210
           }
         ],
         "videos": [],
@@ -57,7 +72,10 @@
         "photos": [
           {
             "name": "006",
-            "alt": "Skilift Wolzenalp"
+            "alt": "Skilift Wolzenalp",
+            "date": "2017-06-03T09:17:09.000+02:00",
+            "width": 1920,
+            "height": 1127
           }
         ],
         "videos": [],
@@ -67,7 +85,10 @@
         "photos": [
           {
             "name": "007",
-            "alt": "Rietbach Moor"
+            "alt": "Rietbach Moor",
+            "date": "2017-06-03T09:20:06.000+02:00",
+            "width": 1920,
+            "height": 974
           }
         ],
         "videos": [],
@@ -77,7 +98,10 @@
         "photos": [
           {
             "name": "008",
-            "alt": "Bergstation Skilift Wolzenalp"
+            "alt": "Bergstation Skilift Wolzenalp",
+            "date": "2017-06-03T09:43:48.000+02:00",
+            "width": 1920,
+            "height": 1035
           }
         ],
         "videos": [],
@@ -87,7 +111,10 @@
         "photos": [
           {
             "name": "009",
-            "alt": "Bergwegmarkierung"
+            "alt": "Bergwegmarkierung",
+            "date": "2017-06-03T09:44:48.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -97,7 +124,10 @@
         "photos": [
           {
             "name": "010",
-            "alt": "Wanderweg vor Wald"
+            "alt": "Wanderweg vor Wald",
+            "date": "2017-06-03T09:53:23.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -107,7 +137,10 @@
         "photos": [
           {
             "name": "011",
-            "alt": "Wanderweg Wolzenalp Speer"
+            "alt": "Wanderweg Wolzenalp Speer",
+            "date": "2017-06-03T09:57:43.000+02:00",
+            "width": 1920,
+            "height": 814
           }
         ],
         "videos": [],
@@ -117,7 +150,10 @@
         "photos": [
           {
             "name": "012",
-            "alt": "Blick auf Ebnat-Kappel"
+            "alt": "Blick auf Ebnat-Kappel",
+            "date": "2017-06-03T10:04:15.000+02:00",
+            "width": 1920,
+            "height": 701
           }
         ],
         "videos": [],
@@ -127,7 +163,10 @@
         "photos": [
           {
             "name": "013",
-            "alt": "Wanderweg zum Speer"
+            "alt": "Wanderweg zum Speer",
+            "date": "2017-06-03T10:26:51.000+02:00",
+            "width": 1920,
+            "height": 787
           }
         ],
         "videos": [],
@@ -137,7 +176,10 @@
         "photos": [
           {
             "name": "014",
-            "alt": "Alp Bütz"
+            "alt": "Alp Bütz",
+            "date": "2017-06-03T10:33:45.000+02:00",
+            "width": 1920,
+            "height": 685
           }
         ],
         "videos": [],
@@ -147,7 +189,10 @@
         "photos": [
           {
             "name": "015",
-            "alt": "Speer"
+            "alt": "Speer",
+            "date": "2017-06-03T10:36:54.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -157,7 +202,10 @@
         "photos": [
           {
             "name": "016",
-            "alt": "Leiterli"
+            "alt": "Leiterli",
+            "date": "2017-06-03T10:52:15.000+02:00",
+            "width": 1920,
+            "height": 848
           }
         ],
         "videos": [],
@@ -167,7 +215,10 @@
         "photos": [
           {
             "name": "017",
-            "alt": "Hangweg"
+            "alt": "Hangweg",
+            "date": "2017-06-03T10:53:34.000+02:00",
+            "width": 1920,
+            "height": 817
           }
         ],
         "videos": [],
@@ -177,7 +228,10 @@
         "photos": [
           {
             "name": "018",
-            "alt": "Säntis"
+            "alt": "Säntis",
+            "date": "2017-06-03T11:09:19.000+02:00",
+            "width": 1920,
+            "height": 1142
           }
         ],
         "videos": [],
@@ -187,7 +241,10 @@
         "photos": [
           {
             "name": "019",
-            "alt": "Weg über Schneefeld"
+            "alt": "Weg über Schneefeld",
+            "date": "2017-06-03T11:10:27.000+02:00",
+            "width": 1920,
+            "height": 691
           }
         ],
         "videos": [],
@@ -197,7 +254,10 @@
         "photos": [
           {
             "name": "020",
-            "alt": "Steile Wiese"
+            "alt": "Steile Wiese",
+            "date": "2017-06-03T11:13:30.000+02:00",
+            "width": 1920,
+            "height": 893
           }
         ],
         "videos": [],
@@ -207,11 +267,17 @@
         "photos": [
           {
             "name": "021",
-            "alt": "Wanderweg mit Schneefeld"
+            "alt": "Wanderweg mit Schneefeld",
+            "date": "2017-06-03T11:26:21.000+02:00",
+            "width": 1920,
+            "height": 885
           },
           {
             "name": "022",
-            "alt": "Altschnee"
+            "alt": "Altschnee",
+            "date": "2017-06-03T11:29:56.000+02:00",
+            "width": 1920,
+            "height": 1029
           }
         ],
         "videos": [],
@@ -221,7 +287,10 @@
         "photos": [
           {
             "name": "023",
-            "alt": "Geologie des Speers"
+            "alt": "Geologie des Speers",
+            "date": "2017-06-03T11:32:47.000+02:00",
+            "width": 1920,
+            "height": 1248
           }
         ],
         "videos": [],
@@ -231,7 +300,10 @@
         "photos": [
           {
             "name": "024",
-            "alt": "Glarus"
+            "alt": "Glarus",
+            "date": "2017-06-03T11:39:15.000+02:00",
+            "width": 1920,
+            "height": 949
           }
         ],
         "videos": [],
@@ -241,7 +313,10 @@
         "photos": [
           {
             "name": "025",
-            "alt": "Gipfel des Speers"
+            "alt": "Gipfel des Speers",
+            "date": "2017-06-03T11:46:40.000+02:00",
+            "width": 1920,
+            "height": 1040
           }
         ],
         "videos": [],
@@ -251,7 +326,10 @@
         "photos": [
           {
             "name": "026",
-            "alt": "Glarus"
+            "alt": "Glarus",
+            "date": "2017-06-03T11:51:28.000+02:00",
+            "width": 1920,
+            "height": 859
           }
         ],
         "videos": [],
@@ -261,7 +339,10 @@
         "photos": [
           {
             "name": "027",
-            "alt": "Panorama Speer"
+            "alt": "Panorama Speer",
+            "date": "2017-06-03T11:56:27.000+02:00",
+            "width": 1920,
+            "height": 701
           }
         ],
         "videos": [],
@@ -271,7 +352,10 @@
         "photos": [
           {
             "name": "028",
-            "alt": "Wegweiser Speer"
+            "alt": "Wegweiser Speer",
+            "date": "2017-06-03T11:57:38.000+02:00",
+            "width": 1920,
+            "height": 1217
           }
         ],
         "videos": [],
@@ -281,7 +365,10 @@
         "photos": [
           {
             "name": "029",
-            "alt": "Gratweg"
+            "alt": "Gratweg",
+            "date": "2017-06-03T11:58:50.000+02:00",
+            "width": 1920,
+            "height": 1262
           }
         ],
         "videos": [],
@@ -291,7 +378,10 @@
         "photos": [
           {
             "name": "030",
-            "alt": "Panorama Speer"
+            "alt": "Panorama Speer",
+            "date": "2017-06-03T12:06:43.000+02:00",
+            "width": 1920,
+            "height": 664
           }
         ],
         "videos": [],
@@ -301,7 +391,10 @@
         "photos": [
           {
             "name": "031",
-            "alt": "Abbruchkante Speer"
+            "alt": "Abbruchkante Speer",
+            "date": "2017-06-03T12:07:07.000+02:00",
+            "width": 1920,
+            "height": 965
           }
         ],
         "videos": [],
@@ -311,7 +404,10 @@
         "photos": [
           {
             "name": "032",
-            "alt": "Weg Wolzenalp Speer"
+            "alt": "Weg Wolzenalp Speer",
+            "date": "2017-06-03T12:07:37.000+02:00",
+            "width": 1920,
+            "height": 949
           }
         ],
         "videos": [],
@@ -321,7 +417,10 @@
         "photos": [
           {
             "name": "034",
-            "alt": "Säntis in Schwarzweiß"
+            "alt": "Säntis in Schwarzweiß",
+            "date": "2017-06-03T12:15:59.000+02:00",
+            "width": 1920,
+            "height": 948
           }
         ],
         "videos": [],
@@ -331,7 +430,10 @@
         "photos": [
           {
             "name": "035",
-            "alt": "Serpentinen"
+            "alt": "Serpentinen",
+            "date": "2017-06-03T12:21:50.000+02:00",
+            "width": 1920,
+            "height": 1087
           }
         ],
         "videos": [],
@@ -341,7 +443,10 @@
         "photos": [
           {
             "name": "036",
-            "alt": "Toggenburg"
+            "alt": "Toggenburg",
+            "date": "2017-06-03T13:00:46.000+02:00",
+            "width": 1920,
+            "height": 608
           }
         ],
         "videos": [],
@@ -351,7 +456,10 @@
         "photos": [
           {
             "name": "037",
-            "alt": "Alpenblume"
+            "alt": "Alpenblume",
+            "date": "2017-06-03T13:14:13.000+02:00",
+            "width": 1920,
+            "height": 1085
           }
         ],
         "videos": [],
@@ -361,7 +469,10 @@
         "photos": [
           {
             "name": "038",
-            "alt": "Leiterli"
+            "alt": "Leiterli",
+            "date": "2017-06-03T13:17:09.000+02:00",
+            "width": 800,
+            "height": 1230
           }
         ],
         "videos": [],
@@ -371,7 +482,10 @@
         "photos": [
           {
             "name": "039",
-            "alt": "Alp Hengst"
+            "alt": "Alp Hengst",
+            "date": "2017-06-03T13:42:50.000+02:00",
+            "width": 1920,
+            "height": 854
           }
         ],
         "videos": [],
@@ -381,7 +495,10 @@
         "photos": [
           {
             "name": "040",
-            "alt": "Ijental"
+            "alt": "Ijental",
+            "date": "2017-06-03T14:23:56.000+02:00",
+            "width": 1920,
+            "height": 895
           }
         ],
         "videos": [],
@@ -391,7 +508,10 @@
         "photos": [
           {
             "name": "041",
-            "alt": "Ijental"
+            "alt": "Ijental",
+            "date": "2017-06-03T14:32:10.000+02:00",
+            "width": 1920,
+            "height": 854
           }
         ],
         "videos": [],
@@ -401,7 +521,10 @@
         "photos": [
           {
             "name": "042",
-            "alt": "Straße durchs Ijental"
+            "alt": "Straße durchs Ijental",
+            "date": "2017-06-03T14:46:46.000+02:00",
+            "width": 1920,
+            "height": 1291
           }
         ],
         "videos": [],
@@ -411,7 +534,10 @@
         "photos": [
           {
             "name": "043",
-            "alt": "Stausee"
+            "alt": "Stausee",
+            "date": "2017-06-03T15:06:51.000+02:00",
+            "width": 1920,
+            "height": 1384
           }
         ],
         "videos": [],
@@ -421,7 +547,10 @@
         "photos": [
           {
             "name": "044",
-            "alt": "Dunkle Schlucht"
+            "alt": "Dunkle Schlucht",
+            "date": "2017-06-03T15:15:05.000+02:00",
+            "width": 1920,
+            "height": 1341
           }
         ],
         "videos": [],
@@ -431,7 +560,10 @@
         "photos": [
           {
             "name": "045",
-            "alt": "Kapelle an Thur"
+            "alt": "Kapelle an Thur",
+            "date": "2017-06-03T16:05:43.000+02:00",
+            "width": 1920,
+            "height": 1128
           }
         ],
         "videos": [],
@@ -441,7 +573,10 @@
         "photos": [
           {
             "name": "046",
-            "alt": "Thurweg"
+            "alt": "Thurweg",
+            "date": "2017-06-03T16:24:26.000+02:00",
+            "width": 1920,
+            "height": 1251
           }
         ],
         "videos": [],

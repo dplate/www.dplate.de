@@ -9,9 +9,11 @@
     "shortTitle": "Schäfler",
     "title": "Schäfler - Seealpsee",
     "title3d": {
-      "offsetY": 4.0,
+      "offsetY": 4,
       "fontSize": 7,
-      "align": "left"
+      "align": "left",
+      "width": 1920,
+      "height": 503
     },
     "intro": "An diesem Mittwoch wollte ich noch einmal das überaus schöne Novemberwetter nutzen. Da die Nordhänge inzwischen weit hinab weiß waren, suchte ich mir eine nicht zu hohe Wanderung mit Südhängen raus. Meine Wahl viel von Wasserauen auf den Schäfler, Abstieg zum Seealpsee und dann zurück nach Wasserauen. Diese schöne Gegend ist sehr bekannt und an Wochenenden etwas überlaufen, aber werktags und Mitte November sollte es passen.",
     "landmarks": [
@@ -19,7 +21,10 @@
         "photos": [
           {
             "name": "001",
-            "alt": "Gefrorenes Gras"
+            "alt": "Gefrorenes Gras",
+            "date": "2020-11-18T07:58:40.000+01:00",
+            "width": 1920,
+            "height": 1203
           }
         ],
         "videos": [],
@@ -29,7 +34,10 @@
         "photos": [
           {
             "name": "002",
-            "alt": "Wanderweg im Wald"
+            "alt": "Wanderweg im Wald",
+            "date": "2020-11-18T08:16:31.000+01:00",
+            "width": 1920,
+            "height": 2585
           }
         ],
         "videos": [],
@@ -39,11 +47,17 @@
         "photos": [
           {
             "name": "003",
-            "alt": "Wanderung Wasserauen Ebenalp"
+            "alt": "Wanderung Wasserauen Ebenalp",
+            "date": "2020-11-18T08:30:41.000+01:00",
+            "width": 1920,
+            "height": 1235
           },
           {
             "name": "004",
-            "alt": "Bommen"
+            "alt": "Bommen",
+            "date": "2020-11-18T08:38:56.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -53,7 +67,10 @@
         "photos": [
           {
             "name": "005",
-            "alt": "Wanderung Appenzeller Land"
+            "alt": "Wanderung Appenzeller Land",
+            "date": "2020-11-18T08:41:30.000+01:00",
+            "width": 1920,
+            "height": 633
           }
         ],
         "videos": [],
@@ -63,7 +80,10 @@
         "photos": [
           {
             "name": "006",
-            "alt": "Wandern am Morgen"
+            "alt": "Wandern am Morgen",
+            "date": "2020-11-18T08:53:11.000+01:00",
+            "width": 1920,
+            "height": 2477
           }
         ],
         "videos": [],
@@ -73,7 +93,10 @@
         "photos": [
           {
             "name": "007",
-            "alt": "Seilbahn Ebenalp"
+            "alt": "Seilbahn Ebenalp",
+            "date": "2020-11-18T09:02:52.000+01:00",
+            "width": 1920,
+            "height": 1144
           }
         ],
         "videos": [],
@@ -83,7 +106,10 @@
         "photos": [
           {
             "name": "008",
-            "alt": "Wanderweg Äscher"
+            "alt": "Wanderweg Äscher",
+            "date": "2020-11-18T09:05:12.000+01:00",
+            "width": 1920,
+            "height": 2477
           }
         ],
         "videos": [],
@@ -93,7 +119,10 @@
         "photos": [
           {
             "name": "009",
-            "alt": "Wanderung Ebenalp Äscher"
+            "alt": "Wanderung Ebenalp Äscher",
+            "date": "2020-11-18T09:06:09.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -103,11 +132,17 @@
         "photos": [
           {
             "name": "010",
-            "alt": "Gasthaus Äscher"
+            "alt": "Gasthaus Äscher",
+            "date": "2020-11-18T09:06:34.000+01:00",
+            "width": 1920,
+            "height": 2432
           },
           {
             "name": "011",
-            "alt": "Alpstein Äscher"
+            "alt": "Alpstein Äscher",
+            "date": "2020-11-18T09:06:53.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -117,15 +152,24 @@
         "photos": [
           {
             "name": "012",
-            "alt": "Felsenweg Äscher"
+            "alt": "Felsenweg Äscher",
+            "date": "2020-11-18T09:08:19.000+01:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "013",
-            "alt": "Wildkirchli"
+            "alt": "Wildkirchli",
+            "date": "2020-11-18T09:09:18.000+01:00",
+            "width": 1920,
+            "height": 1274
           },
           {
             "name": "014",
-            "alt": "Ebenalp Höhle"
+            "alt": "Ebenalp Höhle",
+            "date": "2020-11-18T09:12:35.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -135,15 +179,24 @@
         "photos": [
           {
             "name": "015",
-            "alt": "Fänerenspitz"
+            "alt": "Fänerenspitz",
+            "date": "2020-11-18T09:15:59.000+01:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "016",
-            "alt": "Panorama Ebenalp"
+            "alt": "Panorama Ebenalp",
+            "date": "2020-11-18T09:20:26.000+01:00",
+            "width": 1920,
+            "height": 697
           },
           {
             "name": "017",
-            "alt": "Wanderweg Ebenalp Äscher"
+            "alt": "Wanderweg Ebenalp Äscher",
+            "date": "2020-11-18T09:24:00.000+01:00",
+            "width": 1920,
+            "height": 1173
           }
         ],
         "videos": [],
@@ -153,7 +206,10 @@
         "photos": [
           {
             "name": "018",
-            "alt": "Aussicht Ebenalp"
+            "alt": "Aussicht Ebenalp",
+            "date": "2020-11-18T09:32:21.000+01:00",
+            "width": 1920,
+            "height": 1189
           }
         ],
         "videos": [],
@@ -163,15 +219,24 @@
         "photos": [
           {
             "name": "019",
-            "alt": "Schäfler und Säntis"
+            "alt": "Schäfler und Säntis",
+            "date": "2020-11-18T09:34:12.000+01:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "020",
-            "alt": "Wanderweg Ebenalp Schäfler"
+            "alt": "Wanderweg Ebenalp Schäfler",
+            "date": "2020-11-18T09:34:28.000+01:00",
+            "width": 1920,
+            "height": 799
           },
           {
             "name": "021",
-            "alt": "Schneebedeckter Wanderweg mit Säntis"
+            "alt": "Schneebedeckter Wanderweg mit Säntis",
+            "date": "2020-11-18T09:49:27.000+01:00",
+            "width": 1920,
+            "height": 2880
           }
         ],
         "videos": [],
@@ -181,11 +246,17 @@
         "photos": [
           {
             "name": "022",
-            "alt": "Skilift Ebenalp"
+            "alt": "Skilift Ebenalp",
+            "date": "2020-11-18T10:04:14.000+01:00",
+            "width": 1920,
+            "height": 775
           },
           {
             "name": "023",
-            "alt": "Nebelmeer Rheintal"
+            "alt": "Nebelmeer Rheintal",
+            "date": "2020-11-18T10:04:36.000+01:00",
+            "width": 1920,
+            "height": 635
           }
         ],
         "videos": [],
@@ -195,7 +266,10 @@
         "photos": [
           {
             "name": "025",
-            "alt": "Bergweg Schäfler"
+            "alt": "Bergweg Schäfler",
+            "date": "2020-11-18T10:12:27.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -205,7 +279,10 @@
         "photos": [
           {
             "name": "026",
-            "alt": "Kronberg"
+            "alt": "Kronberg",
+            "date": "2020-11-18T10:15:45.000+01:00",
+            "width": 1920,
+            "height": 850
           }
         ],
         "videos": [],
@@ -215,7 +292,10 @@
         "photos": [
           {
             "name": "027",
-            "alt": "Alphütte auf Felsen"
+            "alt": "Alphütte auf Felsen",
+            "date": "2020-11-18T10:19:05.000+01:00",
+            "width": 1920,
+            "height": 1131
           }
         ],
         "videos": [],
@@ -225,11 +305,17 @@
         "photos": [
           {
             "name": "028",
-            "alt": "Gipfelkreuz Schäfler"
+            "alt": "Gipfelkreuz Schäfler",
+            "date": "2020-11-18T10:23:31.000+01:00",
+            "width": 1920,
+            "height": 919
           },
           {
             "name": "029",
-            "alt": "Panorama Schäfler"
+            "alt": "Panorama Schäfler",
+            "date": "2020-11-18T10:24:17.000+01:00",
+            "width": 1920,
+            "height": 682
           }
         ],
         "videos": [],
@@ -239,11 +325,17 @@
         "photos": [
           {
             "name": "030",
-            "alt": "Wanderung Schäfler"
+            "alt": "Wanderung Schäfler",
+            "date": "2020-11-18T10:29:53.000+01:00",
+            "width": 1920,
+            "height": 744
           },
           {
             "name": "031",
-            "alt": "Schäfler Säntis"
+            "alt": "Schäfler Säntis",
+            "date": "2020-11-18T10:30:08.000+01:00",
+            "width": 1920,
+            "height": 2328
           }
         ],
         "videos": [],
@@ -253,7 +345,10 @@
         "photos": [
           {
             "name": "032",
-            "alt": "Gasthaus Schäfler"
+            "alt": "Gasthaus Schäfler",
+            "date": "2020-11-18T10:33:40.000+01:00",
+            "width": 1920,
+            "height": 991
           }
         ],
         "videos": [],
@@ -263,7 +358,10 @@
         "photos": [
           {
             "name": "033",
-            "alt": "Alpstein"
+            "alt": "Alpstein",
+            "date": "2020-11-18T10:34:26.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -273,7 +371,10 @@
         "photos": [
           {
             "name": "034",
-            "alt": "Gefährlicher Weg Schäfler"
+            "alt": "Gefährlicher Weg Schäfler",
+            "date": "2020-11-18T10:36:33.000+01:00",
+            "width": 1920,
+            "height": 1163
           }
         ],
         "videos": [],
@@ -283,7 +384,10 @@
         "photos": [
           {
             "name": "035",
-            "alt": "Wanderweg Schäfler"
+            "alt": "Wanderweg Schäfler",
+            "date": "2020-11-18T10:53:05.000+01:00",
+            "width": 1920,
+            "height": 736
           }
         ],
         "videos": [],
@@ -293,11 +397,17 @@
         "photos": [
           {
             "name": "036",
-            "alt": "Wanderung Schäfler Äscher"
+            "alt": "Wanderung Schäfler Äscher",
+            "date": "2020-11-18T11:13:52.000+01:00",
+            "width": 1920,
+            "height": 2880
           },
           {
             "name": "037",
-            "alt": "Wanderung Wasserauen"
+            "alt": "Wanderung Wasserauen",
+            "date": "2020-11-18T11:15:48.000+01:00",
+            "width": 1920,
+            "height": 1350
           }
         ],
         "videos": [],
@@ -307,19 +417,31 @@
         "photos": [
           {
             "name": "038",
-            "alt": "Wanderung Alpstein"
+            "alt": "Wanderung Alpstein",
+            "date": "2020-11-18T11:18:01.000+01:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "039",
-            "alt": "Weg an Felswand"
+            "alt": "Weg an Felswand",
+            "date": "2020-11-18T11:19:40.000+01:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "040",
-            "alt": "Ebenalp Säntis"
+            "alt": "Ebenalp Säntis",
+            "date": "2020-11-18T11:23:16.000+01:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "041",
-            "alt": "Felswand"
+            "alt": "Felswand",
+            "date": "2020-11-18T11:29:00.000+01:00",
+            "width": 1920,
+            "height": 2880
           }
         ],
         "videos": [],
@@ -329,7 +451,10 @@
         "photos": [
           {
             "name": "042",
-            "alt": "Herbstweg mit Sonnenschein"
+            "alt": "Herbstweg mit Sonnenschein",
+            "date": "2020-11-18T11:40:33.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -339,7 +464,10 @@
         "photos": [
           {
             "name": "043",
-            "alt": "Meglisalp Altmann"
+            "alt": "Meglisalp Altmann",
+            "date": "2020-11-18T11:53:05.000+01:00",
+            "width": 1920,
+            "height": 1230
           }
         ],
         "videos": [],
@@ -349,7 +477,10 @@
         "photos": [
           {
             "name": "044",
-            "alt": "Steile Alpwiese"
+            "alt": "Steile Alpwiese",
+            "date": "2020-11-18T12:17:54.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -359,15 +490,24 @@
         "photos": [
           {
             "name": "045",
-            "alt": "Wanderweg Altenalp"
+            "alt": "Wanderweg Altenalp",
+            "date": "2020-11-18T12:19:40.000+01:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "046",
-            "alt": "Altenalptürme"
+            "alt": "Altenalptürme",
+            "date": "2020-11-18T12:19:50.000+01:00",
+            "width": 1920,
+            "height": 2880
           },
           {
             "name": "047",
-            "alt": "Altenalp"
+            "alt": "Altenalp",
+            "date": "2020-11-18T12:32:53.000+01:00",
+            "width": 1920,
+            "height": 1270
           }
         ],
         "videos": [],
@@ -377,7 +517,10 @@
         "photos": [
           {
             "name": "048",
-            "alt": "Bergwald im Herbst"
+            "alt": "Bergwald im Herbst",
+            "date": "2020-11-18T13:00:55.000+01:00",
+            "width": 1920,
+            "height": 1391
           }
         ],
         "videos": [],
@@ -387,11 +530,17 @@
         "photos": [
           {
             "name": "049",
-            "alt": "Wanderweg Seealpsee Altenalp"
+            "alt": "Wanderweg Seealpsee Altenalp",
+            "date": "2020-11-18T13:07:56.000+01:00",
+            "width": 1920,
+            "height": 2341
           },
           {
             "name": "050",
-            "alt": "Schwierigkeit Altenalp"
+            "alt": "Schwierigkeit Altenalp",
+            "date": "2020-11-18T13:12:45.000+01:00",
+            "width": 1920,
+            "height": 1709
           }
         ],
         "videos": [],
@@ -401,7 +550,10 @@
         "photos": [
           {
             "name": "051",
-            "alt": "Picknick Seealpsee"
+            "alt": "Picknick Seealpsee",
+            "date": "2020-11-18T13:21:11.000+01:00",
+            "width": 1920,
+            "height": 1107
           }
         ],
         "videos": [],
@@ -411,7 +563,10 @@
         "photos": [
           {
             "name": "052",
-            "alt": "Steiler Weg Altenalp"
+            "alt": "Steiler Weg Altenalp",
+            "date": "2020-11-18T13:22:40.000+01:00",
+            "width": 1920,
+            "height": 2472
           }
         ],
         "videos": [],
@@ -421,7 +576,10 @@
         "photos": [
           {
             "name": "053",
-            "alt": "Spazierweg Seealpsee"
+            "alt": "Spazierweg Seealpsee",
+            "date": "2020-11-18T13:24:56.000+01:00",
+            "width": 1920,
+            "height": 1230
           }
         ],
         "videos": [],
@@ -431,7 +589,10 @@
         "photos": [
           {
             "name": "054",
-            "alt": "Schattiger Bergsee"
+            "alt": "Schattiger Bergsee",
+            "date": "2020-11-18T13:45:34.000+01:00",
+            "width": 1920,
+            "height": 916
           }
         ],
         "videos": [],
@@ -441,7 +602,10 @@
         "photos": [
           {
             "name": "055",
-            "alt": "Abendstimmung Alpstein"
+            "alt": "Abendstimmung Alpstein",
+            "date": "2020-11-18T13:45:47.000+01:00",
+            "width": 1920,
+            "height": 999
           }
         ],
         "videos": [],
@@ -451,7 +615,10 @@
         "photos": [
           {
             "name": "056",
-            "alt": "Wanderweg Mesmer"
+            "alt": "Wanderweg Mesmer",
+            "date": "2020-11-18T13:46:57.000+01:00",
+            "width": 1920,
+            "height": 2880
           }
         ],
         "videos": [],
@@ -461,11 +628,17 @@
         "photos": [
           {
             "name": "057",
-            "alt": "Seealpkäserei"
+            "alt": "Seealpkäserei",
+            "date": "2020-11-18T13:48:50.000+01:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "058",
-            "alt": "Wanderung Schweizer Alpen"
+            "alt": "Wanderung Schweizer Alpen",
+            "date": "2020-11-18T13:49:58.000+01:00",
+            "width": 1920,
+            "height": 851
           }
         ],
         "videos": [],
@@ -475,7 +648,10 @@
         "photos": [
           {
             "name": "059",
-            "alt": "Reflexion"
+            "alt": "Reflexion",
+            "date": "2020-11-18T13:53:25.000+01:00",
+            "width": 1920,
+            "height": 1096
           }
         ],
         "videos": [],
@@ -485,7 +661,10 @@
         "photos": [
           {
             "name": "060",
-            "alt": "Rundweg Seealpsee"
+            "alt": "Rundweg Seealpsee",
+            "date": "2020-11-18T13:56:03.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -495,15 +674,24 @@
         "photos": [
           {
             "name": "061",
-            "alt": "Steckenberg"
+            "alt": "Steckenberg",
+            "date": "2020-11-18T14:01:51.000+01:00",
+            "width": 1920,
+            "height": 2616
           },
           {
             "name": "062",
-            "alt": "Bergsee im Herbst"
+            "alt": "Bergsee im Herbst",
+            "date": "2020-11-18T14:02:11.000+01:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "063",
-            "alt": "Seealpsee"
+            "alt": "Seealpsee",
+            "date": "2020-11-18T14:02:51.000+01:00",
+            "width": 1920,
+            "height": 886
           }
         ],
         "videos": [],
@@ -513,11 +701,17 @@
         "photos": [
           {
             "name": "064",
-            "alt": "Alpstein See"
+            "alt": "Alpstein See",
+            "date": "2020-11-18T14:03:34.000+01:00",
+            "width": 1920,
+            "height": 1369
           },
           {
             "name": "065",
-            "alt": "Dunkler Seealpsee"
+            "alt": "Dunkler Seealpsee",
+            "date": "2020-11-18T14:08:46.000+01:00",
+            "width": 1920,
+            "height": 1377
           }
         ],
         "videos": [],
@@ -527,7 +721,10 @@
         "photos": [
           {
             "name": "066",
-            "alt": "Wanderung Seealpsee"
+            "alt": "Wanderung Seealpsee",
+            "date": "2020-11-18T14:20:47.000+01:00",
+            "width": 1920,
+            "height": 1049
           }
         ],
         "videos": [],
@@ -537,7 +734,10 @@
         "photos": [
           {
             "name": "067",
-            "alt": "Fahrstraße Seealpsee"
+            "alt": "Fahrstraße Seealpsee",
+            "date": "2020-11-18T14:24:45.000+01:00",
+            "width": 1920,
+            "height": 1288
           }
         ],
         "videos": [],
@@ -547,7 +747,10 @@
         "photos": [
           {
             "name": "068",
-            "alt": "Feuchte Straße"
+            "alt": "Feuchte Straße",
+            "date": "2020-11-18T14:50:58.000+01:00",
+            "width": 1920,
+            "height": 1165
           }
         ],
         "videos": [],
@@ -557,7 +760,10 @@
         "photos": [
           {
             "name": "069",
-            "alt": "Bahnhof Wasserauen"
+            "alt": "Bahnhof Wasserauen",
+            "date": "2020-11-18T14:58:39.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -567,7 +773,10 @@
         "photos": [
           {
             "name": "070",
-            "alt": "Seilbahn Wasserauen Ebenalp"
+            "alt": "Seilbahn Wasserauen Ebenalp",
+            "date": "2020-11-18T15:00:06.000+01:00",
+            "width": 1920,
+            "height": 1107
           }
         ],
         "videos": [],

@@ -8,8 +8,10 @@
     "shortTitle": "Kronplatz",
     "title": "Kronplatz",
     "title3d": {
-      "offsetY": 12.0,
-      "fontSize": 8.0
+      "offsetY": 12,
+      "fontSize": 8,
+      "width": 1920,
+      "height": 725
     },
     "intro": "Nach \"Drei Zinnen\" am Montag fuhr ich am nächsten Tag von Sexten zum Skigebiet Kronplatz, genauer gesagt auf den Parkplatz bei Olang. Obwohl ich schon kurz nach 8:30 dort war, war der Parkplatz bereits ziemlich gut gefüllt und ich musste ein Stück bis zu den Kassen laufen. Während der Parkplatz dort umsonst ist, kostete die Tageskarte 55€. Um 8:50 stieg ich schließlich in die sehr lange Gondelbahn, die vom Parkplatz von 1200m auf den fast 2300m hohen Gipfel des Kronplatz führt.",
     "landmarks": [
@@ -17,7 +19,10 @@
         "photos": [
           {
             "name": "001",
-            "alt": "Panorama Kronplatz"
+            "alt": "Panorama Kronplatz",
+            "date": "2018-02-20T09:12:28.000+01:00",
+            "width": 1920,
+            "height": 831
           }
         ],
         "videos": [],
@@ -27,7 +32,10 @@
         "photos": [
           {
             "name": "002",
-            "alt": "Abfahrt Kronplatz"
+            "alt": "Abfahrt Kronplatz",
+            "date": "2018-02-20T09:14:14.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -37,7 +45,10 @@
         "photos": [
           {
             "name": "003",
-            "alt": "Kronplatz Gipfel mit Antenne"
+            "alt": "Kronplatz Gipfel mit Antenne",
+            "date": "2018-02-20T09:48:53.000+01:00",
+            "width": 1920,
+            "height": 909
           }
         ],
         "videos": [],
@@ -47,7 +58,10 @@
         "photos": [
           {
             "name": "004",
-            "alt": "Skipiste Kronplatz"
+            "alt": "Skipiste Kronplatz",
+            "date": "2018-02-20T09:51:39.000+01:00",
+            "width": 1920,
+            "height": 862
           }
         ],
         "videos": [],
@@ -57,7 +71,10 @@
         "photos": [
           {
             "name": "005",
-            "alt": "Ried Gipfel Gondelbahn"
+            "alt": "Ried Gipfel Gondelbahn",
+            "date": "2018-02-20T10:07:15.000+01:00",
+            "width": 1920,
+            "height": 1259
           }
         ],
         "videos": [],
@@ -67,7 +84,10 @@
         "photos": [
           {
             "name": "006",
-            "alt": "Bergstation Gondelbahn Alpen"
+            "alt": "Bergstation Gondelbahn Alpen",
+            "date": "2018-02-20T10:28:55.000+01:00",
+            "width": 1920,
+            "height": 725
           }
         ],
         "videos": [],
@@ -77,7 +97,10 @@
         "photos": [
           {
             "name": "007",
-            "alt": "Talabfahrt Olang"
+            "alt": "Talabfahrt Olang",
+            "date": "2018-02-20T11:04:25.000+01:00",
+            "width": 1920,
+            "height": 771
           }
         ],
         "videos": [],
@@ -87,7 +110,10 @@
         "photos": [
           {
             "name": "008",
-            "alt": "Talstation Sesselbahn Plateau"
+            "alt": "Talstation Sesselbahn Plateau",
+            "date": "2018-02-20T11:30:58.000+01:00",
+            "width": 1920,
+            "height": 722
           }
         ],
         "videos": [],
@@ -97,7 +123,10 @@
         "photos": [
           {
             "name": "009",
-            "alt": "Blaue Piste"
+            "alt": "Blaue Piste",
+            "date": "2018-02-20T11:55:06.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -107,7 +136,10 @@
         "photos": [
           {
             "name": "010",
-            "alt": "Überfülltes Skigebiet"
+            "alt": "Überfülltes Skigebiet",
+            "date": "2018-02-20T12:04:58.000+01:00",
+            "width": 1920,
+            "height": 619
           }
         ],
         "videos": [],
@@ -117,7 +149,10 @@
         "photos": [
           {
             "name": "011",
-            "alt": "Friedensglocke Kronplatz"
+            "alt": "Friedensglocke Kronplatz",
+            "date": "2018-02-20T12:39:49.000+01:00",
+            "width": 1920,
+            "height": 1419
           }
         ],
         "videos": [],
@@ -127,7 +162,10 @@
         "photos": [
           {
             "name": "012",
-            "alt": "Skifahren Kronplatz"
+            "alt": "Skifahren Kronplatz",
+            "date": "2018-02-20T12:44:12.000+01:00",
+            "width": 1920,
+            "height": 1010
           }
         ],
         "videos": [],
@@ -137,7 +175,10 @@
         "photos": [
           {
             "name": "013",
-            "alt": "Gondelbahn Pre da Peres"
+            "alt": "Gondelbahn Pre da Peres",
+            "date": "2018-02-20T12:52:26.000+01:00",
+            "width": 1920,
+            "height": 764
           }
         ],
         "videos": [],
@@ -147,7 +188,10 @@
         "photos": [
           {
             "name": "014",
-            "alt": "Piz da Peres"
+            "alt": "Piz da Peres",
+            "date": "2018-02-20T12:53:55.000+01:00",
+            "width": 1920,
+            "height": 997
           }
         ],
         "videos": [],
@@ -157,7 +201,10 @@
         "photos": [
           {
             "name": "015",
-            "alt": "Talabfahrt St. Vigil"
+            "alt": "Talabfahrt St. Vigil",
+            "date": "2018-02-20T12:58:41.000+01:00",
+            "width": 1920,
+            "height": 712
           }
         ],
         "videos": [],
@@ -167,11 +214,17 @@
         "photos": [
           {
             "name": "016",
-            "alt": "Abfahrt Piculin"
+            "alt": "Abfahrt Piculin",
+            "date": "2018-02-20T13:17:02.000+01:00",
+            "width": 1920,
+            "height": 749
           },
           {
             "name": "017",
-            "alt": "Schwarze Piste Piculin"
+            "alt": "Schwarze Piste Piculin",
+            "date": "2018-02-20T13:19:52.000+01:00",
+            "width": 1920,
+            "height": 1176
           }
         ],
         "videos": [],
@@ -181,7 +234,10 @@
         "photos": [
           {
             "name": "018",
-            "alt": "St. Vigil"
+            "alt": "St. Vigil",
+            "date": "2018-02-20T13:35:44.000+01:00",
+            "width": 1920,
+            "height": 1214
           }
         ],
         "videos": [],
@@ -191,7 +247,10 @@
         "photos": [
           {
             "name": "019",
-            "alt": "Südhang mit Schneeresten"
+            "alt": "Südhang mit Schneeresten",
+            "date": "2018-02-20T13:42:00.000+01:00",
+            "width": 1920,
+            "height": 897
           }
         ],
         "videos": [],
@@ -201,7 +260,10 @@
         "photos": [
           {
             "name": "020",
-            "alt": "Piste Silvester"
+            "alt": "Piste Silvester",
+            "date": "2018-02-20T14:42:54.000+01:00",
+            "width": 1920,
+            "height": 863
           }
         ],
         "videos": [],
@@ -211,7 +273,10 @@
         "photos": [
           {
             "name": "021",
-            "alt": "Gondelbahn Korer"
+            "alt": "Gondelbahn Korer",
+            "date": "2018-02-20T14:52:27.000+01:00",
+            "width": 1920,
+            "height": 860
           }
         ],
         "videos": [],
@@ -221,7 +286,10 @@
         "photos": [
           {
             "name": "022",
-            "alt": "Piste zwischen Lärchen"
+            "alt": "Piste zwischen Lärchen",
+            "date": "2018-02-20T15:39:47.000+01:00",
+            "width": 1920,
+            "height": 1245
           }
         ],
         "videos": [],

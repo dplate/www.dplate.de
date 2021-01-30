@@ -6,8 +6,10 @@
     "shortTitle": "Corviglia",
     "title": "St. Moritz - Corviglia",
     "title3d": {
-      "offsetY": 15.0,
-      "fontSize": 5.5
+      "offsetY": 15,
+      "fontSize": 5.5,
+      "width": 1920,
+      "height": 667
     },
     "intro": "Nach Davos und Ischgl stand diesen Mittwoch Corviglia auf dem Programm meines (schon fast traditionellen) Dezemberurlaubs. Ebenso traditionell ist die magere Schneelage in den meisten Skigebieten zur Zeit, ansonsten würde ich die lange Anfahrt von 2:50h wohl nicht auf mich nehmen.<br />\nDa Corviglia &quot;gemeinerweise&quot; auch noch die erste Bergfahrt bereits um 7:45 hat, hieß es für mich um 4:45 aufzubrechen... Die Fahrzeitangaben in Google-Maps stimmen so gut, dass ich 5min vor der Öffnung am Drehkreuz in Celerina stand. Die Tageskarte hatte ich bei der Ticketcorner 50% Aktion für 41CHF bereits erworben.",
     "landmarks": [
@@ -15,7 +17,10 @@
         "photos": [
           {
             "name": "001",
-            "alt": "Sonnenaufgang Piz Corviglia"
+            "alt": "Sonnenaufgang Piz Corviglia",
+            "date": "2016-12-07T08:00:29.000+01:00",
+            "width": 1920,
+            "height": 716
           }
         ],
         "videos": [],
@@ -25,11 +30,17 @@
         "photos": [
           {
             "name": "002",
-            "alt": "White Carpet"
+            "alt": "White Carpet",
+            "date": "2016-12-07T08:01:26.000+01:00",
+            "width": 1719,
+            "height": 1080
           },
           {
             "name": "003",
-            "alt": "Sonnenaufgang Corviglia"
+            "alt": "Sonnenaufgang Corviglia",
+            "date": "2016-12-07T08:05:21.000+01:00",
+            "width": 1920,
+            "height": 667
           }
         ],
         "videos": [],
@@ -39,11 +50,17 @@
         "photos": [
           {
             "name": "004",
-            "alt": "Skipiste Trais Fluors"
+            "alt": "Skipiste Trais Fluors",
+            "date": "2016-12-07T08:16:06.000+01:00",
+            "width": 1920,
+            "height": 885
           },
           {
             "name": "005",
-            "alt": "Rote Abfahrt Trais Fluors"
+            "alt": "Rote Abfahrt Trais Fluors",
+            "date": "2016-12-07T08:17:48.000+01:00",
+            "width": 1920,
+            "height": 1032
           }
         ],
         "videos": [],
@@ -53,7 +70,10 @@
         "photos": [
           {
             "name": "006",
-            "alt": "Skifahren Glüna"
+            "alt": "Skifahren Glüna",
+            "date": "2016-12-07T08:49:26.000+01:00",
+            "width": 1920,
+            "height": 963
           }
         ],
         "videos": [],
@@ -63,7 +83,10 @@
         "photos": [
           {
             "name": "007",
-            "alt": "Talabfahrt Celerina"
+            "alt": "Talabfahrt Celerina",
+            "date": "2016-12-07T09:05:51.000+01:00",
+            "width": 1887,
+            "height": 1080
           }
         ],
         "videos": [],
@@ -73,7 +96,10 @@
         "photos": [
           {
             "name": "008",
-            "alt": "Celerina"
+            "alt": "Celerina",
+            "date": "2016-12-07T09:07:24.000+01:00",
+            "width": 1620,
+            "height": 1080
           }
         ],
         "videos": [],
@@ -83,7 +109,10 @@
         "photos": [
           {
             "name": "009",
-            "alt": "Vorpräparierte Piste Glüna"
+            "alt": "Vorpräparierte Piste Glüna",
+            "date": "2016-12-07T09:49:14.000+01:00",
+            "width": 1920,
+            "height": 704
           }
         ],
         "videos": [],
@@ -93,11 +122,17 @@
         "photos": [
           {
             "name": "010",
-            "alt": "Seilbahn Piz Nair"
+            "alt": "Seilbahn Piz Nair",
+            "date": "2016-12-07T09:59:23.000+01:00",
+            "width": 1620,
+            "height": 1080
           },
           {
             "name": "011",
-            "alt": "Breite Piste"
+            "alt": "Breite Piste",
+            "date": "2016-12-07T09:59:32.000+01:00",
+            "width": 1920,
+            "height": 817
           }
         ],
         "videos": [],
@@ -107,7 +142,10 @@
         "photos": [
           {
             "name": "012",
-            "alt": "Talabfahrt St. Moritz Bad"
+            "alt": "Talabfahrt St. Moritz Bad",
+            "date": "2016-12-07T10:12:52.000+01:00",
+            "width": 1920,
+            "height": 1032
           }
         ],
         "videos": [],
@@ -117,7 +155,10 @@
         "photos": [
           {
             "name": "013",
-            "alt": "Silvaplanersee im Winter"
+            "alt": "Silvaplanersee im Winter",
+            "date": "2016-12-07T10:27:21.000+01:00",
+            "width": 1920,
+            "height": 933
           }
         ],
         "videos": [],
@@ -127,7 +168,10 @@
         "photos": [
           {
             "name": "014",
-            "alt": "Bergstation Signalbahn"
+            "alt": "Bergstation Signalbahn",
+            "date": "2016-12-07T10:29:12.000+01:00",
+            "width": 1920,
+            "height": 940
           }
         ],
         "videos": [],
@@ -137,7 +181,10 @@
         "photos": [
           {
             "name": "015",
-            "alt": "Blaue Piste Trais Fluors"
+            "alt": "Blaue Piste Trais Fluors",
+            "date": "2016-12-07T10:53:40.000+01:00",
+            "width": 1920,
+            "height": 949
           }
         ],
         "videos": [],
@@ -147,7 +194,10 @@
         "photos": [
           {
             "name": "016",
-            "alt": "Restaurant Chamanna"
+            "alt": "Restaurant Chamanna",
+            "date": "2016-12-07T12:09:06.000+01:00",
+            "width": 1920,
+            "height": 589
           }
         ],
         "videos": [],
@@ -157,11 +207,17 @@
         "photos": [
           {
             "name": "017",
-            "alt": "Piste Sesselbahn Randolins"
+            "alt": "Piste Sesselbahn Randolins",
+            "date": "2016-12-07T12:10:33.000+01:00",
+            "width": 1635,
+            "height": 1080
           },
           {
             "name": "018",
-            "alt": "Sonnige Skipiste"
+            "alt": "Sonnige Skipiste",
+            "date": "2016-12-07T12:12:46.000+01:00",
+            "width": 1920,
+            "height": 939
           }
         ],
         "videos": [],
@@ -171,7 +227,10 @@
         "photos": [
           {
             "name": "019",
-            "alt": "Sesselbahn Salastrains"
+            "alt": "Sesselbahn Salastrains",
+            "date": "2016-12-07T12:37:51.000+01:00",
+            "width": 1920,
+            "height": 824
           }
         ],
         "videos": [],
@@ -181,7 +240,10 @@
         "photos": [
           {
             "name": "020",
-            "alt": "Suvretta House"
+            "alt": "Suvretta House",
+            "date": "2016-12-07T12:42:15.000+01:00",
+            "width": 1819,
+            "height": 1080
           }
         ],
         "videos": [],
@@ -191,7 +253,10 @@
         "photos": [
           {
             "name": "021",
-            "alt": "Restaurant Trutz"
+            "alt": "Restaurant Trutz",
+            "date": "2016-12-07T12:42:32.000+01:00",
+            "width": 1920,
+            "height": 812
           }
         ],
         "videos": [],
@@ -201,11 +266,17 @@
         "photos": [
           {
             "name": "022",
-            "alt": "St. Moritzersee"
+            "alt": "St. Moritzersee",
+            "date": "2016-12-07T12:54:07.000+01:00",
+            "width": 1920,
+            "height": 960
           },
           {
             "name": "023",
-            "alt": "Skigebiet Corviglia"
+            "alt": "Skigebiet Corviglia",
+            "date": "2016-12-07T12:55:08.000+01:00",
+            "width": 1920,
+            "height": 866
           }
         ],
         "videos": [],
@@ -215,7 +286,10 @@
         "photos": [
           {
             "name": "024",
-            "alt": "Leere Skipiste"
+            "alt": "Leere Skipiste",
+            "date": "2016-12-07T12:56:19.000+01:00",
+            "width": 1920,
+            "height": 758
           }
         ],
         "videos": [],
@@ -225,7 +299,10 @@
         "photos": [
           {
             "name": "025",
-            "alt": "Schneekanone Corviglia"
+            "alt": "Schneekanone Corviglia",
+            "date": "2016-12-07T12:58:32.000+01:00",
+            "width": 1620,
+            "height": 1080
           }
         ],
         "videos": [],
@@ -235,7 +312,10 @@
         "photos": [
           {
             "name": "026",
-            "alt": "Skitunnel"
+            "alt": "Skitunnel",
+            "date": "2016-12-07T13:12:13.000+01:00",
+            "width": 1838,
+            "height": 1080
           }
         ],
         "videos": [],
@@ -245,7 +325,10 @@
         "photos": [
           {
             "name": "027",
-            "alt": "Pistenpräparierung Corviglia"
+            "alt": "Pistenpräparierung Corviglia",
+            "date": "2016-12-07T14:12:59.000+01:00",
+            "width": 1803,
+            "height": 1080
           }
         ],
         "videos": [],
@@ -255,7 +338,10 @@
         "photos": [
           {
             "name": "028",
-            "alt": "Irisierende Wolken"
+            "alt": "Irisierende Wolken",
+            "date": "2016-12-07T14:59:06.000+01:00",
+            "width": 1753,
+            "height": 1080
           }
         ],
         "videos": [],
@@ -265,7 +351,10 @@
         "photos": [
           {
             "name": "029",
-            "alt": "Sesselbahn Salastrains"
+            "alt": "Sesselbahn Salastrains",
+            "date": "2016-12-07T14:59:28.000+01:00",
+            "width": 1915,
+            "height": 1080
           }
         ],
         "videos": [],
@@ -275,7 +364,10 @@
         "photos": [
           {
             "name": "030",
-            "alt": "Standseilbahn Corviglia"
+            "alt": "Standseilbahn Corviglia",
+            "date": "2016-12-07T15:09:27.000+01:00",
+            "width": 1919,
+            "height": 1080
           }
         ],
         "videos": [],
@@ -285,7 +377,10 @@
         "photos": [
           {
             "name": "031",
-            "alt": "Engadin"
+            "alt": "Engadin",
+            "date": "2016-12-07T15:22:26.000+01:00",
+            "width": 1620,
+            "height": 1080
           }
         ],
         "videos": [],
@@ -295,7 +390,10 @@
         "photos": [
           {
             "name": "032",
-            "alt": "Schneekanonen"
+            "alt": "Schneekanonen",
+            "date": "2016-12-07T15:23:59.000+01:00",
+            "width": 1620,
+            "height": 1080
           }
         ],
         "videos": [],
@@ -305,7 +403,10 @@
         "photos": [
           {
             "name": "033",
-            "alt": "Sonnenuntergang Corviglia"
+            "alt": "Sonnenuntergang Corviglia",
+            "date": "2016-12-07T15:37:36.000+01:00",
+            "width": 1920,
+            "height": 833
           }
         ],
         "videos": [],
@@ -315,7 +416,10 @@
         "photos": [
           {
             "name": "034",
-            "alt": "Gondelbahn Marguns"
+            "alt": "Gondelbahn Marguns",
+            "date": "2016-12-07T16:00:09.000+01:00",
+            "width": 1620,
+            "height": 1080
           }
         ],
         "videos": [],

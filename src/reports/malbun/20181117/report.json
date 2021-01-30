@@ -8,8 +8,10 @@
     "shortTitle": "Galinakopf",
     "title": "Galinakopf - Schönberg",
     "title3d": {
-      "offsetY": 1.0,
-      "fontSize": 7.0
+      "offsetY": 1,
+      "fontSize": 7,
+      "width": 1891,
+      "height": 504
     },
     "intro": "Da diesen November noch so gutes Wanderwetter ist, bin ich am Samstag auf eine Wanderung von Malbun (1600m) aus aufgebrochen. Entspannt habe ich erst um 8:45 auf dem großen Gratisparkplatz mein Auto dort abgestellt, da ich eigentlich nur den nahen Schönberg (2100m) besteigen wollte.",
     "landmarks": [
@@ -17,7 +19,10 @@
         "photos": [
           {
             "name": "001",
-            "alt": "Weg Malbun Sass"
+            "alt": "Weg Malbun Sass",
+            "date": "2018-11-17T08:56:48.000+01:00",
+            "width": 1920,
+            "height": 1153
           }
         ],
         "text": "Vom Parkplatz aus bin ich bei leichten Minustemperaturen zuerst nach Malbun rauf, um den gut ausgebauten Spazierweg nach Sass zu erreichen."
@@ -26,7 +31,10 @@
         "photos": [
           {
             "name": "002",
-            "alt": "Malbun im Schatten"
+            "alt": "Malbun im Schatten",
+            "date": "2018-11-17T08:59:23.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "text": "Vom ersten Aussichtspunkt aus der Blick zurück auf das noch schattige Malbun, das um diese Jahreszeit ziemlich verlassen ist."
@@ -35,11 +43,17 @@
         "photos": [
           {
             "name": "003",
-            "alt": "Sonnenaufgang Malbun"
+            "alt": "Sonnenaufgang Malbun",
+            "date": "2018-11-17T09:01:36.000+01:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "004",
-            "alt": "Forscherweg"
+            "alt": "Forscherweg",
+            "date": "2018-11-17T09:09:38.000+01:00",
+            "width": 1920,
+            "height": 1071
           }
         ],
         "text": "Nach etwas Aufstieg erreicht ich nun auch die Sonnenstrahlen und es wurde zumindest etwas wärmer. Der Weg war bereits mit violetten Stangen auf seine Bestimmung als Winterwanderweg vorbereitet."
@@ -48,7 +62,10 @@
         "photos": [
           {
             "name": "005",
-            "alt": "Fernglas Weierböda"
+            "alt": "Fernglas Weierböda",
+            "date": "2018-11-17T09:17:13.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "text": "Nach einer knappen halben Stunde Ankunft auf dem 1750m hohen Weierböda, ausgestattet mit Grillplatz und Fernglas."
@@ -57,7 +74,10 @@
         "photos": [
           {
             "name": "006",
-            "alt": "Gefrorener See"
+            "alt": "Gefrorener See",
+            "date": "2018-11-17T09:18:51.000+01:00",
+            "width": 1920,
+            "height": 956
           }
         ],
         "text": "Passend zum Namen gibt es auf Weierböda auch einen kleinen See, der sogar schon eine (sehr dünne) Eisdecke hatte."
@@ -66,7 +86,10 @@
         "photos": [
           {
             "name": "007",
-            "alt": "Alviergruppe"
+            "alt": "Alviergruppe",
+            "date": "2018-11-17T09:21:49.000+01:00",
+            "width": 1920,
+            "height": 748
           }
         ],
         "text": "Tele Richtung Rheintal und der <a href='/alpine/alviergruppe'>Alviergruppe</a>."
@@ -75,7 +98,10 @@
         "photos": [
           {
             "name": "008",
-            "alt": "Sass"
+            "alt": "Sass",
+            "date": "2018-11-17T09:28:27.000+01:00",
+            "width": 1920,
+            "height": 843
           }
         ],
         "text": "Dann erreichte ich Sass und die Fahrstraße, die hier ebenfalls von Malbun aus hinaufführt. Diesen Weg wollte ich später als Rückweg wählen."
@@ -84,7 +110,10 @@
         "photos": [
           {
             "name": "009",
-            "alt": "Schönberg"
+            "alt": "Schönberg",
+            "date": "2018-11-17T09:49:32.000+01:00",
+            "width": 1920,
+            "height": 652
           }
         ],
         "text": "Nach Sass kam ich auf das 1780m hohe Sassförkle. Von dort waren es laut Wegweiser auf den hier zu sehenden Schönberg (rechts) nur eine gute Stunde Aufstieg. Das hätte bedeutet, dass ich schon Mittags wieder zurück am Auto gewesen wäre. Da auch das Wetter so schön war, beschloß ich dort meine Wanderung auszudehnen und statt dem Aufstieg auf den Schönberg dem Wegweiser zum 2200m hohen Galinakopf zu folgen. Der Wegweiser gab dort hin 2:45h an, was mir für die nur nötigen 400 Höhenmeter etwas lang vorkam.<br />Vom Pass aus ging es auf einem Fahrweg zuerst etwas runter und dann (leider noch im Schatten) immer am Hang lang Richtung Mattajoch."
@@ -93,7 +122,10 @@
         "photos": [
           {
             "name": "010",
-            "alt": "Mattaförkle"
+            "alt": "Mattaförkle",
+            "date": "2018-11-17T10:10:28.000+01:00",
+            "width": 1920,
+            "height": 770
           }
         ],
         "text": "Am Mattajoch ging es für mich aber nur knapp unterhalb vorbei und stattdessen kam ich zum Mattförkle. Dort verläßt auch endlich der Wanderweg den Fahrweg.<br />Hier hinten rechts ist auch schon das Ziel zu sehen, der Galinakopf."
@@ -102,11 +134,17 @@
         "photos": [
           {
             "name": "011",
-            "alt": "Weg durch Latschenkiefer"
+            "alt": "Weg durch Latschenkiefer",
+            "date": "2018-11-17T10:13:01.000+01:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "012",
-            "alt": "Guschgfieljoch"
+            "alt": "Guschgfieljoch",
+            "date": "2018-11-17T10:24:47.000+01:00",
+            "width": 1920,
+            "height": 732
           }
         ],
         "text": "Immer auf gleicher Höhe ging es nun weiter bis zum Guschgfieljoch. Nun war genau auf der Grenze zu Österreich und konnte hier das Tal des Gampbach hinabschauen. Von dort kommt auch ein Wanderweg hinauf, um den Galinakopf von Österreich aus zu besteigen."
@@ -115,11 +153,17 @@
         "photos": [
           {
             "name": "013",
-            "alt": "Wanderweg Galinakopf"
+            "alt": "Wanderweg Galinakopf",
+            "date": "2018-11-17T10:28:49.000+01:00",
+            "width": 1920,
+            "height": 1234
           },
           {
             "name": "014",
-            "alt": "Aufstieg durch Latschenkiefern"
+            "alt": "Aufstieg durch Latschenkiefern",
+            "date": "2018-11-17T10:35:50.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "text": "Nachdem eine schöne Wiese überquert war, begann der eigentliche Aufstieg - noch fehlten mir 300 Höhenmeter."
@@ -128,7 +172,10 @@
         "photos": [
           {
             "name": "015",
-            "alt": "Landschaft Liechtenstein"
+            "alt": "Landschaft Liechtenstein",
+            "date": "2018-11-17T10:38:58.000+01:00",
+            "width": 1920,
+            "height": 801
           }
         ],
         "text": "Wieder der Blick zum Rheintal. Diesmal auf der anderen Seite des Schönbergs vorbei, dessen steile Flanke hier links zu sehen ist."
@@ -137,11 +184,17 @@
         "photos": [
           {
             "name": "016",
-            "alt": "Felsen Galinakopf"
+            "alt": "Felsen Galinakopf",
+            "date": "2018-11-17T10:58:44.000+01:00",
+            "width": 1920,
+            "height": 804
           },
           {
             "name": "017",
-            "alt": "Wanderung Galinakopf"
+            "alt": "Wanderung Galinakopf",
+            "date": "2018-11-17T11:01:43.000+01:00",
+            "width": 1920,
+            "height": 697
           }
         ],
         "text": "Nach der Querung des Wiesenhangs des Galinakopfs führt das letzte Stück des Aufstieg auf dem Grat. Auf der Nordseite ist der Galinakopf ziemlich steil und felsig, der Weg hinauf ist aber harmlos und gut zu gehen."
@@ -150,7 +203,10 @@
         "photos": [
           {
             "name": "018",
-            "alt": "Galinakopf"
+            "alt": "Galinakopf",
+            "date": "2018-11-17T11:06:23.000+01:00",
+            "width": 1920,
+            "height": 1247
           }
         ],
         "text": "Nachdem ich zwei gämsenfotografierende Wanderer (die ersten, denen ich an dem Tag begegnet war) überholt hatte, ging es über diesen schönen Gratweg die letzten Meter hinauf. Der Galinakopf ist ein richtig schöner Gipfel."
@@ -159,11 +215,17 @@
         "photos": [
           {
             "name": "019",
-            "alt": "Panorama Galinakopf"
+            "alt": "Panorama Galinakopf",
+            "date": "2018-11-17T11:08:06.000+01:00",
+            "width": 1920,
+            "height": 716
           },
           {
             "name": "020",
-            "alt": "Schattenspiel"
+            "alt": "Schattenspiel",
+            "date": "2018-11-17T11:08:39.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "text": "Blick vom Galinakopf nach Norden, wo noch ein paar Nebelreste über dem Bodensee waberten."
@@ -172,11 +234,17 @@
         "photos": [
           {
             "name": "021",
-            "alt": "Aussicht Galinakopf"
+            "alt": "Aussicht Galinakopf",
+            "date": "2018-11-17T11:08:48.000+01:00",
+            "width": 1920,
+            "height": 967
           },
           {
             "name": "022",
-            "alt": "Vorarlberg"
+            "alt": "Vorarlberg",
+            "date": "2018-11-17T11:12:36.000+01:00",
+            "width": 1920,
+            "height": 668
           }
         ],
         "text": "Und die Aussicht nach Westen, in die Berge von Vorarlberg hinein."
@@ -185,7 +253,10 @@
         "photos": [
           {
             "name": "023",
-            "alt": "Malbun Galinakopf"
+            "alt": "Malbun Galinakopf",
+            "date": "2018-11-17T11:12:55.000+01:00",
+            "width": 1920,
+            "height": 883
           }
         ],
         "text": "Der Blick zurück Richtung Malbun. Hier kann man einen Großteil meines bisherigen Wegs sehen. In der Bildmitte das Sassförkle, rechts davon der Schönberg. Links, zwischen den beiden kleinen Bergen, das Mattaförkle. Vom Sassförkle hatte ich bis auf den Galinakopf nur 1,5h gebraucht, die Angabe auf dem Wegweiser war also tatsächlich sehr großzügig."
@@ -194,7 +265,10 @@
         "photos": [
           {
             "name": "024",
-            "alt": "Gipfelkreuz Galinakopf"
+            "alt": "Gipfelkreuz Galinakopf",
+            "date": "2018-11-17T11:14:38.000+01:00",
+            "width": 1920,
+            "height": 735
           }
         ],
         "text": "Das Gipfelkreuz des Galinakopfs."
@@ -203,7 +277,10 @@
         "photos": [
           {
             "name": "025",
-            "alt": "Alpinweg Galinakopf"
+            "alt": "Alpinweg Galinakopf",
+            "date": "2018-11-17T11:14:50.000+01:00",
+            "width": 1920,
+            "height": 661
           }
         ],
         "text": "Von Österreich führt auch ein blau/weiß markierter Weg auf den Galinakopf, der hier links zu sehen ist. Er zweigt wohl irgendwo weiter unten von diesem harmlosen Grashang in die Felswand ab.<br />Ich machte mich um 11:15 wieder auf den Abstieg - aber auf dem Normalweg, den ich auch hinaufgekommen war."
@@ -212,7 +289,10 @@
         "photos": [
           {
             "name": "026",
-            "alt": "Gratweg Galinakopf"
+            "alt": "Gratweg Galinakopf",
+            "date": "2018-11-17T11:18:07.000+01:00",
+            "width": 1920,
+            "height": 976
           }
         ],
         "text": "Zuerst wieder auf dem Grat mit Blick zum Schönberg (links) und dahinter dem Rheintal."
@@ -221,7 +301,10 @@
         "photos": [
           {
             "name": "027",
-            "alt": "Felsenhund"
+            "alt": "Felsenhund",
+            "date": "2018-11-17T11:18:57.000+01:00",
+            "width": 1920,
+            "height": 1172
           }
         ],
         "text": "Kleines Felshund neben dem Weg. Im Hintergrund unscharf der <a href='/alpine/alpstein/20131019'>Hohe Kasten</a>"
@@ -230,7 +313,10 @@
         "photos": [
           {
             "name": "028",
-            "alt": "Galinakopf Schönberg"
+            "alt": "Galinakopf Schönberg",
+            "date": "2018-11-17T11:20:53.000+01:00",
+            "width": 1920,
+            "height": 1119
           }
         ],
         "text": "Noch eine Teleaufnahme des Schönbergs. Ganz hinten in den südlicheren Alpen hingen einige Wolken, bei mir herrschte dagegen schönster Sonnenschein. Warm war es aber nicht, so dass ich die Jacke anbehalten musste."
@@ -239,11 +325,17 @@
         "photos": [
           {
             "name": "029",
-            "alt": "Zaunpfähle"
+            "alt": "Zaunpfähle",
+            "date": "2018-11-17T11:39:50.000+01:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "030",
-            "alt": "Guschgfiel"
+            "alt": "Guschgfiel",
+            "date": "2018-11-17T11:49:29.000+01:00",
+            "width": 1920,
+            "height": 991
           }
         ],
         "text": "Leider musste ich nun bis zum Sassförkle den selben Weg zurück. Der große Nachteil vom Wanderweg Malbun - Galinakopf. Dafür war es nun sonniger und zumindest bis Mattjoch ist der Weg auch schön."
@@ -252,11 +344,17 @@
         "photos": [
           {
             "name": "031",
-            "alt": "Mattajoch"
+            "alt": "Mattajoch",
+            "date": "2018-11-17T12:03:53.000+01:00",
+            "width": 1920,
+            "height": 593
           },
           {
             "name": "032",
-            "alt": "Grenzschild Mattajoch"
+            "alt": "Grenzschild Mattajoch",
+            "date": "2018-11-17T12:06:58.000+01:00",
+            "width": 1920,
+            "height": 1242
           }
         ],
         "text": "Beim Rückweg habe ich auch noch den kleinen Abstecher hinauf auf das Mattajoch unternommen. Dort kommt der Wanderweg vom Berghaus Mattajoch aus Österreich hinauf. Auch ein paar Mountainbiker traf ich dort an."
@@ -265,11 +363,17 @@
         "photos": [
           {
             "name": "033",
-            "alt": "Wanderung Mattajoch"
+            "alt": "Wanderung Mattajoch",
+            "date": "2018-11-17T12:14:21.000+01:00",
+            "width": 1920,
+            "height": 588
           },
           {
             "name": "034",
-            "alt": "Sassförkle"
+            "alt": "Sassförkle",
+            "date": "2018-11-17T12:38:16.000+01:00",
+            "width": 1920,
+            "height": 724
           }
         ],
         "text": "Vom Mattajoch dann die Durststrecke auf der Straße zurück zum Sassförkle. Hier der Blick zurück zum Mattajoch (rechts) und Galinakopf (links)."
@@ -278,7 +382,10 @@
         "photos": [
           {
             "name": "035",
-            "alt": "Herbstwiese"
+            "alt": "Herbstwiese",
+            "date": "2018-11-17T12:44:26.000+01:00",
+            "width": 1920,
+            "height": 1066
           }
         ],
         "text": "Da der 'Abstecher' zum Galinakopf schneller als gedacht erledigt war, entschloß ich mich nun noch für den Aufstieg auf den Schönberg, meinem eigentlichen Ziel."
@@ -287,11 +394,17 @@
         "photos": [
           {
             "name": "036",
-            "alt": "Eis auf Wanderweg"
+            "alt": "Eis auf Wanderweg",
+            "date": "2018-11-17T12:55:31.000+01:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "037",
-            "alt": "Geforenes Gras"
+            "alt": "Geforenes Gras",
+            "date": "2018-11-17T12:58:35.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "text": "Im Schatten wurde es ganztags nicht warm, so dass dort eine gefrorene Eisplatte zu überqueren war und das Gras eisig weiß eingefärbt war."
@@ -300,7 +413,10 @@
         "photos": [
           {
             "name": "038",
-            "alt": "Serpentinen Schönberg"
+            "alt": "Serpentinen Schönberg",
+            "date": "2018-11-17T13:03:31.000+01:00",
+            "width": 1920,
+            "height": 1260
           }
         ],
         "text": "Zu Beginn ging es nur leicht bergauf, aber dann ging es in einigen Serpentinen zu den Felsen des Stachlerkopfs hinauf. Hier der Blick zurück."
@@ -309,7 +425,10 @@
         "photos": [
           {
             "name": "039",
-            "alt": "Kelchle"
+            "alt": "Kelchle",
+            "date": "2018-11-17T13:06:35.000+01:00",
+            "width": 1920,
+            "height": 1093
           }
         ],
         "text": "Beim Aufstieg der kleine Felsen 'Kelchle' mit Kreuz. Im Hintergrund das Massiv der fast 3000m hohen <a href='/alpine/brandnertal/20150829'>Schesaplana</a>, genauer der Panüeler Kopf."
@@ -318,11 +437,17 @@
         "photos": [
           {
             "name": "040",
-            "alt": "Schönberg gefährlich"
+            "alt": "Schönberg gefährlich",
+            "date": "2018-11-17T13:11:14.000+01:00",
+            "width": 1920,
+            "height": 882
           },
           {
             "name": "041",
-            "alt": "Felsenweg Schönberg"
+            "alt": "Felsenweg Schönberg",
+            "date": "2018-11-17T13:17:42.000+01:00",
+            "width": 1920,
+            "height": 1056
           }
         ],
         "text": "Unterhalb des Stachlerkopfs geht es (nicht ganz ohne) durch Schutthänge und Felsen, zum Teil auch mit Drahtseil gesichert. Das ganze wirkt etwas unnötig, denn man könnte statt dessen auch einfach über die Wiesen unterhalb zum Schönberg aufsteigen.<br />So war es aber natürlich abwechslungsreicher."
@@ -331,7 +456,10 @@
         "photos": [
           {
             "name": "042",
-            "alt": "Wanderweg Schönberg"
+            "alt": "Wanderweg Schönberg",
+            "date": "2018-11-17T13:20:31.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "text": "Schnell ist man aber aus dem steilen Geländer wieder raus und es geht direkt auf den Gipfel des Schönbergs zu."
@@ -340,7 +468,10 @@
         "photos": [
           {
             "name": "043",
-            "alt": "Rheintal mit Dunst"
+            "alt": "Rheintal mit Dunst",
+            "date": "2018-11-17T13:26:19.000+01:00",
+            "width": 1920,
+            "height": 734
           }
         ],
         "text": "Der Aufstieg auf den Schönberg verläuft dann auf dem Grat. Hier der Blick hinunter auf der Rückseite ins dunstige Rheintal."
@@ -349,11 +480,17 @@
         "photos": [
           {
             "name": "044",
-            "alt": "Wanderung Schönberg"
+            "alt": "Wanderung Schönberg",
+            "date": "2018-11-17T13:28:51.000+01:00",
+            "width": 1920,
+            "height": 803
           },
           {
             "name": "045",
-            "alt": "Wegweiser Schönberg"
+            "alt": "Wegweiser Schönberg",
+            "date": "2018-11-17T13:36:43.000+01:00",
+            "width": 1920,
+            "height": 1389
           }
         ],
         "text": "Der Grat zum Schönberg ist harmlos. Dabei passierte ich die Abzweigung für einen alternativen Abstieg nach Malbun. Diesen hatte ich mir schon im vorhinein als Rückweg ausgesucht - aber jetzt zuerst noch auf den Gipfel des Schönbergs!"
@@ -362,7 +499,10 @@
         "photos": [
           {
             "name": "046",
-            "alt": "Gipfel Schönberg"
+            "alt": "Gipfel Schönberg",
+            "date": "2018-11-17T13:41:10.000+01:00",
+            "width": 1920,
+            "height": 1155
           }
         ],
         "text": "Und so ging es die letzten Meter zum Gipfel des Schönberg hinauf, den ich um 13:40 erreichte."
@@ -371,7 +511,10 @@
         "photos": [
           {
             "name": "047",
-            "alt": "Panorama Schönberg"
+            "alt": "Panorama Schönberg",
+            "date": "2018-11-17T13:42:41.000+01:00",
+            "width": 1920,
+            "height": 551
           }
         ],
         "text": "Blick vom Gipfel nach Norden. In der Mitte der Galinakopf."
@@ -380,7 +523,10 @@
         "photos": [
           {
             "name": "048",
-            "alt": "Alpspitz"
+            "alt": "Alpspitz",
+            "date": "2018-11-17T13:43:23.000+01:00",
+            "width": 1920,
+            "height": 593
           }
         ],
         "text": "Tele über die Alpspitz hinweg zum <a href='/alpine/alpstein/20160911'>Säntis</a>."
@@ -389,7 +535,10 @@
         "photos": [
           {
             "name": "049",
-            "alt": "Rheinttal im Herbst"
+            "alt": "Rheinttal im Herbst",
+            "date": "2018-11-17T13:43:36.000+01:00",
+            "width": 1920,
+            "height": 777
           }
         ],
         "text": "Blick das Rheintal hinauf Richtung Sargans."
@@ -398,7 +547,10 @@
         "photos": [
           {
             "name": "050",
-            "alt": "Startende Alpendohle"
+            "alt": "Startende Alpendohle",
+            "date": "2018-11-17T13:48:18.000+01:00",
+            "width": 1920,
+            "height": 1238
           }
         ],
         "text": "Während meiner Pause auf der Wiese versuchte ich eine Alpdohle im Flug zu fotografieren. Zumindest den Absprung von einem Zaunpfahl konnte ich festhalten."
@@ -407,7 +559,10 @@
         "photos": [
           {
             "name": "051",
-            "alt": "Kuegrat"
+            "alt": "Kuegrat",
+            "date": "2018-11-17T13:51:56.000+01:00",
+            "width": 1920,
+            "height": 1260
           }
         ],
         "text": "Blick hinüber zum <a href='/alpine/malbun/20181013'>Kuegrat, Garsellikopf</a> und den drei Schwestern, wo ich gerade mal vor einem Monat unterwegs war."
@@ -416,7 +571,10 @@
         "photos": [
           {
             "name": "052",
-            "alt": "Schönberg Galinakopf"
+            "alt": "Schönberg Galinakopf",
+            "date": "2018-11-17T13:52:05.000+01:00",
+            "width": 1920,
+            "height": 755
           }
         ],
         "text": "Noch einmal der Galinakopf (links) und das Guschgfieljoch in der Mitte."
@@ -425,7 +583,10 @@
         "photos": [
           {
             "name": "053",
-            "alt": "Zimba"
+            "alt": "Zimba",
+            "date": "2018-11-17T13:52:21.000+01:00",
+            "width": 1920,
+            "height": 670
           }
         ],
         "text": "Tele zu den österreichischen Bergen. In der Bildmitte die markante Zimba."
@@ -434,7 +595,10 @@
         "photos": [
           {
             "name": "054",
-            "alt": "Herbstwanderung Schönberg"
+            "alt": "Herbstwanderung Schönberg",
+            "date": "2018-11-17T13:53:08.000+01:00",
+            "width": 1920,
+            "height": 695
           }
         ],
         "text": "Und so harmlos ist der Gipfel des Schönbergs auf der sonnigen Südseite.<br />Noch vor 14:00 machte ich mich auf den Abstieg... denn im November wird es auch schon recht früh dunkel."
@@ -443,11 +607,17 @@
         "photos": [
           {
             "name": "055",
-            "alt": "Hangweg"
+            "alt": "Hangweg",
+            "date": "2018-11-17T13:58:38.000+01:00",
+            "width": 1920,
+            "height": 1198
           },
           {
             "name": "056",
-            "alt": "Wanderweg Stein Schönberg"
+            "alt": "Wanderweg Stein Schönberg",
+            "date": "2018-11-17T14:00:38.000+01:00",
+            "width": 1920,
+            "height": 758
           }
         ],
         "text": "Wie angekündigt zweigte ich beim Abtieg vom Hauptweg ab und ging nach Osten Richtung Steg. Dabei ist der Schönberg auf dieser Seite deutlich steiler, aber der Weg geht ungefährlich zwischen den Felswänden hindurch. Hier noch einmal der Blick zurück zum Schönberg (ganz rechts)."
@@ -456,7 +626,10 @@
         "photos": [
           {
             "name": "057",
-            "alt": "Wanderung Liechtenstein"
+            "alt": "Wanderung Liechtenstein",
+            "date": "2018-11-17T14:16:04.000+01:00",
+            "width": 1920,
+            "height": 1076
           }
         ],
         "text": "Und immer weiter gehts es schön durch den Hang. Wieder der Blick zurück."
@@ -465,11 +638,17 @@
         "photos": [
           {
             "name": "058",
-            "alt": "Felsen auf Bergwiese"
+            "alt": "Felsen auf Bergwiese",
+            "date": "2018-11-17T14:22:22.000+01:00",
+            "width": 1920,
+            "height": 627
           },
           {
             "name": "059",
-            "alt": "Wanderweg Schönberg"
+            "alt": "Wanderweg Schönberg",
+            "date": "2018-11-17T14:24:04.000+01:00",
+            "width": 1920,
+            "height": 672
           }
         ],
         "text": "Dann kam ich von oben her auf die Weiden von Bergli, einer kleinen Alp mitten im steilen Hang zwischen dem Ort Steg im Tal und dem Schönberg."
@@ -478,7 +657,10 @@
         "photos": [
           {
             "name": "060",
-            "alt": "Dunstschicht"
+            "alt": "Dunstschicht",
+            "date": "2018-11-17T14:26:44.000+01:00",
+            "width": 1920,
+            "height": 1040
           }
         ],
         "text": "Toll war der Blick während des Abstiegs ins Rheintal und auf die Dunstschicht."
@@ -487,7 +669,10 @@
         "photos": [
           {
             "name": "061",
-            "alt": "Rundwanderung Damüls"
+            "alt": "Rundwanderung Damüls",
+            "date": "2018-11-17T14:31:06.000+01:00",
+            "width": 1920,
+            "height": 2502
           }
         ],
         "text": "Nun ging es in kleinen Serpentinen durch eine schöne Landschaft über die Wiese hinab. Der Abschnitt war der bisher eindrucksvollste der ganzen Wanderung."
@@ -496,7 +681,10 @@
         "photos": [
           {
             "name": "062",
-            "alt": "Steile Wiese"
+            "alt": "Steile Wiese",
+            "date": "2018-11-17T14:37:19.000+01:00",
+            "width": 1920,
+            "height": 965
           }
         ],
         "text": "Nach dem kurzen 80m Abstieg ging es dann wieder weiter am Hang entlang. Im Hintergrund das <a href='/alpine/malbun/20170716'>Valünertal</a> bei Steg."
@@ -505,7 +693,10 @@
         "photos": [
           {
             "name": "063",
-            "alt": "Malbun"
+            "alt": "Malbun",
+            "date": "2018-11-17T14:43:19.000+01:00",
+            "width": 1920,
+            "height": 1134
           }
         ],
         "text": "Da ich nun schon einiges um den Berg herumgelaufen war, tauchte Malbun auf - wieder im Schatten. Dahinter die verschneite Schesaplana."
@@ -514,7 +705,10 @@
         "photos": [
           {
             "name": "064",
-            "alt": "Bergli Bärgli"
+            "alt": "Bergli Bärgli",
+            "date": "2018-11-17T14:43:41.000+01:00",
+            "width": 1920,
+            "height": 934
           }
         ],
         "text": "Dann führt der Weg an der kleinen Alp Bergli aka Bärgli vorbei. Hier zweigt der Weg nach Steg rechts ab. Mein Weg führt weiter geradeaus am Hang entlang Richtung Malbun."
@@ -523,7 +717,10 @@
         "photos": [
           {
             "name": "065",
-            "alt": "Schattenmensch"
+            "alt": "Schattenmensch",
+            "date": "2018-11-17T14:50:51.000+01:00",
+            "width": 1920,
+            "height": 2539
           }
         ],
         "text": "Obwohl es noch vor 15 Uhr war, stand die Sonne schon flach genug für solche Schattenspiele."
@@ -532,7 +729,10 @@
         "photos": [
           {
             "name": "066",
-            "alt": "Wanderweg Bergli"
+            "alt": "Wanderweg Bergli",
+            "date": "2018-11-17T14:54:22.000+01:00",
+            "width": 1920,
+            "height": 1334
           }
         ],
         "text": "Sehr schön ging der Weg durch die lichten Wälder des Hangs, aber durchaus mit Zwischenanstiegen."
@@ -541,7 +741,10 @@
         "photos": [
           {
             "name": "067",
-            "alt": "Sesselbahn Sareis"
+            "alt": "Sesselbahn Sareis",
+            "date": "2018-11-17T15:06:09.000+01:00",
+            "width": 1920,
+            "height": 939
           }
         ],
         "text": "Tele auf die Sesselbahn Sareis von Malbun."
@@ -550,7 +753,10 @@
         "photos": [
           {
             "name": "068",
-            "alt": "Gämse im Wald"
+            "alt": "Gämse im Wald",
+            "date": "2018-11-17T15:11:42.000+01:00",
+            "width": 1920,
+            "height": 1032
           }
         ],
         "text": "Mitten auf dem Wanderweg stand eine Gämse, die nicht besonders scheu war. Langsam trabte sie davon, also ich angestapft kam."
@@ -559,7 +765,10 @@
         "photos": [
           {
             "name": "069",
-            "alt": "Wanderung am Abend"
+            "alt": "Wanderung am Abend",
+            "date": "2018-11-17T15:21:57.000+01:00",
+            "width": 1920,
+            "height": 1085
           }
         ],
         "text": "Die Lichtstimmung während meinem Weg durch den Wald war sehr schön. Nur leider war ich nun doch schon ziemlich erschöpft und jeder Zwischenauf- und abstieg zerrte an den letzten Kräften."
@@ -568,11 +777,17 @@
         "photos": [
           {
             "name": "070",
-            "alt": "Sass Stall"
+            "alt": "Sass Stall",
+            "date": "2018-11-17T15:28:51.000+01:00",
+            "width": 1920,
+            "height": 1009
           },
           {
             "name": "071",
-            "alt": "Spazierweg Malbun"
+            "alt": "Spazierweg Malbun",
+            "date": "2018-11-17T15:34:49.000+01:00",
+            "width": 1920,
+            "height": 1114
           }
         ],
         "text": "Dann erreichte ich aber um 15:30 die Häuser von Sass Stall und damit das Ende des Hangs.<br />Weiter ging es nun auf der Fahrstraße hinab nach Malbun. Aber zuerst noch eine Pause in den letzten Sonnenstrahlen auf einer Bank."
@@ -581,7 +796,10 @@
         "photos": [
           {
             "name": "072",
-            "alt": "Jufa Malbun"
+            "alt": "Jufa Malbun",
+            "date": "2018-11-17T15:47:51.000+01:00",
+            "width": 1920,
+            "height": 966
           }
         ],
         "text": "Um 16:00 kam ich dann am Parkplatz in Malbun an. Dort hatte es bereits deutlich abgekühlt und ich war froh die Heizung im Auto aufdrehen zu können."

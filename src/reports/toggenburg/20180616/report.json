@@ -9,7 +9,9 @@
     "title": "Stein - Gulmen",
     "title3d": {
       "offsetY": 4.5,
-      "fontSize": 6.5
+      "fontSize": 6.5,
+      "width": 1920,
+      "height": 448
     },
     "intro": "Als erste richtige Wanderung der Saison nahm ich mir an diesem Samstag den fast 1800m hohen Gulmen im Toggenburg vor. Als Ausgangspunkt wählte ich den kleinen Ort Stein im Kanton St. Gallen, der rund 800m hoch liegt.<br />Im Dort gibt es viele freie Parkplätze, auf einem stellte ich mein Auto um 7:30 ab.",
     "landmarks": [
@@ -17,7 +19,10 @@
         "photos": [
           {
             "name": "001",
-            "alt": "Kirche Stein"
+            "alt": "Kirche Stein",
+            "date": "2018-06-16T07:35:57.000+02:00",
+            "width": 1920,
+            "height": 2880
           }
         ],
         "videos": [],
@@ -27,7 +32,10 @@
         "photos": [
           {
             "name": "002",
-            "alt": "Bauernhaus Toggenburg"
+            "alt": "Bauernhaus Toggenburg",
+            "date": "2018-06-16T07:54:17.000+02:00",
+            "width": 1920,
+            "height": 669
           }
         ],
         "videos": [],
@@ -37,7 +45,10 @@
         "photos": [
           {
             "name": "003",
-            "alt": "Landwirtschaft Ostschweiz"
+            "alt": "Landwirtschaft Ostschweiz",
+            "date": "2018-06-16T08:06:57.000+02:00",
+            "width": 1920,
+            "height": 615
           }
         ],
         "videos": [],
@@ -47,7 +58,10 @@
         "photos": [
           {
             "name": "004",
-            "alt": "Buurebeizli Dergeten"
+            "alt": "Buurebeizli Dergeten",
+            "date": "2018-06-16T08:17:42.000+02:00",
+            "width": 1920,
+            "height": 797
           }
         ],
         "videos": [],
@@ -57,7 +71,10 @@
         "photos": [
           {
             "name": "005",
-            "alt": "Pistenraupe im Gras"
+            "alt": "Pistenraupe im Gras",
+            "date": "2018-06-16T08:20:32.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -67,7 +84,10 @@
         "photos": [
           {
             "name": "006",
-            "alt": "Speer"
+            "alt": "Speer",
+            "date": "2018-06-16T08:23:57.000+02:00",
+            "width": 1920,
+            "height": 1638
           }
         ],
         "videos": [],
@@ -77,7 +97,10 @@
         "photos": [
           {
             "name": "007",
-            "alt": "Gemähte Alpwiese"
+            "alt": "Gemähte Alpwiese",
+            "date": "2018-06-16T08:34:26.000+02:00",
+            "width": 1920,
+            "height": 916
           }
         ],
         "videos": [],
@@ -87,7 +110,10 @@
         "photos": [
           {
             "name": "008",
-            "alt": "Händelwurz"
+            "alt": "Händelwurz",
+            "date": "2018-06-16T08:42:12.000+02:00",
+            "width": 1920,
+            "height": 1462
           }
         ],
         "videos": [],
@@ -97,7 +123,10 @@
         "photos": [
           {
             "name": "009",
-            "alt": "Alpwiese"
+            "alt": "Alpwiese",
+            "date": "2018-06-16T08:44:54.000+02:00",
+            "width": 1920,
+            "height": 917
           }
         ],
         "videos": [],
@@ -107,7 +136,10 @@
         "photos": [
           {
             "name": "010",
-            "alt": "Wiis Thur Tal"
+            "alt": "Wiis Thur Tal",
+            "date": "2018-06-16T08:45:27.000+02:00",
+            "width": 1920,
+            "height": 925
           }
         ],
         "videos": [],
@@ -117,7 +149,10 @@
         "photos": [
           {
             "name": "011",
-            "alt": "Hagegg"
+            "alt": "Hagegg",
+            "date": "2018-06-16T08:47:31.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -127,7 +162,10 @@
         "photos": [
           {
             "name": "012",
-            "alt": "Wanderweg Dergeten Gulmen"
+            "alt": "Wanderweg Dergeten Gulmen",
+            "date": "2018-06-16T08:53:41.000+02:00",
+            "width": 1920,
+            "height": 757
           }
         ],
         "videos": [],
@@ -137,7 +175,10 @@
         "photos": [
           {
             "name": "013",
-            "alt": "Bergweide"
+            "alt": "Bergweide",
+            "date": "2018-06-16T08:57:23.000+02:00",
+            "width": 1920,
+            "height": 954
           }
         ],
         "videos": [],
@@ -147,7 +188,10 @@
         "photos": [
           {
             "name": "014",
-            "alt": "Waldweg"
+            "alt": "Waldweg",
+            "date": "2018-06-16T09:15:38.000+02:00",
+            "width": 1920,
+            "height": 990
           }
         ],
         "videos": [],
@@ -157,7 +201,10 @@
         "photos": [
           {
             "name": "015",
-            "alt": "Scheuchzers Wollgras"
+            "alt": "Scheuchzers Wollgras",
+            "date": "2018-06-16T09:25:55.000+02:00",
+            "width": 1920,
+            "height": 991
           }
         ],
         "videos": [],
@@ -167,7 +214,10 @@
         "photos": [
           {
             "name": "016",
-            "alt": "Wegweiser Letzbüel"
+            "alt": "Wegweiser Letzbüel",
+            "date": "2018-06-16T09:26:42.000+02:00",
+            "width": 1920,
+            "height": 1200
           }
         ],
         "videos": [],
@@ -177,7 +227,10 @@
         "photos": [
           {
             "name": "017",
-            "alt": "Stögglersitte"
+            "alt": "Stögglersitte",
+            "date": "2018-06-16T09:33:59.000+02:00",
+            "width": 1920,
+            "height": 587
           }
         ],
         "videos": [],
@@ -187,7 +240,10 @@
         "photos": [
           {
             "name": "018",
-            "alt": "Wanderweg Amden Furgglen"
+            "alt": "Wanderweg Amden Furgglen",
+            "date": "2018-06-16T09:38:43.000+02:00",
+            "width": 1920,
+            "height": 552
           }
         ],
         "videos": [],
@@ -197,7 +253,10 @@
         "photos": [
           {
             "name": "019",
-            "alt": "Amden"
+            "alt": "Amden",
+            "date": "2018-06-16T09:46:31.000+02:00",
+            "width": 1920,
+            "height": 696
           }
         ],
         "videos": [],
@@ -207,7 +266,10 @@
         "photos": [
           {
             "name": "020",
-            "alt": "Alpwirtschaft Furgglen"
+            "alt": "Alpwirtschaft Furgglen",
+            "date": "2018-06-16T09:48:18.000+02:00",
+            "width": 1920,
+            "height": 706
           }
         ],
         "videos": [],
@@ -217,7 +279,10 @@
         "photos": [
           {
             "name": "021",
-            "alt": "Wegweiser Hüttlisboden"
+            "alt": "Wegweiser Hüttlisboden",
+            "date": "2018-06-16T09:58:06.000+02:00",
+            "width": 1920,
+            "height": 862
           }
         ],
         "videos": [],
@@ -227,7 +292,10 @@
         "photos": [
           {
             "name": "022",
-            "alt": "Panorama Amden"
+            "alt": "Panorama Amden",
+            "date": "2018-06-16T10:04:13.000+02:00",
+            "width": 1920,
+            "height": 641
           }
         ],
         "videos": [],
@@ -237,7 +305,10 @@
         "photos": [
           {
             "name": "023",
-            "alt": "Wanderweg Gulmen"
+            "alt": "Wanderweg Gulmen",
+            "date": "2018-06-16T10:11:49.000+02:00",
+            "width": 1920,
+            "height": 1087
           }
         ],
         "videos": [],
@@ -247,7 +318,10 @@
         "photos": [
           {
             "name": "024",
-            "alt": "Gipfelkreuz Gulmen"
+            "alt": "Gipfelkreuz Gulmen",
+            "date": "2018-06-16T10:31:57.000+02:00",
+            "width": 1920,
+            "height": 1107
           }
         ],
         "videos": [],
@@ -257,7 +331,10 @@
         "photos": [
           {
             "name": "025",
-            "alt": "Gulmen Churfirsten"
+            "alt": "Gulmen Churfirsten",
+            "date": "2018-06-16T10:33:47.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -267,7 +344,10 @@
         "photos": [
           {
             "name": "026",
-            "alt": "Orangerotes Habichtskraut"
+            "alt": "Orangerotes Habichtskraut",
+            "date": "2018-06-16T10:35:45.000+02:00",
+            "width": 1920,
+            "height": 1265
           }
         ],
         "videos": [],
@@ -277,7 +357,10 @@
         "photos": [
           {
             "name": "027",
-            "alt": "Gulmen"
+            "alt": "Gulmen",
+            "date": "2018-06-16T10:39:51.000+02:00",
+            "width": 1920,
+            "height": 559
           }
         ],
         "videos": [],
@@ -287,7 +370,10 @@
         "photos": [
           {
             "name": "028",
-            "alt": "Aussicht Gulmen"
+            "alt": "Aussicht Gulmen",
+            "date": "2018-06-16T10:46:35.000+02:00",
+            "width": 1920,
+            "height": 716
           }
         ],
         "videos": [],
@@ -297,7 +383,10 @@
         "photos": [
           {
             "name": "029",
-            "alt": "Quellwolken über Blumenwiese"
+            "alt": "Quellwolken über Blumenwiese",
+            "date": "2018-06-16T10:47:37.000+02:00",
+            "width": 1920,
+            "height": 860
           }
         ],
         "videos": [],
@@ -307,7 +396,10 @@
         "photos": [
           {
             "name": "030",
-            "alt": "Panorama Gulmen"
+            "alt": "Panorama Gulmen",
+            "date": "2018-06-16T10:49:04.000+02:00",
+            "width": 1920,
+            "height": 704
           }
         ],
         "videos": [],
@@ -317,7 +409,10 @@
         "photos": [
           {
             "name": "031",
-            "alt": "Blumen vor Glarus"
+            "alt": "Blumen vor Glarus",
+            "date": "2018-06-16T10:49:45.000+02:00",
+            "width": 1920,
+            "height": 530
           }
         ],
         "videos": [],
@@ -327,7 +422,10 @@
         "photos": [
           {
             "name": "032",
-            "alt": "Goggeien"
+            "alt": "Goggeien",
+            "date": "2018-06-16T10:57:05.000+02:00",
+            "width": 1920,
+            "height": 969
           }
         ],
         "videos": [],
@@ -337,7 +435,10 @@
         "photos": [
           {
             "name": "033",
-            "alt": "Gulmen Amden"
+            "alt": "Gulmen Amden",
+            "date": "2018-06-16T11:10:38.000+02:00",
+            "width": 1920,
+            "height": 919
           }
         ],
         "videos": [],
@@ -347,7 +448,10 @@
         "photos": [
           {
             "name": "034",
-            "alt": "Wandergebiet Amden"
+            "alt": "Wandergebiet Amden",
+            "date": "2018-06-16T11:11:43.000+02:00",
+            "width": 1920,
+            "height": 498
           }
         ],
         "videos": [],
@@ -357,11 +461,17 @@
         "photos": [
           {
             "name": "035",
-            "alt": "Weg Gulmen Vorderhöhi"
+            "alt": "Weg Gulmen Vorderhöhi",
+            "date": "2018-06-16T11:23:53.000+02:00",
+            "width": 1920,
+            "height": 763
           },
           {
             "name": "036",
-            "alt": "Wanderung Gulmen"
+            "alt": "Wanderung Gulmen",
+            "date": "2018-06-16T11:24:57.000+02:00",
+            "width": 1920,
+            "height": 779
           }
         ],
         "videos": [],
@@ -371,7 +481,10 @@
         "photos": [
           {
             "name": "037",
-            "alt": "Vorderhöhi"
+            "alt": "Vorderhöhi",
+            "date": "2018-06-16T11:39:50.000+02:00",
+            "width": 1920,
+            "height": 844
           }
         ],
         "videos": [],
@@ -381,7 +494,10 @@
         "photos": [
           {
             "name": "038",
-            "alt": "Gulmen"
+            "alt": "Gulmen",
+            "date": "2018-06-16T11:48:23.000+02:00",
+            "width": 1920,
+            "height": 693
           }
         ],
         "videos": [],
@@ -391,7 +507,10 @@
         "photos": [
           {
             "name": "039",
-            "alt": "Alpenwiese"
+            "alt": "Alpenwiese",
+            "date": "2018-06-16T11:52:17.000+02:00",
+            "width": 1920,
+            "height": 786
           }
         ],
         "videos": [],
@@ -401,7 +520,10 @@
         "photos": [
           {
             "name": "040",
-            "alt": "Wanderweg Stein Vorderhöhi"
+            "alt": "Wanderweg Stein Vorderhöhi",
+            "date": "2018-06-16T12:12:28.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -411,7 +533,10 @@
         "photos": [
           {
             "name": "041",
-            "alt": "Holzstege"
+            "alt": "Holzstege",
+            "date": "2018-06-16T12:18:39.000+02:00",
+            "width": 1920,
+            "height": 1116
           }
         ],
         "videos": [],
@@ -421,7 +546,10 @@
         "photos": [
           {
             "name": "042",
-            "alt": "Grillplatz"
+            "alt": "Grillplatz",
+            "date": "2018-06-16T12:25:51.000+02:00",
+            "width": 1920,
+            "height": 894
           }
         ],
         "videos": [],
@@ -431,7 +559,10 @@
         "photos": [
           {
             "name": "043",
-            "alt": "Dürrenbach Tal"
+            "alt": "Dürrenbach Tal",
+            "date": "2018-06-16T12:35:58.000+02:00",
+            "width": 1920,
+            "height": 737
           }
         ],
         "videos": [],
@@ -441,7 +572,10 @@
         "photos": [
           {
             "name": "044",
-            "alt": "Dürrenbach Wasserfall"
+            "alt": "Dürrenbach Wasserfall",
+            "date": "2018-06-16T12:45:42.000+02:00",
+            "width": 1920,
+            "height": 1054
           }
         ],
         "videos": [],
@@ -451,7 +585,10 @@
         "photos": [
           {
             "name": "045",
-            "alt": "Treppenweg an Bach"
+            "alt": "Treppenweg an Bach",
+            "date": "2018-06-16T12:52:32.000+02:00",
+            "width": 1920,
+            "height": 1227
           }
         ],
         "videos": [],
@@ -461,7 +598,10 @@
         "photos": [
           {
             "name": "046",
-            "alt": "Wildwasserverbauung"
+            "alt": "Wildwasserverbauung",
+            "date": "2018-06-16T12:59:47.000+02:00",
+            "width": 1920,
+            "height": 1180
           }
         ],
         "videos": [],
@@ -471,7 +611,10 @@
         "photos": [
           {
             "name": "047",
-            "alt": "Brücke Dürrenbach"
+            "alt": "Brücke Dürrenbach",
+            "date": "2018-06-16T13:27:54.000+02:00",
+            "width": 1920,
+            "height": 980
           }
         ],
         "videos": [],
@@ -481,7 +624,10 @@
         "photos": [
           {
             "name": "048",
-            "alt": "Stein St. Gallen"
+            "alt": "Stein St. Gallen",
+            "date": "2018-06-16T13:41:33.000+02:00",
+            "width": 1920,
+            "height": 925
           }
         ],
         "videos": [],

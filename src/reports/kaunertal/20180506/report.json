@@ -7,8 +7,10 @@
     "shortTitle": "Kaunertal",
     "title": "Kaunertaler Gletscher",
     "title3d": {
-      "offsetY": 9.0,
-      "fontSize": 5.5
+      "offsetY": 9,
+      "fontSize": 5.5,
+      "width": 1920,
+      "height": 520
     },
     "intro": "Zum persönlichen Saisonabschluss ging es diesen Maisonntag für mich wieder auf die lange Fahrt zum Kaunertaler Gletscher.<br />Nach der sehr schönen Anfahrt bei absolut leeren Straßen über den Arlbergpass und die Mautstraße (im 40€ Skiticket inklusive) erreichte ich den Parkplatz an der Ochsenalmbahn bereits um 8:30. Der Parkplatz war übersät von einem Sammelsurium von Wohnmobilen und auch Zelten - es sparten sich also einige die morgendliche Fahrt hinauf.",
     "landmarks": [
@@ -16,7 +18,10 @@
         "photos": [
           {
             "name": "001",
-            "alt": "Schneeschmelze"
+            "alt": "Schneeschmelze",
+            "date": "2018-05-06T08:32:31.000+02:00",
+            "width": 1920,
+            "height": 1125
           }
         ],
         "videos": [],
@@ -26,7 +31,10 @@
         "photos": [
           {
             "name": "002",
-            "alt": "Karlesjochbahn"
+            "alt": "Karlesjochbahn",
+            "date": "2018-05-06T09:08:18.000+02:00",
+            "width": 1920,
+            "height": 852
           }
         ],
         "videos": [],
@@ -36,7 +44,10 @@
         "photos": [
           {
             "name": "003",
-            "alt": "Talabfahrt Ochsenalm"
+            "alt": "Talabfahrt Ochsenalm",
+            "date": "2018-05-06T09:13:57.000+02:00",
+            "width": 1920,
+            "height": 1175
           }
         ],
         "videos": [],
@@ -46,7 +57,10 @@
         "photos": [
           {
             "name": "004",
-            "alt": "Kaunertaler Gletscher"
+            "alt": "Kaunertaler Gletscher",
+            "date": "2018-05-06T09:27:43.000+02:00",
+            "width": 1920,
+            "height": 597
           }
         ],
         "videos": [],
@@ -56,7 +70,10 @@
         "photos": [
           {
             "name": "005",
-            "alt": "Karlesjoch"
+            "alt": "Karlesjoch",
+            "date": "2018-05-06T09:39:25.000+02:00",
+            "width": 1920,
+            "height": 720
           }
         ],
         "videos": [],
@@ -66,7 +83,10 @@
         "photos": [
           {
             "name": "007",
-            "alt": "Skifahren Kaunertal"
+            "alt": "Skifahren Kaunertal",
+            "date": "2018-05-06T09:39:50.000+02:00",
+            "width": 1920,
+            "height": 857
           }
         ],
         "videos": [],
@@ -76,7 +96,10 @@
         "photos": [
           {
             "name": "008",
-            "alt": "Skitunnel"
+            "alt": "Skitunnel",
+            "date": "2018-05-06T09:41:57.000+02:00",
+            "width": 1920,
+            "height": 1214
           }
         ],
         "videos": [],
@@ -86,7 +109,10 @@
         "photos": [
           {
             "name": "009",
-            "alt": "Wiesejaggl Piste"
+            "alt": "Wiesejaggl Piste",
+            "date": "2018-05-06T09:43:18.000+02:00",
+            "width": 1920,
+            "height": 653
           }
         ],
         "videos": [],
@@ -96,7 +122,10 @@
         "photos": [
           {
             "name": "010",
-            "alt": "Weißsee"
+            "alt": "Weißsee",
+            "date": "2018-05-06T09:44:51.000+02:00",
+            "width": 1920,
+            "height": 906
           }
         ],
         "videos": [],
@@ -106,7 +135,10 @@
         "photos": [
           {
             "name": "011",
-            "alt": "Kaunertaler Gletscher"
+            "alt": "Kaunertaler Gletscher",
+            "date": "2018-05-06T10:13:29.000+02:00",
+            "width": 1920,
+            "height": 667
           }
         ],
         "videos": [],
@@ -116,7 +148,10 @@
         "photos": [
           {
             "name": "012",
-            "alt": "Weißseejoch"
+            "alt": "Weißseejoch",
+            "date": "2018-05-06T10:32:03.000+02:00",
+            "width": 1920,
+            "height": 975
           }
         ],
         "videos": [],
@@ -126,11 +161,17 @@
         "photos": [
           {
             "name": "014",
-            "alt": "Sesselbahn an Felswand"
+            "alt": "Sesselbahn an Felswand",
+            "date": "2018-05-06T11:51:00.000+02:00",
+            "width": 1920,
+            "height": 1231
           },
           {
             "name": "015",
-            "alt": "Ochsenalmbahn"
+            "alt": "Ochsenalmbahn",
+            "date": "2018-05-06T11:51:29.000+02:00",
+            "width": 1920,
+            "height": 1060
           }
         ],
         "videos": [],
@@ -140,7 +181,10 @@
         "photos": [
           {
             "name": "016",
-            "alt": "Piste Ochsenalmbahn"
+            "alt": "Piste Ochsenalmbahn",
+            "date": "2018-05-06T11:52:50.000+02:00",
+            "width": 1920,
+            "height": 786
           }
         ],
         "videos": [],
@@ -150,15 +194,24 @@
         "photos": [
           {
             "name": "017",
-            "alt": "Weisseefernerlift"
+            "alt": "Weisseefernerlift",
+            "date": "2018-05-06T12:03:52.000+02:00",
+            "width": 1920,
+            "height": 654
           },
           {
             "name": "019",
-            "alt": "Gletscherlift"
+            "alt": "Gletscherlift",
+            "date": "2018-05-06T12:08:25.000+02:00",
+            "width": 1920,
+            "height": 1035
           },
           {
             "name": "020",
-            "alt": "Frühlingsschnee"
+            "alt": "Frühlingsschnee",
+            "date": "2018-05-06T12:11:17.000+02:00",
+            "width": 1920,
+            "height": 1259
           }
         ],
         "videos": [],
@@ -168,7 +221,10 @@
         "photos": [
           {
             "name": "021",
-            "alt": "Panorama Kaunertaler Gletscher"
+            "alt": "Panorama Kaunertaler Gletscher",
+            "date": "2018-05-06T12:13:15.000+02:00",
+            "width": 1920,
+            "height": 619
           }
         ],
         "videos": [],
@@ -178,7 +234,10 @@
         "photos": [
           {
             "name": "022",
-            "alt": "Firnschnee"
+            "alt": "Firnschnee",
+            "date": "2018-05-06T12:15:50.000+02:00",
+            "width": 1920,
+            "height": 1235
           }
         ],
         "videos": [],
@@ -188,7 +247,10 @@
         "photos": [
           {
             "name": "023",
-            "alt": "Falginlift"
+            "alt": "Falginlift",
+            "date": "2018-05-06T12:30:26.000+02:00",
+            "width": 1920,
+            "height": 649
           }
         ],
         "videos": [],
@@ -198,7 +260,10 @@
         "photos": [
           {
             "name": "024",
-            "alt": "Schwarze Piste"
+            "alt": "Schwarze Piste",
+            "date": "2018-05-06T13:08:23.000+02:00",
+            "width": 1920,
+            "height": 1123
           }
         ],
         "videos": [],
@@ -208,7 +273,10 @@
         "photos": [
           {
             "name": "025",
-            "alt": "Kaunertal Mautstraße"
+            "alt": "Kaunertal Mautstraße",
+            "date": "2018-05-06T13:12:49.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -218,7 +286,10 @@
         "photos": [
           {
             "name": "026",
-            "alt": "Skigebiet Kaunertal"
+            "alt": "Skigebiet Kaunertal",
+            "date": "2018-05-06T13:35:53.000+02:00",
+            "width": 1920,
+            "height": 1018
           }
         ],
         "videos": [],
@@ -228,7 +299,10 @@
         "photos": [
           {
             "name": "027",
-            "alt": "Weisssee Gletscher Restaurant"
+            "alt": "Weisssee Gletscher Restaurant",
+            "date": "2018-05-06T13:44:03.000+02:00",
+            "width": 1920,
+            "height": 762
           }
         ],
         "videos": [],
@@ -238,11 +312,17 @@
         "photos": [
           {
             "name": "028",
-            "alt": "Skifahren im Firn"
+            "alt": "Skifahren im Firn",
+            "date": "2018-05-06T13:44:18.000+02:00",
+            "width": 1920,
+            "height": 1626
           },
           {
             "name": "029",
-            "alt": "Glänzender Schnee"
+            "alt": "Glänzender Schnee",
+            "date": "2018-05-06T13:59:04.000+02:00",
+            "width": 1920,
+            "height": 570
           }
         ],
         "videos": [],
@@ -252,7 +332,10 @@
         "photos": [
           {
             "name": "030",
-            "alt": "Ochsenalmbahn"
+            "alt": "Ochsenalmbahn",
+            "date": "2018-05-06T14:26:50.000+02:00",
+            "width": 1920,
+            "height": 778
           }
         ],
         "videos": [],
@@ -262,7 +345,10 @@
         "photos": [
           {
             "name": "031",
-            "alt": "Weisseefernerlifttrasse"
+            "alt": "Weisseefernerlifttrasse",
+            "date": "2018-05-06T14:47:33.000+02:00",
+            "width": 1920,
+            "height": 2323
           }
         ],
         "videos": [],
@@ -272,7 +358,10 @@
         "photos": [
           {
             "name": "032",
-            "alt": "Leere Piste"
+            "alt": "Leere Piste",
+            "date": "2018-05-06T15:01:58.000+02:00",
+            "width": 1920,
+            "height": 949
           }
         ],
         "videos": [],

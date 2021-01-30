@@ -7,8 +7,10 @@
     "shortTitle": "Pizol",
     "title": "Pizol",
     "title3d": {
-      "offsetY": 10.0,
-      "fontSize": 10.0
+      "offsetY": 10,
+      "fontSize": 10,
+      "width": 1920,
+      "height": 568
     },
     "intro": "Endlich gab es diesen Mittwoch mal einen Tag mit sonnigem und stabilem Wetter, so dass ich mich zu einem Skitag in das gut erreichbare Skigebiet von Pizol aufmachte.<br />Um 8:10 erreichte ich den Parkplatz an der Talstation im Rheintal bei Bad Ragaz. Tageskarte kostet werktags 55CHF + 5CHF Parkgebühren. Der Parkplatz war noch ziemlich leer, aber es tummelten sich schon einige Schulklassen dort.",
     "landmarks": [
@@ -16,7 +18,10 @@
         "photos": [
           {
             "name": "001",
-            "alt": "Bergstation Sesselbahn Schwamm"
+            "alt": "Bergstation Sesselbahn Schwamm",
+            "date": "2018-03-14T08:41:07.000+01:00",
+            "width": 1920,
+            "height": 669
           }
         ],
         "videos": [],
@@ -26,7 +31,10 @@
         "photos": [
           {
             "name": "002",
-            "alt": "Sesselbahn Laufböden"
+            "alt": "Sesselbahn Laufböden",
+            "date": "2018-03-14T08:43:52.000+01:00",
+            "width": 1920,
+            "height": 588
           }
         ],
         "videos": [],
@@ -36,15 +44,24 @@
         "photos": [
           {
             "name": "003",
-            "alt": "Blaue Piste See Egg"
+            "alt": "Blaue Piste See Egg",
+            "date": "2018-03-14T08:48:40.000+01:00",
+            "width": 1920,
+            "height": 1097
           },
           {
             "name": "004",
-            "alt": "Skifahren Pizol"
+            "alt": "Skifahren Pizol",
+            "date": "2018-03-14T08:50:13.000+01:00",
+            "width": 1920,
+            "height": 590
           },
           {
             "name": "005",
-            "alt": "Neuschnee auf Skipiste"
+            "alt": "Neuschnee auf Skipiste",
+            "date": "2018-03-14T08:50:31.000+01:00",
+            "width": 1920,
+            "height": 876
           }
         ],
         "videos": [],
@@ -54,7 +71,10 @@
         "photos": [
           {
             "name": "006",
-            "alt": "Gefrorener Baum"
+            "alt": "Gefrorener Baum",
+            "date": "2018-03-14T08:53:18.000+01:00",
+            "width": 1920,
+            "height": 980
           }
         ],
         "videos": [],
@@ -64,11 +84,17 @@
         "photos": [
           {
             "name": "007",
-            "alt": "Sesselbahn vor Quellwolken"
+            "alt": "Sesselbahn vor Quellwolken",
+            "date": "2018-03-14T09:19:26.000+01:00",
+            "width": 1920,
+            "height": 1168
           },
           {
             "name": "008",
-            "alt": "Unberührter Tiefschnee"
+            "alt": "Unberührter Tiefschnee",
+            "date": "2018-03-14T09:20:03.000+01:00",
+            "width": 1920,
+            "height": 802
           }
         ],
         "videos": [],
@@ -78,7 +104,10 @@
         "photos": [
           {
             "name": "009",
-            "alt": "Wildseehorn"
+            "alt": "Wildseehorn",
+            "date": "2018-03-14T09:52:13.000+01:00",
+            "width": 1920,
+            "height": 913
           }
         ],
         "videos": [],
@@ -88,7 +117,10 @@
         "photos": [
           {
             "name": "010",
-            "alt": "Berghotel Gaffia"
+            "alt": "Berghotel Gaffia",
+            "date": "2018-03-14T09:56:56.000+01:00",
+            "width": 1920,
+            "height": 850
           }
         ],
         "videos": [],
@@ -98,7 +130,10 @@
         "photos": [
           {
             "name": "011",
-            "alt": "Skigebiet Pizol"
+            "alt": "Skigebiet Pizol",
+            "date": "2018-03-14T09:59:18.000+01:00",
+            "width": 1920,
+            "height": 862
           }
         ],
         "videos": [],
@@ -108,7 +143,10 @@
         "photos": [
           {
             "name": "012",
-            "alt": "Berghaus Zürihus"
+            "alt": "Berghaus Zürihus",
+            "date": "2018-03-14T10:00:29.000+01:00",
+            "width": 1920,
+            "height": 810
           }
         ],
         "videos": [],
@@ -118,7 +156,10 @@
         "photos": [
           {
             "name": "013",
-            "alt": "Schlechte Pistenpräparierung"
+            "alt": "Schlechte Pistenpräparierung",
+            "date": "2018-03-14T10:03:51.000+01:00",
+            "width": 1920,
+            "height": 1248
           }
         ],
         "videos": [],
@@ -128,7 +169,10 @@
         "photos": [
           {
             "name": "014",
-            "alt": "Tief verschneite Hütten"
+            "alt": "Tief verschneite Hütten",
+            "date": "2018-03-14T10:22:11.000+01:00",
+            "width": 1920,
+            "height": 851
           }
         ],
         "videos": [],
@@ -138,7 +182,10 @@
         "photos": [
           {
             "name": "015",
-            "alt": "Vergrabenes Haus"
+            "alt": "Vergrabenes Haus",
+            "date": "2018-03-14T10:30:07.000+01:00",
+            "width": 1920,
+            "height": 1377
           }
         ],
         "videos": [],
@@ -148,11 +195,17 @@
         "photos": [
           {
             "name": "016",
-            "alt": "Skipiste"
+            "alt": "Skipiste",
+            "date": "2018-03-14T10:31:17.000+01:00",
+            "width": 1920,
+            "height": 881
           },
           {
             "name": "017",
-            "alt": "Piste Täli"
+            "alt": "Piste Täli",
+            "date": "2018-03-14T10:31:24.000+01:00",
+            "width": 1920,
+            "height": 1032
           }
         ],
         "videos": [],
@@ -162,7 +215,10 @@
         "photos": [
           {
             "name": "018",
-            "alt": "Lawinengefahr"
+            "alt": "Lawinengefahr",
+            "date": "2018-03-14T10:33:56.000+01:00",
+            "width": 1920,
+            "height": 1315
           }
         ],
         "videos": [],
@@ -172,7 +228,10 @@
         "photos": [
           {
             "name": "019",
-            "alt": "Skifahren Pizol"
+            "alt": "Skifahren Pizol",
+            "date": "2018-03-14T10:34:17.000+01:00",
+            "width": 1920,
+            "height": 793
           }
         ],
         "videos": [],
@@ -182,11 +241,17 @@
         "photos": [
           {
             "name": "020",
-            "alt": "SAC Lift"
+            "alt": "SAC Lift",
+            "date": "2018-03-14T12:30:21.000+01:00",
+            "width": 1920,
+            "height": 1079
           },
           {
             "name": "021",
-            "alt": "Skilift"
+            "alt": "Skilift",
+            "date": "2018-03-14T12:32:40.000+01:00",
+            "width": 1920,
+            "height": 802
           }
         ],
         "videos": [],
@@ -196,11 +261,17 @@
         "photos": [
           {
             "name": "022",
-            "alt": "Sargans"
+            "alt": "Sargans",
+            "date": "2018-03-14T12:59:24.000+01:00",
+            "width": 1920,
+            "height": 914
           },
           {
             "name": "023",
-            "alt": "Abfahrt Maienberg"
+            "alt": "Abfahrt Maienberg",
+            "date": "2018-03-14T12:59:31.000+01:00",
+            "width": 1920,
+            "height": 768
           }
         ],
         "videos": [],
@@ -210,7 +281,10 @@
         "photos": [
           {
             "name": "024",
-            "alt": "Viel Schnee auf Dach"
+            "alt": "Viel Schnee auf Dach",
+            "date": "2018-03-14T13:35:40.000+01:00",
+            "width": 1920,
+            "height": 1245
           }
         ],
         "videos": [],
@@ -220,11 +294,17 @@
         "photos": [
           {
             "name": "025",
-            "alt": "Rheintal"
+            "alt": "Rheintal",
+            "date": "2018-03-14T15:41:48.000+01:00",
+            "width": 1920,
+            "height": 568
           },
           {
             "name": "026",
-            "alt": "Maienfeld"
+            "alt": "Maienfeld",
+            "date": "2018-03-14T15:42:10.000+01:00",
+            "width": 1920,
+            "height": 787
           }
         ],
         "videos": [],
@@ -234,7 +314,10 @@
         "photos": [
           {
             "name": "027",
-            "alt": "Sonnenuntergrund Pizol"
+            "alt": "Sonnenuntergrund Pizol",
+            "date": "2018-03-14T16:02:53.000+01:00",
+            "width": 1920,
+            "height": 729
           }
         ],
         "videos": [],
@@ -244,7 +327,10 @@
         "photos": [
           {
             "name": "028",
-            "alt": "Sesselbahn Schwamm"
+            "alt": "Sesselbahn Schwamm",
+            "date": "2018-03-14T16:16:40.000+01:00",
+            "width": 1920,
+            "height": 887
           }
         ],
         "videos": [],

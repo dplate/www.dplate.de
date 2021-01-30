@@ -14,21 +14,32 @@
         "photos": [
           {
             "name": "001",
-            "alt": "Brücke über Bergbach"
+            "alt": "Brücke über Bergbach",
+            "date": "2016-07-09T08:16:11.000+02:00",
+            "width": 1920,
+            "height": 906
           },
           {
             "name": "002",
-            "alt": "Bach mit Steinen"
+            "alt": "Bach mit Steinen",
+            "date": "2016-07-09T08:17:23.000+02:00",
+            "width": 1920,
+            "height": 1388
           }
         ],
-        "videos": [""],
+        "videos": [
+          ""
+        ],
         "text": "Deshalb ging es zuerst über den rauschenden Bach. Da es noch ziemlich bewölkt war, konnte ich mich auch ohne Graufilter an einer längeren Belichtungszeit versuchen."
       },
       {
         "photos": [
           {
             "name": "003",
-            "alt": "Moos"
+            "alt": "Moos",
+            "date": "2016-07-09T08:31:44.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -38,7 +49,10 @@
         "photos": [
           {
             "name": "004",
-            "alt": "Churfirsten in Wolken"
+            "alt": "Churfirsten in Wolken",
+            "date": "2016-07-09T08:39:05.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -48,7 +62,10 @@
         "photos": [
           {
             "name": "005",
-            "alt": "Wanderweg mit Holzstufen"
+            "alt": "Wanderweg mit Holzstufen",
+            "date": "2016-07-09T08:49:08.000+02:00",
+            "width": 1920,
+            "height": 1218
           }
         ],
         "videos": [],
@@ -58,11 +75,17 @@
         "photos": [
           {
             "name": "006",
-            "alt": "Weg über Wiese"
+            "alt": "Weg über Wiese",
+            "date": "2016-07-09T08:52:52.000+02:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "007",
-            "alt": "Bergbach"
+            "alt": "Bergbach",
+            "date": "2016-07-09T09:00:37.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -72,19 +95,31 @@
         "photos": [
           {
             "name": "008",
-            "alt": "Felssturz"
+            "alt": "Felssturz",
+            "date": "2016-07-09T09:04:56.000+02:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "009",
-            "alt": "Abgestorbener Baum vor Fels"
+            "alt": "Abgestorbener Baum vor Fels",
+            "date": "2016-07-09T09:05:22.000+02:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "010",
-            "alt": "Violette Blümchen"
+            "alt": "Violette Blümchen",
+            "date": "2016-07-09T09:05:58.000+02:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "011",
-            "alt": "Kleiner Wasserfall"
+            "alt": "Kleiner Wasserfall",
+            "date": "2016-07-09T09:11:05.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -94,7 +129,10 @@
         "photos": [
           {
             "name": "012",
-            "alt": "Gsponbach"
+            "alt": "Gsponbach",
+            "date": "2016-07-09T09:19:33.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -104,15 +142,24 @@
         "photos": [
           {
             "name": "013",
-            "alt": "Alp mit dunklen Wolken"
+            "alt": "Alp mit dunklen Wolken",
+            "date": "2016-07-09T09:22:14.000+02:00",
+            "width": 1920,
+            "height": 1134
           },
           {
             "name": "014",
-            "alt": "Alpwiese mit Bach"
+            "alt": "Alpwiese mit Bach",
+            "date": "2016-07-09T09:28:11.000+02:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "015",
-            "alt": "Alpweg"
+            "alt": "Alpweg",
+            "date": "2016-07-09T09:50:13.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -122,15 +169,24 @@
         "photos": [
           {
             "name": "016",
-            "alt": "Wanderweg zum Murgseefurggel"
+            "alt": "Wanderweg zum Murgseefurggel",
+            "date": "2016-07-09T10:05:56.000+02:00",
+            "width": 1920,
+            "height": 768
           },
           {
             "name": "018",
-            "alt": "Murgsee Rundweg"
+            "alt": "Murgsee Rundweg",
+            "date": "2016-07-09T10:28:03.000+02:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "019",
-            "alt": "Alpenrosen"
+            "alt": "Alpenrosen",
+            "date": "2016-07-09T10:29:01.000+02:00",
+            "width": 1920,
+            "height": 1032
           }
         ],
         "videos": [],
@@ -140,11 +196,17 @@
         "photos": [
           {
             "name": "020",
-            "alt": "Bach in den Bergen"
+            "alt": "Bach in den Bergen",
+            "date": "2016-07-09T10:29:51.000+02:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "021",
-            "alt": "Holzbrücke über Gebirgsbach"
+            "alt": "Holzbrücke über Gebirgsbach",
+            "date": "2016-07-09T10:38:40.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -154,7 +216,10 @@
         "photos": [
           {
             "name": "023",
-            "alt": "Mürtschenstock"
+            "alt": "Mürtschenstock",
+            "date": "2016-07-09T11:10:06.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -164,7 +229,10 @@
         "photos": [
           {
             "name": "024",
-            "alt": "Alpenrosen"
+            "alt": "Alpenrosen",
+            "date": "2016-07-09T11:14:45.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -174,15 +242,24 @@
         "photos": [
           {
             "name": "025",
-            "alt": "Oberer Murgsee"
+            "alt": "Oberer Murgsee",
+            "date": "2016-07-09T11:30:27.000+02:00",
+            "width": 1920,
+            "height": 717
           },
           {
             "name": "026",
-            "alt": "Murgseehütte"
+            "alt": "Murgseehütte",
+            "date": "2016-07-09T11:38:29.000+02:00",
+            "width": 1920,
+            "height": 871
           },
           {
             "name": "027",
-            "alt": "Alpenrosen am Murgsee"
+            "alt": "Alpenrosen am Murgsee",
+            "date": "2016-07-09T11:52:17.000+02:00",
+            "width": 1920,
+            "height": 1058
           }
         ],
         "videos": [],
@@ -192,11 +269,17 @@
         "photos": [
           {
             "name": "028",
-            "alt": "Blumenwiese am Murgsee"
+            "alt": "Blumenwiese am Murgsee",
+            "date": "2016-07-09T12:02:23.000+02:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "029",
-            "alt": "Insel auf Murgsee"
+            "alt": "Insel auf Murgsee",
+            "date": "2016-07-09T12:07:06.000+02:00",
+            "width": 1920,
+            "height": 970
           }
         ],
         "videos": [],
@@ -206,11 +289,17 @@
         "photos": [
           {
             "name": "030",
-            "alt": "Wanderweg zwischen Murgseen"
+            "alt": "Wanderweg zwischen Murgseen",
+            "date": "2016-07-09T12:07:28.000+02:00",
+            "width": 1920,
+            "height": 791
           },
           {
             "name": "031",
-            "alt": "Staumauer Murgsee"
+            "alt": "Staumauer Murgsee",
+            "date": "2016-07-09T12:11:27.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -220,7 +309,10 @@
         "photos": [
           {
             "name": "033",
-            "alt": "Murgseehütte"
+            "alt": "Murgseehütte",
+            "date": "2016-07-09T12:15:04.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -230,11 +322,17 @@
         "photos": [
           {
             "name": "034",
-            "alt": "Mittlerer Murgsee"
+            "alt": "Mittlerer Murgsee",
+            "date": "2016-07-09T12:17:03.000+02:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "035",
-            "alt": "Mittlerer Murgsee"
+            "alt": "Mittlerer Murgsee",
+            "date": "2016-07-09T12:18:00.000+02:00",
+            "width": 1920,
+            "height": 868
           }
         ],
         "videos": [],
@@ -244,11 +342,17 @@
         "photos": [
           {
             "name": "036",
-            "alt": "Unterer Murgsee"
+            "alt": "Unterer Murgsee",
+            "date": "2016-07-09T12:26:44.000+02:00",
+            "width": 1920,
+            "height": 998
           },
           {
             "name": "037",
-            "alt": "Unterer Murgsee"
+            "alt": "Unterer Murgsee",
+            "date": "2016-07-09T12:26:55.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -258,7 +362,10 @@
         "photos": [
           {
             "name": "039",
-            "alt": "Lila Blume mit Farn"
+            "alt": "Lila Blume mit Farn",
+            "date": "2016-07-09T12:47:17.000+02:00",
+            "width": 1920,
+            "height": 2880
           }
         ],
         "videos": [],
@@ -268,7 +375,10 @@
         "photos": [
           {
             "name": "040",
-            "alt": "Alp unter Felswand"
+            "alt": "Alp unter Felswand",
+            "date": "2016-07-09T12:56:20.000+02:00",
+            "width": 1920,
+            "height": 1245
           }
         ],
         "videos": [],
@@ -278,7 +388,10 @@
         "photos": [
           {
             "name": "041",
-            "alt": "Steile Serpentine"
+            "alt": "Steile Serpentine",
+            "date": "2016-07-09T13:16:48.000+02:00",
+            "width": 1920,
+            "height": 1498
           }
         ],
         "videos": [],
@@ -288,7 +401,10 @@
         "photos": [
           {
             "name": "042",
-            "alt": "Fahrweg zu den Murgseen"
+            "alt": "Fahrweg zu den Murgseen",
+            "date": "2016-07-09T13:40:47.000+02:00",
+            "width": 1920,
+            "height": 858
           }
         ],
         "videos": [],
@@ -298,7 +414,10 @@
         "photos": [
           {
             "name": "043",
-            "alt": "Straße Walensee Murgseen"
+            "alt": "Straße Walensee Murgseen",
+            "date": "2016-07-09T14:13:30.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],

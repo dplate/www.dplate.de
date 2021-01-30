@@ -7,8 +7,10 @@
     "shortTitle": "Obersaxen",
     "title": "Obersaxen - Mundaun",
     "title3d": {
-      "offsetY": 6.0,
-      "fontSize": 8
+      "offsetY": 6,
+      "fontSize": 8,
+      "width": 1920,
+      "height": 728
     },
     "intro": "Seit ich das letzte mal in Skigebiet Obersaxen - Mundaun war, ist schon einige Jahre her. Diesen Samstag beschloss ich aber, die etwas längere Anfahrt mit knapp 2h mal wieder zu machen, da die Schneelage dieses Jahr dort (wie gerade fast überall) sehr gut ist.",
     "landmarks": [
@@ -16,7 +18,10 @@
         "photos": [
           {
             "name": "001",
-            "alt": "Sesselbahn Vella - Triel"
+            "alt": "Sesselbahn Vella - Triel",
+            "date": "2019-02-09T08:45:22.000+01:00",
+            "width": 1920,
+            "height": 662
           }
         ],
         "videos": [],
@@ -26,7 +31,10 @@
         "photos": [
           {
             "name": "002",
-            "alt": "Stein Piz Sezner"
+            "alt": "Stein Piz Sezner",
+            "date": "2019-02-09T09:16:36.000+01:00",
+            "width": 1920,
+            "height": 772
           }
         ],
         "videos": [],
@@ -36,11 +44,17 @@
         "photos": [
           {
             "name": "003",
-            "alt": "Sesselbahn Untermatt - Stein"
+            "alt": "Sesselbahn Untermatt - Stein",
+            "date": "2019-02-09T09:22:43.000+01:00",
+            "width": 1920,
+            "height": 821
           },
           {
             "name": "004",
-            "alt": "Bergstation Stein"
+            "alt": "Bergstation Stein",
+            "date": "2019-02-09T09:43:41.000+01:00",
+            "width": 1920,
+            "height": 1193
           }
         ],
         "videos": [],
@@ -50,11 +64,17 @@
         "photos": [
           {
             "name": "005",
-            "alt": "Piz Mundaun"
+            "alt": "Piz Mundaun",
+            "date": "2019-02-09T09:44:38.000+01:00",
+            "width": 1920,
+            "height": 721
           },
           {
             "name": "006",
-            "alt": "Vella"
+            "alt": "Vella",
+            "date": "2019-02-09T09:52:05.000+01:00",
+            "width": 1920,
+            "height": 978
           }
         ],
         "videos": [],
@@ -64,7 +84,10 @@
         "photos": [
           {
             "name": "007",
-            "alt": "Meierhof"
+            "alt": "Meierhof",
+            "date": "2019-02-09T10:21:20.000+01:00",
+            "width": 1920,
+            "height": 1151
           }
         ],
         "videos": [],
@@ -74,11 +97,17 @@
         "photos": [
           {
             "name": "008",
-            "alt": "Anstehen Untermatt"
+            "alt": "Anstehen Untermatt",
+            "date": "2019-02-09T10:31:31.000+01:00",
+            "width": 1920,
+            "height": 1099
           },
           {
             "name": "009",
-            "alt": "Talstation Untermatt"
+            "alt": "Talstation Untermatt",
+            "date": "2019-02-09T10:37:16.000+01:00",
+            "width": 1920,
+            "height": 1121
           }
         ],
         "videos": [],
@@ -88,11 +117,17 @@
         "photos": [
           {
             "name": "010",
-            "alt": "Abfahrt Stein - Wali"
+            "alt": "Abfahrt Stein - Wali",
+            "date": "2019-02-09T10:47:48.000+01:00",
+            "width": 1920,
+            "height": 606
           },
           {
             "name": "011",
-            "alt": "Sesselbahn Wali - Stein"
+            "alt": "Sesselbahn Wali - Stein",
+            "date": "2019-02-09T10:48:56.000+01:00",
+            "width": 1920,
+            "height": 1110
           }
         ],
         "videos": [],
@@ -102,7 +137,10 @@
         "photos": [
           {
             "name": "012",
-            "alt": "Sesselbahn Piz Sezner"
+            "alt": "Sesselbahn Piz Sezner",
+            "date": "2019-02-09T10:58:25.000+01:00",
+            "width": 1920,
+            "height": 1047
           }
         ],
         "videos": [],
@@ -112,7 +150,10 @@
         "photos": [
           {
             "name": "013",
-            "alt": "Um Su"
+            "alt": "Um Su",
+            "date": "2019-02-09T11:05:19.000+01:00",
+            "width": 1920,
+            "height": 670
           }
         ],
         "videos": [],
@@ -122,11 +163,17 @@
         "photos": [
           {
             "name": "014",
-            "alt": "Winterwandern Obersaxen"
+            "alt": "Winterwandern Obersaxen",
+            "date": "2019-02-09T11:12:09.000+01:00",
+            "width": 1920,
+            "height": 1137
           },
           {
             "name": "015",
-            "alt": "Val Lumnezia"
+            "alt": "Val Lumnezia",
+            "date": "2019-02-09T11:12:16.000+01:00",
+            "width": 1920,
+            "height": 754
           }
         ],
         "videos": [],
@@ -136,7 +183,10 @@
         "photos": [
           {
             "name": "017",
-            "alt": "Hitzeggen"
+            "alt": "Hitzeggen",
+            "date": "2019-02-09T12:12:40.000+01:00",
+            "width": 1920,
+            "height": 1063
           }
         ],
         "videos": [],
@@ -146,7 +196,10 @@
         "photos": [
           {
             "name": "018",
-            "alt": "Plitsches"
+            "alt": "Plitsches",
+            "date": "2019-02-09T12:19:03.000+01:00",
+            "width": 1920,
+            "height": 809
           }
         ],
         "videos": [],
@@ -156,11 +209,17 @@
         "photos": [
           {
             "name": "019",
-            "alt": "Skifahren Obersaxen"
+            "alt": "Skifahren Obersaxen",
+            "date": "2019-02-09T12:24:10.000+01:00",
+            "width": 1920,
+            "height": 894
           },
           {
             "name": "020",
-            "alt": "Piste Sasolas"
+            "alt": "Piste Sasolas",
+            "date": "2019-02-09T12:24:57.000+01:00",
+            "width": 1920,
+            "height": 964
           }
         ],
         "videos": [],
@@ -170,11 +229,17 @@
         "photos": [
           {
             "name": "021",
-            "alt": "Skilift Sasolas"
+            "alt": "Skilift Sasolas",
+            "date": "2019-02-09T12:42:10.000+01:00",
+            "width": 1920,
+            "height": 700
           },
           {
             "name": "022",
-            "alt": "Naturschneepiste"
+            "alt": "Naturschneepiste",
+            "date": "2019-02-09T12:44:30.000+01:00",
+            "width": 1920,
+            "height": 1182
           }
         ],
         "videos": [],
@@ -184,7 +249,10 @@
         "photos": [
           {
             "name": "023",
-            "alt": "Skipiste Piz Mundaun - Triel"
+            "alt": "Skipiste Piz Mundaun - Triel",
+            "date": "2019-02-09T13:32:12.000+01:00",
+            "width": 1920,
+            "height": 812
           }
         ],
         "videos": [],
@@ -194,7 +262,10 @@
         "photos": [
           {
             "name": "024",
-            "alt": "Skipisten Obersaxen"
+            "alt": "Skipisten Obersaxen",
+            "date": "2019-02-09T13:54:54.000+01:00",
+            "width": 1920,
+            "height": 669
           }
         ],
         "videos": [],
@@ -204,11 +275,17 @@
         "photos": [
           {
             "name": "025",
-            "alt": "Misanenga"
+            "alt": "Misanenga",
+            "date": "2019-02-09T14:04:15.000+01:00",
+            "width": 1920,
+            "height": 1360
           },
           {
             "name": "026",
-            "alt": "Sesselbahn Misanenga Untermatt"
+            "alt": "Sesselbahn Misanenga Untermatt",
+            "date": "2019-02-09T14:06:08.000+01:00",
+            "width": 1920,
+            "height": 1092
           }
         ],
         "videos": [],
@@ -218,7 +295,10 @@
         "photos": [
           {
             "name": "027",
-            "alt": "Alp Untermatt"
+            "alt": "Alp Untermatt",
+            "date": "2019-02-09T14:12:10.000+01:00",
+            "width": 1920,
+            "height": 881
           }
         ],
         "videos": [],
@@ -228,15 +308,24 @@
         "photos": [
           {
             "name": "028",
-            "alt": "Wali"
+            "alt": "Wali",
+            "date": "2019-02-09T14:59:57.000+01:00",
+            "width": 1920,
+            "height": 643
           },
           {
             "name": "029",
-            "alt": "Pulverschneepiste"
+            "alt": "Pulverschneepiste",
+            "date": "2019-02-09T15:13:57.000+01:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "030",
-            "alt": "Piste Piz Sezner"
+            "alt": "Piste Piz Sezner",
+            "date": "2019-02-09T15:28:45.000+01:00",
+            "width": 1920,
+            "height": 561
           }
         ],
         "videos": [],
@@ -246,11 +335,17 @@
         "photos": [
           {
             "name": "031",
-            "alt": "Skiabfahrt am Abend"
+            "alt": "Skiabfahrt am Abend",
+            "date": "2019-02-09T15:55:09.000+01:00",
+            "width": 1920,
+            "height": 872
           },
           {
             "name": "032",
-            "alt": "Canorta"
+            "alt": "Canorta",
+            "date": "2019-02-09T15:55:18.000+01:00",
+            "width": 1920,
+            "height": 879
           }
         ],
         "videos": [],
@@ -260,11 +355,17 @@
         "photos": [
           {
             "name": "033",
-            "alt": "Sonnenuntergang mit Schnee"
+            "alt": "Sonnenuntergang mit Schnee",
+            "date": "2019-02-09T15:59:45.000+01:00",
+            "width": 1920,
+            "height": 681
           },
           {
             "name": "034",
-            "alt": "Sonnenuntergang Obersaxen"
+            "alt": "Sonnenuntergang Obersaxen",
+            "date": "2019-02-09T16:02:56.000+01:00",
+            "width": 1920,
+            "height": 870
           }
         ],
         "videos": [],
@@ -274,7 +375,10 @@
         "photos": [
           {
             "name": "035",
-            "alt": "Restaurant Triel"
+            "alt": "Restaurant Triel",
+            "date": "2019-02-09T16:20:41.000+01:00",
+            "width": 1920,
+            "height": 808
           }
         ],
         "videos": [],

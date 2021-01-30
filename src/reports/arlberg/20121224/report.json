@@ -13,7 +13,10 @@
         "photos": [
           {
             "name": "001",
-            "alt": "Pistenplan Sonnenkopf"
+            "alt": "Pistenplan Sonnenkopf",
+            "date": "2012-12-24T08:35:54.000+01:00",
+            "width": 1920,
+            "height": 849
           }
         ],
         "videos": [],
@@ -23,7 +26,10 @@
         "photos": [
           {
             "name": "002",
-            "alt": "Panorama Sonnenkopf"
+            "alt": "Panorama Sonnenkopf",
+            "date": "2012-12-24T09:06:53.000+01:00",
+            "width": 1920,
+            "height": 919
           }
         ],
         "videos": [],
@@ -33,7 +39,10 @@
         "photos": [
           {
             "name": "003",
-            "alt": "Glattingrat"
+            "alt": "Glattingrat",
+            "date": "2012-12-24T09:15:20.000+01:00",
+            "width": 1739,
+            "height": 1080
           }
         ],
         "videos": [],
@@ -43,11 +52,17 @@
         "photos": [
           {
             "name": "004",
-            "alt": "Eisige Piste"
+            "alt": "Eisige Piste",
+            "date": "2012-12-24T09:20:19.000+01:00",
+            "width": 868,
+            "height": 1080
           },
           {
             "name": "005",
-            "alt": "Talabfahrt Sonnenkopf"
+            "alt": "Talabfahrt Sonnenkopf",
+            "date": "2012-12-24T09:27:09.000+01:00",
+            "width": 1041,
+            "height": 1080
           }
         ],
         "videos": [],
@@ -57,7 +72,10 @@
         "photos": [
           {
             "name": "006",
-            "alt": "Riedkopf"
+            "alt": "Riedkopf",
+            "date": "2012-12-24T09:44:30.000+01:00",
+            "width": 1704,
+            "height": 1080
           }
         ],
         "videos": [],
@@ -67,11 +85,17 @@
         "photos": [
           {
             "name": "007",
-            "alt": "Sesselbahn Riedkopf"
+            "alt": "Sesselbahn Riedkopf",
+            "date": "2012-12-24T09:50:21.000+01:00",
+            "width": 1920,
+            "height": 1050
           },
           {
             "name": "008",
-            "alt": "Bergrestaurand Muttjöchle"
+            "alt": "Bergrestaurand Muttjöchle",
+            "date": "2012-12-24T09:51:13.000+01:00",
+            "width": 1920,
+            "height": 1013
           }
         ],
         "videos": [],
@@ -81,11 +105,17 @@
         "photos": [
           {
             "name": "009",
-            "alt": "Sesselbahn vor Sonne"
+            "alt": "Sesselbahn vor Sonne",
+            "date": "2012-12-24T09:53:19.000+01:00",
+            "width": 1440,
+            "height": 1080
           },
           {
             "name": "010",
-            "alt": "Talstation Sesselbahn Riedkopf"
+            "alt": "Talstation Sesselbahn Riedkopf",
+            "date": "2012-12-24T10:01:55.000+01:00",
+            "width": 997,
+            "height": 1080
           }
         ],
         "videos": [],
@@ -95,15 +125,24 @@
         "photos": [
           {
             "name": "011",
-            "alt": "Skilift Riedboden"
+            "alt": "Skilift Riedboden",
+            "date": "2012-12-24T10:02:15.000+01:00",
+            "width": 1440,
+            "height": 1080
           },
           {
             "name": "012",
-            "alt": "Glänzender Tiefschnee"
+            "alt": "Glänzender Tiefschnee",
+            "date": "2012-12-24T10:03:25.000+01:00",
+            "width": 1440,
+            "height": 1080
           },
           {
             "name": "013",
-            "alt": "Tiefschnee nach Regen"
+            "alt": "Tiefschnee nach Regen",
+            "date": "2012-12-24T10:03:33.000+01:00",
+            "width": 1074,
+            "height": 1080
           }
         ],
         "videos": [],
@@ -113,7 +152,10 @@
         "photos": [
           {
             "name": "014",
-            "alt": "Winterwanderweg Sonnenkopf"
+            "alt": "Winterwanderweg Sonnenkopf",
+            "date": "2012-12-24T10:09:50.000+01:00",
+            "width": 1920,
+            "height": 971
           }
         ],
         "videos": [],
@@ -123,7 +165,10 @@
         "photos": [
           {
             "name": "015",
-            "alt": "Bergstation Sonnenkopfbahn"
+            "alt": "Bergstation Sonnenkopfbahn",
+            "date": "2012-12-24T10:11:41.000+01:00",
+            "width": 1440,
+            "height": 1080
           }
         ],
         "videos": [],
@@ -133,11 +178,17 @@
         "photos": [
           {
             "name": "016",
-            "alt": "Skipiste Sonnenkopf"
+            "alt": "Skipiste Sonnenkopf",
+            "date": "2012-12-24T10:33:15.000+01:00",
+            "width": 1865,
+            "height": 1080
           },
           {
             "name": "017",
-            "alt": "Abfahrt Obermuribahn"
+            "alt": "Abfahrt Obermuribahn",
+            "date": "2012-12-24T10:35:15.000+01:00",
+            "width": 1736,
+            "height": 1080
           }
         ],
         "videos": [],
@@ -147,11 +198,17 @@
         "photos": [
           {
             "name": "018",
-            "alt": "Regen im Schnee"
+            "alt": "Regen im Schnee",
+            "date": "2012-12-24T10:39:08.000+01:00",
+            "width": 1920,
+            "height": 923
           },
           {
             "name": "019",
-            "alt": "Skilifte Sonnenkopf"
+            "alt": "Skilifte Sonnenkopf",
+            "date": "2012-12-24T11:08:03.000+01:00",
+            "width": 1920,
+            "height": 998
           }
         ],
         "videos": [],
@@ -161,11 +218,17 @@
         "photos": [
           {
             "name": "020",
-            "alt": "Schwarze Piste 10"
+            "alt": "Schwarze Piste 10",
+            "date": "2012-12-24T11:09:53.000+01:00",
+            "width": 1048,
+            "height": 1080
           },
           {
             "name": "021",
-            "alt": "Schwarze Piste Sonnenkopf"
+            "alt": "Schwarze Piste Sonnenkopf",
+            "date": "2012-12-24T11:13:36.000+01:00",
+            "width": 810,
+            "height": 1080
           }
         ],
         "videos": [],
@@ -175,7 +238,10 @@
         "photos": [
           {
             "name": "022",
-            "alt": "Panorama Glattingrat"
+            "alt": "Panorama Glattingrat",
+            "date": "2012-12-24T11:36:57.000+01:00",
+            "width": 1920,
+            "height": 647
           }
         ],
         "videos": [],
@@ -185,7 +251,10 @@
         "photos": [
           {
             "name": "023",
-            "alt": "Skipiste Glattingrat"
+            "alt": "Skipiste Glattingrat",
+            "date": "2012-12-24T13:30:12.000+01:00",
+            "width": 1077,
+            "height": 1080
           }
         ],
         "videos": [],
@@ -195,7 +264,10 @@
         "photos": [
           {
             "name": "024",
-            "alt": "Talstation Obermoos"
+            "alt": "Talstation Obermoos",
+            "date": "2012-12-24T13:35:11.000+01:00",
+            "width": 1515,
+            "height": 1080
           }
         ],
         "videos": [],
@@ -205,7 +277,10 @@
         "photos": [
           {
             "name": "025",
-            "alt": "Parkplatz Sonnenkopf"
+            "alt": "Parkplatz Sonnenkopf",
+            "date": "2012-12-24T13:44:53.000+01:00",
+            "width": 1440,
+            "height": 1080
           }
         ],
         "videos": [],
@@ -215,7 +290,10 @@
         "photos": [
           {
             "name": "026",
-            "alt": "Mittelstation Sonnenkopfbahn"
+            "alt": "Mittelstation Sonnenkopfbahn",
+            "date": "2012-12-24T13:51:27.000+01:00",
+            "width": 810,
+            "height": 1080
           }
         ],
         "videos": [],
@@ -225,7 +303,10 @@
         "photos": [
           {
             "name": "027",
-            "alt": "Föhnwolken"
+            "alt": "Föhnwolken",
+            "date": "2012-12-24T14:08:49.000+01:00",
+            "width": 1827,
+            "height": 1080
           }
         ],
         "videos": [],
@@ -235,7 +316,10 @@
         "photos": [
           {
             "name": "028",
-            "alt": "Skipiste Riedkopf"
+            "alt": "Skipiste Riedkopf",
+            "date": "2012-12-24T14:20:22.000+01:00",
+            "width": 1920,
+            "height": 1009
           }
         ],
         "videos": [],
@@ -245,7 +329,10 @@
         "photos": [
           {
             "name": "029",
-            "alt": "Föhn"
+            "alt": "Föhn",
+            "date": "2012-12-24T14:24:45.000+01:00",
+            "width": 1920,
+            "height": 762
           }
         ],
         "videos": [],
@@ -255,7 +342,10 @@
         "photos": [
           {
             "name": "030",
-            "alt": "Skigebiet Sonnenkopf"
+            "alt": "Skigebiet Sonnenkopf",
+            "date": "2012-12-24T14:26:09.000+01:00",
+            "width": 1801,
+            "height": 1080
           }
         ],
         "videos": [],

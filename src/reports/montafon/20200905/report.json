@@ -9,9 +9,11 @@
     "shortTitle": "Litznersattel",
     "title": "Silvretta - Litznersattel",
     "title3d": {
-      "offsetY": 2.0,
-      "fontSize": 7.0,
-      "align": "center"
+      "offsetY": 2,
+      "fontSize": 7,
+      "align": "center",
+      "width": 1920,
+      "height": 571
     },
     "intro": "An diesem Samstag wollte ich eine Wanderung im Hochgebirge machen, deshalb suchte ich mir eine Runde von der 2000m hohen Bielerhöhe aus, die durch die Silvretta-Hochalpenstraße mit dem Auto erreicht werden kann.<br />Vor 8:00 fuhr ich die (noch) leere tolle Serpentinenstraße hinauf, nachdem ich die 16,50€ Maut bezahlt hatte.",
     "landmarks": [
@@ -19,7 +21,10 @@
         "photos": [
           {
             "name": "001",
-            "alt": "Restaurant Silvrettasee"
+            "alt": "Restaurant Silvrettasee",
+            "date": "2020-09-05T08:14:45.000+02:00",
+            "width": 1920,
+            "height": 977
           }
         ],
         "videos": [],
@@ -29,11 +34,17 @@
         "photos": [
           {
             "name": "002",
-            "alt": "Madlenerhaus"
+            "alt": "Madlenerhaus",
+            "date": "2020-09-05T08:16:22.000+02:00",
+            "width": 1920,
+            "height": 1152
           },
           {
             "name": "003",
-            "alt": "Staumauer Silvrettasee"
+            "alt": "Staumauer Silvrettasee",
+            "date": "2020-09-05T08:16:41.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -43,7 +54,10 @@
         "photos": [
           {
             "name": "004",
-            "alt": "Bergbach"
+            "alt": "Bergbach",
+            "date": "2020-09-05T08:28:36.000+02:00",
+            "width": 1920,
+            "height": 1261
           }
         ],
         "videos": [],
@@ -53,7 +67,10 @@
         "photos": [
           {
             "name": "005",
-            "alt": "Aufstieg Tschifernella"
+            "alt": "Aufstieg Tschifernella",
+            "date": "2020-09-05T08:50:00.000+02:00",
+            "width": 1920,
+            "height": 1206
           }
         ],
         "videos": [],
@@ -63,7 +80,10 @@
         "photos": [
           {
             "name": "006",
-            "alt": "Silvretta Hochalpenstraße"
+            "alt": "Silvretta Hochalpenstraße",
+            "date": "2020-09-05T09:02:58.000+02:00",
+            "width": 1920,
+            "height": 1080
           }
         ],
         "videos": [],
@@ -73,11 +93,17 @@
         "photos": [
           {
             "name": "007",
-            "alt": "Hochmaderer"
+            "alt": "Hochmaderer",
+            "date": "2020-09-05T09:03:51.000+02:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "008",
-            "alt": "Wanderweg Vermuntstausee"
+            "alt": "Wanderweg Vermuntstausee",
+            "date": "2020-09-05T09:04:59.000+02:00",
+            "width": 1920,
+            "height": 825
           }
         ],
         "videos": [],
@@ -87,7 +113,10 @@
         "photos": [
           {
             "name": "009",
-            "alt": "Wanderweg über Bach"
+            "alt": "Wanderweg über Bach",
+            "date": "2020-09-05T09:10:22.000+02:00",
+            "width": 1920,
+            "height": 2880
           }
         ],
         "videos": [],
@@ -97,7 +126,10 @@
         "photos": [
           {
             "name": "010",
-            "alt": "Vermuntstausee"
+            "alt": "Vermuntstausee",
+            "date": "2020-09-05T09:33:54.000+02:00",
+            "width": 1920,
+            "height": 1118
           }
         ],
         "videos": [],
@@ -107,11 +139,17 @@
         "photos": [
           {
             "name": "011",
-            "alt": "Tschifernella"
+            "alt": "Tschifernella",
+            "date": "2020-09-05T09:34:37.000+02:00",
+            "width": 1920,
+            "height": 1099
           },
           {
             "name": "012",
-            "alt": "Groß Seehorn"
+            "alt": "Groß Seehorn",
+            "date": "2020-09-05T09:45:23.000+02:00",
+            "width": 1920,
+            "height": 801
           }
         ],
         "videos": [],
@@ -121,11 +159,17 @@
         "photos": [
           {
             "name": "013",
-            "alt": "Bergreflektion"
+            "alt": "Bergreflektion",
+            "date": "2020-09-05T09:49:49.000+02:00",
+            "width": 1920,
+            "height": 670
           },
           {
             "name": "014",
-            "alt": "Wanderweg Saarbrücker Hütte"
+            "alt": "Wanderweg Saarbrücker Hütte",
+            "date": "2020-09-05T09:55:08.000+02:00",
+            "width": 1920,
+            "height": 1147
           }
         ],
         "videos": [],
@@ -135,7 +179,10 @@
         "photos": [
           {
             "name": "015",
-            "alt": " Groß Seehorn"
+            "alt": " Groß Seehorn",
+            "date": "2020-09-05T09:57:59.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -145,7 +192,10 @@
         "photos": [
           {
             "name": "016",
-            "alt": "Straße Saarbrücker Hütte"
+            "alt": "Straße Saarbrücker Hütte",
+            "date": "2020-09-05T10:11:13.000+02:00",
+            "width": 1920,
+            "height": 1089
           }
         ],
         "videos": [],
@@ -155,7 +205,10 @@
         "photos": [
           {
             "name": "017",
-            "alt": "Groß Litzner"
+            "alt": "Groß Litzner",
+            "date": "2020-09-05T10:22:37.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -165,7 +218,10 @@
         "photos": [
           {
             "name": "018",
-            "alt": "Saarbrücker Hütte"
+            "alt": "Saarbrücker Hütte",
+            "date": "2020-09-05T10:30:54.000+02:00",
+            "width": 1920,
+            "height": 2880
           }
         ],
         "videos": [],
@@ -175,7 +231,10 @@
         "photos": [
           {
             "name": "019",
-            "alt": "Wegweiser Saarbrücker Hütte"
+            "alt": "Wegweiser Saarbrücker Hütte",
+            "date": "2020-09-05T10:32:34.000+02:00",
+            "width": 1920,
+            "height": 1075
           }
         ],
         "videos": [],
@@ -185,7 +244,10 @@
         "photos": [
           {
             "name": "020",
-            "alt": "Litznergletscher"
+            "alt": "Litznergletscher",
+            "date": "2020-09-05T10:42:54.000+02:00",
+            "width": 1920,
+            "height": 818
           }
         ],
         "videos": [],
@@ -195,7 +257,10 @@
         "photos": [
           {
             "name": "021",
-            "alt": "Wanderweg durch Geröll"
+            "alt": "Wanderweg durch Geröll",
+            "date": "2020-09-05T11:12:51.000+02:00",
+            "width": 1920,
+            "height": 1178
           }
         ],
         "videos": [],
@@ -205,7 +270,10 @@
         "photos": [
           {
             "name": "022",
-            "alt": "Rutschiger Weg"
+            "alt": "Rutschiger Weg",
+            "date": "2020-09-05T11:29:39.000+02:00",
+            "width": 1920,
+            "height": 2434
           }
         ],
         "videos": [],
@@ -215,7 +283,10 @@
         "photos": [
           {
             "name": "023",
-            "alt": "Litznersattel"
+            "alt": "Litznersattel",
+            "date": "2020-09-05T11:34:04.000+02:00",
+            "width": 1920,
+            "height": 767
           }
         ],
         "videos": [],
@@ -225,7 +296,10 @@
         "photos": [
           {
             "name": "024",
-            "alt": "Wegweiser Litznersattel"
+            "alt": "Wegweiser Litznersattel",
+            "date": "2020-09-05T11:40:11.000+02:00",
+            "width": 1920,
+            "height": 1187
           }
         ],
         "videos": [],
@@ -235,7 +309,10 @@
         "photos": [
           {
             "name": "025",
-            "alt": "Litznersattel"
+            "alt": "Litznersattel",
+            "date": "2020-09-05T11:40:45.000+02:00",
+            "width": 1920,
+            "height": 931
           }
         ],
         "videos": [],
@@ -245,7 +322,10 @@
         "photos": [
           {
             "name": "026",
-            "alt": "Aussicht Litznersattel"
+            "alt": "Aussicht Litznersattel",
+            "date": "2020-09-05T11:42:14.000+02:00",
+            "width": 1920,
+            "height": 698
           }
         ],
         "videos": [],
@@ -255,7 +335,10 @@
         "photos": [
           {
             "name": "027",
-            "alt": "See Litznersattel"
+            "alt": "See Litznersattel",
+            "date": "2020-09-05T12:04:20.000+02:00",
+            "width": 1920,
+            "height": 1122
           }
         ],
         "videos": [],
@@ -265,7 +348,10 @@
         "photos": [
           {
             "name": "028",
-            "alt": "Wanderung Litznersattel"
+            "alt": "Wanderung Litznersattel",
+            "date": "2020-09-05T12:08:07.000+02:00",
+            "width": 1920,
+            "height": 955
           }
         ],
         "videos": [],
@@ -275,7 +361,10 @@
         "photos": [
           {
             "name": "029",
-            "alt": "Schneeglocke"
+            "alt": "Schneeglocke",
+            "date": "2020-09-05T12:10:42.000+02:00",
+            "width": 1920,
+            "height": 638
           }
         ],
         "videos": [],
@@ -285,7 +374,10 @@
         "photos": [
           {
             "name": "030",
-            "alt": "Geröll"
+            "alt": "Geröll",
+            "date": "2020-09-05T12:28:14.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -295,11 +387,17 @@
         "photos": [
           {
             "name": "031",
-            "alt": "Wanderung Silvretta Stausee"
+            "alt": "Wanderung Silvretta Stausee",
+            "date": "2020-09-05T12:28:31.000+02:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "032",
-            "alt": "Wanderweg Litznersattel"
+            "alt": "Wanderweg Litznersattel",
+            "date": "2020-09-05T12:40:11.000+02:00",
+            "width": 1920,
+            "height": 1015
           }
         ],
         "videos": [],
@@ -309,7 +407,10 @@
         "photos": [
           {
             "name": "033",
-            "alt": "Steiler Weg Litznersattel"
+            "alt": "Steiler Weg Litznersattel",
+            "date": "2020-09-05T12:54:30.000+02:00",
+            "width": 1920,
+            "height": 1511
           }
         ],
         "videos": [],
@@ -319,7 +420,10 @@
         "photos": [
           {
             "name": "034",
-            "alt": "Schwierigkeit Litznersattel"
+            "alt": "Schwierigkeit Litznersattel",
+            "date": "2020-09-05T12:59:34.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -329,7 +433,10 @@
         "photos": [
           {
             "name": "035",
-            "alt": "Steiler Aufstieg Litznersattel"
+            "alt": "Steiler Aufstieg Litznersattel",
+            "date": "2020-09-05T13:04:24.000+02:00",
+            "width": 1920,
+            "height": 1845
           }
         ],
         "videos": [],
@@ -339,15 +446,24 @@
         "photos": [
           {
             "name": "036",
-            "alt": "Klostertal"
+            "alt": "Klostertal",
+            "date": "2020-09-05T13:11:20.000+02:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "037",
-            "alt": "Klostertäler Bach"
+            "alt": "Klostertäler Bach",
+            "date": "2020-09-05T13:13:36.000+02:00",
+            "width": 1920,
+            "height": 906
           },
           {
             "name": "038",
-            "alt": "Gebirgsbach"
+            "alt": "Gebirgsbach",
+            "date": "2020-09-05T13:14:57.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -357,15 +473,24 @@
         "photos": [
           {
             "name": "039",
-            "alt": "Bach durch Geröllfeld"
+            "alt": "Bach durch Geröllfeld",
+            "date": "2020-09-05T13:19:02.000+02:00",
+            "width": 1920,
+            "height": 1226
           },
           {
             "name": "040",
-            "alt": "Wasserfall"
+            "alt": "Wasserfall",
+            "date": "2020-09-05T13:33:44.000+02:00",
+            "width": 1920,
+            "height": 912
           },
           {
             "name": "041",
-            "alt": "Wanderung Klostertal"
+            "alt": "Wanderung Klostertal",
+            "date": "2020-09-05T14:05:15.000+02:00",
+            "width": 1920,
+            "height": 1182
           }
         ],
         "videos": [],
@@ -375,7 +500,10 @@
         "photos": [
           {
             "name": "042",
-            "alt": "Klostertal im Sommer"
+            "alt": "Klostertal im Sommer",
+            "date": "2020-09-05T14:17:52.000+02:00",
+            "width": 1920,
+            "height": 830
           }
         ],
         "videos": [],
@@ -385,7 +513,10 @@
         "photos": [
           {
             "name": "043",
-            "alt": "Holzsteg über Fluss"
+            "alt": "Holzsteg über Fluss",
+            "date": "2020-09-05T14:28:06.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -395,11 +526,17 @@
         "photos": [
           {
             "name": "044",
-            "alt": "Reißender Bach"
+            "alt": "Reißender Bach",
+            "date": "2020-09-05T14:34:19.000+02:00",
+            "width": 1920,
+            "height": 1189
           },
           {
             "name": "045",
-            "alt": "Zufluss Silvretta Stausee"
+            "alt": "Zufluss Silvretta Stausee",
+            "date": "2020-09-05T14:37:18.000+02:00",
+            "width": 1920,
+            "height": 1107
           }
         ],
         "videos": [],
@@ -409,7 +546,10 @@
         "photos": [
           {
             "name": "046",
-            "alt": "Wanderung Silvretta Stausee"
+            "alt": "Wanderung Silvretta Stausee",
+            "date": "2020-09-05T14:39:05.000+02:00",
+            "width": 1920,
+            "height": 936
           }
         ],
         "videos": [],
@@ -419,7 +559,10 @@
         "photos": [
           {
             "name": "047",
-            "alt": "Rundweg Silvretta Stausee"
+            "alt": "Rundweg Silvretta Stausee",
+            "date": "2020-09-05T14:44:26.000+02:00",
+            "width": 1920,
+            "height": 788
           }
         ],
         "videos": [],
@@ -429,11 +572,17 @@
         "photos": [
           {
             "name": "048",
-            "alt": "Ochsental"
+            "alt": "Ochsental",
+            "date": "2020-09-05T15:02:06.000+02:00",
+            "width": 1920,
+            "height": 1181
           },
           {
             "name": "049",
-            "alt": "Piz Buin"
+            "alt": "Piz Buin",
+            "date": "2020-09-05T15:08:02.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -443,7 +592,10 @@
         "photos": [
           {
             "name": "050",
-            "alt": "Silvretta Stausee"
+            "alt": "Silvretta Stausee",
+            "date": "2020-09-05T15:33:48.000+02:00",
+            "width": 1920,
+            "height": 1120
           }
         ],
         "videos": [],

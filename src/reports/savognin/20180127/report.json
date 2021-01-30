@@ -7,7 +7,9 @@
     "title": "Savognin",
     "title3d": {
       "offsetY": 11.5,
-      "fontSize": 8.5
+      "fontSize": 8.5,
+      "width": 1920,
+      "height": 664
     },
     "intro": "Nach den starken Schneefällen der letzten zwei Wochen sind die Schneebedingungen über 1800m überall hervoragend. Da im Januar und Februar an Wochenenden mit schönem Wetter in den näherliegenden Skigebieten immer sehr viel Betrieb ist, bin ich diesen Samstag etwas weiter bis nach Savognin gefahren.<br />Nach knappen 2h Anfahrt stellte ich mein Auto in der Nähe der Talstation ab (nur die Parkplätze direkt am Lift sind kostenpflichtig). Die Tageskarte kostet 57CHF.",
     "landmarks": [
@@ -15,7 +17,10 @@
         "photos": [
           {
             "name": "001",
-            "alt": "Savognin am Morgen"
+            "alt": "Savognin am Morgen",
+            "date": "2018-01-27T08:38:26.000+01:00",
+            "width": 1920,
+            "height": 1206
           }
         ],
         "videos": [],
@@ -25,7 +30,10 @@
         "photos": [
           {
             "name": "002",
-            "alt": "Piz Martegnas"
+            "alt": "Piz Martegnas",
+            "date": "2018-01-27T09:02:59.000+01:00",
+            "width": 1920,
+            "height": 904
           }
         ],
         "videos": [],
@@ -35,7 +43,10 @@
         "photos": [
           {
             "name": "003",
-            "alt": "Sonnenaufgang Savognin"
+            "alt": "Sonnenaufgang Savognin",
+            "date": "2018-01-27T09:06:09.000+01:00",
+            "width": 1920,
+            "height": 626
           }
         ],
         "videos": [],
@@ -45,7 +56,10 @@
         "photos": [
           {
             "name": "004",
-            "alt": "Skipisten Piz Martegnas"
+            "alt": "Skipisten Piz Martegnas",
+            "date": "2018-01-27T09:17:58.000+01:00",
+            "width": 1920,
+            "height": 941
           }
         ],
         "videos": [],
@@ -55,7 +69,10 @@
         "photos": [
           {
             "name": "005",
-            "alt": "FIS Abfahrt Savognin"
+            "alt": "FIS Abfahrt Savognin",
+            "date": "2018-01-27T09:22:45.000+01:00",
+            "width": 1920,
+            "height": 650
           }
         ],
         "videos": [],
@@ -65,7 +82,10 @@
         "photos": [
           {
             "name": "006",
-            "alt": "Skigebiet Savognin"
+            "alt": "Skigebiet Savognin",
+            "date": "2018-01-27T09:46:13.000+01:00",
+            "width": 1920,
+            "height": 658
           }
         ],
         "videos": [],
@@ -75,7 +95,10 @@
         "photos": [
           {
             "name": "007",
-            "alt": "Skipiste Savognin"
+            "alt": "Skipiste Savognin",
+            "date": "2018-01-27T09:47:44.000+01:00",
+            "width": 1920,
+            "height": 664
           }
         ],
         "videos": [],
@@ -85,7 +108,10 @@
         "photos": [
           {
             "name": "008",
-            "alt": "Skilift Piz Cartas"
+            "alt": "Skilift Piz Cartas",
+            "date": "2018-01-27T09:55:41.000+01:00",
+            "width": 1920,
+            "height": 744
           }
         ],
         "videos": [],
@@ -95,7 +121,10 @@
         "photos": [
           {
             "name": "009",
-            "alt": "Abfahrt Piz Cartas"
+            "alt": "Abfahrt Piz Cartas",
+            "date": "2018-01-27T10:03:22.000+01:00",
+            "width": 1920,
+            "height": 769
           }
         ],
         "videos": [],
@@ -105,11 +134,17 @@
         "photos": [
           {
             "name": "010",
-            "alt": "Skipiste Crap Farreras"
+            "alt": "Skipiste Crap Farreras",
+            "date": "2018-01-27T10:36:05.000+01:00",
+            "width": 1920,
+            "height": 955
           },
           {
             "name": "011",
-            "alt": "Skifahren Naladas"
+            "alt": "Skifahren Naladas",
+            "date": "2018-01-27T10:37:50.000+01:00",
+            "width": 1920,
+            "height": 746
           }
         ],
         "videos": [],
@@ -119,15 +154,24 @@
         "photos": [
           {
             "name": "012",
-            "alt": "Lai Lung"
+            "alt": "Lai Lung",
+            "date": "2018-01-27T11:07:12.000+01:00",
+            "width": 1920,
+            "height": 1025
           },
           {
             "name": "013",
-            "alt": "Piste 10b"
+            "alt": "Piste 10b",
+            "date": "2018-01-27T11:08:06.000+01:00",
+            "width": 1920,
+            "height": 951
           },
           {
             "name": "014",
-            "alt": "Schöne Skipiste"
+            "alt": "Schöne Skipiste",
+            "date": "2018-01-27T11:10:44.000+01:00",
+            "width": 1920,
+            "height": 865
           }
         ],
         "videos": [],
@@ -137,7 +181,10 @@
         "photos": [
           {
             "name": "015",
-            "alt": "Verschneite Alp Siedlung"
+            "alt": "Verschneite Alp Siedlung",
+            "date": "2018-01-27T11:12:54.000+01:00",
+            "width": 1920,
+            "height": 1114
           }
         ],
         "videos": [],
@@ -147,19 +194,31 @@
         "photos": [
           {
             "name": "016",
-            "alt": "Kurvenlift Laritg"
+            "alt": "Kurvenlift Laritg",
+            "date": "2018-01-27T11:58:03.000+01:00",
+            "width": 1920,
+            "height": 826
           },
           {
             "name": "017",
-            "alt": "Skipiste Laritg"
+            "alt": "Skipiste Laritg",
+            "date": "2018-01-27T11:59:39.000+01:00",
+            "width": 1920,
+            "height": 768
           },
           {
             "name": "018",
-            "alt": "Skilift Laritg"
+            "alt": "Skilift Laritg",
+            "date": "2018-01-27T12:00:30.000+01:00",
+            "width": 1920,
+            "height": 956
           },
           {
             "name": "019",
-            "alt": "Altmodische Skigebiet"
+            "alt": "Altmodische Skigebiet",
+            "date": "2018-01-27T12:10:29.000+01:00",
+            "width": 1920,
+            "height": 761
           }
         ],
         "videos": [],
@@ -169,7 +228,10 @@
         "photos": [
           {
             "name": "020",
-            "alt": "Steile Piste"
+            "alt": "Steile Piste",
+            "date": "2018-01-27T12:32:50.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -179,7 +241,10 @@
         "photos": [
           {
             "name": "021",
-            "alt": "Malerische Skipiste"
+            "alt": "Malerische Skipiste",
+            "date": "2018-01-27T12:37:58.000+01:00",
+            "width": 1920,
+            "height": 1039
           }
         ],
         "videos": [],
@@ -189,7 +254,10 @@
         "photos": [
           {
             "name": "022",
-            "alt": "Roggis Baizli"
+            "alt": "Roggis Baizli",
+            "date": "2018-01-27T12:41:21.000+01:00",
+            "width": 1920,
+            "height": 1173
           }
         ],
         "videos": [],
@@ -199,7 +267,10 @@
         "photos": [
           {
             "name": "023",
-            "alt": "Tigignas"
+            "alt": "Tigignas",
+            "date": "2018-01-27T12:42:58.000+01:00",
+            "width": 1920,
+            "height": 884
           }
         ],
         "videos": [],
@@ -209,7 +280,10 @@
         "photos": [
           {
             "name": "024",
-            "alt": "Winterpanorama"
+            "alt": "Winterpanorama",
+            "date": "2018-01-27T13:00:55.000+01:00",
+            "width": 1920,
+            "height": 936
           }
         ],
         "videos": [],
@@ -219,7 +293,10 @@
         "photos": [
           {
             "name": "025",
-            "alt": "Skipiste an Felswand"
+            "alt": "Skipiste an Felswand",
+            "date": "2018-01-27T13:15:06.000+01:00",
+            "width": 1920,
+            "height": 987
           }
         ],
         "videos": [],
@@ -229,7 +306,10 @@
         "photos": [
           {
             "name": "026",
-            "alt": "Breite leere Piste nach Radons"
+            "alt": "Breite leere Piste nach Radons",
+            "date": "2018-01-27T13:20:07.000+01:00",
+            "width": 1920,
+            "height": 779
           }
         ],
         "videos": [],
@@ -239,7 +319,10 @@
         "photos": [
           {
             "name": "027",
-            "alt": "Heuschober im Schnee"
+            "alt": "Heuschober im Schnee",
+            "date": "2018-01-27T13:21:29.000+01:00",
+            "width": 1920,
+            "height": 974
           }
         ],
         "videos": [],
@@ -249,7 +332,10 @@
         "photos": [
           {
             "name": "028",
-            "alt": "Skilift Radons"
+            "alt": "Skilift Radons",
+            "date": "2018-01-27T13:21:51.000+01:00",
+            "width": 1920,
+            "height": 645
           }
         ],
         "videos": [],
@@ -259,7 +345,10 @@
         "photos": [
           {
             "name": "029",
-            "alt": "Tgeps"
+            "alt": "Tgeps",
+            "date": "2018-01-27T13:32:59.000+01:00",
+            "width": 1920,
+            "height": 839
           }
         ],
         "videos": [],
@@ -269,7 +358,10 @@
         "photos": [
           {
             "name": "030",
-            "alt": "Doppelskilift"
+            "alt": "Doppelskilift",
+            "date": "2018-01-27T13:37:30.000+01:00",
+            "width": 1920,
+            "height": 1213
           }
         ],
         "videos": [],
@@ -279,7 +371,10 @@
         "photos": [
           {
             "name": "031",
-            "alt": "Trasse Radons"
+            "alt": "Trasse Radons",
+            "date": "2018-01-27T13:45:11.000+01:00",
+            "width": 1920,
+            "height": 1004
           }
         ],
         "videos": [],
@@ -289,7 +384,10 @@
         "photos": [
           {
             "name": "032",
-            "alt": "Radons"
+            "alt": "Radons",
+            "date": "2018-01-27T13:48:16.000+01:00",
+            "width": 1920,
+            "height": 952
           }
         ],
         "videos": [],
@@ -299,7 +397,10 @@
         "photos": [
           {
             "name": "033",
-            "alt": "Val Curtegns"
+            "alt": "Val Curtegns",
+            "date": "2018-01-27T14:17:52.000+01:00",
+            "width": 1920,
+            "height": 1046
           }
         ],
         "videos": [],
@@ -309,7 +410,10 @@
         "photos": [
           {
             "name": "034",
-            "alt": "Restaurant Steil Alva"
+            "alt": "Restaurant Steil Alva",
+            "date": "2018-01-27T14:18:23.000+01:00",
+            "width": 1920,
+            "height": 1270
           }
         ],
         "videos": [],
@@ -319,7 +423,10 @@
         "photos": [
           {
             "name": "035",
-            "alt": "Bergstation Piz Cartas"
+            "alt": "Bergstation Piz Cartas",
+            "date": "2018-01-27T14:36:07.000+01:00",
+            "width": 1920,
+            "height": 349
           }
         ],
         "videos": [],
@@ -329,7 +436,10 @@
         "photos": [
           {
             "name": "036",
-            "alt": "Piz Ela"
+            "alt": "Piz Ela",
+            "date": "2018-01-27T14:44:09.000+01:00",
+            "width": 1920,
+            "height": 700
           }
         ],
         "videos": [],
@@ -339,7 +449,10 @@
         "photos": [
           {
             "name": "037",
-            "alt": "Sonnenuntergang im Skilift"
+            "alt": "Sonnenuntergang im Skilift",
+            "date": "2018-01-27T15:02:48.000+01:00",
+            "width": 1920,
+            "height": 592
           }
         ],
         "videos": [],
@@ -349,7 +462,10 @@
         "photos": [
           {
             "name": "038",
-            "alt": "Skilift Piz Cartas"
+            "alt": "Skilift Piz Cartas",
+            "date": "2018-01-27T15:30:53.000+01:00",
+            "width": 1920,
+            "height": 591
           }
         ],
         "videos": [],
@@ -359,7 +475,10 @@
         "photos": [
           {
             "name": "039",
-            "alt": "Panorama Piz Cartas"
+            "alt": "Panorama Piz Cartas",
+            "date": "2018-01-27T16:03:58.000+01:00",
+            "width": 1920,
+            "height": 367
           }
         ],
         "videos": [],
@@ -369,15 +488,24 @@
         "photos": [
           {
             "name": "040",
-            "alt": "Skipiste im Sonnenuntergang"
+            "alt": "Skipiste im Sonnenuntergang",
+            "date": "2018-01-27T16:07:08.000+01:00",
+            "width": 1920,
+            "height": 611
           },
           {
             "name": "041",
-            "alt": "Scargneras"
+            "alt": "Scargneras",
+            "date": "2018-01-27T16:10:38.000+01:00",
+            "width": 1920,
+            "height": 706
           },
           {
             "name": "042",
-            "alt": "Skipiste zwischen zwei Hütten"
+            "alt": "Skipiste zwischen zwei Hütten",
+            "date": "2018-01-27T16:12:10.000+01:00",
+            "width": 1920,
+            "height": 1101
           }
         ],
         "videos": [],
@@ -387,7 +515,10 @@
         "photos": [
           {
             "name": "043",
-            "alt": "Tigia"
+            "alt": "Tigia",
+            "date": "2018-01-27T16:18:52.000+01:00",
+            "width": 1920,
+            "height": 724
           }
         ],
         "videos": [],
@@ -397,7 +528,10 @@
         "photos": [
           {
             "name": "044",
-            "alt": "Talabfahrt Savognin"
+            "alt": "Talabfahrt Savognin",
+            "date": "2018-01-27T16:26:16.000+01:00",
+            "width": 1920,
+            "height": 1125
           }
         ],
         "videos": [],

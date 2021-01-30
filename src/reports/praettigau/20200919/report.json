@@ -9,8 +9,10 @@
     "title": "Klosters - Älpeltispitz",
     "title3d": {
       "offsetY": 6,
-      "fontSize": 8.0,
-      "align": "center"
+      "fontSize": 8,
+      "align": "center",
+      "width": 1920,
+      "height": 607
     },
     "intro": "Auf der Karte hatte ich nach einem schönen Gipfel mit Wanderweg Ausschau gehalten und dabei die fast 2700m hohe Älpeltispitz nahe Klosters entdeckt. Also fuhr ich an diesem Septembersamstag früh los - auch um den angekündigten Wolken zuvor zu kommen.",
     "landmarks": [
@@ -18,7 +20,10 @@
         "photos": [
           {
             "name": "001",
-            "alt": "Parkplatz Klosters Talbach"
+            "alt": "Parkplatz Klosters Talbach",
+            "date": "2020-09-19T07:57:45.000+02:00",
+            "width": 1920,
+            "height": 1074
           }
         ],
         "text": "Den kleinen Gratisparkplatz unterhalb der Sturzbach/Lawinenverbauung des Talbachs in der Nähe des Restaurants Alpenrösli erreichte ich somit schon vor 8:00.<br />Der Parkplatz liegt günstig bereits 200 Höhenmeter oberhalb von Klosters am Hang der Älpeltispitz. Ansonsten müsste man die steile einspurige Straße vom Ort hochlaufen."
@@ -27,7 +32,10 @@
         "photos": [
           {
             "name": "002",
-            "alt": "Hütte Klosters"
+            "alt": "Hütte Klosters",
+            "date": "2020-09-19T08:15:38.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "text": "Da ich möglichst früh auf dem Gipfel sein wollte, wählte ich für den Aufstieg den direkteren Weg Richtung Westen.<br />Zuerst auf einem Waldweg recht zügig rund 250m den Hang hinauf - einzige Abwechslung dieses Ferienhaus."
@@ -36,11 +44,17 @@
         "photos": [
           {
             "name": "003",
-            "alt": "Fliegenpilz"
+            "alt": "Fliegenpilz",
+            "date": "2020-09-19T08:39:05.000+02:00",
+            "width": 1920,
+            "height": 1138
           },
           {
             "name": "004",
-            "alt": "Eichhörnchen"
+            "alt": "Eichhörnchen",
+            "date": "2020-09-19T08:39:55.000+02:00",
+            "width": 1920,
+            "height": 1330
           }
         ],
         "text": "Dann hörte der Feldweg aber auf und es ging in einigen Serpentinen auf einem normalen Wanderweg den Wald hinauf. Dabei gab es sehr viele Pilze und auch ein Eichhörnchen zu entdecken."
@@ -49,15 +63,24 @@
         "photos": [
           {
             "name": "005",
-            "alt": "Wanderweg im Schatten"
+            "alt": "Wanderweg im Schatten",
+            "date": "2020-09-19T08:57:11.000+02:00",
+            "width": 1920,
+            "height": 826
           },
           {
             "name": "006",
-            "alt": "Prättigau"
+            "alt": "Prättigau",
+            "date": "2020-09-19T08:58:06.000+02:00",
+            "width": 1920,
+            "height": 1202
           },
           {
             "name": "007",
-            "alt": "Bergweg"
+            "alt": "Bergweg",
+            "date": "2020-09-19T09:04:39.000+02:00",
+            "width": 1920,
+            "height": 2611
           }
         ],
         "text": "Ein paar hundert Meter weiter oben erreichte ich langsam die Baumgrenze und der Weg wurde aussichtsreicher, z.B. in das Prättigau Richtung Rhein."
@@ -66,15 +89,24 @@
         "photos": [
           {
             "name": "008",
-            "alt": "Klosters im Herbst"
+            "alt": "Klosters im Herbst",
+            "date": "2020-09-19T09:16:52.000+02:00",
+            "width": 1920,
+            "height": 891
           },
           {
             "name": "009",
-            "alt": "Steiler Hangweg"
+            "alt": "Steiler Hangweg",
+            "date": "2020-09-19T09:21:46.000+02:00",
+            "width": 1920,
+            "height": 877
           },
           {
             "name": "010",
-            "alt": "Wanderweg Klosters"
+            "alt": "Wanderweg Klosters",
+            "date": "2020-09-19T09:24:32.000+02:00",
+            "width": 1920,
+            "height": 1215
           }
         ],
         "text": "Dann quert der Wanderweg den (für mich) zu abschüssigen Hang Tressaura. Der Weg zum Teil schmal... eigentlich kein Problem, aber es ging halt rechts 800m hinunter."
@@ -83,14 +115,24 @@
         "photos": [
           {
             "name": "011",
-            "alt": "Tressaura"
+            "alt": "Tressaura",
+            "date": "2020-09-19T09:31:02.000+02:00",
+            "width": 1920,
+            "height": 759
           },
           {
             "name": "012",
-            "alt": "Gotschnagrat"
-          },{
+            "alt": "Gotschnagrat",
+            "date": "2020-09-19T09:33:07.000+02:00",
+            "width": 1920,
+            "height": 1280
+          },
+          {
             "name": "013",
-            "alt": "Bergtour Schweiz"
+            "alt": "Bergtour Schweiz",
+            "date": "2020-09-19T09:43:02.000+02:00",
+            "width": 1920,
+            "height": 1197
           }
         ],
         "text": "Ich war auf jeden Fall froh, als ich aus dem Steilhang raus war und es flacher wurde. Außerdem erreichte ich nun die Sonne, was die Landschaft auch etwas freundlicher machte."
@@ -99,7 +141,10 @@
         "photos": [
           {
             "name": "014",
-            "alt": "Älpelti"
+            "alt": "Älpelti",
+            "date": "2020-09-19T09:44:35.000+02:00",
+            "width": 1920,
+            "height": 711
           }
         ],
         "text": "So ging es nun weiter: Über dieses zugewachsene Geröllfeld (laut Karte ist dies das Älpelti) auf den 2500m hohen Grat in der Mitte. Dann den Grat nach rechts hinauf zur Älpeltispitz (die auf diese Foto ziemlich flach aussieht)."
@@ -108,7 +153,10 @@
         "photos": [
           {
             "name": "015",
-            "alt": "Bergkämme im Dunst"
+            "alt": "Bergkämme im Dunst",
+            "date": "2020-09-19T10:16:19.000+02:00",
+            "width": 1920,
+            "height": 987
           }
         ],
         "text": "Obwohl es an diesem Tag leider ziemlich dunstig war, eine Teleaufnahme über die vielen Gräte und Täler westlich von Davos."
@@ -117,7 +165,10 @@
         "photos": [
           {
             "name": "016",
-            "alt": "Wanderweg Älpeltispitz"
+            "alt": "Wanderweg Älpeltispitz",
+            "date": "2020-09-19T10:21:46.000+02:00",
+            "width": 1920,
+            "height": 857
           }
         ],
         "text": "Nachdem es über das Älpelti etwas flacher war, ging es das letzte Stück zum Grat doch wieder steiler rauf. Aber relativ harmlos und gut zu gehen - nur hatte ich jetzt schon 1000 Höhenmeter in den Beinen, so ging es nicht mehr sehr flott.<br />Links kann man übrigens den Gotschnagrat von Klosters sehen, der nun bereits recht mickrig wirkte."
@@ -126,7 +177,10 @@
         "photos": [
           {
             "name": "017",
-            "alt": "Chessigrat"
+            "alt": "Chessigrat",
+            "date": "2020-09-19T10:32:00.000+02:00",
+            "width": 1920,
+            "height": 559
           }
         ],
         "text": "Ankunft auf dem Grat und der neue Blick auf die Rückseite. Der Buckel links ist der Chessigrat/Kessigrat, den ich noch auf meinem Rückweg überwinden werde.<br />Eine kurze Pause war nun notwendig, um genug Kraft für die letzten 150m Aufstieg zum Gipfel zu sammeln."
@@ -135,7 +189,10 @@
         "photos": [
           {
             "name": "018",
-            "alt": "Gipfelweg Älpeltispitz"
+            "alt": "Gipfelweg Älpeltispitz",
+            "date": "2020-09-19T10:32:57.000+02:00",
+            "width": 1920,
+            "height": 1185
           }
         ],
         "text": "Und hier kann man den weiteren Weg zum Gipfel sehen."
@@ -144,7 +201,10 @@
         "photos": [
           {
             "name": "019",
-            "alt": "Klosters von oben"
+            "alt": "Klosters von oben",
+            "date": "2020-09-19T10:41:04.000+02:00",
+            "width": 1920,
+            "height": 1054
           }
         ],
         "text": "Während des Aufstieg gibt es tolle Tiefblicke zum 1400m tieferen Davos."
@@ -153,7 +213,10 @@
         "photos": [
           {
             "name": "020",
-            "alt": "Wanderweg durch Geröll"
+            "alt": "Wanderweg durch Geröll",
+            "date": "2020-09-19T10:45:57.000+02:00",
+            "width": 1920,
+            "height": 2443
           }
         ],
         "text": "Vor dem Gipfel wird es dann geröllig und ganz am Ende auch so steil, dass ich die Hände zur Hilfe nehmen musste."
@@ -162,7 +225,10 @@
         "photos": [
           {
             "name": "021",
-            "alt": "Silvrettagletscher"
+            "alt": "Silvrettagletscher",
+            "date": "2020-09-19T11:00:17.000+02:00",
+            "width": 1920,
+            "height": 1115
           }
         ],
         "text": "Ankunft auf dem breiten Gipfelgrat nach 3h und 1200m Aufstieg um 11:00.<br />Tele zum leider dunstigen Silvrettagletscher und dem Piz Buin."
@@ -171,7 +237,10 @@
         "photos": [
           {
             "name": "022",
-            "alt": "Gipfel Älpeltispitz"
+            "alt": "Gipfel Älpeltispitz",
+            "date": "2020-09-19T11:00:49.000+02:00",
+            "width": 1920,
+            "height": 634
           }
         ],
         "text": "Blick von der einen Seite des Gipfels hinüber zum eigentlich höchsten Punkt."
@@ -180,7 +249,10 @@
         "photos": [
           {
             "name": "023",
-            "alt": "Vereinatal"
+            "alt": "Vereinatal",
+            "date": "2020-09-19T11:01:49.000+02:00",
+            "width": 1920,
+            "height": 695
           }
         ],
         "text": "Und noch einmal ohne Tele die Aussicht nach Westen in das Vereinatal hinein. Rechts ist das <a href='/alpine/davos/20190811' target='_blank'>Pischahorn</a> zu sehen."
@@ -189,7 +261,10 @@
         "photos": [
           {
             "name": "024",
-            "alt": "Davos Klosters"
+            "alt": "Davos Klosters",
+            "date": "2020-09-19T11:02:17.000+02:00",
+            "width": 1920,
+            "height": 607
           }
         ],
         "text": "Als nächstes der Blick nach Süden nach Davos - unten Klosters. Die angekündigten Wolken waren zwar am Horizont erkennbar, kamen aber nur sehr langsam näher."
@@ -198,7 +273,10 @@
         "photos": [
           {
             "name": "025",
-            "alt": "Gipfelbuch Älpeltispitz"
+            "alt": "Gipfelbuch Älpeltispitz",
+            "date": "2020-09-19T11:06:21.000+02:00",
+            "width": 1920,
+            "height": 622
           }
         ],
         "text": "Nun aber am eigentlichen Gipfel der Älpeltispitz. Kein richtiges Gipfelkreuz, aber Gipfelbuch und Steinmännchen sind vorhanden."
@@ -207,7 +285,10 @@
         "photos": [
           {
             "name": "026",
-            "alt": "Schlappiner Joch"
+            "alt": "Schlappiner Joch",
+            "date": "2020-09-19T11:08:17.000+02:00",
+            "width": 1920,
+            "height": 1170
           }
         ],
         "text": "Tele über das <a href='/alpine/gargellen/20150822' target='_blank'>Schlappiner Joch</a> hinüber nach Österreich und Gargellen. Dahinter die weißliche <a href='/alpine/praettigau/20141012' target='_blank'>Sulzfluh</a>."
@@ -216,11 +297,17 @@
         "photos": [
           {
             "name": "027",
-            "alt": "Panorama Älpeltispitz"
+            "alt": "Panorama Älpeltispitz",
+            "date": "2020-09-19T11:17:52.000+02:00",
+            "width": 1920,
+            "height": 714
           },
           {
             "name": "028",
-            "alt": "Steinmännchen"
+            "alt": "Steinmännchen",
+            "date": "2020-09-19T11:18:11.000+02:00",
+            "width": 1920,
+            "height": 2880
           }
         ],
         "text": "Noch zwei Aufnahmen des Steinmännchen mit dekorativer Quellwolke. Dahinter der Berg und das Skigebiet Madrisa."
@@ -229,7 +316,10 @@
         "photos": [
           {
             "name": "029",
-            "alt": "Schlappintal"
+            "alt": "Schlappintal",
+            "date": "2020-09-19T11:22:38.000+02:00",
+            "width": 1920,
+            "height": 840
           }
         ],
         "text": "Fehlt noch der Blick in das einsame Schlappintal, das hinter der Älpeltispitz versteckt ist."
@@ -238,7 +328,10 @@
         "photos": [
           {
             "name": "030",
-            "alt": "Davos"
+            "alt": "Davos",
+            "date": "2020-09-19T11:22:54.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "text": "Eine weitere dunstige Teleaufnahme, diesmal von Davos.<br />Dann machte ich mich wieder auf den Abstieg vom Gipfel, bei dem ich dann auch den ersten anderen Wanderern des Tages begegnete - es war alles sehr einsam dort. Bis zu der Stelle, an der ich den Grat erreicht hatte, ging es auf dem gleichen Weg zurück."
@@ -247,7 +340,10 @@
         "photos": [
           {
             "name": "031",
-            "alt": "Miesboden"
+            "alt": "Miesboden",
+            "date": "2020-09-19T11:55:44.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "text": "Dann biegt der Weg nach Norden ab und es geht recht einfach 200 Höhenmeter durch etwas Geröll bergab."
@@ -256,11 +352,17 @@
         "photos": [
           {
             "name": "032",
-            "alt": "Bi den Seewjenen"
+            "alt": "Bi den Seewjenen",
+            "date": "2020-09-19T12:02:21.000+02:00",
+            "width": 1920,
+            "height": 871
           },
           {
             "name": "033",
-            "alt": "Klosters Bergsee"
+            "alt": "Klosters Bergsee",
+            "date": "2020-09-19T12:06:49.000+02:00",
+            "width": 1920,
+            "height": 701
           }
         ],
         "text": "Bis zu diesem kleinen namenlosen Bergsee auf 2300m geht es herunter. Dort befindet sich eine Wegkreuzung, bei der man entweder weiter in das Schlappintal absteigen kann oder nach Westen abbiegt, um zur Kessihütte auf den Chessigrat aufzusteigen. Letzteres war mein Weg."
@@ -269,11 +371,17 @@
         "photos": [
           {
             "name": "034",
-            "alt": "Hochgebirgswanderung"
+            "alt": "Hochgebirgswanderung",
+            "date": "2020-09-19T12:35:07.000+02:00",
+            "width": 1920,
+            "height": 803
           },
           {
             "name": "035",
-            "alt": "Älpeltispitz"
+            "alt": "Älpeltispitz",
+            "date": "2020-09-19T12:41:00.000+02:00",
+            "width": 1920,
+            "height": 755
           }
         ],
         "text": "Der Aufstieg auf den Chessigrat ist von dieser Seite einfach. Jeweils hier der Blick zurück zum See. Und von dort war auch endlich die Älpeltispitz richtig zu sehen."
@@ -282,11 +390,17 @@
         "photos": [
           {
             "name": "036",
-            "alt": "Kessihütte"
+            "alt": "Kessihütte",
+            "date": "2020-09-19T12:42:10.000+02:00",
+            "width": 1920,
+            "height": 1069
           },
           {
             "name": "037",
-            "alt": "Chessihütte"
+            "alt": "Chessihütte",
+            "date": "2020-09-19T12:43:38.000+02:00",
+            "width": 1920,
+            "height": 1262
           }
         ],
         "text": "Ankunft an der 2450m hoch gelegenen unbewirtschafteten Kessihütte um 12:45.<br />Im Winter ist dort wahrscheinlich etwas mehr Betrieb, da sie vom Skiclub Madrisa unterhalten wird."
@@ -295,7 +409,10 @@
         "photos": [
           {
             "name": "038",
-            "alt": "Tiefblick Kessigrat"
+            "alt": "Tiefblick Kessigrat",
+            "date": "2020-09-19T12:44:24.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "text": "Tiefblick von der Hütte nach Davos. Unten am Bildrand bei dem kreisrunden Lawinenwall hatte ich das Auto abgestellt. Bis dort musste ich nun also hinunter."
@@ -304,7 +421,10 @@
         "photos": [
           {
             "name": "039",
-            "alt": "Gratweg Kessigrat"
+            "alt": "Gratweg Kessigrat",
+            "date": "2020-09-19T12:51:00.000+02:00",
+            "width": 1920,
+            "height": 1130
           }
         ],
         "text": "Hier kann man die erste Hälfte des nun folgenden Abstiegs erkennen. Erst ziemlich steil von der Hütte zum Grat und anschließend flacher den Grat entlang bis zur Versitspitz (die nur vom Tal aus gesehen, ein Gipfel ist)."
@@ -313,7 +433,10 @@
         "photos": [
           {
             "name": "040",
-            "alt": "Gotschnagrat"
+            "alt": "Gotschnagrat",
+            "date": "2020-09-19T12:57:14.000+02:00",
+            "width": 1920,
+            "height": 810
           }
         ],
         "text": "Noch einmal der Blick hinüber zum Gotschnagrat."
@@ -322,7 +445,10 @@
         "photos": [
           {
             "name": "041",
-            "alt": "Wegweiser Ober Cun"
+            "alt": "Wegweiser Ober Cun",
+            "date": "2020-09-19T13:06:44.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "text": "Der erste Abstieg nach Ober Cun war etwas knifflig. Zwar nicht gefährlich, aber das lose Gestein war ziemlich abgerutscht und der Weg ohne Serpentinen. Aufwärts wäre es definitiv besser gewesen.<br />Bei Ober Cun teilt sich wieder der Weg und man könnte alternativ in den Schlappintobel absteigen."
@@ -331,7 +457,10 @@
         "photos": [
           {
             "name": "042",
-            "alt": "Wanderung Kessigrat Älpeltispitz"
+            "alt": "Wanderung Kessigrat Älpeltispitz",
+            "date": "2020-09-19T13:19:11.000+02:00",
+            "width": 1920,
+            "height": 874
           }
         ],
         "text": "Blick zurück. Links der Kessigrat, rechts die Älpeltispitz."
@@ -340,15 +469,24 @@
         "photos": [
           {
             "name": "043",
-            "alt": "Gratwanderung"
+            "alt": "Gratwanderung",
+            "date": "2020-09-19T13:27:28.000+02:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "044",
-            "alt": "Wanderung Versitspitz"
+            "alt": "Wanderung Versitspitz",
+            "date": "2020-09-19T13:29:06.000+02:00",
+            "width": 1920,
+            "height": 700
           },
           {
             "name": "045",
-            "alt": "Uriger Weg"
+            "alt": "Uriger Weg",
+            "date": "2020-09-19T13:31:33.000+02:00",
+            "width": 1920,
+            "height": 1055
           }
         ],
         "text": "Nun folgte der schönste Abschnitt der Wanderung. Auf dem breiten Grat von Ober Cun zur Versitspitz."
@@ -357,7 +495,10 @@
         "photos": [
           {
             "name": "046",
-            "alt": "Versitspitz"
+            "alt": "Versitspitz",
+            "date": "2020-09-19T13:33:05.000+02:00",
+            "width": 1920,
+            "height": 1572
           }
         ],
         "text": "Pause auf der Versitspitz mit dem steilen Blick hinab nach Klosters. Wie gesagt: kein Gipfel, sondern einfach nur der Punkt, nach dem es wieder steiler bergab geht."
@@ -366,7 +507,10 @@
         "photos": [
           {
             "name": "047",
-            "alt": "Wanderung Versitspitz"
+            "alt": "Wanderung Versitspitz",
+            "date": "2020-09-19T13:47:35.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "text": "Und es ging dann auch gleich ordentlich steil bergab. Aber zum Glück nicht zu ausgesetzt und der Weg mit vielen Kurven originell angelegt."
@@ -375,7 +519,10 @@
         "photos": [
           {
             "name": "048",
-            "alt": "Steiler Aufstieg"
+            "alt": "Steiler Aufstieg",
+            "date": "2020-09-19T13:57:04.000+02:00",
+            "width": 1920,
+            "height": 2492
           }
         ],
         "text": "Dann wurde mir der Weg (auf jeden Fall für den Abstieg) doch etwas zu steil. Hier der Blick zurück zur steilsten Stelle. Das Fotos bringt es nicht rüber, aber es war schwierig zu gehen und ich war langsam ziemlich kaputt. Auch heizte die Sonne sogar für den Abstieg zuviel ein."
@@ -384,7 +531,10 @@
         "photos": [
           {
             "name": "049",
-            "alt": "Carmils"
+            "alt": "Carmils",
+            "date": "2020-09-19T14:15:18.000+02:00",
+            "width": 1920,
+            "height": 1068
           }
         ],
         "text": "Irgendwann tauchte der Weg dann in Wald ein und wurde zumindest etwas flacher. Dort erreichte ich auch die kleine Schutzhütte Carmils auf 1900m Höhe. Eine Bank wartete dort für eine weitere Pause."
@@ -393,15 +543,24 @@
         "photos": [
           {
             "name": "050",
-            "alt": "Holzpilz"
+            "alt": "Holzpilz",
+            "date": "2020-09-19T14:26:22.000+02:00",
+            "width": 1920,
+            "height": 2440
           },
           {
             "name": "051",
-            "alt": "Fliegenpilz"
+            "alt": "Fliegenpilz",
+            "date": "2020-09-19T14:29:33.000+02:00",
+            "width": 1920,
+            "height": 1239
           },
           {
             "name": "052",
-            "alt": "kleiner Fliegenpilz"
+            "alt": "kleiner Fliegenpilz",
+            "date": "2020-09-19T14:33:22.000+02:00",
+            "width": 1920,
+            "height": 1302
           }
         ],
         "text": "Auch nach der Hütte ging es weiter harmlos, aber steil durch den Wald hinunter. Vorbei an Pilzen aus Holz, aber auch echten Fliegenpilzen."
@@ -410,7 +569,10 @@
         "photos": [
           {
             "name": "053",
-            "alt": "Waldweg"
+            "alt": "Waldweg",
+            "date": "2020-09-19T14:57:47.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "text": "Auf 1700m mündet der Wanderweg dann auf diesen schönen, schmalen Forstweg. Ich war schon recht froh, dass es nun nur noch sanft bergab ging."
@@ -419,11 +581,17 @@
         "photos": [
           {
             "name": "054",
-            "alt": "Alp oberhalb Klosters"
+            "alt": "Alp oberhalb Klosters",
+            "date": "2020-09-19T15:19:12.000+02:00",
+            "width": 1920,
+            "height": 838
           },
           {
             "name": "055",
-            "alt": "Alpenrösli"
+            "alt": "Alpenrösli",
+            "date": "2020-09-19T15:24:25.000+02:00",
+            "width": 1920,
+            "height": 971
           }
         ],
         "text": "Nach zwei langen Serpentinen erreichte ich dann die Zivilisation und das Hotel/Restaurant Alpenrösli. Von dort dann nur noch ein paar Meter zum Auto, das ich gegen 15:30 erreichte."

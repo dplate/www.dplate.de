@@ -7,8 +7,10 @@
     "shortTitle": "Flumserberg",
     "title": "Flumserberg",
     "title3d": {
-      "offsetY": 6.0,
-      "fontSize": 7
+      "offsetY": 6,
+      "fontSize": 7,
+      "width": 1920,
+      "height": 506
     },
     "intro": "Am Vortag gab es in den Bergen viel frischen Aprilschnee bis weit hinab. Da die Wettervorsage nicht eindeutig schönes Wetter vorhersagte, wählte ich für diesen Freitag ein Skigebiet, bei dem man auch bei nicht so gutem Wetter Spaß haben kann. Deshalb war ich pünktlich um 8:00 auf dem total leeren Parkplatz in Tannenheim. Tageskarte kostete trotz letzter Saisonwoche noch 58CHF, aber es war auch noch fast alles in Betrieb.",
     "landmarks": [
@@ -16,7 +18,10 @@
         "photos": [
           {
             "name": "001",
-            "alt": "Talabfahrt Tannenheim"
+            "alt": "Talabfahrt Tannenheim",
+            "date": "2019-04-05T08:11:04.000+02:00",
+            "width": 1920,
+            "height": 848
           }
         ],
         "videos": [],
@@ -26,7 +31,10 @@
         "photos": [
           {
             "name": "002",
-            "alt": "Prodalp Express"
+            "alt": "Prodalp Express",
+            "date": "2019-04-05T08:35:04.000+02:00",
+            "width": 1920,
+            "height": 1149
           }
         ],
         "videos": [],
@@ -36,7 +44,10 @@
         "photos": [
           {
             "name": "003",
-            "alt": "Skipiste Prodkamm"
+            "alt": "Skipiste Prodkamm",
+            "date": "2019-04-05T08:50:36.000+02:00",
+            "width": 1920,
+            "height": 1000
           }
         ],
         "videos": [],
@@ -46,11 +57,17 @@
         "photos": [
           {
             "name": "004",
-            "alt": "Abfahrt Twärchamm"
+            "alt": "Abfahrt Twärchamm",
+            "date": "2019-04-05T09:08:36.000+02:00",
+            "width": 1920,
+            "height": 646
           },
           {
             "name": "005",
-            "alt": "Verbindungspiste Flumserberg"
+            "alt": "Verbindungspiste Flumserberg",
+            "date": "2019-04-05T09:08:56.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -60,7 +77,10 @@
         "photos": [
           {
             "name": "006",
-            "alt": "Sesselbahn Chrüz"
+            "alt": "Sesselbahn Chrüz",
+            "date": "2019-04-05T09:13:34.000+02:00",
+            "width": 1920,
+            "height": 771
           }
         ],
         "videos": [],
@@ -70,11 +90,17 @@
         "photos": [
           {
             "name": "007",
-            "alt": "Sächsmoor"
+            "alt": "Sächsmoor",
+            "date": "2019-04-05T10:25:02.000+02:00",
+            "width": 1920,
+            "height": 1155
           },
           {
             "name": "008",
-            "alt": "Churfirsten im Nebelmeer"
+            "alt": "Churfirsten im Nebelmeer",
+            "date": "2019-04-05T10:25:12.000+02:00",
+            "width": 1920,
+            "height": 882
           }
         ],
         "videos": [],
@@ -84,7 +110,10 @@
         "photos": [
           {
             "name": "009",
-            "alt": "Sesselbahn vor Nebelmeer"
+            "alt": "Sesselbahn vor Nebelmeer",
+            "date": "2019-04-05T10:25:48.000+02:00",
+            "width": 1920,
+            "height": 1154
           }
         ],
         "videos": [],
@@ -94,7 +123,10 @@
         "photos": [
           {
             "name": "010",
-            "alt": "Leist Breitmantelpiste"
+            "alt": "Leist Breitmantelpiste",
+            "date": "2019-04-05T10:34:28.000+02:00",
+            "width": 1920,
+            "height": 1047
           }
         ],
         "videos": [],
@@ -104,7 +136,10 @@
         "photos": [
           {
             "name": "011",
-            "alt": "Skifahren Leist"
+            "alt": "Skifahren Leist",
+            "date": "2019-04-05T10:48:31.000+02:00",
+            "width": 1920,
+            "height": 873
           }
         ],
         "videos": [],
@@ -114,7 +149,10 @@
         "photos": [
           {
             "name": "012",
-            "alt": "Nebelfluss"
+            "alt": "Nebelfluss",
+            "date": "2019-04-05T10:56:00.000+02:00",
+            "width": 1920,
+            "height": 787
           }
         ],
         "videos": [],
@@ -124,7 +162,10 @@
         "photos": [
           {
             "name": "013",
-            "alt": "Skipiste Leist"
+            "alt": "Skipiste Leist",
+            "date": "2019-04-05T11:05:05.000+02:00",
+            "width": 1920,
+            "height": 815
           }
         ],
         "videos": [],
@@ -134,7 +175,10 @@
         "photos": [
           {
             "name": "014",
-            "alt": "Restaurant Hotel Seebenalp im Winter"
+            "alt": "Restaurant Hotel Seebenalp im Winter",
+            "date": "2019-04-05T11:08:52.000+02:00",
+            "width": 1920,
+            "height": 976
           }
         ],
         "videos": [],
@@ -144,7 +188,10 @@
         "photos": [
           {
             "name": "015",
-            "alt": "Einfache Piste Flumserberg"
+            "alt": "Einfache Piste Flumserberg",
+            "date": "2019-04-05T11:16:53.000+02:00",
+            "width": 1920,
+            "height": 973
           }
         ],
         "videos": [],
@@ -154,7 +201,10 @@
         "photos": [
           {
             "name": "016",
-            "alt": "Gipfel Leist"
+            "alt": "Gipfel Leist",
+            "date": "2019-04-05T12:12:13.000+02:00",
+            "width": 1920,
+            "height": 845
           }
         ],
         "videos": [],
@@ -164,7 +214,10 @@
         "photos": [
           {
             "name": "017",
-            "alt": "Nebelmeer"
+            "alt": "Nebelmeer",
+            "date": "2019-04-05T12:12:54.000+02:00",
+            "width": 1920,
+            "height": 929
           }
         ],
         "videos": [],
@@ -174,7 +227,10 @@
         "photos": [
           {
             "name": "018",
-            "alt": "Panorama Leist"
+            "alt": "Panorama Leist",
+            "date": "2019-04-05T12:13:11.000+02:00",
+            "width": 1920,
+            "height": 588
           }
         ],
         "videos": [],
@@ -184,7 +240,10 @@
         "photos": [
           {
             "name": "019",
-            "alt": "Hochfläche Fursch"
+            "alt": "Hochfläche Fursch",
+            "date": "2019-04-05T12:13:47.000+02:00",
+            "width": 1920,
+            "height": 795
           }
         ],
         "videos": [],
@@ -194,7 +253,10 @@
         "photos": [
           {
             "name": "020",
-            "alt": "Grat vor Nebelmeer"
+            "alt": "Grat vor Nebelmeer",
+            "date": "2019-04-05T12:14:30.000+02:00",
+            "width": 1920,
+            "height": 1130
           }
         ],
         "videos": [],
@@ -204,7 +266,10 @@
         "photos": [
           {
             "name": "021",
-            "alt": "Südabfahrt Leist"
+            "alt": "Südabfahrt Leist",
+            "date": "2019-04-05T13:27:37.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -214,11 +279,17 @@
         "photos": [
           {
             "name": "022",
-            "alt": "Sessellift an Nebelgrenze"
+            "alt": "Sessellift an Nebelgrenze",
+            "date": "2019-04-05T13:55:36.000+02:00",
+            "width": 1920,
+            "height": 1156
           },
           {
             "name": "023",
-            "alt": "Sesselbahn Prodkamm"
+            "alt": "Sesselbahn Prodkamm",
+            "date": "2019-04-05T13:55:51.000+02:00",
+            "width": 1920,
+            "height": 780
           }
         ],
         "videos": [],
@@ -228,7 +299,10 @@
         "photos": [
           {
             "name": "024",
-            "alt": "Sesselbahn Panüöl"
+            "alt": "Sesselbahn Panüöl",
+            "date": "2019-04-05T14:04:24.000+02:00",
+            "width": 1920,
+            "height": 1060
           }
         ],
         "videos": [],
@@ -238,7 +312,10 @@
         "photos": [
           {
             "name": "025",
-            "alt": "HäxäWäldli"
+            "alt": "HäxäWäldli",
+            "date": "2019-04-05T14:35:59.000+02:00",
+            "width": 1920,
+            "height": 2668
           }
         ],
         "videos": [],
@@ -248,7 +325,10 @@
         "photos": [
           {
             "name": "026",
-            "alt": "Mürtschenstock"
+            "alt": "Mürtschenstock",
+            "date": "2019-04-05T15:13:23.000+02:00",
+            "width": 1920,
+            "height": 744
           }
         ],
         "videos": [],
@@ -258,7 +338,10 @@
         "photos": [
           {
             "name": "027",
-            "alt": "Prodkamm im Winter"
+            "alt": "Prodkamm im Winter",
+            "date": "2019-04-05T15:45:37.000+02:00",
+            "width": 1920,
+            "height": 725
           }
         ],
         "videos": [],
@@ -268,7 +351,10 @@
         "photos": [
           {
             "name": "028",
-            "alt": "Skifahren im Nebel"
+            "alt": "Skifahren im Nebel",
+            "date": "2019-04-05T15:50:03.000+02:00",
+            "width": 1920,
+            "height": 2071
           }
         ],
         "videos": [],
@@ -278,7 +364,10 @@
         "photos": [
           {
             "name": "029",
-            "alt": "Alte Gondelbahn Maschgenkamm"
+            "alt": "Alte Gondelbahn Maschgenkamm",
+            "date": "2019-04-05T15:50:46.000+02:00",
+            "width": 1920,
+            "height": 1207
           }
         ],
         "videos": [],
@@ -288,11 +377,17 @@
         "photos": [
           {
             "name": "030",
-            "alt": "Bösplangpiste"
+            "alt": "Bösplangpiste",
+            "date": "2019-04-05T16:09:50.000+02:00",
+            "width": 1920,
+            "height": 2880
           },
           {
             "name": "031",
-            "alt": "Skipisten Flumserberg"
+            "alt": "Skipisten Flumserberg",
+            "date": "2019-04-05T16:09:55.000+02:00",
+            "width": 1920,
+            "height": 931
           }
         ],
         "videos": [],
@@ -302,11 +397,17 @@
         "photos": [
           {
             "name": "032",
-            "alt": "Spitzmeilen über Nebel"
+            "alt": "Spitzmeilen über Nebel",
+            "date": "2019-04-05T16:28:04.000+02:00",
+            "width": 1920,
+            "height": 720
           },
           {
             "name": "033",
-            "alt": "Spitzmeilenhütte"
+            "alt": "Spitzmeilenhütte",
+            "date": "2019-04-05T16:28:18.000+02:00",
+            "width": 1920,
+            "height": 1292
           }
         ],
         "videos": [],
@@ -316,7 +417,10 @@
         "photos": [
           {
             "name": "034",
-            "alt": "Schlittelbahn Prodalp"
+            "alt": "Schlittelbahn Prodalp",
+            "date": "2019-04-05T16:41:18.000+02:00",
+            "width": 1920,
+            "height": 1110
           }
         ],
         "videos": [],

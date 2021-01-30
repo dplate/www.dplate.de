@@ -1,7 +1,6 @@
 import React from 'react'
 import { Helmet } from 'react-helmet'
 import styled from 'styled-components'
-import { EXIF } from '../external/exif-js/exif'
 import Map from '../components/map'
 import Title3D from '../components/title3d'
 import {videoWrapperStyle, videoContainerStyle} from '../styles/basestyle.js'
@@ -93,18 +92,9 @@ class Report extends React.Component {
       focus: undefined
     };
     this.scrollHandler = this.scrollHandler.bind(this);
-    this.enableScrollHandler = this.enableScrollHandler.bind(this);
   }
 
   componentDidMount() {
-    this.retrieveImageDates();
-  }
-
-  componentWillUnmount() {
-    window.removeEventListener('scroll', this.scrollHandler);
-  }
-
-  enableScrollHandler() {
     if (window.location.hash !== '') {
       window.location.href = window.location.hash;
     }
@@ -112,34 +102,8 @@ class Report extends React.Component {
     this.scrollHandler();
   }
 
-  retrieveImageDate(image) {
-    const self = this;
-    EXIF.getData(image, function() {
-      const exifDate = EXIF.getTag(this, 'DateTimeOriginal');
-      if (exifDate) {
-        const [date, time] = exifDate.split(' ');
-        image.setAttribute('data-time', date.replace(/:/g, '-') + 'T' + time);
-      }
-      self.images.push(image);
-      self.images.sort((image1, image2) => image1.offsetTop - image2.offsetTop);
-      if (self.images.length >= self.requiredImages.length) {
-        self.enableScrollHandler();
-      }
-    });
-  }
-
-  retrieveImageDates() {
-    this.images = [];
-    this.requiredImages = [];
-    const imgElements = document.querySelectorAll('.landmark img');
-    for (let i=0, image=null; (image = imgElements[i]); i++) {
-      this.requiredImages.push(image);
-      if (image.complete) {
-        this.retrieveImageDate(image);
-      } else {
-        image.onload = this.retrieveImageDate.bind(this, image);
-      }
-    }
+  componentWillUnmount() {
+    window.removeEventListener('scroll', this.scrollHandler);
   }
 
   changeHash(id) {
@@ -162,14 +126,15 @@ class Report extends React.Component {
   }
 
   scrollHandler() {
-    if (this.images.length > 0) {
-      if (window.pageYOffset < this.images[0].offsetTop ) {
+    const images = document.querySelectorAll('.landmark img');
+    if (images.length > 0) {
+      if (window.pageYOffset < images[0].offsetTop ) {
         this.setState({time: 'start'});
         this.changeHash();
         return;
       }
 
-      if (window.pageYOffset > this.images[this.images.length - 1].offsetTop + 500 ) {
+      if (window.pageYOffset > images[images.length - 1].offsetTop + 500 ) {
         this.setState({time: 'end'});
         this.changeHash();
         return;
@@ -178,11 +143,11 @@ class Report extends React.Component {
       let time;
       let id = null;
       let minDistance = Number.MAX_SAFE_INTEGER;
-      this.images.forEach((image) => {
+      images.forEach((image) => {
         const distance = Math.abs(window.pageYOffset  - image.offsetTop);
         if (distance < minDistance) {
           minDistance = distance;
-          time = image.getAttribute('data-time');
+          time = image.getAttribute('data-date');
           id = image.getAttribute('id');
         }
       });
@@ -217,6 +182,7 @@ class Report extends React.Component {
         id={fileName}
         src={photoPath}
         alt={photo.alt}
+        data-date={photo.date}
         className={this.state.focus === photo ? 'focus' : undefined}
         onClick={this.toggleFocus.bind(this, photo)}
       />
@@ -328,7 +294,7 @@ export const pageQuery = graphql`
       },
       intro, 
       landmarks {
-        photos {name, alt}, 
+        photos {name, alt, date}, 
         videos, 
         text
       }, 

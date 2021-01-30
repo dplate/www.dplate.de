@@ -9,9 +9,11 @@
     "shortTitle": "Versalspitze",
     "title": "Tafamunt - Versalspitze",
     "title3d": {
-      "offsetY": 4.0,
+      "offsetY": 4,
       "fontSize": 8.3,
-      "align": "left"
+      "align": "left",
+      "width": 1920,
+      "height": 543
     },
     "intro": "Schon länger wollte ich eine richtige Wanderung im Montafon unternehmen, wo ich sonst immer nur zum Skifahren hingehe. Ich suchte mir für diesen Oktobersamstag aber nicht eines der bekannten Gebiete wie das Hochjoch aus, sondern die Versalspitze am Ende des Montafon-Tals weit oberhalb von Partenen. Um aus dem tiefen Tal hinauszukommen, fährt im Sommer die Tafamunt-Seilbahn, die passenderweise an diesem Wochenende ihr letztes Saisonwochende hatte.<br />Ich war etwas zu früh an der Talstation in Partenen, aber nach dem ich die Berg- und Talfahrt für (recht günstige) 12,60€ gekauft hatte, fuhr sie bereits 10min früher um 8:20 mit drei anderen Wanderern hinauf.",
     "landmarks": [
@@ -19,7 +21,10 @@
         "photos": [
           {
             "name": "001",
-            "alt": "Tafamuntbahn"
+            "alt": "Tafamuntbahn",
+            "date": "2019-10-26T08:33:01.000+02:00",
+            "width": 1920,
+            "height": 2432
           }
         ],
         "videos": [],
@@ -29,7 +34,10 @@
         "photos": [
           {
             "name": "002",
-            "alt": "Bergstation Tafamunt"
+            "alt": "Bergstation Tafamunt",
+            "date": "2019-10-26T08:34:37.000+02:00",
+            "width": 1920,
+            "height": 852
           }
         ],
         "videos": [],
@@ -39,7 +47,10 @@
         "photos": [
           {
             "name": "003",
-            "alt": "Europatreppe"
+            "alt": "Europatreppe",
+            "date": "2019-10-26T08:41:21.000+02:00",
+            "width": 1920,
+            "height": 2108
           }
         ],
         "videos": [],
@@ -49,7 +60,10 @@
         "photos": [
           {
             "name": "004",
-            "alt": "Befestigter Wanderweg"
+            "alt": "Befestigter Wanderweg",
+            "date": "2019-10-26T08:43:05.000+02:00",
+            "width": 1920,
+            "height": 2616
           }
         ],
         "videos": [],
@@ -59,15 +73,24 @@
         "photos": [
           {
             "name": "005",
-            "alt": "Felsenweg Versalspitze"
+            "alt": "Felsenweg Versalspitze",
+            "date": "2019-10-26T08:44:02.000+02:00",
+            "width": 1920,
+            "height": 1206
           },
           {
             "name": "006",
-            "alt": "Sonnenaufgang Montafon"
+            "alt": "Sonnenaufgang Montafon",
+            "date": "2019-10-26T08:45:30.000+02:00",
+            "width": 1920,
+            "height": 1350
           },
           {
             "name": "007",
-            "alt": "Warmes Licht im Wald"
+            "alt": "Warmes Licht im Wald",
+            "date": "2019-10-26T08:58:32.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -77,7 +100,10 @@
         "photos": [
           {
             "name": "008",
-            "alt": "Schwierigkeit Versalspitze"
+            "alt": "Schwierigkeit Versalspitze",
+            "date": "2019-10-26T09:06:01.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -87,7 +113,10 @@
         "photos": [
           {
             "name": "009",
-            "alt": "Herbstwanderung Montafon"
+            "alt": "Herbstwanderung Montafon",
+            "date": "2019-10-26T09:11:19.000+02:00",
+            "width": 1920,
+            "height": 2424
           }
         ],
         "videos": [],
@@ -97,7 +126,10 @@
         "photos": [
           {
             "name": "010",
-            "alt": "Lawinenverbauung"
+            "alt": "Lawinenverbauung",
+            "date": "2019-10-26T09:18:57.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -107,11 +139,17 @@
         "photos": [
           {
             "name": "011",
-            "alt": "Wanderweg Tafamunt Versalhaus"
+            "alt": "Wanderweg Tafamunt Versalhaus",
+            "date": "2019-10-26T09:23:18.000+02:00",
+            "width": 1920,
+            "height": 971
           },
           {
             "name": "012",
-            "alt": "Weg neben Bach"
+            "alt": "Weg neben Bach",
+            "date": "2019-10-26T09:24:14.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -121,7 +159,10 @@
         "photos": [
           {
             "name": "013",
-            "alt": "Versalhaus"
+            "alt": "Versalhaus",
+            "date": "2019-10-26T09:40:04.000+02:00",
+            "width": 1920,
+            "height": 807
           }
         ],
         "videos": [],
@@ -131,15 +172,24 @@
         "photos": [
           {
             "name": "014",
-            "alt": " Partnenen Wanderung"
+            "alt": " Partnenen Wanderung",
+            "date": "2019-10-26T09:42:32.000+02:00",
+            "width": 1920,
+            "height": 795
           },
           {
             "name": "015",
-            "alt": "Tief blauer Bergsee"
+            "alt": "Tief blauer Bergsee",
+            "date": "2019-10-26T09:43:23.000+02:00",
+            "width": 1920,
+            "height": 882
           },
           {
             "name": "016",
-            "alt": "Reflexion im Wasse"
+            "alt": "Reflexion im Wasse",
+            "date": "2019-10-26T09:46:20.000+02:00",
+            "width": 1920,
+            "height": 578
           }
         ],
         "videos": [],
@@ -149,7 +199,10 @@
         "photos": [
           {
             "name": "017",
-            "alt": "Wegweiser Versailhaus"
+            "alt": "Wegweiser Versailhaus",
+            "date": "2019-10-26T09:52:27.000+02:00",
+            "width": 1920,
+            "height": 970
           }
         ],
         "videos": [],
@@ -159,11 +212,17 @@
         "photos": [
           {
             "name": "018",
-            "alt": "Versalhaus mit See"
+            "alt": "Versalhaus mit See",
+            "date": "2019-10-26T09:55:45.000+02:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "019",
-            "alt": "Wiesenweg"
+            "alt": "Wiesenweg",
+            "date": "2019-10-26T10:10:16.000+02:00",
+            "width": 1920,
+            "height": 1042
           }
         ],
         "videos": [],
@@ -173,7 +232,10 @@
         "photos": [
           {
             "name": "020",
-            "alt": "Jöchli"
+            "alt": "Jöchli",
+            "date": "2019-10-26T10:16:05.000+02:00",
+            "width": 1920,
+            "height": 1111
           }
         ],
         "videos": [],
@@ -183,7 +245,10 @@
         "photos": [
           {
             "name": "021",
-            "alt": "Versalspitze Kops Stausee"
+            "alt": "Versalspitze Kops Stausee",
+            "date": "2019-10-26T10:24:29.000+02:00",
+            "width": 1920,
+            "height": 793
           }
         ],
         "videos": [],
@@ -193,11 +258,17 @@
         "photos": [
           {
             "name": "022",
-            "alt": "Gipfel Versalspitze"
+            "alt": "Gipfel Versalspitze",
+            "date": "2019-10-26T10:27:20.000+02:00",
+            "width": 1920,
+            "height": 1251
           },
           {
             "name": "023",
-            "alt": "Gipfelkreuz Versalspitze"
+            "alt": "Gipfelkreuz Versalspitze",
+            "date": "2019-10-26T10:28:14.000+02:00",
+            "width": 1920,
+            "height": 848
           }
         ],
         "videos": [],
@@ -207,7 +278,10 @@
         "photos": [
           {
             "name": "024",
-            "alt": "Aussicht Versalspitze"
+            "alt": "Aussicht Versalspitze",
+            "date": "2019-10-26T10:30:27.000+02:00",
+            "width": 1920,
+            "height": 983
           }
         ],
         "videos": [],
@@ -217,7 +291,10 @@
         "photos": [
           {
             "name": "025",
-            "alt": "Versalhaus von oben"
+            "alt": "Versalhaus von oben",
+            "date": "2019-10-26T10:31:07.000+02:00",
+            "width": 1920,
+            "height": 1033
           }
         ],
         "videos": [],
@@ -227,7 +304,10 @@
         "photos": [
           {
             "name": "026",
-            "alt": "Silvretta Nova im Herbst"
+            "alt": "Silvretta Nova im Herbst",
+            "date": "2019-10-26T10:36:33.000+02:00",
+            "width": 1920,
+            "height": 694
           }
         ],
         "videos": [],
@@ -237,7 +317,10 @@
         "photos": [
           {
             "name": "027",
-            "alt": "Panorama Versalspitze"
+            "alt": "Panorama Versalspitze",
+            "date": "2019-10-26T10:37:56.000+02:00",
+            "width": 1920,
+            "height": 630
           }
         ],
         "videos": [],
@@ -247,7 +330,10 @@
         "photos": [
           {
             "name": "028",
-            "alt": "Wanderung Augstenberg"
+            "alt": "Wanderung Augstenberg",
+            "date": "2019-10-26T10:55:21.000+02:00",
+            "width": 1920,
+            "height": 960
           }
         ],
         "videos": [],
@@ -257,7 +343,10 @@
         "photos": [
           {
             "name": "029",
-            "alt": "Versalspitze"
+            "alt": "Versalspitze",
+            "date": "2019-10-26T10:56:36.000+02:00",
+            "width": 1920,
+            "height": 990
           }
         ],
         "videos": [],
@@ -267,15 +356,24 @@
         "photos": [
           {
             "name": "030",
-            "alt": "See Augstenberg"
+            "alt": "See Augstenberg",
+            "date": "2019-10-26T10:57:18.000+02:00",
+            "width": 1920,
+            "height": 1104
           },
           {
             "name": "031",
-            "alt": "Reflexion auf gefrorenem See"
+            "alt": "Reflexion auf gefrorenem See",
+            "date": "2019-10-26T10:57:36.000+02:00",
+            "width": 1920,
+            "height": 1033
           },
           {
             "name": "032",
-            "alt": "Piz Buin"
+            "alt": "Piz Buin",
+            "date": "2019-10-26T10:59:24.000+02:00",
+            "width": 1920,
+            "height": 1039
           }
         ],
         "videos": [],
@@ -285,7 +383,10 @@
         "photos": [
           {
             "name": "033",
-            "alt": "Kleiner Bergsee"
+            "alt": "Kleiner Bergsee",
+            "date": "2019-10-26T11:03:28.000+02:00",
+            "width": 1920,
+            "height": 721
           }
         ],
         "videos": [],
@@ -295,7 +396,10 @@
         "photos": [
           {
             "name": "034",
-            "alt": "Tafamunter Augstenberg"
+            "alt": "Tafamunter Augstenberg",
+            "date": "2019-10-26T11:08:47.000+02:00",
+            "width": 1920,
+            "height": 995
           }
         ],
         "videos": [],
@@ -305,7 +409,10 @@
         "photos": [
           {
             "name": "035",
-            "alt": "Panorama Augstenberg"
+            "alt": "Panorama Augstenberg",
+            "date": "2019-10-26T11:09:28.000+02:00",
+            "width": 1920,
+            "height": 613
           }
         ],
         "videos": [],
@@ -315,7 +422,10 @@
         "photos": [
           {
             "name": "036",
-            "alt": "Valschavieltal"
+            "alt": "Valschavieltal",
+            "date": "2019-10-26T11:11:20.000+02:00",
+            "width": 1920,
+            "height": 649
           }
         ],
         "videos": [],
@@ -325,7 +435,10 @@
         "photos": [
           {
             "name": "037",
-            "alt": "Verbellakopf"
+            "alt": "Verbellakopf",
+            "date": "2019-10-26T11:21:20.000+02:00",
+            "width": 1920,
+            "height": 787
           }
         ],
         "videos": [],
@@ -335,11 +448,17 @@
         "photos": [
           {
             "name": "038",
-            "alt": "Wanderweg Versalspitze Kops"
+            "alt": "Wanderweg Versalspitze Kops",
+            "date": "2019-10-26T12:00:43.000+02:00",
+            "width": 1920,
+            "height": 864
           },
           {
             "name": "039",
-            "alt": "Aufstieg Jöchli"
+            "alt": "Aufstieg Jöchli",
+            "date": "2019-10-26T12:04:36.000+02:00",
+            "width": 1920,
+            "height": 757
           }
         ],
         "videos": [],
@@ -349,7 +468,10 @@
         "photos": [
           {
             "name": "040",
-            "alt": "Verbella"
+            "alt": "Verbella",
+            "date": "2019-10-26T12:09:15.000+02:00",
+            "width": 1920,
+            "height": 996
           }
         ],
         "videos": [],
@@ -359,11 +481,17 @@
         "photos": [
           {
             "name": "041",
-            "alt": "Wanderung Kops Stausee"
+            "alt": "Wanderung Kops Stausee",
+            "date": "2019-10-26T12:11:00.000+02:00",
+            "width": 1920,
+            "height": 897
           },
           {
             "name": "042",
-            "alt": "Herbstfarben"
+            "alt": "Herbstfarben",
+            "date": "2019-10-26T12:21:32.000+02:00",
+            "width": 1920,
+            "height": 662
           }
         ],
         "videos": [],
@@ -373,11 +501,17 @@
         "photos": [
           {
             "name": "043",
-            "alt": "Wandern Verbellaalpe"
+            "alt": "Wandern Verbellaalpe",
+            "date": "2019-10-26T12:23:10.000+02:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "044",
-            "alt": "Abgerutschter Weg"
+            "alt": "Abgerutschter Weg",
+            "date": "2019-10-26T12:29:03.000+02:00",
+            "width": 1920,
+            "height": 981
           }
         ],
         "videos": [],
@@ -387,11 +521,17 @@
         "photos": [
           {
             "name": "045",
-            "alt": "Wanderweg Verbellaalpe Tafamunt"
+            "alt": "Wanderweg Verbellaalpe Tafamunt",
+            "date": "2019-10-26T12:39:08.000+02:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "046",
-            "alt": "Verbellabach"
+            "alt": "Verbellabach",
+            "date": "2019-10-26T12:48:01.000+02:00",
+            "width": 1920,
+            "height": 1245
           }
         ],
         "videos": [],
@@ -401,7 +541,10 @@
         "photos": [
           {
             "name": "047",
-            "alt": "Kops Stausee"
+            "alt": "Kops Stausee",
+            "date": "2019-10-26T13:08:59.000+02:00",
+            "width": 1920,
+            "height": 961
           }
         ],
         "videos": [],
@@ -411,7 +554,10 @@
         "photos": [
           {
             "name": "048",
-            "alt": "Naturschutzgebiet Wiegensee"
+            "alt": "Naturschutzgebiet Wiegensee",
+            "date": "2019-10-26T13:14:32.000+02:00",
+            "width": 1920,
+            "height": 646
           }
         ],
         "videos": [],
@@ -421,7 +567,10 @@
         "photos": [
           {
             "name": "049",
-            "alt": "Natura 2000 Wiegensee"
+            "alt": "Natura 2000 Wiegensee",
+            "date": "2019-10-26T13:22:16.000+02:00",
+            "width": 1920,
+            "height": 1003
           }
         ],
         "videos": [],
@@ -431,7 +580,10 @@
         "photos": [
           {
             "name": "050",
-            "alt": "Wanderweg Wiegensee"
+            "alt": "Wanderweg Wiegensee",
+            "date": "2019-10-26T13:26:55.000+02:00",
+            "width": 1920,
+            "height": 1071
           }
         ],
         "videos": [],
@@ -441,11 +593,17 @@
         "photos": [
           {
             "name": "051",
-            "alt": "Wiegensee"
+            "alt": "Wiegensee",
+            "date": "2019-10-26T13:28:35.000+02:00",
+            "width": 1920,
+            "height": 842
           },
           {
             "name": "052",
-            "alt": "Wiegensee Versalspitze"
+            "alt": "Wiegensee Versalspitze",
+            "date": "2019-10-26T13:29:07.000+02:00",
+            "width": 1920,
+            "height": 1228
           }
         ],
         "videos": [],
@@ -455,7 +613,10 @@
         "photos": [
           {
             "name": "053",
-            "alt": "Wiegensee Kops Stausee"
+            "alt": "Wiegensee Kops Stausee",
+            "date": "2019-10-26T13:33:38.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -465,7 +626,10 @@
         "photos": [
           {
             "name": "054",
-            "alt": "Wanderweg Tafamunt Wiegensee"
+            "alt": "Wanderweg Tafamunt Wiegensee",
+            "date": "2019-10-26T13:42:31.000+02:00",
+            "width": 1920,
+            "height": 806
           }
         ],
         "videos": [],
@@ -475,7 +639,10 @@
         "photos": [
           {
             "name": "055",
-            "alt": "Silvretta Hochalpenstraße"
+            "alt": "Silvretta Hochalpenstraße",
+            "date": "2019-10-26T13:47:55.000+02:00",
+            "width": 1920,
+            "height": 2232
           }
         ],
         "videos": [],
@@ -485,11 +652,17 @@
         "photos": [
           {
             "name": "056",
-            "alt": "Tafamunt Wanderung"
+            "alt": "Tafamunt Wanderung",
+            "date": "2019-10-26T14:01:26.000+02:00",
+            "width": 1920,
+            "height": 938
           },
           {
             "name": "057",
-            "alt": "Weg durch Felsen im Wald"
+            "alt": "Weg durch Felsen im Wald",
+            "date": "2019-10-26T14:27:13.000+02:00",
+            "width": 1920,
+            "height": 1216
           }
         ],
         "videos": [],
@@ -499,7 +672,10 @@
         "photos": [
           {
             "name": "058",
-            "alt": "Alpsiedlung Tafamuntmaisäss"
+            "alt": "Alpsiedlung Tafamuntmaisäss",
+            "date": "2019-10-26T14:41:12.000+02:00",
+            "width": 1920,
+            "height": 910
           }
         ],
         "videos": [],
@@ -509,7 +685,10 @@
         "photos": [
           {
             "name": "059",
-            "alt": "Mittelstation Tafamunt Seilbahn"
+            "alt": "Mittelstation Tafamunt Seilbahn",
+            "date": "2019-10-26T14:47:21.000+02:00",
+            "width": 1920,
+            "height": 970
           }
         ],
         "videos": [],
@@ -519,7 +698,10 @@
         "photos": [
           {
             "name": "060",
-            "alt": "Tafamunt Seilbahn"
+            "alt": "Tafamunt Seilbahn",
+            "date": "2019-10-26T14:51:52.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -529,7 +711,10 @@
         "photos": [
           {
             "name": "061",
-            "alt": "Parkplatz Partenen"
+            "alt": "Parkplatz Partenen",
+            "date": "2019-10-26T14:55:41.000+02:00",
+            "width": 1920,
+            "height": 1080
           }
         ],
         "videos": [],

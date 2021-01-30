@@ -8,8 +8,10 @@
     "shortTitle": "Drei Zinnen",
     "title": "Drei Zinnen",
     "title3d": {
-      "offsetY": 12.0,
-      "fontSize": 7.5
+      "offsetY": 12,
+      "fontSize": 7.5,
+      "width": 1920,
+      "height": 709
     },
     "intro": "Bei meinem Kurzurlaub in Sexten stand an diesem Montag ein Besuch des rund um Sexten liegenden Skigebiet \"Drei Zinnen\" an. Geparkt habe ich auf dem Gratisparkplatz der Seilbahn Sexten-Helm. Die Tageskarte kostete mutige 53€. Um 8:35 ging es mit der halb gefüllten Gondel vom 1300m hohen Sexten hinauf zur 2000m hoch gelegenden Bergstation am Helm.",
     "landmarks": [
@@ -17,7 +19,10 @@
         "photos": [
           {
             "name": "001",
-            "alt": "Haunold"
+            "alt": "Haunold",
+            "date": "2018-02-19T08:48:01.000+01:00",
+            "width": 1920,
+            "height": 691
           }
         ],
         "videos": [],
@@ -27,7 +32,10 @@
         "photos": [
           {
             "name": "002",
-            "alt": "Frisch präparierte Piste"
+            "alt": "Frisch präparierte Piste",
+            "date": "2018-02-19T08:49:32.000+01:00",
+            "width": 1920,
+            "height": 804
           }
         ],
         "videos": [],
@@ -37,7 +45,10 @@
         "photos": [
           {
             "name": "003",
-            "alt": "Hochpustertal im Winter"
+            "alt": "Hochpustertal im Winter",
+            "date": "2018-02-19T08:54:05.000+01:00",
+            "width": 1920,
+            "height": 822
           }
         ],
         "videos": [],
@@ -47,7 +58,10 @@
         "photos": [
           {
             "name": "004",
-            "alt": "Helm Restaurant"
+            "alt": "Helm Restaurant",
+            "date": "2018-02-19T09:09:45.000+01:00",
+            "width": 1920,
+            "height": 1097
           }
         ],
         "videos": [],
@@ -57,7 +71,10 @@
         "photos": [
           {
             "name": "005",
-            "alt": "Dreischusterspitze"
+            "alt": "Dreischusterspitze",
+            "date": "2018-02-19T09:10:04.000+01:00",
+            "width": 1920,
+            "height": 1170
           }
         ],
         "videos": [],
@@ -67,7 +84,10 @@
         "photos": [
           {
             "name": "006",
-            "alt": "Sesselbahn Helm"
+            "alt": "Sesselbahn Helm",
+            "date": "2018-02-19T09:14:41.000+01:00",
+            "width": 1920,
+            "height": 991
           }
         ],
         "videos": [],
@@ -77,7 +97,10 @@
         "photos": [
           {
             "name": "007",
-            "alt": "Skipiste Helm"
+            "alt": "Skipiste Helm",
+            "date": "2018-02-19T09:21:46.000+01:00",
+            "width": 1920,
+            "height": 654
           }
         ],
         "videos": [],
@@ -87,7 +110,10 @@
         "photos": [
           {
             "name": "008",
-            "alt": "Tellerlift Hahnspiel"
+            "alt": "Tellerlift Hahnspiel",
+            "date": "2018-02-19T09:34:55.000+01:00",
+            "width": 1920,
+            "height": 548
           }
         ],
         "videos": [],
@@ -97,11 +123,17 @@
         "photos": [
           {
             "name": "009",
-            "alt": "Skifahren Helm"
+            "alt": "Skifahren Helm",
+            "date": "2018-02-19T09:39:42.000+01:00",
+            "width": 1920,
+            "height": 1123
           },
           {
             "name": "010",
-            "alt": "Panorama Helm"
+            "alt": "Panorama Helm",
+            "date": "2018-02-19T09:40:29.000+01:00",
+            "width": 1920,
+            "height": 762
           }
         ],
         "videos": [],
@@ -111,7 +143,10 @@
         "photos": [
           {
             "name": "011",
-            "alt": "Hahnspielhütte"
+            "alt": "Hahnspielhütte",
+            "date": "2018-02-19T09:52:34.000+01:00",
+            "width": 1920,
+            "height": 1249
           }
         ],
         "videos": [],
@@ -121,7 +156,10 @@
         "photos": [
           {
             "name": "012",
-            "alt": "Sextener Rotwand"
+            "alt": "Sextener Rotwand",
+            "date": "2018-02-19T09:52:45.000+01:00",
+            "width": 1920,
+            "height": 837
           }
         ],
         "videos": [],
@@ -131,7 +169,10 @@
         "photos": [
           {
             "name": "013",
-            "alt": "Skipiste zwischen Lärchen."
+            "alt": "Skipiste zwischen Lärchen.",
+            "date": "2018-02-19T09:57:47.000+01:00",
+            "width": 1920,
+            "height": 1650
           }
         ],
         "videos": [],
@@ -141,7 +182,10 @@
         "photos": [
           {
             "name": "014",
-            "alt": "Skigebiet Drei Zinnen"
+            "alt": "Skigebiet Drei Zinnen",
+            "date": "2018-02-19T09:59:55.000+01:00",
+            "width": 1920,
+            "height": 892
           }
         ],
         "videos": [],
@@ -151,7 +195,10 @@
         "photos": [
           {
             "name": "015",
-            "alt": "Talabfahrt Sexten"
+            "alt": "Talabfahrt Sexten",
+            "date": "2018-02-19T10:00:22.000+01:00",
+            "width": 1920,
+            "height": 753
           }
         ],
         "videos": [],
@@ -161,7 +208,10 @@
         "photos": [
           {
             "name": "016",
-            "alt": "Gondelbahn Stiergarten"
+            "alt": "Gondelbahn Stiergarten",
+            "date": "2018-02-19T10:03:28.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -171,7 +221,10 @@
         "photos": [
           {
             "name": "017",
-            "alt": "Gondelbahn Drei Zinnen"
+            "alt": "Gondelbahn Drei Zinnen",
+            "date": "2018-02-19T10:11:42.000+01:00",
+            "width": 1920,
+            "height": 1247
           }
         ],
         "videos": [],
@@ -181,7 +234,10 @@
         "photos": [
           {
             "name": "018",
-            "alt": "Piste Stiergarten Hennstoll"
+            "alt": "Piste Stiergarten Hennstoll",
+            "date": "2018-02-19T10:16:47.000+01:00",
+            "width": 1920,
+            "height": 1111
           }
         ],
         "videos": [],
@@ -191,7 +247,10 @@
         "photos": [
           {
             "name": "019",
-            "alt": "Holzriese"
+            "alt": "Holzriese",
+            "date": "2018-02-19T11:08:43.000+01:00",
+            "width": 1920,
+            "height": 1277
           }
         ],
         "videos": [],
@@ -201,7 +260,10 @@
         "photos": [
           {
             "name": "020",
-            "alt": "Skigebiet Rotwand"
+            "alt": "Skigebiet Rotwand",
+            "date": "2018-02-19T11:20:58.000+01:00",
+            "width": 1920,
+            "height": 758
           }
         ],
         "videos": [],
@@ -211,7 +273,10 @@
         "photos": [
           {
             "name": "021",
-            "alt": "Tellerlift Rotwandwiesen"
+            "alt": "Tellerlift Rotwandwiesen",
+            "date": "2018-02-19T11:25:09.000+01:00",
+            "width": 1920,
+            "height": 1177
           }
         ],
         "videos": [],
@@ -221,7 +286,10 @@
         "photos": [
           {
             "name": "022",
-            "alt": "Tellerlift Porzen"
+            "alt": "Tellerlift Porzen",
+            "date": "2018-02-19T11:32:06.000+01:00",
+            "width": 1920,
+            "height": 1040
           }
         ],
         "videos": [],
@@ -231,7 +299,10 @@
         "photos": [
           {
             "name": "023",
-            "alt": "Stiergarten"
+            "alt": "Stiergarten",
+            "date": "2018-02-19T11:49:04.000+01:00",
+            "width": 1920,
+            "height": 1019
           }
         ],
         "videos": [],
@@ -241,7 +312,10 @@
         "photos": [
           {
             "name": "024",
-            "alt": "Moos"
+            "alt": "Moos",
+            "date": "2018-02-19T12:25:27.000+01:00",
+            "width": 1920,
+            "height": 1018
           }
         ],
         "videos": [],
@@ -251,7 +325,10 @@
         "photos": [
           {
             "name": "025",
-            "alt": "Fischleintal"
+            "alt": "Fischleintal",
+            "date": "2018-02-19T12:28:00.000+01:00",
+            "width": 1920,
+            "height": 964
           }
         ],
         "videos": [],
@@ -261,7 +338,10 @@
         "photos": [
           {
             "name": "026",
-            "alt": "Sesselbahn Mittelstation"
+            "alt": "Sesselbahn Mittelstation",
+            "date": "2018-02-19T12:47:13.000+01:00",
+            "width": 1920,
+            "height": 748
           }
         ],
         "videos": [],
@@ -271,7 +351,10 @@
         "photos": [
           {
             "name": "027",
-            "alt": "Talabfahrt Vierschach"
+            "alt": "Talabfahrt Vierschach",
+            "date": "2018-02-19T13:57:32.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -281,7 +364,10 @@
         "photos": [
           {
             "name": "028",
-            "alt": "Pfarrei Vierschach"
+            "alt": "Pfarrei Vierschach",
+            "date": "2018-02-19T14:03:35.000+01:00",
+            "width": 1920,
+            "height": 656
           }
         ],
         "videos": [],
@@ -291,7 +377,10 @@
         "photos": [
           {
             "name": "029",
-            "alt": "Nostalgie Skifahren"
+            "alt": "Nostalgie Skifahren",
+            "date": "2018-02-19T14:31:57.000+01:00",
+            "width": 1920,
+            "height": 1147
           }
         ],
         "videos": [],
@@ -301,7 +390,10 @@
         "photos": [
           {
             "name": "030",
-            "alt": "Skifahren Vierschach"
+            "alt": "Skifahren Vierschach",
+            "date": "2018-02-19T14:45:45.000+01:00",
+            "width": 1920,
+            "height": 655
           }
         ],
         "videos": [],
@@ -311,7 +403,10 @@
         "photos": [
           {
             "name": "031",
-            "alt": "Elferkofel"
+            "alt": "Elferkofel",
+            "date": "2018-02-19T16:20:56.000+01:00",
+            "width": 1920,
+            "height": 1385
           }
         ],
         "videos": [],
@@ -321,7 +416,10 @@
         "photos": [
           {
             "name": "032",
-            "alt": "Piste zwischen Lärchen"
+            "alt": "Piste zwischen Lärchen",
+            "date": "2018-02-19T16:23:34.000+01:00",
+            "width": 1920,
+            "height": 1209
           }
         ],
         "videos": [],
@@ -331,7 +429,10 @@
         "photos": [
           {
             "name": "033",
-            "alt": "Sonnenuntergang Sexten"
+            "alt": "Sonnenuntergang Sexten",
+            "date": "2018-02-19T16:24:58.000+01:00",
+            "width": 1920,
+            "height": 949
           }
         ],
         "videos": [],

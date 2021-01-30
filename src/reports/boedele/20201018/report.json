@@ -9,9 +9,11 @@
     "shortTitle": "Brüggelekopf",
     "title": "Bödele - Brüggelekopf",
     "title3d": {
-      "offsetY": 3.0,
-      "fontSize": 8.0,
-      "align": "center"
+      "offsetY": 3,
+      "fontSize": 8,
+      "align": "center",
+      "width": 1920,
+      "height": 521
     },
     "intro": "Bei nicht ganz sonnigem Wetter sollte es an diesem Oktobersonntag auf eine kleinere Wanderung vom Bödele zum Brüggelekopf gehen.<br />Um 10:30 wurde das Auto auf dem Gratis-Parkplatz des Hochälpele Skilifts abgestellt. Los ging es dann aber über die Straße hinweg Richtung Geißkopf.",
     "landmarks": [
@@ -19,7 +21,10 @@
         "photos": [
           {
             "name": "001",
-            "alt": "Oberer Geißkopf"
+            "alt": "Oberer Geißkopf",
+            "date": "2020-10-18T10:45:57.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -29,7 +34,10 @@
         "photos": [
           {
             "name": "003",
-            "alt": "Herbstwanderung"
+            "alt": "Herbstwanderung",
+            "date": "2020-10-18T10:53:54.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -39,7 +47,10 @@
         "photos": [
           {
             "name": "004",
-            "alt": "Spaziergang Bödele"
+            "alt": "Spaziergang Bödele",
+            "date": "2020-10-18T11:05:51.000+02:00",
+            "width": 1920,
+            "height": 783
           }
         ],
         "videos": [],
@@ -49,7 +60,10 @@
         "photos": [
           {
             "name": "005",
-            "alt": "Panorama Bregenzer Wald"
+            "alt": "Panorama Bregenzer Wald",
+            "date": "2020-10-18T11:21:09.000+02:00",
+            "width": 1920,
+            "height": 687
           }
         ],
         "videos": [],
@@ -59,7 +73,10 @@
         "photos": [
           {
             "name": "007",
-            "alt": "Wanderung Schwarzenberg"
+            "alt": "Wanderung Schwarzenberg",
+            "date": "2020-10-18T11:26:10.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -69,7 +86,10 @@
         "photos": [
           {
             "name": "010",
-            "alt": "Brüggele"
+            "alt": "Brüggele",
+            "date": "2020-10-18T12:45:17.000+02:00",
+            "width": 1920,
+            "height": 1079
           }
         ],
         "videos": [],
@@ -79,7 +99,10 @@
         "photos": [
           {
             "name": "012",
-            "alt": "Brüggelekopf"
+            "alt": "Brüggelekopf",
+            "date": "2020-10-18T12:54:46.000+02:00",
+            "width": 1920,
+            "height": 1094
           }
         ],
         "videos": [],
@@ -89,7 +112,10 @@
         "photos": [
           {
             "name": "016",
-            "alt": "Bauernhof"
+            "alt": "Bauernhof",
+            "date": "2020-10-18T14:20:25.000+02:00",
+            "width": 1920,
+            "height": 747
           }
         ],
         "videos": [],
@@ -99,7 +125,10 @@
         "photos": [
           {
             "name": "021",
-            "alt": "Hochfläche Moltach"
+            "alt": "Hochfläche Moltach",
+            "date": "2020-10-18T14:50:39.000+02:00",
+            "width": 1920,
+            "height": 989
           }
         ],
         "videos": [],
@@ -109,7 +138,10 @@
         "photos": [
           {
             "name": "026",
-            "alt": "Wanderung Geißkopf"
+            "alt": "Wanderung Geißkopf",
+            "date": "2020-10-18T15:04:25.000+02:00",
+            "width": 1920,
+            "height": 1080
           }
         ],
         "videos": [],

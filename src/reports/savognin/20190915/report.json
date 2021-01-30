@@ -11,7 +11,9 @@
     "title3d": {
       "offsetY": 2.5,
       "fontSize": 9,
-      "align": "right"
+      "align": "right",
+      "width": 1920,
+      "height": 504
     },
     "intro": "Trotz dem kurzen Wintereinbruch vor einer Woche nahm ich mir an diesem Sonntag eine Wanderung in höheren Lagen vor. Ziel war der (eher unscheinbare) 2700m hohe Gipfel 'Uf da Flüe' in der Nähe von Bivio am Julierpass.<br />Nach gut 2h Fahrt stellte ich mein Auto um 8:30 auf dem großen Parkplatz in Bivio ab. Der Parkplatz ist im Sommer gratis und dient im Winter dem kleinen Skigebiet von Bivio als Stellplatz.",
     "landmarks": [
@@ -19,7 +21,10 @@
         "photos": [
           {
             "name": "001",
-            "alt": "Wandern Bivio"
+            "alt": "Wandern Bivio",
+            "date": "2019-09-15T08:51:23.000+02:00",
+            "width": 1920,
+            "height": 868
           }
         ],
         "videos": [],
@@ -29,7 +34,10 @@
         "photos": [
           {
             "name": "002",
-            "alt": "Holzdrehkreuz"
+            "alt": "Holzdrehkreuz",
+            "date": "2019-09-15T09:11:21.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -39,7 +47,10 @@
         "photos": [
           {
             "name": "003",
-            "alt": "Kratzdistel"
+            "alt": "Kratzdistel",
+            "date": "2019-09-15T09:19:22.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -49,7 +60,10 @@
         "photos": [
           {
             "name": "004",
-            "alt": "Landschaft Bivio"
+            "alt": "Landschaft Bivio",
+            "date": "2019-09-15T09:21:25.000+02:00",
+            "width": 1920,
+            "height": 990
           }
         ],
         "videos": [],
@@ -59,7 +73,10 @@
         "photos": [
           {
             "name": "005",
-            "alt": "Lupin in Alpen"
+            "alt": "Lupin in Alpen",
+            "date": "2019-09-15T09:54:32.000+02:00",
+            "width": 1920,
+            "height": 962
           }
         ],
         "videos": [],
@@ -69,15 +86,24 @@
         "photos": [
           {
             "name": "006",
-            "alt": "Piz Calderas"
+            "alt": "Piz Calderas",
+            "date": "2019-09-15T10:11:35.000+02:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "007",
-            "alt": "Wanderweg Stallerberg"
+            "alt": "Wanderweg Stallerberg",
+            "date": "2019-09-15T10:12:24.000+02:00",
+            "width": 1920,
+            "height": 829
           },
           {
             "name": "008",
-            "alt": "Bergsee Plang Tguils"
+            "alt": "Bergsee Plang Tguils",
+            "date": "2019-09-15T10:16:15.000+02:00",
+            "width": 1920,
+            "height": 670
           }
         ],
         "videos": [],
@@ -87,11 +113,17 @@
         "photos": [
           {
             "name": "009",
-            "alt": "Rauschender Bach"
+            "alt": "Rauschender Bach",
+            "date": "2019-09-15T10:22:52.000+02:00",
+            "width": 1920,
+            "height": 1102
           },
           {
             "name": "010",
-            "alt": "Wanderweg über Holzbrücke"
+            "alt": "Wanderweg über Holzbrücke",
+            "date": "2019-09-15T10:28:00.000+02:00",
+            "width": 1920,
+            "height": 1216
           }
         ],
         "videos": [],
@@ -101,11 +133,17 @@
         "photos": [
           {
             "name": "011",
-            "alt": "Moos"
+            "alt": "Moos",
+            "date": "2019-09-15T10:47:45.000+02:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "012",
-            "alt": "Kleines Spinnennetz"
+            "alt": "Kleines Spinnennetz",
+            "date": "2019-09-15T10:48:55.000+02:00",
+            "width": 1920,
+            "height": 1235
           }
         ],
         "videos": [],
@@ -115,7 +153,10 @@
         "photos": [
           {
             "name": "013",
-            "alt": "Stallerberg"
+            "alt": "Stallerberg",
+            "date": "2019-09-15T11:03:36.000+02:00",
+            "width": 1920,
+            "height": 663
           }
         ],
         "videos": [],
@@ -125,7 +166,10 @@
         "photos": [
           {
             "name": "014",
-            "alt": "Wanderweg Juf Stallerberg"
+            "alt": "Wanderweg Juf Stallerberg",
+            "date": "2019-09-15T11:05:05.000+02:00",
+            "width": 1920,
+            "height": 742
           }
         ],
         "videos": [],
@@ -135,7 +179,10 @@
         "photos": [
           {
             "name": "015",
-            "alt": "Piz Julier"
+            "alt": "Piz Julier",
+            "date": "2019-09-15T11:05:40.000+02:00",
+            "width": 1920,
+            "height": 963
           }
         ],
         "videos": [],
@@ -145,7 +192,10 @@
         "photos": [
           {
             "name": "016",
-            "alt": "Steinmännliweg"
+            "alt": "Steinmännliweg",
+            "date": "2019-09-15T11:36:45.000+02:00",
+            "width": 1920,
+            "height": 722
           }
         ],
         "videos": [],
@@ -155,7 +205,10 @@
         "photos": [
           {
             "name": "017",
-            "alt": "Aufstieg Uf da Flüe"
+            "alt": "Aufstieg Uf da Flüe",
+            "date": "2019-09-15T11:39:08.000+02:00",
+            "width": 1920,
+            "height": 920
           }
         ],
         "videos": [],
@@ -165,7 +218,10 @@
         "photos": [
           {
             "name": "018",
-            "alt": "Avers"
+            "alt": "Avers",
+            "date": "2019-09-15T11:39:49.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -175,7 +231,10 @@
         "photos": [
           {
             "name": "019",
-            "alt": "Piz Surpare mit See"
+            "alt": "Piz Surpare mit See",
+            "date": "2019-09-15T11:42:27.000+02:00",
+            "width": 1920,
+            "height": 653
           }
         ],
         "videos": [],
@@ -185,7 +244,10 @@
         "photos": [
           {
             "name": "020",
-            "alt": "Passo del Muretto"
+            "alt": "Passo del Muretto",
+            "date": "2019-09-15T11:55:34.000+02:00",
+            "width": 1920,
+            "height": 959
           }
         ],
         "videos": [],
@@ -195,7 +257,10 @@
         "photos": [
           {
             "name": "021",
-            "alt": "Fallerfurgga"
+            "alt": "Fallerfurgga",
+            "date": "2019-09-15T11:55:52.000+02:00",
+            "width": 1920,
+            "height": 599
           }
         ],
         "videos": [],
@@ -205,7 +270,10 @@
         "photos": [
           {
             "name": "022",
-            "alt": "Julierpass"
+            "alt": "Julierpass",
+            "date": "2019-09-15T11:56:07.000+02:00",
+            "width": 1920,
+            "height": 1161
           }
         ],
         "videos": [],
@@ -215,7 +283,10 @@
         "photos": [
           {
             "name": "023",
-            "alt": "Leg Columban"
+            "alt": "Leg Columban",
+            "date": "2019-09-15T12:09:41.000+02:00",
+            "width": 1920,
+            "height": 636
           }
         ],
         "videos": [],
@@ -225,7 +296,10 @@
         "photos": [
           {
             "name": "024",
-            "alt": "Piz Bernina"
+            "alt": "Piz Bernina",
+            "date": "2019-09-15T12:10:07.000+02:00",
+            "width": 1920,
+            "height": 601
           }
         ],
         "videos": [],
@@ -235,7 +309,10 @@
         "photos": [
           {
             "name": "025",
-            "alt": "Piz Piot"
+            "alt": "Piz Piot",
+            "date": "2019-09-15T12:11:02.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -245,7 +322,10 @@
         "photos": [
           {
             "name": "026",
-            "alt": "Fuorcla da la Valletta"
+            "alt": "Fuorcla da la Valletta",
+            "date": "2019-09-15T12:35:03.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -255,7 +335,10 @@
         "photos": [
           {
             "name": "027",
-            "alt": "Berge bei Bivio"
+            "alt": "Berge bei Bivio",
+            "date": "2019-09-15T12:35:29.000+02:00",
+            "width": 1920,
+            "height": 1080
           }
         ],
         "videos": [],
@@ -265,7 +348,10 @@
         "photos": [
           {
             "name": "028",
-            "alt": "Uf da Flüe"
+            "alt": "Uf da Flüe",
+            "date": "2019-09-15T12:40:52.000+02:00",
+            "width": 1920,
+            "height": 778
           }
         ],
         "videos": [],
@@ -275,7 +361,10 @@
         "photos": [
           {
             "name": "029",
-            "alt": "Wanderwege Bivio"
+            "alt": "Wanderwege Bivio",
+            "date": "2019-09-15T12:46:14.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -285,11 +374,17 @@
         "photos": [
           {
             "name": "030",
-            "alt": "Aufstieg Forcellina"
+            "alt": "Aufstieg Forcellina",
+            "date": "2019-09-15T13:07:45.000+02:00",
+            "width": 1920,
+            "height": 811
           },
           {
             "name": "031",
-            "alt": "Bergsee"
+            "alt": "Bergsee",
+            "date": "2019-09-15T13:13:02.000+02:00",
+            "width": 1920,
+            "height": 940
           }
         ],
         "videos": [],
@@ -299,11 +394,17 @@
         "photos": [
           {
             "name": "032",
-            "alt": "See Forcellina"
+            "alt": "See Forcellina",
+            "date": "2019-09-15T13:16:52.000+02:00",
+            "width": 1920,
+            "height": 759
           },
           {
             "name": "033",
-            "alt": "Wegweiser Forcellina"
+            "alt": "Wegweiser Forcellina",
+            "date": "2019-09-15T13:20:33.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -313,15 +414,24 @@
         "photos": [
           {
             "name": "034",
-            "alt": "Wanderweg Forcellina"
+            "alt": "Wanderweg Forcellina",
+            "date": "2019-09-15T13:29:28.000+02:00",
+            "width": 1920,
+            "height": 1007
           },
           {
             "name": "035",
-            "alt": "Alpenwanderung"
+            "alt": "Alpenwanderung",
+            "date": "2019-09-15T13:39:43.000+02:00",
+            "width": 1920,
+            "height": 1102
           },
           {
             "name": "036",
-            "alt": "Abstieg Septimerpass"
+            "alt": "Abstieg Septimerpass",
+            "date": "2019-09-15T13:45:12.000+02:00",
+            "width": 1920,
+            "height": 862
           }
         ],
         "videos": [],
@@ -331,15 +441,24 @@
         "photos": [
           {
             "name": "037",
-            "alt": "Leg da Sett"
+            "alt": "Leg da Sett",
+            "date": "2019-09-15T14:00:27.000+02:00",
+            "width": 1920,
+            "height": 619
           },
           {
             "name": "038",
-            "alt": "Septimer Seen"
+            "alt": "Septimer Seen",
+            "date": "2019-09-15T14:05:34.000+02:00",
+            "width": 1920,
+            "height": 947
           },
           {
             "name": "039",
-            "alt": "Piz Forcellina"
+            "alt": "Piz Forcellina",
+            "date": "2019-09-15T14:06:27.000+02:00",
+            "width": 1920,
+            "height": 1032
           }
         ],
         "videos": [],
@@ -349,15 +468,24 @@
         "photos": [
           {
             "name": "040",
-            "alt": "Stromleitung Septimerpass"
+            "alt": "Stromleitung Septimerpass",
+            "date": "2019-09-15T14:10:49.000+02:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "041",
-            "alt": "Cima di Castello"
+            "alt": "Cima di Castello",
+            "date": "2019-09-15T14:10:57.000+02:00",
+            "width": 1920,
+            "height": 1198
           },
           {
             "name": "042",
-            "alt": "Häuser Septimerpass"
+            "alt": "Häuser Septimerpass",
+            "date": "2019-09-15T14:18:03.000+02:00",
+            "width": 1920,
+            "height": 784
           }
         ],
         "videos": [],
@@ -367,7 +495,10 @@
         "photos": [
           {
             "name": "043",
-            "alt": "Wegweiser Septimerpass"
+            "alt": "Wegweiser Septimerpass",
+            "date": "2019-09-15T14:18:36.000+02:00",
+            "width": 1920,
+            "height": 2880
           }
         ],
         "videos": [],
@@ -377,7 +508,10 @@
         "photos": [
           {
             "name": "044",
-            "alt": "St. Colomban"
+            "alt": "St. Colomban",
+            "date": "2019-09-15T14:19:31.000+02:00",
+            "width": 1920,
+            "height": 1282
           }
         ],
         "videos": [],
@@ -387,7 +521,10 @@
         "photos": [
           {
             "name": "045",
-            "alt": "Septimerpass"
+            "alt": "Septimerpass",
+            "date": "2019-09-15T14:20:23.000+02:00",
+            "width": 1920,
+            "height": 754
           }
         ],
         "videos": [],
@@ -397,7 +534,10 @@
         "photos": [
           {
             "name": "046",
-            "alt": "Bivio Septimerpass"
+            "alt": "Bivio Septimerpass",
+            "date": "2019-09-15T14:51:58.000+02:00",
+            "width": 1920,
+            "height": 985
           }
         ],
         "videos": [],
@@ -407,7 +547,10 @@
         "photos": [
           {
             "name": "047",
-            "alt": "Heuschrecken"
+            "alt": "Heuschrecken",
+            "date": "2019-09-15T14:58:00.000+02:00",
+            "width": 1920,
+            "height": 1138
           }
         ],
         "videos": [],
@@ -417,15 +560,24 @@
         "photos": [
           {
             "name": "048",
-            "alt": "Alpwirtschaft"
+            "alt": "Alpwirtschaft",
+            "date": "2019-09-15T15:17:44.000+02:00",
+            "width": 1920,
+            "height": 682
           },
           {
             "name": "049",
-            "alt": "Straße über Septimerpass"
+            "alt": "Straße über Septimerpass",
+            "date": "2019-09-15T15:18:57.000+02:00",
+            "width": 1920,
+            "height": 792
           },
           {
             "name": "050",
-            "alt": "Flussmäander"
+            "alt": "Flussmäander",
+            "date": "2019-09-15T15:20:28.000+02:00",
+            "width": 1920,
+            "height": 616
           }
         ],
         "videos": [],
@@ -435,15 +587,24 @@
         "photos": [
           {
             "name": "051",
-            "alt": "Gumpe"
+            "alt": "Gumpe",
+            "date": "2019-09-15T15:35:25.000+02:00",
+            "width": 1920,
+            "height": 1319
           },
           {
             "name": "052",
-            "alt": "Tgavretga"
+            "alt": "Tgavretga",
+            "date": "2019-09-15T15:39:00.000+02:00",
+            "width": 1920,
+            "height": 1347
           },
           {
             "name": "053",
-            "alt": "Cadval"
+            "alt": "Cadval",
+            "date": "2019-09-15T15:42:01.000+02:00",
+            "width": 1920,
+            "height": 860
           }
         ],
         "videos": [],
@@ -453,11 +614,17 @@
         "photos": [
           {
             "name": "054",
-            "alt": "Gebirgsbach"
+            "alt": "Gebirgsbach",
+            "date": "2019-09-15T15:48:26.000+02:00",
+            "width": 1920,
+            "height": 1243
           },
           {
             "name": "055",
-            "alt": "Wanderweg Septimerpass"
+            "alt": "Wanderweg Septimerpass",
+            "date": "2019-09-15T15:52:23.000+02:00",
+            "width": 1920,
+            "height": 869
           }
         ],
         "videos": [],
@@ -467,11 +634,17 @@
         "photos": [
           {
             "name": "056",
-            "alt": "Hütte Bivio"
+            "alt": "Hütte Bivio",
+            "date": "2019-09-15T16:17:36.000+02:00",
+            "width": 1920,
+            "height": 810
           },
           {
             "name": "057",
-            "alt": "Herbstferien Bivio"
+            "alt": "Herbstferien Bivio",
+            "date": "2019-09-15T16:19:35.000+02:00",
+            "width": 1920,
+            "height": 1190
           }
         ],
         "videos": [],
@@ -481,11 +654,17 @@
         "photos": [
           {
             "name": "058",
-            "alt": "Stau Julierpass"
+            "alt": "Stau Julierpass",
+            "date": "2019-09-15T16:34:12.000+02:00",
+            "width": 1920,
+            "height": 1108
           },
           {
             "name": "059",
-            "alt": "Alte Häuser in Bivio"
+            "alt": "Alte Häuser in Bivio",
+            "date": "2019-09-15T16:39:04.000+02:00",
+            "width": 1920,
+            "height": 1216
           }
         ],
         "videos": [],

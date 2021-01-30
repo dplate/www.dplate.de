@@ -9,9 +9,11 @@
     "shortTitle": "Weißenfluhalpe",
     "title": "Bödele - Weißenfluhalpe",
     "title3d": {
-      "offsetY": 2.0,
-      "fontSize": 7.0,
-      "align": "center"
+      "offsetY": 2,
+      "fontSize": 7,
+      "align": "center",
+      "width": 1920,
+      "height": 495
     },
     "intro": "Das Wetter Anfang Oktober war leider ziemlich durchwachsen und es schneite auch immer wieder weit runter. Trotzdem sollte es bei etwas besserem Wetter an diesem Dienstag in die Berge gehen. Grob vom Bödele oberhalb von Dornbirn immer den Grat nach Süden entlang zur 1370m hoch gelegenen Weißenflußalpe.<br />Das Auto wurde um 10:15 auf einen der vielen Gratisparkplätze auf dem Bödele abgestellt. Zur Überraschung lag bereits auf den Nordhängen des 1150m hohen Bödeles etwas Schnee.",
     "landmarks": [
@@ -19,7 +21,10 @@
         "photos": [
           {
             "name": "001",
-            "alt": "Bödele im Herbst"
+            "alt": "Bödele im Herbst",
+            "date": "2020-10-13T10:33:25.000+02:00",
+            "width": 1920,
+            "height": 778
           }
         ],
         "videos": [],
@@ -29,11 +34,17 @@
         "photos": [
           {
             "name": "003",
-            "alt": "Fohramoos"
+            "alt": "Fohramoos",
+            "date": "2020-10-13T10:49:47.000+02:00",
+            "width": 1920,
+            "height": 946
           },
           {
             "name": "004",
-            "alt": "Panorama Bödele"
+            "alt": "Panorama Bödele",
+            "date": "2020-10-13T10:53:02.000+02:00",
+            "width": 1920,
+            "height": 803
           }
         ],
         "videos": [],
@@ -43,11 +54,17 @@
         "photos": [
           {
             "name": "006",
-            "alt": "Verschneiter Wanderweg"
+            "alt": "Verschneiter Wanderweg",
+            "date": "2020-10-13T10:57:46.000+02:00",
+            "width": 1920,
+            "height": 2880
           },
           {
             "name": "009",
-            "alt": "Blick zum Bodensee"
+            "alt": "Blick zum Bodensee",
+            "date": "2020-10-13T11:04:18.000+02:00",
+            "width": 1920,
+            "height": 670
           }
         ],
         "videos": [],
@@ -57,7 +74,10 @@
         "photos": [
           {
             "name": "011",
-            "alt": "Aussichtsbank Lanklift"
+            "alt": "Aussichtsbank Lanklift",
+            "date": "2020-10-13T11:08:55.000+02:00",
+            "width": 1920,
+            "height": 909
           }
         ],
         "videos": [],
@@ -67,11 +87,17 @@
         "photos": [
           {
             "name": "012",
-            "alt": "Nebelschwaden"
+            "alt": "Nebelschwaden",
+            "date": "2020-10-13T11:12:44.000+02:00",
+            "width": 1920,
+            "height": 1316
           },
           {
             "name": "013",
-            "alt": "Mystischer Wanderweg"
+            "alt": "Mystischer Wanderweg",
+            "date": "2020-10-13T11:14:35.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -81,11 +107,17 @@
         "photos": [
           {
             "name": "016",
-            "alt": "Aussicht Hochälpele"
+            "alt": "Aussicht Hochälpele",
+            "date": "2020-10-13T11:32:16.000+02:00",
+            "width": 1920,
+            "height": 904
           },
           {
             "name": "017",
-            "alt": "Bregenzer Wald"
+            "alt": "Bregenzer Wald",
+            "date": "2020-10-13T11:36:12.000+02:00",
+            "width": 1920,
+            "height": 1174
           }
         ],
         "videos": [],
@@ -95,7 +127,10 @@
         "photos": [
           {
             "name": "018",
-            "alt": "Wanderweg Hochälpele"
+            "alt": "Wanderweg Hochälpele",
+            "date": "2020-10-13T11:40:58.000+02:00",
+            "width": 1920,
+            "height": 1091
           }
         ],
         "videos": [],
@@ -105,7 +140,10 @@
         "photos": [
           {
             "name": "019",
-            "alt": "Hochälpelehütte"
+            "alt": "Hochälpelehütte",
+            "date": "2020-10-13T11:42:48.000+02:00",
+            "width": 1920,
+            "height": 1292
           }
         ],
         "videos": [],
@@ -115,7 +153,10 @@
         "photos": [
           {
             "name": "021",
-            "alt": "Wanderung Weißenfluhalpe"
+            "alt": "Wanderung Weißenfluhalpe",
+            "date": "2020-10-13T11:57:33.000+02:00",
+            "width": 1920,
+            "height": 842
           }
         ],
         "videos": [],
@@ -125,7 +166,10 @@
         "photos": [
           {
             "name": "024",
-            "alt": "Karren"
+            "alt": "Karren",
+            "date": "2020-10-13T12:11:54.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -135,7 +179,10 @@
         "photos": [
           {
             "name": "025",
-            "alt": "Herbstwald"
+            "alt": "Herbstwald",
+            "date": "2020-10-13T12:12:47.000+02:00",
+            "width": 1920,
+            "height": 2880
           }
         ],
         "videos": [],
@@ -145,7 +192,10 @@
         "photos": [
           {
             "name": "027",
-            "alt": "Geschwendtalpe"
+            "alt": "Geschwendtalpe",
+            "date": "2020-10-13T12:24:32.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -155,7 +205,10 @@
         "photos": [
           {
             "name": "032",
-            "alt": "Wald"
+            "alt": "Wald",
+            "date": "2020-10-13T12:48:21.000+02:00",
+            "width": 1920,
+            "height": 1353
           }
         ],
         "videos": [],
@@ -165,15 +218,24 @@
         "photos": [
           {
             "name": "037",
-            "alt": "Regen im Wald"
+            "alt": "Regen im Wald",
+            "date": "2020-10-13T13:20:26.000+02:00",
+            "width": 1920,
+            "height": 2880
           },
           {
             "name": "038",
-            "alt": "Triefender Wald"
+            "alt": "Triefender Wald",
+            "date": "2020-10-13T13:20:41.000+02:00",
+            "width": 1920,
+            "height": 1219
           },
           {
             "name": "039",
-            "alt": "Regentropfen bei Sonnenschein"
+            "alt": "Regentropfen bei Sonnenschein",
+            "date": "2020-10-13T13:22:18.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -183,11 +245,17 @@
         "photos": [
           {
             "name": "041",
-            "alt": "Schneebedeckter Fliegenpilz"
+            "alt": "Schneebedeckter Fliegenpilz",
+            "date": "2020-10-13T13:25:25.000+02:00",
+            "width": 1920,
+            "height": 1203
           },
           {
             "name": "042",
-            "alt": "Fliegenpilze"
+            "alt": "Fliegenpilze",
+            "date": "2020-10-13T13:26:08.000+02:00",
+            "width": 1920,
+            "height": 1154
           }
         ],
         "videos": [],
@@ -197,7 +265,10 @@
         "photos": [
           {
             "name": "044",
-            "alt": "Laubbaum an Hang"
+            "alt": "Laubbaum an Hang",
+            "date": "2020-10-13T13:33:57.000+02:00",
+            "width": 1920,
+            "height": 1156
           }
         ],
         "videos": [],
@@ -207,11 +278,17 @@
         "photos": [
           {
             "name": "046",
-            "alt": "Weißenfluhalpe"
+            "alt": "Weißenfluhalpe",
+            "date": "2020-10-13T13:40:01.000+02:00",
+            "width": 1920,
+            "height": 1174
           },
           {
             "name": "049",
-            "alt": "Gasthaus Weißenfluhalpe"
+            "alt": "Gasthaus Weißenfluhalpe",
+            "date": "2020-10-13T14:25:01.000+02:00",
+            "width": 1920,
+            "height": 665
           }
         ],
         "videos": [],
@@ -221,7 +298,10 @@
         "photos": [
           {
             "name": "050",
-            "alt": "Panorama Weißenfluhalpe"
+            "alt": "Panorama Weißenfluhalpe",
+            "date": "2020-10-13T14:29:04.000+02:00",
+            "width": 1920,
+            "height": 532
           }
         ],
         "videos": [],
@@ -231,7 +311,10 @@
         "photos": [
           {
             "name": "051",
-            "alt": "Waldweg Bregenzer Hütte"
+            "alt": "Waldweg Bregenzer Hütte",
+            "date": "2020-10-13T14:55:04.000+02:00",
+            "width": 1920,
+            "height": 892
           }
         ],
         "videos": [],
@@ -241,7 +324,10 @@
         "photos": [
           {
             "name": "052",
-            "alt": "Schwarzenberg"
+            "alt": "Schwarzenberg",
+            "date": "2020-10-13T15:03:59.000+02:00",
+            "width": 1920,
+            "height": 2880
           }
         ],
         "videos": [],
@@ -251,11 +337,17 @@
         "photos": [
           {
             "name": "053",
-            "alt": "Lustenauer Hütte"
+            "alt": "Lustenauer Hütte",
+            "date": "2020-10-13T15:08:55.000+02:00",
+            "width": 1920,
+            "height": 788
           },
           {
             "name": "054",
-            "alt": "Wanderung Lustenauer Hütte"
+            "alt": "Wanderung Lustenauer Hütte",
+            "date": "2020-10-13T15:13:58.000+02:00",
+            "width": 1920,
+            "height": 1273
           }
         ],
         "videos": [],
@@ -265,11 +357,17 @@
         "photos": [
           {
             "name": "056",
-            "alt": "Hochälpelealpe"
+            "alt": "Hochälpelealpe",
+            "date": "2020-10-13T15:33:31.000+02:00",
+            "width": 1920,
+            "height": 1178
           },
           {
             "name": "057",
-            "alt": "Kapelle Hochälpelealpe"
+            "alt": "Kapelle Hochälpelealpe",
+            "date": "2020-10-13T15:36:05.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -279,7 +377,10 @@
         "photos": [
           {
             "name": "058",
-            "alt": "Bregenzer Wald"
+            "alt": "Bregenzer Wald",
+            "date": "2020-10-13T16:20:03.000+02:00",
+            "width": 1920,
+            "height": 734
           }
         ],
         "videos": [],

@@ -13,11 +13,17 @@
         "photos": [
           {
             "name": "001",
-            "alt": "Steg"
+            "alt": "Steg",
+            "date": "2017-07-16T08:11:35.000+02:00",
+            "width": 1920,
+            "height": 694
           },
           {
             "name": "002",
-            "alt": "Feldweg"
+            "alt": "Feldweg",
+            "date": "2017-07-16T08:15:27.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "text": "Den Aufstieg wollte ich über den langen Grat machen, der das Rheintal von Malbun abtrennt. Deshalb startete mein Weg zuerst in die falsche Richtung, um den Grat auf Höhe des Tunnels zu erreichen. Bis dort hinauf auf einem nicht sehr steilen Fahrweg."
@@ -26,7 +32,10 @@
         "photos": [
           {
             "name": "003",
-            "alt": "Walderdbeere"
+            "alt": "Walderdbeere",
+            "date": "2017-07-16T08:16:23.000+02:00",
+            "width": 1920,
+            "height": 1254
           }
         ],
         "text": "Kleine Walderdbeeren am Wegrand"
@@ -35,7 +44,10 @@
         "photos": [
           {
             "name": "004",
-            "alt": "Sücka"
+            "alt": "Sücka",
+            "date": "2017-07-16T08:42:23.000+02:00",
+            "width": 1920,
+            "height": 895
           }
         ],
         "text": "Recht schnell passierte ich Sücka, einem Berggasthaus an der alten einspurigen Straße. Diese Straße ist inzwischen durch einen weiter unten liegenden neuen Tunnel ersetzt worden, ist aber noch befahrbar."
@@ -44,7 +56,10 @@
         "photos": [
           {
             "name": "005",
-            "alt": "Tunnel"
+            "alt": "Tunnel",
+            "date": "2017-07-16T08:46:30.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "text": "Auf eben dieser Straße musste ich die letzten Meter bis zum alten Tunnel zurücklegen. Ich ging aber nicht hindurch, sondern verließ den Asphalt Richtung Grat. Ab sofort ging es auch in die richtige Richtung."
@@ -53,7 +68,10 @@
         "photos": [
           {
             "name": "006",
-            "alt": "Dunkler Wald"
+            "alt": "Dunkler Wald",
+            "date": "2017-07-16T08:54:05.000+02:00",
+            "width": 1920,
+            "height": 1359
           }
         ],
         "text": "Der gleich sehr schmale Pfad tauchte nun in einen dunklen Wald ein."
@@ -62,7 +80,10 @@
         "photos": [
           {
             "name": "007",
-            "alt": "Waldweg"
+            "alt": "Waldweg",
+            "date": "2017-07-16T08:58:38.000+02:00",
+            "width": 1920,
+            "height": 1233
           }
         ],
         "text": "Der Weg führte dann direkt am steil abfallenden Grat zum Rheintal entlang - durch die vielen Bäume noch ohne Aussicht."
@@ -71,7 +92,10 @@
         "photos": [
           {
             "name": "008",
-            "alt": "Rheintal"
+            "alt": "Rheintal",
+            "date": "2017-07-16T09:12:24.000+02:00",
+            "width": 1920,
+            "height": 1138
           }
         ],
         "text": "An der ersten richtigen Aussicht ins Rheintal legte ich dann eine Pause ein. Bis hier war ich ungefähr eine Stunde unterwegs."
@@ -80,7 +104,10 @@
         "photos": [
           {
             "name": "009",
-            "alt": "Alpwiese"
+            "alt": "Alpwiese",
+            "date": "2017-07-16T09:19:30.000+02:00",
+            "width": 1920,
+            "height": 763
           }
         ],
         "text": "Zwischendurch kam ich auch mal aus dem Wald heraus und streifte die großen Kuhweiden von Steg. Hier der Blick zurück."
@@ -89,7 +116,10 @@
         "photos": [
           {
             "name": "010",
-            "alt": "Pfad durch Gras"
+            "alt": "Pfad durch Gras",
+            "date": "2017-07-16T09:26:14.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "text": "Außerhalb des Walds war der Weg schmal und nett zu gehen."
@@ -98,7 +128,10 @@
         "photos": [
           {
             "name": "011",
-            "alt": "Gesicherter Weg"
+            "alt": "Gesicherter Weg",
+            "date": "2017-07-16T09:34:25.000+02:00",
+            "width": 1920,
+            "height": 1419
           }
         ],
         "text": "Ziemlich unvermittelt wurde der Pfad aber ungemütlich, denn er führte auf der steilen Rheintalseite um einen Felsen herum. Sicherung war zwar teilweise vorhanden, ist aber wahrscheinlich bei Nässe trotzdem nicht ganz ohne. Das Ausflug auf die schroffe Westseite des Grat war aber auch schnell wieder vorbei."
@@ -107,11 +140,17 @@
         "photos": [
           {
             "name": "012",
-            "alt": "Krüppel"
+            "alt": "Krüppel",
+            "date": "2017-07-16T09:38:23.000+02:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "013",
-            "alt": "Krüppel"
+            "alt": "Krüppel",
+            "date": "2017-07-16T09:38:46.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "text": "Direkt danach liegt die kleine Schutzhütte Krüppel, in der man auch im Notfall übernachten könnte. Sie liegt auf einer kleinen Lichtung mitten im Wald und bot mir die Gelegenheit für eine weitere Pause. Inzwischen waren 400m Aufstieg geschafft."
@@ -120,7 +159,10 @@
         "photos": [
           {
             "name": "014",
-            "alt": "Gratweg im Wald"
+            "alt": "Gratweg im Wald",
+            "date": "2017-07-16T09:51:59.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "text": "Dann wurde der Grat wieder schmaler, aber harmlos."
@@ -129,7 +171,10 @@
         "photos": [
           {
             "name": "015",
-            "alt": "Liechtenstein"
+            "alt": "Liechtenstein",
+            "date": "2017-07-16T10:02:42.000+02:00",
+            "width": 1920,
+            "height": 725
           }
         ],
         "text": "Endlich erreichte ich die Waldgrenze und es boten sich schönere Panoramen über Liechtenstein. Hier der Blick zurück. Rechts der Stausee von Steg, links das Rheintal und in der Mitte der überquerte, bewaldete Grat."
@@ -138,7 +183,10 @@
         "photos": [
           {
             "name": "016",
-            "alt": "Raupe"
+            "alt": "Raupe",
+            "date": "2017-07-16T10:04:26.000+02:00",
+            "width": 1920,
+            "height": 1268
           }
         ],
         "text": "Keine Pistenraupe."
@@ -147,11 +195,17 @@
         "photos": [
           {
             "name": "017",
-            "alt": "Heubüal"
+            "alt": "Heubüal",
+            "date": "2017-07-16T10:10:27.000+02:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "018",
-            "alt": "Heubüal"
+            "alt": "Heubüal",
+            "date": "2017-07-16T10:19:35.000+02:00",
+            "width": 1920,
+            "height": 997
           }
         ],
         "text": "Nach dem doch recht anstrengenden Aufstieg erreichte ich nun den 1900m hohen Heubüal. Sicht zurück und nach vorne."
@@ -160,7 +214,10 @@
         "photos": [
           {
             "name": "019",
-            "alt": "Rappenstein"
+            "alt": "Rappenstein",
+            "date": "2017-07-16T10:25:35.000+02:00",
+            "width": 1920,
+            "height": 659
           }
         ],
         "text": "Der weitere Verlauf des Grats. Ganz hinten in der Mitte der grüne Berg ist das Ziel, der Rappenstein. Wie man sieht war der Grat jetzt nicht mehr gleichmäßig ansteigend, sondern er führte nun über mehrere kleine Gipfel."
@@ -169,7 +226,10 @@
         "photos": [
           {
             "name": "020",
-            "alt": "Felsenweg"
+            "alt": "Felsenweg",
+            "date": "2017-07-16T10:29:07.000+02:00",
+            "width": 1920,
+            "height": 2519
           }
         ],
         "text": "Gleich der Abstieg vom Heubüal war ziemlich steil und ich musste die Hände zur Hilfe nehmen."
@@ -178,11 +238,17 @@
         "photos": [
           {
             "name": "021",
-            "alt": "Pfad an Zaun"
+            "alt": "Pfad an Zaun",
+            "date": "2017-07-16T10:31:59.000+02:00",
+            "width": 1920,
+            "height": 1208
           },
           {
             "name": "022",
-            "alt": "Bergweide"
+            "alt": "Bergweide",
+            "date": "2017-07-16T10:36:36.000+02:00",
+            "width": 1920,
+            "height": 839
           }
         ],
         "text": "Danach passierte ich eine eingezäunte Wiese. Wie an diese exponierte Stelle die Tiere kommen sollen, ist mir nicht ganz klar. "
@@ -191,7 +257,10 @@
         "photos": [
           {
             "name": "023",
-            "alt": "Wegweiser"
+            "alt": "Wegweiser",
+            "date": "2017-07-16T10:46:04.000+02:00",
+            "width": 1920,
+            "height": 1115
           }
         ],
         "text": "Die erste Wegkreuzung seit Sücka. Ich kam vom Grat, der hier in der Mitte zu sehen ist und folge weiter dem Wegweiser zum Rappensteinsattel. Ich war schon 2:30h unterwegs und zum Sattel sind es noch 50min."
@@ -200,7 +269,10 @@
         "photos": [
           {
             "name": "024",
-            "alt": "Bergweg"
+            "alt": "Bergweg",
+            "date": "2017-07-16T10:52:48.000+02:00",
+            "width": 1920,
+            "height": 1287
           }
         ],
         "text": "Nach dem Pass mit dem Wegweister ging es wieder auf die steile Rheintalseite des Grats um eine Felsnase herum... abgesichert mit Drahtseil."
@@ -209,7 +281,10 @@
         "photos": [
           {
             "name": "025",
-            "alt": "Steile Treppe"
+            "alt": "Steile Treppe",
+            "date": "2017-07-16T10:54:19.000+02:00",
+            "width": 1920,
+            "height": 879
           }
         ],
         "text": "Und dann über Treppenstufen den steilen Grashang hinauf auf den Kolme. Der Blick ins Rheintal war zwar schön, aber auch ziemlich tief und steil."
@@ -218,7 +293,10 @@
         "photos": [
           {
             "name": "026",
-            "alt": "Goldlochspitz"
+            "alt": "Goldlochspitz",
+            "date": "2017-07-16T10:57:45.000+02:00",
+            "width": 1920,
+            "height": 648
           }
         ],
         "text": "Der nächste Abschnitt des Wegs war nun (kurz) deutlich erholsamer und führte über Wiesen Richtung Goldlochspitz. Hier begegnete ich nun auch den ersten anderen Wanderern"
@@ -227,7 +305,10 @@
         "photos": [
           {
             "name": "027",
-            "alt": "Liechtenstein"
+            "alt": "Liechtenstein",
+            "date": "2017-07-16T11:17:12.000+02:00",
+            "width": 1920,
+            "height": 874
           }
         ],
         "text": "Aufstieg zur Goldlochspitz. Rechts im Hintergrund ist der Naafkopf und links der Augstenberg zu sehen."
@@ -236,7 +317,10 @@
         "photos": [
           {
             "name": "028",
-            "alt": "Rheintal"
+            "alt": "Rheintal",
+            "date": "2017-07-16T11:18:33.000+02:00",
+            "width": 1920,
+            "height": 1125
           }
         ],
         "text": "Immer noch beim anstengendem Aufstieg. Hier der Blick zurück ins Rheintal."
@@ -245,7 +329,10 @@
         "photos": [
           {
             "name": "029",
-            "alt": "Rappenstein"
+            "alt": "Rappenstein",
+            "date": "2017-07-16T11:20:18.000+02:00",
+            "width": 1920,
+            "height": 777
           }
         ],
         "text": "Und an der Goldlochspitz vorbei sah ich bereits den Rappenstein... bis dorthin musste ich aber noch den Grat überwinden."
@@ -254,7 +341,10 @@
         "photos": [
           {
             "name": "030",
-            "alt": "Goldlochspitz"
+            "alt": "Goldlochspitz",
+            "date": "2017-07-16T11:21:19.000+02:00",
+            "width": 1920,
+            "height": 650
           }
         ],
         "text": "Blick von der Goldlochspitz zum Rappenstein. Der weitere Grat sah schon von hier recht ungemütlich aus."
@@ -263,7 +353,10 @@
         "photos": [
           {
             "name": "031",
-            "alt": "Rheintal"
+            "alt": "Rheintal",
+            "date": "2017-07-16T11:21:57.000+02:00",
+            "width": 1920,
+            "height": 630
           }
         ],
         "text": "Deshalb lieber noch mal der Blick zurück zum Rheintal."
@@ -272,7 +365,10 @@
         "photos": [
           {
             "name": "032",
-            "alt": "Gratweg"
+            "alt": "Gratweg",
+            "date": "2017-07-16T11:23:34.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "text": "Nach dem schon ziemlich unangenehmen Abstieg von der Goldlochspitz (schmal, steil, ohne Serpentinen) kam der nach meiner Meinung stressigste Abschnitt der gesamten Wanderung: dieser schmale Grat links und rechts steil abfallend. Schwindelfreie werden wahrscheinlich locker rüberspazieren... aber da ich es nicht 100% bin, habe ich nur auf meine Füße geschaut und versucht die Abgründe links und rechts zu ignorieren. ;)"
@@ -281,7 +377,10 @@
         "photos": [
           {
             "name": "033",
-            "alt": "Gratweg"
+            "alt": "Gratweg",
+            "date": "2017-07-16T11:27:23.000+02:00",
+            "width": 1920,
+            "height": 1189
           }
         ],
         "text": "Ersten Grat und Felsen überwunden ging es noch weiter so zum Rappensteinsattel (wenn auch nicht mehr ganz so ausgesetzt)."
@@ -290,7 +389,10 @@
         "photos": [
           {
             "name": "034",
-            "alt": "Goldlochspitz"
+            "alt": "Goldlochspitz",
+            "date": "2017-07-16T11:31:47.000+02:00",
+            "width": 1920,
+            "height": 892
           }
         ],
         "text": "Blick zurück zur Goldlochspitz. Hier sieht man auch wie schmal der Weg war (da passen keine zwei Schuhe nebeneinander) und auch der steile Abstieg von der Goldlochspitz ist zu sehen."
@@ -299,7 +401,10 @@
         "photos": [
           {
             "name": "035",
-            "alt": "Rappensteinsattel"
+            "alt": "Rappensteinsattel",
+            "date": "2017-07-16T11:36:38.000+02:00",
+            "width": 1920,
+            "height": 1261
           }
         ],
         "text": "Puh, Rappensteinsattel erreicht. Bis hier her werde ich auch wieder zurücklaufen, denn der letzte Aufstieg zum Rappenstein ist eine Sackgasse. Hier erreicht auch der Hauptweg zum Rappenstein den Grat, somit war der Weg nun deutlich besser ausgebaut und es waren auch mehr andere Wanderer unterwegs."
@@ -308,7 +413,10 @@
         "photos": [
           {
             "name": "036",
-            "alt": "Rappensteinsattel"
+            "alt": "Rappensteinsattel",
+            "date": "2017-07-16T11:39:22.000+02:00",
+            "width": 1920,
+            "height": 1151
           }
         ],
         "text": "Nun wurde es richtig steil und der Weg führte durch eine kleine Felswand bergauf. Da aber immer ein Drahtseil griffbereit war, war das für mich trotzdem angenehmer als der grüne Grat, der hier rechts im Rückblick zu sehen ist."
@@ -317,7 +425,10 @@
         "photos": [
           {
             "name": "037",
-            "alt": "Rappenstein"
+            "alt": "Rappenstein",
+            "date": "2017-07-16T11:51:56.000+02:00",
+            "width": 1920,
+            "height": 1068
           }
         ],
         "text": "Nach der Felswand ging es auf steiler Wiese weiter zum Gipfel."
@@ -326,7 +437,10 @@
         "photos": [
           {
             "name": "038",
-            "alt": "Rappenstein Panorama"
+            "alt": "Rappenstein Panorama",
+            "date": "2017-07-16T12:02:05.000+02:00",
+            "width": 1920,
+            "height": 528
           }
         ],
         "text": "Nach insgesamt 4h Stunden Schinderei hatte ich nun den 2200m hohen Gipfel des Rappenstein erreicht. Hier wieder der Blick entlang des Grats des Aufstiegs."
@@ -335,7 +449,10 @@
         "photos": [
           {
             "name": "039",
-            "alt": "Bodensee"
+            "alt": "Bodensee",
+            "date": "2017-07-16T12:18:44.000+02:00",
+            "width": 1920,
+            "height": 903
           }
         ],
         "text": "Die Sicht war recht gut, so dass im Tele sogar das Ostende des Bodensees sichtbar war."
@@ -344,7 +461,10 @@
         "photos": [
           {
             "name": "040",
-            "alt": "Rheintal"
+            "alt": "Rheintal",
+            "date": "2017-07-16T12:19:36.000+02:00",
+            "width": 1920,
+            "height": 779
           }
         ],
         "text": "Weitwinkelaufnahme hinunter zum Rheintal."
@@ -353,7 +473,10 @@
         "photos": [
           {
             "name": "041",
-            "alt": "Gapfahl"
+            "alt": "Gapfahl",
+            "date": "2017-07-16T12:20:58.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "text": "Miniaturaufnahme von Obersäss/Gapfahl, das ich gleich auf meinem Abstieg passieren werde."
@@ -362,7 +485,10 @@
         "photos": [
           {
             "name": "042",
-            "alt": "Falknis"
+            "alt": "Falknis",
+            "date": "2017-07-16T12:21:47.000+02:00",
+            "width": 1920,
+            "height": 801
           }
         ],
         "text": "Blick zum 2500m hohen Falknis, der für mich nur von der anderen Seite möglich ist."
@@ -371,7 +497,10 @@
         "photos": [
           {
             "name": "043",
-            "alt": "Schesaplana"
+            "alt": "Schesaplana",
+            "date": "2017-07-16T12:22:07.000+02:00",
+            "width": 1920,
+            "height": 547
           }
         ],
         "text": "Im Osten zwischen <a href='/alpine/malbun/20161016'>Augstenberg und Naafkopf</a> die Pfälzerhütte und dahinter die mächtige <a href='/alpine/brandnertal/20150829'>Schesaplana</a>"
@@ -380,7 +509,10 @@
         "photos": [
           {
             "name": "044",
-            "alt": "Tuass"
+            "alt": "Tuass",
+            "date": "2017-07-16T12:22:38.000+02:00",
+            "width": 1920,
+            "height": 1021
           }
         ],
         "text": "Die kleine Siedlung Tuass, die auf halber Höhe zwischen Rheintal und Rappenstein liegt und nur zu Fuß erreichbar ist."
@@ -389,7 +521,10 @@
         "photos": [
           {
             "name": "045",
-            "alt": "Höhenweg"
+            "alt": "Höhenweg",
+            "date": "2017-07-16T12:30:16.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "text": "Nach ausgiebiger Pause und Genuß der schönen Aussicht, machte ich mich auf den Abstieg. Bis zum Rappensteinsattel auf gleichem Weg."
@@ -398,7 +533,10 @@
         "photos": [
           {
             "name": "046",
-            "alt": "Rappensteinsattel"
+            "alt": "Rappensteinsattel",
+            "date": "2017-07-16T12:39:24.000+02:00",
+            "width": 1920,
+            "height": 757
           }
         ],
         "text": "Natürlich musste auch wieder die Felswand oberhalb des Rappensteinsattels überwunden werden... runter schwieriger als hoch."
@@ -407,7 +545,10 @@
         "photos": [
           {
             "name": "047",
-            "alt": "Gapfahl"
+            "alt": "Gapfahl",
+            "date": "2017-07-16T12:43:33.000+02:00",
+            "width": 1920,
+            "height": 792
           }
         ],
         "text": "Nun zweigte ich aber ins Tal nach Obersäss/Gapfahl ab und für den Rest des Tages gab es keine Schwierigkeiten mehr."
@@ -416,7 +557,10 @@
         "photos": [
           {
             "name": "048",
-            "alt": "Rappenstein"
+            "alt": "Rappenstein",
+            "date": "2017-07-16T13:09:10.000+02:00",
+            "width": 1920,
+            "height": 782
           }
         ],
         "text": "Ab Obersäss wurde es aber dann sogar zu einfach, den der Abstieg erfolgt von dort auf einer ziemlich flachen Fahrstraße. Im Hintergrund links der Rappenstein und rechts die Goldlochspitz."
@@ -425,7 +569,10 @@
         "photos": [
           {
             "name": "049",
-            "alt": "Naafkopf"
+            "alt": "Naafkopf",
+            "date": "2017-07-16T13:10:51.000+02:00",
+            "width": 1920,
+            "height": 829
           }
         ],
         "text": "Blick das Tal hinab. Im Hintergrund wieder der Naafkopf."
@@ -434,7 +581,10 @@
         "photos": [
           {
             "name": "050",
-            "alt": "Alpwiese"
+            "alt": "Alpwiese",
+            "date": "2017-07-16T13:21:29.000+02:00",
+            "width": 1920,
+            "height": 994
           }
         ],
         "text": "Weiter auf der Straße. Schade, dass es durch diese schöne Landschaft keinen richtigen Wanderweg gibt."
@@ -443,7 +593,10 @@
         "photos": [
           {
             "name": "051",
-            "alt": "Bergstraße"
+            "alt": "Bergstraße",
+            "date": "2017-07-16T13:31:18.000+02:00",
+            "width": 1920,
+            "height": 1048
           }
         ],
         "text": "Die flachen ausuferenden Serpentinen nervten etwas, so dass ich sie zum Teil querfeldein abkürzte."
@@ -452,11 +605,17 @@
         "photos": [
           {
             "name": "052",
-            "alt": "Waldboda"
+            "alt": "Waldboda",
+            "date": "2017-07-16T13:40:42.000+02:00",
+            "width": 1920,
+            "height": 1124
           },
           {
             "name": "053",
-            "alt": "Waldboda"
+            "alt": "Waldboda",
+            "date": "2017-07-16T13:45:50.000+02:00",
+            "width": 1920,
+            "height": 1313
           }
         ],
         "text": "Vorbei an der malerischen Alp Waldboda."
@@ -465,7 +624,10 @@
         "photos": [
           {
             "name": "054",
-            "alt": "Talende"
+            "alt": "Talende",
+            "date": "2017-07-16T14:13:27.000+02:00",
+            "width": 1920,
+            "height": 879
           }
         ],
         "text": "Dann erreichte ich den 1500m hohen Talgrund. Kühlte meine Füße im kalten Bach und stieg nun von den schweren Bergschuhen auf Sandalen um. Hier der Blick zurück zum Talende, ich kam von rechts hinab."
@@ -474,7 +636,10 @@
         "photos": [
           {
             "name": "055",
-            "alt": "Valüna"
+            "alt": "Valüna",
+            "date": "2017-07-16T14:21:13.000+02:00",
+            "width": 1920,
+            "height": 748
           }
         ],
         "text": "Immer noch auf der Straße kam ich zur Alp/Restaurant Valüna. Beliebtes Spazierziel von Steg aus."
@@ -483,7 +648,10 @@
         "photos": [
           {
             "name": "056",
-            "alt": "Valüna"
+            "alt": "Valüna",
+            "date": "2017-07-16T14:28:10.000+02:00",
+            "width": 1920,
+            "height": 846
           }
         ],
         "text": "Ab Valüna kann man zum Glück den Fahrweg verlassen und kann schön auf der Trasse der Langlaufloipe weiterlaufen. Die Loipe führt im Winter von Steg nach Valüna."
@@ -492,11 +660,17 @@
         "photos": [
           {
             "name": "057",
-            "alt": "Valünerbach"
+            "alt": "Valünerbach",
+            "date": "2017-07-16T14:32:48.000+02:00",
+            "width": 1920,
+            "height": 1079
           },
           {
             "name": "058",
-            "alt": "Valünerbach"
+            "alt": "Valünerbach",
+            "date": "2017-07-16T14:44:39.000+02:00",
+            "width": 1920,
+            "height": 1104
           }
         ],
         "text": "Sehr schöner Spazierweg entlang des Valünerbachs... wenn auch gut begangen (habe die Fotoszeitpunkte gut gewählt)."
@@ -505,7 +679,10 @@
         "photos": [
           {
             "name": "059",
-            "alt": "Gänglesee"
+            "alt": "Gänglesee",
+            "date": "2017-07-16T15:08:56.000+02:00",
+            "width": 1920,
+            "height": 841
           }
         ],
         "text": "Nach einer Stunde von Valüna erreicht ich schließlich den gestauten Gänglesee, an dem ich mein Auto abgestellt hatte."
@@ -514,7 +691,10 @@
         "photos": [
           {
             "name": "060",
-            "alt": "Steg"
+            "alt": "Steg",
+            "date": "2017-07-16T15:10:41.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "text": "Blick von der Brücke auf den größeren Stausee unterhalb, im Hintergrund die Häuser von Steg."
@@ -523,7 +703,10 @@
         "photos": [
           {
             "name": "061",
-            "alt": "Valünatal"
+            "alt": "Valünatal",
+            "date": "2017-07-16T15:11:04.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "text": "Ebenfalls von der Brücke der Blick über den Gänglesee auf das durchwanderte Tal von Valüna.<br />Am Auto war ich dann schließlich um 15:15."

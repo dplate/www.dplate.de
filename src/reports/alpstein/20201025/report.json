@@ -8,9 +8,11 @@
     "shortTitle": "Lütispitz",
     "title": "Gräppelensee - Lütispitz",
     "title3d": {
-      "offsetY": 4.0,
+      "offsetY": 4,
       "fontSize": 5.8,
-      "align": "left"
+      "align": "left",
+      "width": 1920,
+      "height": 475
     },
     "intro": "Ein (begehbarer) Gipfel fehlte mir bislang im Osten des Alpstein - die 1990m hohe Lütispitz. Inzwischen war der Schnee von Anfang Oktober zumindest auf den Südhängen bis 2000m geschmolzen, so dass es an diesem Herbstsonntag der richtige Zeitpunkt war, diese Lücke zu schließen.<br />Auf die Lütispitz kann man entweder von Norden von der Schwägalpstraße oder von Süden über den Gräppelensee wandern. Ende Oktober wählte ich natürlich die Sonnenseite. Der <a href='/alpine/alpstein/20180916' target='_blank'>Parkplatz in Laui</a> würde sich eigentlich anbieten, aber von dort ist es schwierig eine Runde zu laufen. Ganz von Alt St. Johann teilweise über Straßen hochzulaufen, hatte ich auch keine Lust. Auf der Karte entdeckte ich dann zwei kleine Parkplätze oberhalb von Alt St. Johann. Einer in der Kehre bei Scharten und einer ein Stück weiter bei Burst.<br />Beide bieten nur jeweils für ein paar Autos Platz, da ich aber die Zeitumstellung an diesem Sonntag ignoriert hatte, konnte ich mein Auto problemlos in Scharten um 7:00 (bzw. Sommerzeit 8:00) abstellen.",
     "landmarks": [
@@ -18,7 +20,10 @@
         "photos": [
           {
             "name": "001",
-            "alt": "Mittelberg"
+            "alt": "Mittelberg",
+            "date": "2020-10-25T07:09:46.000+01:00",
+            "width": 1920,
+            "height": 1024
           }
         ],
         "videos": [],
@@ -28,11 +33,17 @@
         "photos": [
           {
             "name": "002",
-            "alt": "Wiese bei Sonnenaufgang"
+            "alt": "Wiese bei Sonnenaufgang",
+            "date": "2020-10-25T07:19:42.000+01:00",
+            "width": 1920,
+            "height": 872
           },
           {
             "name": "003",
-            "alt": "Sonnenaufgang Toggenburg"
+            "alt": "Sonnenaufgang Toggenburg",
+            "date": "2020-10-25T07:22:10.000+01:00",
+            "width": 1920,
+            "height": 592
           }
         ],
         "videos": [],
@@ -42,11 +53,17 @@
         "photos": [
           {
             "name": "004",
-            "alt": "Lauiberg"
+            "alt": "Lauiberg",
+            "date": "2020-10-25T07:23:02.000+01:00",
+            "width": 1920,
+            "height": 1092
           },
           {
             "name": "005",
-            "alt": "Herbstwanderung"
+            "alt": "Herbstwanderung",
+            "date": "2020-10-25T07:28:21.000+01:00",
+            "width": 1920,
+            "height": 855
           }
         ],
         "videos": [],
@@ -56,7 +73,10 @@
         "photos": [
           {
             "name": "006",
-            "alt": "Steinweg im Wald"
+            "alt": "Steinweg im Wald",
+            "date": "2020-10-25T07:30:01.000+01:00",
+            "width": 1920,
+            "height": 2880
           }
         ],
         "videos": [],
@@ -66,11 +86,17 @@
         "photos": [
           {
             "name": "007",
-            "alt": "Wanderweg Gräppelensee"
+            "alt": "Wanderweg Gräppelensee",
+            "date": "2020-10-25T07:34:23.000+01:00",
+            "width": 1920,
+            "height": 1208
           },
           {
             "name": "008",
-            "alt": "Churfirsten im Herbst"
+            "alt": "Churfirsten im Herbst",
+            "date": "2020-10-25T07:38:26.000+01:00",
+            "width": 1920,
+            "height": 1279
           }
         ],
         "videos": [],
@@ -80,7 +106,10 @@
         "photos": [
           {
             "name": "009",
-            "alt": "Wanderung Gräppelensee"
+            "alt": "Wanderung Gräppelensee",
+            "date": "2020-10-25T07:39:48.000+01:00",
+            "width": 1920,
+            "height": 857
           }
         ],
         "videos": [],
@@ -90,7 +119,10 @@
         "photos": [
           {
             "name": "010",
-            "alt": "Säntis im Oktober"
+            "alt": "Säntis im Oktober",
+            "date": "2020-10-25T07:41:13.000+01:00",
+            "width": 1920,
+            "height": 1111
           }
         ],
         "videos": [],
@@ -100,11 +132,17 @@
         "photos": [
           {
             "name": "011",
-            "alt": "Grillstelle Gräppelensee"
+            "alt": "Grillstelle Gräppelensee",
+            "date": "2020-10-25T07:45:16.000+01:00",
+            "width": 1920,
+            "height": 983
           },
           {
             "name": "012",
-            "alt": "Gräppelensee"
+            "alt": "Gräppelensee",
+            "date": "2020-10-25T07:46:23.000+01:00",
+            "width": 1920,
+            "height": 1207
           }
         ],
         "videos": [],
@@ -114,7 +152,10 @@
         "photos": [
           {
             "name": "013",
-            "alt": "Schafberg Gräppelensee"
+            "alt": "Schafberg Gräppelensee",
+            "date": "2020-10-25T07:49:18.000+01:00",
+            "width": 1920,
+            "height": 1188
           }
         ],
         "videos": [],
@@ -124,7 +165,10 @@
         "photos": [
           {
             "name": "014",
-            "alt": "Badesteg Gräppelensee"
+            "alt": "Badesteg Gräppelensee",
+            "date": "2020-10-25T07:52:57.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -134,7 +178,10 @@
         "photos": [
           {
             "name": "015",
-            "alt": "Dunkler Bergsee"
+            "alt": "Dunkler Bergsee",
+            "date": "2020-10-25T08:04:12.000+01:00",
+            "width": 1920,
+            "height": 877
           }
         ],
         "videos": [],
@@ -144,19 +191,31 @@
         "photos": [
           {
             "name": "016",
-            "alt": "Gefrorene Kuhlen"
+            "alt": "Gefrorene Kuhlen",
+            "date": "2020-10-25T08:08:58.000+01:00",
+            "width": 1920,
+            "height": 608
           },
           {
             "name": "017",
-            "alt": "Wanderung Obertoggenburg"
+            "alt": "Wanderung Obertoggenburg",
+            "date": "2020-10-25T08:21:41.000+01:00",
+            "width": 1920,
+            "height": 803
           },
           {
             "name": "018",
-            "alt": "Wanderweg Windenpass"
+            "alt": "Wanderweg Windenpass",
+            "date": "2020-10-25T08:24:23.000+01:00",
+            "width": 1920,
+            "height": 1269
           },
           {
             "name": "019",
-            "alt": "Wanderung Windenpass"
+            "alt": "Wanderung Windenpass",
+            "date": "2020-10-25T08:27:44.000+01:00",
+            "width": 1920,
+            "height": 1187
           }
         ],
         "videos": [],
@@ -166,7 +225,10 @@
         "photos": [
           {
             "name": "020",
-            "alt": "Hinderwinden"
+            "alt": "Hinderwinden",
+            "date": "2020-10-25T08:39:07.000+01:00",
+            "width": 1920,
+            "height": 780
           }
         ],
         "videos": [],
@@ -176,7 +238,10 @@
         "photos": [
           {
             "name": "021",
-            "alt": "Wegweiser Windenpass"
+            "alt": "Wegweiser Windenpass",
+            "date": "2020-10-25T08:45:26.000+01:00",
+            "width": 1920,
+            "height": 1230
           }
         ],
         "videos": [],
@@ -186,11 +251,17 @@
         "photos": [
           {
             "name": "022",
-            "alt": "Hochalp"
+            "alt": "Hochalp",
+            "date": "2020-10-25T08:51:52.000+01:00",
+            "width": 1920,
+            "height": 574
           },
           {
             "name": "023",
-            "alt": "Windenpass"
+            "alt": "Windenpass",
+            "date": "2020-10-25T08:52:16.000+01:00",
+            "width": 1920,
+            "height": 1416
           }
         ],
         "videos": [],
@@ -200,7 +271,10 @@
         "photos": [
           {
             "name": "024",
-            "alt": "Glärnisch"
+            "alt": "Glärnisch",
+            "date": "2020-10-25T08:54:25.000+01:00",
+            "width": 1920,
+            "height": 1098
           }
         ],
         "videos": [],
@@ -210,7 +284,10 @@
         "photos": [
           {
             "name": "025",
-            "alt": "Stockberg"
+            "alt": "Stockberg",
+            "date": "2020-10-25T08:59:08.000+01:00",
+            "width": 1920,
+            "height": 797
           }
         ],
         "videos": [],
@@ -220,7 +297,10 @@
         "photos": [
           {
             "name": "026",
-            "alt": "Grashang Lütispitz"
+            "alt": "Grashang Lütispitz",
+            "date": "2020-10-25T09:05:57.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -230,7 +310,10 @@
         "photos": [
           {
             "name": "027",
-            "alt": "Wanderung Lütispitz"
+            "alt": "Wanderung Lütispitz",
+            "date": "2020-10-25T09:14:17.000+01:00",
+            "width": 1920,
+            "height": 697
           }
         ],
         "videos": [],
@@ -240,7 +323,10 @@
         "photos": [
           {
             "name": "028",
-            "alt": "Schwendiseen"
+            "alt": "Schwendiseen",
+            "date": "2020-10-25T09:16:36.000+01:00",
+            "width": 1920,
+            "height": 1234
           }
         ],
         "videos": [],
@@ -250,7 +336,10 @@
         "photos": [
           {
             "name": "029",
-            "alt": "Grat Lütispitz"
+            "alt": "Grat Lütispitz",
+            "date": "2020-10-25T09:33:52.000+01:00",
+            "width": 1920,
+            "height": 875
           }
         ],
         "videos": [],
@@ -260,7 +349,10 @@
         "photos": [
           {
             "name": "030",
-            "alt": "Panorama Lütispitz"
+            "alt": "Panorama Lütispitz",
+            "date": "2020-10-25T09:39:37.000+01:00",
+            "width": 1920,
+            "height": 788
           }
         ],
         "videos": [],
@@ -270,7 +362,10 @@
         "photos": [
           {
             "name": "031",
-            "alt": "Aussicht Lütispitz"
+            "alt": "Aussicht Lütispitz",
+            "date": "2020-10-25T09:40:36.000+01:00",
+            "width": 1920,
+            "height": 640
           }
         ],
         "videos": [],
@@ -280,7 +375,10 @@
         "photos": [
           {
             "name": "032",
-            "alt": "Kronberg"
+            "alt": "Kronberg",
+            "date": "2020-10-25T09:41:19.000+01:00",
+            "width": 1920,
+            "height": 973
           }
         ],
         "videos": [],
@@ -290,7 +388,10 @@
         "photos": [
           {
             "name": "033",
-            "alt": "Churfirsten"
+            "alt": "Churfirsten",
+            "date": "2020-10-25T09:41:43.000+01:00",
+            "width": 1920,
+            "height": 726
           }
         ],
         "videos": [],
@@ -300,7 +401,10 @@
         "photos": [
           {
             "name": "034",
-            "alt": "Gulmen"
+            "alt": "Gulmen",
+            "date": "2020-10-25T09:42:16.000+01:00",
+            "width": 1920,
+            "height": 596
           }
         ],
         "videos": [],
@@ -310,7 +414,10 @@
         "photos": [
           {
             "name": "035",
-            "alt": "Gipfelkreuz Lütispitz"
+            "alt": "Gipfelkreuz Lütispitz",
+            "date": "2020-10-25T09:43:45.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -320,7 +427,10 @@
         "photos": [
           {
             "name": "036",
-            "alt": "Säntis"
+            "alt": "Säntis",
+            "date": "2020-10-25T09:52:53.000+01:00",
+            "width": 1920,
+            "height": 645
           }
         ],
         "videos": [],
@@ -330,7 +440,10 @@
         "photos": [
           {
             "name": "037",
-            "alt": "Gräppelensee von oben"
+            "alt": "Gräppelensee von oben",
+            "date": "2020-10-25T09:55:52.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -340,7 +453,10 @@
         "photos": [
           {
             "name": "038",
-            "alt": "Schwierigkeit Lütispitz"
+            "alt": "Schwierigkeit Lütispitz",
+            "date": "2020-10-25T10:02:25.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -350,11 +466,17 @@
         "photos": [
           {
             "name": "039",
-            "alt": "Alter Alpweg"
+            "alt": "Alter Alpweg",
+            "date": "2020-10-25T10:29:44.000+01:00",
+            "width": 1920,
+            "height": 815
           },
           {
             "name": "040",
-            "alt": "Windenpass"
+            "alt": "Windenpass",
+            "date": "2020-10-25T10:33:45.000+01:00",
+            "width": 1920,
+            "height": 663
           }
         ],
         "videos": [],
@@ -364,11 +486,17 @@
         "photos": [
           {
             "name": "041",
-            "alt": "Wanderweg durch Latschenkiefern"
+            "alt": "Wanderweg durch Latschenkiefern",
+            "date": "2020-10-25T10:46:39.000+01:00",
+            "width": 1920,
+            "height": 2065
           },
           {
             "name": "042",
-            "alt": "Schöner Wanderweg"
+            "alt": "Schöner Wanderweg",
+            "date": "2020-10-25T10:48:50.000+01:00",
+            "width": 1920,
+            "height": 2675
           }
         ],
         "videos": [],
@@ -378,11 +506,17 @@
         "photos": [
           {
             "name": "043",
-            "alt": "Lütispitz"
+            "alt": "Lütispitz",
+            "date": "2020-10-25T10:59:09.000+01:00",
+            "width": 1920,
+            "height": 1124
           },
           {
             "name": "044",
-            "alt": "Steiler Hang"
+            "alt": "Steiler Hang",
+            "date": "2020-10-25T11:00:36.000+01:00",
+            "width": 1920,
+            "height": 2880
           }
         ],
         "videos": [],
@@ -392,11 +526,17 @@
         "photos": [
           {
             "name": "045",
-            "alt": "Wanderweg Alpli"
+            "alt": "Wanderweg Alpli",
+            "date": "2020-10-25T11:09:11.000+01:00",
+            "width": 1920,
+            "height": 2880
           },
           {
             "name": "046",
-            "alt": "Lütispitz mit Säntis"
+            "alt": "Lütispitz mit Säntis",
+            "date": "2020-10-25T11:16:10.000+01:00",
+            "width": 1920,
+            "height": 1109
           }
         ],
         "videos": [],
@@ -406,15 +546,24 @@
         "photos": [
           {
             "name": "047",
-            "alt": "Risipass Alpli"
+            "alt": "Risipass Alpli",
+            "date": "2020-10-25T11:19:43.000+01:00",
+            "width": 1920,
+            "height": 706
           },
           {
             "name": "048",
-            "alt": "Wanderung Alpli"
+            "alt": "Wanderung Alpli",
+            "date": "2020-10-25T11:25:22.000+01:00",
+            "width": 1920,
+            "height": 609
           },
           {
             "name": "049",
-            "alt": "Alpli"
+            "alt": "Alpli",
+            "date": "2020-10-25T11:32:41.000+01:00",
+            "width": 1920,
+            "height": 1029
           }
         ],
         "videos": [],
@@ -424,7 +573,10 @@
         "photos": [
           {
             "name": "050",
-            "alt": "Wanderung Obertoggenburg"
+            "alt": "Wanderung Obertoggenburg",
+            "date": "2020-10-25T11:37:26.000+01:00",
+            "width": 1920,
+            "height": 686
           }
         ],
         "videos": [],
@@ -434,7 +586,10 @@
         "photos": [
           {
             "name": "051",
-            "alt": "Schwieriger Weg Alplispitz"
+            "alt": "Schwieriger Weg Alplispitz",
+            "date": "2020-10-25T11:47:03.000+01:00",
+            "width": 1920,
+            "height": 2102
           }
         ],
         "videos": [],
@@ -444,7 +599,10 @@
         "photos": [
           {
             "name": "053",
-            "alt": "Geröllfeld Alplispitz"
+            "alt": "Geröllfeld Alplispitz",
+            "date": "2020-10-25T11:56:21.000+01:00",
+            "width": 1920,
+            "height": 1220
           }
         ],
         "videos": [],
@@ -454,7 +612,10 @@
         "photos": [
           {
             "name": "054",
-            "alt": "Gipfel Alplispitz"
+            "alt": "Gipfel Alplispitz",
+            "date": "2020-10-25T12:00:19.000+01:00",
+            "width": 1920,
+            "height": 811
           }
         ],
         "videos": [],
@@ -464,7 +625,10 @@
         "photos": [
           {
             "name": "055",
-            "alt": "Panorama Alplispitz"
+            "alt": "Panorama Alplispitz",
+            "date": "2020-10-25T12:01:57.000+01:00",
+            "width": 1920,
+            "height": 646
           }
         ],
         "videos": [],
@@ -474,7 +638,10 @@
         "photos": [
           {
             "name": "056",
-            "alt": "Churfirsten"
+            "alt": "Churfirsten",
+            "date": "2020-10-25T12:02:14.000+01:00",
+            "width": 1920,
+            "height": 624
           }
         ],
         "videos": [],
@@ -484,7 +651,10 @@
         "photos": [
           {
             "name": "057",
-            "alt": "Alplispitz"
+            "alt": "Alplispitz",
+            "date": "2020-10-25T12:06:57.000+01:00",
+            "width": 1920,
+            "height": 851
           }
         ],
         "videos": [],
@@ -494,7 +664,10 @@
         "photos": [
           {
             "name": "058",
-            "alt": "Steiler Gratweg"
+            "alt": "Steiler Gratweg",
+            "date": "2020-10-25T12:11:01.000+01:00",
+            "width": 1920,
+            "height": 821
           }
         ],
         "videos": [],
@@ -504,11 +677,17 @@
         "photos": [
           {
             "name": "059",
-            "alt": "Schöner Gratweg"
+            "alt": "Schöner Gratweg",
+            "date": "2020-10-25T12:11:49.000+01:00",
+            "width": 1920,
+            "height": 681
           },
           {
             "name": "060",
-            "alt": "Wanderung Alplispitz"
+            "alt": "Wanderung Alplispitz",
+            "date": "2020-10-25T12:15:17.000+01:00",
+            "width": 1920,
+            "height": 684
           }
         ],
         "videos": [],
@@ -518,7 +697,10 @@
         "photos": [
           {
             "name": "061",
-            "alt": "Neuenalpspitz"
+            "alt": "Neuenalpspitz",
+            "date": "2020-10-25T12:23:00.000+01:00",
+            "width": 1920,
+            "height": 1156
           }
         ],
         "videos": [],
@@ -528,7 +710,10 @@
         "photos": [
           {
             "name": "062",
-            "alt": "Wegweiser Gmeinenwies"
+            "alt": "Wegweiser Gmeinenwies",
+            "date": "2020-10-25T12:24:20.000+01:00",
+            "width": 1920,
+            "height": 1307
           }
         ],
         "videos": [],
@@ -538,11 +723,17 @@
         "photos": [
           {
             "name": "063",
-            "alt": "Neue Alp Gmeinenwis"
+            "alt": "Neue Alp Gmeinenwis",
+            "date": "2020-10-25T12:33:16.000+01:00",
+            "width": 1920,
+            "height": 1205
           },
           {
             "name": "064",
-            "alt": "Alter Wanderweg durch Felsen"
+            "alt": "Alter Wanderweg durch Felsen",
+            "date": "2020-10-25T12:34:48.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -552,11 +743,17 @@
         "photos": [
           {
             "name": "065",
-            "alt": "Wanderung Toggenburg"
+            "alt": "Wanderung Toggenburg",
+            "date": "2020-10-25T12:49:19.000+01:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "066",
-            "alt": "Alp Tal"
+            "alt": "Alp Tal",
+            "date": "2020-10-25T12:54:35.000+01:00",
+            "width": 1920,
+            "height": 658
           }
         ],
         "videos": [],
@@ -566,7 +763,10 @@
         "photos": [
           {
             "name": "067",
-            "alt": "Gräppelen"
+            "alt": "Gräppelen",
+            "date": "2020-10-25T13:01:32.000+01:00",
+            "width": 1920,
+            "height": 915
           }
         ],
         "videos": [],
@@ -576,7 +776,10 @@
         "photos": [
           {
             "name": "068",
-            "alt": "Schafberg"
+            "alt": "Schafberg",
+            "date": "2020-10-25T13:01:59.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -586,7 +789,10 @@
         "photos": [
           {
             "name": "069",
-            "alt": "Neuenalp"
+            "alt": "Neuenalp",
+            "date": "2020-10-25T13:24:16.000+01:00",
+            "width": 1920,
+            "height": 795
           }
         ],
         "videos": [],
@@ -596,7 +802,10 @@
         "photos": [
           {
             "name": "070",
-            "alt": "Alp Risi"
+            "alt": "Alp Risi",
+            "date": "2020-10-25T13:39:53.000+01:00",
+            "width": 1920,
+            "height": 707
           }
         ],
         "videos": [],
@@ -606,11 +815,17 @@
         "photos": [
           {
             "name": "071",
-            "alt": "Böstritt"
+            "alt": "Böstritt",
+            "date": "2020-10-25T13:49:57.000+01:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "072",
-            "alt": "Herbstwanderung"
+            "alt": "Herbstwanderung",
+            "date": "2020-10-25T13:59:24.000+01:00",
+            "width": 1920,
+            "height": 1371
           }
         ],
         "videos": [],
@@ -620,11 +835,17 @@
         "photos": [
           {
             "name": "073",
-            "alt": "Wanderung Alt St. Johann"
+            "alt": "Wanderung Alt St. Johann",
+            "date": "2020-10-25T14:05:04.000+01:00",
+            "width": 1920,
+            "height": 1042
           },
           {
             "name": "074",
-            "alt": "Parkplatz Scharten"
+            "alt": "Parkplatz Scharten",
+            "date": "2020-10-25T14:08:32.000+01:00",
+            "width": 1920,
+            "height": 962
           }
         ],
         "videos": [],

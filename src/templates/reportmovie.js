@@ -3,7 +3,6 @@ import {Helmet} from 'react-helmet';
 import Map from '../components/map';
 import Title from '../components/title';
 import {graphql} from 'gatsby';
-import {EXIF} from '../external/exif-js/exif.js';
 import styled from 'styled-components';
 import formatDate from '../utils/formatDate.js';
 
@@ -124,15 +123,17 @@ class ReportMovie extends React.Component {
     });
   }
 
+  extractSecondsFromDate(dateString) {
+    const date = new Date(Date.parse(dateString));
+    return date.getUTCHours() * 60 * 60 + date.getUTCMinutes() * 60 + date.getUTCSeconds();
+  }
+
   async generateSections() {
     const gpxRaw = await (await fetch(this.buildGpxPath())).text();
     const doc = (new window.DOMParser()).parseFromString(gpxRaw, 'text/xml');
     const trackPoints = Array.prototype.slice.call(doc.getElementsByTagName('trkpt'));
     const startDate = trackPoints[0].getElementsByTagName('time')[0].firstChild.nodeValue;
-    let lastSeconds =
-      Number(startDate.substring(11, 13)) * 60 * 60 +
-      Number(startDate.substring(14, 16)) * 60 +
-      Number(startDate.substring(17, 19));
+    let lastSeconds = this.extractSecondsFromDate(startDate);
     let lastMovieSeconds = 7;
     const sections = [{
       movieSeconds: 0,
@@ -140,13 +141,14 @@ class ReportMovie extends React.Component {
     }];
     this.props.data.reportJson.landmarks.forEach(landmark => {
       landmark.photos.forEach(photo => {
-        const secondsDiff = photo.seconds - lastSeconds;
+        const seconds = this.extractSecondsFromDate(photo.date);
+        const secondsDiff = seconds - lastSeconds;
         const movieSeconds = lastMovieSeconds + 5 + Math.log10(secondsDiff / 20) * 4.925;
         sections.push({
           movieSeconds: (movieSeconds + lastMovieSeconds + 5) / 2,
           text: photo.alt
         });
-        lastSeconds = photo.seconds;
+        lastSeconds = seconds;
         lastMovieSeconds = movieSeconds;
       });
     });
@@ -176,7 +178,8 @@ class ReportMovie extends React.Component {
   }
 
   componentDidMount() {
-    this.retrievePhotoDates();
+    this.outputMetadata();
+    window.setTimeout(this.nextPhase, 8000);
   }
 
   findNextPhoto() {
@@ -249,52 +252,6 @@ class ReportMovie extends React.Component {
       default:
         return 'end';
     }
-  }
-
-  retrievePhotoDate(imgElement) {
-    const self = this;
-    EXIF.getData(imgElement, function() {
-      const exifDate = EXIF.getTag(this, 'DateTimeOriginal');
-      const gpsTime = EXIF.getTag(this, 'GPSTimeStamp');
-      let photoDate = null;
-      let photoSeconds = null;
-      if (!exifDate || !gpsTime) {
-        self.props.data.reportJson.landmarks = self.props.data.reportJson.landmarks.filter(landmark => {
-          landmark.photos = landmark.photos.filter(photo => photo.name !== imgElement.id);
-          return landmark.photos.length > 0;
-        });
-      } else {
-        const [date, time] = exifDate.split(' ');
-        photoDate = date.replace(/:/g, '-') + 'T' + time;
-        photoSeconds = gpsTime[0] * 60 * 60 + gpsTime[1] * 60 + gpsTime[2];
-      }
-      let allDatesRetrieved = true;
-      self.props.data.reportJson.landmarks.forEach(landmark => {
-        landmark.photos.forEach(photo => {
-          if (photoDate && photoSeconds && photo.name === imgElement.id) {
-            photo.date = photoDate;
-            photo.seconds = photoSeconds;
-          }
-          if (!photo.date) {
-            allDatesRetrieved = false;
-          }
-        });
-      });
-      if (allDatesRetrieved) {
-        self.outputMetadata();
-        window.setTimeout(self.nextPhase, 8000);
-      }
-    });
-  }
-
-  retrievePhotoDates() {
-    document.querySelectorAll('.landmark img').forEach(imgElement => {
-      if (imgElement.complete) {
-        this.retrievePhotoDate(imgElement);
-      } else {
-        imgElement.onload = this.retrievePhotoDate.bind(this, imgElement);
-      }
-    })
   }
 
   renderPhoto(photo, index) {
@@ -408,7 +365,7 @@ export const pageQuery = graphql`
         align,
       },
       landmarks {
-        photos {name, alt}, 
+        photos {name, alt, date}, 
       }
     }
   }

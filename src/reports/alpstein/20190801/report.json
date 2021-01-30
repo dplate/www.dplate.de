@@ -8,9 +8,11 @@
     "shortTitle": "Kronberg",
     "title": "Urnäsch - Kronberg - Appenzell",
     "title3d": {
-      "offsetY": 1.0,
+      "offsetY": 1,
       "fontSize": 7,
-      "align": "left"
+      "align": "left",
+      "width": 1920,
+      "height": 487
     },
     "intro": "Für meine erste längere Wanderung dieses Jahres nahm ich mir die Längsüberquerung des Kronbergs vor.<br />Mein Auto stellte ich mitten in Urnäsch um 7:15 auf dem großen Gratisparkplatz ab, der sich günstigerweise auch in unmittelbarer Nähe des Bahnhofts befindet. Das war insofern wichtig, da ich am Schluss der Tour mit dem Zug von Appenzell zurückfahren wollte.",
     "landmarks": [
@@ -18,7 +20,10 @@
         "photos": [
           {
             "name": "001",
-            "alt": "Urnäsch"
+            "alt": "Urnäsch",
+            "date": "2019-08-01T07:22:54.000+02:00",
+            "width": 1920,
+            "height": 1343
           }
         ],
         "videos": [],
@@ -28,7 +33,10 @@
         "photos": [
           {
             "name": "002",
-            "alt": "Wiese bei Sonnenaufgang"
+            "alt": "Wiese bei Sonnenaufgang",
+            "date": "2019-08-01T07:34:30.000+02:00",
+            "width": 1920,
+            "height": 838
           }
         ],
         "videos": [],
@@ -38,11 +46,17 @@
         "photos": [
           {
             "name": "003",
-            "alt": "Feldweg"
+            "alt": "Feldweg",
+            "date": "2019-08-01T07:38:46.000+02:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "004",
-            "alt": "Chräg"
+            "alt": "Chräg",
+            "date": "2019-08-01T07:42:03.000+02:00",
+            "width": 1920,
+            "height": 584
           }
         ],
         "videos": [],
@@ -52,7 +66,10 @@
         "photos": [
           {
             "name": "005",
-            "alt": "Osteregg"
+            "alt": "Osteregg",
+            "date": "2019-08-01T07:54:08.000+02:00",
+            "width": 1920,
+            "height": 810
           }
         ],
         "videos": [],
@@ -62,7 +79,10 @@
         "photos": [
           {
             "name": "006",
-            "alt": "Bergwirtschaft Blattendürren"
+            "alt": "Bergwirtschaft Blattendürren",
+            "date": "2019-08-01T08:16:04.000+02:00",
+            "width": 1920,
+            "height": 1102
           }
         ],
         "videos": [],
@@ -72,7 +92,10 @@
         "photos": [
           {
             "name": "007",
-            "alt": "Panorama Urnäsch"
+            "alt": "Panorama Urnäsch",
+            "date": "2019-08-01T08:21:51.000+02:00",
+            "width": 1920,
+            "height": 595
           }
         ],
         "videos": [],
@@ -82,7 +105,10 @@
         "photos": [
           {
             "name": "008",
-            "alt": "Wasserfall Urnäsch"
+            "alt": "Wasserfall Urnäsch",
+            "date": "2019-08-01T08:31:24.000+02:00",
+            "width": 1920,
+            "height": 1855
           }
         ],
         "videos": [],
@@ -92,11 +118,17 @@
         "photos": [
           {
             "name": "009",
-            "alt": "Wanderwegzeichen mit Blumen"
+            "alt": "Wanderwegzeichen mit Blumen",
+            "date": "2019-08-01T08:39:52.000+02:00",
+            "width": 1920,
+            "height": 1163
           },
           {
             "name": "010",
-            "alt": "Ober-Guggeien"
+            "alt": "Ober-Guggeien",
+            "date": "2019-08-01T08:46:03.000+02:00",
+            "width": 1920,
+            "height": 822
           }
         ],
         "videos": [],
@@ -106,7 +138,10 @@
         "photos": [
           {
             "name": "011",
-            "alt": "Wanderweg Spitzli"
+            "alt": "Wanderweg Spitzli",
+            "date": "2019-08-01T08:56:59.000+02:00",
+            "width": 1920,
+            "height": 1302
           }
         ],
         "videos": [],
@@ -116,7 +151,10 @@
         "photos": [
           {
             "name": "012",
-            "alt": "Spitzli Höhle"
+            "alt": "Spitzli Höhle",
+            "date": "2019-08-01T09:01:12.000+02:00",
+            "width": 1920,
+            "height": 2926
           }
         ],
         "videos": [],
@@ -126,7 +164,10 @@
         "photos": [
           {
             "name": "013",
-            "alt": "Wanderweg durch Höhle"
+            "alt": "Wanderweg durch Höhle",
+            "date": "2019-08-01T09:02:51.000+02:00",
+            "width": 1920,
+            "height": 815
           }
         ],
         "videos": [],
@@ -136,7 +177,10 @@
         "photos": [
           {
             "name": "014",
-            "alt": "Alp Spitzli"
+            "alt": "Alp Spitzli",
+            "date": "2019-08-01T09:12:39.000+02:00",
+            "width": 1920,
+            "height": 653
           }
         ],
         "videos": [],
@@ -146,7 +190,10 @@
         "photos": [
           {
             "name": "015",
-            "alt": "Glotzende Kühe"
+            "alt": "Glotzende Kühe",
+            "date": "2019-08-01T09:16:03.000+02:00",
+            "width": 1920,
+            "height": 1130
           }
         ],
         "videos": [],
@@ -156,7 +203,10 @@
         "photos": [
           {
             "name": "016",
-            "alt": "Hochalp"
+            "alt": "Hochalp",
+            "date": "2019-08-01T09:18:31.000+02:00",
+            "width": 1920,
+            "height": 898
           }
         ],
         "videos": [],
@@ -166,7 +216,10 @@
         "photos": [
           {
             "name": "017",
-            "alt": "Wanderung Urnäsch"
+            "alt": "Wanderung Urnäsch",
+            "date": "2019-08-01T09:25:22.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -176,7 +229,10 @@
         "photos": [
           {
             "name": "018",
-            "alt": "Aufstieg Spitzli"
+            "alt": "Aufstieg Spitzli",
+            "date": "2019-08-01T09:28:46.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -186,7 +242,10 @@
         "photos": [
           {
             "name": "019",
-            "alt": "Gipfel Spitzli"
+            "alt": "Gipfel Spitzli",
+            "date": "2019-08-01T09:29:40.000+02:00",
+            "width": 1920,
+            "height": 678
           }
         ],
         "videos": [],
@@ -196,7 +255,10 @@
         "photos": [
           {
             "name": "020",
-            "alt": "Spitzli Blick zum Säntis"
+            "alt": "Spitzli Blick zum Säntis",
+            "date": "2019-08-01T09:30:19.000+02:00",
+            "width": 1920,
+            "height": 1139
           }
         ],
         "videos": [],
@@ -206,7 +268,10 @@
         "photos": [
           {
             "name": "021",
-            "alt": "Petersalp"
+            "alt": "Petersalp",
+            "date": "2019-08-01T09:44:16.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -216,7 +281,10 @@
         "photos": [
           {
             "name": "022",
-            "alt": "Untere Petersalp"
+            "alt": "Untere Petersalp",
+            "date": "2019-08-01T09:44:24.000+02:00",
+            "width": 1920,
+            "height": 1328
           }
         ],
         "videos": [],
@@ -226,7 +294,10 @@
         "photos": [
           {
             "name": "023",
-            "alt": "Schwägalp Säntis"
+            "alt": "Schwägalp Säntis",
+            "date": "2019-08-01T09:47:45.000+02:00",
+            "width": 1920,
+            "height": 1407
           }
         ],
         "videos": [],
@@ -236,11 +307,17 @@
         "photos": [
           {
             "name": "024",
-            "alt": "Wegweiser Petersalp"
+            "alt": "Wegweiser Petersalp",
+            "date": "2019-08-01T10:01:24.000+02:00",
+            "width": 1920,
+            "height": 738
           },
           {
             "name": "025",
-            "alt": "Petersalp Spitzli"
+            "alt": "Petersalp Spitzli",
+            "date": "2019-08-01T10:04:38.000+02:00",
+            "width": 1920,
+            "height": 806
           }
         ],
         "videos": [],
@@ -250,7 +327,10 @@
         "photos": [
           {
             "name": "026",
-            "alt": "Säntis"
+            "alt": "Säntis",
+            "date": "2019-08-01T10:24:00.000+02:00",
+            "width": 1920,
+            "height": 661
           }
         ],
         "videos": [],
@@ -260,7 +340,10 @@
         "photos": [
           {
             "name": "027",
-            "alt": "Grossbetten"
+            "alt": "Grossbetten",
+            "date": "2019-08-01T10:31:21.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -270,11 +353,17 @@
         "photos": [
           {
             "name": "028",
-            "alt": "Enzian"
+            "alt": "Enzian",
+            "date": "2019-08-01T10:40:00.000+02:00",
+            "width": 1920,
+            "height": 1381
           },
           {
             "name": "029",
-            "alt": "Schmetterling"
+            "alt": "Schmetterling",
+            "date": "2019-08-01T10:40:57.000+02:00",
+            "width": 1920,
+            "height": 1278
           }
         ],
         "videos": [],
@@ -284,7 +373,10 @@
         "photos": [
           {
             "name": "030",
-            "alt": "Grosse Schwägalp"
+            "alt": "Grosse Schwägalp",
+            "date": "2019-08-01T10:54:22.000+02:00",
+            "width": 1920,
+            "height": 1136
           }
         ],
         "videos": [],
@@ -294,7 +386,10 @@
         "photos": [
           {
             "name": "031",
-            "alt": "Nusshalde"
+            "alt": "Nusshalde",
+            "date": "2019-08-01T10:57:53.000+02:00",
+            "width": 1920,
+            "height": 787
           }
         ],
         "videos": [],
@@ -304,7 +399,10 @@
         "photos": [
           {
             "name": "032",
-            "alt": "Nagelfluhberge"
+            "alt": "Nagelfluhberge",
+            "date": "2019-08-01T11:14:20.000+02:00",
+            "width": 1920,
+            "height": 916
           }
         ],
         "videos": [],
@@ -314,7 +412,10 @@
         "photos": [
           {
             "name": "033",
-            "alt": "Südaufstieg Kronberg"
+            "alt": "Südaufstieg Kronberg",
+            "date": "2019-08-01T11:21:28.000+02:00",
+            "width": 1920,
+            "height": 1001
           }
         ],
         "videos": [],
@@ -324,7 +425,10 @@
         "photos": [
           {
             "name": "034",
-            "alt": "Säntis am 1. August"
+            "alt": "Säntis am 1. August",
+            "date": "2019-08-01T11:21:56.000+02:00",
+            "width": 1920,
+            "height": 974
           }
         ],
         "videos": [],
@@ -334,7 +438,10 @@
         "photos": [
           {
             "name": "035",
-            "alt": "Aussicht Kronberg"
+            "alt": "Aussicht Kronberg",
+            "date": "2019-08-01T11:31:07.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -344,7 +451,10 @@
         "photos": [
           {
             "name": "036",
-            "alt": "Kronbergbahn"
+            "alt": "Kronbergbahn",
+            "date": "2019-08-01T11:35:43.000+02:00",
+            "width": 1920,
+            "height": 1176
           }
         ],
         "videos": [],
@@ -354,7 +464,10 @@
         "photos": [
           {
             "name": "037",
-            "alt": "Gasthaus Kronberg"
+            "alt": "Gasthaus Kronberg",
+            "date": "2019-08-01T11:38:36.000+02:00",
+            "width": 1920,
+            "height": 1077
           }
         ],
         "videos": [],
@@ -364,7 +477,10 @@
         "photos": [
           {
             "name": "038",
-            "alt": "Panorama Kronberg"
+            "alt": "Panorama Kronberg",
+            "date": "2019-08-01T11:46:52.000+02:00",
+            "width": 1920,
+            "height": 663
           }
         ],
         "videos": [],
@@ -374,7 +490,10 @@
         "photos": [
           {
             "name": "039",
-            "alt": "Beliebter Wanderweg"
+            "alt": "Beliebter Wanderweg",
+            "date": "2019-08-01T11:48:27.000+02:00",
+            "width": 1920,
+            "height": 1179
           }
         ],
         "videos": [],
@@ -384,11 +503,17 @@
         "photos": [
           {
             "name": "040",
-            "alt": "Abstieg Kronberg"
+            "alt": "Abstieg Kronberg",
+            "date": "2019-08-01T12:08:56.000+02:00",
+            "width": 1920,
+            "height": 1076
           },
           {
             "name": "041",
-            "alt": "Kapelle St. Jakob"
+            "alt": "Kapelle St. Jakob",
+            "date": "2019-08-01T12:22:31.000+02:00",
+            "width": 1920,
+            "height": 1114
           }
         ],
         "videos": [],
@@ -398,7 +523,10 @@
         "photos": [
           {
             "name": "042",
-            "alt": "Schweizer Fahne am Säntis"
+            "alt": "Schweizer Fahne am Säntis",
+            "date": "2019-08-01T12:23:50.000+02:00",
+            "width": 1920,
+            "height": 1114
           }
         ],
         "videos": [],
@@ -408,7 +536,10 @@
         "photos": [
           {
             "name": "043",
-            "alt": "Gasthaus Scheidegg"
+            "alt": "Gasthaus Scheidegg",
+            "date": "2019-08-01T12:30:37.000+02:00",
+            "width": 1920,
+            "height": 939
           }
         ],
         "videos": [],
@@ -418,7 +549,10 @@
         "photos": [
           {
             "name": "044",
-            "alt": "Alpenblumen"
+            "alt": "Alpenblumen",
+            "date": "2019-08-01T12:44:25.000+02:00",
+            "width": 1920,
+            "height": 1175
           }
         ],
         "videos": [],
@@ -428,7 +562,10 @@
         "photos": [
           {
             "name": "045",
-            "alt": "Kronberg"
+            "alt": "Kronberg",
+            "date": "2019-08-01T12:48:31.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -438,7 +575,10 @@
         "photos": [
           {
             "name": "046",
-            "alt": "Hintere Wasserschaffen"
+            "alt": "Hintere Wasserschaffen",
+            "date": "2019-08-01T13:09:33.000+02:00",
+            "width": 1920,
+            "height": 931
           }
         ],
         "videos": [],
@@ -448,7 +588,10 @@
         "photos": [
           {
             "name": "047",
-            "alt": "Wanderweg Kronberg Appenzell"
+            "alt": "Wanderweg Kronberg Appenzell",
+            "date": "2019-08-01T13:27:40.000+02:00",
+            "width": 1920,
+            "height": 1115
           }
         ],
         "videos": [],
@@ -458,7 +601,10 @@
         "photos": [
           {
             "name": "048",
-            "alt": "Hochmoor"
+            "alt": "Hochmoor",
+            "date": "2019-08-01T13:36:12.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -468,7 +614,10 @@
         "photos": [
           {
             "name": "049",
-            "alt": "Wanderung Appenzell"
+            "alt": "Wanderung Appenzell",
+            "date": "2019-08-01T13:42:32.000+02:00",
+            "width": 1920,
+            "height": 816
           }
         ],
         "videos": [],
@@ -478,7 +627,10 @@
         "photos": [
           {
             "name": "050",
-            "alt": "Klosterspitz"
+            "alt": "Klosterspitz",
+            "date": "2019-08-01T13:56:59.000+02:00",
+            "width": 1920,
+            "height": 1102
           }
         ],
         "videos": [],
@@ -488,7 +640,10 @@
         "photos": [
           {
             "name": "051",
-            "alt": "Appenzell von oben"
+            "alt": "Appenzell von oben",
+            "date": "2019-08-01T14:17:28.000+02:00",
+            "width": 1920,
+            "height": 1474
           }
         ],
         "videos": [],
@@ -498,7 +653,10 @@
         "photos": [
           {
             "name": "052",
-            "alt": "Appenzellerland"
+            "alt": "Appenzellerland",
+            "date": "2019-08-01T14:32:17.000+02:00",
+            "width": 1920,
+            "height": 654
           }
         ],
         "videos": [],
@@ -508,7 +666,10 @@
         "photos": [
           {
             "name": "053",
-            "alt": "Ochsenegg"
+            "alt": "Ochsenegg",
+            "date": "2019-08-01T14:58:52.000+02:00",
+            "width": 1920,
+            "height": 886
           }
         ],
         "videos": [],
@@ -518,7 +679,10 @@
         "photos": [
           {
             "name": "054",
-            "alt": "Hoher Kasten"
+            "alt": "Hoher Kasten",
+            "date": "2019-08-01T15:15:27.000+02:00",
+            "width": 1920,
+            "height": 1138
           }
         ],
         "videos": [],

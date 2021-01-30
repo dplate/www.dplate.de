@@ -8,9 +8,11 @@
     "shortTitle": "Pilatus",
     "title": "Eigenthal - Pilatus",
     "title3d": {
-      "offsetY": 0.0,
-      "fontSize": 9.0,
-      "align": "right"
+      "offsetY": 0,
+      "fontSize": 9,
+      "align": "right",
+      "width": 1920,
+      "height": 459
     },
     "intro": "Schon länger stand auf meiner ToDo-Liste eine Wanderung auf den Pilatus. Dabei gab es zwei Schwierigkeiten: Erstens war es gar nicht so leicht eine Rundwanderung am Pilatus zu finden und zweitens muss ich dorthin an Zürich vorbeifahren - und das geht praktisch nur an einem Sonntag staufrei.<br />Am letzten Sonntag schließlich hatte ich mir eine Runde ausgeguckt und auch das Wetter sollte einigermaßen passen.",
     "landmarks": [
@@ -18,7 +20,10 @@
         "photos": [
           {
             "name": "001",
-            "alt": "Parkplatz Gantersei Eigenthal"
+            "alt": "Parkplatz Gantersei Eigenthal",
+            "date": "2018-08-26T08:05:23.000+02:00",
+            "width": 1920,
+            "height": 941
           }
         ],
         "videos": [],
@@ -28,7 +33,10 @@
         "photos": [
           {
             "name": "002",
-            "alt": "Alpwirtschaft Unterlauelen"
+            "alt": "Alpwirtschaft Unterlauelen",
+            "date": "2018-08-26T08:26:32.000+02:00",
+            "width": 1920,
+            "height": 759
           }
         ],
         "videos": [],
@@ -38,7 +46,10 @@
         "photos": [
           {
             "name": "003",
-            "alt": "Treppe im Wald"
+            "alt": "Treppe im Wald",
+            "date": "2018-08-26T08:58:43.000+02:00",
+            "width": 1920,
+            "height": 2988
           }
         ],
         "videos": [],
@@ -48,7 +59,10 @@
         "photos": [
           {
             "name": "004",
-            "alt": "Eigenthal"
+            "alt": "Eigenthal",
+            "date": "2018-08-26T09:03:57.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -58,7 +72,10 @@
         "photos": [
           {
             "name": "005",
-            "alt": "Wanderweg Oberalp"
+            "alt": "Wanderweg Oberalp",
+            "date": "2018-08-26T09:04:59.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -68,7 +85,10 @@
         "photos": [
           {
             "name": "006",
-            "alt": "Oberhalb vom Wasserfall"
+            "alt": "Oberhalb vom Wasserfall",
+            "date": "2018-08-26T09:13:14.000+02:00",
+            "width": 1920,
+            "height": 2880
           }
         ],
         "videos": [],
@@ -78,7 +98,10 @@
         "photos": [
           {
             "name": "007",
-            "alt": "Bründle"
+            "alt": "Bründle",
+            "date": "2018-08-26T09:38:20.000+02:00",
+            "width": 1920,
+            "height": 1190
           }
         ],
         "videos": [],
@@ -88,11 +111,17 @@
         "photos": [
           {
             "name": "008",
-            "alt": "Wanderung Eigenthal Oberalp"
+            "alt": "Wanderung Eigenthal Oberalp",
+            "date": "2018-08-26T09:48:40.000+02:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "009",
-            "alt": "Hochmoor Oberalp"
+            "alt": "Hochmoor Oberalp",
+            "date": "2018-08-26T09:52:29.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -102,11 +131,17 @@
         "photos": [
           {
             "name": "010",
-            "alt": "Oberalp"
+            "alt": "Oberalp",
+            "date": "2018-08-26T09:59:14.000+02:00",
+            "width": 1920,
+            "height": 1115
           },
           {
             "name": "011",
-            "alt": "Panorama Oberalp"
+            "alt": "Panorama Oberalp",
+            "date": "2018-08-26T10:06:24.000+02:00",
+            "width": 1920,
+            "height": 598
           }
         ],
         "videos": [],
@@ -116,7 +151,10 @@
         "photos": [
           {
             "name": "012",
-            "alt": "Wegweiser Feldalp"
+            "alt": "Wegweiser Feldalp",
+            "date": "2018-08-26T10:17:14.000+02:00",
+            "width": 1920,
+            "height": 1153
           }
         ],
         "videos": [],
@@ -126,7 +164,10 @@
         "photos": [
           {
             "name": "013",
-            "alt": "Feldalp"
+            "alt": "Feldalp",
+            "date": "2018-08-26T10:26:34.000+02:00",
+            "width": 1920,
+            "height": 1099
           }
         ],
         "videos": [],
@@ -136,7 +177,10 @@
         "photos": [
           {
             "name": "014",
-            "alt": "Wandern im Nebel"
+            "alt": "Wandern im Nebel",
+            "date": "2018-08-26T10:50:14.000+02:00",
+            "width": 1920,
+            "height": 1067
           }
         ],
         "videos": [],
@@ -146,7 +190,10 @@
         "photos": [
           {
             "name": "015",
-            "alt": "Abgrund im Nebel"
+            "alt": "Abgrund im Nebel",
+            "date": "2018-08-26T10:51:58.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -156,7 +203,10 @@
         "photos": [
           {
             "name": "016",
-            "alt": "Abstieg Widderfeld"
+            "alt": "Abstieg Widderfeld",
+            "date": "2018-08-26T10:54:38.000+02:00",
+            "width": 1920,
+            "height": 755
           }
         ],
         "videos": [],
@@ -166,7 +216,10 @@
         "photos": [
           {
             "name": "017",
-            "alt": "Grasrücken Widderfeld"
+            "alt": "Grasrücken Widderfeld",
+            "date": "2018-08-26T11:02:31.000+02:00",
+            "width": 1920,
+            "height": 627
           }
         ],
         "videos": [],
@@ -176,7 +229,10 @@
         "photos": [
           {
             "name": "018",
-            "alt": "Wanderweg Widderfeld"
+            "alt": "Wanderweg Widderfeld",
+            "date": "2018-08-26T11:14:29.000+02:00",
+            "width": 1920,
+            "height": 1262
           }
         ],
         "videos": [],
@@ -186,15 +242,24 @@
         "photos": [
           {
             "name": "019",
-            "alt": "Gefährlicher Weg Widderfeld"
+            "alt": "Gefährlicher Weg Widderfeld",
+            "date": "2018-08-26T11:16:29.000+02:00",
+            "width": 1920,
+            "height": 2218
           },
           {
             "name": "020",
-            "alt": "Steiler Aufstieg Widderfeld"
+            "alt": "Steiler Aufstieg Widderfeld",
+            "date": "2018-08-26T11:18:32.000+02:00",
+            "width": 1920,
+            "height": 2880
           },
           {
             "name": "021",
-            "alt": "Drahtseil Widderfeld"
+            "alt": "Drahtseil Widderfeld",
+            "date": "2018-08-26T11:20:38.000+02:00",
+            "width": 1920,
+            "height": 2353
           }
         ],
         "videos": [],
@@ -204,11 +269,17 @@
         "photos": [
           {
             "name": "022",
-            "alt": "Gemsmättli"
+            "alt": "Gemsmättli",
+            "date": "2018-08-26T11:29:29.000+02:00",
+            "width": 1920,
+            "height": 1086
           },
           {
             "name": "023",
-            "alt": "Grasbuckel im Nebel"
+            "alt": "Grasbuckel im Nebel",
+            "date": "2018-08-26T11:38:19.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -218,11 +289,17 @@
         "photos": [
           {
             "name": "024",
-            "alt": "Widderfeld mit Gämsen"
+            "alt": "Widderfeld mit Gämsen",
+            "date": "2018-08-26T11:39:00.000+02:00",
+            "width": 1920,
+            "height": 1224
           },
           {
             "name": "025",
-            "alt": "Widderfeld im Nebel"
+            "alt": "Widderfeld im Nebel",
+            "date": "2018-08-26T11:39:11.000+02:00",
+            "width": 1920,
+            "height": 1204
           }
         ],
         "videos": [],
@@ -232,15 +309,24 @@
         "photos": [
           {
             "name": "026",
-            "alt": "Wanderweg Tomlishorn Widderfeld"
+            "alt": "Wanderweg Tomlishorn Widderfeld",
+            "date": "2018-08-26T11:39:29.000+02:00",
+            "width": 1920,
+            "height": 582
           },
           {
             "name": "027",
-            "alt": "Gratweg"
+            "alt": "Gratweg",
+            "date": "2018-08-26T11:43:09.000+02:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "028",
-            "alt": "Grat Tomlishorn Widderfeld"
+            "alt": "Grat Tomlishorn Widderfeld",
+            "date": "2018-08-26T11:43:56.000+02:00",
+            "width": 1920,
+            "height": 1116
           }
         ],
         "videos": [],
@@ -250,7 +336,10 @@
         "photos": [
           {
             "name": "029",
-            "alt": "Gams"
+            "alt": "Gams",
+            "date": "2018-08-26T11:45:34.000+02:00",
+            "width": 1920,
+            "height": 1245
           }
         ],
         "videos": [],
@@ -260,15 +349,24 @@
         "photos": [
           {
             "name": "030",
-            "alt": "Hangweg im Nebel"
+            "alt": "Hangweg im Nebel",
+            "date": "2018-08-26T11:48:08.000+02:00",
+            "width": 1920,
+            "height": 784
           },
           {
             "name": "031",
-            "alt": "Grat Tomlishorn"
+            "alt": "Grat Tomlishorn",
+            "date": "2018-08-26T11:49:31.000+02:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "032",
-            "alt": "Pilatus Gratweg"
+            "alt": "Pilatus Gratweg",
+            "date": "2018-08-26T11:53:35.000+02:00",
+            "width": 1920,
+            "height": 1200
           }
         ],
         "videos": [],
@@ -278,7 +376,10 @@
         "photos": [
           {
             "name": "033",
-            "alt": "Steiler Bergweg"
+            "alt": "Steiler Bergweg",
+            "date": "2018-08-26T11:56:55.000+02:00",
+            "width": 1920,
+            "height": 1184
           }
         ],
         "videos": [],
@@ -288,7 +389,10 @@
         "photos": [
           {
             "name": "034",
-            "alt": "Matthorn"
+            "alt": "Matthorn",
+            "date": "2018-08-26T12:14:14.000+02:00",
+            "width": 1920,
+            "height": 829
           }
         ],
         "videos": [],
@@ -298,7 +402,10 @@
         "photos": [
           {
             "name": "035",
-            "alt": "Pilatus Esel"
+            "alt": "Pilatus Esel",
+            "date": "2018-08-26T12:14:32.000+02:00",
+            "width": 1920,
+            "height": 1081
           }
         ],
         "videos": [],
@@ -308,7 +415,10 @@
         "photos": [
           {
             "name": "036",
-            "alt": "Pilatus Matthorn"
+            "alt": "Pilatus Matthorn",
+            "date": "2018-08-26T12:14:49.000+02:00",
+            "width": 1920,
+            "height": 860
           }
         ],
         "videos": [],
@@ -318,7 +428,10 @@
         "photos": [
           {
             "name": "037",
-            "alt": "Aufstieg Tomlishorn"
+            "alt": "Aufstieg Tomlishorn",
+            "date": "2018-08-26T12:19:03.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -328,7 +441,10 @@
         "photos": [
           {
             "name": "038",
-            "alt": "Wetterhorn"
+            "alt": "Wetterhorn",
+            "date": "2018-08-26T12:23:56.000+02:00",
+            "width": 1920,
+            "height": 931
           }
         ],
         "videos": [],
@@ -338,7 +454,10 @@
         "photos": [
           {
             "name": "039",
-            "alt": "Aussicht Tomlishorn"
+            "alt": "Aussicht Tomlishorn",
+            "date": "2018-08-26T12:25:39.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -348,7 +467,10 @@
         "photos": [
           {
             "name": "040",
-            "alt": "Panoramaweg Pilatus"
+            "alt": "Panoramaweg Pilatus",
+            "date": "2018-08-26T12:32:07.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -358,7 +480,10 @@
         "photos": [
           {
             "name": "041",
-            "alt": "Alp Laub"
+            "alt": "Alp Laub",
+            "date": "2018-08-26T12:35:50.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -368,7 +493,10 @@
         "photos": [
           {
             "name": "042",
-            "alt": "Pilatus Gämse"
+            "alt": "Pilatus Gämse",
+            "date": "2018-08-26T12:37:31.000+02:00",
+            "width": 1920,
+            "height": 1043
           }
         ],
         "videos": [],
@@ -378,11 +506,17 @@
         "photos": [
           {
             "name": "043",
-            "alt": "Wanderung Pilatus Tomlishorn"
+            "alt": "Wanderung Pilatus Tomlishorn",
+            "date": "2018-08-26T12:38:39.000+02:00",
+            "width": 1920,
+            "height": 1326
           },
           {
             "name": "044",
-            "alt": "Wanderweg durch Tunnel"
+            "alt": "Wanderweg durch Tunnel",
+            "date": "2018-08-26T12:40:42.000+02:00",
+            "width": 1920,
+            "height": 2129
           }
         ],
         "videos": [],
@@ -392,15 +526,24 @@
         "photos": [
           {
             "name": "045",
-            "alt": "Zahnradbahn Pilatus"
+            "alt": "Zahnradbahn Pilatus",
+            "date": "2018-08-26T12:48:27.000+02:00",
+            "width": 1920,
+            "height": 1079
           },
           {
             "name": "046",
-            "alt": "Pilatus"
+            "alt": "Pilatus",
+            "date": "2018-08-26T12:48:43.000+02:00",
+            "width": 1920,
+            "height": 1015
           },
           {
             "name": "047",
-            "alt": "Bergstation Pilatus"
+            "alt": "Bergstation Pilatus",
+            "date": "2018-08-26T12:49:53.000+02:00",
+            "width": 1920,
+            "height": 871
           }
         ],
         "videos": [],
@@ -410,7 +553,10 @@
         "photos": [
           {
             "name": "049",
-            "alt": "Dampftriebwagen Pilatusbahn"
+            "alt": "Dampftriebwagen Pilatusbahn",
+            "date": "2018-08-26T13:00:33.000+02:00",
+            "width": 1920,
+            "height": 1106
           }
         ],
         "videos": [],
@@ -420,7 +566,10 @@
         "photos": [
           {
             "name": "050",
-            "alt": "Tiefblick Pilatus"
+            "alt": "Tiefblick Pilatus",
+            "date": "2018-08-26T13:21:08.000+02:00",
+            "width": 1920,
+            "height": 1204
           }
         ],
         "videos": [],
@@ -430,7 +579,10 @@
         "photos": [
           {
             "name": "051",
-            "alt": "Panorama Pilatus"
+            "alt": "Panorama Pilatus",
+            "date": "2018-08-26T13:23:31.000+02:00",
+            "width": 1920,
+            "height": 854
           }
         ],
         "videos": [],
@@ -440,7 +592,10 @@
         "photos": [
           {
             "name": "052",
-            "alt": "Felsenweg Tomlishorn"
+            "alt": "Felsenweg Tomlishorn",
+            "date": "2018-08-26T13:25:20.000+02:00",
+            "width": 1920,
+            "height": 1245
           }
         ],
         "videos": [],
@@ -450,7 +605,10 @@
         "photos": [
           {
             "name": "053",
-            "alt": "Aussicht Pilatus"
+            "alt": "Aussicht Pilatus",
+            "date": "2018-08-26T13:26:28.000+02:00",
+            "width": 1920,
+            "height": 1170
           }
         ],
         "videos": [],
@@ -460,7 +618,10 @@
         "photos": [
           {
             "name": "054",
-            "alt": "Miniaturaufnahme Pilatusbahn"
+            "alt": "Miniaturaufnahme Pilatusbahn",
+            "date": "2018-08-26T13:28:19.000+02:00",
+            "width": 1920,
+            "height": 992
           }
         ],
         "videos": [],
@@ -470,7 +631,10 @@
         "photos": [
           {
             "name": "055",
-            "alt": "Pilatus Kulm"
+            "alt": "Pilatus Kulm",
+            "date": "2018-08-26T13:28:54.000+02:00",
+            "width": 1920,
+            "height": 1346
           }
         ],
         "videos": [],
@@ -480,7 +644,10 @@
         "photos": [
           {
             "name": "056",
-            "alt": "Tomlishorn mit Nebel"
+            "alt": "Tomlishorn mit Nebel",
+            "date": "2018-08-26T13:34:14.000+02:00",
+            "width": 1920,
+            "height": 1163
           }
         ],
         "videos": [],
@@ -490,7 +657,10 @@
         "photos": [
           {
             "name": "057",
-            "alt": "Seeblick Pilatus"
+            "alt": "Seeblick Pilatus",
+            "date": "2018-08-26T13:42:35.000+02:00",
+            "width": 1920,
+            "height": 585
           }
         ],
         "videos": [],
@@ -500,7 +670,10 @@
         "photos": [
           {
             "name": "058",
-            "alt": "Alpendohle"
+            "alt": "Alpendohle",
+            "date": "2018-08-26T13:44:26.000+02:00",
+            "width": 1920,
+            "height": 1254
           }
         ],
         "videos": [],
@@ -510,7 +683,10 @@
         "photos": [
           {
             "name": "059",
-            "alt": "Titlis in Wolken"
+            "alt": "Titlis in Wolken",
+            "date": "2018-08-26T13:52:32.000+02:00",
+            "width": 1920,
+            "height": 1132
           }
         ],
         "videos": [],
@@ -520,7 +696,10 @@
         "photos": [
           {
             "name": "060",
-            "alt": "Rigigespenst"
+            "alt": "Rigigespenst",
+            "date": "2018-08-26T14:05:13.000+02:00",
+            "width": 1920,
+            "height": 1435
           }
         ],
         "videos": [],
@@ -530,7 +709,10 @@
         "photos": [
           {
             "name": "061",
-            "alt": "Gallerie Pilatus"
+            "alt": "Gallerie Pilatus",
+            "date": "2018-08-26T14:11:59.000+02:00",
+            "width": 1920,
+            "height": 759
           }
         ],
         "videos": [],
@@ -540,7 +722,10 @@
         "photos": [
           {
             "name": "062",
-            "alt": "Aussicht Pilatus"
+            "alt": "Aussicht Pilatus",
+            "date": "2018-08-26T14:23:47.000+02:00",
+            "width": 1920,
+            "height": 764
           }
         ],
         "videos": [],
@@ -550,7 +735,10 @@
         "photos": [
           {
             "name": "063",
-            "alt": "Düsterer Gipfel"
+            "alt": "Düsterer Gipfel",
+            "date": "2018-08-26T14:28:38.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -560,7 +748,10 @@
         "photos": [
           {
             "name": "064",
-            "alt": "Klimsen Kapelle"
+            "alt": "Klimsen Kapelle",
+            "date": "2018-08-26T14:37:50.000+02:00",
+            "width": 1920,
+            "height": 969
           }
         ],
         "videos": [],
@@ -570,15 +761,24 @@
         "photos": [
           {
             "name": "065",
-            "alt": "Dragon Ride Pilatus"
+            "alt": "Dragon Ride Pilatus",
+            "date": "2018-08-26T14:46:20.000+02:00",
+            "width": 1920,
+            "height": 1099
           },
           {
             "name": "066",
-            "alt": "Luftseilbahn Pilatus"
+            "alt": "Luftseilbahn Pilatus",
+            "date": "2018-08-26T14:47:35.000+02:00",
+            "width": 1920,
+            "height": 1192
           },
           {
             "name": "067",
-            "alt": "Vierwaldstättersee"
+            "alt": "Vierwaldstättersee",
+            "date": "2018-08-26T14:48:22.000+02:00",
+            "width": 1920,
+            "height": 957
           }
         ],
         "videos": [],
@@ -588,7 +788,10 @@
         "photos": [
           {
             "name": "068",
-            "alt": "Abstieg Eigenthal"
+            "alt": "Abstieg Eigenthal",
+            "date": "2018-08-26T14:58:12.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -598,7 +801,10 @@
         "photos": [
           {
             "name": "069",
-            "alt": "Klimsenhorn"
+            "alt": "Klimsenhorn",
+            "date": "2018-08-26T15:07:29.000+02:00",
+            "width": 1920,
+            "height": 1046
           }
         ],
         "videos": [],
@@ -608,7 +814,10 @@
         "photos": [
           {
             "name": "070",
-            "alt": "Rundwanderung Pilatus"
+            "alt": "Rundwanderung Pilatus",
+            "date": "2018-08-26T15:08:11.000+02:00",
+            "width": 1920,
+            "height": 881
           }
         ],
         "videos": [],
@@ -618,15 +827,24 @@
         "photos": [
           {
             "name": "071",
-            "alt": "Heitertannliweg"
+            "alt": "Heitertannliweg",
+            "date": "2018-08-26T15:29:09.000+02:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "072",
-            "alt": "Wanderweg Oberlauelen Pilatus"
+            "alt": "Wanderweg Oberlauelen Pilatus",
+            "date": "2018-08-26T15:31:40.000+02:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "073",
-            "alt": "Steile Treppe"
+            "alt": "Steile Treppe",
+            "date": "2018-08-26T15:35:59.000+02:00",
+            "width": 1920,
+            "height": 2880
           }
         ],
         "videos": [],
@@ -636,7 +854,10 @@
         "photos": [
           {
             "name": "074",
-            "alt": "Bergwegzeichen mit Sempachersee"
+            "alt": "Bergwegzeichen mit Sempachersee",
+            "date": "2018-08-26T15:43:32.000+02:00",
+            "width": 1920,
+            "height": 961
           }
         ],
         "videos": [],
@@ -646,11 +867,17 @@
         "photos": [
           {
             "name": "075",
-            "alt": "Aufstieg Pilatus"
+            "alt": "Aufstieg Pilatus",
+            "date": "2018-08-26T15:56:08.000+02:00",
+            "width": 1920,
+            "height": 1100
           },
           {
             "name": "076",
-            "alt": "Ober Lauelen"
+            "alt": "Ober Lauelen",
+            "date": "2018-08-26T16:03:46.000+02:00",
+            "width": 1920,
+            "height": 1270
           }
         ],
         "videos": [],
@@ -660,7 +887,10 @@
         "photos": [
           {
             "name": "077",
-            "alt": "Wanderweg Ober Lauelen"
+            "alt": "Wanderweg Ober Lauelen",
+            "date": "2018-08-26T16:14:53.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -670,7 +900,10 @@
         "photos": [
           {
             "name": "078",
-            "alt": "Pilatus Ober Lauelen"
+            "alt": "Pilatus Ober Lauelen",
+            "date": "2018-08-26T16:16:20.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -680,15 +913,24 @@
         "photos": [
           {
             "name": "079",
-            "alt": "Wanderweg vor Wald"
+            "alt": "Wanderweg vor Wald",
+            "date": "2018-08-26T16:32:45.000+02:00",
+            "width": 1920,
+            "height": 1170
           },
           {
             "name": "080",
-            "alt": "Hochmoor"
+            "alt": "Hochmoor",
+            "date": "2018-08-26T16:38:05.000+02:00",
+            "width": 1920,
+            "height": 1504
           },
           {
             "name": "081",
-            "alt": "Wanderweg durch Wald"
+            "alt": "Wanderweg durch Wald",
+            "date": "2018-08-26T16:54:27.000+02:00",
+            "width": 1920,
+            "height": 881
           }
         ],
         "videos": [],
@@ -698,7 +940,10 @@
         "photos": [
           {
             "name": "082",
-            "alt": "Höchberg"
+            "alt": "Höchberg",
+            "date": "2018-08-26T17:12:18.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -708,7 +953,10 @@
         "photos": [
           {
             "name": "083",
-            "alt": "Chräigutsch"
+            "alt": "Chräigutsch",
+            "date": "2018-08-26T17:22:30.000+02:00",
+            "width": 1920,
+            "height": 624
           }
         ],
         "videos": [],
@@ -718,11 +966,17 @@
         "photos": [
           {
             "name": "084",
-            "alt": "Weg an Waldrand"
+            "alt": "Weg an Waldrand",
+            "date": "2018-08-26T17:34:18.000+02:00",
+            "width": 1920,
+            "height": 744
           },
           {
             "name": "085",
-            "alt": "Gemeinde Eigenthal"
+            "alt": "Gemeinde Eigenthal",
+            "date": "2018-08-26T17:40:56.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -732,7 +986,10 @@
         "photos": [
           {
             "name": "086",
-            "alt": "Pilatus Gebirge"
+            "alt": "Pilatus Gebirge",
+            "date": "2018-08-26T17:42:51.000+02:00",
+            "width": 1920,
+            "height": 482
           }
         ],
         "videos": [],

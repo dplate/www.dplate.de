@@ -8,8 +8,10 @@
     "shortTitle": "Feldberg",
     "title": "Feldberg",
     "title3d": {
-      "offsetY": 10.0,
-      "fontSize": 8.5
+      "offsetY": 10,
+      "fontSize": 8.5,
+      "width": 1920,
+      "height": 611
     },
     "intro": "Durch eine andauerende Bise war es die letzten Tage im Osten der Schweiz und im Westen Österreichs bis 3000m nebelig und kalt, also eher nicht geeignet zum Skifahren. Da ich aber meinen Urlaub ausnutzen wollte, machte ich mich auf die Suche nach einer Alternative und fand sie im Feldberg. Dort sollte diesen Mittwoch das Wetter freundlich sein, die Schneelage ist dank des kalten März gut und es liegt mit 1,5h Fahrt noch im Rahmen für einen Tagesausflug.<br />Auf Grund einer Baustelle/Stau stellte ich mein Auto erst um 9:15 im großen neuen Parkhaus am Seebuck ab. Den Nebeneingang mit Pistenanschluss im 3. Stock kannte ich noch nicht, also ging ich das Stück bis zur Kasse zu Fuß. Die Tageskarte kostete 36€ - die (sonst teuren) Parkgebühren sind inklusive.",
     "landmarks": [
@@ -17,7 +19,10 @@
         "photos": [
           {
             "name": "001",
-            "alt": "Skipiste Seebuck"
+            "alt": "Skipiste Seebuck",
+            "date": "2018-03-21T09:43:06.000+01:00",
+            "width": 1920,
+            "height": 577
           }
         ],
         "videos": [],
@@ -27,7 +32,10 @@
         "photos": [
           {
             "name": "002",
-            "alt": "Skigebiet Feldberg"
+            "alt": "Skigebiet Feldberg",
+            "date": "2018-03-21T10:06:16.000+01:00",
+            "width": 1920,
+            "height": 648
           }
         ],
         "videos": [],
@@ -37,7 +45,10 @@
         "photos": [
           {
             "name": "003",
-            "alt": "Zellerlift 1"
+            "alt": "Zellerlift 1",
+            "date": "2018-03-21T10:19:42.000+01:00",
+            "width": 1920,
+            "height": 1100
           }
         ],
         "videos": [],
@@ -47,7 +58,10 @@
         "photos": [
           {
             "name": "004",
-            "alt": "Grafenmattlift 1"
+            "alt": "Grafenmattlift 1",
+            "date": "2018-03-21T10:28:42.000+01:00",
+            "width": 1920,
+            "height": 1170
           }
         ],
         "videos": [],
@@ -57,7 +71,10 @@
         "photos": [
           {
             "name": "005",
-            "alt": "Skipiste Grafenmatt"
+            "alt": "Skipiste Grafenmatt",
+            "date": "2018-03-21T10:29:46.000+01:00",
+            "width": 1920,
+            "height": 619
           }
         ],
         "videos": [],
@@ -67,7 +84,10 @@
         "photos": [
           {
             "name": "006",
-            "alt": "Abfahrt Fahler Loch"
+            "alt": "Abfahrt Fahler Loch",
+            "date": "2018-03-21T10:39:29.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -77,7 +97,10 @@
         "photos": [
           {
             "name": "007",
-            "alt": "Skifahren Grafenmatt"
+            "alt": "Skifahren Grafenmatt",
+            "date": "2018-03-21T11:19:33.000+01:00",
+            "width": 1920,
+            "height": 770
           }
         ],
         "videos": [],
@@ -87,11 +110,17 @@
         "photos": [
           {
             "name": "008",
-            "alt": "FIS-Weltcup Piste"
+            "alt": "FIS-Weltcup Piste",
+            "date": "2018-03-21T11:32:34.000+01:00",
+            "width": 1920,
+            "height": 918
           },
           {
             "name": "009",
-            "alt": "Schwarze Piste Rothausbahn"
+            "alt": "Schwarze Piste Rothausbahn",
+            "date": "2018-03-21T11:32:45.000+01:00",
+            "width": 1920,
+            "height": 1310
           }
         ],
         "videos": [],
@@ -101,7 +130,10 @@
         "photos": [
           {
             "name": "010",
-            "alt": "Riesenslalom Piste Zeller"
+            "alt": "Riesenslalom Piste Zeller",
+            "date": "2018-03-21T12:22:54.000+01:00",
+            "width": 1920,
+            "height": 683
           }
         ],
         "videos": [],
@@ -111,7 +143,10 @@
         "photos": [
           {
             "name": "011",
-            "alt": "Feldberg Gipfel"
+            "alt": "Feldberg Gipfel",
+            "date": "2018-03-21T12:56:40.000+01:00",
+            "width": 1920,
+            "height": 609
           }
         ],
         "videos": [],
@@ -121,7 +156,10 @@
         "photos": [
           {
             "name": "012",
-            "alt": "Talstation Seebuck"
+            "alt": "Talstation Seebuck",
+            "date": "2018-03-21T13:01:39.000+01:00",
+            "width": 1920,
+            "height": 1285
           }
         ],
         "videos": [],
@@ -131,7 +169,10 @@
         "photos": [
           {
             "name": "013",
-            "alt": "Feldbergturm"
+            "alt": "Feldbergturm",
+            "date": "2018-03-21T13:13:03.000+01:00",
+            "width": 1920,
+            "height": 782
           }
         ],
         "videos": [],
@@ -141,7 +182,10 @@
         "photos": [
           {
             "name": "014",
-            "alt": "Bergstation Zeigerbahn"
+            "alt": "Bergstation Zeigerbahn",
+            "date": "2018-03-21T13:15:29.000+01:00",
+            "width": 1920,
+            "height": 521
           }
         ],
         "videos": [],
@@ -151,11 +195,17 @@
         "photos": [
           {
             "name": "015",
-            "alt": "Rothausbahn"
+            "alt": "Rothausbahn",
+            "date": "2018-03-21T14:31:25.000+01:00",
+            "width": 1920,
+            "height": 823
           },
           {
             "name": "016",
-            "alt": "Vereiste Tanne mit Sesselbahn"
+            "alt": "Vereiste Tanne mit Sesselbahn",
+            "date": "2018-03-21T14:33:04.000+01:00",
+            "width": 1920,
+            "height": 1291
           }
         ],
         "videos": [],
@@ -165,7 +215,10 @@
         "photos": [
           {
             "name": "017",
-            "alt": "Aussicht Grafenmatt"
+            "alt": "Aussicht Grafenmatt",
+            "date": "2018-03-21T14:33:39.000+01:00",
+            "width": 1920,
+            "height": 906
           }
         ],
         "videos": [],
@@ -175,7 +228,10 @@
         "photos": [
           {
             "name": "018",
-            "alt": "Seebuck"
+            "alt": "Seebuck",
+            "date": "2018-03-21T14:34:32.000+01:00",
+            "width": 1920,
+            "height": 1013
           }
         ],
         "videos": [],
@@ -185,7 +241,10 @@
         "photos": [
           {
             "name": "019",
-            "alt": "Berggasthaus Grafenmatt"
+            "alt": "Berggasthaus Grafenmatt",
+            "date": "2018-03-21T15:16:15.000+01:00",
+            "width": 1920,
+            "height": 699
           }
         ],
         "videos": [],
@@ -195,7 +254,10 @@
         "photos": [
           {
             "name": "020",
-            "alt": "Zeigerbahn"
+            "alt": "Zeigerbahn",
+            "date": "2018-03-21T15:23:22.000+01:00",
+            "width": 1920,
+            "height": 1252
           }
         ],
         "videos": [],
@@ -205,7 +267,10 @@
         "photos": [
           {
             "name": "021",
-            "alt": "Skibrücke Feldberg"
+            "alt": "Skibrücke Feldberg",
+            "date": "2018-03-21T15:37:04.000+01:00",
+            "width": 1920,
+            "height": 1169
           }
         ],
         "videos": [],
@@ -215,7 +280,10 @@
         "photos": [
           {
             "name": "022",
-            "alt": "Breite Piste"
+            "alt": "Breite Piste",
+            "date": "2018-03-21T15:39:16.000+01:00",
+            "width": 1920,
+            "height": 684
           }
         ],
         "videos": [],
@@ -225,7 +293,10 @@
         "photos": [
           {
             "name": "023",
-            "alt": "Langlauf Feldberg"
+            "alt": "Langlauf Feldberg",
+            "date": "2018-03-21T15:39:31.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -235,7 +306,10 @@
         "photos": [
           {
             "name": "024",
-            "alt": "Feldbergbahn"
+            "alt": "Feldbergbahn",
+            "date": "2018-03-21T15:43:28.000+01:00",
+            "width": 1920,
+            "height": 785
           }
         ],
         "videos": [],
@@ -245,7 +319,10 @@
         "photos": [
           {
             "name": "025",
-            "alt": "Wegweiser Seebuck"
+            "alt": "Wegweiser Seebuck",
+            "date": "2018-03-21T16:04:52.000+01:00",
+            "width": 1920,
+            "height": 931
           }
         ],
         "videos": [],
@@ -255,7 +332,10 @@
         "photos": [
           {
             "name": "026",
-            "alt": "Panorama Feldberg"
+            "alt": "Panorama Feldberg",
+            "date": "2018-03-21T16:05:32.000+01:00",
+            "width": 1920,
+            "height": 352
           }
         ],
         "videos": [],
@@ -265,7 +345,10 @@
         "photos": [
           {
             "name": "027",
-            "alt": "Panorama Seebuck"
+            "alt": "Panorama Seebuck",
+            "date": "2018-03-21T16:34:50.000+01:00",
+            "width": 1920,
+            "height": 588
           }
         ],
         "videos": [],
@@ -275,7 +358,10 @@
         "photos": [
           {
             "name": "028",
-            "alt": "Winterbild Feldberg"
+            "alt": "Winterbild Feldberg",
+            "date": "2018-03-21T16:36:24.000+01:00",
+            "width": 1920,
+            "height": 1045
           }
         ],
         "videos": [],

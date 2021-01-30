@@ -8,8 +8,10 @@
     "shortTitle": "Zwinglipass",
     "title": "Brülisau - Zwinglipass",
     "title3d": {
-      "offsetY": 15.0,
-      "fontSize": 5.0
+      "offsetY": 15,
+      "fontSize": 5,
+      "width": 1920,
+      "height": 618
     },
     "intro": "Für diesen Samstag suchte ich mir den Zwinglipass im Alpstein als Ziel meiner Wanderung aus. Ich wählte als\n      Ausgangspunkt Brülisau in Appenzell, weil ich von dieser Seite aus noch einige Abschnitte der Tour noch nicht\n      kannte.<br />\n      Um 7:30 erreichte mit dem Auto den Parkplatz bei Pfannenstiel bei der Talstation der Alp Sigel Bahn. Die\n      Parkgebühren betragen dort 3 CHF. Alternativ kann man auch in Brülisau parken, muss dann aber ein ganzes Stück\n      zu Fuß extra auf der Straße zurücklegen.",
     "landmarks": [
@@ -17,11 +19,17 @@
         "photos": [
           {
             "name": "001",
-            "alt": "Wald"
+            "alt": "Wald",
+            "date": "2017-06-17T08:04:45.000+02:00",
+            "width": 1920,
+            "height": 1246
           },
           {
             "name": "002",
-            "alt": "Wald"
+            "alt": "Wald",
+            "date": "2017-06-17T08:08:18.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -31,7 +39,10 @@
         "photos": [
           {
             "name": "003",
-            "alt": "Hoher Kasten"
+            "alt": "Hoher Kasten",
+            "date": "2017-06-17T08:10:49.000+02:00",
+            "width": 1920,
+            "height": 754
           }
         ],
         "videos": [],
@@ -41,7 +52,10 @@
         "photos": [
           {
             "name": "004",
-            "alt": "Brüllenstein"
+            "alt": "Brüllenstein",
+            "date": "2017-06-17T08:27:03.000+02:00",
+            "width": 1920,
+            "height": 1197
           }
         ],
         "videos": [],
@@ -51,11 +65,17 @@
         "photos": [
           {
             "name": "005",
-            "alt": "Sämtisersee"
+            "alt": "Sämtisersee",
+            "date": "2017-06-17T08:40:55.000+02:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "006",
-            "alt": "Sämtisersee"
+            "alt": "Sämtisersee",
+            "date": "2017-06-17T08:41:41.000+02:00",
+            "width": 1920,
+            "height": 857
           }
         ],
         "videos": [],
@@ -65,7 +85,10 @@
         "photos": [
           {
             "name": "007",
-            "alt": "Rainhütten"
+            "alt": "Rainhütten",
+            "date": "2017-06-17T09:18:33.000+02:00",
+            "width": 1920,
+            "height": 1279
           }
         ],
         "videos": [],
@@ -75,7 +98,10 @@
         "photos": [
           {
             "name": "008",
-            "alt": "Hoher Kasten"
+            "alt": "Hoher Kasten",
+            "date": "2017-06-17T09:22:31.000+02:00",
+            "width": 1920,
+            "height": 1272
           }
         ],
         "videos": [],
@@ -85,7 +111,10 @@
         "photos": [
           {
             "name": "009",
-            "alt": "Furgglen"
+            "alt": "Furgglen",
+            "date": "2017-06-17T09:32:02.000+02:00",
+            "width": 1920,
+            "height": 618
           }
         ],
         "videos": [],
@@ -95,11 +124,17 @@
         "photos": [
           {
             "name": "010",
-            "alt": "Fählensee"
+            "alt": "Fählensee",
+            "date": "2017-06-17T09:49:52.000+02:00",
+            "width": 1920,
+            "height": 1210
           },
           {
             "name": "011",
-            "alt": "Fählensee"
+            "alt": "Fählensee",
+            "date": "2017-06-17T09:54:39.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -109,7 +144,10 @@
         "photos": [
           {
             "name": "012",
-            "alt": "Bollenwees"
+            "alt": "Bollenwees",
+            "date": "2017-06-17T10:02:04.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -119,7 +157,10 @@
         "photos": [
           {
             "name": "013",
-            "alt": "Fählensee"
+            "alt": "Fählensee",
+            "date": "2017-06-17T10:04:48.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -129,11 +170,17 @@
         "photos": [
           {
             "name": "014",
-            "alt": "Fählenalp"
+            "alt": "Fählenalp",
+            "date": "2017-06-17T10:12:06.000+02:00",
+            "width": 1920,
+            "height": 1298
           },
           {
             "name": "015",
-            "alt": "Fählenalp"
+            "alt": "Fählenalp",
+            "date": "2017-06-17T10:19:38.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -143,11 +190,17 @@
         "photos": [
           {
             "name": "016",
-            "alt": "Häderen"
+            "alt": "Häderen",
+            "date": "2017-06-17T11:05:16.000+02:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "017",
-            "alt": "Häderen"
+            "alt": "Häderen",
+            "date": "2017-06-17T11:06:34.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -157,7 +210,10 @@
         "photos": [
           {
             "name": "018",
-            "alt": "Altmann"
+            "alt": "Altmann",
+            "date": "2017-06-17T11:18:39.000+02:00",
+            "width": 1920,
+            "height": 1110
           }
         ],
         "videos": [],
@@ -167,7 +223,10 @@
         "photos": [
           {
             "name": "019",
-            "alt": "Hundstein"
+            "alt": "Hundstein",
+            "date": "2017-06-17T11:28:55.000+02:00",
+            "width": 1920,
+            "height": 1322
           }
         ],
         "videos": [],
@@ -177,7 +236,10 @@
         "photos": [
           {
             "name": "020",
-            "alt": "Steinböcke"
+            "alt": "Steinböcke",
+            "date": "2017-06-17T11:37:28.000+02:00",
+            "width": 1920,
+            "height": 994
           }
         ],
         "videos": [],
@@ -187,7 +249,10 @@
         "photos": [
           {
             "name": "021",
-            "alt": "Zwinglipass"
+            "alt": "Zwinglipass",
+            "date": "2017-06-17T11:56:41.000+02:00",
+            "width": 1920,
+            "height": 1097
           }
         ],
         "videos": [],
@@ -197,7 +262,10 @@
         "photos": [
           {
             "name": "022",
-            "alt": "Zwinglipass"
+            "alt": "Zwinglipass",
+            "date": "2017-06-17T12:03:24.000+02:00",
+            "width": 1920,
+            "height": 1259
           }
         ],
         "videos": [],
@@ -207,7 +275,10 @@
         "photos": [
           {
             "name": "023",
-            "alt": "Altmann"
+            "alt": "Altmann",
+            "date": "2017-06-17T12:21:08.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -217,7 +288,10 @@
         "photos": [
           {
             "name": "024",
-            "alt": "Altmann"
+            "alt": "Altmann",
+            "date": "2017-06-17T12:35:35.000+02:00",
+            "width": 1920,
+            "height": 701
           }
         ],
         "videos": [],
@@ -227,7 +301,10 @@
         "photos": [
           {
             "name": "025",
-            "alt": "Altmann Säntis"
+            "alt": "Altmann Säntis",
+            "date": "2017-06-17T12:39:20.000+02:00",
+            "width": 1920,
+            "height": 1128
           }
         ],
         "videos": [],
@@ -237,7 +314,10 @@
         "photos": [
           {
             "name": "026",
-            "alt": "Hundstein"
+            "alt": "Hundstein",
+            "date": "2017-06-17T12:57:30.000+02:00",
+            "width": 640,
+            "height": 960
           }
         ],
         "videos": [],
@@ -247,7 +327,10 @@
         "photos": [
           {
             "name": "027",
-            "alt": "Gruebe"
+            "alt": "Gruebe",
+            "date": "2017-06-17T13:00:50.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -257,7 +340,10 @@
         "photos": [
           {
             "name": "028",
-            "alt": "Kreuzberge"
+            "alt": "Kreuzberge",
+            "date": "2017-06-17T13:06:03.000+02:00",
+            "width": 1920,
+            "height": 872
           }
         ],
         "videos": [],
@@ -267,7 +353,10 @@
         "photos": [
           {
             "name": "029",
-            "alt": "Kreuzberge"
+            "alt": "Kreuzberge",
+            "date": "2017-06-17T13:28:45.000+02:00",
+            "width": 1920,
+            "height": 899
           }
         ],
         "videos": [],
@@ -277,7 +366,10 @@
         "photos": [
           {
             "name": "030",
-            "alt": "Roslenalp"
+            "alt": "Roslenalp",
+            "date": "2017-06-17T13:44:53.000+02:00",
+            "width": 1920,
+            "height": 1245
           }
         ],
         "videos": [],
@@ -287,7 +379,10 @@
         "photos": [
           {
             "name": "031",
-            "alt": "Mutschensattel"
+            "alt": "Mutschensattel",
+            "date": "2017-06-17T13:49:14.000+02:00",
+            "width": 1920,
+            "height": 1079
           }
         ],
         "videos": [],
@@ -297,11 +392,17 @@
         "photos": [
           {
             "name": "032",
-            "alt": "Saxerlücke"
+            "alt": "Saxerlücke",
+            "date": "2017-06-17T14:04:40.000+02:00",
+            "width": 1920,
+            "height": 1013
           },
           {
             "name": "033",
-            "alt": "Saxerlücke"
+            "alt": "Saxerlücke",
+            "date": "2017-06-17T14:07:47.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -311,7 +412,10 @@
         "photos": [
           {
             "name": "034",
-            "alt": "Kreuzberge"
+            "alt": "Kreuzberge",
+            "date": "2017-06-17T14:11:12.000+02:00",
+            "width": 1920,
+            "height": 938
           }
         ],
         "videos": [],
@@ -321,7 +425,10 @@
         "photos": [
           {
             "name": "035",
-            "alt": "Saxerlücke"
+            "alt": "Saxerlücke",
+            "date": "2017-06-17T14:16:06.000+02:00",
+            "width": 1920,
+            "height": 953
           }
         ],
         "videos": [],
@@ -331,7 +438,10 @@
         "photos": [
           {
             "name": "036",
-            "alt": "Bollenwees"
+            "alt": "Bollenwees",
+            "date": "2017-06-17T14:21:27.000+02:00",
+            "width": 1920,
+            "height": 1388
           }
         ],
         "videos": [],
@@ -341,7 +451,10 @@
         "photos": [
           {
             "name": "037",
-            "alt": "Furgglen"
+            "alt": "Furgglen",
+            "date": "2017-06-17T14:30:33.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -351,7 +464,10 @@
         "photos": [
           {
             "name": "038",
-            "alt": "Fählensee"
+            "alt": "Fählensee",
+            "date": "2017-06-17T14:40:20.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -361,7 +477,10 @@
         "photos": [
           {
             "name": "039",
-            "alt": "Furgglen"
+            "alt": "Furgglen",
+            "date": "2017-06-17T15:00:08.000+02:00",
+            "width": 1920,
+            "height": 892
           }
         ],
         "videos": [],
@@ -371,7 +490,10 @@
         "photos": [
           {
             "name": "040",
-            "alt": "Hundstein"
+            "alt": "Hundstein",
+            "date": "2017-06-17T15:04:11.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -381,15 +503,24 @@
         "photos": [
           {
             "name": "041",
-            "alt": "Sämtisersee"
+            "alt": "Sämtisersee",
+            "date": "2017-06-17T15:24:37.000+02:00",
+            "width": 1920,
+            "height": 1181
           },
           {
             "name": "042",
-            "alt": "Blumenwiese"
+            "alt": "Blumenwiese",
+            "date": "2017-06-17T15:26:07.000+02:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "043",
-            "alt": "Hummel"
+            "alt": "Hummel",
+            "date": "2017-06-17T15:28:30.000+02:00",
+            "width": 1920,
+            "height": 1363
           }
         ],
         "videos": [],
@@ -399,7 +530,10 @@
         "photos": [
           {
             "name": "044",
-            "alt": "Sämtisersee"
+            "alt": "Sämtisersee",
+            "date": "2017-06-17T16:03:36.000+02:00",
+            "width": 1920,
+            "height": 1188
           }
         ],
         "videos": [],
@@ -409,11 +543,17 @@
         "photos": [
           {
             "name": "045",
-            "alt": "Brüeltobel"
+            "alt": "Brüeltobel",
+            "date": "2017-06-17T16:32:59.000+02:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "046",
-            "alt": "Brüeltobel"
+            "alt": "Brüeltobel",
+            "date": "2017-06-17T16:49:39.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -423,7 +563,10 @@
         "photos": [
           {
             "name": "047",
-            "alt": "Pfannenstiel"
+            "alt": "Pfannenstiel",
+            "date": "2017-06-17T16:54:04.000+02:00",
+            "width": 1920,
+            "height": 1101
           }
         ],
         "videos": [],

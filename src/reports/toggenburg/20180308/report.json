@@ -7,8 +7,10 @@
     "shortTitle": "Toggenburg",
     "title": "Wildhaus - Iltios - Sellamatt",
     "title3d": {
-      "offsetY": 7.0,
-      "fontSize": 8.0
+      "offsetY": 7,
+      "fontSize": 8,
+      "width": 1920,
+      "height": 795
     },
     "intro": "Da für das Wochenende mal wieder schlechtes Wetter vorhergesagt war, hatte ich mir an diesem Donnerstag frei genommen und das Skigebiet Toggenburg als Ziel vorgenommen.",
     "landmarks": [
@@ -16,7 +18,10 @@
         "photos": [
           {
             "name": "001",
-            "alt": "Nebel über Schneefläche"
+            "alt": "Nebel über Schneefläche",
+            "date": "2018-03-08T08:35:52.000+01:00",
+            "width": 1920,
+            "height": 478
           }
         ],
         "videos": [],
@@ -26,7 +31,10 @@
         "photos": [
           {
             "name": "002",
-            "alt": "Skipiste Oberdorf"
+            "alt": "Skipiste Oberdorf",
+            "date": "2018-03-08T08:53:48.000+01:00",
+            "width": 1920,
+            "height": 744
           }
         ],
         "videos": [],
@@ -36,7 +44,10 @@
         "photos": [
           {
             "name": "003",
-            "alt": "Skigebiet Wildhaus"
+            "alt": "Skigebiet Wildhaus",
+            "date": "2018-03-08T09:05:53.000+01:00",
+            "width": 1920,
+            "height": 761
           }
         ],
         "videos": [],
@@ -46,7 +57,10 @@
         "photos": [
           {
             "name": "004",
-            "alt": "Viel Schnee"
+            "alt": "Viel Schnee",
+            "date": "2018-03-08T09:53:03.000+01:00",
+            "width": 1920,
+            "height": 915
           }
         ],
         "videos": [],
@@ -56,11 +70,17 @@
         "photos": [
           {
             "name": "005",
-            "alt": "Abfahrt Gamserrugg"
+            "alt": "Abfahrt Gamserrugg",
+            "date": "2018-03-08T09:56:58.000+01:00",
+            "width": 1920,
+            "height": 1042
           },
           {
             "name": "006",
-            "alt": "Skifahren Wildhaus"
+            "alt": "Skifahren Wildhaus",
+            "date": "2018-03-08T09:57:03.000+01:00",
+            "width": 1920,
+            "height": 811
           }
         ],
         "videos": [],
@@ -70,7 +90,10 @@
         "photos": [
           {
             "name": "007",
-            "alt": "Panorama Iltios"
+            "alt": "Panorama Iltios",
+            "date": "2018-03-08T10:26:45.000+01:00",
+            "width": 1920,
+            "height": 430
           }
         ],
         "videos": [],
@@ -80,7 +103,10 @@
         "photos": [
           {
             "name": "008",
-            "alt": "Winterwanderweg Rosenboden"
+            "alt": "Winterwanderweg Rosenboden",
+            "date": "2018-03-08T10:41:31.000+01:00",
+            "width": 1920,
+            "height": 724
           }
         ],
         "videos": [],
@@ -90,11 +116,17 @@
         "photos": [
           {
             "name": "009",
-            "alt": "Chäserrugg Ostabfahrt"
+            "alt": "Chäserrugg Ostabfahrt",
+            "date": "2018-03-08T10:44:51.000+01:00",
+            "width": 1920,
+            "height": 1022
           },
           {
             "name": "010",
-            "alt": "Skipiste"
+            "alt": "Skipiste",
+            "date": "2018-03-08T10:46:18.000+01:00",
+            "width": 1920,
+            "height": 996
           }
         ],
         "videos": [],
@@ -104,7 +136,10 @@
         "photos": [
           {
             "name": "011",
-            "alt": "Skilift Chäserrugg"
+            "alt": "Skilift Chäserrugg",
+            "date": "2018-03-08T11:07:11.000+01:00",
+            "width": 1920,
+            "height": 1149
           }
         ],
         "videos": [],
@@ -114,11 +149,17 @@
         "photos": [
           {
             "name": "012",
-            "alt": "Skifahrer Churfirsten"
+            "alt": "Skifahrer Churfirsten",
+            "date": "2018-03-08T11:07:37.000+01:00",
+            "width": 1920,
+            "height": 1046
           },
           {
             "name": "013",
-            "alt": "Skipiste Chäserrugg"
+            "alt": "Skipiste Chäserrugg",
+            "date": "2018-03-08T11:18:06.000+01:00",
+            "width": 1920,
+            "height": 522
           }
         ],
         "videos": [],
@@ -128,7 +169,10 @@
         "photos": [
           {
             "name": "014",
-            "alt": "Sesselbahn Ruestel"
+            "alt": "Sesselbahn Ruestel",
+            "date": "2018-03-08T11:24:43.000+01:00",
+            "width": 1920,
+            "height": 933
           }
         ],
         "videos": [],
@@ -138,7 +182,10 @@
         "photos": [
           {
             "name": "015",
-            "alt": "Zinggen Pub"
+            "alt": "Zinggen Pub",
+            "date": "2018-03-08T11:31:22.000+01:00",
+            "width": 1920,
+            "height": 795
           }
         ],
         "videos": [],
@@ -148,7 +195,10 @@
         "photos": [
           {
             "name": "016",
-            "alt": "Talabfahrt Alt St. Johann"
+            "alt": "Talabfahrt Alt St. Johann",
+            "date": "2018-03-08T11:50:01.000+01:00",
+            "width": 1920,
+            "height": 867
           }
         ],
         "videos": [],
@@ -158,7 +208,10 @@
         "photos": [
           {
             "name": "017",
-            "alt": "Schneeschuhwandern Sellamatt"
+            "alt": "Schneeschuhwandern Sellamatt",
+            "date": "2018-03-08T12:05:57.000+01:00",
+            "width": 1920,
+            "height": 712
           }
         ],
         "videos": [],
@@ -168,11 +221,17 @@
         "photos": [
           {
             "name": "018",
-            "alt": "Tiefblick Chäserrugg"
+            "alt": "Tiefblick Chäserrugg",
+            "date": "2018-03-08T13:16:55.000+01:00",
+            "width": 1920,
+            "height": 2427
           },
           {
             "name": "019",
-            "alt": "Aussicht Chäserrugg"
+            "alt": "Aussicht Chäserrugg",
+            "date": "2018-03-08T13:17:06.000+01:00",
+            "width": 1920,
+            "height": 792
           }
         ],
         "videos": [],
@@ -182,7 +241,10 @@
         "photos": [
           {
             "name": "020",
-            "alt": "Panorama Chäserrugg"
+            "alt": "Panorama Chäserrugg",
+            "date": "2018-03-08T13:17:26.000+01:00",
+            "width": 1920,
+            "height": 604
           }
         ],
         "videos": [],
@@ -192,7 +254,10 @@
         "photos": [
           {
             "name": "021",
-            "alt": "Schwarze Piste Iltios"
+            "alt": "Schwarze Piste Iltios",
+            "date": "2018-03-08T13:49:08.000+01:00",
+            "width": 1920,
+            "height": 1189
           }
         ],
         "videos": [],
@@ -202,7 +267,10 @@
         "photos": [
           {
             "name": "022",
-            "alt": "Gasthaus Stöfeli mit Seilbahn"
+            "alt": "Gasthaus Stöfeli mit Seilbahn",
+            "date": "2018-03-08T14:00:46.000+01:00",
+            "width": 1920,
+            "height": 1725
           }
         ],
         "videos": [],
@@ -212,7 +280,10 @@
         "photos": [
           {
             "name": "023",
-            "alt": "Seilbahn Chäserrugg"
+            "alt": "Seilbahn Chäserrugg",
+            "date": "2018-03-08T14:01:00.000+01:00",
+            "width": 1920,
+            "height": 1147
           }
         ],
         "videos": [],
@@ -222,7 +293,10 @@
         "photos": [
           {
             "name": "024",
-            "alt": "Talabfahrt Wildhaus"
+            "alt": "Talabfahrt Wildhaus",
+            "date": "2018-03-08T15:04:32.000+01:00",
+            "width": 1920,
+            "height": 769
           }
         ],
         "videos": [],

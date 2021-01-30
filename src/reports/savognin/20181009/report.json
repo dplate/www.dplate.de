@@ -9,8 +9,10 @@
     "shortTitle": "Pass digls Orgels",
     "title": "Pensa - Pass digls Orgels",
     "title3d": {
-      "offsetY": 8.0,
-      "fontSize": 5
+      "offsetY": 8,
+      "fontSize": 5,
+      "width": 1920,
+      "height": 469
     },
     "intro": "An diesem Oktober-Dienstag nahm ich mir frei, um eine etwas aufwändigerere Wanderung zu unternehmen. Ziel waren die hohen Seen und Pässe östlich von Savognin, genauer die Seen Lai Tigiel, Lai Mort und Lai Grond und die Pässe Pass digls Orgels und Pass d'Ela.",
     "landmarks": [
@@ -18,7 +20,10 @@
         "photos": [
           {
             "name": "001",
-            "alt": "Parkplatz Savognin"
+            "alt": "Parkplatz Savognin",
+            "date": "2018-10-09T08:45:58.000+02:00",
+            "width": 1920,
+            "height": 816
           }
         ],
         "videos": [],
@@ -28,7 +33,10 @@
         "photos": [
           {
             "name": "002",
-            "alt": "Piz Arblatsch"
+            "alt": "Piz Arblatsch",
+            "date": "2018-10-09T09:25:40.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -38,7 +46,10 @@
         "photos": [
           {
             "name": "003",
-            "alt": "Sonne über Berggipfel"
+            "alt": "Sonne über Berggipfel",
+            "date": "2018-10-09T09:28:49.000+02:00",
+            "width": 1920,
+            "height": 772
           }
         ],
         "videos": [],
@@ -48,15 +59,24 @@
         "photos": [
           {
             "name": "004",
-            "alt": "Castelas"
+            "alt": "Castelas",
+            "date": "2018-10-09T09:33:08.000+02:00",
+            "width": 1920,
+            "height": 466
           },
           {
             "name": "005",
-            "alt": "Piz Arblatsch"
+            "alt": "Piz Arblatsch",
+            "date": "2018-10-09T09:34:37.000+02:00",
+            "width": 1920,
+            "height": 892
           },
           {
             "name": "006",
-            "alt": "Castelas"
+            "alt": "Castelas",
+            "date": "2018-10-09T09:39:15.000+02:00",
+            "width": 1920,
+            "height": 847
           }
         ],
         "videos": [],
@@ -66,15 +86,24 @@
         "photos": [
           {
             "name": "007",
-            "alt": "Wanderweg Lai Tigiel"
+            "alt": "Wanderweg Lai Tigiel",
+            "date": "2018-10-09T09:54:03.000+02:00",
+            "width": 1920,
+            "height": 750
           },
           {
             "name": "008",
-            "alt": "Piz Arblatsch"
+            "alt": "Piz Arblatsch",
+            "date": "2018-10-09T09:54:39.000+02:00",
+            "width": 1920,
+            "height": 967
           },
           {
             "name": "009",
-            "alt": "Wanderung Savognin"
+            "alt": "Wanderung Savognin",
+            "date": "2018-10-09T10:13:10.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -84,15 +113,24 @@
         "photos": [
           {
             "name": "010",
-            "alt": "Aufstieg über Wiese"
+            "alt": "Aufstieg über Wiese",
+            "date": "2018-10-09T10:23:59.000+02:00",
+            "width": 1920,
+            "height": 877
           },
           {
             "name": "011",
-            "alt": "Wanderung Tigiel"
+            "alt": "Wanderung Tigiel",
+            "date": "2018-10-09T10:27:10.000+02:00",
+            "width": 1920,
+            "height": 1231
           },
           {
             "name": "012",
-            "alt": "Piz Mitgel"
+            "alt": "Piz Mitgel",
+            "date": "2018-10-09T10:42:56.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -102,15 +140,24 @@
         "photos": [
           {
             "name": "013",
-            "alt": "Hütte mit Piz Mitgel"
+            "alt": "Hütte mit Piz Mitgel",
+            "date": "2018-10-09T10:45:58.000+02:00",
+            "width": 1920,
+            "height": 927
           },
           {
             "name": "014",
-            "alt": "Surses"
+            "alt": "Surses",
+            "date": "2018-10-09T10:47:25.000+02:00",
+            "width": 1920,
+            "height": 1065
           },
           {
             "name": "015",
-            "alt": "Hütten vor Piz Arblatsch"
+            "alt": "Hütten vor Piz Arblatsch",
+            "date": "2018-10-09T10:49:15.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -120,11 +167,17 @@
         "photos": [
           {
             "name": "016",
-            "alt": "Tinzenhorn"
+            "alt": "Tinzenhorn",
+            "date": "2018-10-09T10:54:34.000+02:00",
+            "width": 1920,
+            "height": 1190
           },
           {
             "name": "017",
-            "alt": "Pass digls Orgels"
+            "alt": "Pass digls Orgels",
+            "date": "2018-10-09T10:54:46.000+02:00",
+            "width": 1920,
+            "height": 1077
           }
         ],
         "videos": [],
@@ -134,7 +187,10 @@
         "photos": [
           {
             "name": "018",
-            "alt": "Wanderweg Tigiel Pensa"
+            "alt": "Wanderweg Tigiel Pensa",
+            "date": "2018-10-09T11:06:36.000+02:00",
+            "width": 1920,
+            "height": 850
           }
         ],
         "videos": [],
@@ -144,11 +200,17 @@
         "photos": [
           {
             "name": "019",
-            "alt": "Tinzenhorn"
+            "alt": "Tinzenhorn",
+            "date": "2018-10-09T11:10:43.000+02:00",
+            "width": 1920,
+            "height": 891
           },
           {
             "name": "020",
-            "alt": "See Savognin"
+            "alt": "See Savognin",
+            "date": "2018-10-09T11:14:58.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -158,11 +220,17 @@
         "photos": [
           {
             "name": "021",
-            "alt": "Wanderung Lai Tigiel"
+            "alt": "Wanderung Lai Tigiel",
+            "date": "2018-10-09T11:19:21.000+02:00",
+            "width": 1920,
+            "height": 1251
           },
           {
             "name": "022",
-            "alt": "Bergsee Schweiz"
+            "alt": "Bergsee Schweiz",
+            "date": "2018-10-09T11:23:09.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -172,7 +240,10 @@
         "photos": [
           {
             "name": "023",
-            "alt": "Wandern im Hochgebirge"
+            "alt": "Wandern im Hochgebirge",
+            "date": "2018-10-09T11:28:07.000+02:00",
+            "width": 1920,
+            "height": 654
           }
         ],
         "videos": [],
@@ -182,11 +253,17 @@
         "photos": [
           {
             "name": "024",
-            "alt": "Wanderweg durch Geröll"
+            "alt": "Wanderweg durch Geröll",
+            "date": "2018-10-09T11:31:15.000+02:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "025",
-            "alt": "Aufstieg Pass digls Orgels"
+            "alt": "Aufstieg Pass digls Orgels",
+            "date": "2018-10-09T11:35:04.000+02:00",
+            "width": 1920,
+            "height": 2464
           }
         ],
         "videos": [],
@@ -196,7 +273,10 @@
         "photos": [
           {
             "name": "026",
-            "alt": "Wegweiser Pass digls Orgels"
+            "alt": "Wegweiser Pass digls Orgels",
+            "date": "2018-10-09T11:54:45.000+02:00",
+            "width": 1920,
+            "height": 2515
           }
         ],
         "videos": [],
@@ -206,7 +286,10 @@
         "photos": [
           {
             "name": "027",
-            "alt": "Aussicht Pass digls Orgels"
+            "alt": "Aussicht Pass digls Orgels",
+            "date": "2018-10-09T12:05:23.000+02:00",
+            "width": 1920,
+            "height": 1024
           }
         ],
         "videos": [],
@@ -216,7 +299,10 @@
         "photos": [
           {
             "name": "028",
-            "alt": "Spadlatscha"
+            "alt": "Spadlatscha",
+            "date": "2018-10-09T12:05:55.000+02:00",
+            "width": 1920,
+            "height": 907
           }
         ],
         "videos": [],
@@ -226,7 +312,10 @@
         "photos": [
           {
             "name": "029",
-            "alt": "Tinzenhorn"
+            "alt": "Tinzenhorn",
+            "date": "2018-10-09T12:20:41.000+02:00",
+            "width": 1920,
+            "height": 880
           }
         ],
         "videos": [],
@@ -236,7 +325,10 @@
         "photos": [
           {
             "name": "030",
-            "alt": "Piz Mitgel"
+            "alt": "Piz Mitgel",
+            "date": "2018-10-09T12:30:22.000+02:00",
+            "width": 1920,
+            "height": 1156
           }
         ],
         "videos": [],
@@ -246,7 +338,10 @@
         "photos": [
           {
             "name": "031",
-            "alt": "Übergang Pass digls Orgels Pass d'Ela"
+            "alt": "Übergang Pass digls Orgels Pass d'Ela",
+            "date": "2018-10-09T12:31:01.000+02:00",
+            "width": 1920,
+            "height": 1079
           }
         ],
         "videos": [],
@@ -256,7 +351,10 @@
         "photos": [
           {
             "name": "032",
-            "alt": "Panorama Savognin"
+            "alt": "Panorama Savognin",
+            "date": "2018-10-09T12:31:39.000+02:00",
+            "width": 1920,
+            "height": 580
           }
         ],
         "videos": [],
@@ -266,11 +364,17 @@
         "photos": [
           {
             "name": "033",
-            "alt": "Weg durch Fels und Schnee"
+            "alt": "Weg durch Fels und Schnee",
+            "date": "2018-10-09T12:35:31.000+02:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "034",
-            "alt": "Cotschen"
+            "alt": "Cotschen",
+            "date": "2018-10-09T12:41:33.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -280,7 +384,10 @@
         "photos": [
           {
             "name": "035",
-            "alt": "Piz Ela"
+            "alt": "Piz Ela",
+            "date": "2018-10-09T12:41:39.000+02:00",
+            "width": 1920,
+            "height": 739
           }
         ],
         "videos": [],
@@ -290,11 +397,17 @@
         "photos": [
           {
             "name": "036",
-            "alt": "Piz Furnatsch"
+            "alt": "Piz Furnatsch",
+            "date": "2018-10-09T12:42:28.000+02:00",
+            "width": 1920,
+            "height": 868
           },
           {
             "name": "037",
-            "alt": "Glitzender Bergsee"
+            "alt": "Glitzender Bergsee",
+            "date": "2018-10-09T12:42:39.000+02:00",
+            "width": 1920,
+            "height": 1151
           }
         ],
         "videos": [],
@@ -304,11 +417,17 @@
         "photos": [
           {
             "name": "038",
-            "alt": "Pizza Grossa und Tinzenhorn"
+            "alt": "Pizza Grossa und Tinzenhorn",
+            "date": "2018-10-09T12:47:15.000+02:00",
+            "width": 1920,
+            "height": 617
           },
           {
             "name": "039",
-            "alt": "Piz Ela und Lai Grond"
+            "alt": "Piz Ela und Lai Grond",
+            "date": "2018-10-09T12:50:59.000+02:00",
+            "width": 1920,
+            "height": 985
           }
         ],
         "videos": [],
@@ -318,7 +437,10 @@
         "photos": [
           {
             "name": "040",
-            "alt": "Aussicht Pass d'Ela"
+            "alt": "Aussicht Pass d'Ela",
+            "date": "2018-10-09T12:53:17.000+02:00",
+            "width": 1920,
+            "height": 803
           }
         ],
         "videos": [],
@@ -328,7 +450,10 @@
         "photos": [
           {
             "name": "041",
-            "alt": "Pass d'Ela Tinzenhorn"
+            "alt": "Pass d'Ela Tinzenhorn",
+            "date": "2018-10-09T12:54:13.000+02:00",
+            "width": 1920,
+            "height": 692
           }
         ],
         "videos": [],
@@ -338,7 +463,10 @@
         "photos": [
           {
             "name": "042",
-            "alt": "Pizza Grossa"
+            "alt": "Pizza Grossa",
+            "date": "2018-10-09T13:03:24.000+02:00",
+            "width": 1920,
+            "height": 1095
           }
         ],
         "videos": [],
@@ -348,11 +476,17 @@
         "photos": [
           {
             "name": "043",
-            "alt": "Bergweg Pass d'Ela"
+            "alt": "Bergweg Pass d'Ela",
+            "date": "2018-10-09T13:08:27.000+02:00",
+            "width": 1920,
+            "height": 1124
           },
           {
             "name": "044",
-            "alt": "Wanderweg zur Bergseen"
+            "alt": "Wanderweg zur Bergseen",
+            "date": "2018-10-09T13:10:41.000+02:00",
+            "width": 1920,
+            "height": 1529
           }
         ],
         "videos": [],
@@ -362,7 +496,10 @@
         "photos": [
           {
             "name": "045",
-            "alt": "Lai Mort"
+            "alt": "Lai Mort",
+            "date": "2018-10-09T13:15:33.000+02:00",
+            "width": 1920,
+            "height": 874
           }
         ],
         "videos": [],
@@ -372,7 +509,10 @@
         "photos": [
           {
             "name": "046",
-            "alt": "Piz d'Err"
+            "alt": "Piz d'Err",
+            "date": "2018-10-09T13:16:05.000+02:00",
+            "width": 1920,
+            "height": 1312
           }
         ],
         "videos": [],
@@ -382,7 +522,10 @@
         "photos": [
           {
             "name": "047",
-            "alt": "Pass d'Ela"
+            "alt": "Pass d'Ela",
+            "date": "2018-10-09T13:22:28.000+02:00",
+            "width": 1920,
+            "height": 646
           }
         ],
         "videos": [],
@@ -392,7 +535,10 @@
         "photos": [
           {
             "name": "048",
-            "alt": "Serpentinen"
+            "alt": "Serpentinen",
+            "date": "2018-10-09T13:41:35.000+02:00",
+            "width": 1920,
+            "height": 2234
           }
         ],
         "videos": [],
@@ -402,11 +548,17 @@
         "photos": [
           {
             "name": "049",
-            "alt": "Aufstieg Pass d'Ela"
+            "alt": "Aufstieg Pass d'Ela",
+            "date": "2018-10-09T13:43:03.000+02:00",
+            "width": 1920,
+            "height": 2880
           },
           {
             "name": "050",
-            "alt": "Hangweg"
+            "alt": "Hangweg",
+            "date": "2018-10-09T13:46:46.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -416,7 +568,10 @@
         "photos": [
           {
             "name": "051",
-            "alt": "Cotschna"
+            "alt": "Cotschna",
+            "date": "2018-10-09T13:49:26.000+02:00",
+            "width": 1920,
+            "height": 2495
           }
         ],
         "videos": [],
@@ -426,7 +581,10 @@
         "photos": [
           {
             "name": "052",
-            "alt": "Holzbrücke über Gebirgsbach"
+            "alt": "Holzbrücke über Gebirgsbach",
+            "date": "2018-10-09T13:57:24.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -436,11 +594,17 @@
         "photos": [
           {
             "name": "053",
-            "alt": "Hochtal"
+            "alt": "Hochtal",
+            "date": "2018-10-09T13:59:57.000+02:00",
+            "width": 1920,
+            "height": 760
           },
           {
             "name": "054",
-            "alt": "Wanderung Pass d'Ela"
+            "alt": "Wanderung Pass d'Ela",
+            "date": "2018-10-09T14:10:58.000+02:00",
+            "width": 1920,
+            "height": 673
           }
         ],
         "videos": [],
@@ -450,7 +614,10 @@
         "photos": [
           {
             "name": "055",
-            "alt": "Alp d'Err"
+            "alt": "Alp d'Err",
+            "date": "2018-10-09T14:14:19.000+02:00",
+            "width": 1920,
+            "height": 806
           }
         ],
         "videos": [],
@@ -460,11 +627,17 @@
         "photos": [
           {
             "name": "056",
-            "alt": "Val d'Err"
+            "alt": "Val d'Err",
+            "date": "2018-10-09T14:15:04.000+02:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "057",
-            "alt": "Landschaft Val d'Err"
+            "alt": "Landschaft Val d'Err",
+            "date": "2018-10-09T14:17:46.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -474,7 +647,10 @@
         "photos": [
           {
             "name": "058",
-            "alt": "Wanderung Alp d'Err"
+            "alt": "Wanderung Alp d'Err",
+            "date": "2018-10-09T14:19:09.000+02:00",
+            "width": 1920,
+            "height": 1264
           }
         ],
         "videos": [],
@@ -484,7 +660,10 @@
         "photos": [
           {
             "name": "059",
-            "alt": "Malerisches Tal"
+            "alt": "Malerisches Tal",
+            "date": "2018-10-09T14:19:40.000+02:00",
+            "width": 1920,
+            "height": 832
           }
         ],
         "videos": [],
@@ -494,7 +673,10 @@
         "photos": [
           {
             "name": "062",
-            "alt": "Wandern Val d'Err"
+            "alt": "Wandern Val d'Err",
+            "date": "2018-10-09T14:22:35.000+02:00",
+            "width": 1920,
+            "height": 1008
           }
         ],
         "videos": [],
@@ -504,15 +686,24 @@
         "photos": [
           {
             "name": "063",
-            "alt": "Alpental"
+            "alt": "Alpental",
+            "date": "2018-10-09T14:26:21.000+02:00",
+            "width": 1920,
+            "height": 1028
           },
           {
             "name": "064",
-            "alt": "Fahrweg Val d'Err"
+            "alt": "Fahrweg Val d'Err",
+            "date": "2018-10-09T14:26:40.000+02:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "065",
-            "alt": "Wildromantisches Tal"
+            "alt": "Wildromantisches Tal",
+            "date": "2018-10-09T14:28:49.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -522,11 +713,17 @@
         "photos": [
           {
             "name": "066",
-            "alt": "Rundwanderung Savognin"
+            "alt": "Rundwanderung Savognin",
+            "date": "2018-10-09T14:34:31.000+02:00",
+            "width": 1920,
+            "height": 1132
           },
           {
             "name": "067",
-            "alt": "Schlucht"
+            "alt": "Schlucht",
+            "date": "2018-10-09T14:39:55.000+02:00",
+            "width": 1920,
+            "height": 2880
           }
         ],
         "videos": [],
@@ -536,7 +733,10 @@
         "photos": [
           {
             "name": "068",
-            "alt": "Herbstliches Val d'Err"
+            "alt": "Herbstliches Val d'Err",
+            "date": "2018-10-09T14:42:00.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -546,7 +746,10 @@
         "photos": [
           {
             "name": "069",
-            "alt": "Pensa"
+            "alt": "Pensa",
+            "date": "2018-10-09T14:51:55.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -556,7 +759,10 @@
         "photos": [
           {
             "name": "070",
-            "alt": "Bartg"
+            "alt": "Bartg",
+            "date": "2018-10-09T15:03:19.000+02:00",
+            "width": 1920,
+            "height": 976
           }
         ],
         "videos": [],
@@ -566,7 +772,10 @@
         "photos": [
           {
             "name": "071",
-            "alt": "Pensa"
+            "alt": "Pensa",
+            "date": "2018-10-09T15:14:25.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -576,7 +785,10 @@
         "photos": [
           {
             "name": "072",
-            "alt": "Herbst in Savognin"
+            "alt": "Herbst in Savognin",
+            "date": "2018-10-09T16:06:30.000+02:00",
+            "width": 1920,
+            "height": 2401
           }
         ],
         "videos": [],

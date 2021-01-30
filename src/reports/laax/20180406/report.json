@@ -7,8 +7,10 @@
     "shortTitle": "Laax",
     "title": "Flims - Laax - Falera",
     "title3d": {
-      "offsetY": 10.0,
-      "fontSize": 5.5
+      "offsetY": 10,
+      "fontSize": 5.5,
+      "width": 1920,
+      "height": 643
     },
     "intro": "Nachdem es die letzten Wochen zu kalt für die Jahreszeit war und es in den Bergen noch einiges Neuschnee gab, war für diese Wochende schönes und warmes Wetter vorhergesagt. Ich entschloss es noch um den Freitag zu verlängern und fuhr am Morgen noch Flims, genauergesagt in das halb fertige Parkhaus der Stenna Bausstelle neben der Talstation des Arena-Express. Da weniger Verkehr wie erwartet war, musste ich noch 5min bis zum Start der Bahn um 8:30 warten. Die Tageskarte hatte ich schon zuvor mit 25% Rabatt bei Ticketcorner gekauft - das ergibt aber immer noch 58CHF + ca. 9CHF Parkgebühren.",
     "landmarks": [
@@ -16,7 +18,10 @@
         "photos": [
           {
             "name": "001",
-            "alt": "Schwarze Piste Mutta Rodunda"
+            "alt": "Schwarze Piste Mutta Rodunda",
+            "date": "2018-04-06T09:04:44.000+02:00",
+            "width": 1920,
+            "height": 910
           }
         ],
         "videos": [],
@@ -26,7 +31,10 @@
         "photos": [
           {
             "name": "002",
-            "alt": "Ostabfahrt La Siala"
+            "alt": "Ostabfahrt La Siala",
+            "date": "2018-04-06T09:30:22.000+02:00",
+            "width": 1920,
+            "height": 951
           }
         ],
         "videos": [],
@@ -36,7 +44,10 @@
         "photos": [
           {
             "name": "003",
-            "alt": "Skigebiet Flims"
+            "alt": "Skigebiet Flims",
+            "date": "2018-04-06T09:43:30.000+02:00",
+            "width": 1920,
+            "height": 999
           }
         ],
         "videos": [],
@@ -46,7 +57,10 @@
         "photos": [
           {
             "name": "004",
-            "alt": "Steilhang La Siala"
+            "alt": "Steilhang La Siala",
+            "date": "2018-04-06T10:03:41.000+02:00",
+            "width": 1920,
+            "height": 788
           }
         ],
         "videos": [],
@@ -56,7 +70,10 @@
         "photos": [
           {
             "name": "005",
-            "alt": "Piste La Siala Vorab"
+            "alt": "Piste La Siala Vorab",
+            "date": "2018-04-06T10:22:15.000+02:00",
+            "width": 1920,
+            "height": 643
           }
         ],
         "videos": [],
@@ -66,7 +83,10 @@
         "photos": [
           {
             "name": "006",
-            "alt": "Seilbahn Vorab"
+            "alt": "Seilbahn Vorab",
+            "date": "2018-04-06T10:24:48.000+02:00",
+            "width": 1920,
+            "height": 806
           }
         ],
         "videos": [],
@@ -76,7 +96,10 @@
         "photos": [
           {
             "name": "007",
-            "alt": "Vorab Gletscher"
+            "alt": "Vorab Gletscher",
+            "date": "2018-04-06T10:25:02.000+02:00",
+            "width": 1920,
+            "height": 707
           }
         ],
         "videos": [],
@@ -86,7 +109,10 @@
         "photos": [
           {
             "name": "008",
-            "alt": "Vorab Skilift"
+            "alt": "Vorab Skilift",
+            "date": "2018-04-06T10:45:53.000+02:00",
+            "width": 1920,
+            "height": 1396
           }
         ],
         "videos": [],
@@ -96,7 +122,10 @@
         "photos": [
           {
             "name": "009",
-            "alt": "Skifahren Vorab"
+            "alt": "Skifahren Vorab",
+            "date": "2018-04-06T10:46:59.000+02:00",
+            "width": 1920,
+            "height": 1060
           }
         ],
         "videos": [],
@@ -106,7 +135,10 @@
         "photos": [
           {
             "name": "010",
-            "alt": "Sattel Piste Vorab"
+            "alt": "Sattel Piste Vorab",
+            "date": "2018-04-06T10:55:56.000+02:00",
+            "width": 1920,
+            "height": 826
           }
         ],
         "videos": [],
@@ -116,11 +148,17 @@
         "photos": [
           {
             "name": "011",
-            "alt": "Sesselbahn Lavadinas"
+            "alt": "Sesselbahn Lavadinas",
+            "date": "2018-04-06T11:01:26.000+02:00",
+            "width": 1920,
+            "height": 860
           },
           {
             "name": "012",
-            "alt": "Drehsessel Lavadinas"
+            "alt": "Drehsessel Lavadinas",
+            "date": "2018-04-06T11:03:02.000+02:00",
+            "width": 1920,
+            "height": 984
           }
         ],
         "videos": [],
@@ -130,7 +168,10 @@
         "photos": [
           {
             "name": "013",
-            "alt": "Ruschein"
+            "alt": "Ruschein",
+            "date": "2018-04-06T11:08:00.000+02:00",
+            "width": 1920,
+            "height": 833
           }
         ],
         "videos": [],
@@ -140,7 +181,10 @@
         "photos": [
           {
             "name": "014",
-            "alt": "La Siala"
+            "alt": "La Siala",
+            "date": "2018-04-06T11:13:57.000+02:00",
+            "width": 1920,
+            "height": 721
           }
         ],
         "videos": [],
@@ -150,7 +194,10 @@
         "photos": [
           {
             "name": "015",
-            "alt": "Crap Masegn"
+            "alt": "Crap Masegn",
+            "date": "2018-04-06T11:26:24.000+02:00",
+            "width": 1920,
+            "height": 985
           }
         ],
         "videos": [],
@@ -160,15 +207,24 @@
         "photos": [
           {
             "name": "016",
-            "alt": "Piste Crap Masegn Lavadinas"
+            "alt": "Piste Crap Masegn Lavadinas",
+            "date": "2018-04-06T13:03:33.000+02:00",
+            "width": 1920,
+            "height": 987
           },
           {
             "name": "017",
-            "alt": "Crap Masegn"
+            "alt": "Crap Masegn",
+            "date": "2018-04-06T13:04:21.000+02:00",
+            "width": 1920,
+            "height": 798
           },
           {
             "name": "018",
-            "alt": "Talstation Lavadina"
+            "alt": "Talstation Lavadina",
+            "date": "2018-04-06T13:06:52.000+02:00",
+            "width": 1920,
+            "height": 829
           }
         ],
         "videos": [],
@@ -178,11 +234,17 @@
         "photos": [
           {
             "name": "019",
-            "alt": "Treis Palas"
+            "alt": "Treis Palas",
+            "date": "2018-04-06T13:32:18.000+02:00",
+            "width": 1920,
+            "height": 763
           },
           {
             "name": "020",
-            "alt": "Bergstation Crap Masegn"
+            "alt": "Bergstation Crap Masegn",
+            "date": "2018-04-06T13:36:08.000+02:00",
+            "width": 1920,
+            "height": 1253
           }
         ],
         "videos": [],
@@ -192,7 +254,10 @@
         "photos": [
           {
             "name": "021",
-            "alt": "Seilbahn Crap Masegn"
+            "alt": "Seilbahn Crap Masegn",
+            "date": "2018-04-06T13:36:41.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -202,7 +267,10 @@
         "photos": [
           {
             "name": "022",
-            "alt": "Galaaxy"
+            "alt": "Galaaxy",
+            "date": "2018-04-06T13:51:09.000+02:00",
+            "width": 1920,
+            "height": 869
           }
         ],
         "videos": [],
@@ -212,11 +280,17 @@
         "photos": [
           {
             "name": "023",
-            "alt": "Gustis Jagdhütte"
+            "alt": "Gustis Jagdhütte",
+            "date": "2018-04-06T13:55:00.000+02:00",
+            "width": 1920,
+            "height": 866
           },
           {
             "name": "024",
-            "alt": "Piste Curnius Larnags"
+            "alt": "Piste Curnius Larnags",
+            "date": "2018-04-06T13:59:46.000+02:00",
+            "width": 1920,
+            "height": 857
           }
         ],
         "videos": [],
@@ -226,11 +300,17 @@
         "photos": [
           {
             "name": "025",
-            "alt": "Crap Sogn Gion Park"
+            "alt": "Crap Sogn Gion Park",
+            "date": "2018-04-06T14:22:08.000+02:00",
+            "width": 1920,
+            "height": 557
           },
           {
             "name": "026",
-            "alt": "Skigebiet Laax"
+            "alt": "Skigebiet Laax",
+            "date": "2018-04-06T14:23:59.000+02:00",
+            "width": 1920,
+            "height": 727
           }
         ],
         "videos": [],
@@ -240,7 +320,10 @@
         "photos": [
           {
             "name": "027",
-            "alt": "Treis Palas"
+            "alt": "Treis Palas",
+            "date": "2018-04-06T14:28:21.000+02:00",
+            "width": 1920,
+            "height": 1233
           }
         ],
         "videos": [],
@@ -250,7 +333,10 @@
         "photos": [
           {
             "name": "028",
-            "alt": "Crap Sogn Gion"
+            "alt": "Crap Sogn Gion",
+            "date": "2018-04-06T14:39:29.000+02:00",
+            "width": 1920,
+            "height": 799
           }
         ],
         "videos": [],
@@ -260,7 +346,10 @@
         "photos": [
           {
             "name": "029",
-            "alt": "Abfahrt Pulver"
+            "alt": "Abfahrt Pulver",
+            "date": "2018-04-06T14:43:36.000+02:00",
+            "width": 1920,
+            "height": 730
           }
         ],
         "videos": [],
@@ -270,7 +359,10 @@
         "photos": [
           {
             "name": "030",
-            "alt": "Plaun"
+            "alt": "Plaun",
+            "date": "2018-04-06T14:49:16.000+02:00",
+            "width": 1920,
+            "height": 1096
           }
         ],
         "videos": [],
@@ -280,7 +372,10 @@
         "photos": [
           {
             "name": "031",
-            "alt": "Sesselbahn Mutta Rodunda"
+            "alt": "Sesselbahn Mutta Rodunda",
+            "date": "2018-04-06T16:11:47.000+02:00",
+            "width": 1920,
+            "height": 465
           }
         ],
         "videos": [],
@@ -290,7 +385,10 @@
         "photos": [
           {
             "name": "032",
-            "alt": "Tschingelhörner Piz Segnas"
+            "alt": "Tschingelhörner Piz Segnas",
+            "date": "2018-04-06T16:19:13.000+02:00",
+            "width": 1920,
+            "height": 665
           }
         ],
         "videos": [],
@@ -300,11 +398,17 @@
         "photos": [
           {
             "name": "033",
-            "alt": "Grauberg Piste"
+            "alt": "Grauberg Piste",
+            "date": "2018-04-06T16:23:54.000+02:00",
+            "width": 1920,
+            "height": 825
           },
           {
             "name": "034",
-            "alt": "Grauberg Startgels"
+            "alt": "Grauberg Startgels",
+            "date": "2018-04-06T16:25:32.000+02:00",
+            "width": 1920,
+            "height": 661
           }
         ],
         "videos": [],
@@ -314,15 +418,24 @@
         "photos": [
           {
             "name": "035",
-            "alt": "Piz Riein"
+            "alt": "Piz Riein",
+            "date": "2018-04-06T16:32:02.000+02:00",
+            "width": 1920,
+            "height": 1051
           },
           {
             "name": "036",
-            "alt": "Tarschlims"
+            "alt": "Tarschlims",
+            "date": "2018-04-06T16:32:21.000+02:00",
+            "width": 1920,
+            "height": 666
           },
           {
             "name": "037",
-            "alt": "Talabfahrt Flims"
+            "alt": "Talabfahrt Flims",
+            "date": "2018-04-06T16:37:34.000+02:00",
+            "width": 1920,
+            "height": 905
           }
         ],
         "videos": [],

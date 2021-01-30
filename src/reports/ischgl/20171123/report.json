@@ -7,8 +7,10 @@
     "shortTitle": "Ischgl",
     "title": "Ischgl - Samnaun",
     "title3d": {
-      "offsetY": 15.0,
-      "fontSize": 6.0
+      "offsetY": 15,
+      "fontSize": 6,
+      "width": 1920,
+      "height": 702
     },
     "intro": "Nachdem ich meine Skisaison vor einer Woche mit einem Besuch im Kaunertal eröffnet hatte, entschied ich mich diese Woche wieder einen Tag (diesmal den Donnerstag) freizunehmen und am Tag der Saisoneröffnung einen Skitag in Ischgl und Samnaun zu verbringen.<br />Als ich in einer Kolonne auf der Straße nach Ischgl unterwegs war, befürchtete ich bereits ein volles Skigebiet - zum Glück war es wohl nur ein langsamer Lastwagen, denn der Parkplatz an der Pardatschgratbahn war um 8:15 noch fast leer. Nachdem ich 53€ gegen eine Tageskarte an der Kasse umtauschte, konnte ich in die (noch nicht mal ganz gefüllte) erste Gondel um 8:30 einsteigen.",
     "landmarks": [
@@ -16,7 +18,10 @@
         "photos": [
           {
             "name": "001",
-            "alt": "Frisch präparierte Piste"
+            "alt": "Frisch präparierte Piste",
+            "date": "2017-11-23T08:59:59.000+01:00",
+            "width": 1920,
+            "height": 745
           }
         ],
         "videos": [],
@@ -26,7 +31,10 @@
         "photos": [
           {
             "name": "002",
-            "alt": "Visnitzbahn"
+            "alt": "Visnitzbahn",
+            "date": "2017-11-23T09:04:06.000+01:00",
+            "width": 1920,
+            "height": 1245
           }
         ],
         "videos": [],
@@ -36,7 +44,10 @@
         "photos": [
           {
             "name": "003",
-            "alt": "Mullerbahn"
+            "alt": "Mullerbahn",
+            "date": "2017-11-23T09:15:16.000+01:00",
+            "width": 1920,
+            "height": 702
           }
         ],
         "videos": [],
@@ -46,7 +57,10 @@
         "photos": [
           {
             "name": "004",
-            "alt": "Skigebiet Samnaun"
+            "alt": "Skigebiet Samnaun",
+            "date": "2017-11-23T09:21:37.000+01:00",
+            "width": 1920,
+            "height": 969
           }
         ],
         "videos": [],
@@ -56,7 +70,10 @@
         "photos": [
           {
             "name": "005",
-            "alt": "Abfahrt Salaas"
+            "alt": "Abfahrt Salaas",
+            "date": "2017-11-23T09:40:06.000+01:00",
+            "width": 1920,
+            "height": 828
           }
         ],
         "videos": [],
@@ -66,7 +83,10 @@
         "photos": [
           {
             "name": "006",
-            "alt": "Greitspitze"
+            "alt": "Greitspitze",
+            "date": "2017-11-23T09:40:28.000+01:00",
+            "width": 1920,
+            "height": 1142
           }
         ],
         "videos": [],
@@ -76,7 +96,10 @@
         "photos": [
           {
             "name": "007",
-            "alt": "Piste Greitspitze Salaas"
+            "alt": "Piste Greitspitze Salaas",
+            "date": "2017-11-23T10:06:22.000+01:00",
+            "width": 1920,
+            "height": 651
           }
         ],
         "videos": [],
@@ -86,7 +109,10 @@
         "photos": [
           {
             "name": "008",
-            "alt": "Höllkar"
+            "alt": "Höllkar",
+            "date": "2017-11-23T10:11:48.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -96,7 +122,10 @@
         "photos": [
           {
             "name": "009",
-            "alt": "Palinkopf"
+            "alt": "Palinkopf",
+            "date": "2017-11-23T10:11:59.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -106,7 +135,10 @@
         "photos": [
           {
             "name": "010",
-            "alt": "Talstation Palinkopfbahn"
+            "alt": "Talstation Palinkopfbahn",
+            "date": "2017-11-23T10:14:04.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -116,7 +148,10 @@
         "photos": [
           {
             "name": "011",
-            "alt": "Neue Palinkopfbahn D1"
+            "alt": "Neue Palinkopfbahn D1",
+            "date": "2017-11-23T10:17:48.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -126,7 +161,10 @@
         "photos": [
           {
             "name": "012",
-            "alt": "Bergstation Palinkopfbahn"
+            "alt": "Bergstation Palinkopfbahn",
+            "date": "2017-11-23T10:23:01.000+01:00",
+            "width": 1920,
+            "height": 982
           }
         ],
         "videos": [],
@@ -136,7 +174,10 @@
         "photos": [
           {
             "name": "013",
-            "alt": "Palinkopf Sesselbahnen"
+            "alt": "Palinkopf Sesselbahnen",
+            "date": "2017-11-23T10:35:35.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -146,7 +187,10 @@
         "photos": [
           {
             "name": "014",
-            "alt": "Gamspleisspitze Paraid Naira"
+            "alt": "Gamspleisspitze Paraid Naira",
+            "date": "2017-11-23T11:00:41.000+01:00",
+            "width": 1920,
+            "height": 1079
           }
         ],
         "videos": [],
@@ -156,7 +200,10 @@
         "photos": [
           {
             "name": "015",
-            "alt": "Skipiste Höllboden"
+            "alt": "Skipiste Höllboden",
+            "date": "2017-11-23T11:03:58.000+01:00",
+            "width": 1920,
+            "height": 867
           }
         ],
         "videos": [],
@@ -166,7 +213,10 @@
         "photos": [
           {
             "name": "016",
-            "alt": "Val Musauna"
+            "alt": "Val Musauna",
+            "date": "2017-11-23T12:13:19.000+01:00",
+            "width": 1920,
+            "height": 537
           }
         ],
         "videos": [],
@@ -176,11 +226,17 @@
         "photos": [
           {
             "name": "017",
-            "alt": "Talabfahrt Samnaun"
+            "alt": "Talabfahrt Samnaun",
+            "date": "2017-11-23T12:22:01.000+01:00",
+            "width": 1920,
+            "height": 871
           },
           {
             "name": "018",
-            "alt": "Duty Free Run"
+            "alt": "Duty Free Run",
+            "date": "2017-11-23T12:22:51.000+01:00",
+            "width": 1920,
+            "height": 1128
           }
         ],
         "videos": [],
@@ -190,11 +246,17 @@
         "photos": [
           {
             "name": "019",
-            "alt": "Saumnaun Piste 80"
+            "alt": "Saumnaun Piste 80",
+            "date": "2017-11-23T12:25:04.000+01:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "020",
-            "alt": "Skipiste Val Musauna"
+            "alt": "Skipiste Val Musauna",
+            "date": "2017-11-23T12:25:57.000+01:00",
+            "width": 1920,
+            "height": 969
           }
         ],
         "videos": [],
@@ -204,7 +266,10 @@
         "photos": [
           {
             "name": "022",
-            "alt": "Val Chamins"
+            "alt": "Val Chamins",
+            "date": "2017-11-23T12:26:58.000+01:00",
+            "width": 1920,
+            "height": 851
           }
         ],
         "videos": [],
@@ -214,7 +279,10 @@
         "photos": [
           {
             "name": "023",
-            "alt": "Schöne Skipiste"
+            "alt": "Schöne Skipiste",
+            "date": "2017-11-23T12:27:22.000+01:00",
+            "width": 1920,
+            "height": 1058
           }
         ],
         "videos": [],
@@ -224,7 +292,10 @@
         "photos": [
           {
             "name": "024",
-            "alt": "Samnaun"
+            "alt": "Samnaun",
+            "date": "2017-11-23T12:42:52.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -234,7 +305,10 @@
         "photos": [
           {
             "name": "025",
-            "alt": "Samnaun Twinliner"
+            "alt": "Samnaun Twinliner",
+            "date": "2017-11-23T12:45:12.000+01:00",
+            "width": 1920,
+            "height": 1270
           }
         ],
         "videos": [],
@@ -244,7 +318,10 @@
         "photos": [
           {
             "name": "026",
-            "alt": "Restaurant Sattel"
+            "alt": "Restaurant Sattel",
+            "date": "2017-11-23T12:49:48.000+01:00",
+            "width": 1920,
+            "height": 830
           }
         ],
         "videos": [],
@@ -254,7 +331,10 @@
         "photos": [
           {
             "name": "027",
-            "alt": "Skifahren Samnaun"
+            "alt": "Skifahren Samnaun",
+            "date": "2017-11-23T12:58:40.000+01:00",
+            "width": 1920,
+            "height": 814
           }
         ],
         "videos": [],
@@ -264,7 +344,10 @@
         "photos": [
           {
             "name": "028",
-            "alt": "Flimsattelbahn"
+            "alt": "Flimsattelbahn",
+            "date": "2017-11-23T13:09:04.000+01:00",
+            "width": 1920,
+            "height": 1081
           }
         ],
         "videos": [],
@@ -274,7 +357,10 @@
         "photos": [
           {
             "name": "029",
-            "alt": "Sesselbahn über Geröll"
+            "alt": "Sesselbahn über Geröll",
+            "date": "2017-11-23T13:30:22.000+01:00",
+            "width": 1920,
+            "height": 1172
           }
         ],
         "videos": [],
@@ -284,7 +370,10 @@
         "photos": [
           {
             "name": "030",
-            "alt": "Abfahrt Gampenbahn"
+            "alt": "Abfahrt Gampenbahn",
+            "date": "2017-11-23T14:03:10.000+01:00",
+            "width": 1920,
+            "height": 1201
           }
         ],
         "videos": [],
@@ -294,7 +383,10 @@
         "photos": [
           {
             "name": "031",
-            "alt": "Piz Val Gronda"
+            "alt": "Piz Val Gronda",
+            "date": "2017-11-23T14:11:05.000+01:00",
+            "width": 1920,
+            "height": 1076
           }
         ],
         "videos": [],
@@ -304,11 +396,17 @@
         "photos": [
           {
             "name": "032",
-            "alt": "Skitrasse"
+            "alt": "Skitrasse",
+            "date": "2017-11-23T14:11:26.000+01:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "033",
-            "alt": "Palinkopf"
+            "alt": "Palinkopf",
+            "date": "2017-11-23T14:15:17.000+01:00",
+            "width": 1920,
+            "height": 1214
           }
         ],
         "videos": [],
@@ -318,7 +416,10 @@
         "photos": [
           {
             "name": "034",
-            "alt": "Fimbatal"
+            "alt": "Fimbatal",
+            "date": "2017-11-23T14:18:15.000+01:00",
+            "width": 1920,
+            "height": 621
           }
         ],
         "videos": [],
@@ -328,7 +429,10 @@
         "photos": [
           {
             "name": "035",
-            "alt": "Piste mit Pulverschnee"
+            "alt": "Piste mit Pulverschnee",
+            "date": "2017-11-23T14:19:59.000+01:00",
+            "width": 1920,
+            "height": 730
           }
         ],
         "videos": [],
@@ -338,7 +442,10 @@
         "photos": [
           {
             "name": "036",
-            "alt": "Idalp"
+            "alt": "Idalp",
+            "date": "2017-11-23T14:55:29.000+01:00",
+            "width": 1920,
+            "height": 1300
           }
         ],
         "videos": [],
@@ -348,7 +455,10 @@
         "photos": [
           {
             "name": "037",
-            "alt": "Wildspitze"
+            "alt": "Wildspitze",
+            "date": "2017-11-23T15:07:36.000+01:00",
+            "width": 1920,
+            "height": 908
           }
         ],
         "videos": [],
@@ -358,7 +468,10 @@
         "photos": [
           {
             "name": "038",
-            "alt": "Gipfelkreuz Greitspitze"
+            "alt": "Gipfelkreuz Greitspitze",
+            "date": "2017-11-23T15:08:01.000+01:00",
+            "width": 1920,
+            "height": 865
           }
         ],
         "videos": [],
@@ -368,7 +481,10 @@
         "photos": [
           {
             "name": "039",
-            "alt": "Skigebiet Ischgl"
+            "alt": "Skigebiet Ischgl",
+            "date": "2017-11-23T15:23:52.000+01:00",
+            "width": 1920,
+            "height": 875
           }
         ],
         "videos": [],
@@ -378,7 +494,10 @@
         "photos": [
           {
             "name": "040",
-            "alt": "Blaue Piste Viderjoch"
+            "alt": "Blaue Piste Viderjoch",
+            "date": "2017-11-23T15:35:35.000+01:00",
+            "width": 1920,
+            "height": 855
           }
         ],
         "videos": [],
@@ -388,7 +507,10 @@
         "photos": [
           {
             "name": "041",
-            "alt": "Flimjochbahn"
+            "alt": "Flimjochbahn",
+            "date": "2017-11-23T15:48:39.000+01:00",
+            "width": 1920,
+            "height": 1023
           }
         ],
         "videos": [],
@@ -398,7 +520,10 @@
         "photos": [
           {
             "name": "042",
-            "alt": "Pardatschgrat"
+            "alt": "Pardatschgrat",
+            "date": "2017-11-23T15:49:01.000+01:00",
+            "width": 1920,
+            "height": 1203
           }
         ],
         "videos": [],
@@ -408,7 +533,10 @@
         "photos": [
           {
             "name": "043",
-            "alt": "Sonnenuntergang Ischgl"
+            "alt": "Sonnenuntergang Ischgl",
+            "date": "2017-11-23T15:50:35.000+01:00",
+            "width": 1920,
+            "height": 827
           }
         ],
         "videos": [],
@@ -418,15 +546,24 @@
         "photos": [
           {
             "name": "044",
-            "alt": "Sonnenuntergang Sesselbahn"
+            "alt": "Sonnenuntergang Sesselbahn",
+            "date": "2017-11-23T16:03:48.000+01:00",
+            "width": 1920,
+            "height": 1361
           },
           {
             "name": "045",
-            "alt": "Skifahren Ischgl"
+            "alt": "Skifahren Ischgl",
+            "date": "2017-11-23T16:04:08.000+01:00",
+            "width": 1920,
+            "height": 748
           },
           {
             "name": "046",
-            "alt": "Pulverschneeabfahrt"
+            "alt": "Pulverschneeabfahrt",
+            "date": "2017-11-23T16:05:39.000+01:00",
+            "width": 1920,
+            "height": 988
           }
         ],
         "videos": [],

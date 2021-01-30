@@ -13,7 +13,10 @@
         "photos": [
           {
             "name": "001",
-            "alt": "St. Antönien im Schatten"
+            "alt": "St. Antönien im Schatten",
+            "date": "2017-10-15T08:44:47.000+02:00",
+            "width": 1920,
+            "height": 1085
           }
         ],
         "text": "Mein Auto stellte ich auf dem kostenpflichtigen Parkplatz mitten im kleinen Ort St. Antönien ab. Bei frischen 5° ging es um 8:30 noch im Schatten direkt den Grashang Richtung Norden hinauf."
@@ -22,11 +25,17 @@
         "photos": [
           {
             "name": "002",
-            "alt": "Sonnenaufgang in den Bergen"
+            "alt": "Sonnenaufgang in den Bergen",
+            "date": "2017-10-15T08:51:15.000+02:00",
+            "width": 1920,
+            "height": 1217
           },
           {
             "name": "003",
-            "alt": "Aschüel"
+            "alt": "Aschüel",
+            "date": "2017-10-15T08:56:35.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "text": "Die ersten 200 Höhenmeter führte der Weg erst auf einer Fahrstraße und dann auf einem Feldweg den Berg rauf. So erreichte ich die ersten warmen Sonnenstrahlen, so dass die Jacke schnell im Rucksack verschwand."
@@ -35,11 +44,17 @@
         "photos": [
           {
             "name": "004",
-            "alt": "Hartmisch Alp"
+            "alt": "Hartmisch Alp",
+            "date": "2017-10-15T09:00:58.000+02:00",
+            "width": 1920,
+            "height": 1047
           },
           {
             "name": "005",
-            "alt": "Alpwiese vor Chrüz"
+            "alt": "Alpwiese vor Chrüz",
+            "date": "2017-10-15T09:21:06.000+02:00",
+            "width": 1920,
+            "height": 827
           }
         ],
         "text": "Anschließend ging es zum Teil durch Wald, aber hauptsächlich über verlassene Weiden an einigen Alpen vorbei. Dabei aber immer gleichmäßig ansteigend."
@@ -48,7 +63,10 @@
         "photos": [
           {
             "name": "006",
-            "alt": "Rüti"
+            "alt": "Rüti",
+            "date": "2017-10-15T09:31:17.000+02:00",
+            "width": 1920,
+            "height": 963
           }
         ],
         "text": "Tiefblick auf Rüti unten im Tal, das gerade die ersten Sonnenstrahlen erreichte."
@@ -57,7 +75,10 @@
         "photos": [
           {
             "name": "007",
-            "alt": "Chrüz"
+            "alt": "Chrüz",
+            "date": "2017-10-15T09:47:14.000+02:00",
+            "width": 1920,
+            "height": 920
           }
         ],
         "text": "Inzwischen hatte ich die Baumgrenze überschritten. Hier der Blick zurück. Links das Tal von St. Antönien und rechts hinten der 2200m hohe <a href='/alpine/davos/20151031'>Chrüz</a>, auf dem ich vor einem Jahr bei recht ähnlichen Bedingungen unterwegs war."
@@ -66,7 +87,10 @@
         "photos": [
           {
             "name": "008",
-            "alt": "Sulzfluh hinter Grashügel"
+            "alt": "Sulzfluh hinter Grashügel",
+            "date": "2017-10-15T10:05:08.000+02:00",
+            "width": 1920,
+            "height": 877
           }
         ],
         "text": "Da ich langsam die Hochfläche erreicht hatten, tauchte nun erstmals die Spitze der Sulzfluh auf."
@@ -75,11 +99,17 @@
         "photos": [
           {
             "name": "009",
-            "alt": "Bergwegzeichen"
+            "alt": "Bergwegzeichen",
+            "date": "2017-10-15T10:05:47.000+02:00",
+            "width": 1920,
+            "height": 1172
           },
           {
             "name": "010",
-            "alt": "Wanderweg über braune Wiese"
+            "alt": "Wanderweg über braune Wiese",
+            "date": "2017-10-15T10:12:36.000+02:00",
+            "width": 1920,
+            "height": 637
           }
         ],
         "text": "Noch einmal der Blick zurück über das Tal hinweg in das Prättigau."
@@ -88,7 +118,10 @@
         "photos": [
           {
             "name": "011",
-            "alt": "Grashüpfer"
+            "alt": "Grashüpfer",
+            "date": "2017-10-15T10:13:54.000+02:00",
+            "width": 1920,
+            "height": 1344
           }
         ],
         "text": "Auf den Wiesen wimmelte es von zirpenden Grashüpfern, die bei jedem Schritt davonsprungen."
@@ -97,7 +130,10 @@
         "photos": [
           {
             "name": "012",
-            "alt": "Sulzfluh und Schijenflue"
+            "alt": "Sulzfluh und Schijenflue",
+            "date": "2017-10-15T10:16:57.000+02:00",
+            "width": 1920,
+            "height": 802
           }
         ],
         "text": "Hochfläche erreicht. Links die Sulzfluh und rechts die Schijenflue. Später führte mein Weg zuerst zur linken Flanke der Sulzfluh, um dann direkt an der Vorderseite rüber zur Schijenflue zu wechseln. Zum Abschluss durch das Tal rechts zurück nach St. Antönien. Zuerst machte ich aber noch einen kleinen Abstecher zum Carschinasee."
@@ -106,15 +142,24 @@
         "photos": [
           {
             "name": "013",
-            "alt": "Carschinasee mit Sulzfluh"
+            "alt": "Carschinasee mit Sulzfluh",
+            "date": "2017-10-15T10:30:12.000+02:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "014",
-            "alt": "Carschinasee"
+            "alt": "Carschinasee",
+            "date": "2017-10-15T10:32:50.000+02:00",
+            "width": 1920,
+            "height": 488
           },
           {
             "name": "015",
-            "alt": "Bootsfahrt auf Carschinasee"
+            "alt": "Bootsfahrt auf Carschinasee",
+            "date": "2017-10-15T10:40:01.000+02:00",
+            "width": 1920,
+            "height": 624
           }
         ],
         "text": "Der Carschinasee ist ein kleiner Bergsee auf fast 2200m, der nur über Wanderwege erreichbar ist. Im Sommer kann man dort baden und außerdem ist dort eine Grillstelle eingerichtet. Das Highlight für mich war aber, dass man dort ein Ruderboot für 2CHF mieten kann. Das Geld wird dabei einfach in eine Blechdose geworfen. In völliger Einsamkeit habe ich so ein paar Runden auf dem See gerudert - außergewöhnlich."
@@ -123,7 +168,10 @@
         "photos": [
           {
             "name": "016",
-            "alt": "Chüenihorn"
+            "alt": "Chüenihorn",
+            "date": "2017-10-15T10:59:28.000+02:00",
+            "width": 1920,
+            "height": 683
           }
         ],
         "text": "Da mit dem Boot die Bewegungsfreiheit allerdings doch etwas eingeschränkt war, bin ich dann doch zu Fuß weiter. Hier der Blick zurück über die Hochfläche, auf dem sich auch der Carschinasee befindet. Der Gipfel rechts ist das 2400m hohe Chüenihorn, auf den auch ein Wanderweg führt."
@@ -132,7 +180,10 @@
         "photos": [
           {
             "name": "017",
-            "alt": "Sulzfluh"
+            "alt": "Sulzfluh",
+            "date": "2017-10-15T11:00:45.000+02:00",
+            "width": 1920,
+            "height": 620
           }
         ],
         "text": "Wieder der Blick auf die <a href='/alpine/sulzfluh/20141012'>Sulzfluh</a>, nun aber schon etwas näher."
@@ -141,7 +192,10 @@
         "photos": [
           {
             "name": "018",
-            "alt": "Herbstschnee"
+            "alt": "Herbstschnee",
+            "date": "2017-10-15T11:18:57.000+02:00",
+            "width": 1920,
+            "height": 666
           }
         ],
         "text": "Der Weg führte nun ohne große Höhenunterschiede den Hang entlang. Alles sehr harmlos und damit war auch der zum Teil noch vorhandene Schnee kein Problem."
@@ -150,7 +204,10 @@
         "photos": [
           {
             "name": "019",
-            "alt": "Carschinahütte vor Sulzfluh"
+            "alt": "Carschinahütte vor Sulzfluh",
+            "date": "2017-10-15T11:26:06.000+02:00",
+            "width": 1920,
+            "height": 1535
           }
         ],
         "text": "Die Carschinahütte, die sich direkt unter den Felswänden der Sulzfluh befindet."
@@ -159,7 +216,10 @@
         "photos": [
           {
             "name": "020",
-            "alt": "Carschinahütte"
+            "alt": "Carschinahütte",
+            "date": "2017-10-15T11:37:22.000+02:00",
+            "width": 1920,
+            "height": 998
           }
         ],
         "text": "Da mein Tagesziel aber das Drusentor (bzw. Drusator) war, passierte ich zunächst nur die Carschinahütte. Hier begegnete ich nun den ersten anderen Wanderen des Tages, die zur Hütte von Partnun aufgestiegen waren."
@@ -168,7 +228,10 @@
         "photos": [
           {
             "name": "021",
-            "alt": "Carschinafurgga"
+            "alt": "Carschinafurgga",
+            "date": "2017-10-15T11:39:04.000+02:00",
+            "width": 1920,
+            "height": 869
           }
         ],
         "text": "Ich machte eine Pause auf der benachtbarten Carschinafurgga, von der Wege in alle möglichen Richtungen führen. Inzwischen war ich schon gut 3h unterwegs und hatte 800 Höhenmeter überwunden."
@@ -177,7 +240,10 @@
         "photos": [
           {
             "name": "022",
-            "alt": "Schesaplana"
+            "alt": "Schesaplana",
+            "date": "2017-10-15T11:42:16.000+02:00",
+            "width": 1920,
+            "height": 652
           }
         ],
         "text": "Von der Carschinafurgga konnte ich nun auch erstmals Richtung Westen schauen. In der Bildmitte ist die <a href='/alpine/brandnertal/20150829'>Schesaplana</a> zu sehen und links direkt daneben der <a href='/alpine/malbun/20161016'>Naafkopf</a>."
@@ -186,7 +252,10 @@
         "photos": [
           {
             "name": "023",
-            "alt": "Drusa"
+            "alt": "Drusa",
+            "date": "2017-10-15T11:46:24.000+02:00",
+            "width": 1920,
+            "height": 675
           }
         ],
         "text": "Zum Drusentor ging es nun an der Westflange der Sulzfluh entlang. Hier der Blick ins Drusatal. Links der Schafberg und rechts die sehr felsige Drusenfluh. Gut kann man die Schneeunterschiede in dieser Jahrezeit zwischen Nord- und Südhängen sehen. Für die Planung von Wanderungen im Herbst ziemlich wichtig."
@@ -195,7 +264,10 @@
         "photos": [
           {
             "name": "024",
-            "alt": "Weg zum Drusentor"
+            "alt": "Weg zum Drusentor",
+            "date": "2017-10-15T11:50:56.000+02:00",
+            "width": 1920,
+            "height": 1178
           }
         ],
         "text": "Hier ist nun das Drusentor zu sehen, das der Pass zwischen Sulzfluh und Drusenfluh darstellt."
@@ -204,7 +276,10 @@
         "photos": [
           {
             "name": "025",
-            "alt": "Wanderung im Prättigau"
+            "alt": "Wanderung im Prättigau",
+            "date": "2017-10-15T11:53:23.000+02:00",
+            "width": 1920,
+            "height": 625
           }
         ],
         "text": "Noch führte der Weg recht eben das Talende entlang."
@@ -213,7 +288,10 @@
         "photos": [
           {
             "name": "026",
-            "alt": "Wegweiser auf Fels"
+            "alt": "Wegweiser auf Fels",
+            "date": "2017-10-15T12:00:16.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "text": "Da hat sich der Wanderwegweiseraufsteller wohl einen Scherz erlaubt und den Wegweiser oben auf einen Fels plaziert. Vielleicht hilft das aber auch, wenn es im Frühjahr hier oben noch viel Schnee haben sollte."
@@ -222,7 +300,10 @@
         "photos": [
           {
             "name": "027",
-            "alt": "Bergweg vor Drusenfluh"
+            "alt": "Bergweg vor Drusenfluh",
+            "date": "2017-10-15T12:01:56.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "text": "Nun ging es aber doch wieder bergauf, schließlich mussten noch 100 Höhenmeter zum Drusentor zurückgelegt werden."
@@ -231,7 +312,10 @@
         "photos": [
           {
             "name": "028",
-            "alt": "Drusenfluh"
+            "alt": "Drusenfluh",
+            "date": "2017-10-15T12:12:19.000+02:00",
+            "width": 1920,
+            "height": 1153
           }
         ],
         "text": "Die Drusenfluh besteht auf bizarren Felsformationen, die der ganzen Landschaft ein etwas mystisches Aussehen geben."
@@ -240,7 +324,10 @@
         "photos": [
           {
             "name": "029",
-            "alt": "Bergweg durch Schnee"
+            "alt": "Bergweg durch Schnee",
+            "date": "2017-10-15T12:14:13.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "text": "Mehr Schnee als auf diesem Bild hatte ich auf der ganzen Wanderung nicht. Da er zu dem auch noch weich war, war er kein Hinderniss."
@@ -249,7 +336,10 @@
         "photos": [
           {
             "name": "030",
-            "alt": "Grenzschild Österreich"
+            "alt": "Grenzschild Österreich",
+            "date": "2017-10-15T12:15:56.000+02:00",
+            "width": 1920,
+            "height": 1059
           }
         ],
         "text": "Das Drusentor ist ein Grenzübergang zwischen der Schweiz und Österreich. Damit das auch jeder mitbekommt, steht dort ein entsprechendes Schild."
@@ -258,7 +348,10 @@
         "photos": [
           {
             "name": "031",
-            "alt": "Drusentor"
+            "alt": "Drusentor",
+            "date": "2017-10-15T12:16:46.000+02:00",
+            "width": 1920,
+            "height": 895
           }
         ],
         "text": "Um 12:15 hatte ich schließlich das 2340m hohe Drusentor (oder Drusator) erreicht. Hier der Blick Richtung Drusenfluh. Links ist die Schweiz und rechts Österreich."
@@ -267,7 +360,10 @@
         "photos": [
           {
             "name": "032",
-            "alt": "Drusentor Richtung Lindauer Hütte"
+            "alt": "Drusentor Richtung Lindauer Hütte",
+            "date": "2017-10-15T12:17:24.000+02:00",
+            "width": 1920,
+            "height": 913
           }
         ],
         "text": "Panorama vom Drusentor nach Österreich ins Montafon. Nicht sichtbar die Lindauerhütte, die mit eine guten Stunde Abstieg von hier erreichbar wäre. Auf der Nordseite des Drusentors deutlich mehr Schnee - ein Wanderer der von dort kam, musste stapfen."
@@ -276,7 +372,10 @@
         "photos": [
           {
             "name": "033",
-            "alt": "Drusentor Richtung Prättigau"
+            "alt": "Drusentor Richtung Prättigau",
+            "date": "2017-10-15T12:18:22.000+02:00",
+            "width": 1920,
+            "height": 881
           }
         ],
         "text": "Und das Panorama in die andere Richtung zur Schweiz ins Prättigau."
@@ -285,7 +384,10 @@
         "photos": [
           {
             "name": "034",
-            "alt": "Schwarzhorn Montafon"
+            "alt": "Schwarzhorn Montafon",
+            "date": "2017-10-15T12:27:17.000+02:00",
+            "width": 1920,
+            "height": 1106
           }
         ],
         "text": "Tele zum Schwarzhorn im Montafon (rechts)."
@@ -294,7 +396,10 @@
         "photos": [
           {
             "name": "035",
-            "alt": "Paraglider Drusenfluh"
+            "alt": "Paraglider Drusenfluh",
+            "date": "2017-10-15T12:39:35.000+02:00",
+            "width": 1920,
+            "height": 3197
           }
         ],
         "text": "Nun ging hier wieder den gleichen Weg vom Drusentor zurück. Von Osten her schraubten sich Paraglider an der Drusenfluh rauf. Hier hat man auch mal ein Größenverhältnis."
@@ -303,7 +408,10 @@
         "photos": [
           {
             "name": "036",
-            "alt": "Paraglider Sulzfluh"
+            "alt": "Paraglider Sulzfluh",
+            "date": "2017-10-15T12:55:27.000+02:00",
+            "width": 1920,
+            "height": 1150
           }
         ],
         "text": "Die Carschinahütte war schnell wieder erreicht... und auch die Paraglider waren nun schon bei der Sulzfluh angelangt. Insgesamt habe ich für den Abstecher von der Carschinahütte zum Drusentor fast 1 1/2 Stunden gebraucht."
@@ -312,7 +420,10 @@
         "photos": [
           {
             "name": "037",
-            "alt": "Carschinahütte Gasthaus"
+            "alt": "Carschinahütte Gasthaus",
+            "date": "2017-10-15T12:57:39.000+02:00",
+            "width": 1920,
+            "height": 1193
           }
         ],
         "text": "Die Terrasse der Carschinahütte war nun ganz gut belegt. Ich hatte aber ohnehin nicht vor einzukehren."
@@ -321,11 +432,17 @@
         "photos": [
           {
             "name": "038",
-            "alt": "Weg durch Felssturz"
+            "alt": "Weg durch Felssturz",
+            "date": "2017-10-15T13:03:34.000+02:00",
+            "width": 1920,
+            "height": 1071
           },
           {
             "name": "039",
-            "alt": "Weg zur Carschinahütte"
+            "alt": "Weg zur Carschinahütte",
+            "date": "2017-10-15T13:07:14.000+02:00",
+            "width": 1920,
+            "height": 717
           }
         ],
         "text": "Ich folgte dem Wanderweg entlang der Südseite der Sulzfluh. Dieser führt zuerst durch einen großen Felssturz, wobei der Weg aber unproblematisch ist."
@@ -334,7 +451,10 @@
         "photos": [
           {
             "name": "040",
-            "alt": "Wanderpause"
+            "alt": "Wanderpause",
+            "date": "2017-10-15T13:28:17.000+02:00",
+            "width": 1920,
+            "height": 706
           }
         ],
         "text": "Nach dem Felssturz erreichte ich wieder die (für diesen Wandertag) typischen Herbstwiesen. Ich machte erst mal eine längere Pause im warmen Gras mit schönem Blick Richtung Partnun und St. Antönien. Im Hintergrund ist die <a href='/alpine/gargellen/20150822'>Madrisa</a> zu sehen. Dass das Wetter absolut perfekt war, muss ich wohl nicht erwähnen?"
@@ -343,7 +463,10 @@
         "photos": [
           {
             "name": "041",
-            "alt": "Schijenflue"
+            "alt": "Schijenflue",
+            "date": "2017-10-15T13:51:18.000+02:00",
+            "width": 1920,
+            "height": 845
           }
         ],
         "text": "Danach ging es noch etwas unterhalb der Sulzfluh entlang. Hier der Blick auf die Schijenflue."
@@ -352,7 +475,10 @@
         "photos": [
           {
             "name": "042",
-            "alt": "Schijenflue mit Partnunsee"
+            "alt": "Schijenflue mit Partnunsee",
+            "date": "2017-10-15T14:08:22.000+02:00",
+            "width": 1920,
+            "height": 1125
           }
         ],
         "text": "Bevor das Talende erreicht war, ging ich auf steilem Weg direkt bergab zum 1900m hohen Partnunsee, hier rechts. Links ist wieder die Schijenflue zu sehen."
@@ -361,11 +487,17 @@
         "photos": [
           {
             "name": "043",
-            "alt": "Partnunsee"
+            "alt": "Partnunsee",
+            "date": "2017-10-15T14:14:26.000+02:00",
+            "width": 1920,
+            "height": 1086
           },
           {
             "name": "044",
-            "alt": "Slackline Partnunsee"
+            "alt": "Slackline Partnunsee",
+            "date": "2017-10-15T14:14:50.000+02:00",
+            "width": 1920,
+            "height": 854
           }
         ],
         "text": "Der Abstieg zum Partnunsee war schnell erledigt. Am See war jede Menge los. Für Mutige ist eine Slackline (inkl. Sicherungsleine) über den ganzen See gespannt. Netterweise hat sich auch gerade jemand daran versucht."
@@ -374,7 +506,10 @@
         "photos": [
           {
             "name": "045",
-            "alt": "Klarer grüner Bergsee"
+            "alt": "Klarer grüner Bergsee",
+            "date": "2017-10-15T14:23:19.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "text": "Das klare grüne Wasser des Partnunsees."
@@ -383,7 +518,10 @@
         "photos": [
           {
             "name": "046",
-            "alt": "Partnunsee mit Sulzfluh"
+            "alt": "Partnunsee mit Sulzfluh",
+            "date": "2017-10-15T14:25:50.000+02:00",
+            "width": 1920,
+            "height": 888
           }
         ],
         "text": "Blick vom Partnunsee zurück zur Sulzfluh. Rechts der Pass führt hinüber zur Tilisunahütte in Österreich."
@@ -392,7 +530,10 @@
         "photos": [
           {
             "name": "047",
-            "alt": "Herbst in den Alpen"
+            "alt": "Herbst in den Alpen",
+            "date": "2017-10-15T14:30:59.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "text": "Die Flora wurde hier unten nun wieder abwechslungsreicher und erstrahlte in schönen Herbstfarben."
@@ -401,7 +542,10 @@
         "photos": [
           {
             "name": "048",
-            "alt": "Weg zum Partnunsee"
+            "alt": "Weg zum Partnunsee",
+            "date": "2017-10-15T14:40:12.000+02:00",
+            "width": 1920,
+            "height": 1241
           }
         ],
         "text": "Von Partnun führt bis zum Partnunsee eine Fahrstraße hinauf. Diese lief ich nun (mit vielen Spaziergängern) bergab."
@@ -410,7 +554,10 @@
         "photos": [
           {
             "name": "049",
-            "alt": "Partnun"
+            "alt": "Partnun",
+            "date": "2017-10-15T14:49:53.000+02:00",
+            "width": 1920,
+            "height": 807
           }
         ],
         "text": "Blick von Partnun ins Tal nach St. Antönien. Ab Partnun ist die Straße asphaltiert. Alternativ gibt es einen richtigen Wanderweg auf der rechten Seite des Tals. In Partnun stehen aber auch Trottinetts (Roller) herum, die man für 5CHF (wieder eine Blechdose) mieten kann. Mit diesen kann man die wenig befahrene Straße bis St. Antönien abfahren. Da dies sicher so 5km sind, habe ich mir es auch gegönnt und bin ab hier faul gewesen."
@@ -419,7 +566,10 @@
         "photos": [
           {
             "name": "050",
-            "alt": "Partnun"
+            "alt": "Partnun",
+            "date": "2017-10-15T14:54:01.000+02:00",
+            "width": 1920,
+            "height": 662
           }
         ],
         "text": "Mit dem Trottinett ist man schnell unterwegs. Hier bin ich bereits unterhalb von Partnun. Im Hintergrund wieder die Schijenflue. Ungefähr hier befinden sich auch die Parkplätze, wenn man von Partnun aus loslaufen will."
@@ -428,7 +578,10 @@
         "photos": [
           {
             "name": "051",
-            "alt": "Straße nach Partnun"
+            "alt": "Straße nach Partnun",
+            "date": "2017-10-15T14:59:52.000+02:00",
+            "width": 1920,
+            "height": 1011
           }
         ],
         "text": "Noch ein Zwischenstopp auf halber Strecke zwischen Partnun und St. Antönien."
@@ -437,11 +590,17 @@
         "photos": [
           {
             "name": "052",
-            "alt": "Bergbach mit Herbstlaub"
+            "alt": "Bergbach mit Herbstlaub",
+            "date": "2017-10-15T15:03:36.000+02:00",
+            "width": 1920,
+            "height": 1236
           },
           {
             "name": "053",
-            "alt": "Bunte Bäume"
+            "alt": "Bunte Bäume",
+            "date": "2017-10-15T15:04:35.000+02:00",
+            "width": 1920,
+            "height": 818
           }
         ],
         "text": "Schöne herbstliche Landschaft im Tal."
@@ -450,7 +609,10 @@
         "photos": [
           {
             "name": "054",
-            "alt": "St. Antönien"
+            "alt": "St. Antönien",
+            "date": "2017-10-15T15:13:49.000+02:00",
+            "width": 1920,
+            "height": 995
           }
         ],
         "text": "Abschluss der Wanderung im (jetzt sonnigen) St. Antönien um 15:15."

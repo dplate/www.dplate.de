@@ -9,9 +9,11 @@
     "shortTitle": "Kops‑Stausee",
     "title": "Silvretta Hochalpenstraße - Kops‑Stausee",
     "title3d": {
-      "offsetY": 1.0,
-      "fontSize": 5.0,
-      "align": "center"
+      "offsetY": 1,
+      "fontSize": 5,
+      "align": "center",
+      "width": 1920,
+      "height": 452
     },
     "intro": "An diesem schönen Oktobersonntag ging auf einen Fahrt über die Silvretta Hochalpenstraße um einen Spaziergang um den Kops-Stausee zu unternehmen.",
     "landmarks": [
@@ -19,11 +21,17 @@
         "photos": [
           {
             "name": "001",
-            "alt": "Herbst in den Alpen"
+            "alt": "Herbst in den Alpen",
+            "date": "2019-10-13T10:22:46.000+02:00",
+            "width": 1920,
+            "height": 1004
           },
           {
             "name": "002",
-            "alt": "Litzner"
+            "alt": "Litzner",
+            "date": "2019-10-13T10:23:36.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -33,11 +41,17 @@
         "photos": [
           {
             "name": "003",
-            "alt": "Klostertaler Egghorn"
+            "alt": "Klostertaler Egghorn",
+            "date": "2019-10-13T10:32:01.000+02:00",
+            "width": 1920,
+            "height": 1189
           },
           {
             "name": "004",
-            "alt": "Silvretta-Stausee"
+            "alt": "Silvretta-Stausee",
+            "date": "2019-10-13T10:32:09.000+02:00",
+            "width": 1920,
+            "height": 671
           }
         ],
         "videos": [],
@@ -47,11 +61,17 @@
         "photos": [
           {
             "name": "005",
-            "alt": "Zeinisjoch"
+            "alt": "Zeinisjoch",
+            "date": "2019-10-13T10:47:36.000+02:00",
+            "width": 1920,
+            "height": 1148
           },
           {
             "name": "006",
-            "alt": "Zeinissee"
+            "alt": "Zeinissee",
+            "date": "2019-10-13T10:53:42.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -61,7 +81,10 @@
         "photos": [
           {
             "name": "008",
-            "alt": "Spazierweg Kops-Stausee"
+            "alt": "Spazierweg Kops-Stausee",
+            "date": "2019-10-13T11:08:48.000+02:00",
+            "width": 1920,
+            "height": 865
           }
         ],
         "videos": [],
@@ -71,7 +94,10 @@
         "photos": [
           {
             "name": "009",
-            "alt": "Staumauer"
+            "alt": "Staumauer",
+            "date": "2019-10-13T11:18:55.000+02:00",
+            "width": 1920,
+            "height": 2463
           }
         ],
         "videos": [],
@@ -81,7 +107,10 @@
         "photos": [
           {
             "name": "010",
-            "alt": "Hohe Staumauer"
+            "alt": "Hohe Staumauer",
+            "date": "2019-10-13T11:29:54.000+02:00",
+            "width": 1920,
+            "height": 1902
           }
         ],
         "videos": [],
@@ -91,7 +120,10 @@
         "photos": [
           {
             "name": "012",
-            "alt": "Fädnerspitze"
+            "alt": "Fädnerspitze",
+            "date": "2019-10-13T11:33:17.000+02:00",
+            "width": 1920,
+            "height": 868
           }
         ],
         "videos": [],
@@ -101,11 +133,17 @@
         "photos": [
           {
             "name": "013",
-            "alt": "Kops"
+            "alt": "Kops",
+            "date": "2019-10-13T11:37:31.000+02:00",
+            "width": 1920,
+            "height": 1234
           },
           {
             "name": "014",
-            "alt": "Partenen"
+            "alt": "Partenen",
+            "date": "2019-10-13T11:40:16.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -115,7 +153,10 @@
         "photos": [
           {
             "name": "015",
-            "alt": "Föhnlinse"
+            "alt": "Föhnlinse",
+            "date": "2019-10-13T11:53:22.000+02:00",
+            "width": 1920,
+            "height": 1180
           }
         ],
         "videos": [],
@@ -125,19 +166,31 @@
         "photos": [
           {
             "name": "016",
-            "alt": "Wanderweg Kops-Stausee"
+            "alt": "Wanderweg Kops-Stausee",
+            "date": "2019-10-13T11:59:46.000+02:00",
+            "width": 1920,
+            "height": 2475
           },
           {
             "name": "017",
-            "alt": "Felsenquelle"
+            "alt": "Felsenquelle",
+            "date": "2019-10-13T12:09:52.000+02:00",
+            "width": 1920,
+            "height": 1365
           },
           {
             "name": "019",
-            "alt": "Rundweg an See"
+            "alt": "Rundweg an See",
+            "date": "2019-10-13T12:11:57.000+02:00",
+            "width": 1920,
+            "height": 1068
           },
           {
             "name": "020",
-            "alt": "Kleine Wasserfälle"
+            "alt": "Kleine Wasserfälle",
+            "date": "2019-10-13T12:16:32.000+02:00",
+            "width": 1920,
+            "height": 1145
           }
         ],
         "videos": [],
@@ -147,27 +200,45 @@
         "photos": [
           {
             "name": "021",
-            "alt": " Kops-Stausee"
+            "alt": " Kops-Stausee",
+            "date": "2019-10-13T12:21:47.000+02:00",
+            "width": 1920,
+            "height": 1077
           },
           {
             "name": "022",
-            "alt": "Versalspitze"
+            "alt": "Versalspitze",
+            "date": "2019-10-13T12:39:34.000+02:00",
+            "width": 1920,
+            "height": 900
           },
           {
             "name": "024",
-            "alt": "Wanderung Galtür"
+            "alt": "Wanderung Galtür",
+            "date": "2019-10-13T12:50:22.000+02:00",
+            "width": 1920,
+            "height": 901
           },
           {
             "name": "025",
-            "alt": "Wanderung Paznauntal"
+            "alt": "Wanderung Paznauntal",
+            "date": "2019-10-13T12:53:27.000+02:00",
+            "width": 1920,
+            "height": 1070
           },
           {
             "name": "026",
-            "alt": "Herbst im Paznaun"
+            "alt": "Herbst im Paznaun",
+            "date": "2019-10-13T12:57:31.000+02:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "027",
-            "alt": "Rundweg Kops"
+            "alt": "Rundweg Kops",
+            "date": "2019-10-13T13:01:14.000+02:00",
+            "width": 1920,
+            "height": 1050
           }
         ],
         "videos": [],
@@ -177,7 +248,10 @@
         "photos": [
           {
             "name": "028",
-            "alt": "Madrisella"
+            "alt": "Madrisella",
+            "date": "2019-10-13T13:06:26.000+02:00",
+            "width": 1920,
+            "height": 959
           }
         ],
         "videos": [],
@@ -187,7 +261,10 @@
         "photos": [
           {
             "name": "029",
-            "alt": "Frisches Bergwasser"
+            "alt": "Frisches Bergwasser",
+            "date": "2019-10-13T13:11:55.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -197,7 +274,10 @@
         "photos": [
           {
             "name": "030",
-            "alt": "Spaziergang Galtür"
+            "alt": "Spaziergang Galtür",
+            "date": "2019-10-13T13:16:46.000+02:00",
+            "width": 1920,
+            "height": 874
           }
         ],
         "videos": [],
@@ -207,7 +287,10 @@
         "photos": [
           {
             "name": "031",
-            "alt": "Kopsseelift"
+            "alt": "Kopsseelift",
+            "date": "2019-10-13T13:18:53.000+02:00",
+            "width": 1920,
+            "height": 1234
           }
         ],
         "videos": [],
@@ -217,7 +300,10 @@
         "photos": [
           {
             "name": "032",
-            "alt": "Herbstspiegelung im See"
+            "alt": "Herbstspiegelung im See",
+            "date": "2019-10-13T13:40:45.000+02:00",
+            "width": 1920,
+            "height": 989
           }
         ],
         "videos": [],
@@ -227,7 +313,10 @@
         "photos": [
           {
             "name": "033",
-            "alt": "Gorfenspitze"
+            "alt": "Gorfenspitze",
+            "date": "2019-10-13T13:42:50.000+02:00",
+            "width": 1920,
+            "height": 2409
           }
         ],
         "videos": [],
@@ -237,11 +326,17 @@
         "photos": [
           {
             "name": "034",
-            "alt": "Silvretta Hochalpenstraße"
+            "alt": "Silvretta Hochalpenstraße",
+            "date": "2019-10-13T13:49:36.000+02:00",
+            "width": 1920,
+            "height": 1206
           },
           {
             "name": "035",
-            "alt": "Kleinvermunt"
+            "alt": "Kleinvermunt",
+            "date": "2019-10-13T13:50:11.000+02:00",
+            "width": 1920,
+            "height": 970
           }
         ],
         "videos": [],
@@ -251,7 +346,10 @@
         "photos": [
           {
             "name": "036",
-            "alt": "Madlenerhaus"
+            "alt": "Madlenerhaus",
+            "date": "2019-10-13T14:15:49.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -261,11 +359,17 @@
         "photos": [
           {
             "name": "037",
-            "alt": "Rundweg Silvretta-Stausee"
+            "alt": "Rundweg Silvretta-Stausee",
+            "date": "2019-10-13T14:26:36.000+02:00",
+            "width": 1920,
+            "height": 772
           },
           {
             "name": "038",
-            "alt": "Schattenspitze"
+            "alt": "Schattenspitze",
+            "date": "2019-10-13T14:35:45.000+02:00",
+            "width": 1920,
+            "height": 1108
           }
         ],
         "videos": [],
@@ -275,7 +379,10 @@
         "photos": [
           {
             "name": "039",
-            "alt": "Hohes Rad"
+            "alt": "Hohes Rad",
+            "date": "2019-10-13T14:39:27.000+02:00",
+            "width": 1920,
+            "height": 451
           }
         ],
         "videos": [],
@@ -285,7 +392,10 @@
         "photos": [
           {
             "name": "040",
-            "alt": "Piz Buin"
+            "alt": "Piz Buin",
+            "date": "2019-10-13T14:44:47.000+02:00",
+            "width": 1920,
+            "height": 1397
           }
         ],
         "videos": [],
@@ -295,7 +405,10 @@
         "photos": [
           {
             "name": "041",
-            "alt": "Kletterpark Bielerhöhe"
+            "alt": "Kletterpark Bielerhöhe",
+            "date": "2019-10-13T15:17:44.000+02:00",
+            "width": 1920,
+            "height": 952
           }
         ],
         "videos": [],
@@ -305,7 +418,10 @@
         "photos": [
           {
             "name": "042",
-            "alt": "Serpentinenstraße"
+            "alt": "Serpentinenstraße",
+            "date": "2019-10-13T16:41:12.000+02:00",
+            "width": 1920,
+            "height": 2365
           }
         ],
         "videos": [],

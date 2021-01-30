@@ -8,9 +8,11 @@
     "shortTitle": "Silberplatten",
     "title": "Laui - Silberplatten",
     "title3d": {
-      "offsetY": 2.0,
+      "offsetY": 2,
       "fontSize": 10,
-      "align": "right"
+      "align": "right",
+      "width": 1920,
+      "height": 544
     },
     "intro": "An diesem Sonntag nahm ich mir die Silberplatten vor, einem 2160m hohen Gipfel des Alpsteins in der Nähe des Säntis. Während ich östlich des Säntis schon einige Wanderungen im Alpstein unternommen hatte, ist die Westseite für mich ziemliches Neuland.<br />Als Ausgangspunkt wählte ich den Parkplatz Laui oberhalb des Orts Unterwasser.",
     "landmarks": [
@@ -18,7 +20,10 @@
         "photos": [
           {
             "name": "001",
-            "alt": "Parkplatz Laui"
+            "alt": "Parkplatz Laui",
+            "date": "2018-09-16T08:05:58.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -28,7 +33,10 @@
         "photos": [
           {
             "name": "002",
-            "alt": "Alpli Säntis"
+            "alt": "Alpli Säntis",
+            "date": "2018-09-16T08:06:20.000+02:00",
+            "width": 1920,
+            "height": 756
           }
         ],
         "videos": [],
@@ -38,11 +46,17 @@
         "photos": [
           {
             "name": "003",
-            "alt": "Churfirsten am Morgen"
+            "alt": "Churfirsten am Morgen",
+            "date": "2018-09-16T08:08:53.000+02:00",
+            "width": 1920,
+            "height": 886
           },
           {
             "name": "004",
-            "alt": "Alpli"
+            "alt": "Alpli",
+            "date": "2018-09-16T08:18:02.000+02:00",
+            "width": 1920,
+            "height": 875
           }
         ],
         "videos": [],
@@ -52,11 +66,17 @@
         "photos": [
           {
             "name": "005",
-            "alt": "Sonnenaufgang in den Alpen"
+            "alt": "Sonnenaufgang in den Alpen",
+            "date": "2018-09-16T08:29:05.000+02:00",
+            "width": 1920,
+            "height": 679
           },
           {
             "name": "006",
-            "alt": "Wandern am Morgen"
+            "alt": "Wandern am Morgen",
+            "date": "2018-09-16T08:32:06.000+02:00",
+            "width": 1920,
+            "height": 634
           }
         ],
         "videos": [],
@@ -66,11 +86,17 @@
         "photos": [
           {
             "name": "007",
-            "alt": "Trosen"
+            "alt": "Trosen",
+            "date": "2018-09-16T08:43:21.000+02:00",
+            "width": 1920,
+            "height": 857
           },
           {
             "name": "008",
-            "alt": "Aufstieg Lauchwis"
+            "alt": "Aufstieg Lauchwis",
+            "date": "2018-09-16T08:44:41.000+02:00",
+            "width": 1920,
+            "height": 888
           }
         ],
         "videos": [],
@@ -80,11 +106,17 @@
         "photos": [
           {
             "name": "009",
-            "alt": "Alpweg"
+            "alt": "Alpweg",
+            "date": "2018-09-16T08:46:08.000+02:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "010",
-            "alt": "Panorama Toggenburg"
+            "alt": "Panorama Toggenburg",
+            "date": "2018-09-16T08:52:51.000+02:00",
+            "width": 1920,
+            "height": 834
           }
         ],
         "videos": [],
@@ -94,11 +126,17 @@
         "photos": [
           {
             "name": "011",
-            "alt": "Weg durch Gebüsch"
+            "alt": "Weg durch Gebüsch",
+            "date": "2018-09-16T08:56:25.000+02:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "012",
-            "alt": "Tiefblick Alpli"
+            "alt": "Tiefblick Alpli",
+            "date": "2018-09-16T09:09:45.000+02:00",
+            "width": 1920,
+            "height": 827
           }
         ],
         "videos": [],
@@ -108,7 +146,10 @@
         "photos": [
           {
             "name": "013",
-            "alt": "Schrenit"
+            "alt": "Schrenit",
+            "date": "2018-09-16T09:22:08.000+02:00",
+            "width": 1920,
+            "height": 762
           }
         ],
         "videos": [],
@@ -118,7 +159,10 @@
         "photos": [
           {
             "name": "014",
-            "alt": "Wanderweg mit Mauer"
+            "alt": "Wanderweg mit Mauer",
+            "date": "2018-09-16T09:28:22.000+02:00",
+            "width": 1920,
+            "height": 1209
           }
         ],
         "videos": [],
@@ -128,7 +172,10 @@
         "photos": [
           {
             "name": "015",
-            "alt": "Alp Schrenit"
+            "alt": "Alp Schrenit",
+            "date": "2018-09-16T09:31:14.000+02:00",
+            "width": 1920,
+            "height": 810
           }
         ],
         "videos": [],
@@ -138,7 +185,10 @@
         "photos": [
           {
             "name": "016",
-            "alt": "Steinformationen"
+            "alt": "Steinformationen",
+            "date": "2018-09-16T09:33:22.000+02:00",
+            "width": 1920,
+            "height": 597
           }
         ],
         "videos": [],
@@ -148,7 +198,10 @@
         "photos": [
           {
             "name": "017",
-            "alt": "Wanderweg Unterwasser Lauchwis"
+            "alt": "Wanderweg Unterwasser Lauchwis",
+            "date": "2018-09-16T09:38:14.000+02:00",
+            "width": 1920,
+            "height": 828
           }
         ],
         "videos": [],
@@ -158,7 +211,10 @@
         "photos": [
           {
             "name": "018",
-            "alt": "Pass Lauchwis"
+            "alt": "Pass Lauchwis",
+            "date": "2018-09-16T09:53:28.000+02:00",
+            "width": 1920,
+            "height": 1061
           }
         ],
         "videos": [],
@@ -168,11 +224,17 @@
         "photos": [
           {
             "name": "019",
-            "alt": "Lauchwis"
+            "alt": "Lauchwis",
+            "date": "2018-09-16T09:58:26.000+02:00",
+            "width": 1920,
+            "height": 757
           },
           {
             "name": "020",
-            "alt": "Lauchwis Aussicht"
+            "alt": "Lauchwis Aussicht",
+            "date": "2018-09-16T10:00:29.000+02:00",
+            "width": 1920,
+            "height": 630
           }
         ],
         "videos": [],
@@ -182,7 +244,10 @@
         "photos": [
           {
             "name": "021",
-            "alt": "Gams Chopf"
+            "alt": "Gams Chopf",
+            "date": "2018-09-16T10:01:52.000+02:00",
+            "width": 1920,
+            "height": 761
           }
         ],
         "videos": [],
@@ -192,11 +257,17 @@
         "photos": [
           {
             "name": "022",
-            "alt": "Aufstieg Stosssattel"
+            "alt": "Aufstieg Stosssattel",
+            "date": "2018-09-16T10:18:57.000+02:00",
+            "width": 1920,
+            "height": 702
           },
           {
             "name": "023",
-            "alt": "Steiler Abgrund Lauchwis"
+            "alt": "Steiler Abgrund Lauchwis",
+            "date": "2018-09-16T10:20:39.000+02:00",
+            "width": 1920,
+            "height": 1001
           }
         ],
         "videos": [],
@@ -206,7 +277,10 @@
         "photos": [
           {
             "name": "024",
-            "alt": "Panorama Alpstein"
+            "alt": "Panorama Alpstein",
+            "date": "2018-09-16T10:24:09.000+02:00",
+            "width": 1920,
+            "height": 707
           }
         ],
         "videos": [],
@@ -216,11 +290,17 @@
         "photos": [
           {
             "name": "025",
-            "alt": "Stosssattel Säntis"
+            "alt": "Stosssattel Säntis",
+            "date": "2018-09-16T10:26:39.000+02:00",
+            "width": 1920,
+            "height": 699
           },
           {
             "name": "026",
-            "alt": "Gefährlicher Weg Stosssattel"
+            "alt": "Gefährlicher Weg Stosssattel",
+            "date": "2018-09-16T10:29:08.000+02:00",
+            "width": 1920,
+            "height": 958
           }
         ],
         "videos": [],
@@ -230,15 +310,24 @@
         "photos": [
           {
             "name": "027",
-            "alt": "Wegweiser Stosssattel"
+            "alt": "Wegweiser Stosssattel",
+            "date": "2018-09-16T10:32:39.000+02:00",
+            "width": 1920,
+            "height": 669
           },
           {
             "name": "028",
-            "alt": "Stosssattel"
+            "alt": "Stosssattel",
+            "date": "2018-09-16T10:33:01.000+02:00",
+            "width": 1920,
+            "height": 1129
           },
           {
             "name": "029",
-            "alt": "Wegweiser auf Felsen"
+            "alt": "Wegweiser auf Felsen",
+            "date": "2018-09-16T10:34:33.000+02:00",
+            "width": 1920,
+            "height": 1237
           }
         ],
         "videos": [],
@@ -248,7 +337,10 @@
         "photos": [
           {
             "name": "030",
-            "alt": "Abstieg Stosssattel"
+            "alt": "Abstieg Stosssattel",
+            "date": "2018-09-16T10:42:57.000+02:00",
+            "width": 1920,
+            "height": 1113
           }
         ],
         "videos": [],
@@ -258,7 +350,10 @@
         "photos": [
           {
             "name": "031",
-            "alt": "Silberplatten Säntis"
+            "alt": "Silberplatten Säntis",
+            "date": "2018-09-16T10:49:31.000+02:00",
+            "width": 1920,
+            "height": 828
           }
         ],
         "videos": [],
@@ -268,7 +363,10 @@
         "photos": [
           {
             "name": "032",
-            "alt": "Säntisgipfel hinter Geröll"
+            "alt": "Säntisgipfel hinter Geröll",
+            "date": "2018-09-16T11:00:13.000+02:00",
+            "width": 1920,
+            "height": 1318
           }
         ],
         "videos": [],
@@ -278,7 +376,10 @@
         "photos": [
           {
             "name": "033",
-            "alt": "Wanderweg Tierwis Stosssattel"
+            "alt": "Wanderweg Tierwis Stosssattel",
+            "date": "2018-09-16T11:04:14.000+02:00",
+            "width": 1920,
+            "height": 1070
           }
         ],
         "videos": [],
@@ -288,7 +389,10 @@
         "photos": [
           {
             "name": "034",
-            "alt": "Wanderweg durch Geröllfeld"
+            "alt": "Wanderweg durch Geröllfeld",
+            "date": "2018-09-16T11:13:48.000+02:00",
+            "width": 1920,
+            "height": 1052
           }
         ],
         "videos": [],
@@ -298,7 +402,10 @@
         "photos": [
           {
             "name": "035",
-            "alt": "Silberplatten"
+            "alt": "Silberplatten",
+            "date": "2018-09-16T11:32:45.000+02:00",
+            "width": 1920,
+            "height": 671
           }
         ],
         "videos": [],
@@ -308,7 +415,10 @@
         "photos": [
           {
             "name": "036",
-            "alt": "Weg auf Silberplatten"
+            "alt": "Weg auf Silberplatten",
+            "date": "2018-09-16T11:44:19.000+02:00",
+            "width": 1920,
+            "height": 811
           }
         ],
         "videos": [],
@@ -318,7 +428,10 @@
         "photos": [
           {
             "name": "037",
-            "alt": "Gipfel Silberplatten"
+            "alt": "Gipfel Silberplatten",
+            "date": "2018-09-16T11:47:07.000+02:00",
+            "width": 1920,
+            "height": 705
           }
         ],
         "videos": [],
@@ -328,7 +441,10 @@
         "photos": [
           {
             "name": "038",
-            "alt": "Aussicht Silberplatten"
+            "alt": "Aussicht Silberplatten",
+            "date": "2018-09-16T11:47:54.000+02:00",
+            "width": 1920,
+            "height": 839
           }
         ],
         "videos": [],
@@ -338,7 +454,10 @@
         "photos": [
           {
             "name": "039",
-            "alt": "Gipfelkreuz Silberplatten"
+            "alt": "Gipfelkreuz Silberplatten",
+            "date": "2018-09-16T11:56:36.000+02:00",
+            "width": 1920,
+            "height": 1120
           }
         ],
         "videos": [],
@@ -348,7 +467,10 @@
         "photos": [
           {
             "name": "040",
-            "alt": "Kronberg"
+            "alt": "Kronberg",
+            "date": "2018-09-16T11:57:26.000+02:00",
+            "width": 1920,
+            "height": 945
           }
         ],
         "videos": [],
@@ -358,7 +480,10 @@
         "photos": [
           {
             "name": "041",
-            "alt": "Grenzchopf"
+            "alt": "Grenzchopf",
+            "date": "2018-09-16T11:58:30.000+02:00",
+            "width": 1920,
+            "height": 896
           }
         ],
         "videos": [],
@@ -368,7 +493,10 @@
         "photos": [
           {
             "name": "042",
-            "alt": "Wanderung Silberplatten"
+            "alt": "Wanderung Silberplatten",
+            "date": "2018-09-16T12:16:12.000+02:00",
+            "width": 1920,
+            "height": 971
           }
         ],
         "videos": [],
@@ -378,7 +506,10 @@
         "photos": [
           {
             "name": "043",
-            "alt": "Drahtseil mit Metaltritten"
+            "alt": "Drahtseil mit Metaltritten",
+            "date": "2018-09-16T12:20:59.000+02:00",
+            "width": 1920,
+            "height": 1331
           }
         ],
         "videos": [],
@@ -388,11 +519,17 @@
         "photos": [
           {
             "name": "044",
-            "alt": "Grüehorn"
+            "alt": "Grüehorn",
+            "date": "2018-09-16T12:27:34.000+02:00",
+            "width": 1920,
+            "height": 872
           },
           {
             "name": "045",
-            "alt": "Wanderweg Tierwis Silberplatten"
+            "alt": "Wanderweg Tierwis Silberplatten",
+            "date": "2018-09-16T12:34:15.000+02:00",
+            "width": 1920,
+            "height": 859
           }
         ],
         "videos": [],
@@ -402,11 +539,17 @@
         "photos": [
           {
             "name": "046",
-            "alt": "Wanderung Alpstein"
+            "alt": "Wanderung Alpstein",
+            "date": "2018-09-16T12:35:58.000+02:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "047",
-            "alt": "Blumen und Steinmännchen"
+            "alt": "Blumen und Steinmännchen",
+            "date": "2018-09-16T12:36:53.000+02:00",
+            "width": 1920,
+            "height": 1331
           }
         ],
         "videos": [],
@@ -416,11 +559,17 @@
         "photos": [
           {
             "name": "048",
-            "alt": "Tierwis Säntis"
+            "alt": "Tierwis Säntis",
+            "date": "2018-09-16T12:37:53.000+02:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "049",
-            "alt": "Gasthaus Tierwis"
+            "alt": "Gasthaus Tierwis",
+            "date": "2018-09-16T12:38:00.000+02:00",
+            "width": 1920,
+            "height": 1240
           }
         ],
         "videos": [],
@@ -430,7 +579,10 @@
         "photos": [
           {
             "name": "050",
-            "alt": "Säntis Stütze 2"
+            "alt": "Säntis Stütze 2",
+            "date": "2018-09-16T12:39:53.000+02:00",
+            "width": 1920,
+            "height": 1222
           }
         ],
         "videos": [],
@@ -440,7 +592,10 @@
         "photos": [
           {
             "name": "051",
-            "alt": "Panorama Tierwis"
+            "alt": "Panorama Tierwis",
+            "date": "2018-09-16T12:49:37.000+02:00",
+            "width": 1920,
+            "height": 650
           }
         ],
         "videos": [],
@@ -450,11 +605,17 @@
         "photos": [
           {
             "name": "052",
-            "alt": "Schwägalp von oben"
+            "alt": "Schwägalp von oben",
+            "date": "2018-09-16T12:50:00.000+02:00",
+            "width": 1920,
+            "height": 799
           },
           {
             "name": "053",
-            "alt": "Parkplatz Schwägalp"
+            "alt": "Parkplatz Schwägalp",
+            "date": "2018-09-16T12:50:24.000+02:00",
+            "width": 1920,
+            "height": 1070
           }
         ],
         "videos": [],
@@ -464,7 +625,10 @@
         "photos": [
           {
             "name": "054",
-            "alt": "Aussicht Tierwis"
+            "alt": "Aussicht Tierwis",
+            "date": "2018-09-16T12:50:37.000+02:00",
+            "width": 1920,
+            "height": 755
           }
         ],
         "videos": [],
@@ -474,7 +638,10 @@
         "photos": [
           {
             "name": "055",
-            "alt": "Säntis Gipfel"
+            "alt": "Säntis Gipfel",
+            "date": "2018-09-16T13:01:56.000+02:00",
+            "width": 1920,
+            "height": 1649
           }
         ],
         "videos": [],
@@ -484,7 +651,10 @@
         "photos": [
           {
             "name": "056",
-            "alt": "Weg über Karstgestein"
+            "alt": "Weg über Karstgestein",
+            "date": "2018-09-16T13:06:00.000+02:00",
+            "width": 1920,
+            "height": 2880
           }
         ],
         "videos": [],
@@ -494,7 +664,10 @@
         "photos": [
           {
             "name": "057",
-            "alt": "Stoss Silberplatten Grenzchopf"
+            "alt": "Stoss Silberplatten Grenzchopf",
+            "date": "2018-09-16T13:06:27.000+02:00",
+            "width": 1920,
+            "height": 561
           }
         ],
         "videos": [],
@@ -504,7 +677,10 @@
         "photos": [
           {
             "name": "058",
-            "alt": "Gir"
+            "alt": "Gir",
+            "date": "2018-09-16T13:11:56.000+02:00",
+            "width": 1920,
+            "height": 1141
           }
         ],
         "videos": [],
@@ -514,11 +690,17 @@
         "photos": [
           {
             "name": "059",
-            "alt": "Berg Silberplatten mit See"
+            "alt": "Berg Silberplatten mit See",
+            "date": "2018-09-16T13:14:18.000+02:00",
+            "width": 1920,
+            "height": 2266
           },
           {
             "name": "060",
-            "alt": "Tümpel im Alpstein"
+            "alt": "Tümpel im Alpstein",
+            "date": "2018-09-16T13:14:41.000+02:00",
+            "width": 1920,
+            "height": 820
           }
         ],
         "videos": [],
@@ -528,7 +710,10 @@
         "photos": [
           {
             "name": "061",
-            "alt": "Aussicht in Toggenburg"
+            "alt": "Aussicht in Toggenburg",
+            "date": "2018-09-16T13:15:48.000+02:00",
+            "width": 1920,
+            "height": 815
           }
         ],
         "videos": [],
@@ -538,11 +723,17 @@
         "photos": [
           {
             "name": "062",
-            "alt": "Karst"
+            "alt": "Karst",
+            "date": "2018-09-16T13:26:49.000+02:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "063",
-            "alt": "Gir"
+            "alt": "Gir",
+            "date": "2018-09-16T13:28:04.000+02:00",
+            "width": 1920,
+            "height": 2880
           }
         ],
         "videos": [],
@@ -552,7 +743,10 @@
         "photos": [
           {
             "name": "064",
-            "alt": "Charrefeld"
+            "alt": "Charrefeld",
+            "date": "2018-09-16T13:32:03.000+02:00",
+            "width": 1920,
+            "height": 1004
           }
         ],
         "videos": [],
@@ -562,7 +756,10 @@
         "photos": [
           {
             "name": "065",
-            "alt": "Gruebe"
+            "alt": "Gruebe",
+            "date": "2018-09-16T13:57:56.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -572,7 +769,10 @@
         "photos": [
           {
             "name": "066",
-            "alt": "Einfache Transportseilbahn"
+            "alt": "Einfache Transportseilbahn",
+            "date": "2018-09-16T13:59:15.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -582,7 +782,10 @@
         "photos": [
           {
             "name": "067",
-            "alt": "Klingen"
+            "alt": "Klingen",
+            "date": "2018-09-16T14:02:54.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -592,7 +795,10 @@
         "photos": [
           {
             "name": "068",
-            "alt": "Wanderung Thurwis"
+            "alt": "Wanderung Thurwis",
+            "date": "2018-09-16T14:29:18.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -602,7 +808,10 @@
         "photos": [
           {
             "name": "069",
-            "alt": "Wanderweg Rotsteinpass"
+            "alt": "Wanderweg Rotsteinpass",
+            "date": "2018-09-16T14:40:21.000+02:00",
+            "width": 1920,
+            "height": 936
           }
         ],
         "videos": [],
@@ -612,7 +821,10 @@
         "photos": [
           {
             "name": "070",
-            "alt": "Moosige Mauer"
+            "alt": "Moosige Mauer",
+            "date": "2018-09-16T15:08:19.000+02:00",
+            "width": 1920,
+            "height": 1172
           }
         ],
         "videos": [],
@@ -622,11 +834,17 @@
         "photos": [
           {
             "name": "071",
-            "alt": "Alpli"
+            "alt": "Alpli",
+            "date": "2018-09-16T15:16:35.000+02:00",
+            "width": 1920,
+            "height": 914
           },
           {
             "name": "072",
-            "alt": "Alphütten"
+            "alt": "Alphütten",
+            "date": "2018-09-16T15:23:43.000+02:00",
+            "width": 1920,
+            "height": 777
           }
         ],
         "videos": [],
@@ -636,7 +854,10 @@
         "photos": [
           {
             "name": "073",
-            "alt": "Spielplatz Laui"
+            "alt": "Spielplatz Laui",
+            "date": "2018-09-16T15:28:26.000+02:00",
+            "width": 1920,
+            "height": 871
           }
         ],
         "videos": [],

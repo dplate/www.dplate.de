@@ -6,8 +6,10 @@
     "shortTitle": "Lenzerheide",
     "title": "Lenzerheide - Arosa",
     "title3d": {
-      "offsetY": 10.0,
-      "fontSize": 5.5
+      "offsetY": 10,
+      "fontSize": 5.5,
+      "width": 1920,
+      "height": 723
     },
     "intro": "Das Wetter in meinem Dezemberurlaub war bisher eher ungeeignet zum Skifahren, aber diesen Mittwoch war endlich ein Zwischenhoch angekündigt. Ich entschloss mich nach Lenzerheide zu fahren, das den Tag zuvor rund 50cm Neuschnee abbekommen hatte. Die Tageskarte gab es zudem vergünstigt über die Webseite für 41CHF. Dazu kamen noch die Parkgebühren von 5CHF auf Parkplatz in Churwalden.<br />Kurz nach der Betriebsöffnung um 8:30 fuhr ich mit der Gondelbahn Heidbüel ins eigentliche Skigebiet Richtung Alp Stätz.",
     "landmarks": [
@@ -15,7 +17,10 @@
         "photos": [
           {
             "name": "002",
-            "alt": "Sonnenaufgang Lenzerheide"
+            "alt": "Sonnenaufgang Lenzerheide",
+            "date": "2017-12-13T08:47:22.000+01:00",
+            "width": 1920,
+            "height": 930
           }
         ],
         "videos": [],
@@ -25,7 +30,10 @@
         "photos": [
           {
             "name": "003",
-            "alt": "Alp Stätz"
+            "alt": "Alp Stätz",
+            "date": "2017-12-13T09:04:49.000+01:00",
+            "width": 1920,
+            "height": 657
           }
         ],
         "videos": [],
@@ -35,7 +43,10 @@
         "photos": [
           {
             "name": "004",
-            "alt": "Skipiste Stätzerhorn"
+            "alt": "Skipiste Stätzerhorn",
+            "date": "2017-12-13T09:17:41.000+01:00",
+            "width": 1920,
+            "height": 714
           }
         ],
         "videos": [],
@@ -45,7 +56,10 @@
         "photos": [
           {
             "name": "005",
-            "alt": "Skigebiet Lenzerheide"
+            "alt": "Skigebiet Lenzerheide",
+            "date": "2017-12-13T09:23:13.000+01:00",
+            "width": 1920,
+            "height": 704
           }
         ],
         "videos": [],
@@ -55,7 +69,10 @@
         "photos": [
           {
             "name": "006",
-            "alt": "Panorama Lenzerheide"
+            "alt": "Panorama Lenzerheide",
+            "date": "2017-12-13T09:45:59.000+01:00",
+            "width": 1920,
+            "height": 694
           }
         ],
         "videos": [],
@@ -65,7 +82,10 @@
         "photos": [
           {
             "name": "007",
-            "alt": "Skipiste Lavoz"
+            "alt": "Skipiste Lavoz",
+            "date": "2017-12-13T09:47:52.000+01:00",
+            "width": 1920,
+            "height": 933
           }
         ],
         "videos": [],
@@ -75,7 +95,10 @@
         "photos": [
           {
             "name": "008",
-            "alt": "Alp Nova"
+            "alt": "Alp Nova",
+            "date": "2017-12-13T09:50:35.000+01:00",
+            "width": 1920,
+            "height": 1007
           }
         ],
         "videos": [],
@@ -85,7 +108,10 @@
         "photos": [
           {
             "name": "009",
-            "alt": "Vereiste Äste"
+            "alt": "Vereiste Äste",
+            "date": "2017-12-13T09:52:28.000+01:00",
+            "width": 1920,
+            "height": 889
           }
         ],
         "videos": [],
@@ -95,7 +121,10 @@
         "photos": [
           {
             "name": "010",
-            "alt": "Abfahrt Pedra Grossa"
+            "alt": "Abfahrt Pedra Grossa",
+            "date": "2017-12-13T09:56:17.000+01:00",
+            "width": 1920,
+            "height": 737
           }
         ],
         "videos": [],
@@ -105,7 +134,10 @@
         "photos": [
           {
             "name": "011",
-            "alt": "Winterlandschaft"
+            "alt": "Winterlandschaft",
+            "date": "2017-12-13T09:57:03.000+01:00",
+            "width": 1920,
+            "height": 1003
           }
         ],
         "videos": [],
@@ -115,7 +147,10 @@
         "photos": [
           {
             "name": "012",
-            "alt": "Talabfahrt Lenzerheide"
+            "alt": "Talabfahrt Lenzerheide",
+            "date": "2017-12-13T09:59:54.000+01:00",
+            "width": 1920,
+            "height": 765
           }
         ],
         "videos": [],
@@ -125,7 +160,10 @@
         "photos": [
           {
             "name": "013",
-            "alt": "Skipiste durch verschneiten Wald"
+            "alt": "Skipiste durch verschneiten Wald",
+            "date": "2017-12-13T10:24:39.000+01:00",
+            "width": 1920,
+            "height": 1079
           }
         ],
         "videos": [],
@@ -135,7 +173,10 @@
         "photos": [
           {
             "name": "014",
-            "alt": "Sesselbahn Scalottas mit Schneekanone"
+            "alt": "Sesselbahn Scalottas mit Schneekanone",
+            "date": "2017-12-13T10:34:38.000+01:00",
+            "width": 1920,
+            "height": 1178
           }
         ],
         "videos": [],
@@ -145,7 +186,10 @@
         "photos": [
           {
             "name": "015",
-            "alt": "Panorama Piz Scalottas"
+            "alt": "Panorama Piz Scalottas",
+            "date": "2017-12-13T10:35:51.000+01:00",
+            "width": 1920,
+            "height": 711
           }
         ],
         "videos": [],
@@ -155,7 +199,10 @@
         "photos": [
           {
             "name": "016",
-            "alt": "Winterwandern Lenzerheide"
+            "alt": "Winterwandern Lenzerheide",
+            "date": "2017-12-13T10:53:29.000+01:00",
+            "width": 1920,
+            "height": 1072
           }
         ],
         "videos": [],
@@ -165,7 +212,10 @@
         "photos": [
           {
             "name": "017",
-            "alt": "Antenne im Nebel"
+            "alt": "Antenne im Nebel",
+            "date": "2017-12-13T11:06:30.000+01:00",
+            "width": 1920,
+            "height": 961
           }
         ],
         "videos": [],
@@ -175,7 +225,10 @@
         "photos": [
           {
             "name": "018",
-            "alt": "Winterlandschaft mit Nebel"
+            "alt": "Winterlandschaft mit Nebel",
+            "date": "2017-12-13T11:07:40.000+01:00",
+            "width": 1920,
+            "height": 1012
           }
         ],
         "videos": [],
@@ -185,7 +238,10 @@
         "photos": [
           {
             "name": "019",
-            "alt": "Halo-Ring"
+            "alt": "Halo-Ring",
+            "date": "2017-12-13T11:11:57.000+01:00",
+            "width": 1920,
+            "height": 1229
           }
         ],
         "videos": [],
@@ -195,7 +251,10 @@
         "photos": [
           {
             "name": "020",
-            "alt": "Piste Valbella"
+            "alt": "Piste Valbella",
+            "date": "2017-12-13T11:43:32.000+01:00",
+            "width": 1920,
+            "height": 1035
           }
         ],
         "videos": [],
@@ -205,7 +264,10 @@
         "photos": [
           {
             "name": "021",
-            "alt": "Stätzerhorn"
+            "alt": "Stätzerhorn",
+            "date": "2017-12-13T11:54:07.000+01:00",
+            "width": 1920,
+            "height": 803
           }
         ],
         "videos": [],
@@ -215,7 +277,10 @@
         "photos": [
           {
             "name": "022",
-            "alt": "Parpan"
+            "alt": "Parpan",
+            "date": "2017-12-13T12:01:32.000+01:00",
+            "width": 1920,
+            "height": 891
           }
         ],
         "videos": [],
@@ -225,11 +290,17 @@
         "photos": [
           {
             "name": "023",
-            "alt": "Vereister Sitz"
+            "alt": "Vereister Sitz",
+            "date": "2017-12-13T12:05:15.000+01:00",
+            "width": 1920,
+            "height": 1280
           },
           {
             "name": "024",
-            "alt": "Sesselbahn Heimberg"
+            "alt": "Sesselbahn Heimberg",
+            "date": "2017-12-13T12:05:57.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -239,7 +310,10 @@
         "photos": [
           {
             "name": "025",
-            "alt": "Urdenbahn"
+            "alt": "Urdenbahn",
+            "date": "2017-12-13T12:20:48.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -249,7 +323,10 @@
         "photos": [
           {
             "name": "026",
-            "alt": "Panorama Hörnli-Arosa"
+            "alt": "Panorama Hörnli-Arosa",
+            "date": "2017-12-13T12:29:01.000+01:00",
+            "width": 1920,
+            "height": 854
           }
         ],
         "videos": [],
@@ -259,7 +336,10 @@
         "photos": [
           {
             "name": "027",
-            "alt": "Skipiste Hörnli"
+            "alt": "Skipiste Hörnli",
+            "date": "2017-12-13T12:42:28.000+01:00",
+            "width": 1920,
+            "height": 1204
           }
         ],
         "videos": [],
@@ -269,7 +349,10 @@
         "photos": [
           {
             "name": "028",
-            "alt": "Kapelle Arosa"
+            "alt": "Kapelle Arosa",
+            "date": "2017-12-13T12:57:04.000+01:00",
+            "width": 1920,
+            "height": 1126
           }
         ],
         "videos": [],
@@ -279,7 +362,10 @@
         "photos": [
           {
             "name": "029",
-            "alt": "Talabfahrt Inner-Arosa"
+            "alt": "Talabfahrt Inner-Arosa",
+            "date": "2017-12-13T13:00:00.000+01:00",
+            "width": 1920,
+            "height": 751
           }
         ],
         "videos": [],
@@ -289,7 +375,10 @@
         "photos": [
           {
             "name": "030",
-            "alt": "Privatbahn Tschuggen Grand Hotel"
+            "alt": "Privatbahn Tschuggen Grand Hotel",
+            "date": "2017-12-13T13:04:26.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -299,11 +388,17 @@
         "photos": [
           {
             "name": "031",
-            "alt": "Talabfahrt Arosa"
+            "alt": "Talabfahrt Arosa",
+            "date": "2017-12-13T13:08:01.000+01:00",
+            "width": 1920,
+            "height": 884
           },
           {
             "name": "032",
-            "alt": "Hotel Prätschli"
+            "alt": "Hotel Prätschli",
+            "date": "2017-12-13T13:08:55.000+01:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -313,7 +408,10 @@
         "photos": [
           {
             "name": "033",
-            "alt": "Abfahrt Weisshorn"
+            "alt": "Abfahrt Weisshorn",
+            "date": "2017-12-13T13:37:33.000+01:00",
+            "width": 1920,
+            "height": 747
           }
         ],
         "videos": [],
@@ -323,7 +421,10 @@
         "photos": [
           {
             "name": "034",
-            "alt": "Weisshornbahn"
+            "alt": "Weisshornbahn",
+            "date": "2017-12-13T13:42:25.000+01:00",
+            "width": 1920,
+            "height": 1260
           }
         ],
         "videos": [],
@@ -333,7 +434,10 @@
         "photos": [
           {
             "name": "035",
-            "alt": "Tschuggenhütte"
+            "alt": "Tschuggenhütte",
+            "date": "2017-12-13T14:07:41.000+01:00",
+            "width": 1920,
+            "height": 750
           }
         ],
         "videos": [],
@@ -343,7 +447,10 @@
         "photos": [
           {
             "name": "036",
-            "alt": "Sesselbahn Plattenhorn"
+            "alt": "Sesselbahn Plattenhorn",
+            "date": "2017-12-13T14:30:45.000+01:00",
+            "width": 1920,
+            "height": 682
           }
         ],
         "videos": [],
@@ -353,7 +460,10 @@
         "photos": [
           {
             "name": "037",
-            "alt": "Skipiste Heimberg"
+            "alt": "Skipiste Heimberg",
+            "date": "2017-12-13T15:13:01.000+01:00",
+            "width": 1920,
+            "height": 1033
           }
         ],
         "videos": [],
@@ -363,7 +473,10 @@
         "photos": [
           {
             "name": "038",
-            "alt": "Mottahütte"
+            "alt": "Mottahütte",
+            "date": "2017-12-13T15:28:10.000+01:00",
+            "width": 1920,
+            "height": 943
           }
         ],
         "videos": [],
@@ -373,7 +486,10 @@
         "photos": [
           {
             "name": "039",
-            "alt": "Skiabfahrt Urdenfürggli"
+            "alt": "Skiabfahrt Urdenfürggli",
+            "date": "2017-12-13T15:41:24.000+01:00",
+            "width": 1920,
+            "height": 1100
           }
         ],
         "videos": [],
@@ -383,7 +499,10 @@
         "photos": [
           {
             "name": "040",
-            "alt": "Sonnenuntergang Lenzerheide"
+            "alt": "Sonnenuntergang Lenzerheide",
+            "date": "2017-12-13T15:48:29.000+01:00",
+            "width": 1920,
+            "height": 865
           }
         ],
         "videos": [],
@@ -393,7 +512,10 @@
         "photos": [
           {
             "name": "041",
-            "alt": "Sonnenuntergang Scharmoin"
+            "alt": "Sonnenuntergang Scharmoin",
+            "date": "2017-12-13T16:02:58.000+01:00",
+            "width": 1920,
+            "height": 1023
           }
         ],
         "videos": [],
@@ -403,7 +525,10 @@
         "photos": [
           {
             "name": "042",
-            "alt": "Sonnenuntergang im Winter"
+            "alt": "Sonnenuntergang im Winter",
+            "date": "2017-12-13T16:05:27.000+01:00",
+            "width": 1920,
+            "height": 799
           }
         ],
         "videos": [],
@@ -413,7 +538,10 @@
         "photos": [
           {
             "name": "043",
-            "alt": "Parpan im Winter"
+            "alt": "Parpan im Winter",
+            "date": "2017-12-13T16:17:09.000+01:00",
+            "width": 1920,
+            "height": 1021
           }
         ],
         "videos": [],
@@ -423,7 +551,10 @@
         "photos": [
           {
             "name": "044",
-            "alt": "Talabfahrt Churwalden"
+            "alt": "Talabfahrt Churwalden",
+            "date": "2017-12-13T16:20:41.000+01:00",
+            "width": 1920,
+            "height": 1007
           }
         ],
         "videos": [],

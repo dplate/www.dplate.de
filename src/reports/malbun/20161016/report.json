@@ -13,11 +13,17 @@
         "photos": [
           {
             "name": "001",
-            "alt": "Sesselbahnen Malbun"
+            "alt": "Sesselbahnen Malbun",
+            "date": "2016-10-16T08:55:19.000+02:00",
+            "width": 1920,
+            "height": 876
           },
           {
             "name": "002",
-            "alt": "Sesselbahnen Malbun"
+            "alt": "Sesselbahnen Malbun",
+            "date": "2016-10-16T09:04:22.000+02:00",
+            "width": 1920,
+            "height": 779
           }
         ],
         "videos": [],
@@ -27,7 +33,10 @@
         "photos": [
           {
             "name": "004",
-            "alt": "Bergstation Sareis"
+            "alt": "Bergstation Sareis",
+            "date": "2016-10-16T09:26:26.000+02:00",
+            "width": 1920,
+            "height": 929
           }
         ],
         "videos": [],
@@ -37,7 +46,10 @@
         "photos": [
           {
             "name": "005",
-            "alt": "Malbun"
+            "alt": "Malbun",
+            "date": "2016-10-16T09:45:09.000+02:00",
+            "width": 1920,
+            "height": 707
           }
         ],
         "videos": [],
@@ -47,7 +59,10 @@
         "photos": [
           {
             "name": "007",
-            "alt": "Nenzinger Himmel"
+            "alt": "Nenzinger Himmel",
+            "date": "2016-10-16T09:59:24.000+02:00",
+            "width": 1920,
+            "height": 811
           }
         ],
         "videos": [],
@@ -57,7 +72,10 @@
         "photos": [
           {
             "name": "006",
-            "alt": "Gratweg Sareis"
+            "alt": "Gratweg Sareis",
+            "date": "2016-10-16T09:53:29.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -67,7 +85,10 @@
         "photos": [
           {
             "name": "008",
-            "alt": "Fürstin Gina Weg"
+            "alt": "Fürstin Gina Weg",
+            "date": "2016-10-16T10:07:21.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -77,7 +98,10 @@
         "photos": [
           {
             "name": "009",
-            "alt": "Aufstieg Augstenberg"
+            "alt": "Aufstieg Augstenberg",
+            "date": "2016-10-16T10:24:09.000+02:00",
+            "width": 1920,
+            "height": 836
           }
         ],
         "videos": [],
@@ -87,7 +111,10 @@
         "photos": [
           {
             "name": "010",
-            "alt": "Malbun von oben"
+            "alt": "Malbun von oben",
+            "date": "2016-10-16T10:24:45.000+02:00",
+            "width": 1920,
+            "height": 2650
           }
         ],
         "videos": [],
@@ -97,7 +124,10 @@
         "photos": [
           {
             "name": "011",
-            "alt": "Rheintal mit Alpstein"
+            "alt": "Rheintal mit Alpstein",
+            "date": "2016-10-16T10:27:37.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -107,7 +137,10 @@
         "photos": [
           {
             "name": "012",
-            "alt": "Fürstin Gina Weg"
+            "alt": "Fürstin Gina Weg",
+            "date": "2016-10-16T10:34:21.000+02:00",
+            "width": 1920,
+            "height": 860
           }
         ],
         "videos": [],
@@ -117,7 +150,10 @@
         "photos": [
           {
             "name": "013",
-            "alt": "Panorama Augstenberg"
+            "alt": "Panorama Augstenberg",
+            "date": "2016-10-16T10:40:35.000+02:00",
+            "width": 1920,
+            "height": 890
           }
         ],
         "videos": [],
@@ -127,7 +163,10 @@
         "photos": [
           {
             "name": "014",
-            "alt": "Aussicht Augstenberg"
+            "alt": "Aussicht Augstenberg",
+            "date": "2016-10-16T10:43:51.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -137,7 +176,10 @@
         "photos": [
           {
             "name": "015",
-            "alt": "Gipfelkreuz Augstenberg"
+            "alt": "Gipfelkreuz Augstenberg",
+            "date": "2016-10-16T10:44:09.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -147,7 +189,10 @@
         "photos": [
           {
             "name": "016",
-            "alt": "Augstenberg Naafkopf"
+            "alt": "Augstenberg Naafkopf",
+            "date": "2016-10-16T10:45:24.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -157,7 +202,10 @@
         "photos": [
           {
             "name": "017",
-            "alt": "Gipfel Augstenberg"
+            "alt": "Gipfel Augstenberg",
+            "date": "2016-10-16T10:47:14.000+02:00",
+            "width": 1920,
+            "height": 592
           }
         ],
         "videos": [],
@@ -167,7 +215,10 @@
         "photos": [
           {
             "name": "018",
-            "alt": "Augstenberg Pfälzerhütte"
+            "alt": "Augstenberg Pfälzerhütte",
+            "date": "2016-10-16T11:14:31.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -177,7 +228,10 @@
         "photos": [
           {
             "name": "019",
-            "alt": "Pfälzerhütte"
+            "alt": "Pfälzerhütte",
+            "date": "2016-10-16T11:27:28.000+02:00",
+            "width": 1920,
+            "height": 807
           }
         ],
         "videos": [],
@@ -187,7 +241,10 @@
         "photos": [
           {
             "name": "020",
-            "alt": "Herbstschnee"
+            "alt": "Herbstschnee",
+            "date": "2016-10-16T11:33:28.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -197,7 +254,10 @@
         "photos": [
           {
             "name": "022",
-            "alt": "Naafkopf Nenzinger Himmel"
+            "alt": "Naafkopf Nenzinger Himmel",
+            "date": "2016-10-16T11:54:56.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -207,7 +267,10 @@
         "photos": [
           {
             "name": "023",
-            "alt": "Aufstieg Naafkopf"
+            "alt": "Aufstieg Naafkopf",
+            "date": "2016-10-16T11:57:34.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -217,7 +280,10 @@
         "photos": [
           {
             "name": "024",
-            "alt": "Steinböcke"
+            "alt": "Steinböcke",
+            "date": "2016-10-16T12:07:34.000+02:00",
+            "width": 1920,
+            "height": 908
           }
         ],
         "videos": [],
@@ -227,7 +293,10 @@
         "photos": [
           {
             "name": "025",
-            "alt": "Grat Naafkopf"
+            "alt": "Grat Naafkopf",
+            "date": "2016-10-16T12:28:51.000+02:00",
+            "width": 1920,
+            "height": 859
           }
         ],
         "videos": [],
@@ -237,7 +306,10 @@
         "photos": [
           {
             "name": "026",
-            "alt": "Gipfel Naafkopf"
+            "alt": "Gipfel Naafkopf",
+            "date": "2016-10-16T12:29:55.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -247,7 +319,10 @@
         "photos": [
           {
             "name": "027",
-            "alt": "Panorama Naafkopf"
+            "alt": "Panorama Naafkopf",
+            "date": "2016-10-16T12:36:40.000+02:00",
+            "width": 1920,
+            "height": 686
           }
         ],
         "videos": [],
@@ -257,7 +332,10 @@
         "photos": [
           {
             "name": "030",
-            "alt": "Aussicht Naafkopf"
+            "alt": "Aussicht Naafkopf",
+            "date": "2016-10-16T12:46:04.000+02:00",
+            "width": 1920,
+            "height": 853
           }
         ],
         "videos": [],
@@ -267,7 +345,10 @@
         "photos": [
           {
             "name": "029",
-            "alt": "Schesaplana"
+            "alt": "Schesaplana",
+            "date": "2016-10-16T12:45:17.000+02:00",
+            "width": 1920,
+            "height": 826
           }
         ],
         "videos": [],
@@ -277,7 +358,10 @@
         "photos": [
           {
             "name": "028",
-            "alt": "Fluchthorn"
+            "alt": "Fluchthorn",
+            "date": "2016-10-16T12:44:52.000+02:00",
+            "width": 1920,
+            "height": 658
           }
         ],
         "videos": [],
@@ -287,7 +371,10 @@
         "photos": [
           {
             "name": "031",
-            "alt": "Tödi"
+            "alt": "Tödi",
+            "date": "2016-10-16T12:47:49.000+02:00",
+            "width": 1920,
+            "height": 793
           }
         ],
         "videos": [],
@@ -297,7 +384,10 @@
         "photos": [
           {
             "name": "032",
-            "alt": "Piz Bernina"
+            "alt": "Piz Bernina",
+            "date": "2016-10-16T12:48:13.000+02:00",
+            "width": 1920,
+            "height": 622
           }
         ],
         "videos": [],
@@ -307,7 +397,10 @@
         "photos": [
           {
             "name": "033",
-            "alt": "Tiefblick Naafkopf"
+            "alt": "Tiefblick Naafkopf",
+            "date": "2016-10-16T12:48:52.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -317,7 +410,10 @@
         "photos": [
           {
             "name": "034",
-            "alt": "Weg an steilem Hang"
+            "alt": "Weg an steilem Hang",
+            "date": "2016-10-16T13:21:16.000+02:00",
+            "width": 1920,
+            "height": 1087
           }
         ],
         "videos": [],
@@ -327,7 +423,10 @@
         "photos": [
           {
             "name": "035",
-            "alt": "Silberdistel"
+            "alt": "Silberdistel",
+            "date": "2016-10-16T13:58:04.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -337,7 +436,10 @@
         "photos": [
           {
             "name": "036",
-            "alt": "Pfälzerhüttte"
+            "alt": "Pfälzerhüttte",
+            "date": "2016-10-16T13:58:55.000+02:00",
+            "width": 1920,
+            "height": 1085
           }
         ],
         "videos": [],
@@ -347,7 +449,10 @@
         "photos": [
           {
             "name": "037",
-            "alt": "Naafkopf"
+            "alt": "Naafkopf",
+            "date": "2016-10-16T14:00:43.000+02:00",
+            "width": 1920,
+            "height": 975
           }
         ],
         "videos": [],
@@ -357,7 +462,10 @@
         "photos": [
           {
             "name": "038",
-            "alt": "Alp Gritsch"
+            "alt": "Alp Gritsch",
+            "date": "2016-10-16T14:02:40.000+02:00",
+            "width": 1920,
+            "height": 851
           }
         ],
         "videos": [],
@@ -367,7 +475,10 @@
         "photos": [
           {
             "name": "039",
-            "alt": "Alp Gritsch"
+            "alt": "Alp Gritsch",
+            "date": "2016-10-16T14:25:44.000+02:00",
+            "width": 1920,
+            "height": 923
           }
         ],
         "videos": [],
@@ -377,7 +488,10 @@
         "photos": [
           {
             "name": "040",
-            "alt": "Valüna"
+            "alt": "Valüna",
+            "date": "2016-10-16T14:30:52.000+02:00",
+            "width": 1920,
+            "height": 1116
           }
         ],
         "videos": [],
@@ -387,7 +501,10 @@
         "photos": [
           {
             "name": "041",
-            "alt": "Tälihöhi Sattel"
+            "alt": "Tälihöhi Sattel",
+            "date": "2016-10-16T14:43:03.000+02:00",
+            "width": 1920,
+            "height": 1100
           }
         ],
         "videos": [],
@@ -397,7 +514,10 @@
         "photos": [
           {
             "name": "042",
-            "alt": "Bergstation Sesselbahn Täli"
+            "alt": "Bergstation Sesselbahn Täli",
+            "date": "2016-10-16T14:46:58.000+02:00",
+            "width": 1920,
+            "height": 1280
           }
         ],
         "videos": [],
@@ -407,15 +527,24 @@
         "photos": [
           {
             "name": "043",
-            "alt": "Sesselbahn Täli im Herbst"
+            "alt": "Sesselbahn Täli im Herbst",
+            "date": "2016-10-16T15:04:21.000+02:00",
+            "width": 1920,
+            "height": 1042
           },
           {
             "name": "045",
-            "alt": "Herbstwald"
+            "alt": "Herbstwald",
+            "date": "2016-10-16T15:16:39.000+02:00",
+            "width": 1920,
+            "height": 663
           },
           {
             "name": "046",
-            "alt": "Herbstfarben"
+            "alt": "Herbstfarben",
+            "date": "2016-10-16T15:21:54.000+02:00",
+            "width": 1920,
+            "height": 830
           }
         ],
         "videos": [],
@@ -425,7 +554,10 @@
         "photos": [
           {
             "name": "047",
-            "alt": "Tunnel Malbun"
+            "alt": "Tunnel Malbun",
+            "date": "2016-10-16T15:52:13.000+02:00",
+            "width": 1920,
+            "height": 1132
           }
         ],
         "videos": [],
