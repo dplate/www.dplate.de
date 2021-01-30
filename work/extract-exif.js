@@ -26,8 +26,7 @@ const extractExif = (photo, photosPath) => {
 };
 
 const processLandmark = (landmark, photosPath) => {
-  if (!landmark.photos.length) return landmark;
-  landmark.photos =landmark.photos.map(photo => extractExif(photo, photosPath));
+  landmark.photos = landmark.photos.map(photo => extractExif(photo, photosPath));
   return landmark;
 };
 
