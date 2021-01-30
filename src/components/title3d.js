@@ -12,6 +12,8 @@ const Wrapper = styled.div`
 const Background = styled.img`
   position: relative;
   max-width: 100%;
+  width: auto;
+  height: auto;
 `;
 
 const Title = styled.h1`
@@ -27,9 +29,11 @@ const Foreground = styled.img`
   top: 0;
   left: 0;
   max-width: 100%;
+  width: auto;
+  height: auto;
 `;
 
-const Title3D = ({reportPath, title, offsetY, fontSize, align, scrollTrigger}) => {
+const Title3D = ({reportPath, title, offsetY, fontSize, width, height, align, scrollTrigger}) => {
   const containerRef = useRef(null);
 
   const [currentYOffset, setCurrentYOffset] = useState(0);
@@ -48,7 +52,7 @@ const Title3D = ({reportPath, title, offsetY, fontSize, align, scrollTrigger}) =
       }
     };
     if (containerRef.current) {
-      setInitalYOffset(containerRef.current.getBoundingClientRect().top);
+      setInitalYOffset(containerRef.current.offsetTop);
     }
     window.addEventListener("scroll", handleScroll, { passive: true });
     return () => window.removeEventListener("scroll", handleScroll);
@@ -61,9 +65,18 @@ const Title3D = ({reportPath, title, offsetY, fontSize, align, scrollTrigger}) =
   const yMovement = initialYOffset - currentYOffset;
   return (
     <Wrapper id='title3d' ref={containerRef} style={{ textAlign: align }}>
-      <Background src={__PATH_PREFIX__ + '/photos' + reportPath + '/' + backgroundFile} style={{ top: yMovement / 20 + 'vh' }} />
+      <Background
+        src={__PATH_PREFIX__ + '/photos' + reportPath + '/' + backgroundFile}
+        style={{ top: yMovement / 20 + 'vh' }}
+        width={width}
+        height={height}
+      />
       <Title style={{ top: 'calc(' + offsetY + 'vw + ' + yMovement / 40 + 'vh)', fontSize: fontSize + 'vw' }}>{title}</Title>
-      <Foreground src={__PATH_PREFIX__ + '/photos' + reportPath + '/title-foreground.png'} />
+      <Foreground
+        src={__PATH_PREFIX__ + '/photos' + reportPath + '/title-foreground.png'}
+        width={width}
+        height={height}
+      />
     </Wrapper>
   )
 };
@@ -73,6 +86,8 @@ Title3D.propTypes = {
   title: PropTypes.string.isRequired,
   offsetY: PropTypes.number.isRequired,
   fontSize: PropTypes.number.isRequired,
+  width: PropTypes.number.isRequired,
+  height: PropTypes.number.isRequired,
   align: PropTypes.string,
   scrollTrigger: PropTypes.number
 };

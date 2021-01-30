@@ -1,7 +1,7 @@
 import React, {Fragment} from 'react';
 import {Helmet} from 'react-helmet';
 import Map from '../components/map';
-import Title from '../components/title';
+import AnimatedTitle from '../components/animatedtitle.js';
 import {graphql} from 'gatsby';
 import styled from 'styled-components';
 import formatDate from '../utils/formatDate.js';
@@ -283,7 +283,7 @@ class ReportMovie extends React.Component {
     const introActive = this.state.phase === 'intro'
     const {date, title, title3d} = this.props.data.reportJson;
     const fullTitle = title + ' - ' + formatDate(date);
-    return <Title
+    return <AnimatedTitle
       reportPath={this.getReportPath()}
       title={fullTitle}
       title3d={title3d}
@@ -362,7 +362,9 @@ export const pageQuery = graphql`
       title3d {
         offsetY,
         fontSize,
-        align,
+        width,
+        height
+        align
       },
       landmarks {
         photos {name, alt, date}, 

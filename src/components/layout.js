@@ -11,17 +11,17 @@ const Header = styled.div`
   position: fixed;
   z-index: 2;
   top: -57px;
-  left: 0px;
+  left: 0;
   width: 100%;
   height: 57px;
   &.showHeader {
-    top: 0px;  
+    top: 0;  
   }
   transition: top 0.5s;
   
   a {
     color: black;
-    :visited: {
+    :visited {
       color: black;
     }
   }
@@ -36,11 +36,6 @@ const MenuButton = styled.div`
   width: 24px;
   cursor: pointer;
   white-space: nowrap;
-`;
-
-const MenuIcon = styled.img`
-  height: 24px;
-  width: 24px;
 `;
 
 const MenuText = styled.span`
@@ -64,6 +59,8 @@ const Logo = styled.img`
   position: relative;
   top: 5px;
   margin-right: 15px;
+  width: auto;
+  height: auto;
 `;
 
 const Content = styled.div`
@@ -139,10 +136,10 @@ class Layout extends React.Component {
                 {this.props.children}
               </Content>
               <Header className={this.state.showHeader?'showHeader':''}>
-                <MenuButton onClick={this.toggleMenu}><MenuIcon src={menuIcon} /><MenuText>Menü</MenuText></MenuButton>
+                <MenuButton onClick={this.toggleMenu}><img src={menuIcon} width="24px" height="24px" alt="Menü" /><MenuText>Menü</MenuText></MenuButton>
                 <Link to="/">
                   <Title>www.dplate.de</Title>
-                  <Logo src={logoIcon} />
+                  <Logo src={logoIcon} width="48px" height="48px" alt="" />
                 </Link>
               </Header>
               { this.state.showMenu && <Menu onClose={this.toggleMenu} reports={reports} destinations={destinations} currentPath={this.props.location.pathname} />}

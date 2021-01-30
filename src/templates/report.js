@@ -35,6 +35,8 @@ const Photo = styled.img`
   display: block;
   max-width: 100%;
   max-height: calc(100vh - 125px);
+  width: auto;
+  height: auto;
   margin: 10px 0;
   cursor: pointer;
   &.focus {
@@ -69,16 +71,13 @@ const GpxDownload = styled.a`
   }
 `;
 
-const GpxDownloadIcon = styled.img`
-  width: 50px;
-  height: auto;
-`;
-
 const Ad = styled.div`
   margin-top: 50px;
   img {
     display: inline-block;
     max-width: min(640px, 100%);
+    width: auto;
+    height: auto;
     margin-top: 20px;  
     margin-bottom: 20px;
   }
@@ -182,6 +181,8 @@ class Report extends React.Component {
         id={fileName}
         src={photoPath}
         alt={photo.alt}
+        width={photo.width}
+        height={photo.height}
         data-date={photo.date}
         className={this.state.focus === photo ? 'focus' : undefined}
         onClick={this.toggleFocus.bind(this, photo)}
@@ -231,7 +232,7 @@ class Report extends React.Component {
     const downloadName = 'www-dplate-de-' + this.props.data.reportJson.destination + '-' + this.props.data.reportJson.date.substring(1) + '.gpx';
     return (
       <GpxDownload href={gpxPath} download={downloadName} onClick={() => {window.ga && window.ga('send', 'event', 'gpxDownload', 'click');}}>
-        <GpxDownloadIcon src={gpxIcon} alt="Download GPX Track" title="Download GPX Track" />
+        <img src={gpxIcon} alt="Download GPX Track" title="Download GPX Track" width="50px" height="50px" />
       </GpxDownload>
     );
   }
@@ -249,7 +250,15 @@ class Report extends React.Component {
             <meta name="description" content={this.buildPageDescription(title, type, date)} />
           </Helmet>
           {!title3d && <h1>{fullTitle}</h1>}
-          {title3d && <Title3D reportPath={this.getReportPath()} title={fullTitle} offsetY={title3d.offsetY} fontSize={title3d.fontSize} align={title3d.align} />}
+          {title3d && <Title3D
+            reportPath={this.getReportPath()}
+            title={fullTitle}
+            offsetY={title3d.offsetY}
+            fontSize={title3d.fontSize}
+            width={title3d.width}
+            height={title3d.height}
+            align={title3d.align}
+          />}
           <Chapter dangerouslySetInnerHTML={{__html: intro}}/>
           {landmarks.map(this.renderLandmark.bind(this))}
           <Chapter dangerouslySetInnerHTML={{__html: outro}}/>
@@ -265,7 +274,7 @@ class Report extends React.Component {
            />}
            <Ad>
              <h2>Zu schlechtes Wetter um selbst in die Berge zu gehen?</h2>
-             <Link to="/games/draw-a-mountain"><img src={__PATH_PREFIX__ + '/screenshots/draw-a-mountain.jpg'}  alt="Draw-A-Mountain"/></Link>
+             <Link to="/games/draw-a-mountain"><img src={__PATH_PREFIX__ + '/screenshots/draw-a-mountain.jpg'}  alt="Draw-A-Mountain" width="1024px" height="500px" /></Link>
              <p>Probiere doch mein kostenloses Spiel <Link to="/games/draw-a-mountain">"Draw-A-Mountain"</Link> aus.</p>
            </Ad>
         </Content>
@@ -291,10 +300,18 @@ export const pageQuery = graphql`
         offsetY,
         fontSize,
         align,
+        width,
+        height
       },
       intro, 
       landmarks {
-        photos {name, alt, date}, 
+        photos {
+          name, 
+          alt, 
+          date, 
+          width, 
+          height
+        }, 
         videos, 
         text
       }, 

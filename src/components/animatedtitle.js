@@ -25,19 +25,21 @@ const MovingTitle = ({movePercent, reportPath, title, title3d}) => {
       title={title}
       offsetY={title3d.offsetY}
       fontSize={title3d.fontSize}
+      width={title3d.width}
+      height={title3d.height}
       align={title3d.align}
       scrollTrigger={movePercent}
     /> : <h1>{title}</h1>}
   </Container>
 }
 
-const Title = ({reportPath, title, title3d, visible}) => {
+const Animatedtitle = ({reportPath, title, title3d, visible}) => {
   const {movePercent} = useSpring({
     config: { duration: 5000 },
     movePercent: visible ? 0 : 120
   });
-  const AnimatedDonut = animated(MovingTitle)
-  return <AnimatedDonut
+  const AnimatedTitleContainer = animated(MovingTitle)
+  return <AnimatedTitleContainer
     movePercent={movePercent}
     reportPath={reportPath}
     title={title}
@@ -45,15 +47,21 @@ const Title = ({reportPath, title, title3d, visible}) => {
   />;
 }
 
-Title.propTypes = {
+Animatedtitle.propTypes = {
   reportPath: PropTypes.string.isRequired,
   title: PropTypes.string.isRequired,
   title3d: PropTypes.shape({
     offsetY: PropTypes.number.isRequired,
     fontSize: PropTypes.number.isRequired,
+    width: PropTypes.number.isRequired,
+    height: PropTypes.number.isRequired,
     align: PropTypes.string
   }),
   visible: PropTypes.bool.isRequired
 };
 
-export default Title;
+Animatedtitle.defaultProps = {
+  visible: true
+};
+
+export default Animatedtitle;
