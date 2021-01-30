@@ -28,7 +28,7 @@ const doComparision = (imageToCompareAgainst, imageToCompare, resolve, reject) =
         if (error) {
           reject(error);
         } else {
-          gm.compare(imageToCompareAgainst, tmpPath, equalityGoal, (error, isEqual, equality) => {
+          gm.compare(imageToCompareAgainst, tmpPath, equalityGoal, (error, isEqual) => {
             runningGmCompares--;
             fs.unlinkSync(tmpPath);
             if (error) {
@@ -91,9 +91,9 @@ const replacePhotos = async (destination, date, srcPhotosPath, landmarks) => {
 
   const landmarkPromises = landmarks.map(async (landmark) => {
     const photoPromises = landmark.photos.map(async (photo) => {
-      const oldPhotoPath = './static2/photos/' + destination + '/' + date + '/' + photo.name + '.jpg';
+      const oldPhotoPath = './static/photos/' + destination + '/' + date + '/' + photo.name + '.jpg';
       let srcPhotoPath = await compare(oldPhotoPath, srcPhotoPaths);
-      let newPhotoName = '';
+      let newPhotoName;
       if (srcPhotoPath) {
         newPhotoName = ('00' + (srcPhotoPaths.indexOf(srcPhotoPath) + 1)).substr(-3);
       } else {

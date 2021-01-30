@@ -3,5 +3,4 @@ debug.log
 .cache/
 public
 .idea
-static/photos/
 package-lock.json
