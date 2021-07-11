@@ -4,3 +4,4 @@ debug.log
 public
 .idea
 package-lock.json
+work/tinify-key.js
