@@ -25,6 +25,7 @@
     "image-size": "^0.9.3",
     "jpeg-exif": "^1.1.4",
     "luxon": "^1.25.0",
-    "strip-pragma-loader": "^1.0.0"
+    "strip-pragma-loader": "^1.0.0",
+    "tinify": "^1.6.0-beta.2"
   }
 }
