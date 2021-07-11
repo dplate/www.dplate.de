@@ -83,6 +83,13 @@ const Ad = styled.div`
   }
 `;
 
+const Movie = styled.div`
+  margin-top: 20px;
+  h3 {
+    margin-bottom: 10px;
+  }
+`;
+
 class Report extends React.Component {
   constructor(props) {
     super(props);
@@ -239,19 +246,28 @@ class Report extends React.Component {
 
   render() {
     const content = this.props.data.reportJson;
-    const {date, type, track, timeShift, detailMap, hideSwissTopo, title, title3d, intro, landmarks, outro} = content;
-    const gpxPath = __PATH_PREFIX__ + '/tracks' + this.getReportPath() + '.gpx';
+    const {date, type, track, timeShift, detailMap, hideSwissTopo, title, title3d, movie, intro, landmarks, outro} = content;
+    const reportPath = this.getReportPath();
+    const gpxPath = __PATH_PREFIX__ + '/tracks' + reportPath + '.gpx';
     const fullTitle = title + ' - ' + formatDate(date);
+    const pageTitle = this.buildPageTitle(title, type);
     return (
       <Layout location={this.props.location}>
         <Content>
           <Helmet>
-            <title>{this.buildPageTitle(title, type)}</title>
-            <meta name="description" content={this.buildPageDescription(title, type, date)} />
+            <title>{pageTitle}</title>
+            <meta name="description" property="og:description" content={this.buildPageDescription(title, type, date)} />
+            <meta property="og:title" content={pageTitle} />
+            <meta property="og:type" content="website" />
+            <meta property="og:url" content={`https://www.dplate.de/alpine${reportPath}`} />
+            {title3d && <meta property="og:image" content={`https://www.dplate.de/photos${reportPath}/title.jpg`} />}
+            {movie && <meta property="og:video" content={`https://youtu.be/${movie}`} />}
+            {movie && <meta property="og:video:height" content="1920" />}
+            {movie && <meta property="og:video:width" content="1080" />}
           </Helmet>
           {!title3d && <h1>{fullTitle}</h1>}
           {title3d && <Title3D
-            reportPath={this.getReportPath()}
+            reportPath={reportPath}
             title={fullTitle}
             offsetY={title3d.offsetY}
             fontSize={title3d.fontSize}
@@ -272,11 +288,19 @@ class Report extends React.Component {
             winter={type !== 'hike'}
             onClick={this.resetFocus.bind(this)}
            />}
-           <Ad>
-             <h2>Zu schlechtes Wetter um selbst in die Berge zu gehen?</h2>
-             <Link to="/games/draw-a-mountain"><img src={__PATH_PREFIX__ + '/screenshots/draw-a-mountain.jpg'}  alt="Draw-A-Mountain" width="1024px" height="500px" /></Link>
-             <p>Probiere doch mein kostenloses Spiel <Link to="/games/draw-a-mountain">"Draw-A-Mountain"</Link> aus.</p>
-           </Ad>
+          {movie && <Movie>
+            <h3><a href={`https://youtu.be/${movie}`}>{pageTitle} als Animation</a></h3>
+            <VideoContainer>
+              <VideoWrapper>
+                <iframe src={`https://www.youtube.com/embed/${movie}?wmode=transparent`} frameBorder="0" allowFullScreen title={title} />
+              </VideoWrapper>
+            </VideoContainer>
+          </Movie>}
+          <Ad>
+            <h2>Zu schlechtes Wetter um selbst in die Berge zu gehen?</h2>
+            <Link to="/games/draw-a-mountain"><img src={__PATH_PREFIX__ + '/screenshots/draw-a-mountain.jpg'}  alt="Draw-A-Mountain" width="1024px" height="500px" /></Link>
+            <p>Probiere doch mein kostenloses Spiel <Link to="/games/draw-a-mountain">"Draw-A-Mountain"</Link> aus.</p>
+          </Ad>
         </Content>
       </Layout>
     );
@@ -303,6 +327,7 @@ export const pageQuery = graphql`
         width,
         height
       },
+      movie,
       intro, 
       landmarks {
         photos {
