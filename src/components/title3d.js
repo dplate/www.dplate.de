@@ -1,6 +1,6 @@
-import React, {useRef, useState, useEffect} from 'react'
-import PropTypes from 'prop-types'
-import styled from 'styled-components'
+import React, { useEffect, useRef, useState } from 'react';
+import PropTypes from 'prop-types';
+import styled from 'styled-components';
 
 const Wrapper = styled.div`
   position: relative;
@@ -33,29 +33,29 @@ const Foreground = styled.img`
   height: auto;
 `;
 
-const Title3D = ({reportPath, title, offsetY, fontSize, width, height, align, scrollTrigger}) => {
+const Title3D = ({ reportPath, title, offsetY, fontSize, width, height, align, scrollTrigger }) => {
   const containerRef = useRef(null);
 
   const [currentYOffset, setCurrentYOffset] = useState(0);
   const [initialYOffset, setInitalYOffset] = useState(null);
 
-  useEffect( () => {
+  useEffect(() => {
     if (containerRef.current) {
-      setCurrentYOffset(containerRef.current.getBoundingClientRect().top)
+      setCurrentYOffset(containerRef.current.getBoundingClientRect().top);
     }
-  }, [scrollTrigger])
+  }, [scrollTrigger]);
 
   useEffect(() => {
     const handleScroll = () => {
       if (containerRef.current) {
-        setCurrentYOffset(containerRef.current.getBoundingClientRect().top)
+        setCurrentYOffset(containerRef.current.getBoundingClientRect().top);
       }
     };
     if (containerRef.current) {
       setInitalYOffset(containerRef.current.offsetTop);
     }
-    window.addEventListener("scroll", handleScroll, { passive: true });
-    return () => window.removeEventListener("scroll", handleScroll);
+    window.addEventListener('scroll', handleScroll, { passive: true });
+    return () => window.removeEventListener('scroll', handleScroll);
   }, []);
 
   let backgroundFile = 'title.jpg';
@@ -66,19 +66,22 @@ const Title3D = ({reportPath, title, offsetY, fontSize, width, height, align, sc
   return (
     <Wrapper id='title3d' ref={containerRef} style={{ textAlign: align }}>
       <Background
-        src={__PATH_PREFIX__ + '/photos' + reportPath + '/' + backgroundFile}
+        src={'/photos' + reportPath + '/' + backgroundFile}
         style={{ top: yMovement / 20 + 'vh' }}
         width={width}
         height={height}
       />
-      <Title style={{ top: 'calc(' + offsetY + 'vw + ' + yMovement / 40 + 'vh)', fontSize: fontSize + 'vw' }}>{title}</Title>
-      <Foreground
-        src={__PATH_PREFIX__ + '/photos' + reportPath + '/title-foreground.png'}
-        width={width}
-        height={height}
-      />
+      <Title
+        style={{
+          top: 'calc(' + offsetY + 'vw + ' + yMovement / 40 + 'vh)',
+          fontSize: fontSize + 'vw'
+        }}
+      >
+        {title}
+      </Title>
+      <Foreground src={'/photos' + reportPath + '/title-foreground.png'} width={width} height={height} />
     </Wrapper>
-  )
+  );
 };
 
 Title3D.propTypes = {
@@ -97,5 +100,3 @@ Title3D.defaultProps = {
 };
 
 export default Title3D;
-
-

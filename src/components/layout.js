@@ -1,12 +1,12 @@
-import React from 'react'
-import logoIcon from '../icons/logo.png'
-import menuIcon from '../icons/menu.svg'
-import styled from 'styled-components'
-import { graphql, Link, StaticQuery } from 'gatsby'
-import Menu from '../components/menu'
+import React from 'react';
+import logoIcon from '../icons/logo.png';
+import menuIcon from '../icons/menu.svg';
+import styled from 'styled-components';
+import { graphql, Link, StaticQuery } from 'gatsby';
+import Menu from '../components/menu';
 
 const Header = styled.div`
-  background-color: #CFE0C3;
+  background-color: #cfe0c3;
   text-align: right;
   position: fixed;
   z-index: 2;
@@ -14,13 +14,16 @@ const Header = styled.div`
   left: 0;
   width: 100%;
   height: 57px;
+
   &.showHeader {
-    top: 0;  
+    top: 0;
   }
+
   transition: top 0.5s;
-  
+
   a {
     color: black;
+
     :visited {
       color: black;
     }
@@ -41,7 +44,7 @@ const MenuButton = styled.div`
 const MenuText = styled.span`
   position: absolute;
   margin-left: 8px;
-  @media(max-width: 420px) {
+  @media (max-width: 420px) {
     display: none;
   }
 `;
@@ -64,25 +67,25 @@ const Logo = styled.img`
 `;
 
 const Content = styled.div`
-  padding-top: 57px;  
+  padding-top: 57px;
 `;
 
 const layoutQuery = graphql`
-  query AllDynamicItems{
-    allDestinationJson(filter:{}, sort:{fields:[name], order:ASC }) {
+  query AllDynamicItems {
+    allDestinationJson(filter: {}, sort: { fields: [name], order: ASC }) {
       edges {
         node {
-          destination, 
+          destination
           name
         }
       }
-    },
-    allReportJson(filter:{}, sort:{fields:[date], order:DESC }) {
+    }
+    allReportJson(filter: {}, sort: { fields: [date], order: DESC }) {
       edges {
         node {
-          destination, 
-          date, 
-          type,
+          destination
+          date
+          type
           shortTitle
         }
       }
@@ -91,7 +94,6 @@ const layoutQuery = graphql`
 `;
 
 class Layout extends React.Component {
-
   constructor(props) {
     super(props);
     this.state = {
@@ -112,7 +114,7 @@ class Layout extends React.Component {
   }
 
   toggleMenu() {
-    this.setState({showMenu: !this.state.showMenu});
+    this.setState({ showMenu: !this.state.showMenu });
   }
 
   componentDidMount() {
@@ -127,27 +129,35 @@ class Layout extends React.Component {
     return (
       <StaticQuery
         query={layoutQuery}
-        render={data => {
+        render={(data) => {
           const reports = data.allReportJson.edges.map((element) => element.node);
           const destinations = data.allDestinationJson.edges.map((element) => element.node);
           return (
             <div>
-              <Content>
-                {this.props.children}
-              </Content>
-              <Header className={this.state.showHeader?'showHeader':''}>
-                <MenuButton onClick={this.toggleMenu}><img src={menuIcon} width="24px" height="24px" alt="Menü" /><MenuText>Menü</MenuText></MenuButton>
-                <Link to="/">
+              <Content>{this.props.children}</Content>
+              <Header className={this.state.showHeader ? 'showHeader' : ''}>
+                <MenuButton onClick={this.toggleMenu}>
+                  <img src={menuIcon} width='24px' height='24px' alt='Menü' />
+                  <MenuText>Menü</MenuText>
+                </MenuButton>
+                <Link to='/'>
                   <Title>www.dplate.de</Title>
-                  <Logo src={logoIcon} width="48px" height="48px" alt="" />
+                  <Logo src={logoIcon} width='48px' height='48px' alt='' />
                 </Link>
               </Header>
-              { this.state.showMenu && <Menu onClose={this.toggleMenu} reports={reports} destinations={destinations} currentPath={this.props.location.pathname} />}
+              {this.state.showMenu && (
+                <Menu
+                  onClose={this.toggleMenu}
+                  reports={reports}
+                  destinations={destinations}
+                  currentPath={this.props.location.pathname}
+                />
+              )}
             </div>
-          )
+          );
         }}
       />
-    )
+    );
   }
 }
 

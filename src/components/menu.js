@@ -1,8 +1,8 @@
-import React, {useMemo, useState} from 'react'
-import Link from 'gatsby-link'
-import PropTypes from 'prop-types'
-import styled from 'styled-components'
-import formatDate from '../utils/formatDate'
+import React, { useMemo, useState } from 'react';
+import { Link } from 'gatsby';
+import PropTypes from 'prop-types';
+import styled from 'styled-components';
+import formatDate from '../utils/formatDate';
 
 const Background = styled.div`
   position: fixed;
@@ -24,32 +24,37 @@ const MenuLayer = styled.div`
   left: 0;
   height: 100%;
   width: 250px;
-  background-color: #9EC1A3;
+  background-color: #9ec1a3;
   overflow: auto;
 `;
 
 const ItemList = styled.ul`
   list-style-type: none;
   padding-left: 10px;
+
   li {
     padding-top: 5px;
-        
+
     a {
       display: block;
       text-decoration: none;
       color: black;
       padding: 5px;
+
       &:hover {
-        background-color: #8EB193;
+        background-color: #8eb193;
       }
     }
+
     > div > div {
       cursor: pointer;
       padding: 5px;
+
       &:hover {
-        background-color: #8EB193;
+        background-color: #8eb193;
       }
     }
+
     .selected {
       font-weight: bold;
     }
@@ -71,7 +76,7 @@ const renderLink = (item, onClose) => {
     <Link to={item.path} className={item.selected ? 'selected' : ''} onClick={onClose}>
       {item.name}
     </Link>
-  )
+  );
 };
 
 const renderSubTitle = (item, forceUpdate) => {
@@ -84,7 +89,12 @@ const renderSubTitle = (item, forceUpdate) => {
     );
   }
   return (
-    <div className={item.selected ? 'selected' : ''} role="presentation" onClick={boundToggleSub} onKeyDown={boundToggleSub}>
+    <div
+      className={item.selected ? 'selected' : ''}
+      role='presentation'
+      onClick={boundToggleSub}
+      onKeyDown={boundToggleSub}
+    >
       {item.name}
     </div>
   );
@@ -94,25 +104,17 @@ const renderSub = (item, forceUpdate, onClose) => {
   return (
     <div>
       {renderSubTitle(item, forceUpdate)}
-      {item.show && renderItems(item.items,forceUpdate, onClose)}
+      {item.show && renderItems(item.items, forceUpdate, onClose)}
     </div>
-  )
+  );
 };
 
 const renderItem = (item, forceUpdate, onClose) => {
-  return (
-    <li key={item.id}>
-      {item.items ? renderSub(item, forceUpdate, onClose) : renderLink(item, onClose)}
-    </li>
-  )
+  return <li key={item.id}>{item.items ? renderSub(item, forceUpdate, onClose) : renderLink(item, onClose)}</li>;
 };
 
 const renderItems = (items, forceUpdate, onClose) => {
-  return (
-    <ItemList>
-      {items.map(item => renderItem(item, forceUpdate, onClose))}
-    </ItemList>
-  )
+  return <ItemList>{items.map((item) => renderItem(item, forceUpdate, onClose))}</ItemList>;
 };
 
 const selectCurrentPath = (currentPath, items) => {
@@ -130,9 +132,14 @@ const selectCurrentPath = (currentPath, items) => {
 const createAlpineItem = (report) => {
   return {
     id: report.date,
-    name: <div>{report.type === 'hike' ? '☀' : '❄'} {report.shortTitle}<ItemDate>{formatDate(report.date)}</ItemDate></div>,
+    name: (
+      <div>
+        {report.type === 'hike' ? '☀' : '❄'} {report.shortTitle}
+        <ItemDate>{formatDate(report.date)}</ItemDate>
+      </div>
+    ),
     path: `/alpine/${report.destination}/${report.date.substring(1)}`
-  }
+  };
 };
 
 const createAlpineItems = (destinations, reports) => {
@@ -152,7 +159,7 @@ const createAlpine = (destinations, reports) => {
     id: 'alpine',
     name: 'Alpinfunk',
     items: createAlpineItems(destinations, reports)
-  }
+  };
 };
 
 const createItems = (destinations, reports, currentPath) => {
@@ -223,13 +230,13 @@ const createItems = (destinations, reports, currentPath) => {
   ];
   selectCurrentPath(currentPath, items);
   return items;
-}
+};
 
 const forceUpdate = (items, setItems) => {
   setItems([...items]);
-}
+};
 
-const Menu = ({destinations, reports, currentPath, onClose}) => {
+const Menu = ({ destinations, reports, currentPath, onClose }) => {
   const initialItems = useMemo(
     () => createItems(destinations, reports, currentPath),
     [destinations, reports, currentPath]
@@ -238,29 +245,29 @@ const Menu = ({destinations, reports, currentPath, onClose}) => {
 
   return (
     <div>
-      <MenuLayer>
-        {renderItems(items, forceUpdate.bind(null, items, setItems), onClose)}
-      </MenuLayer>
+      <MenuLayer>{renderItems(items, forceUpdate.bind(null, items, setItems), onClose)}</MenuLayer>
       <Background onClick={onClose} />
     </div>
-  )
+  );
 };
 
 Menu.propTypes = {
   onClose: PropTypes.func.isRequired,
-  reports: PropTypes.arrayOf(PropTypes.shape({
-    destination: PropTypes.string.isRequired,
-    date: PropTypes.string.isRequired,
-    type: PropTypes.string,
-    shortTitle: PropTypes.string.isRequired,
-  })),
-  destinations: PropTypes.arrayOf(PropTypes.shape({
-    destination: PropTypes.string.isRequired,
-    name: PropTypes.string.isRequired
-  })),
+  reports: PropTypes.arrayOf(
+    PropTypes.shape({
+      destination: PropTypes.string.isRequired,
+      date: PropTypes.string.isRequired,
+      type: PropTypes.string,
+      shortTitle: PropTypes.string.isRequired
+    })
+  ),
+  destinations: PropTypes.arrayOf(
+    PropTypes.shape({
+      destination: PropTypes.string.isRequired,
+      name: PropTypes.string.isRequired
+    })
+  ),
   currentPath: PropTypes.string.isRequired
 };
 
 export default Menu;
-
-

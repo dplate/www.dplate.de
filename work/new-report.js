@@ -11,13 +11,16 @@ const destination = 'flumserberg';
 const reportDate = '20210710';
 
 const newPhoto = async (sourcePhoto, targetPhotosPath, index) => {
-  const photoNumber =  (index + 1).toLocaleString('en-US', { minimumIntegerDigits: 3 });
-  const targetPhoto = targetPhotosPath + '/' + photoNumber  + '.jpg';
+  const photoNumber = (index + 1).toLocaleString('en-US', {
+    minimumIntegerDigits: 3
+  });
+  const targetPhoto = targetPhotosPath + '/' + photoNumber + '.jpg';
 
   if (fs.existsSync(targetPhoto)) {
     console.log(targetPhoto, 'exists');
   } else {
-    const source = tinify.fromFile(sourcePhoto)
+    const source = tinify
+      .fromFile(sourcePhoto)
       .resize({
         method: 'fit',
         width: 1920,
@@ -25,15 +28,20 @@ const newPhoto = async (sourcePhoto, targetPhotosPath, index) => {
       })
       .preserve('creation', 'location');
 
-    await source.toFile(targetPhoto, error => console.log(sourcePhoto, targetPhoto, error ? error.message : 'success'));
+    await source.toFile(targetPhoto, (error) =>
+      console.log(sourcePhoto, targetPhoto, error ? error.message : 'success')
+    );
   }
 
   const photoSize = sizeOf(targetPhoto);
   const exifData = exif.parseSync(targetPhoto);
+  // noinspection JSUnresolvedVariable
   const exifDateTime = exifData.SubExif && exifData.SubExif.DateTimeOriginal;
   const [exifDate, exifTime] = exifDateTime.split(' ');
   const dateWithoutZone = exifDate.replace(/:/g, '-') + 'T' + exifTime;
-  const dateWithZone = DateTime.fromISO(dateWithoutZone, { zone: 'Europe/Zurich' })
+  const dateWithZone = DateTime.fromISO(dateWithoutZone, {
+    zone: 'Europe/Zurich'
+  });
 
   return {
     name: photoNumber,
@@ -46,17 +54,18 @@ const newPhoto = async (sourcePhoto, targetPhotosPath, index) => {
 
 const createLandmarks = async () => {
   const landmarks = [];
-  const sourcePhotos = fs.readdirSync(sourcePath)
-    .filter(file => file.toLowerCase().endsWith('.jpg'))
+  const sourcePhotos = fs
+    .readdirSync(sourcePath)
+    .filter((file) => file.toLowerCase().endsWith('.jpg'))
     .sort()
-    .map(file => sourcePath + '/' + file);
-  const targetPhotosPath =  projectPath + '/static/photos/' + destination + '/' + reportDate;
+    .map((file) => sourcePath + '/' + file);
+  const targetPhotosPath = projectPath + '/static/photos/' + destination + '/' + reportDate;
   fs.mkdirSync(targetPhotosPath, { recursive: true });
   for (let index = 0; index < sourcePhotos.length; index++) {
     const sourcePhoto = sourcePhotos[index];
     const photo = await newPhoto(sourcePhoto, targetPhotosPath, index);
     landmarks.push({
-      photos: [ photo ],
+      photos: [photo],
       text: 'TODO'
     });
   }
@@ -90,7 +99,7 @@ const newReport = async () => {
       outro: 'TODO'
     };
     fs.mkdirSync(reportPath, { recursive: true });
-    fs.writeFileSync(reportFile, JSON.stringify([ report ], null, 2));
+    fs.writeFileSync(reportFile, JSON.stringify([report], null, 2));
     console.log(reportFile, 'created');
   }
 };

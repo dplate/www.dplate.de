@@ -5,7 +5,7 @@ const { DefinePlugin } = require('webpack');
 exports.createPages = ({ actions, graphql }) => {
   const { createPage } = actions;
 
-  const reports =  new Promise((resolve, reject) => {
+  const reports = new Promise((resolve, reject) => {
     const reportTemplate = path.resolve(`src/templates/report.js`);
     resolve(
       graphql(
@@ -14,16 +14,16 @@ exports.createPages = ({ actions, graphql }) => {
             allReportJson(limit: 1000) {
               edges {
                 node {
-                  destination,
+                  destination
                   date
                 }
               }
             }
           }
         `
-      ).then(result => {
+      ).then((result) => {
         if (result.errors) {
-          reject(result.errors)
+          reject(result.errors);
         }
         result.data.allReportJson.edges.forEach(({ node }) => {
           const { destination, date } = node;
@@ -35,13 +35,13 @@ exports.createPages = ({ actions, graphql }) => {
               destination,
               date: date
             }
-          })
-        })
+          });
+        });
       })
-    )
+    );
   });
 
-  const reportMovies =  new Promise((resolve, reject) => {
+  const reportMovies = new Promise((resolve, reject) => {
     const reportMovieTemplate = path.resolve(`src/templates/reportmovie.js`);
     resolve(
       graphql(
@@ -50,16 +50,16 @@ exports.createPages = ({ actions, graphql }) => {
             allReportJson(limit: 1000) {
               edges {
                 node {
-                  destination,
+                  destination
                   date
                 }
               }
             }
           }
         `
-      ).then(result => {
+      ).then((result) => {
         if (result.errors) {
-          reject(result.errors)
+          reject(result.errors);
         }
         result.data.allReportJson.edges.forEach(({ node }) => {
           const { destination, date } = node;
@@ -71,13 +71,13 @@ exports.createPages = ({ actions, graphql }) => {
               destination,
               date: date
             }
-          })
-        })
+          });
+        });
       })
-    )
+    );
   });
 
-  const destinations =  new Promise((resolve, reject) => {
+  const destinations = new Promise((resolve, reject) => {
     const destinationTemplate = path.resolve(`src/templates/destination.js`);
     resolve(
       graphql(
@@ -92,9 +92,9 @@ exports.createPages = ({ actions, graphql }) => {
             }
           }
         `
-      ).then(result => {
+      ).then((result) => {
         if (result.errors) {
-          reject(result.errors)
+          reject(result.errors);
         }
         result.data.allDestinationJson.edges.forEach(({ node }) => {
           const { destination } = node;
@@ -105,10 +105,10 @@ exports.createPages = ({ actions, graphql }) => {
             context: {
               destination
             }
-          })
-        })
+          });
+        });
       })
-    )
+    );
   });
   return Promise.all([reports, reportMovies, destinations]);
 };
@@ -118,49 +118,60 @@ exports.onCreateWebpackConfig = ({ actions, loaders }) => {
     plugins: [
       new CopyWebpackPlugin({
         patterns: [
-          { from: 'node_modules/cesium/Build/Cesium/Workers', to: 'Cesium/Workers' },
-          { from: 'node_modules/cesium/Build/Cesium/Assets', to: 'Cesium/Assets' },
-          { from: 'node_modules/cesium/Build/Cesium/Widgets', to: 'Cesium/Widgets' },
+          {
+            from: 'node_modules/cesium/Build/Cesium/Workers',
+            to: 'Cesium/Workers'
+          },
+          {
+            from: 'node_modules/cesium/Build/Cesium/Assets',
+            to: 'Cesium/Assets'
+          },
+          {
+            from: 'node_modules/cesium/Build/Cesium/Widgets',
+            to: 'Cesium/Widgets'
+          }
         ]
       }),
 
       new DefinePlugin({
-        CESIUM_BASE_URL: JSON.stringify('/Cesium/'),
-      }),
+        CESIUM_BASE_URL: JSON.stringify('/Cesium/')
+      })
     ],
     optimization: {
       usedExports: true
     },
     resolve: {
       fallback: {
-        'https': require.resolve("https-browserify"),
-        'http': require.resolve('stream-http'),
-        'zlib': require.resolve('browserify-zlib'),
-        'assert': require.resolve('assert/'),
-        'stream': require.resolve('stream-browserify'),
-        'util': require.resolve('util/')
+        https: require.resolve('https-browserify'),
+        http: require.resolve('stream-http'),
+        zlib: require.resolve('browserify-zlib'),
+        assert: require.resolve('assert/'),
+        stream: require.resolve('stream-browserify'),
+        util: require.resolve('util/')
       }
     },
     module: {
       rules: [
         {
           test: /\.gl(tf|b)$/,
-          use: loaders.url(),
+          use: loaders.url()
         },
         {
           test: /\.js$/,
           enforce: 'pre',
-          use: [{
-            loader: 'strip-pragma-loader',
-            options: {
-              pragmas: {
-                debug: false
+          use: [
+            {
+              loader: 'strip-pragma-loader',
+              options: {
+                pragmas: {
+                  debug: false
+                }
               }
             }
-          }]
+          ]
         }
       ],
-      unknownContextCritical: false,
+      unknownContextCritical: false
     }
   });
-}
+};

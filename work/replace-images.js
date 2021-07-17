@@ -4,8 +4,8 @@ const fs = require('fs');
 const jsonfile = require('jsonfile');
 const gm = require('gm');
 
-const invert  = p  => new Promise((res, rej) => p.then(rej, res));
-const firstOf = ps => invert(Promise.all(ps.map(invert)));
+const invert = (p) => new Promise((res, rej) => p.then(rej, res));
+const firstOf = (ps) => invert(Promise.all(ps.map(invert)));
 
 const equalityGoal = 0.005;
 let runningGmCompares = 0;
@@ -18,30 +18,32 @@ const doComparision = (imageToCompareAgainst, imageToCompare, resolve, reject) =
   if (Object.keys(foundMatchings).find((foundMatching) => foundMatchings[foundMatching] === imageToCompare)) {
     return reject('already used');
   }
-  runningGmCompares ++;
+  runningGmCompares++;
   gm(imageToCompareAgainst).size((error, size) => {
     if (error) {
       reject(error);
     } else {
       const tmpPath = './tmp/' + Math.round(Math.random() * 100000) + '.jpg';
-      gm(imageToCompare).resize(size.width, size.height, '!').write(tmpPath, (error) => {
-        if (error) {
-          reject(error);
-        } else {
-          gm.compare(imageToCompareAgainst, tmpPath, equalityGoal, (error, isEqual) => {
-            runningGmCompares--;
-            fs.unlinkSync(tmpPath);
-            if (error) {
-              reject(error);
-            } else if (!isEqual) {
-              reject('Not equal enough');
-            } else {
-              foundMatchings[imageToCompareAgainst] = imageToCompare;
-              resolve(imageToCompare);
-            }
-          });
-        }
-      });
+      gm(imageToCompare)
+        .resize(size.width, size.height, '!')
+        .write(tmpPath, (error) => {
+          if (error) {
+            reject(error);
+          } else {
+            gm.compare(imageToCompareAgainst, tmpPath, equalityGoal, (error, isEqual) => {
+              runningGmCompares--;
+              fs.unlinkSync(tmpPath);
+              if (error) {
+                reject(error);
+              } else if (!isEqual) {
+                reject('Not equal enough');
+              } else {
+                foundMatchings[imageToCompareAgainst] = imageToCompare;
+                resolve(imageToCompare);
+              }
+            });
+          }
+        });
     }
   });
 };
@@ -54,7 +56,7 @@ const getEqualityValues = (imageToCompareAgainst, imageToCompare) => {
         clearInterval(timer);
         doComparision(imageToCompareAgainst, imageToCompare, resolve, reject);
       }
-    }, 100)
+    }, 100);
   });
 };
 
@@ -62,7 +64,7 @@ const compare = async (imageToCompareAgainst, comparedImages) => {
   const resultPromises = comparedImages.map(getEqualityValues.bind(null, imageToCompareAgainst));
   try {
     return await firstOf(resultPromises);
-  } catch(e) {
+  } catch (e) {
     console.log(imageToCompareAgainst, 'not found');
     return null;
   }
@@ -70,19 +72,21 @@ const compare = async (imageToCompareAgainst, comparedImages) => {
 
 const writeNewPhoto = async (source, destination) => {
   return new Promise((resolve, reject) => {
-    gm(source).resize(1920, 1080, '>').write(destination, (error) => {
-      if (error) {
-        reject(error);
-      } else {
-        resolve();
-      }
-    });
+    gm(source)
+      .resize(1920, 1080, '>')
+      .write(destination, (error) => {
+        if (error) {
+          reject(error);
+        } else {
+          resolve();
+        }
+      });
   });
 };
 
 const replacePhotos = async (destination, date, srcPhotosPath, landmarks) => {
   const srcPhotoPaths = [];
-  fs.readdirSync(srcPhotosPath).forEach(file => {
+  fs.readdirSync(srcPhotosPath).forEach((file) => {
     if (file.toLowerCase().endsWith('.jpg')) {
       srcPhotoPaths.push(srcPhotosPath + '/' + file);
     }
@@ -100,7 +104,7 @@ const replacePhotos = async (destination, date, srcPhotosPath, landmarks) => {
         newPhotoName = 'track' + trackPhotoCounter++;
         srcPhotoPath = oldPhotoPath;
       }
-      const newPhotoPath = './static/photos/' + destination + '/'+ date + '/' + newPhotoName + '.jpg';
+      const newPhotoPath = './static/photos/' + destination + '/' + date + '/' + newPhotoName + '.jpg';
       console.log(srcPhotoPath, newPhotoPath);
       await writeNewPhoto(srcPhotoPath, newPhotoPath);
       return {
@@ -121,7 +125,7 @@ const copyTrack = (destination, date, srcPhotosPath) => {
     const destTrackFile = destTrackPath + '/' + date + '.gpx';
     try {
       fs.mkdirSync(destTrackPath);
-    } catch(e) {
+    } catch (e) {
       if (e.code !== 'EEXIST') throw e;
     }
     fs.createReadStream(srcTrackFile).pipe(fs.createWriteStream(destTrackFile));
@@ -147,5 +151,5 @@ const copyTrack = (destination, date, srcPhotosPath) => {
   report[0].landmarks = await replacePhotos(destination, date, srcPhotosPath, report[0].landmarks);
   report[0].track = copyTrack(destination, date, srcPhotosPath);
 
-  jsonfile.writeFileSync(reportFile, report, {spaces: 2, flag: "w"});
+  jsonfile.writeFileSync(reportFile, report, { spaces: 2, flag: 'w' });
 })();

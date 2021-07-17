@@ -1,8 +1,8 @@
-import React, {Fragment} from 'react';
-import {Helmet} from 'react-helmet';
+import React, { Fragment } from 'react';
+import { Helmet } from 'react-helmet';
 import Map from '../components/map';
 import AnimatedTitle from '../components/animatedtitle.js';
-import {graphql} from 'gatsby';
+import { graphql } from 'gatsby';
 import styled from 'styled-components';
 import formatDate from '../utils/formatDate.js';
 
@@ -13,8 +13,8 @@ const Movie = styled.div`
   color: white;
 `;
 
-const Curtain = styled.div.attrs(({opacity}) => ({
-  style: ({ opacity })
+const Curtain = styled.div.attrs(({ opacity }) => ({
+  style: { opacity }
 }))`
   position: fixed;
   width: 100%;
@@ -24,12 +24,12 @@ const Curtain = styled.div.attrs(({opacity}) => ({
   transition: opacity 5s ease-in-out;
 `;
 
-const Logo = styled.img.attrs(({width, top, left}) => ({
-  style: ({
+const Logo = styled.img.attrs(({ width, top, left }) => ({
+  style: {
     width: `${width}px`,
     top: `${top}vh`,
-    left: `${left}vw`,
-  })
+    left: `${left}vw`
+  }
 }))`
   position: fixed;
   transform: translate(-50%, -50%);
@@ -38,11 +38,10 @@ const Logo = styled.img.attrs(({width, top, left}) => ({
   transition: width 5s ease-in-out, top 5s ease-in-out, left 5s ease-in-out;
 `;
 
-const Landmark = styled.div`
-`;
+const Landmark = styled.div``;
 
-const Photo = styled.img.attrs(({opacity}) => ({
-  style: ({ opacity })
+const Photo = styled.img.attrs(({ opacity }) => ({
+  style: { opacity }
 }))`
   position: fixed;
   display: block;
@@ -57,10 +56,10 @@ const Photo = styled.img.attrs(({opacity}) => ({
   transition: opacity 1s ease-in-out;
 `;
 
-const Label = styled.div.attrs(({offsetY}) => ({
-  style: ({
+const Label = styled.div.attrs(({ offsetY }) => ({
+  style: {
     top: `calc(100% - ${offsetY}px)`
-  })
+  }
 }))`
   position: fixed;
   display: block;
@@ -90,16 +89,24 @@ class ReportMovie extends React.Component {
   }
 
   async outputMetadata() {
-    const {date, destination, title, shortTitle} = this.props.data.reportJson;
+    const { date, destination, title, shortTitle } = this.props.data.reportJson;
     const sections = await this.generateSections();
     console.log({
       title: `⛰ ${title} Wanderung`,
-      description: 'Wanderkarte und Bilder des Wegs ' + title + ' vom ' + formatDate(date) + '.\n' +
+      description:
+        'Wanderkarte und Bilder des Wegs ' +
+        title +
+        ' vom ' +
+        formatDate(date) +
+        '.\n' +
         'Der ausführliche Bericht dieser Wanderung und der Download der GPX-Datei sind hier zu finden:\n' +
-        'https://www.dplate.de/alpine' + this.getReportPath() + '\n' +
+        'https://www.dplate.de/alpine' +
+        this.getReportPath() +
+        '\n' +
         '\n' +
         'Inhalt:\n' +
-        sections.join('\n') + '\n' +
+        sections.join('\n') +
+        '\n' +
         '\n' +
         'Map engine:\n' +
         '- Cesium\n' +
@@ -114,7 +121,11 @@ class ReportMovie extends React.Component {
         '- geodata © swisstopo\n' +
         '- basemap.at',
       playlist: destination.charAt(0).toUpperCase() + destination.slice(1) + ' Wanderungen',
-      tags: title + ',' + shortTitle + ',Wanderung,Wandern,Alpen,Bilder,Fotos,GPX,Track,Karte,3D,AlpinFunk,Bergsteigen,' +
+      tags:
+        title +
+        ',' +
+        shortTitle +
+        ',Wanderung,Wandern,Alpen,Bilder,Fotos,GPX,Track,Karte,3D,AlpinFunk,Bergsteigen,' +
         'Reise,Urlaub,Beschreibung,Wegbeschreibung,dplate,Rundweg,Weg,Bergweg',
       date: formatDate(date),
       location: shortTitle,
@@ -130,17 +141,19 @@ class ReportMovie extends React.Component {
 
   async generateSections() {
     const gpxRaw = await (await fetch(this.buildGpxPath())).text();
-    const doc = (new window.DOMParser()).parseFromString(gpxRaw, 'text/xml');
+    const doc = new window.DOMParser().parseFromString(gpxRaw, 'text/xml');
     const trackPoints = Array.prototype.slice.call(doc.getElementsByTagName('trkpt'));
     const startDate = trackPoints[0].getElementsByTagName('time')[0].firstChild.nodeValue;
     let lastSeconds = this.extractSecondsFromDate(startDate);
     let lastMovieSeconds = 7;
-    const sections = [{
-      movieSeconds: 0,
-      text: 'Titel'
-    }];
-    this.props.data.reportJson.landmarks.forEach(landmark => {
-      landmark.photos.forEach(photo => {
+    const sections = [
+      {
+        movieSeconds: 0,
+        text: 'Titel'
+      }
+    ];
+    this.props.data.reportJson.landmarks.forEach((landmark) => {
+      landmark.photos.forEach((photo) => {
         if (photo.date) {
           const seconds = this.extractSecondsFromDate(photo.date);
           const secondsDiff = Math.max(1, seconds - lastSeconds);
@@ -172,14 +185,22 @@ class ReportMovie extends React.Component {
       }
     } while (shortestDiff < 10);
 
-    return sections.map(section =>
-      Math.floor(section.movieSeconds / 60).toString().padStart(2, '0') + ':' +
-      Math.floor(section.movieSeconds % 60).toString().padStart(2, '0') + ' ' +
-      section.text
+    return sections.map(
+      (section) =>
+        Math.floor(section.movieSeconds / 60)
+          .toString()
+          .padStart(2, '0') +
+        ':' +
+        Math.floor(section.movieSeconds % 60)
+          .toString()
+          .padStart(2, '0') +
+        ' ' +
+        section.text
     );
   }
 
   componentDidMount() {
+    // noinspection JSIgnoredPromiseFromCall
     this.outputMetadata();
     window.setTimeout(this.nextPhase, 8000);
   }
@@ -258,84 +279,82 @@ class ReportMovie extends React.Component {
 
   renderPhoto(photo, index) {
     const fileName = photo.name;
-    const photoPath = __PATH_PREFIX__ + '/photos' + this.getReportPath() + '/' + fileName + '.jpg';
+    const photoPath = '/photos' + this.getReportPath() + '/' + fileName + '.jpg';
     const isShown = this.state.phase === 'photo' && this.state.photo.name === fileName;
     const opacity = isShown ? 1 : 0;
     const offsetY = isShown ? 75 : -100;
-    return <Fragment key={index}>
-      <Photo
-        id={fileName}
-        src={photoPath}
-        alt={photo.alt}
-        opacity={opacity}
-      />
-      <Label offsetY={offsetY}>{photo.alt}</Label>
-    </Fragment>
+    return (
+      <Fragment key={index}>
+        <Photo id={fileName} src={photoPath} alt={photo.alt} opacity={opacity} />
+        <Label offsetY={offsetY}>{photo.alt}</Label>
+      </Fragment>
+    );
   }
 
   renderLandmark(landmark, index) {
     return (
-      <Landmark key={index} className="landmark">
+      <Landmark key={index} className='landmark'>
         {landmark.photos && landmark.photos.map(this.renderPhoto.bind(this))}
       </Landmark>
-    )
+    );
   }
 
   renderTitle() {
-    const introActive = this.state.phase === 'intro'
-    const {date, title, title3d} = this.props.data.reportJson;
+    const introActive = this.state.phase === 'intro';
+    const { date, title, title3d } = this.props.data.reportJson;
     const fullTitle = title + ' - ' + formatDate(date);
-    return <AnimatedTitle
-      reportPath={this.getReportPath()}
-      title={fullTitle}
-      title3d={title3d}
-      visible={introActive}
-    />;
+    return (
+      <AnimatedTitle reportPath={this.getReportPath()} title={fullTitle} title3d={title3d} visible={introActive} />
+    );
   }
 
   renderLogo() {
-    const introActive = this.state.phase === 'intro'
-    const outroActive = this.state.phase === 'outro'
-    const top = introActive ? 75 : (outroActive ? 50 : 95);
-    const left = (introActive || outroActive) ? 50 : 95;
-    const width = introActive ? 400 : (outroActive ? 800 : 100);
-    return <Logo top={top} left={left} width={width} src={__PATH_PREFIX__ + '/assets/alpinfunk.svg'} />;
+    const introActive = this.state.phase === 'intro';
+    const outroActive = this.state.phase === 'outro';
+    const top = introActive ? 75 : outroActive ? 50 : 95;
+    const left = introActive || outroActive ? 50 : 95;
+    const width = introActive ? 400 : outroActive ? 800 : 100;
+    return <Logo top={top} left={left} width={width} src='/assets/alpinfunk.svg' />;
   }
 
   renderCurtain() {
-    const curtainClosed = this.state.phase === 'intro' || this.state.phase === 'outro'
+    const curtainClosed = this.state.phase === 'intro' || this.state.phase === 'outro';
     const opacity = curtainClosed ? 1 : 0;
     return <Curtain opacity={opacity} />;
   }
 
   buildGpxPath() {
-    return __PATH_PREFIX__ + '/tracks' + this.getReportPath() + '.gpx';
+    return '/tracks' + this.getReportPath() + '.gpx';
   }
 
   renderMap() {
-    const {type, track, timeShift, detailMap, hideSwissTopo} = this.props.data.reportJson;
-    return track && <Map
-      gpxPath={this.buildGpxPath()}
-      time={this.getTargetTime()}
-      timeShift={timeShift}
-      detailMap={detailMap}
-      hideSwissTopo={hideSwissTopo}
-      winter={type !== 'hike'}
-      noUserInterface={true}
-      onTimeReached={this.nextPhase}
-    />
+    const { type, track, timeShift, detailMap, hideSwissTopo } = this.props.data.reportJson;
+    return (
+      track && (
+        <Map
+          gpxPath={this.buildGpxPath()}
+          time={this.getTargetTime()}
+          timeShift={timeShift}
+          detailMap={detailMap}
+          hideSwissTopo={hideSwissTopo}
+          winter={type !== 'hike'}
+          noUserInterface={true}
+          onTimeReached={this.nextPhase}
+        />
+      )
+    );
   }
 
   render() {
     const reportJson = this.props.data.reportJson;
-    reportJson.landmarks = reportJson.landmarks.filter(landmark => {
+    reportJson.landmarks = reportJson.landmarks.filter((landmark) => {
       return landmark.photos.length > 0;
     });
     return (
       <Movie id='movie'>
         <Helmet>
-          <link rel="canonical" href={`/alpine${this.getReportPath()}`} />
-          <meta name="robots" content="noindex" />
+          <link rel='canonical' href={`/alpine${this.getReportPath()}`} />
+          <meta name='robots' content='noindex' />
         </Helmet>
         {this.renderCurtain()}
         {this.renderLogo()}
@@ -351,25 +370,29 @@ export default ReportMovie;
 
 export const pageQuery = graphql`
   query ReportMovieByDestinationAndDate($destination: String!, $date: String!) {
-    reportJson(destination: {eq: $destination}, date: {eq: $date}) {
-      destination, 
-      date, 
-      type, 
-      track, 
-      timeShift, 
-      detailMap, 
-      hideSwissTopo, 
-      title,
-      shortTitle,
+    reportJson(destination: { eq: $destination }, date: { eq: $date }) {
+      destination
+      date
+      type
+      track
+      timeShift
+      detailMap
+      hideSwissTopo
+      title
+      shortTitle
       title3d {
-        offsetY,
-        fontSize,
-        width,
+        offsetY
+        fontSize
+        width
         height
         align
-      },
+      }
       landmarks {
-        photos {name, alt, date}, 
+        photos {
+          name
+          alt
+          date
+        }
       }
     }
   }

@@ -1,10 +1,10 @@
-import React from 'react'
-import { Helmet } from 'react-helmet'
-import { graphql, Link } from 'gatsby'
-import styled from 'styled-components'
-import formatDate from '../utils/formatDate'
-import {cardStyle} from '../styles/basestyle.js'
-import Layout from '../components/layout'
+import React from 'react';
+import { Helmet } from 'react-helmet';
+import { graphql, Link } from 'gatsby';
+import styled from 'styled-components';
+import formatDate from '../utils/formatDate';
+import { cardStyle } from '../styles/basestyle.js';
+import Layout from '../components/layout';
 
 const Title = styled.h1`
   margin: 16px 0 0 16px;
@@ -22,7 +22,7 @@ const FlexCard = styled.div`
   ${cardStyle};
   flex: 1;
   max-width: 600px;
-  background-image: url(${props => props.teaserPath});
+  background-image: url(${(props) => props.teaserPath});
   background-repeat: no-repeat;
 `;
 
@@ -33,11 +33,11 @@ const ReportTitle = styled.h2`
 const ReportTeaser = styled.h2`
   display: block;
   position: relative;
-  color: #FFFFFF;
+  color: #ffffff;
   font-size: 50px !important;
   text-shadow: 2px 2px 4px #000000;
   height: 128px;
-  @media(max-width: 1328px) {
+  @media (max-width: 1328px) {
     font-size: 40px !important;
     line-height: 1.2 !important;
   }
@@ -54,16 +54,16 @@ const renderReport = (report) => {
     <ReportLink key={path} to={path}>
       {formatDate(report.date)} - {report.title}
     </ReportLink>
-  )
+  );
 };
 
 const findTeaserPath = (destination, teaser, type) => {
   if (!teaser) return null;
-  return `${__PATH_PREFIX__}/destinations/${destination}/${type==='hike'?'wandern':'skifahren'}.jpg`;
+  return `/destinations/${destination}/${type === 'hike' ? 'wandern' : 'skifahren'}.jpg`;
 };
 
 const renderReportTitle = (name, teaser, type) => {
-  const title = `${type === 'hike' ? 'Wandern': 'Skifahren'} ${name}`;
+  const title = `${type === 'hike' ? 'Wandern' : 'Skifahren'} ${name}`;
   return teaser ? <ReportTeaser>{title}</ReportTeaser> : <ReportTitle>{title}</ReportTitle>;
 };
 
@@ -95,7 +95,7 @@ const getDestinationDescription = (name, hikeReports, skiReports) => {
 };
 
 const PageDestination = (props) => {
-  const {name, destination, hikeTeaser, skiTeaser} = props.data.destinationJson;
+  const { name, destination, hikeTeaser, skiTeaser } = props.data.destinationJson;
   const reports = props.data.allReportJson.edges.map((element) => element.node);
   const hikeReports = reports.filter((report) => report.type === 'hike');
   const skiReports = reports.filter((report) => report.type !== 'hike');
@@ -120,18 +120,18 @@ const PageDestination = (props) => {
 
 export const pageQuery = graphql`
   query DestinationByDestination($destination: String!) {
-    destinationJson(destination: {eq: $destination}) {
-      name,
-      destination,
-      skiTeaser,
+    destinationJson(destination: { eq: $destination }) {
+      name
+      destination
+      skiTeaser
       hikeTeaser
-    },
-    allReportJson(filter: {destination: {eq: $destination}}, sort: {fields: [date], order:DESC}, limit: 1000) {
+    }
+    allReportJson(filter: { destination: { eq: $destination } }, sort: { fields: [date], order: DESC }, limit: 1000) {
       edges {
         node {
-          destination,
-          date,
-          title,
+          destination
+          date
+          title
           type
         }
       }

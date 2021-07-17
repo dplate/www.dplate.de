@@ -1,10 +1,10 @@
-import React from 'react'
+import React from 'react';
 import { Helmet } from 'react-helmet';
-import { graphql, Link } from 'gatsby'
-import styled from 'styled-components'
-import formatDate from '../utils/formatDate'
-import {cardStyle} from '../styles/basestyle.js'
-import Layout from '../components/layout'
+import { graphql, Link } from 'gatsby';
+import styled from 'styled-components';
+import formatDate from '../utils/formatDate';
+import { cardStyle } from '../styles/basestyle.js';
+import Layout from '../components/layout';
 
 const FlexContainer = styled.div`
   display: flex;
@@ -35,14 +35,16 @@ const renderReportLink = (report) => {
     <Link key={path} to={path}>
       {formatDate(report.node.date)} - {report.node.title}
     </Link>
-  )
+  );
 };
 
-const PageIndex = props => {
+const PageIndex = (props) => {
   return (
     <Layout location={props.location}>
       <div>
-        <Helmet><title>www.dplate.de</title></Helmet>
+        <Helmet>
+          <title>www.dplate.de</title>
+        </Helmet>
         <Title>
           <h1>Herzlich willkommen</h1>
           <p>Hier findest Du ein wildes Sammelsurium von allem, was ich für veröffentlichbar halte.</p>
@@ -53,7 +55,8 @@ const PageIndex = props => {
             <h2>Alpinfunk</h2>
             <p>Diverse Ski- oder Wanderberichte von meinen Ausflügen in die Alpen.</p>
             <p>
-              Neueste Berichte:<br />
+              Neueste Berichte:
+              <br />
               {props.data.allReportJson.edges.map(renderReportLink)}
             </p>
           </FlexCard>
@@ -87,17 +90,17 @@ const PageIndex = props => {
 };
 
 export const pageQuery = graphql`
-  query LatestReport{
-   allReportJson(filter:{}, sort:{fields:[date], order:DESC }, limit:5) {
-     edges {
-       node {
-         destination, 
-         date, 
-         title
-       }
-     }
-   }
- }
+  query LatestReport {
+    allReportJson(filter: {}, sort: { fields: [date], order: DESC }, limit: 5) {
+      edges {
+        node {
+          destination
+          date
+          title
+        }
+      }
+    }
+  }
 `;
 
 export default PageIndex;

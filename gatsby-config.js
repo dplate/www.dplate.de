@@ -5,15 +5,15 @@ module.exports = {
       resolve: 'gatsby-source-filesystem',
       options: {
         path: `${__dirname}/src/reports`,
-        name: 'reports',
-      },
+        name: 'reports'
+      }
     },
     {
       resolve: 'gatsby-source-filesystem',
       options: {
         path: `${__dirname}/src/destinations`,
-        name: 'destinations',
-      },
+        name: 'destinations'
+      }
     },
     'gatsby-plugin-styled-components',
     {
