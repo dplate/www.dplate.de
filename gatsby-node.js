@@ -131,6 +131,16 @@ exports.onCreateWebpackConfig = ({ actions, loaders }) => {
     optimization: {
       usedExports: true
     },
+    resolve: {
+      fallback: {
+        'https': require.resolve("https-browserify"),
+        'http': require.resolve('stream-http'),
+        'zlib': require.resolve('browserify-zlib'),
+        'assert': require.resolve('assert/'),
+        'stream': require.resolve('stream-browserify'),
+        'util': require.resolve('util/')
+      }
+    },
     module: {
       rules: [
         {
