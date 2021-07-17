@@ -19,7 +19,7 @@ const FlexContainer = styled.div`
 `;
 
 const FlexCard = styled.div`
-  ${cardStyle}
+  ${cardStyle};
   flex: 1;
   max-width: 600px;
   background-image: url(${props => props.teaserPath});
@@ -94,7 +94,7 @@ const getDestinationDescription = (name, hikeReports, skiReports) => {
   return name;
 };
 
-export default (props) => {
+const PageDestination = (props) => {
   const {name, destination, hikeTeaser, skiTeaser} = props.data.destinationJson;
   const reports = props.data.allReportJson.edges.map((element) => element.node);
   const hikeReports = reports.filter((report) => report.type === 'hike');
@@ -138,3 +138,5 @@ export const pageQuery = graphql`
     }
   }
 `;
+
+export default PageDestination;

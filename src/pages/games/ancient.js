@@ -9,13 +9,13 @@ const Card = styled.div`
 `;
 
 const Picture = styled.img`
-  ${pictureStyle}
+  ${pictureStyle};
   margin-left: 0;
   margin-right: 0;
   max-width: 100%;
 `;
 
-export default props => {
+const pageAncient = props => {
   return (
     <Layout location={props.location}>
       <div>
@@ -131,3 +131,5 @@ export default props => {
     </Layout>
   );
 };
+
+export default pageAncient;

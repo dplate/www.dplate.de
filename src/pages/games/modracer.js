@@ -12,7 +12,7 @@ const Picture = styled.img`
   ${pictureStyle}
 `;
 
-export default props => {
+const PageModracer = props => {
   return (
     <Layout location={props.location}>
       <div>
@@ -44,7 +44,7 @@ export default props => {
           <h2>Erweiterungen von anderen Spielern</h2>
           <h3>Autos</h3>
           <p><a href={__PATH_PREFIX__ + '/zips/bugatti.zip'}>Bugatti</a></p>
-          <p><a href="/zips/rtufo.zip">Ufo</a></p>
+          <p><a href={__PATH_PREFIX__ + '/zips/rtufo.zip'}>Ufo</a></p>
           <h3>Strecken</h3>
           <p><a href={__PATH_PREFIX__ + '/zips/crossover.zip'}>Crossover</a></p>
           <p><a href={__PATH_PREFIX__ + '/zips/justmap.zip'}>Justmap</a></p>
@@ -59,3 +59,5 @@ export default props => {
     </Layout>
   );
 };
+
+export default PageModracer;

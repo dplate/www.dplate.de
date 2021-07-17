@@ -5,7 +5,7 @@ const shadowStyle = css`
 `;
 
 export const cardStyle = css`
-  ${shadowStyle}
+  ${shadowStyle};
   display:block;
   background-color: white;
   margin: 16px;
@@ -37,7 +37,7 @@ export const cardStyle = css`
 `;
 
 export const pictureStyle = css`
-  ${shadowStyle}
+  ${shadowStyle};
   display: block;
   margin: 16px;
   max-width: calc(100% - 32px);

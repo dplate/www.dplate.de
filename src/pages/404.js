@@ -8,7 +8,7 @@ const Content = styled.div`
   ${cardStyle}
 `;
 
-export default props => {
+const Page404 = props => {
   return (
     <Layout location={props.location}>
       <Content>
@@ -19,3 +19,5 @@ export default props => {
     </Layout>
   );
 };
+
+export default Page404;

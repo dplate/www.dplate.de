@@ -12,7 +12,7 @@ const Picture = styled.img`
   ${pictureStyle}
 `;
 
-export default props => {
+const PageScapeMaker = props => {
   return (
     <Layout location={props.location}>
       <div>
@@ -50,3 +50,5 @@ export default props => {
     </Layout>
   );
 };
+
+export default PageScapeMaker;

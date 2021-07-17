@@ -20,7 +20,7 @@ const VideoWrapper = styled.div`
   ${videoWrapperStyle}
 `;
 
-export default props => {
+const PageKenSentMe = props => {
   return (
     <Layout location={props.location}>
       <div>
@@ -126,3 +126,5 @@ export default props => {
     </Layout>
   );
 };
+
+export default PageKenSentMe;

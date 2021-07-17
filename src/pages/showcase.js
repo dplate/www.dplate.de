@@ -6,7 +6,7 @@ import {cardStyle, pictureStyle} from '../styles/basestyle.js'
 import Layout from '../components/layout'
 
 const Description = styled.div`
-  ${cardStyle}
+  ${cardStyle};
   max-width: 868px;
 `;
 
@@ -14,7 +14,7 @@ const Picture = styled.img`
   ${pictureStyle}
 `;
 
-export default props => {
+const PageShowcase = props => {
   return (
     <Layout location={props.location}>
       <div>
@@ -69,3 +69,5 @@ export default props => {
     </Layout>
   );
 };
+
+export default PageShowcase;

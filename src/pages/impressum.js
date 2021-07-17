@@ -8,7 +8,7 @@ const Content = styled.div`
   ${cardStyle}
 `;
 
-export default props => {
+const PageImpressum = props => {
   return (
     <Layout location={props.location}>
       <Content>
@@ -33,3 +33,5 @@ export default props => {
     </Layout>
   );
 };
+
+export default PageImpressum;

@@ -1,11 +1,12 @@
 import React from 'react'
+import { withPrefix } from 'gatsby'
 import PropTypes from 'prop-types';
 import styled, { keyframes } from 'styled-components'
 import * as Cesium from 'cesium';
+import { Helmet } from 'react-helmet';
 import resizeIcon from '../icons/resize.svg'
 import closeIcon from '../icons/close.svg'
 import mapIcon from '../icons/map.svg'
-import 'cesium/Build/Cesium/Widgets/widgets.css';
 
 const CesiumContainer = styled.div`
   position: fixed;
@@ -567,6 +568,9 @@ class Map extends React.Component {
   render() {
     return (
       <div>
+        <Helmet>
+          <link href={withPrefix('Cesium/Widgets/widgets.css')} rel="stylesheet" type="text/css" />
+        </Helmet>
         <CesiumContainer
           id="cesiumContainer"
           className={this.state.size + ' ' + this.state.mapStatus}

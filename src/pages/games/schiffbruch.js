@@ -20,7 +20,7 @@ const Picture = styled.img`
   ${pictureStyle}
 `;
 
-export default props => {
+const PageSchiffbruch = props => {
   return (
     <Layout location={props.location}>
       <div>
@@ -115,3 +115,5 @@ export default props => {
     </Layout>
   );
 };
+
+export default PageSchiffbruch;

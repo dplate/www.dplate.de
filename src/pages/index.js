@@ -13,7 +13,7 @@ const FlexContainer = styled.div`
 `;
 
 const FlexCard = styled.div`
-  ${cardStyle}
+  ${cardStyle};
   flex-basis: 300px;
   a {
     display: block;
@@ -25,7 +25,7 @@ const FlexCard = styled.div`
 `;
 
 const Title = styled.div`
-  ${cardStyle}
+  ${cardStyle};
   max-width: 664px;
 `;
 
@@ -38,7 +38,7 @@ const renderReportLink = (report) => {
   )
 };
 
-export default props => {
+const PageIndex = props => {
   return (
     <Layout location={props.location}>
       <div>
@@ -99,3 +99,5 @@ export const pageQuery = graphql`
    }
  }
 `;
+
+export default PageIndex;

@@ -113,16 +113,7 @@ exports.createPages = ({ actions, graphql }) => {
   return Promise.all([reports, reportMovies, destinations]);
 };
 
-exports.onCreateWebpackConfig = ({ stage, actions, loaders }) => {
-  if (stage.startsWith("develop")) {
-    actions.setWebpackConfig({
-      resolve: {
-        alias: {
-          "react-dom": "@hot-loader/react-dom",
-        },
-      },
-    })
-  }
+exports.onCreateWebpackConfig = ({ actions, loaders }) => {
   actions.setWebpackConfig({
     plugins: [
       new CopyWebpackPlugin({
