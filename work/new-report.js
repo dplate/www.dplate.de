@@ -90,7 +90,7 @@ const newReport = async () => {
       outro: 'TODO'
     };
     fs.mkdirSync(reportPath, { recursive: true });
-    fs.writeFileSync(reportFile, JSON.stringify(report, null, 2));
+    fs.writeFileSync(reportFile, JSON.stringify([ report ], null, 2));
     console.log(reportFile, 'created');
   }
 };
