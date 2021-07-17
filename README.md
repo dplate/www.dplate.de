@@ -35,4 +35,4 @@ Open movie version of a report by appending `/movie` to URL e.g.
 http://localhost:8000/alpine/pizol/20201114/movie
 
 Press `F11` for fullscreen, then `F5` for fresh reload and then `WIN+ALT+R` (Windows10 only) to start recording. At end
-of movie press `WIN+ALT+R` again to save video. Also checkout console for useful metadata of video.
+of movie press `WIN+ALT+R` again to save video. Also, checkout console for useful metadata of video.
