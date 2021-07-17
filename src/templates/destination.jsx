@@ -4,7 +4,7 @@ import { graphql, Link } from 'gatsby';
 import styled from 'styled-components';
 import formatDate from '../utils/formatDate';
 import { cardStyle } from '../styles/basestyle.js';
-import Layout from '../components/layout';
+import Layout from '../components/layout.jsx';
 
 const Title = styled.h1`
   margin: 16px 0 0 16px;

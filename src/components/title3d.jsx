@@ -64,7 +64,7 @@ const Title3D = ({ reportPath, title, offsetY, fontSize, width, height, align, s
   }
   const yMovement = initialYOffset - currentYOffset;
   return (
-    <Wrapper id='title3d' ref={containerRef} style={{ textAlign: align }}>
+    <Wrapper id="title3d" ref={containerRef} style={{ textAlign: align }}>
       <Background
         src={'/photos' + reportPath + '/' + backgroundFile}
         style={{ top: yMovement / 20 + 'vh' }}

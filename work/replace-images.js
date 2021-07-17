@@ -136,7 +136,7 @@ const copyTrack = (destination, date, srcPhotosPath) => {
   }
 };
 
-(async function() {
+(async function () {
   if (process.argv.length < 5) {
     throw 'Missing required parameters. destination, date and srcPath are required.';
   }

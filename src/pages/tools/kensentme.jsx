@@ -2,7 +2,7 @@ import React from 'react';
 import { Helmet } from 'react-helmet';
 import styled from 'styled-components';
 import { cardStyle, pictureStyle, videoContainerStyle, videoWrapperStyle } from '../../styles/basestyle.js';
-import Layout from '../../components/layout';
+import Layout from '../../components/layout.jsx';
 
 const Card = styled.div`
   ${cardStyle}
@@ -40,15 +40,15 @@ const PageKenSentMe = (props) => {
           </p>
         </Card>
 
-        <Picture src='/screenshots/kensentme.jpg' alt='KenSentMe Benutzeroberfläche' />
+        <Picture src="/screenshots/kensentme.jpg" alt="KenSentMe Benutzeroberfläche" />
 
         <VideoContainer>
           <VideoWrapper>
             <iframe
-              src='https://www.youtube.com/embed/mwb6_sKLWNE?wmode=transparent'
-              frameBorder='0'
+              src="https://www.youtube.com/embed/mwb6_sKLWNE?wmode=transparent"
+              frameBorder="0"
               allowFullScreen
-              title='Beispiel 1'
+              title="Beispiel 1"
             />
           </VideoWrapper>
         </VideoContainer>
@@ -56,10 +56,10 @@ const PageKenSentMe = (props) => {
         <VideoContainer>
           <VideoWrapper>
             <iframe
-              src='https://www.youtube.com/embed/keunot3XZfw?wmode=transparent'
-              frameBorder='0'
+              src="https://www.youtube.com/embed/keunot3XZfw?wmode=transparent"
+              frameBorder="0"
               allowFullScreen
-              title='Beispiel 2'
+              title="Beispiel 2"
             />
           </VideoWrapper>
         </VideoContainer>
@@ -67,10 +67,10 @@ const PageKenSentMe = (props) => {
         <VideoContainer>
           <VideoWrapper>
             <iframe
-              src='https://www.youtube.com/embed/16ay-Kw0TcM?wmode=transparent'
-              frameBorder='0'
+              src="https://www.youtube.com/embed/16ay-Kw0TcM?wmode=transparent"
+              frameBorder="0"
               allowFullScreen
-              title='Beispiel 3'
+              title="Beispiel 3"
             />
           </VideoWrapper>
         </VideoContainer>
@@ -79,10 +79,10 @@ const PageKenSentMe = (props) => {
           <h2>Systemanforderungen</h2>
           <ul>
             <li>
-              <a href='https://java.com/de/download/'>Java</a>
+              <a href="https://java.com/de/download/">Java</a>
             </li>
             <li>
-              Optional um h264 Videos zu erstellen: <a href='https://www.ffmpeg.org/index.html'>ffmpeg</a>
+              Optional um h264 Videos zu erstellen: <a href="https://www.ffmpeg.org/index.html">ffmpeg</a>
             </li>
           </ul>
         </Card>
@@ -91,19 +91,19 @@ const PageKenSentMe = (props) => {
           <h2>Downloads</h2>
           <h3>Windows 64Bit</h3>
           <p>
-            <a href='/zips/kensentme_win64.zip'>kensentme_win64.zip: 1,7 MByte</a>
+            <a href="/zips/kensentme_win64.zip">kensentme_win64.zip: 1,7 MByte</a>
           </p>
           <h3>Windows 32Bit</h3>
           <p>
-            <a href='/zips/kensentme_win32.zip'>kensentme_win32.zip: 1,5 MByte</a>
+            <a href="/zips/kensentme_win32.zip">kensentme_win32.zip: 1,5 MByte</a>
           </p>
           <h3>Linux 64Bit</h3>
           <p>
-            <a href='/zips/kensentme_linux64.zip'>kensentme_linux64.zip: 1,5 MByte</a>
+            <a href="/zips/kensentme_linux64.zip">kensentme_linux64.zip: 1,5 MByte</a>
           </p>
           <h3>MacOs 64Bit</h3>
           <p>
-            <a href='/zips/kensentme_mac64.zip'>kensentme_mac64.zip: 1,5 MByte</a>
+            <a href="/zips/kensentme_mac64.zip">kensentme_mac64.zip: 1,5 MByte</a>
           </p>
         </Card>
 
@@ -154,8 +154,8 @@ const PageKenSentMe = (props) => {
         <Card>
           <h2>Credits</h2>
           Zur Erzeugung des mjpeg Videos verwende ich die Library{' '}
-          <a href='https://randelshofer.ch/blog/?p=43'>AVIOutputStream</a> von{' '}
-          <a href='https://www.randelshofer.ch/'>Werner Randelshofer</a>.
+          <a href="https://randelshofer.ch/blog/?p=43">AVIOutputStream</a> von{' '}
+          <a href="https://www.randelshofer.ch/">Werner Randelshofer</a>.
         </Card>
       </div>
     </Layout>

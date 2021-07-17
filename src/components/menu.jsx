@@ -91,7 +91,7 @@ const renderSubTitle = (item, forceUpdate) => {
   return (
     <div
       className={item.selected ? 'selected' : ''}
-      role='presentation'
+      role="presentation"
       onClick={boundToggleSub}
       onKeyDown={boundToggleSub}
     >

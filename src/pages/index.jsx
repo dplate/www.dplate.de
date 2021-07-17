@@ -4,7 +4,7 @@ import { graphql, Link } from 'gatsby';
 import styled from 'styled-components';
 import formatDate from '../utils/formatDate';
 import { cardStyle } from '../styles/basestyle.js';
-import Layout from '../components/layout';
+import Layout from '../components/layout.jsx';
 
 const FlexContainer = styled.div`
   display: flex;

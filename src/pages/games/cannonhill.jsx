@@ -2,7 +2,7 @@ import React from 'react';
 import { Helmet } from 'react-helmet';
 import styled from 'styled-components';
 import { cardStyle, pictureStyle } from '../../styles/basestyle.js';
-import Layout from '../../components/layout';
+import Layout from '../../components/layout.jsx';
 
 const Card = styled.div`
   ${cardStyle}
@@ -29,7 +29,7 @@ const PageCannonhill = (props) => {
             Zwischen den Spielrunden kann man sich in einem Laden mit neuen Waffen eindecken.
           </p>
         </Card>
-        <Picture src='/screenshots/cannonhill.jpg' />
+        <Picture src="/screenshots/cannonhill.jpg" />
         <Card>
           <h2>Systemanforderungen</h2>
           <ul>
@@ -44,11 +44,11 @@ const PageCannonhill = (props) => {
         <Card>
           <h2>Installationsprogramm für Windows</h2>
           <p>
-            <a href='/zips/cannonhill.exe'>cannonhill.exe: 1,2 MByte</a>
+            <a href="/zips/cannonhill.exe">cannonhill.exe: 1,2 MByte</a>
           </p>
           <h2>Sourcecode für C++ mit DirectxSDK</h2>
           <p>
-            <a href='/zips/cannonhillsdk.zip'>cannonhillsdk.zip: 477 kByte</a>
+            <a href="/zips/cannonhillsdk.zip">cannonhillsdk.zip: 477 kByte</a>
           </p>
         </Card>
       </div>

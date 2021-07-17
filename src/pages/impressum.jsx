@@ -2,7 +2,7 @@ import React from 'react';
 import { Helmet } from 'react-helmet';
 import styled from 'styled-components';
 import { cardStyle } from '../styles/basestyle.js';
-import Layout from '../components/layout';
+import Layout from '../components/layout.jsx';
 
 const Content = styled.div`
   ${cardStyle}
@@ -25,7 +25,7 @@ const PageImpressum = (props) => {
           CH-8596 Scherzingen
         </p>
         <p>
-          <a href='mailto:email@dplate.de'>email@dplate.de</a>
+          <a href="mailto:email@dplate.de">email@dplate.de</a>
         </p>
         <h2>Haftungsausschluss</h2>
         <p>
@@ -76,7 +76,7 @@ const PageImpressum = (props) => {
         <p>
           Sie können der Erhebung der Daten durch Google-Analytics mit Wirkung für die Zukunft widersprechen, indem sie
           ein Deaktivierungs-Add-on für Ihren Browser installieren:{' '}
-          <a href='https://tools.google.com/dlpage/gaoptout?hl=de' target='_blank' rel='noopener noreferrer'>
+          <a href="https://tools.google.com/dlpage/gaoptout?hl=de" target="_blank" rel="noopener noreferrer">
             https://tools.google.com/dlpage/gaoptout?hl=de
           </a>
         </p>

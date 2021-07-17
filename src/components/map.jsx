@@ -624,11 +624,11 @@ class Map extends React.Component {
       const timeParts = this.props.time.split('T')[1].split(':');
       const formattedTime = `${timeParts[0]}:${timeParts[1]}`;
       return [
-        <TimeBar key='timeBar' className={this.state.size}>
+        <TimeBar key="timeBar" className={this.state.size}>
           {formattedTime}
         </TimeBar>,
-        <MapIcon key='mapIcon' src={mapIcon} />,
-        <MapInfo key='mapInfo'>Karte</MapInfo>
+        <MapIcon key="mapIcon" src={mapIcon} />,
+        <MapInfo key="mapInfo">Karte</MapInfo>
       ];
     }
   }
@@ -637,10 +637,10 @@ class Map extends React.Component {
     return (
       <div>
         <Helmet>
-          <link href={withPrefix('Cesium/Widgets/widgets.css')} rel='stylesheet' type='text/css' />
+          <link href={withPrefix('Cesium/Widgets/widgets.css')} rel="stylesheet" type="text/css" />
         </Helmet>
         <CesiumContainer
-          id='cesiumContainer'
+          id="cesiumContainer"
           className={this.state.size + ' ' + this.state.mapStatus}
           onClick={this.props.onClick}
         />

@@ -2,7 +2,7 @@ import React from 'react';
 import { Helmet } from 'react-helmet';
 import styled from 'styled-components';
 import { cardStyle, pictureStyle } from '../../styles/basestyle.js';
-import Layout from '../../components/layout';
+import Layout from '../../components/layout.jsx';
 
 const Card = styled.div`
   ${cardStyle}
@@ -28,7 +28,7 @@ const PageModracer = (props) => {
             hinzugefügt werden.
           </p>
         </Card>
-        <Picture src='/screenshots/modracer.jpg' />
+        <Picture src="/screenshots/modracer.jpg" />
         <Card>
           <h2>Systemanforderungen</h2>
           <ul>
@@ -40,44 +40,44 @@ const PageModracer = (props) => {
         <Card>
           <h2>Zip-Datei mit dem Spiel</h2>
           <p>
-            <a href='/zips/modracer.zip'>modracer.zip: 2,9 MByte</a>
+            <a href="/zips/modracer.zip">modracer.zip: 2,9 MByte</a>
           </p>
           <h2>Sourcecode für C++ mit DirectxSDK</h2>
           <p>
-            <a href='/zips/modracersdk.zip'>modracersdk.zip: 2,7 MByte</a>
+            <a href="/zips/modracersdk.zip">modracersdk.zip: 2,7 MByte</a>
           </p>
         </Card>
         <Card>
           <h2>Erweiterungen von anderen Spielern</h2>
           <h3>Autos</h3>
           <p>
-            <a href='/zips/bugatti.zip'>Bugatti</a>
+            <a href="/zips/bugatti.zip">Bugatti</a>
           </p>
           <p>
-            <a href='/zips/rtufo.zip'>Ufo</a>
+            <a href="/zips/rtufo.zip">Ufo</a>
           </p>
           <h3>Strecken</h3>
           <p>
-            <a href='/zips/crossover.zip'>Crossover</a>
+            <a href="/zips/crossover.zip">Crossover</a>
           </p>
           <p>
-            <a href='/zips/justmap.zip'>Justmap</a>
+            <a href="/zips/justmap.zip">Justmap</a>
           </p>
           <p>
-            <a href='/zips/konstanz.zip'>Konstanz</a>
+            <a href="/zips/konstanz.zip">Konstanz</a>
           </p>
           <p>
-            <a href='/zips/kuhmap.zip'>Kuhmap</a>
+            <a href="/zips/kuhmap.zip">Kuhmap</a>
           </p>
           <p>
-            <a href='/zips/schnecke.zip'>Schnecke</a>
+            <a href="/zips/schnecke.zip">Schnecke</a>
           </p>
           <p>
-            <a href='/zips/wueste.zip'>Wüste</a>
+            <a href="/zips/wueste.zip">Wüste</a>
           </p>
           <h3>Straßenset</h3>
           <p>
-            <a href='/zips/desert.zip'>Desert</a>
+            <a href="/zips/desert.zip">Desert</a>
           </p>
         </Card>
       </div>

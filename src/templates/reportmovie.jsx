@@ -1,7 +1,7 @@
 import React, { Fragment } from 'react';
 import { Helmet } from 'react-helmet';
-import Map from '../components/map';
-import AnimatedTitle from '../components/animatedtitle.js';
+import Map from '../components/map.jsx';
+import AnimatedTitle from '../components/animatedtitle.jsx';
 import { graphql } from 'gatsby';
 import styled from 'styled-components';
 import formatDate from '../utils/formatDate.js';
@@ -34,7 +34,8 @@ const Logo = styled.img.attrs(({ width, top, left }) => ({
   position: fixed;
   transform: translate(-50%, -50%);
   z-index: 6;
-  filter: invert(100%) sepia(0%) saturate(7444%) hue-rotate(88deg) brightness(123%) contrast(111%) drop-shadow(0 0 4px black);
+  filter: invert(100%) sepia(0%) saturate(7444%) hue-rotate(88deg) brightness(123%) contrast(111%)
+    drop-shadow(0 0 4px black);
   transition: width 5s ease-in-out, top 5s ease-in-out, left 5s ease-in-out;
 `;
 
@@ -293,7 +294,7 @@ class ReportMovie extends React.Component {
 
   renderLandmark(landmark, index) {
     return (
-      <Landmark key={index} className='landmark'>
+      <Landmark key={index} className="landmark">
         {landmark.photos && landmark.photos.map(this.renderPhoto.bind(this))}
       </Landmark>
     );
@@ -314,7 +315,7 @@ class ReportMovie extends React.Component {
     const top = introActive ? 75 : outroActive ? 50 : 95;
     const left = introActive || outroActive ? 50 : 95;
     const width = introActive ? 400 : outroActive ? 800 : 100;
-    return <Logo top={top} left={left} width={width} src='/assets/alpinfunk.svg' />;
+    return <Logo top={top} left={left} width={width} src="/assets/alpinfunk.svg" />;
   }
 
   renderCurtain() {
@@ -351,10 +352,10 @@ class ReportMovie extends React.Component {
       return landmark.photos.length > 0;
     });
     return (
-      <Movie id='movie'>
+      <Movie id="movie">
         <Helmet>
-          <link rel='canonical' href={`/alpine${this.getReportPath()}`} />
-          <meta name='robots' content='noindex' />
+          <link rel="canonical" href={`/alpine${this.getReportPath()}`} />
+          <meta name="robots" content="noindex" />
         </Helmet>
         {this.renderCurtain()}
         {this.renderLogo()}

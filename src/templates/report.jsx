@@ -1,13 +1,13 @@
 import React from 'react';
 import { Helmet } from 'react-helmet';
 import styled from 'styled-components';
-import Map from '../components/map';
-import Title3D from '../components/title3d';
+import Map from '../components/map.jsx';
+import Title3D from '../components/title3d.jsx';
 import { videoContainerStyle, videoWrapperStyle } from '../styles/basestyle.js';
 import formatDate from '../utils/formatDate';
 import gpxIcon from '../icons/gpx.svg';
 import { graphql, Link } from 'gatsby';
-import Layout from '../components/layout';
+import Layout from '../components/layout.jsx';
 
 const Content = styled.div`
   display: block;
@@ -207,7 +207,7 @@ class Report extends React.Component {
         <VideoWrapper>
           <iframe
             src={`https://www.youtube.com/embed/${video}?wmode=transparent`}
-            frameBorder='0'
+            frameBorder="0"
             allowFullScreen
             title={video}
           />
@@ -218,7 +218,7 @@ class Report extends React.Component {
 
   renderLandmark(landmark, index) {
     return (
-      <Landmark key={index} className='landmark'>
+      <Landmark key={index} className="landmark">
         {landmark.photos && landmark.photos.map(this.renderPhoto.bind(this))}
         {landmark.videos && landmark.videos.map(this.renderVideo.bind(this))}
         <Chapter dangerouslySetInnerHTML={{ __html: landmark.text }} />
@@ -264,7 +264,7 @@ class Report extends React.Component {
           window.ga && window.ga('send', 'event', 'gpxDownload', 'click');
         }}
       >
-        <img src={gpxIcon} alt='Download GPX Track' title='Download GPX Track' width='50px' height='50px' />
+        <img src={gpxIcon} alt="Download GPX Track" title="Download GPX Track" width="50px" height="50px" />
       </GpxDownload>
     );
   }
@@ -282,14 +282,14 @@ class Report extends React.Component {
         <Content>
           <Helmet>
             <title>{pageTitle}</title>
-            <meta name='description' property='og:description' content={this.buildPageDescription(title, type, date)} />
-            <meta property='og:title' content={pageTitle} />
-            <meta property='og:type' content='website' />
-            <meta property='og:url' content={`https://www.dplate.de/alpine${reportPath}`} />
-            {title3d && <meta property='og:image' content={`https://www.dplate.de/photos${reportPath}/title.jpg`} />}
-            {movie && <meta property='og:video' content={`https://youtu.be/${movie}`} />}
-            {movie && <meta property='og:video:height' content='1920' />}
-            {movie && <meta property='og:video:width' content='1080' />}
+            <meta name="description" property="og:description" content={this.buildPageDescription(title, type, date)} />
+            <meta property="og:title" content={pageTitle} />
+            <meta property="og:type" content="website" />
+            <meta property="og:url" content={`https://www.dplate.de/alpine${reportPath}`} />
+            {title3d && <meta property="og:image" content={`https://www.dplate.de/photos${reportPath}/title.jpg`} />}
+            {movie && <meta property="og:video" content={`https://youtu.be/${movie}`} />}
+            {movie && <meta property="og:video:height" content="1920" />}
+            {movie && <meta property="og:video:width" content="1080" />}
           </Helmet>
           {!title3d && <h1>{fullTitle}</h1>}
           {title3d && (
@@ -327,7 +327,7 @@ class Report extends React.Component {
                 <VideoWrapper>
                   <iframe
                     src={`https://www.youtube.com/embed/${movie}?wmode=transparent`}
-                    frameBorder='0'
+                    frameBorder="0"
                     allowFullScreen
                     title={title}
                   />
@@ -337,11 +337,11 @@ class Report extends React.Component {
           )}
           <Ad>
             <h2>Zu schlechtes Wetter um selbst in die Berge zu gehen?</h2>
-            <Link to='/games/draw-a-mountain'>
-              <img src='/screenshots/draw-a-mountain.jpg' alt='Draw-A-Mountain' width='1024' height='500' />
+            <Link to="/games/draw-a-mountain">
+              <img src="/screenshots/draw-a-mountain.jpg" alt="Draw-A-Mountain" width="1024" height="500" />
             </Link>
             <p>
-              Probiere doch mein kostenloses Spiel <Link to='/games/draw-a-mountain'>"Draw-A-Mountain"</Link> aus.
+              Probiere doch mein kostenloses Spiel <Link to="/games/draw-a-mountain">"Draw-A-Mountain"</Link> aus.
             </p>
           </Ad>
         </Content>

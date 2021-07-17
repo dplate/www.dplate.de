@@ -3,7 +3,7 @@ import logoIcon from '../icons/logo.png';
 import menuIcon from '../icons/menu.svg';
 import styled from 'styled-components';
 import { graphql, Link, StaticQuery } from 'gatsby';
-import Menu from '../components/menu';
+import Menu from './menu.jsx';
 
 const Header = styled.div`
   background-color: #cfe0c3;
@@ -137,12 +137,12 @@ class Layout extends React.Component {
               <Content>{this.props.children}</Content>
               <Header className={this.state.showHeader ? 'showHeader' : ''}>
                 <MenuButton onClick={this.toggleMenu}>
-                  <img src={menuIcon} width='24px' height='24px' alt='Menü' />
+                  <img src={menuIcon} width="24px" height="24px" alt="Menü" />
                   <MenuText>Menü</MenuText>
                 </MenuButton>
-                <Link to='/'>
+                <Link to="/">
                   <Title>www.dplate.de</Title>
-                  <Logo src={logoIcon} width='48px' height='48px' alt='' />
+                  <Logo src={logoIcon} width="48px" height="48px" alt="" />
                 </Link>
               </Header>
               {this.state.showMenu && (

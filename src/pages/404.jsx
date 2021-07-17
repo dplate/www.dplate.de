@@ -2,7 +2,7 @@ import React from 'react';
 import { Helmet } from 'react-helmet';
 import styled from 'styled-components';
 import { cardStyle } from '../styles/basestyle.js';
-import Layout from '../components/layout';
+import Layout from '../components/layout.jsx';
 
 const Content = styled.div`
   ${cardStyle}

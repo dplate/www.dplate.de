@@ -2,7 +2,7 @@ import React from 'react';
 import { Helmet } from 'react-helmet';
 import styled from 'styled-components';
 import { cardStyle, pictureStyle } from '../../styles/basestyle.js';
-import Layout from '../../components/layout';
+import Layout from '../../components/layout.jsx';
 
 const Card = styled.div`
   ${cardStyle}
@@ -37,7 +37,7 @@ const PageSchiffbruch = (props) => {
             Ziel ist die Insel zu verlassen. Es ist ein Genremix aus Aufbau, Strategie und Adventure.
           </p>
         </Card>
-        <Picture src='/screenshots/schiffbruch.jpg' />
+        <Picture src="/screenshots/schiffbruch.jpg" />
         <Card>
           <h2>Systemanforderungen</h2>
           <ul>
@@ -52,14 +52,14 @@ const PageSchiffbruch = (props) => {
         <Card>
           <h2>Installationsprogramm für Windows</h2>
           <p>
-            Deutsch: <a href='/zips/schiffbruch.exe'>schiffbruch.exe: 1 MByte</a>
+            Deutsch: <a href="/zips/schiffbruch.exe">schiffbruch.exe: 1 MByte</a>
           </p>
           <p>
-            Englisch: <a href='/zips/sbenglish.exe'>sbenglish.exe: 1 MByte</a>
+            Englisch: <a href="/zips/sbenglish.exe">sbenglish.exe: 1 MByte</a>
           </p>
           <h2>Original Sourcecode für C++ mit DirectxSDK</h2>
           <p>
-            <a href='/zips/schiffbruchsdk.zip'>schiffbruchsdk.zip: 487 kByte</a>
+            <a href="/zips/schiffbruchsdk.zip">schiffbruchsdk.zip: 487 kByte</a>
           </p>
         </Card>
         <Card>
@@ -67,15 +67,15 @@ const PageSchiffbruch = (props) => {
           <h3>Mobile Ports von Johannes Tscholl</h3>
           <ul>
             <li>
-              <a href='https://play.google.com/store/apps/details?id=com.johannestscholl.schiffbruch&hl=de'>Android</a>
+              <a href="https://play.google.com/store/apps/details?id=com.johannestscholl.schiffbruch&hl=de">Android</a>
             </li>
             <li>
-              <a href='https://itunes.apple.com/de/app/schiffbruch/id1034225507?mt=8'>IOS</a>
+              <a href="https://itunes.apple.com/de/app/schiffbruch/id1034225507?mt=8">IOS</a>
             </li>
           </ul>
           <h3>Modernisierter Sourcecode von Lukas Dürrenberger</h3>
           <p>
-            <a href='https://github.com/eXpl0it3r/Schiffbruch'>Github</a>
+            <a href="https://github.com/eXpl0it3r/Schiffbruch">Github</a>
           </p>
         </Card>
         <Card>
@@ -132,8 +132,7 @@ const PageSchiffbruch = (props) => {
           <h3>c't (12,2000)</h3>
           <p>
             "Schiffbruch ist eine Überlebenssimulation, sozusagen 'Die Sims' auf einer einsamen Insel. [...] Der Reiz
-            liegt in der Erkundung der Insel und dem Herstellen neuer Werkzeuge, Behausungen und Gerätschaften.
-            [...]"{' '}
+            liegt in der Erkundung der Insel und dem Herstellen neuer Werkzeuge, Behausungen und Gerätschaften. [...]"{' '}
           </p>
         </Card>
       </div>

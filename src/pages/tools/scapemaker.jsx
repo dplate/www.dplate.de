@@ -2,7 +2,7 @@ import React from 'react';
 import { Helmet } from 'react-helmet';
 import styled from 'styled-components';
 import { cardStyle, pictureStyle } from '../../styles/basestyle.js';
-import Layout from '../../components/layout';
+import Layout from '../../components/layout.jsx';
 
 const Card = styled.div`
   ${cardStyle}
@@ -30,9 +30,9 @@ const PageScapeMaker = (props) => {
             3D-Engine in Echtzeit besichtigt und Screenshots angefertigt werden.
           </p>
         </Card>
-        <Picture src='/screenshots/scapemaker1.jpg' />
-        <Picture src='/screenshots/scapemaker2.jpg' />
-        <Picture src='/screenshots/scapemaker3.jpg' />
+        <Picture src="/screenshots/scapemaker1.jpg" />
+        <Picture src="/screenshots/scapemaker2.jpg" />
+        <Picture src="/screenshots/scapemaker3.jpg" />
         <Card>
           <h2>Systemanforderungen</h2>
           <ul>
@@ -43,11 +43,11 @@ const PageScapeMaker = (props) => {
         <Card>
           <h2>Installationsprogramm für Windows</h2>
           <p>
-            <a href='/zips/ScapeMakerSetup_1_3.exe'>ScapeMakerSetup_1_3.exe: 4,4 MByte</a>
+            <a href="/zips/ScapeMakerSetup_1_3.exe">ScapeMakerSetup_1_3.exe: 4,4 MByte</a>
           </p>
           <h2>Original Sourcecode für C++ mit DirectxSDK</h2>
           <p>
-            <a href='/zips/scapemakersdk.zip'>scapemakersdk.zip: 17 MByte</a>
+            <a href="/zips/scapemakersdk.zip">scapemakersdk.zip: 17 MByte</a>
           </p>
         </Card>
       </div>
