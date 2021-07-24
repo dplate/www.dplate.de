@@ -1,0 +1,695 @@
+[
+  {
+    "destination": "praettigau",
+    "date": "d20210721",
+    "type": "hike",
+    "track": true,
+    "detailMap": "swiss",
+    "shortTitle": "Rätschenhorn",
+    "title": "Klosters - Rätschenhorn",
+    "title3d": {
+      "offsetY": 2,
+      "fontSize": 7.5,
+      "align": "left",
+      "width": 1920,
+      "height": 429
+    },
+    "movie": "mLTGhUxlPsQ",
+    "intro": "An diesem Mittwoch sollten trotz Sonnenschein die Temperaturen unter 30° bleiben und auch keine Gewitter drohen. Deshalb nahm ich mir frei, um eine längere Wanderung auf das 2700m hohe Rätschenhorn bei Klosters zu unternehmen.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Klosters Madrisabahn",
+            "date": "2021-07-21T08:47:23.000+02:00",
+            "width": 1665,
+            "height": 1080
+          }
+        ],
+        "text": "Von Klosters auf das Rätschenhorn wäre arg weit. Deshalb nahm ich die Gondelbahn für 23CHF, nachdem ich mein Auto um 8:40 auf dem Parkplatz abgestellt hatte. Dabei ist zu beachten, dass nur die Stellplätze direkt an der Bahn gebührenfrei sind."
+      },
+      {
+        "photos": [
+          {
+            "name": "002",
+            "alt": "Gondelbahn Madrisa",
+            "date": "2021-07-21T08:48:09.000+02:00",
+            "width": 1786,
+            "height": 1080
+          }
+        ],
+        "text": "Blick die Trasse hinauf. Mit der Bahn erschummelte ich mir die ersten 750 Höhenmeter vom 1100m hohen Klosters zur 1850m hohen Bergstation."
+      },
+      {
+        "photos": [
+          {
+            "name": "003",
+            "alt": "Madrisa Land",
+            "date": "2021-07-21T09:03:43.000+02:00",
+            "width": 1920,
+            "height": 901
+          }
+        ],
+        "text": "Nun begann aber wirklich die Wanderung. Blick zurück auf die Bergstation, das große Restaurant und das Madrisa Land - ein kleiner Vergnügungspark für Kinder. Um diese Uhrzeit noch alles total verlassen."
+      },
+      {
+        "photos": [
+          {
+            "name": "004",
+            "alt": "Skilift Glatteggen",
+            "date": "2021-07-21T09:12:50.000+02:00",
+            "width": 1920,
+            "height": 766
+          }
+        ],
+        "text": "Ich folgte nicht dem direkten Weg zum Rätschenhorn, da ich den Aufstieg über die Saaser Calanda machen wollte. Deshalb ging es erst einmal Richtung Mässplatte am Hang entlang - vorbei an der Talstation des Skilifts Glatteggen."
+      },
+      {
+        "photos": [
+          {
+            "name": "005",
+            "alt": "Wasserfall Madrisa",
+            "date": "2021-07-21T09:19:55.000+02:00",
+            "width": 1779,
+            "height": 1080
+          }
+        ],
+        "text": "Ein Hinweisschild lockte mich und ich stieg ein paar Meter zu diesem schönen Wasserfall ab. Die Gischt war erfrischend. Da die Bäche zur Zeit viel Wasser haben, konnte ich unten nicht weiter und musste den selben Weg zurück."
+      },
+      {
+        "photos": [
+          {
+            "name": "006",
+            "alt": "Grillstelle am Bach",
+            "date": "2021-07-21T09:25:32.000+02:00",
+            "width": 1673,
+            "height": 1080
+          }
+        ],
+        "text": "Direkt oberhalb des Wasserfalls führt eine Holzbrücke über den rauschenden Bach. Dort gibt es auch eine schöne Grillstelle. Da ich mich hier noch im Bereich diverser Rund- und Themenwege befand, war natürlich alles sehr gut ausgebaut."
+      },
+      {
+        "photos": [
+          {
+            "name": "007",
+            "alt": "Aussichtspunkt Mässplatte",
+            "date": "2021-07-21T09:30:24.000+02:00",
+            "width": 1920,
+            "height": 854
+          }
+        ],
+        "text": "Die lockere Querung des Hangs endete hier am Aussichtpunkt Mässplatte, wo man einen schönen Blick hinüber zum Gotschnagrat und Weissfluh-Gipfel von Davos-Parsenn hat."
+      },
+      {
+        "photos": [
+          {
+            "name": "008",
+            "alt": "Wanderweg über Blumenwiese",
+            "date": "2021-07-21T09:36:02.000+02:00",
+            "width": 1538,
+            "height": 1080
+          }
+        ],
+        "text": "Eigentlich fing erst jetzt die richtige Wanderung an: Auf schmalem Weg ging es nun gleich steil den blumenreichen Hang hinauf."
+      },
+      {
+        "photos": [
+          {
+            "name": "009",
+            "alt": "Aufstieg Mässplatte",
+            "date": "2021-07-21T09:46:18.000+02:00",
+            "width": 1823,
+            "height": 1080
+          },
+          {
+            "name": "010",
+            "alt": "Prättigau",
+            "date": "2021-07-21T09:47:20.000+02:00",
+            "width": 1695,
+            "height": 1080
+          }
+        ],
+        "text": "Den ersten Anstieg fand ich ziemlich anstrengend, da die Luft irgendwie drückend war. Dafür öffnete sich jetzt der Blick das Prättigau hinab."
+      },
+      {
+        "photos": [
+          {
+            "name": "011",
+            "alt": "Mässplatte",
+            "date": "2021-07-21T09:51:23.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Die durch Felsen versetzte Landschaft mit den vielen verschiedenen Blumen war sehr malerisch. An dem Berg im Hintergrund (das Geisshorn) geht der Weg rechts vorbei."
+      },
+      {
+        "photos": [
+          {
+            "name": "012",
+            "alt": "Murmeltier im Fels",
+            "date": "2021-07-21T10:19:56.000+02:00",
+            "width": 1780,
+            "height": 1080
+          }
+        ],
+        "text": "Etwas weiter oben tauchten die ersten neugierigen Murmeltiere auf."
+      },
+      {
+        "photos": [
+          {
+            "name": "013",
+            "alt": "Geisshorn",
+            "date": "2021-07-21T10:22:47.000+02:00",
+            "width": 1920,
+            "height": 809
+          }
+        ],
+        "text": "Der Weg am Geisshorn und Bockhorn führt harmlos durch dieses schöne Karstgebiet. Warum diese kleine Berge 'Hörner' heißen, kann man hier nicht erahnen."
+      },
+      {
+        "photos": [
+          {
+            "name": "014",
+            "alt": "Murmeltier in Loch",
+            "date": "2021-07-21T10:33:28.000+02:00",
+            "width": 1656,
+            "height": 1080
+          }
+        ],
+        "text": "Noch ein Murmeltier direkt neben dem Wanderweg. In diesem kleine Hochtal waren jede Menge davon unterwegs."
+      },
+      {
+        "photos": [
+          {
+            "name": "015",
+            "alt": "Wanderweg Rätschenhorn",
+            "date": "2021-07-21T10:48:14.000+02:00",
+            "width": 1920,
+            "height": 814
+          },
+          {
+            "name": "016",
+            "alt": "Bockhorn",
+            "date": "2021-07-21T10:51:11.000+02:00",
+            "width": 1920,
+            "height": 889
+          }
+        ],
+        "text": "Dann erreichte ich die Wiese Gross Tärzanella und damit auch das erste mal die Abbruchkante Richtung Westen. Mir war es bis dorthin gar nicht bewusst, dass ich direkt oberhalb dieser Felswände gewandert war."
+      },
+      {
+        "photos": [
+          {
+            "name": "017",
+            "alt": "Wanderweg in den Himmel",
+            "date": "2021-07-21T11:02:07.000+02:00",
+            "width": 1707,
+            "height": 1080
+          }
+        ],
+        "text": "Nach der kleinen Erholung über die Wiese ging es nun kräftig bergauf, um auf die 2580m hohe Saaser Calanda zu kommen. Der Weg war zwar anstrengend, aber auch weiterhin einfach."
+      },
+      {
+        "photos": [
+          {
+            "name": "018",
+            "alt": "Gratweg Rätschenhorn",
+            "date": "2021-07-21T11:03:45.000+02:00",
+            "width": 1920,
+            "height": 944
+          }
+        ],
+        "text": "Noch einmal der Blick zurück auf den entlanggewanderten Grat. Eine sehr ungewöhnliche und abwechslungsreiche Landschaft."
+      },
+      {
+        "photos": [
+          {
+            "name": "019",
+            "alt": "Rätschenhorn Felswand",
+            "date": "2021-07-21T11:37:20.000+02:00",
+            "width": 782,
+            "height": 1080
+          },
+          {
+            "name": "020",
+            "alt": "Rätschenhorn",
+            "date": "2021-07-21T11:38:38.000+02:00",
+            "width": 1920,
+            "height": 919
+          }
+        ],
+        "text": "Den Gipfel der Saaser Calanda erreichte ich um 11:30. Von dort hatte ich einen tollen Blick auf das Ziel der Wanderung: das 2700m hohe Rätschenhorn."
+      },
+      {
+        "photos": [
+          {
+            "name": "021",
+            "alt": "Bergziegen",
+            "date": "2021-07-21T12:01:20.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "022",
+            "alt": "Ziegen auf Fels",
+            "date": "2021-07-21T12:02:49.000+02:00",
+            "width": 1920,
+            "height": 855
+          }
+        ],
+        "text": "Beim letzten Aufstieg kam mir dann plötzlich eine Herde neugieriger Ziegen entgegengelaufen. Ich glaube sie waren da oben unterwegs, um etwas von dem verbliebenen Schnee zu fressen."
+      },
+      {
+        "photos": [
+          {
+            "name": "023",
+            "alt": "Wanderweg durch Geröll",
+            "date": "2021-07-21T12:08:23.000+02:00",
+            "width": 1920,
+            "height": 615
+          }
+        ],
+        "text": "Kurz vor dem Gipfel ging es praktisch weglos über dieses große Geröllfeld. Nicht zwingend musste man sich nach den Wegzeichen richten... wer findet es auf diesem Foto?"
+      },
+      {
+        "photos": [
+          {
+            "name": "024",
+            "alt": "Aufstieg Rätschenhorn",
+            "date": "2021-07-21T12:11:10.000+02:00",
+            "width": 1672,
+            "height": 1080
+          }
+        ],
+        "text": "Von der Saaser Calanda sah der Gipfel des Rätschenhorn noch ziemlich weit weg aus. Normalerweise täuscht es in den Bergen immer und es ist noch weiter als man glaubt. Aber in diesem Fall war es genau umgekehrt und ich erreichte überraschend schnell den Gipfel um 12:15."
+      },
+      {
+        "photos": [
+          {
+            "name": "025",
+            "alt": "Tiefblick",
+            "date": "2021-07-21T12:11:28.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Angsteinflößend ist die extreme Abbruchkante des eigentlich total harmlosen Gipfels des Rätschenhorns. Rund 600m liegt diese kleine Hütte direkt unter der Felswand."
+      },
+      {
+        "photos": [
+          {
+            "name": "026",
+            "alt": "Gipfelplateau Rätschenhorn",
+            "date": "2021-07-21T12:13:40.000+02:00",
+            "width": 1920,
+            "height": 830
+          }
+        ],
+        "text": "Blick zurück vom Gipfel auf den Aufstieg."
+      },
+      {
+        "photos": [
+          {
+            "name": "027",
+            "alt": "Gipfelkreuz Rätschenhorn",
+            "date": "2021-07-21T12:15:42.000+02:00",
+            "width": 1920,
+            "height": 820
+          },
+          {
+            "name": "028",
+            "alt": "Drusenfluh und Sulzfluh",
+            "date": "2021-07-21T12:16:01.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Das neue Gipfelkreuz des Rätschenhorns befindet sich etwas neben dem höchsten Punkt. Dahinter ist von links nach rechts zu sehen: Die <a href='/alpine/brandnertal/20150829' target='_blank'>Schesaplana</a>, die Drusenfluh, das <a href='/alpine/praettigau/20171015' target='_blank'>Drusentor</a> und die <a href='/alpine/praettigau/20141012' target='_blank'>Sulzfluh</a>."
+      },
+      {
+        "photos": [
+          {
+            "name": "029",
+            "alt": "Panorama Rätschenhorn",
+            "date": "2021-07-21T12:16:32.000+02:00",
+            "width": 1920,
+            "height": 721
+          }
+        ],
+        "text": "Das tolle Panorama des Rätschenhorns nach Westen das Prättigau hinab. In der Mitte ist der (von hier mickrige) <a href='/alpine/praettigau/20151031' target='_blank'>Chrüz</a> zu sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "030",
+            "alt": "Felswand",
+            "date": "2021-07-21T12:32:21.000+02:00",
+            "width": 1341,
+            "height": 1080
+          }
+        ],
+        "text": "Während der Pause direkt an der Kante noch einmal der Blick den Abbruch entlang."
+      },
+      {
+        "photos": [
+          {
+            "name": "031",
+            "alt": "Aschariner Alp",
+            "date": "2021-07-21T12:33:03.000+02:00",
+            "width": 1920,
+            "height": 1015
+          }
+        ],
+        "text": "Und ein Tele hinab auf das Straßengewirr der Aschariner Alp unterhalb des Rätschenhorns."
+      },
+      {
+        "photos": [
+          {
+            "name": "032",
+            "alt": "Abstieg Rätschenhorn",
+            "date": "2021-07-21T12:37:01.000+02:00",
+            "width": 1920,
+            "height": 809
+          }
+        ],
+        "text": "Vom Rätschenhorn ging es nun für mich die 100m hinab zum Rätschenjoch. Dabei gab es nur eine kleine machbare Steilstelle zur überwinden.<br />Im Hintergrund ist hier das Madrisahorn zu sehen. Dieses besteht nicht wie das Rätschenhorn aus hellem Kalk, sondern aus dunklem Gneis."
+      },
+      {
+        "photos": [
+          {
+            "name": "033",
+            "alt": "Kalk und Gneis",
+            "date": "2021-07-21T12:51:40.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Auch hier kann man beeindruckend sehen, wie sich der Kalkstein des Rätschenhorns aus dem Gneis erhebt.<br />Rechts ist das Rätschenjoch zu sehen, auf dem Weg dorthin musste ich noch zwei matschige und rutschige Schneefelder überqueren."
+      },
+      {
+        "photos": [
+          {
+            "name": "034",
+            "alt": "Kalkstein",
+            "date": "2021-07-21T13:00:26.000+02:00",
+            "width": 1920,
+            "height": 951
+          }
+        ],
+        "text": "Schon etwas oberhalb des Rätschenjochs der Blick zurück zum Rätschenhorn."
+      },
+      {
+        "photos": [
+          {
+            "name": "035",
+            "alt": "Gafier Joch",
+            "date": "2021-07-21T13:05:52.000+02:00",
+            "width": 1920,
+            "height": 840
+          }
+        ],
+        "text": "Und hier das Tal hinab Richtung Österreich, genauer dem Gafier Joch. Dahinter befindet sich das Skigebiet von Gargellen. Von dort bin ich auch mal über das Rätschenjoch gewandert, als ich die <a href='/alpine/gargellen/20150822' target='_blank'>Madrisa-Rundtour</a> gemacht hatte."
+      },
+      {
+        "photos": [
+          {
+            "name": "036",
+            "alt": "Panorama Madrisa",
+            "date": "2021-07-21T13:17:00.000+02:00",
+            "width": 1920,
+            "height": 718
+          }
+        ],
+        "text": "Vom Rätschjoch ging ich nun am Hang entlang hinüber zur Bergstation des Madrisa-Lifts. Von dort konnte ich gut fast den gesamten bisherigen Weg sehen: Den Grat von links nach rechts ging es am Vormittag hinauf."
+      },
+      {
+        "photos": [
+          {
+            "name": "037",
+            "alt": "Silvretta",
+            "date": "2021-07-21T13:19:27.000+02:00",
+            "width": 1920,
+            "height": 672
+          }
+        ],
+        "text": "Von selber Stelle ein Tele nach Osten, links das Groß Seehorn, dann der Silvretta-Gletscher mit dem Piz Buin und rechts der Piz Linard. Und vorne rechts die <a href='/alpine/praettigau/20200919' target='_blank'>Älpeltispitz</a>, auf der ich im letzten Herbst war. Im Vergleich mit den über 3000m hohen Bergen dahinter, geht dieser 2700m hohe Gipfel etwas unter... anstrengend war es trotzdem. ;)"
+      },
+      {
+        "photos": [
+          {
+            "name": "038",
+            "alt": "Schafcalanda",
+            "date": "2021-07-21T13:32:20.000+02:00",
+            "width": 1920,
+            "height": 839
+          }
+        ],
+        "text": "Nun ging der Weg die Schafcalanda entlang des Skilifts Madrisa bergab. Mit jedem Höhenmeter wurde es nun sichtbar grüner."
+      },
+      {
+        "photos": [
+          {
+            "name": "039",
+            "alt": "Murmeltier mit Nachwuchs",
+            "date": "2021-07-21T13:46:40.000+02:00",
+            "width": 1596,
+            "height": 1080
+          },
+          {
+            "name": "040",
+            "alt": "Baby Murmeltier",
+            "date": "2021-07-21T13:47:14.000+02:00",
+            "width": 1712,
+            "height": 1080
+          }
+        ],
+        "text": "Und es gab wieder Murmeltiere zu beobachten. Hier eines mit zwei süßen Baby-Murmeltieren."
+      },
+      {
+        "photos": [
+          {
+            "name": "041",
+            "alt": "Höhenweg Madrisa",
+            "date": "2021-07-21T14:11:50.000+02:00",
+            "width": 1920,
+            "height": 871
+          },
+          {
+            "name": "042",
+            "alt": "Wanderweg Schlappiner Joch",
+            "date": "2021-07-21T14:12:54.000+02:00",
+            "width": 1920,
+            "height": 936
+          }
+        ],
+        "text": "Nach etwas umständlicher Wegführung an der Talstation des Madrisa-Lifts bog ich nun nach Osten Richtung Schlappintal ab. Dieser Wegabschnitt war wieder richtig schön."
+      },
+      {
+        "photos": [
+          {
+            "name": "043",
+            "alt": "Bergbach",
+            "date": "2021-07-21T14:28:14.000+02:00",
+            "width": 1793,
+            "height": 1080
+          }
+        ],
+        "text": "Ich folgte dem Wanderweg zum Schlappiner Joch bis zu diesem Wegweiser an zwei kleinen Bächen. Dort bog ich das Tal hinab zu Alp Säss ab."
+      },
+      {
+        "photos": [
+          {
+            "name": "044",
+            "alt": "Alp Säss",
+            "date": "2021-07-21T14:38:33.000+02:00",
+            "width": 1920,
+            "height": 1046
+          }
+        ],
+        "text": "Der 100m Abstieg zur kleinen Alp Säss war schnell erledigt. Von dort ging ich dann wieder nach Osten den Hang auf ca. 2000m Höhe entlang. Praktisch parallel zum oberen Weg, wo ich zuvor war."
+      },
+      {
+        "photos": [
+          {
+            "name": "045",
+            "alt": "Blumenwiese",
+            "date": "2021-07-21T14:44:30.000+02:00",
+            "width": 1920,
+            "height": 998
+          },
+          {
+            "name": "046",
+            "alt": "Scheuchzers Wollgras",
+            "date": "2021-07-21T14:48:48.000+02:00",
+            "width": 1920,
+            "height": 942
+          }
+        ],
+        "text": "Auch auf diesem Weg gab es wieder viele Blumen, und erstmals an diesem Tag auch Schleuchzers Wollgras."
+      },
+      {
+        "photos": [
+          {
+            "name": "047",
+            "alt": "Schlappintal",
+            "date": "2021-07-21T14:55:53.000+02:00",
+            "width": 1037,
+            "height": 1080
+          }
+        ],
+        "text": "Während es am Hang entlang ging, hatte ich immer einen schönen Blick in das einsame Schlappintal."
+      },
+      {
+        "photos": [
+          {
+            "name": "048",
+            "alt": "Wanderweg durch Bach",
+            "date": "2021-07-21T14:58:42.000+02:00",
+            "width": 1920,
+            "height": 838
+          },
+          {
+            "name": "049",
+            "alt": "Wasserfälle",
+            "date": "2021-07-21T14:59:10.000+02:00",
+            "width": 1814,
+            "height": 1080
+          }
+        ],
+        "text": "Für etwas Spannung sorgte diese Bachquerung. Auf Grund des vielen Wassers nicht ganz einfach - aber mit langen Schritten von Stein zu Stein gerade noch trocken machbar.<br />Ob die beiden Wasserfälle oberhalb des Wegs natürlichen Ursprungs sind? Ich glaube normalerweise würde das Wasser wohl eher links daran vorbei laufen. Ich war aber nicht neugierig genug, um das zu überprüfen."
+      },
+      {
+        "photos": [
+          {
+            "name": "050",
+            "alt": "Schlappinsee",
+            "date": "2021-07-21T15:07:25.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Hier wurde erstmals der Schlappinsee sichtbar. Dies war mein nächstes Ziel. Ich hätte von der Alp Säss auch dorthin direkter absteigen können, ich dachte aber mit diesem Schlenker wäre es ein gleichmäßigere Abstieg."
+      },
+      {
+        "photos": [
+          {
+            "name": "051",
+            "alt": "Metallbrücke",
+            "date": "2021-07-21T15:11:15.000+02:00",
+            "width": 1920,
+            "height": 932
+          }
+        ],
+        "text": "Insgesamt musste ich bis zum Hauptwanderweg über das Schlappiner Joch laufen, weil es dort eine Brücke über den nächsten Bach gibt. Von dort ging es dann recht unangenehm bergab. Zwar nicht sehr steil, aber es gab keine Stufen (wahrscheinlich von Mountainbikes glattgehobelt) und auch ein feiner Splitt, so dass ich nur in Trippelschritten sicher gehen konnte."
+      },
+      {
+        "photos": [
+          {
+            "name": "052",
+            "alt": "Schlappin",
+            "date": "2021-07-21T15:35:21.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Beim Abstieg Blick auf den Ort Schlappin. Diesen kann man über eine mautpflichtige Straße von Klosters auch mit dem Auto erreichen (nur im Sommer)."
+      },
+      {
+        "photos": [
+          {
+            "name": "053",
+            "alt": "Schlappintal",
+            "date": "2021-07-21T15:41:00.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Hier wieder das Schlappintal, diesmal aus einer niedrigeren Perspektive."
+      },
+      {
+        "photos": [
+          {
+            "name": "054",
+            "alt": "Holzhäuser Schlappin",
+            "date": "2021-07-21T15:45:32.000+02:00",
+            "width": 1738,
+            "height": 1080
+          }
+        ],
+        "text": "Um 15:45 erreichte ich Schlappin auf 1650m Höhe. Der Ort besteht aus einigen alten stimmigen Holzhäusern, zwei Restaurants und dem Stausee."
+      },
+      {
+        "photos": [
+          {
+            "name": "055",
+            "alt": "Schlappinsee",
+            "date": "2021-07-21T15:58:12.000+02:00",
+            "width": 1920,
+            "height": 898
+          }
+        ],
+        "text": "Und hier überquerte ich die Staumauer des Schlappinsees. Zeit für eine längere Pause am Ufer. Das Luft war hier sehr angenehm, da ein erfrischender Wind das Tal hinaufwehte."
+      },
+      {
+        "photos": [
+          {
+            "name": "056",
+            "alt": "Wanderweg Schlappin Klosters",
+            "date": "2021-07-21T16:35:59.000+02:00",
+            "width": 911,
+            "height": 1080
+          },
+          {
+            "name": "057",
+            "alt": "Wanderung Schlappintobel",
+            "date": "2021-07-21T16:49:41.000+02:00",
+            "width": 1716,
+            "height": 1080
+          }
+        ],
+        "text": "Nachdem ich meine Füße abgekühlt hatte, wechselte ich auf Sandalen und machte mich an den Abstieg durch den Schlappintobel nach Klosters. Schneller ist es dabei sicher auf der Straße, schöner aber definitiv der Wanderweg auf dieser Talseite.<br />Ich war inzwischen aber schon ziemlich müde, so dass diese letzten 1,5h nicht mehr richtig Spaß machten."
+      },
+      {
+        "photos": [
+          {
+            "name": "058",
+            "alt": "Schlappintobel",
+            "date": "2021-07-21T17:46:05.000+02:00",
+            "width": 810,
+            "height": 1080
+          },
+          {
+            "name": "059",
+            "alt": "Hängebrücke Klosters Pur",
+            "date": "2021-07-21T17:48:59.000+02:00",
+            "width": 720,
+            "height": 1080
+          },
+          {
+            "name": "060",
+            "alt": "Weg über Brücke",
+            "date": "2021-07-21T17:49:40.000+02:00",
+            "width": 720,
+            "height": 1080
+          }
+        ],
+        "text": "Kurz vor dem Ziel entdeckte ich dann noch diese Hängebrücke über den Schlappintobel. Obwohl ich dort eigentlich nicht rüber musste, machte ich trotzdem den Abstecher und ging einmal hin und her. Schon spaßig, wie die ganze Brücke schwankte, obwohl ich alleine drauf war."
+      },
+      {
+        "photos": [
+          {
+            "name": "061",
+            "alt": "Klosters",
+            "date": "2021-07-21T17:58:34.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Um 18:00 erreichte ich schließlich Klosters, bzw. den Parkplatz der Madrisabahn."
+      }
+    ],
+    "outro": "Fazit: Tolle - aber lange - Wanderung auf das Rätschenhorn. Jeder der Wegabschnitte hatte ihren eigenen Reiz und bot viel Abwechslung. Mir wurde es am Ende etwas zu lang und ich hätte wahrscheinlich besser den direkten Abstieg nach Schlappin machen sollen. Alternativ kann man natürlich auch mit der Gondelbahn wieder runterfahren und spart sich so 750m in den Beinen.<br />Ich war 9h zu Fuß unterwegs und habe dabei knapp 20km zurückgelegt. Hoch ging es aufaddiert ca. 1100m und runter 1900m. Große Schwierigkeiten gab es auf dem ganze Weg keine - und wenn man nicht zu dicht an die Abbrüche geht, ist es auch ungefährlich."
+  }
+]

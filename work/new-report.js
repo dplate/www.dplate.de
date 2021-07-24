@@ -6,9 +6,9 @@ const sizeOf = require('image-size');
 const { DateTime } = require('luxon');
 
 const projectPath = 'C:/Users/Roger/web/Dp3';
-const sourcePath = 'D:/Bilder/2021/20210710_flumserberg';
-const destination = 'flumserberg';
-const reportDate = '20210710';
+const sourcePath = 'D:/Bilder/2021/20210721_rätschenhorn';
+const destination = 'praettigau';
+const reportDate = '20210721';
 
 const newPhoto = async (sourcePhoto, targetPhotosPath, index) => {
   const photoNumber = (index + 1).toLocaleString('en-US', {
@@ -28,9 +28,11 @@ const newPhoto = async (sourcePhoto, targetPhotosPath, index) => {
       })
       .preserve('creation', 'location');
 
-    await source.toFile(targetPhoto, (error) =>
-      console.log(sourcePhoto, targetPhoto, error ? error.message : 'success')
-    );
+    await source.toFile(targetPhoto).catch((error) => {
+      console.log(sourcePhoto, targetPhoto, error.message);
+      throw 'Photo could not be converted';
+    });
+    console.log(sourcePhoto, targetPhoto, 'success')
   }
 
   const photoSize = sizeOf(targetPhoto);
@@ -53,7 +55,6 @@ const newPhoto = async (sourcePhoto, targetPhotosPath, index) => {
 };
 
 const createLandmarks = async () => {
-  const landmarks = [];
   const sourcePhotos = fs
     .readdirSync(sourcePath)
     .filter((file) => file.toLowerCase().endsWith('.jpg'))
@@ -61,15 +62,13 @@ const createLandmarks = async () => {
     .map((file) => sourcePath + '/' + file);
   const targetPhotosPath = projectPath + '/static/photos/' + destination + '/' + reportDate;
   fs.mkdirSync(targetPhotosPath, { recursive: true });
-  for (let index = 0; index < sourcePhotos.length; index++) {
-    const sourcePhoto = sourcePhotos[index];
-    const photo = await newPhoto(sourcePhoto, targetPhotosPath, index);
-    landmarks.push({
-      photos: [photo],
-      text: 'TODO'
-    });
-  }
-  return landmarks;
+  const photos = await Promise.all(sourcePhotos.map(
+    (sourcePhoto, index) => newPhoto(sourcePhoto, targetPhotosPath, index)
+  ));
+  return photos.map(photo => ({
+    photos: [photo],
+    text: 'TODO'
+  }));
 };
 
 const newReport = async () => {
@@ -126,7 +125,7 @@ const addToSitemap = () => {
   } else {
     const newSitemap = sitemap + '\n' + newEntry;
     fs.writeFileSync(sitemapFile, newSitemap);
-    console.log(newSitemap, 'added');
+    console.log(newEntry, 'added');
   }
 };
 

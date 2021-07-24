@@ -203,7 +203,7 @@ class ReportMovie extends React.Component {
   componentDidMount() {
     // noinspection JSIgnoredPromiseFromCall
     this.outputMetadata();
-    window.setTimeout(this.nextPhase, 8000);
+    window.setTimeout(this.nextPhase, 10000);
   }
 
   findNextPhoto() {

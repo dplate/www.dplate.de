@@ -190,6 +190,7 @@ class Report extends React.Component {
         <Photo
           id={fileName}
           src={photoPath}
+          loading="lazy"
           alt={photo.alt}
           width={photo.width}
           height={photo.height}
