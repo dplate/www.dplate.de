@@ -76,12 +76,6 @@ const CesiumContainer = styled.div`
   }
 `;
 
-let hiker = {
-  front: null,
-  back: null,
-  left: null,
-  right: null
-};
 let currentTilt = -15;
 let targetTime = null;
 
@@ -220,23 +214,26 @@ const createTrackEntity = (positions) => {
 };
 
 const loadHiker = () => {
-  ['front', 'back', 'left', 'right'].forEach((orientation) => {
+  return ['front', 'back', 'left', 'right'].reduce((hiker, orientation) => {
     hiker[orientation] = new BillboardGraphics({
       image: '/assets/hiker-' + orientation + '.svg',
       heightReference: HeightReference.CLAMP_TO_GROUND,
       verticalOrigin: VerticalOrigin.BOTTOM,
       depthTestAgainstTerrain: 0
     });
-  });
+    return hiker;
+  }, {});
 };
 
-const createHikerEntity = (sampledPosition) => {
-  loadHiker();
-  return new Entity({
-    id: 'pin',
+const createHiker = (entities, sampledPosition) => {
+  const hiker = loadHiker();
+  hiker.entity = new Entity({
+    id: 'hiker',
     billboard: hiker.back,
     position: sampledPosition
   });
+  entities.add(hiker.entity);
+  return hiker;
 };
 
 const createHdRectangle = (positions) => {
@@ -293,22 +290,22 @@ const turnToWinter = (scene, hdRectangle) => {
   scene.highDynamicRange = false;
 };
 
-const findOptimalCameraHeight = (viewer, pinPos) => {
+const findOptimalCameraHeight = (viewer, hikerPosition) => {
   const cameraPos = viewer.camera.positionCartographic;
   let optimalHeight = 0;
   for (let distanceFactor = 0.0; distanceFactor < 1.0; distanceFactor += 0.1) {
     const samplePos = new Cartographic(
-      pinPos.longitude * distanceFactor + cameraPos.longitude * (1.0 - distanceFactor),
-      pinPos.latitude * distanceFactor + cameraPos.latitude * (1.0 - distanceFactor),
-      pinPos.height * distanceFactor + cameraPos.height * (1.0 - distanceFactor)
+      hikerPosition.longitude * distanceFactor + cameraPos.longitude * (1.0 - distanceFactor),
+      hikerPosition.latitude * distanceFactor + cameraPos.latitude * (1.0 - distanceFactor),
+      hikerPosition.height * distanceFactor + cameraPos.height * (1.0 - distanceFactor)
     );
     const terrainHeight = viewer.scene.globe.getHeight(samplePos);
-    optimalHeight = Math.max(optimalHeight, pinPos.height + (terrainHeight - pinPos.height) / (1.0 - distanceFactor));
+    optimalHeight = Math.max(optimalHeight, hikerPosition.height + (terrainHeight - hikerPosition.height) / (1.0 - distanceFactor));
   }
   return optimalHeight + 150;
 };
 
-const updateCamera = (viewer) => {
+const updateCamera = (viewer, hiker) => {
   const terrainHeightUnderCamera = viewer.scene.globe.getHeight(viewer.camera.positionCartographic);
   const allowedMinimumCameraHeight = terrainHeightUnderCamera + 10;
   const cameraHeight = viewer.camera.positionCartographic.height;
@@ -323,15 +320,15 @@ const updateCamera = (viewer) => {
     JulianDate.addSeconds(viewer.clock.startTime, secondsAfterEnd, futureTime);
   }
 
-  const pin = viewer.entities.getById('pin');
-  const currentCart = Cartographic.fromCartesian(pin.position.getValue(viewer.clock.currentTime));
+  const hikerPosition = hiker.entity.position;
+  const currentCart = Cartographic.fromCartesian(hikerPosition.getValue(viewer.clock.currentTime));
 
   const currentHeight = viewer.scene.globe.getHeight(currentCart) || currentCart.height;
   const realCurrentPos = Cartesian3.fromRadians(currentCart.longitude, currentCart.latitude, currentHeight);
 
   let newHeading;
   if (viewer.clock.shouldAnimate) {
-    const futureCart = Cartographic.fromCartesian(pin.position.getValue(futureTime));
+    const futureCart = Cartographic.fromCartesian(hikerPosition.getValue(futureTime));
     const geodesic = new EllipsoidGeodesic(currentCart, futureCart);
     newHeading = geodesic.startHeading;
 
@@ -374,10 +371,10 @@ const updateSpeed = (clock, onAnimationStopped) => {
   }
 };
 
-const updateHiker = (viewer) => {
-  const pin = viewer.entities.getById('pin');
+const updateHiker = (viewer, hiker) => {
+  const entity = hiker.entity;
 
-  const currentPos = pin.position.getValue(viewer.clock.currentTime);
+  const currentPos = entity.position.getValue(viewer.clock.currentTime);
   if (!currentPos) {
     return;
   }
@@ -385,7 +382,7 @@ const updateHiker = (viewer) => {
 
   const futureTime = new JulianDate();
   JulianDate.addSeconds(viewer.clock.currentTime, 30, futureTime);
-  const futureCart = Cartographic.fromCartesian(pin.position.getValue(futureTime));
+  const futureCart = Cartographic.fromCartesian(entity.position.getValue(futureTime));
 
   const geodesic = new EllipsoidGeodesic(currentCart, futureCart);
   const hikerHeading = geodesic.startHeading;
@@ -393,20 +390,20 @@ const updateHiker = (viewer) => {
   const viewAngle = (cameraHeading - hikerHeading) % (2 * Math.PI);
 
   if (viewAngle >= 0.25 * Math.PI && viewAngle < 0.75 * Math.PI) {
-    pin.billboard = hiker.left;
+    entity.billboard = hiker.left;
   } else if (viewAngle >= 0.75 * Math.PI && viewAngle < 1.25 * Math.PI) {
-    pin.billboard = hiker.front;
+    entity.billboard = hiker.front;
   } else if (viewAngle >= 1.25 * Math.PI && viewAngle < 1.75 * Math.PI) {
-    pin.billboard = hiker.right;
+    entity.billboard = hiker.right;
   } else {
-    pin.billboard = hiker.back;
+    entity.billboard = hiker.back;
   }
 };
 
-const tickChanged = (viewer, onAnimationStopped) => {
-  updateCamera(viewer);
+const tickChanged = (viewer, hiker, onAnimationStopped) => {
+  updateCamera(viewer, hiker);
   updateSpeed(viewer.clock, onAnimationStopped);
-  updateHiker(viewer);
+  updateHiker(viewer, hiker);
 };
 
 const setupClock = (clock, startTime, stopTime, onTick) => {
@@ -438,11 +435,11 @@ const timeChanged = (clock, newTime, timeShift, onAnimationStarted) => {
   onAnimationStarted();
 };
 
-const jumpToTargetTime = (viewer) => {
+const jumpToTargetTime = (viewer, hiker) => {
   if (targetTime) {
     viewer.clock.currentTime = targetTime;
     viewer.clock.shouldAnimate = true;
-    updateCamera();
+    updateCamera(viewer, hiker);
     viewer.clock.shouldAnimate = false;
   }
 };
@@ -450,7 +447,6 @@ const jumpToTargetTime = (viewer) => {
 const setupMap = (trackData, hideSwissTopo, detailMap, winter) => {
   const viewer = setupViewer(trackData, hideSwissTopo);
   viewer.entities.add(createTrackEntity(trackData.positions));
-  viewer.entities.add(createHikerEntity(trackData.sampledPosition));
   const hdRectangle = createHdRectangle(trackData.positions);
   switch (detailMap) {
     case 'swiss':
@@ -467,23 +463,29 @@ const setupMap = (trackData, hideSwissTopo, detailMap, winter) => {
   return viewer;
 };
 
-const prepareStart = (trackData, viewer, onAnimationStarted, onAnimationStopped, time, timeShift) => {
+const prepareStart = async (trackData, viewer, hiker, onAnimationStarted, onAnimationStopped, time, timeShift) => {
   setupClock(
     viewer.clock,
     trackData.startTime,
     trackData.stopTime,
-    () => tickChanged(viewer, onAnimationStopped)
+    () => tickChanged(viewer, hiker, onAnimationStopped)
   );
-  viewer.terrainProvider.readyPromise.then(() => {
-    timeChanged(viewer.clock, time, timeShift, onAnimationStarted);
-    jumpToTargetTime(viewer);
-    onAnimationStopped();
-  });
-}
+
+  await viewer.terrainProvider.readyPromise
+
+  timeChanged(viewer.clock, time, timeShift, onAnimationStarted);
+  jumpToTargetTime(viewer, hiker);
+  onAnimationStopped();
+
+  return viewer.clock;
+};
 
 const Map = (props) => {
   const [mapStatus, setMapStatus] = useState('wait');
+  const [trackData, setTrackData] = useState(null);
   const [viewer, setViewer] = useState(null);
+  const [hiker, setHiker] = useState(null);
+  const [clock, setClock] = useState(null);
 
   const onAnimationStarted = () => {
     setMapStatus('wait');
@@ -499,30 +501,45 @@ const Map = (props) => {
   useEffect(() => {
     loadTrack(props.gpxPath)
       .then(parseTrackData)
-      .then((trackData) => {
-        const viewer = setupMap(
-          trackData,
-          props.hideSwissTopo,
-          props.detailMap,
-          props.winter
-        );
-        prepareStart(
-          trackData,
-          viewer,
-          onAnimationStarted,
-          onAnimationStopped,
-          props.time,
-          props.timeShift
-        );
-        setViewer(viewer);
-      })
+      .then(setTrackData)
   }, []); // eslint-disable-line react-hooks/exhaustive-deps
 
   useEffect(() => {
-    if (viewer) {
-      timeChanged(viewer.clock, props.time, props.timeShift, onAnimationStarted);
+    if (trackData) {
+      setViewer(setupMap(
+        trackData,
+        props.hideSwissTopo,
+        props.detailMap,
+        props.winter
+      ));
     }
-  }, [viewer, props.time, props.timeShift])
+  }, [trackData]); // eslint-disable-line react-hooks/exhaustive-deps
+
+  useEffect(() => {
+    if (trackData && viewer) {
+      setHiker(createHiker(viewer.entities, trackData.sampledPosition));
+    }
+  }, [trackData, viewer]);
+
+  useEffect(() => {
+    if (trackData && viewer && hiker) {
+      prepareStart(
+        trackData,
+        viewer,
+        hiker,
+        onAnimationStarted,
+        onAnimationStopped,
+        props.time,
+        props.timeShift
+      ).then(setClock);
+    }
+  }, [trackData, viewer, hiker]); // eslint-disable-line react-hooks/exhaustive-deps
+
+  useEffect(() => {
+    if (clock) {
+      timeChanged(clock, props.time, props.timeShift, onAnimationStarted);
+    }
+  }, [clock, props.time, props.timeShift])
 
   return (
     <div>
