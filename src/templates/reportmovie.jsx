@@ -339,8 +339,8 @@ class ReportMovie extends React.Component {
           detailMap={detailMap}
           hideSwissTopo={hideSwissTopo}
           winter={type !== 'hike'}
-          noUserInterface={true}
           onTimeReached={this.nextPhase}
+          size="fullscreen"
         />
       )
     );

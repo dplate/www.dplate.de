@@ -1,7 +1,7 @@
 import React from 'react';
 import { Helmet } from 'react-helmet';
 import styled from 'styled-components';
-import Map from '../components/map.jsx';
+import MapButton from '../components/mapbutton.jsx';
 import Title3D from '../components/title3d.jsx';
 import { videoContainerStyle, videoWrapperStyle } from '../styles/basestyle.js';
 import formatDate from '../utils/formatDate';
@@ -309,14 +309,16 @@ class Report extends React.Component {
           <Chapter dangerouslySetInnerHTML={{ __html: outro }} />
           {track && this.renderGpxDownload(gpxPath)}
           {track && this.state.time && (
-            <Map
-              gpxPath={gpxPath}
+            <MapButton
               time={this.state.time}
-              timeShift={timeShift}
-              detailMap={detailMap}
-              hideSwissTopo={hideSwissTopo}
-              winter={type !== 'hike'}
-              onClick={this.resetFocus.bind(this)}
+              mapProps={{
+                gpxPath,
+                timeShift,
+                detailMap,
+                hideSwissTopo,
+                winter: type !== 'hike',
+                onClick: this.resetFocus.bind(this)
+              }}
             />
           )}
           {movie && (
