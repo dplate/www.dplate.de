@@ -76,7 +76,6 @@ const CesiumContainer = styled.div`
   }
 `;
 
-let viewer = null;
 let hiker = {
   front: null,
   back: null,
@@ -175,7 +174,7 @@ const setupViewer = (trackData, hideSwissTopo) => {
   Ion.defaultAccessToken =
     'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiI2YzA0MGNiZi02N2E1LTQxZGQtYjAzNi1iNDJjYTRjNTU4NzciLCJpZCI6MTgxMSwiaWF0IjoxNTMwMjA0MjIxfQ.o1Sfgaz0-I6_tAgUIO-8RV2kw7nOB-nNupVeHwsGLj0';
 
-  viewer = new Viewer('cesiumContainer', {
+  const viewer = new Viewer('cesiumContainer', {
     terrainProvider: createTerrainProvider(hideSwissTopo),
     baseLayerPicker: false,
     geocoder: false,
@@ -204,21 +203,20 @@ const setupViewer = (trackData, hideSwissTopo) => {
   viewer.scene._renderError.raiseEvent = (scene, error) => {
     console.error(error);
   };
+  return viewer;
 };
 
-const addTrack = (positions) => {
+const createTrackEntity = (positions) => {
   const corridor = new CorridorGraphics({
     positions,
     material: Color.RED,
     width: 2.0
   });
 
-  viewer.entities.add(
-    new Entity({
-      id: 'track',
-      corridor
-    })
-  );
+  return new Entity({
+    id: 'track',
+    corridor
+  });
 };
 
 const loadHiker = () => {
@@ -232,14 +230,13 @@ const loadHiker = () => {
   });
 };
 
-const addPin = (sampledPosition) => {
+const createHikerEntity = (sampledPosition) => {
   loadHiker();
-  const pin = new Entity({
+  return new Entity({
     id: 'pin',
     billboard: hiker.back,
     position: sampledPosition
   });
-  viewer.entities.add(pin);
 };
 
 const createHdRectangle = (positions) => {
@@ -251,8 +248,8 @@ const createHdRectangle = (positions) => {
   return hdRectangle;
 };
 
-const addSwissSatellite = (hdRectangle) => {
-  const provider = new UrlTemplateImageryProvider({
+const createSwissSatelliteProvider = (hdRectangle) => {
+  return new UrlTemplateImageryProvider({
     url: '//wmts{s}.geo.admin.ch/1.0.0/ch.swisstopo.swissimage-product/default/current/4326/{z}/{x}/{y}.jpeg',
     subdomains: ['5', '6', '7', '8', '9', '20'],
     minimumLevel: 8,
@@ -264,11 +261,10 @@ const addSwissSatellite = (hdRectangle) => {
     rectangle: hdRectangle,
     credit: new Credit('geodata © swisstopo', true)
   });
-  viewer.scene.imageryLayers.addImageryProvider(provider);
 };
 
-const addAustriaSatellite = (hdRectangle) => {
-  const provider = new WebMapTileServiceImageryProvider({
+const createAustriaSatelliteProvider = (hdRectangle) => {
+  return new WebMapTileServiceImageryProvider({
     url: '//maps{s}.wien.gv.at/basemap/bmaporthofoto30cm/{Style}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg',
     layer: 'bmaporthofoto30cm',
     style: 'normal',
@@ -277,11 +273,10 @@ const addAustriaSatellite = (hdRectangle) => {
     rectangle: hdRectangle,
     credit: new Credit('<a href="https://www.basemap.at/" target="_blank">Datenquelle: basemap.at</a>', true)
   });
-  viewer.scene.imageryLayers.addImageryProvider(provider);
 };
 
-const turnToWinter = (hdRectangle) => {
-  const layers = viewer.scene.imageryLayers;
+const turnToWinter = (scene, hdRectangle) => {
+  const layers = scene.imageryLayers;
   for (let i = 0; i < layers.length; i++) {
     const layer = layers.get(i);
     layer.contrast = 2.5;
@@ -295,10 +290,10 @@ const turnToWinter = (hdRectangle) => {
     })
   );
   snowLayer.alpha = 0.2;
-  viewer.scene.highDynamicRange = false;
+  scene.highDynamicRange = false;
 };
 
-const findOptimalCameraHeight = (pinPos) => {
+const findOptimalCameraHeight = (viewer, pinPos) => {
   const cameraPos = viewer.camera.positionCartographic;
   let optimalHeight = 0;
   for (let distanceFactor = 0.0; distanceFactor < 1.0; distanceFactor += 0.1) {
@@ -313,7 +308,7 @@ const findOptimalCameraHeight = (pinPos) => {
   return optimalHeight + 150;
 };
 
-const updateCamera = () => {
+const updateCamera = (viewer) => {
   const terrainHeightUnderCamera = viewer.scene.globe.getHeight(viewer.camera.positionCartographic);
   const allowedMinimumCameraHeight = terrainHeightUnderCamera + 10;
   const cameraHeight = viewer.camera.positionCartographic.height;
@@ -341,6 +336,7 @@ const updateCamera = () => {
     newHeading = geodesic.startHeading;
 
     const optimalCameraHeight = findOptimalCameraHeight(
+      viewer,
       new Cartographic(currentCart.longitude, currentCart.latitude, currentHeight)
     );
     if (cameraHeight && optimalCameraHeight) {
@@ -360,25 +356,25 @@ const updateCamera = () => {
   viewer.camera.lookAt(realCurrentPos, new HeadingPitchRange(newHeading, newPitch, 500));
 };
 
-const updateSpeed = (onAnimationStopped) => {
+const updateSpeed = (clock, onAnimationStopped) => {
   if (!targetTime) {
     return;
   }
 
-  const timeDifference = JulianDate.secondsDifference(targetTime, viewer.clock.currentTime);
+  const timeDifference = JulianDate.secondsDifference(targetTime, clock.currentTime);
   let multiplier = timeDifference / 3;
   multiplier = Math.max(multiplier, -5000);
   multiplier = Math.min(multiplier, 5000);
-  viewer.clock.multiplier = multiplier;
+  clock.multiplier = multiplier;
   if (Math.abs(multiplier) < 20 || Math.abs(timeDifference) <= 10) {
-    if (viewer.clock.shouldAnimate) {
+    if (clock.shouldAnimate) {
       onAnimationStopped()
     }
-    viewer.clock.shouldAnimate = false;
+    clock.shouldAnimate = false;
   }
 };
 
-const updateHiker = () => {
+const updateHiker = (viewer) => {
   const pin = viewer.entities.getById('pin');
 
   const currentPos = pin.position.getValue(viewer.clock.currentTime);
@@ -407,80 +403,87 @@ const updateHiker = () => {
   }
 };
 
-const tickChanged = (onAnimationStopped) => {
-  updateCamera();
-  updateSpeed(onAnimationStopped);
-  updateHiker();
+const tickChanged = (viewer, onAnimationStopped) => {
+  updateCamera(viewer);
+  updateSpeed(viewer.clock, onAnimationStopped);
+  updateHiker(viewer);
 };
 
-const setupClock = (startTime, stopTime, onAnimationStopped) => {
-  viewer.clock.startTime = startTime;
-  viewer.clock.stopTime = stopTime;
-  viewer.clock.clockRange = ClockRange.CLAMPED;
-  viewer.clock.currentTime = startTime;
-  viewer.clock.onTick.addEventListener(() => tickChanged(onAnimationStopped));
+const setupClock = (clock, startTime, stopTime, onTick) => {
+  clock.startTime = startTime;
+  clock.stopTime = stopTime;
+  clock.clockRange = ClockRange.CLAMPED;
+  clock.currentTime = startTime;
+  clock.onTick.addEventListener(onTick);
 };
 
-const timeChanged = (newTime, timeShift, onAnimationStarted) => {
+const timeChanged = (clock, newTime, timeShift, onAnimationStarted) => {
   if (newTime === 'start') {
-    targetTime = viewer.clock.startTime;
+    targetTime = clock.startTime;
   } else if (newTime === 'end') {
-    targetTime = viewer.clock.stopTime;
+    targetTime = clock.stopTime;
   } else {
     targetTime = JulianDate.fromIso8601(newTime);
     if (timeShift) {
       JulianDate.addSeconds(targetTime, timeShift, targetTime);
     }
-    if (JulianDate.compare(viewer.clock.startTime, targetTime) >= 0) {
-      targetTime = viewer.clock.startTime;
+    if (JulianDate.compare(clock.startTime, targetTime) >= 0) {
+      targetTime = clock.startTime;
     }
-    if (JulianDate.compare(targetTime, viewer.clock.stopTime) >= 0) {
-      targetTime = viewer.clock.stopTime;
+    if (JulianDate.compare(targetTime, clock.stopTime) >= 0) {
+      targetTime = clock.stopTime;
     }
   }
-  viewer.clock.shouldAnimate = true;
+  clock.shouldAnimate = true;
   onAnimationStarted();
 };
 
-const jumpToTargetTime = () => {
+const jumpToTargetTime = (viewer) => {
   if (targetTime) {
     viewer.clock.currentTime = targetTime;
+    viewer.clock.shouldAnimate = true;
+    updateCamera();
+    viewer.clock.shouldAnimate = false;
   }
 };
 
 const setupMap = (trackData, hideSwissTopo, detailMap, winter) => {
-  setupViewer(trackData, hideSwissTopo);
-  addTrack(trackData.positions);
-  addPin(trackData.sampledPosition);
+  const viewer = setupViewer(trackData, hideSwissTopo);
+  viewer.entities.add(createTrackEntity(trackData.positions));
+  viewer.entities.add(createHikerEntity(trackData.sampledPosition));
   const hdRectangle = createHdRectangle(trackData.positions);
   switch (detailMap) {
     case 'swiss':
-      addSwissSatellite(hdRectangle);
+      viewer.scene.imageryLayers.addImageryProvider(createSwissSatelliteProvider(hdRectangle));
       break;
     case 'austria':
-      addAustriaSatellite(hdRectangle);
+      viewer.scene.imageryLayers.addImageryProvider(createAustriaSatelliteProvider(hdRectangle));
       break;
     default:
   }
   if (winter) {
-    turnToWinter(hdRectangle);
+    turnToWinter(viewer.scene, hdRectangle);
   }
+  return viewer;
 };
 
-const prepareStart = (trackData, onAnimationStarted, onAnimationStopped, time, timeShift) => {
-  setupClock(trackData.startTime, trackData.stopTime, onAnimationStopped);
+const prepareStart = (trackData, viewer, onAnimationStarted, onAnimationStopped, time, timeShift) => {
+  setupClock(
+    viewer.clock,
+    trackData.startTime,
+    trackData.stopTime,
+    () => tickChanged(viewer, onAnimationStopped)
+  );
   viewer.terrainProvider.readyPromise.then(() => {
-    timeChanged(time, timeShift, onAnimationStarted);
-    jumpToTargetTime();
-    viewer.clock.shouldAnimate = true;
-    updateCamera();
-    viewer.clock.shouldAnimate = false;
+    timeChanged(viewer.clock, time, timeShift, onAnimationStarted);
+    jumpToTargetTime(viewer);
     onAnimationStopped();
   });
 }
 
 const Map = (props) => {
   const [mapStatus, setMapStatus] = useState('wait');
+  const [viewer, setViewer] = useState(null);
 
   const onAnimationStarted = () => {
     setMapStatus('wait');
@@ -497,7 +500,7 @@ const Map = (props) => {
     loadTrack(props.gpxPath)
       .then(parseTrackData)
       .then((trackData) => {
-        setupMap(
+        const viewer = setupMap(
           trackData,
           props.hideSwissTopo,
           props.detailMap,
@@ -505,19 +508,21 @@ const Map = (props) => {
         );
         prepareStart(
           trackData,
+          viewer,
           onAnimationStarted,
           onAnimationStopped,
           props.time,
           props.timeShift
         );
+        setViewer(viewer);
       })
   }, []); // eslint-disable-line react-hooks/exhaustive-deps
 
   useEffect(() => {
     if (viewer) {
-      timeChanged(props.time, props.timeShift, onAnimationStarted);
+      timeChanged(viewer.clock, props.time, props.timeShift, onAnimationStarted);
     }
-  }, [props.time, props.timeShift])
+  }, [viewer, props.time, props.timeShift])
 
   return (
     <div>
@@ -526,6 +531,7 @@ const Map = (props) => {
       </Helmet>
       <CesiumContainer
         id="cesiumContainer"
+        key="cesiumContainer"
         className={props.size + ' ' + mapStatus}
         onClick={props.onClick}
       />
