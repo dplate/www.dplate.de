@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import { withPrefix } from 'gatsby';
 import PropTypes from 'prop-types';
 import styled from 'styled-components';
@@ -75,8 +75,6 @@ const CesiumContainer = styled.div`
     display: none;
   }
 `;
-
-let targetTime = null;
 
 const loadTrack = (gpxPath) => fetch(gpxPath).then((response) => response.text());
 
@@ -348,12 +346,12 @@ const updateCamera = (viewer, hiker) => {
   viewer.camera.lookAt(realCurrentPos, new HeadingPitchRange(newHeading, newPitch, 500));
 };
 
-const updateSpeed = (clock, onAnimationStopped) => {
-  if (!targetTime) {
+const updateSpeed = (clock, targetTime, onAnimationStopped) => {
+  if (!targetTime.current) {
     return;
   }
 
-  const timeDifference = JulianDate.secondsDifference(targetTime, clock.currentTime);
+  const timeDifference = JulianDate.secondsDifference(targetTime.current, clock.currentTime);
   let multiplier = timeDifference / 3;
   multiplier = Math.max(multiplier, -5000);
   multiplier = Math.min(multiplier, 5000);
@@ -395,9 +393,9 @@ const updateHiker = (viewer, hiker) => {
   }
 };
 
-const tickChanged = (viewer, hiker, onAnimationStopped) => {
+const tickChanged = (viewer, hiker, targetTime, onAnimationStopped) => {
   updateCamera(viewer, hiker);
-  updateSpeed(viewer.clock, onAnimationStopped);
+  updateSpeed(viewer.clock, targetTime, onAnimationStopped);
   updateHiker(viewer, hiker);
 };
 
@@ -409,30 +407,35 @@ const setupClock = (clock, startTime, stopTime, onTick) => {
   clock.onTick.addEventListener(onTick);
 };
 
-const timeChanged = (clock, newTime, timeShift, onAnimationStarted) => {
+const convertTimeIntoTargetTime = (clock, newTime, timeShift) => {
   if (newTime === 'start') {
-    targetTime = clock.startTime;
-  } else if (newTime === 'end') {
-    targetTime = clock.stopTime;
-  } else {
-    targetTime = JulianDate.fromIso8601(newTime);
-    if (timeShift) {
-      JulianDate.addSeconds(targetTime, timeShift, targetTime);
-    }
-    if (JulianDate.compare(clock.startTime, targetTime) >= 0) {
-      targetTime = clock.startTime;
-    }
-    if (JulianDate.compare(targetTime, clock.stopTime) >= 0) {
-      targetTime = clock.stopTime;
-    }
+    return clock.startTime;
   }
+  if (newTime === 'end') {
+    return clock.stopTime;
+  }
+  const newTargetTime = JulianDate.fromIso8601(newTime);
+  if (timeShift) {
+    JulianDate.addSeconds(newTargetTime, timeShift, newTargetTime);
+  }
+  if (JulianDate.compare(clock.startTime, newTargetTime) >= 0) {
+    return clock.startTime;
+  }
+  if (JulianDate.compare(newTargetTime, clock.stopTime) >= 0) {
+    return clock.stopTime;
+  }
+  return newTargetTime;
+};
+
+const timeChanged = (clock, targetTime, newTime, timeShift, onAnimationStarted) => {
+  targetTime.current = convertTimeIntoTargetTime(clock, newTime, timeShift);
   clock.shouldAnimate = true;
   onAnimationStarted();
 };
 
-const jumpToTargetTime = (viewer, hiker) => {
-  if (targetTime) {
-    viewer.clock.currentTime = targetTime;
+const jumpToTargetTime = (viewer, hiker, targetTime) => {
+  if (targetTime.current) {
+    viewer.clock.currentTime = targetTime.current;
     viewer.clock.shouldAnimate = true;
     updateCamera(viewer, hiker);
     viewer.clock.shouldAnimate = false;
@@ -458,18 +461,18 @@ const setupMap = (trackData, hideSwissTopo, detailMap, winter) => {
   return viewer;
 };
 
-const prepareStart = async (trackData, viewer, hiker, onAnimationStarted, onAnimationStopped, time, timeShift) => {
+const prepareStart = async (trackData, viewer, hiker, targetTime, onAnimationStarted, onAnimationStopped, time, timeShift) => {
   setupClock(
     viewer.clock,
     trackData.startTime,
     trackData.stopTime,
-    () => tickChanged(viewer, hiker, onAnimationStopped)
+    () => tickChanged(viewer, hiker, targetTime, onAnimationStopped)
   );
 
   await viewer.terrainProvider.readyPromise
 
-  timeChanged(viewer.clock, time, timeShift, onAnimationStarted);
-  jumpToTargetTime(viewer, hiker);
+  timeChanged(viewer.clock, targetTime, time, timeShift, onAnimationStarted);
+  jumpToTargetTime(viewer, hiker, targetTime);
   onAnimationStopped();
 
   return viewer.clock;
@@ -481,6 +484,7 @@ const Map = (props) => {
   const [viewer, setViewer] = useState(null);
   const [hiker, setHiker] = useState(null);
   const [clock, setClock] = useState(null);
+  const targetTime = useRef(null);
 
   const onAnimationStarted = () => {
     setMapStatus('wait');
@@ -522,6 +526,7 @@ const Map = (props) => {
         trackData,
         viewer,
         hiker,
+        targetTime,
         onAnimationStarted,
         onAnimationStopped,
         props.time,
@@ -532,7 +537,7 @@ const Map = (props) => {
 
   useEffect(() => {
     if (clock) {
-      timeChanged(clock, props.time, props.timeShift, onAnimationStarted);
+      timeChanged(clock, targetTime, props.time, props.timeShift, onAnimationStarted);
     }
   }, [clock, props.time, props.timeShift])
 
