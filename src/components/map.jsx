@@ -76,7 +76,6 @@ const CesiumContainer = styled.div`
   }
 `;
 
-let currentTilt = -15;
 let targetTime = null;
 
 const loadTrack = (gpxPath) => fetch(gpxPath).then((response) => response.text());
@@ -326,7 +325,8 @@ const updateCamera = (viewer, hiker) => {
   const currentHeight = viewer.scene.globe.getHeight(currentCart) || currentCart.height;
   const realCurrentPos = Cartesian3.fromRadians(currentCart.longitude, currentCart.latitude, currentHeight);
 
-  let newHeading;
+  let newHeading = viewer.camera.heading;
+  let newTilt = CesiumMath.toDegrees(viewer.camera.pitch);
   if (viewer.clock.shouldAnimate) {
     const futureCart = Cartographic.fromCartesian(hikerPosition.getValue(futureTime));
     const geodesic = new EllipsoidGeodesic(currentCart, futureCart);
@@ -337,19 +337,14 @@ const updateCamera = (viewer, hiker) => {
       new Cartographic(currentCart.longitude, currentCart.latitude, currentHeight)
     );
     if (cameraHeight && optimalCameraHeight) {
-      if (currentTilt === -15) {
-        currentTilt = cameraHeight - optimalCameraHeight;
-      } else {
-        currentTilt += (cameraHeight - optimalCameraHeight) * 0.01;
-      }
-      currentTilt = Math.max(currentTilt, -90);
-      currentTilt = Math.min(currentTilt, 0);
+      newTilt += (cameraHeight - optimalCameraHeight) * 0.01;
+      newTilt = Math.max(newTilt, -90);
+      newTilt = Math.min(newTilt, 0);
     }
   } else {
-    newHeading = viewer.camera.heading;
-    currentTilt = cameraHeight - allowedMinimumCameraHeight;
+    newTilt = cameraHeight - allowedMinimumCameraHeight;
   }
-  const newPitch = CesiumMath.toRadians(currentTilt);
+  const newPitch = CesiumMath.toRadians(newTilt);
   viewer.camera.lookAt(realCurrentPos, new HeadingPitchRange(newHeading, newPitch, 500));
 };
 
