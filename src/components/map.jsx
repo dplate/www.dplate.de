@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import { withPrefix } from 'gatsby';
 import PropTypes from 'prop-types';
 import styled from 'styled-components';
@@ -76,434 +76,461 @@ const CesiumContainer = styled.div`
   }
 `;
 
-class Map extends React.Component {
-  constructor(props) {
-    super(props);
-    this.currentTilt = -15;
-    this.targetTime = null;
-    this.state = {
-      mapStatus: 'wait',
-    };
-    this.hiker = {
-      front: null,
-      back: null,
-      left: null,
-      right: null
-    };
-  }
+let viewer = null;
+let hiker = {
+  front: null,
+  back: null,
+  left: null,
+  right: null
+};
+let currentTilt = -15;
+let targetTime = null;
 
-  componentDidMount() {
-    this.initCesium();
-  }
+const loadTrack = (gpxPath) => fetch(gpxPath).then((response) => response.text());
 
-  UNSAFE_componentWillReceiveProps(nextProps, nextContext) {
-    if (this.props.time !== nextProps.time && this.viewer) {
-      this.timeChanged(nextProps.time);
-    }
-  }
-
-  initCesium() {
-    this.loadTrack().then(this.setupMap.bind(this));
-  }
-
-  jumpToTargetTime() {
-    if (this.targetTime) {
-      this.viewer.clock.currentTime = this.targetTime;
-    }
-  }
-
-  timeChanged(newTime) {
-    if (newTime === 'start') {
-      this.targetTime = this.viewer.clock.startTime;
-    } else if (newTime === 'end') {
-      this.targetTime = this.viewer.clock.stopTime;
-    } else {
-      this.targetTime = JulianDate.fromIso8601(newTime);
-      if (this.props.timeShift) {
-        JulianDate.addSeconds(this.targetTime, this.props.timeShift, this.targetTime);
-      }
-      if (JulianDate.compare(this.viewer.clock.startTime, this.targetTime) >= 0) {
-        this.targetTime = this.viewer.clock.startTime;
-      }
-      if (JulianDate.compare(this.targetTime, this.viewer.clock.stopTime) >= 0) {
-        this.targetTime = this.viewer.clock.stopTime;
-      }
-    }
-    this.viewer.clock.shouldAnimate = true;
-  }
-
-  findOptimalCameraHeight(pinPos) {
-    const cameraPos = this.viewer.camera.positionCartographic;
-    let optimalHeight = 0;
-    for (let distanceFactor = 0.0; distanceFactor < 1.0; distanceFactor += 0.1) {
-      const samplePos = new Cartographic(
-        pinPos.longitude * distanceFactor + cameraPos.longitude * (1.0 - distanceFactor),
-        pinPos.latitude * distanceFactor + cameraPos.latitude * (1.0 - distanceFactor),
-        pinPos.height * distanceFactor + cameraPos.height * (1.0 - distanceFactor)
-      );
-      const terrainHeight = this.viewer.scene.globe.getHeight(samplePos);
-      optimalHeight = Math.max(optimalHeight, pinPos.height + (terrainHeight - pinPos.height) / (1.0 - distanceFactor));
-    }
-    return optimalHeight + 150;
-  }
-
-  updateCamera() {
-    const terrainHeightUnderCamera = this.viewer.scene.globe.getHeight(this.viewer.camera.positionCartographic);
-    const allowedMinimumCameraHeight = terrainHeightUnderCamera + 10;
-    const cameraHeight = this.viewer.camera.positionCartographic.height;
-    if (!this.viewer.clock.shouldAnimate && (!allowedMinimumCameraHeight || cameraHeight > allowedMinimumCameraHeight))
+const parseTrackData = (gpxRaw) => {
+  const trackData = {
+    startTime: null,
+    stopTime: null,
+    sampledPosition: new SampledPositionProperty(),
+    positions: []
+  };
+  const doc = new window.DOMParser().parseFromString(gpxRaw, 'text/xml');
+  Array.prototype.slice.call(doc.getElementsByTagName('trkpt')).forEach((trackPoint) => {
+    const longitude = parseFloat(trackPoint.getAttribute('lon'));
+    const latitude = parseFloat(trackPoint.getAttribute('lat'));
+    const position = Cartesian3.fromDegrees(longitude, latitude, 0);
+    if (
+      trackData.positions.length > 0 &&
+      Cartesian3.distance(position, trackData.positions[trackData.positions.length - 1]) < 20
+    ) {
       return;
+    }
+    const date = JulianDate.fromIso8601(trackPoint.getElementsByTagName('time')[0].firstChild.nodeValue);
+    if (!trackData.startTime) {
+      trackData.startTime = date;
+    }
+    trackData.stopTime = date;
+    trackData.sampledPosition.addSample(date, position);
+    trackData.positions.push(position);
+  });
+  return trackData;
+};
 
-    const futureTime = new JulianDate();
-    JulianDate.addSeconds(this.viewer.clock.currentTime, 20 * 60, futureTime);
-    const secondsAfterEnd = JulianDate.secondsDifference(futureTime, this.viewer.clock.stopTime);
-    if (secondsAfterEnd > 0) JulianDate.addSeconds(this.viewer.clock.startTime, secondsAfterEnd, futureTime);
-
-    const pin = this.viewer.entities.getById('pin');
-    const currentCart = Cartographic.fromCartesian(pin.position.getValue(this.viewer.clock.currentTime));
-
-    const currentHeight = this.viewer.scene.globe.getHeight(currentCart) || currentCart.height;
-    const realCurrentPos = Cartesian3.fromRadians(currentCart.longitude, currentCart.latitude, currentHeight);
-
-    let newHeading;
-    if (this.viewer.clock.shouldAnimate) {
-      const futureCart = Cartographic.fromCartesian(pin.position.getValue(futureTime));
-      const geodesic = new EllipsoidGeodesic(currentCart, futureCart);
-      newHeading = geodesic.startHeading;
-
-      const optimalCameraHeight = this.findOptimalCameraHeight(
-        new Cartographic(currentCart.longitude, currentCart.latitude, currentHeight)
-      );
-      if (cameraHeight && optimalCameraHeight) {
-        if (this.currentTilt === -15) {
-          this.currentTilt = cameraHeight - optimalCameraHeight;
+const catchInvalidSwissTopoTiles = (provider) => {
+  let randomValidTile = null;
+  const originalRequestTileGeometry = provider.requestTileGeometry.bind(provider);
+  provider.requestTileGeometry = (x, y, level, request) => {
+    const promise = originalRequestTileGeometry(x, y, level, request);
+    if (promise) {
+      return promise.then((terrainData) => {
+        // noinspection JSUnresolvedVariable
+        const indexLengths = [
+          terrainData._westIndices.length,
+          terrainData._southIndices.length,
+          terrainData._northIndices.length,
+          terrainData._eastIndices.length
+        ];
+        const brokenIndices = indexLengths.filter((length) => length === 0).length;
+        // noinspection JSUnresolvedVariable
+        if (brokenIndices > 0 && brokenIndices < 4 && terrainData._minimumHeight <= 150 && randomValidTile) {
+          console.warn('Replacing possible invalid terrain tile by random correct tile');
+          return randomValidTile;
         } else {
-          this.currentTilt += (cameraHeight - optimalCameraHeight) * 0.01;
-        }
-        this.currentTilt = Math.max(this.currentTilt, -90);
-        this.currentTilt = Math.min(this.currentTilt, 0);
-      }
-    } else {
-      newHeading = this.viewer.camera.heading;
-      this.currentTilt = cameraHeight - allowedMinimumCameraHeight;
-    }
-    const newPitch = CesiumMath.toRadians(this.currentTilt);
-    this.viewer.camera.lookAt(realCurrentPos, new HeadingPitchRange(newHeading, newPitch, 500));
-  }
-
-  updateHiker() {
-    const pin = this.viewer.entities.getById('pin');
-
-    const currentPos = pin.position.getValue(this.viewer.clock.currentTime);
-    if (!currentPos) return;
-    const currentCart = Cartographic.fromCartesian(currentPos);
-
-    const futureTime = new JulianDate();
-    JulianDate.addSeconds(this.viewer.clock.currentTime, 30, futureTime);
-    const futureCart = Cartographic.fromCartesian(pin.position.getValue(futureTime));
-
-    const geodesic = new EllipsoidGeodesic(currentCart, futureCart);
-    const hikerHeading = geodesic.startHeading;
-    const cameraHeading = this.viewer.camera.heading;
-    const viewAngle = (cameraHeading - hikerHeading) % (2 * Math.PI);
-
-    if (viewAngle >= 0.25 * Math.PI && viewAngle < 0.75 * Math.PI) {
-      pin.billboard = this.hiker.left;
-    } else if (viewAngle >= 0.75 * Math.PI && viewAngle < 1.25 * Math.PI) {
-      pin.billboard = this.hiker.front;
-    } else if (viewAngle >= 1.25 * Math.PI && viewAngle < 1.75 * Math.PI) {
-      pin.billboard = this.hiker.right;
-    } else {
-      pin.billboard = this.hiker.back;
-    }
-  }
-
-  updateSpeed() {
-    if (!this.targetTime) return;
-
-    const timeDifference = JulianDate.secondsDifference(this.targetTime, this.viewer.clock.currentTime);
-    let multiplier = timeDifference / 3;
-    multiplier = Math.max(multiplier, -5000);
-    multiplier = Math.min(multiplier, 5000);
-    this.viewer.clock.multiplier = multiplier;
-    if (Math.abs(multiplier) < 20 || Math.abs(timeDifference) <= 10) {
-      if (this.viewer.clock.shouldAnimate && this.props.onTimeReached) {
-        this.props.onTimeReached();
-      }
-      this.viewer.clock.shouldAnimate = false;
-      if (this.state.mapStatus !== 'free') {
-        this.setState({ mapStatus: 'free' });
-      }
-    } else {
-      this.viewer.clock.shouldAnimate = true;
-      if (this.state.mapStatus !== 'wait') this.setState({ mapStatus: 'wait' });
-    }
-  }
-
-  tickChanged() {
-    this.updateCamera();
-    this.updateSpeed();
-    this.updateHiker();
-  }
-
-  loadTrack() {
-    return fetch(this.props.gpxPath).then((response) => response.text());
-  }
-
-  setupMap(gpxRaw) {
-    const trackData = this.parseTrackData(gpxRaw);
-    this.setupViewer(trackData);
-    this.addTrack(trackData.positions);
-    this.addPin(trackData.sampledPosition);
-    const hdRectangle = this.createHdRectangle(trackData.positions);
-    if (this.props.detailMap === 'swiss') {
-      this.addSwissSatellite(hdRectangle);
-    }
-    if (this.props.detailMap === 'austria') {
-      this.addAustriaSatellite(hdRectangle);
-    }
-    if (this.props.winter) {
-      this.turnToWinter(hdRectangle);
-    }
-    this.setupClock(trackData.startTime, trackData.stopTime);
-    this.viewer.terrainProvider.readyPromise.then(() => {
-      this.timeChanged(this.props.time);
-      this.jumpToTargetTime();
-      this.viewer.clock.shouldAnimate = true;
-      this.updateCamera();
-      this.viewer.clock.shouldAnimate = false;
-    });
-  }
-
-  catchInvalidSwissTopoTiles(provider) {
-    let randomValidTile = null;
-    const originalRequestTileGeometry = provider.requestTileGeometry.bind(provider);
-    provider.requestTileGeometry = (x, y, level, request) => {
-      const promise = originalRequestTileGeometry(x, y, level, request);
-      if (promise) {
-        return promise.then((terrainData) => {
           // noinspection JSUnresolvedVariable
-          const indexLengths = [
-            terrainData._westIndices.length,
-            terrainData._southIndices.length,
-            terrainData._northIndices.length,
-            terrainData._eastIndices.length
-          ];
-          const brokenIndices = indexLengths.filter((length) => length === 0).length;
-          // noinspection JSUnresolvedVariable
-          if (brokenIndices > 0 && brokenIndices < 4 && terrainData._minimumHeight <= 150 && randomValidTile) {
-            console.warn('Replacing possible invalid terrain tile by random correct tile');
-            return randomValidTile;
-          } else {
-            // noinspection JSUnresolvedVariable
-            if (brokenIndices === 0 && terrainData._minimumHeight > 150) {
-              randomValidTile = terrainData;
-            }
+          if (brokenIndices === 0 && terrainData._minimumHeight > 150) {
+            randomValidTile = terrainData;
           }
-          return terrainData;
-        });
-      }
-    };
-    return provider;
-  }
-
-  createTerrainProvider() {
-    if (this.props.hideSwissTopo) {
-      return new createWorldTerrain({
-        requestVertexNormals: true
+        }
+        return terrainData;
       });
     }
-    const provider = new CesiumTerrainProvider({
-      url: '//3d.geo.admin.ch/1.0.0/ch.swisstopo.terrain.3d/default/20200520/4326/',
+  };
+  return provider;
+};
+
+const createTerrainProvider = (hideSwissTopo) => {
+  if (hideSwissTopo) {
+    return new createWorldTerrain({
       requestVertexNormals: true
     });
-    return this.catchInvalidSwissTopoTiles(provider);
   }
+  const provider = new CesiumTerrainProvider({
+    url: '//3d.geo.admin.ch/1.0.0/ch.swisstopo.terrain.3d/default/20200520/4326/',
+    requestVertexNormals: true
+  });
+  return catchInvalidSwissTopoTiles(provider);
+};
 
-  setupViewer(trackData) {
-    Ion.defaultAccessToken =
-      'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiI2YzA0MGNiZi02N2E1LTQxZGQtYjAzNi1iNDJjYTRjNTU4NzciLCJpZCI6MTgxMSwiaWF0IjoxNTMwMjA0MjIxfQ.o1Sfgaz0-I6_tAgUIO-8RV2kw7nOB-nNupVeHwsGLj0';
+const createGlobeRectangle = (positions) => {
+  const globeRectangle = Rectangle.fromCartesianArray(positions, Ellipsoid.WGS84);
+  globeRectangle.east += 0.01;
+  globeRectangle.west -= 0.01;
+  globeRectangle.north += 0.01;
+  globeRectangle.south -= 0.01;
+  return globeRectangle;
+};
 
-    this.viewer = new Viewer('cesiumContainer', {
-      terrainProvider: this.createTerrainProvider(),
-      baseLayerPicker: false,
-      geocoder: false,
-      animation: false,
-      fullscreenButton: false,
-      homeButton: false,
-      infoBox: false,
-      sceneModePicker: false,
-      selectionIndicator: false,
-      timeline: false,
-      navigationHelpButton: false,
-      navigationInstructionsInitiallyVisible: false,
-      scene3DOnly: true,
-      showRenderLoopErrors: false,
-      imageryProvider: new BingMapsImageryProvider({
-        url: 'https://dev.virtualearth.net',
-        key: 'AkvC0n8biVNXoCbpiAc4p3g7S9ZHoUWvlpgcJKYQd8FhCA5sn6C8OUmhIR8IEO0X',
-        mapStyle: BingMapsStyle.AERIAL
-      })
+const setupViewer = (trackData, hideSwissTopo) => {
+  Ion.defaultAccessToken =
+    'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiI2YzA0MGNiZi02N2E1LTQxZGQtYjAzNi1iNDJjYTRjNTU4NzciLCJpZCI6MTgxMSwiaWF0IjoxNTMwMjA0MjIxfQ.o1Sfgaz0-I6_tAgUIO-8RV2kw7nOB-nNupVeHwsGLj0';
+
+  viewer = new Viewer('cesiumContainer', {
+    terrainProvider: createTerrainProvider(hideSwissTopo),
+    baseLayerPicker: false,
+    geocoder: false,
+    animation: false,
+    fullscreenButton: false,
+    homeButton: false,
+    infoBox: false,
+    sceneModePicker: false,
+    selectionIndicator: false,
+    timeline: false,
+    navigationHelpButton: false,
+    navigationInstructionsInitiallyVisible: false,
+    scene3DOnly: true,
+    showRenderLoopErrors: false,
+    imageryProvider: new BingMapsImageryProvider({
+      url: 'https://dev.virtualearth.net',
+      key: 'AkvC0n8biVNXoCbpiAc4p3g7S9ZHoUWvlpgcJKYQd8FhCA5sn6C8OUmhIR8IEO0X',
+      mapStyle: BingMapsStyle.AERIAL
+    })
+  });
+  viewer.scene.globe.depthTestAgainstTerrain = true;
+  viewer.scene.globe.tileCacheSize = 1000;
+  viewer.scene.globe.cartographicLimitRectangle = createGlobeRectangle(trackData.positions);
+  viewer.scene.globe.enableLighting = true;
+  // noinspection JSUnresolvedVariable
+  viewer.scene._renderError.raiseEvent = (scene, error) => {
+    console.error(error);
+  };
+};
+
+const addTrack = (positions) => {
+  const corridor = new CorridorGraphics({
+    positions,
+    material: Color.RED,
+    width: 2.0
+  });
+
+  viewer.entities.add(
+    new Entity({
+      id: 'track',
+      corridor
+    })
+  );
+};
+
+const loadHiker = () => {
+  ['front', 'back', 'left', 'right'].forEach((orientation) => {
+    hiker[orientation] = new BillboardGraphics({
+      image: '/assets/hiker-' + orientation + '.svg',
+      heightReference: HeightReference.CLAMP_TO_GROUND,
+      verticalOrigin: VerticalOrigin.BOTTOM,
+      depthTestAgainstTerrain: 0
     });
-    this.viewer.scene.globe.depthTestAgainstTerrain = true;
-    this.viewer.scene.globe.tileCacheSize = 1000;
-    this.viewer.scene.globe.cartographicLimitRectangle = this.createGlobeRectangle(trackData.positions);
-    this.viewer.scene.globe.enableLighting = true;
-    // noinspection JSUnresolvedVariable
-    this.viewer.scene._renderError.raiseEvent = (scene, error) => {
-      console.error(error);
-    };
+  });
+};
+
+const addPin = (sampledPosition) => {
+  loadHiker();
+  const pin = new Entity({
+    id: 'pin',
+    billboard: hiker.back,
+    position: sampledPosition
+  });
+  viewer.entities.add(pin);
+};
+
+const createHdRectangle = (positions) => {
+  const hdRectangle = Rectangle.fromCartesianArray(positions, Ellipsoid.WGS84);
+  hdRectangle.east += 0.0005;
+  hdRectangle.west -= 0.0005;
+  hdRectangle.north += 0.00025;
+  hdRectangle.south -= 0.00025;
+  return hdRectangle;
+};
+
+const addSwissSatellite = (hdRectangle) => {
+  const provider = new UrlTemplateImageryProvider({
+    url: '//wmts{s}.geo.admin.ch/1.0.0/ch.swisstopo.swissimage-product/default/current/4326/{z}/{x}/{y}.jpeg',
+    subdomains: ['5', '6', '7', '8', '9', '20'],
+    minimumLevel: 8,
+    maximumLevel: 17,
+    tilingScheme: new GeographicTilingScheme({
+      numberOfLevelZeroTilesX: 2,
+      numberOfLevelZeroTilesY: 1
+    }),
+    rectangle: hdRectangle,
+    credit: new Credit('geodata © swisstopo', true)
+  });
+  viewer.scene.imageryLayers.addImageryProvider(provider);
+};
+
+const addAustriaSatellite = (hdRectangle) => {
+  const provider = new WebMapTileServiceImageryProvider({
+    url: '//maps{s}.wien.gv.at/basemap/bmaporthofoto30cm/{Style}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg',
+    layer: 'bmaporthofoto30cm',
+    style: 'normal',
+    tileMatrixSetID: 'google3857',
+    subdomains: '1234',
+    rectangle: hdRectangle,
+    credit: new Credit('<a href="https://www.basemap.at/" target="_blank">Datenquelle: basemap.at</a>', true)
+  });
+  viewer.scene.imageryLayers.addImageryProvider(provider);
+};
+
+const turnToWinter = (hdRectangle) => {
+  const layers = viewer.scene.imageryLayers;
+  for (let i = 0; i < layers.length; i++) {
+    const layer = layers.get(i);
+    layer.contrast = 2.5;
+    layer.saturation = 0.2;
+    layer.brightness = 1.5;
   }
+  const snowLayer = layers.addImageryProvider(
+    new SingleTileImageryProvider({
+      url: '/snow-texture.jpg',
+      rectangle: hdRectangle
+    })
+  );
+  snowLayer.alpha = 0.2;
+  viewer.scene.highDynamicRange = false;
+};
 
-  parseTrackData(gpxRaw) {
-    const trackData = {
-      startTime: null,
-      stopTime: null,
-      sampledPosition: new SampledPositionProperty(),
-      positions: []
-    };
-    const doc = new window.DOMParser().parseFromString(gpxRaw, 'text/xml');
-    Array.prototype.slice.call(doc.getElementsByTagName('trkpt')).forEach((trackPoint) => {
-      const longitude = parseFloat(trackPoint.getAttribute('lon'));
-      const latitude = parseFloat(trackPoint.getAttribute('lat'));
-      const position = Cartesian3.fromDegrees(longitude, latitude, 0);
-      if (
-        trackData.positions.length > 0 &&
-        Cartesian3.distance(position, trackData.positions[trackData.positions.length - 1]) < 10
-      )
-        return;
-      const date = JulianDate.fromIso8601(trackPoint.getElementsByTagName('time')[0].firstChild.nodeValue);
-      if (!trackData.startTime) trackData.startTime = date;
-      trackData.stopTime = date;
-      trackData.sampledPosition.addSample(date, position);
-      trackData.positions.push(position);
-    });
-    return trackData;
-  }
-
-  addTrack(positions) {
-    const corridor = new CorridorGraphics({
-      positions,
-      material: Color.RED,
-      width: 2.0
-    });
-
-    this.viewer.entities.add(
-      new Entity({
-        id: 'track',
-        corridor
-      })
+const findOptimalCameraHeight = (pinPos) => {
+  const cameraPos = viewer.camera.positionCartographic;
+  let optimalHeight = 0;
+  for (let distanceFactor = 0.0; distanceFactor < 1.0; distanceFactor += 0.1) {
+    const samplePos = new Cartographic(
+      pinPos.longitude * distanceFactor + cameraPos.longitude * (1.0 - distanceFactor),
+      pinPos.latitude * distanceFactor + cameraPos.latitude * (1.0 - distanceFactor),
+      pinPos.height * distanceFactor + cameraPos.height * (1.0 - distanceFactor)
     );
+    const terrainHeight = viewer.scene.globe.getHeight(samplePos);
+    optimalHeight = Math.max(optimalHeight, pinPos.height + (terrainHeight - pinPos.height) / (1.0 - distanceFactor));
+  }
+  return optimalHeight + 150;
+};
+
+const updateCamera = () => {
+  const terrainHeightUnderCamera = viewer.scene.globe.getHeight(viewer.camera.positionCartographic);
+  const allowedMinimumCameraHeight = terrainHeightUnderCamera + 10;
+  const cameraHeight = viewer.camera.positionCartographic.height;
+  if (!viewer.clock.shouldAnimate && (!allowedMinimumCameraHeight || cameraHeight > allowedMinimumCameraHeight)) {
+    return;
   }
 
-  loadHiker() {
-    ['front', 'back', 'left', 'right'].forEach((orientation) => {
-      this.hiker[orientation] = new BillboardGraphics({
-        image: '/assets/hiker-' + orientation + '.svg',
-        heightReference: HeightReference.CLAMP_TO_GROUND,
-        verticalOrigin: VerticalOrigin.BOTTOM,
-        depthTestAgainstTerrain: 0
-      });
-    });
+  const futureTime = new JulianDate();
+  JulianDate.addSeconds(viewer.clock.currentTime, 20 * 60, futureTime);
+  const secondsAfterEnd = JulianDate.secondsDifference(futureTime, viewer.clock.stopTime);
+  if (secondsAfterEnd > 0) {
+    JulianDate.addSeconds(viewer.clock.startTime, secondsAfterEnd, futureTime);
   }
 
-  addPin(sampledPosition) {
-    this.loadHiker();
-    const pin = new Entity({
-      id: 'pin',
-      billboard: this.hiker.back,
-      position: sampledPosition
-    });
-    this.viewer.entities.add(pin);
-  }
+  const pin = viewer.entities.getById('pin');
+  const currentCart = Cartographic.fromCartesian(pin.position.getValue(viewer.clock.currentTime));
 
-  turnToWinter(hdRectangle) {
-    const layers = this.viewer.scene.imageryLayers;
-    for (let i = 0; i < layers.length; i++) {
-      const layer = layers.get(i);
-      layer.contrast = 2.5;
-      layer.saturation = 0.2;
-      layer.brightness = 1.5;
+  const currentHeight = viewer.scene.globe.getHeight(currentCart) || currentCart.height;
+  const realCurrentPos = Cartesian3.fromRadians(currentCart.longitude, currentCart.latitude, currentHeight);
+
+  let newHeading;
+  if (viewer.clock.shouldAnimate) {
+    const futureCart = Cartographic.fromCartesian(pin.position.getValue(futureTime));
+    const geodesic = new EllipsoidGeodesic(currentCart, futureCart);
+    newHeading = geodesic.startHeading;
+
+    const optimalCameraHeight = findOptimalCameraHeight(
+      new Cartographic(currentCart.longitude, currentCart.latitude, currentHeight)
+    );
+    if (cameraHeight && optimalCameraHeight) {
+      if (currentTilt === -15) {
+        currentTilt = cameraHeight - optimalCameraHeight;
+      } else {
+        currentTilt += (cameraHeight - optimalCameraHeight) * 0.01;
+      }
+      currentTilt = Math.max(currentTilt, -90);
+      currentTilt = Math.min(currentTilt, 0);
     }
-    const snowLayer = layers.addImageryProvider(
-      new SingleTileImageryProvider({
-        url: '/snow-texture.jpg',
-        rectangle: hdRectangle
+  } else {
+    newHeading = viewer.camera.heading;
+    currentTilt = cameraHeight - allowedMinimumCameraHeight;
+  }
+  const newPitch = CesiumMath.toRadians(currentTilt);
+  viewer.camera.lookAt(realCurrentPos, new HeadingPitchRange(newHeading, newPitch, 500));
+};
+
+const updateSpeed = (onAnimationStopped) => {
+  if (!targetTime) {
+    return;
+  }
+
+  const timeDifference = JulianDate.secondsDifference(targetTime, viewer.clock.currentTime);
+  let multiplier = timeDifference / 3;
+  multiplier = Math.max(multiplier, -5000);
+  multiplier = Math.min(multiplier, 5000);
+  viewer.clock.multiplier = multiplier;
+  if (Math.abs(multiplier) < 20 || Math.abs(timeDifference) <= 10) {
+    if (viewer.clock.shouldAnimate) {
+      onAnimationStopped()
+    }
+    viewer.clock.shouldAnimate = false;
+  }
+};
+
+const updateHiker = () => {
+  const pin = viewer.entities.getById('pin');
+
+  const currentPos = pin.position.getValue(viewer.clock.currentTime);
+  if (!currentPos) {
+    return;
+  }
+  const currentCart = Cartographic.fromCartesian(currentPos);
+
+  const futureTime = new JulianDate();
+  JulianDate.addSeconds(viewer.clock.currentTime, 30, futureTime);
+  const futureCart = Cartographic.fromCartesian(pin.position.getValue(futureTime));
+
+  const geodesic = new EllipsoidGeodesic(currentCart, futureCart);
+  const hikerHeading = geodesic.startHeading;
+  const cameraHeading = viewer.camera.heading;
+  const viewAngle = (cameraHeading - hikerHeading) % (2 * Math.PI);
+
+  if (viewAngle >= 0.25 * Math.PI && viewAngle < 0.75 * Math.PI) {
+    pin.billboard = hiker.left;
+  } else if (viewAngle >= 0.75 * Math.PI && viewAngle < 1.25 * Math.PI) {
+    pin.billboard = hiker.front;
+  } else if (viewAngle >= 1.25 * Math.PI && viewAngle < 1.75 * Math.PI) {
+    pin.billboard = hiker.right;
+  } else {
+    pin.billboard = hiker.back;
+  }
+};
+
+const tickChanged = (onAnimationStopped) => {
+  updateCamera();
+  updateSpeed(onAnimationStopped);
+  updateHiker();
+};
+
+const setupClock = (startTime, stopTime, onAnimationStopped) => {
+  viewer.clock.startTime = startTime;
+  viewer.clock.stopTime = stopTime;
+  viewer.clock.clockRange = ClockRange.CLAMPED;
+  viewer.clock.currentTime = startTime;
+  viewer.clock.onTick.addEventListener(() => tickChanged(onAnimationStopped));
+};
+
+const timeChanged = (newTime, timeShift, onAnimationStarted) => {
+  if (newTime === 'start') {
+    targetTime = viewer.clock.startTime;
+  } else if (newTime === 'end') {
+    targetTime = viewer.clock.stopTime;
+  } else {
+    targetTime = JulianDate.fromIso8601(newTime);
+    if (timeShift) {
+      JulianDate.addSeconds(targetTime, timeShift, targetTime);
+    }
+    if (JulianDate.compare(viewer.clock.startTime, targetTime) >= 0) {
+      targetTime = viewer.clock.startTime;
+    }
+    if (JulianDate.compare(targetTime, viewer.clock.stopTime) >= 0) {
+      targetTime = viewer.clock.stopTime;
+    }
+  }
+  viewer.clock.shouldAnimate = true;
+  onAnimationStarted();
+};
+
+const jumpToTargetTime = () => {
+  if (targetTime) {
+    viewer.clock.currentTime = targetTime;
+  }
+};
+
+const setupMap = (trackData, hideSwissTopo, detailMap, winter) => {
+  setupViewer(trackData, hideSwissTopo);
+  addTrack(trackData.positions);
+  addPin(trackData.sampledPosition);
+  const hdRectangle = createHdRectangle(trackData.positions);
+  switch (detailMap) {
+    case 'swiss':
+      addSwissSatellite(hdRectangle);
+      break;
+    case 'austria':
+      addAustriaSatellite(hdRectangle);
+      break;
+    default:
+  }
+  if (winter) {
+    turnToWinter(hdRectangle);
+  }
+};
+
+const prepareStart = (trackData, onAnimationStarted, onAnimationStopped, time, timeShift) => {
+  setupClock(trackData.startTime, trackData.stopTime, onAnimationStopped);
+  viewer.terrainProvider.readyPromise.then(() => {
+    timeChanged(time, timeShift, onAnimationStarted);
+    jumpToTargetTime();
+    viewer.clock.shouldAnimate = true;
+    updateCamera();
+    viewer.clock.shouldAnimate = false;
+    onAnimationStopped();
+  });
+}
+
+const Map = (props) => {
+  const [mapStatus, setMapStatus] = useState('wait');
+
+  const onAnimationStarted = () => {
+    setMapStatus('wait');
+  };
+
+  const onAnimationStopped = () => {
+    if (props.onTimeReached) {
+      props.onTimeReached();
+    }
+    setMapStatus('free');
+  };
+
+  useEffect(() => {
+    loadTrack(props.gpxPath)
+      .then(parseTrackData)
+      .then((trackData) => {
+        setupMap(
+          trackData,
+          props.hideSwissTopo,
+          props.detailMap,
+          props.winter
+        );
+        prepareStart(
+          trackData,
+          onAnimationStarted,
+          onAnimationStopped,
+          props.time,
+          props.timeShift
+        );
       })
-    );
-    snowLayer.alpha = 0.2;
-    this.viewer.scene.highDynamicRange = false;
-  }
+  }, []); // eslint-disable-line react-hooks/exhaustive-deps
 
-  createHdRectangle(positions) {
-    const hdRectangle = Rectangle.fromCartesianArray(positions, Ellipsoid.WGS84);
-    hdRectangle.east += 0.0005;
-    hdRectangle.west -= 0.0005;
-    hdRectangle.north += 0.00025;
-    hdRectangle.south -= 0.00025;
-    return hdRectangle;
-  }
+  useEffect(() => {
+    if (viewer) {
+      timeChanged(props.time, props.timeShift, onAnimationStarted);
+    }
+  }, [props.time, props.timeShift])
 
-  createGlobeRectangle(positions) {
-    const globeRectangle = Rectangle.fromCartesianArray(positions, Ellipsoid.WGS84);
-    globeRectangle.east += 0.01;
-    globeRectangle.west -= 0.01;
-    globeRectangle.north += 0.01;
-    globeRectangle.south -= 0.01;
-    return globeRectangle;
-  }
-
-  addSwissSatellite(hdRectangle) {
-    const provider = new UrlTemplateImageryProvider({
-      url: '//wmts{s}.geo.admin.ch/1.0.0/ch.swisstopo.swissimage-product/default/current/4326/{z}/{x}/{y}.jpeg',
-      subdomains: ['5', '6', '7', '8', '9', '20'],
-      minimumLevel: 8,
-      maximumLevel: 17,
-      tilingScheme: new GeographicTilingScheme({
-        numberOfLevelZeroTilesX: 2,
-        numberOfLevelZeroTilesY: 1
-      }),
-      rectangle: hdRectangle,
-      credit: new Credit('geodata © swisstopo', true)
-    });
-    this.viewer.scene.imageryLayers.addImageryProvider(provider);
-  }
-
-  addAustriaSatellite(hdRectangle) {
-    const provider = new WebMapTileServiceImageryProvider({
-      url: '//maps{s}.wien.gv.at/basemap/bmaporthofoto30cm/{Style}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg',
-      layer: 'bmaporthofoto30cm',
-      style: 'normal',
-      tileMatrixSetID: 'google3857',
-      subdomains: '1234',
-      rectangle: hdRectangle,
-      credit: new Credit('<a href="https://www.basemap.at/" target="_blank">Datenquelle: basemap.at</a>', true)
-    });
-    this.viewer.scene.imageryLayers.addImageryProvider(provider);
-  }
-
-  setupClock(startTime, stopTime) {
-    this.viewer.clock.startTime = startTime;
-    this.viewer.clock.stopTime = stopTime;
-    this.viewer.clock.clockRange = ClockRange.CLAMPED;
-    this.viewer.clock.currentTime = startTime;
-    this.viewer.clock.onTick.addEventListener(this.tickChanged.bind(this));
-  }
-
-  render() {
-    return (
-      <div>
-        <Helmet>
-          <link href={withPrefix('Cesium/Widgets/widgets.css')} rel="stylesheet" type="text/css" />
-        </Helmet>
-        <CesiumContainer
-          id="cesiumContainer"
-          className={this.props.size + ' ' + this.state.mapStatus}
-          onClick={this.props.onClick}
-        />
-      </div>
-    );
-  }
+  return (
+    <div>
+      <Helmet>
+        <link href={withPrefix('Cesium/Widgets/widgets.css')} rel="stylesheet" type="text/css" />
+      </Helmet>
+      <CesiumContainer
+        id="cesiumContainer"
+        className={props.size + ' ' + mapStatus}
+        onClick={props.onClick}
+      />
+    </div>
+  );
 }
 
 Map.propTypes = {
