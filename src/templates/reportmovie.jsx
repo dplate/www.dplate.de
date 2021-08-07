@@ -1,10 +1,11 @@
 import React, { Fragment } from 'react';
 import { Helmet } from 'react-helmet';
-import Map from '../components/map.jsx';
 import AnimatedTitle from '../components/animatedtitle.jsx';
 import { graphql } from 'gatsby';
 import styled from 'styled-components';
 import formatDate from '../utils/formatDate.js';
+import loadable from '@loadable/component';
+const Map = loadable(() => import('../components/map.jsx'))
 
 const Movie = styled.div`
   position: fixed;

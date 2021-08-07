@@ -207,6 +207,7 @@ class Report extends React.Component {
       <VideoContainer key={index}>
         <VideoWrapper>
           <iframe
+            loading="lazy"
             src={`https://www.youtube.com/embed/${video}?wmode=transparent`}
             frameBorder="0"
             allowFullScreen

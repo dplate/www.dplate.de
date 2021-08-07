@@ -1,10 +1,11 @@
 import React, { useEffect, useState } from 'react';
 import PropTypes from 'prop-types';
 import styled, { keyframes } from 'styled-components';
+import loadable from '@loadable/component'
 import resizeIcon from '../icons/resize.svg';
 import closeIcon from '../icons/close.svg';
 import mapIcon from '../icons/map.svg';
-import Map from './map.jsx';
+const Map = loadable(() => import('./map.jsx'))
 
 const MenuBar = styled.div`
   position: fixed;
