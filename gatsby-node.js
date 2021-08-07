@@ -113,7 +113,7 @@ exports.createPages = ({ actions, graphql }) => {
   return Promise.all([reports, reportMovies, destinations]);
 };
 
-exports.onCreateWebpackConfig = ({ actions, loaders }) => {
+exports.onCreateWebpackConfig = ({ getConfig, actions, loaders }) => {
   actions.setWebpackConfig({
     plugins: [
       new CopyWebpackPlugin({
@@ -174,4 +174,9 @@ exports.onCreateWebpackConfig = ({ actions, loaders }) => {
       unknownContextCritical: false
     }
   });
+  if (getConfig().mode === 'production') {
+    actions.setWebpackConfig({
+      devtool: false
+    });
+  }
 };
