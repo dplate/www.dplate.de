@@ -505,12 +505,17 @@ const Map = (props) => {
 
   useEffect(() => {
     if (trackData) {
-      setViewer(setupMap(
+      const newViewer = setupMap(
         trackData,
         props.hideSwissTopo,
         props.detailMap,
         props.winter
-      ));
+      );
+      setViewer(newViewer);
+      return () => {
+        newViewer.destroy();
+        setViewer(null);
+      };
     }
   }, [trackData]); // eslint-disable-line react-hooks/exhaustive-deps
 
