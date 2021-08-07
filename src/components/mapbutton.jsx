@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import PropTypes from 'prop-types';
 import styled, { keyframes } from 'styled-components';
 import resizeIcon from '../icons/resize.svg';
@@ -104,70 +104,58 @@ const MapInfo = styled.div`
   text-align: right;
 `;
 
-class MapButton extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      size: 'icon',
-      allowTeaser: true
-    };
+const changeSize = (size, setSize, allowTeaser) => {
+  let newSize = 'fullscreen';
+  if (size === 'fullscreen' || (size === 'icon' && allowTeaser)) {
+    newSize = 'teaser';
   }
+  setSize(newSize)
+  // noinspection JSUnresolvedVariable
+  window.ga && window.ga('send', 'event', 'resizeMap', newSize);
+};
 
-  componentDidMount() {
-    if (window.innerWidth < 640) {
-      this.setState({
-        allowTeaser: false
-      });
-    }
-  }
-
-  changeSize() {
-    let size = 'fullscreen';
-    if (this.state.size === 'fullscreen' || (this.state.size === 'icon' && this.state.allowTeaser)) {
-      size = 'teaser';
-    }
-    this.setState({ size });
-    // noinspection JSUnresolvedVariable
-    window.ga && window.ga('send', 'event', 'resizeMap', size);
-  }
-
-  close() {
-    this.setState({ size: 'icon' });
-    // noinspection JSUnresolvedVariable
-    window.ga && window.ga('send', 'event', 'closeMap', 'click');
-  }
-
-  renderMapButton() {
-    if (this.props.time && this.props.time !== 'start' && this.props.time !== 'end') {
-      const timeParts = this.props.time.split('T')[1].split(':');
-      const formattedTime = `${timeParts[0]}:${timeParts[1]}`;
-      return [
-        <TimeBar key="timeBar" className={this.state.size}>
-          {formattedTime}
-        </TimeBar>,
-        <MapIcon key="mapIcon" src={mapIcon} />,
-        <MapInfo key="mapInfo">Karte</MapInfo>
-      ];
-    }
-  }
-
-  render() {
-    return (
-      <div>
-        <MenuBar className={this.state.size}>
-          <ResizeIcon onClick={this.changeSize.bind(this)} src={resizeIcon} />
-          <CloseIcon onClick={this.close.bind(this)} src={closeIcon} />
-        </MenuBar>
-        {this.state.size !== 'icon' && (
-          <Map {...this.props.mapProps} time={this.props.time} size={this.state.size} />
-        )}
-        <Button onClick={this.changeSize.bind(this)} className={this.state.size}>
-          {this.renderMapButton()}
-        </Button>
-      </div>
-    );
-  }
+const close = (setSize) => {
+  setSize('icon');
+  // noinspection JSUnresolvedVariable
+  window.ga && window.ga('send', 'event', 'closeMap', 'click');
 }
+
+const renderButton = (time, size) => {
+  if (time && time !== 'start' && time !== 'end') {
+    const timeParts = time.split('T')[1].split(':');
+    const formattedTime = `${timeParts[0]}:${timeParts[1]}`;
+    return [
+      <TimeBar key="timeBar" className={size}>
+        {formattedTime}
+      </TimeBar>,
+      <MapIcon key="mapIcon" src={mapIcon} />,
+      <MapInfo key="mapInfo">Karte</MapInfo>
+    ];
+  }
+};
+
+const MapButton = ({time, mapProps}) => {
+  const [size, setSize] = useState('icon');
+  const [allowTeaser, setAllowTeaser] = useState(true);
+  useEffect(() => setAllowTeaser(window.innerWidth >= 640), []);
+
+  const changeSizePrepared = () => changeSize(size, setSize, allowTeaser);
+
+  return (
+    <div>
+      <MenuBar className={size}>
+        <ResizeIcon onClick={changeSizePrepared} src={resizeIcon} />
+        <CloseIcon onClick={() => close(setSize)} src={closeIcon} />
+      </MenuBar>
+      {size !== 'icon' && (
+        <Map {...mapProps} time={time} size={size} />
+      )}
+      <Button onClick={changeSizePrepared} className={size}>
+        {renderButton(time, size)}
+      </Button>
+    </div>
+  );
+};
 
 MapButton.propTypes = {
   time: PropTypes.string.isRequired,
