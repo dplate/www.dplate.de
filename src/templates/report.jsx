@@ -34,7 +34,6 @@ const Landmark = styled.div`
 
 const PhotoContainer = styled.a`
   display: block; 
-  max-height: calc(100vh - 125px);
   margin: 5px 0;
 `;
 
@@ -188,7 +187,11 @@ class Report extends React.Component {
 
     const photoPath = '/photos' + this.getReportPath() + '/' + fileName + '.jpg';
     return (
-      <PhotoContainer href={'#' + fileName} key={index} style={{aspectRatio: `${photo.width} / ${photo.height}`}}>
+      <PhotoContainer href={'#' + fileName} key={index} style={{
+        aspectRatio: `${photo.width} / ${photo.height}`,
+        maxWidth: `${photo.width}px`,
+        maxHeight: `min(${photo.height}px, calc(100vh - 125px))`
+      }}>
         <Photo
           id={fileName}
           src={photoPath}
