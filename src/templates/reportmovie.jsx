@@ -81,7 +81,7 @@ class ReportMovie extends React.Component {
     this.nextPhase = this.nextPhase.bind(this);
     this.renderLandmark = this.renderLandmark.bind(this);
     this.state = {
-      phase: 'intro',
+      phase: 'loading',
       photo: undefined
     };
   }
@@ -204,7 +204,6 @@ class ReportMovie extends React.Component {
   componentDidMount() {
     // noinspection JSIgnoredPromiseFromCall
     this.outputMetadata();
-    window.setTimeout(this.nextPhase, 10000);
   }
 
   findNextPhoto() {
@@ -226,6 +225,11 @@ class ReportMovie extends React.Component {
 
   nextPhase() {
     switch (this.state.phase) {
+      case 'loading':
+        this.setState({
+          phase: 'intro'
+        });
+        break;
       case 'intro':
         this.setState({
           phase: 'introScroll'
@@ -264,6 +268,7 @@ class ReportMovie extends React.Component {
 
   getTargetTime() {
     switch (this.state.phase) {
+      case 'loading':
       case 'intro':
       case 'introScroll':
         return 'start';
@@ -302,7 +307,7 @@ class ReportMovie extends React.Component {
   }
 
   renderTitle() {
-    const introActive = this.state.phase === 'intro';
+    const introActive = this.state.phase === 'loading' || this.state.phase === 'intro';
     const { date, title, title3d } = this.props.data.reportJson;
     const fullTitle = title + ' - ' + formatDate(date);
     return (
@@ -311,7 +316,7 @@ class ReportMovie extends React.Component {
   }
 
   renderLogo() {
-    const introActive = this.state.phase === 'intro';
+    const introActive = this.state.phase === 'loading' || this.state.phase === 'intro';
     const outroActive = this.state.phase === 'outro';
     const top = introActive ? 75 : outroActive ? 50 : 95;
     const left = introActive || outroActive ? 50 : 95;
@@ -320,7 +325,7 @@ class ReportMovie extends React.Component {
   }
 
   renderCurtain() {
-    const curtainClosed = this.state.phase === 'intro' || this.state.phase === 'outro';
+    const curtainClosed = this.state.phase === 'loading' || this.state.phase === 'intro' || this.state.phase === 'outro';
     const opacity = curtainClosed ? 1 : 0;
     return <Curtain opacity={opacity} />;
   }
@@ -331,20 +336,18 @@ class ReportMovie extends React.Component {
 
   renderMap() {
     const { type, track, timeShift, detailMap, hideSwissTopo } = this.props.data.reportJson;
-    return (
-      track && (
-        <Map
-          gpxPath={this.buildGpxPath()}
-          time={this.getTargetTime()}
-          timeShift={timeShift}
-          detailMap={detailMap}
-          hideSwissTopo={hideSwissTopo}
-          winter={type !== 'hike'}
-          onTimeReached={this.nextPhase}
-          size="fullscreen"
-        />
-      )
-    );
+    if (track) {
+      return <Map
+        gpxPath={this.buildGpxPath()}
+        time={this.getTargetTime()}
+        timeShift={timeShift}
+        detailMap={detailMap}
+        hideSwissTopo={hideSwissTopo}
+        winter={type !== 'hike'}
+        onTimeReached={this.nextPhase}
+        size="fullscreen"
+      />;
+    }
   }
 
   render() {
