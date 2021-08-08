@@ -3,11 +3,12 @@ import { Helmet } from 'react-helmet';
 import styled from 'styled-components';
 import MapButton from '../components/mapbutton.jsx';
 import Title3D from '../components/title3d.jsx';
-import { videoContainerStyle, videoWrapperStyle } from '../styles/basestyle.js';
+import { videoContainerStyle } from '../styles/basestyle.js';
 import formatDate from '../utils/formatDate';
 import gpxIcon from '../icons/gpx.svg';
 import { graphql, Link } from 'gatsby';
 import Layout from '../components/layout.jsx';
+import Video from '../components/video.jsx';
 
 const Content = styled.div`
   display: block;
@@ -59,10 +60,6 @@ const VideoContainer = styled.div`
   margin: 0;
   z-index: 2;
   position: relative;
-`;
-
-const VideoWrapper = styled.div`
-  ${videoWrapperStyle}
 `;
 
 const GpxDownload = styled.a`
@@ -210,15 +207,7 @@ class Report extends React.Component {
   renderVideo(video, index) {
     return (
       <VideoContainer key={index}>
-        <VideoWrapper>
-          <iframe
-            loading="lazy"
-            src={`https://www.youtube.com/embed/${video}?wmode=transparent`}
-            frameBorder="0"
-            allowFullScreen
-            title={video}
-          />
-        </VideoWrapper>
+        <Video title={video} video={video} />
       </VideoContainer>
     );
   }
@@ -333,14 +322,7 @@ class Report extends React.Component {
                 <a href={`https://youtu.be/${movie}`}>{pageTitle} als Animation</a>
               </h3>
               <VideoContainer>
-                <VideoWrapper>
-                  <iframe
-                    src={`https://www.youtube.com/embed/${movie}?wmode=transparent`}
-                    frameBorder="0"
-                    allowFullScreen
-                    title={title}
-                  />
-                </VideoWrapper>
+                <Video title={title} video={movie} />
               </VideoContainer>
             </Movie>
           )}
