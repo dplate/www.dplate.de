@@ -31,14 +31,19 @@ const Landmark = styled.div`
   margin: 0 0 25px 0;
 `;
 
-const Photo = styled.img`
-  position: relative;
-  display: block;
-  max-width: 100%;
+const PhotoContainer = styled.a`
+  display: block; 
   max-height: calc(100vh - 125px);
-  width: auto;
-  height: auto;
-  margin: 10px 0;
+  margin: 5px 0;
+`;
+
+const Photo = styled.img`
+  display: inline-block;
+  position: relative;
+  width: 100%; 
+  height: 100%; 
+  object-fit: scale-down; 
+  object-position: left top;
   cursor: pointer;
 
   &.focus {
@@ -186,7 +191,7 @@ class Report extends React.Component {
 
     const photoPath = '/photos' + this.getReportPath() + '/' + fileName + '.jpg';
     return (
-      <a href={'#' + fileName} key={index}>
+      <PhotoContainer href={'#' + fileName} key={index} style={{aspectRatio: `${photo.width} / ${photo.height}`}}>
         <Photo
           id={fileName}
           src={photoPath}
@@ -198,7 +203,7 @@ class Report extends React.Component {
           className={this.state.focus === photo ? 'focus' : undefined}
           onClick={this.toggleFocus.bind(this, photo)}
         />
-      </a>
+      </PhotoContainer>
     );
   }
 

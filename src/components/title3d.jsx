@@ -12,7 +12,6 @@ const Wrapper = styled.div`
 const Background = styled.img`
   position: relative;
   max-width: 100%;
-  width: auto;
   height: auto;
 `;
 
@@ -29,7 +28,6 @@ const Foreground = styled.img`
   top: 0;
   left: 0;
   max-width: 100%;
-  width: auto;
   height: auto;
 `;
 
