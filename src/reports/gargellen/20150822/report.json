@@ -547,10 +547,14 @@
       {
         "photos": [
           {
-            "name": "track1"
+            "name": "track1",
+            "width": 1280,
+            "height": 655
           },
           {
-            "name": "track2"
+            "name": "track2",
+            "width": 1280,
+            "height": 324
           }
         ],
         "videos": [],

@@ -773,11 +773,15 @@
         "photos": [
           {
             "name": "track1",
-            "alt": "Wegstrecke Geologischer Wanderweg"
+            "alt": "Wegstrecke Geologischer Wanderweg",
+            "width": 1024,
+            "height": 524
           },
           {
             "name": "track2",
-            "alt": "Höhenprofil Geologiscer Wanderweg"
+            "alt": "Höhenprofil Geologiscer Wanderweg",
+            "width": 1024,
+            "height": 325
           }
         ],
         "videos": [],

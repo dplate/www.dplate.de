@@ -10,10 +10,14 @@
       {
         "photos": [
           {
-            "name": "DEdSHKx"
+            "name": "DEdSHKx",
+            "width": 1024,
+            "height": 495
           },
           {
-            "name": "3q91xKS"
+            "name": "3q91xKS",
+            "width": 1024,
+            "height": 383
           }
         ],
         "videos": [],
@@ -22,7 +26,9 @@
       {
         "photos": [
           {
-            "name": "6w5TU9l"
+            "name": "6w5TU9l",
+            "width": 1024,
+            "height": 413
           }
         ],
         "videos": [],
@@ -31,7 +37,9 @@
       {
         "photos": [
           {
-            "name": "3IHcSeY"
+            "name": "3IHcSeY",
+            "width": 1024,
+            "height": 483
           }
         ],
         "videos": [],
@@ -40,10 +48,14 @@
       {
         "photos": [
           {
-            "name": "GCX669y"
+            "name": "GCX669y",
+            "width": 1024,
+            "height": 624
           },
           {
-            "name": "hFwW4rm"
+            "name": "hFwW4rm",
+            "width": 1024,
+            "height": 683
           }
         ],
         "videos": [],
@@ -52,7 +64,9 @@
       {
         "photos": [
           {
-            "name": "JICz4qC"
+            "name": "JICz4qC",
+            "width": 1024,
+            "height": 557
           }
         ],
         "videos": [],
@@ -61,7 +75,9 @@
       {
         "photos": [
           {
-            "name": "viZJQc3"
+            "name": "viZJQc3",
+            "width": 1024,
+            "height": 531
           }
         ],
         "videos": [],
@@ -70,7 +86,9 @@
       {
         "photos": [
           {
-            "name": "RBvsLMl"
+            "name": "RBvsLMl",
+            "width": 1024,
+            "height": 683
           }
         ],
         "videos": [],
@@ -79,7 +97,9 @@
       {
         "photos": [
           {
-            "name": "7HijBFf"
+            "name": "7HijBFf",
+            "width": 1024,
+            "height": 683
           }
         ],
         "videos": [],
@@ -88,7 +108,9 @@
       {
         "photos": [
           {
-            "name": "IMpRZLt"
+            "name": "IMpRZLt",
+            "width": 1024,
+            "height": 683
           }
         ],
         "videos": [],
@@ -97,7 +119,9 @@
       {
         "photos": [
           {
-            "name": "FfmeqAP"
+            "name": "FfmeqAP",
+            "width": 1024,
+            "height": 683
           }
         ],
         "videos": [],
@@ -106,7 +130,9 @@
       {
         "photos": [
           {
-            "name": "AlsjLDZ"
+            "name": "AlsjLDZ",
+            "width": 1024,
+            "height": 683
           }
         ],
         "videos": [],
@@ -115,7 +141,9 @@
       {
         "photos": [
           {
-            "name": "lgaMBXw"
+            "name": "lgaMBXw",
+            "width": 1024,
+            "height": 683
           }
         ],
         "videos": [],
@@ -124,7 +152,9 @@
       {
         "photos": [
           {
-            "name": "YjFKvoF"
+            "name": "YjFKvoF",
+            "width": 1024,
+            "height": 683
           }
         ],
         "videos": [],
@@ -133,7 +163,9 @@
       {
         "photos": [
           {
-            "name": "cKajy96"
+            "name": "cKajy96",
+            "width": 1024,
+            "height": 683
           }
         ],
         "videos": [],
@@ -141,13 +173,17 @@
       },
       {
         "photos": [],
-        "videos": ["vx_zQqhVW0Y"],
+        "videos": [
+          "vx_zQqhVW0Y"
+        ],
         "text": "Rote Abfahrt vom Gampen zur Zammermoosbahn dagegen nicht. Wohl jeden Zweiten hat es dort hingeschlagen, zum Glück nicht soviel Betrieb wie in Ischgl. 😉"
       },
       {
         "photos": [
           {
-            "name": "rlnoOCT"
+            "name": "rlnoOCT",
+            "width": 1024,
+            "height": 683
           }
         ],
         "videos": [],
@@ -156,7 +192,9 @@
       {
         "photos": [
           {
-            "name": "tFp4ppx"
+            "name": "tFp4ppx",
+            "width": 1024,
+            "height": 651
           }
         ],
         "videos": [],
@@ -165,7 +203,9 @@
       {
         "photos": [
           {
-            "name": "jnIKIhv"
+            "name": "jnIKIhv",
+            "width": 1024,
+            "height": 683
           }
         ],
         "videos": [],
@@ -174,7 +214,9 @@
       {
         "photos": [
           {
-            "name": "HEGcXYe"
+            "name": "HEGcXYe",
+            "width": 1024,
+            "height": 1194
           }
         ],
         "videos": [],
@@ -183,10 +225,14 @@
       {
         "photos": [
           {
-            "name": "cEZujQU"
+            "name": "cEZujQU",
+            "width": 1024,
+            "height": 524
           },
           {
-            "name": "lQk0RzI"
+            "name": "lQk0RzI",
+            "width": 1024,
+            "height": 272
           }
         ],
         "videos": [],

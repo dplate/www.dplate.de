@@ -521,11 +521,15 @@
         "photos": [
           {
             "name": "track1",
-            "alt": "Wegstrecke Wasserauen Wagenlücke"
+            "alt": "Wegstrecke Wasserauen Wagenlücke",
+            "width": 1280,
+            "height": 647
           },
           {
             "name": "track2",
-            "alt": "Höhenprofil Wasserauen Wagenlücke"
+            "alt": "Höhenprofil Wasserauen Wagenlücke",
+            "width": 1280,
+            "height": 217
           }
         ],
         "videos": [],

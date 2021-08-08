@@ -23,6 +23,12 @@ const extractExif = (photo, photosPath) => {
         width: size.width,
         height: size.height
       };
+    } else {
+      return {
+        ...photo,
+        width: size.width,
+        height: size.height
+      };
     }
   }
   return photo;

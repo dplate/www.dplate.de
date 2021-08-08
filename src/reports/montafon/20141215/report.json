@@ -10,7 +10,9 @@
       {
         "photos": [
           {
-            "name": "qkRIMZE"
+            "name": "qkRIMZE",
+            "width": 1280,
+            "height": 819
           }
         ],
         "videos": [],
@@ -19,7 +21,9 @@
       {
         "photos": [
           {
-            "name": "e9tDKr3"
+            "name": "e9tDKr3",
+            "width": 1280,
+            "height": 1144
           }
         ],
         "videos": [],
@@ -28,7 +32,9 @@
       {
         "photos": [
           {
-            "name": "7gxB4xu"
+            "name": "7gxB4xu",
+            "width": 1280,
+            "height": 865
           }
         ],
         "videos": [],
@@ -37,7 +43,9 @@
       {
         "photos": [
           {
-            "name": "o9duJcM"
+            "name": "o9duJcM",
+            "width": 1280,
+            "height": 345
           }
         ],
         "videos": [],
@@ -46,7 +54,9 @@
       {
         "photos": [
           {
-            "name": "v9y1NLe"
+            "name": "v9y1NLe",
+            "width": 1280,
+            "height": 582
           }
         ],
         "videos": [],
@@ -55,7 +65,9 @@
       {
         "photos": [
           {
-            "name": "lPIFEGW"
+            "name": "lPIFEGW",
+            "width": 1280,
+            "height": 573
           }
         ],
         "videos": [],
@@ -64,7 +76,9 @@
       {
         "photos": [
           {
-            "name": "BPPs9cL"
+            "name": "BPPs9cL",
+            "width": 1280,
+            "height": 562
           }
         ],
         "videos": [],
@@ -73,7 +87,9 @@
       {
         "photos": [
           {
-            "name": "LWyGIKu"
+            "name": "LWyGIKu",
+            "width": 640,
+            "height": 960
           }
         ],
         "videos": [],
@@ -82,7 +98,9 @@
       {
         "photos": [
           {
-            "name": "22vAlLI"
+            "name": "22vAlLI",
+            "width": 1280,
+            "height": 552
           }
         ],
         "videos": [],
@@ -91,7 +109,9 @@
       {
         "photos": [
           {
-            "name": "iMNCi4p"
+            "name": "iMNCi4p",
+            "width": 1280,
+            "height": 614
           }
         ],
         "videos": [],
@@ -100,7 +120,9 @@
       {
         "photos": [
           {
-            "name": "MmKN61i"
+            "name": "MmKN61i",
+            "width": 1280,
+            "height": 719
           }
         ],
         "videos": [],
@@ -108,16 +130,22 @@
       },
       {
         "photos": [],
-        "videos": ["RtUXzqKaJq8"],
+        "videos": [
+          "RtUXzqKaJq8"
+        ],
         "text": "10min Fahrt mit der Panorama-Bahn. Leider gerade beim schlechtesten Wetter des Tages."
       },
       {
         "photos": [
           {
-            "name": "dv8UD2b"
+            "name": "dv8UD2b",
+            "width": 1280,
+            "height": 518
           },
           {
-            "name": "JknnjuE"
+            "name": "JknnjuE",
+            "width": 1280,
+            "height": 466
           }
         ],
         "videos": [],
@@ -126,7 +154,9 @@
       {
         "photos": [
           {
-            "name": "ep5rrKy"
+            "name": "ep5rrKy",
+            "width": 1280,
+            "height": 596
           }
         ],
         "videos": [],
@@ -135,10 +165,14 @@
       {
         "photos": [
           {
-            "name": "0ViRCiQ"
+            "name": "0ViRCiQ",
+            "width": 1280,
+            "height": 652
           },
           {
-            "name": "WM4D3tZ"
+            "name": "WM4D3tZ",
+            "width": 1280,
+            "height": 521
           }
         ],
         "videos": [],
@@ -147,7 +181,9 @@
       {
         "photos": [
           {
-            "name": "UefIKwM"
+            "name": "UefIKwM",
+            "width": 1280,
+            "height": 701
           }
         ],
         "videos": [],
@@ -156,7 +192,9 @@
       {
         "photos": [
           {
-            "name": "bBRNYty"
+            "name": "bBRNYty",
+            "width": 1280,
+            "height": 836
           }
         ],
         "videos": [],
@@ -165,7 +203,9 @@
       {
         "photos": [
           {
-            "name": "UDIWM0v"
+            "name": "UDIWM0v",
+            "width": 1280,
+            "height": 853
           }
         ],
         "videos": [],
@@ -174,7 +214,9 @@
       {
         "photos": [
           {
-            "name": "96suc1k"
+            "name": "96suc1k",
+            "width": 1280,
+            "height": 786
           }
         ],
         "videos": [],
@@ -183,7 +225,9 @@
       {
         "photos": [
           {
-            "name": "1P9jNdt"
+            "name": "1P9jNdt",
+            "width": 1280,
+            "height": 771
           }
         ],
         "videos": [],
@@ -192,7 +236,9 @@
       {
         "photos": [
           {
-            "name": "86LhFYs"
+            "name": "86LhFYs",
+            "width": 1280,
+            "height": 853
           }
         ],
         "videos": [],
@@ -201,7 +247,9 @@
       {
         "photos": [
           {
-            "name": "LRK6gQ6"
+            "name": "LRK6gQ6",
+            "width": 1280,
+            "height": 467
           }
         ],
         "videos": [],
@@ -210,7 +258,9 @@
       {
         "photos": [
           {
-            "name": "9Di7bhS"
+            "name": "9Di7bhS",
+            "width": 1280,
+            "height": 839
           }
         ],
         "videos": [],
@@ -219,10 +269,14 @@
       {
         "photos": [
           {
-            "name": "Pwre1QF"
+            "name": "Pwre1QF",
+            "width": 1280,
+            "height": 608
           },
           {
-            "name": "FuXSK8r"
+            "name": "FuXSK8r",
+            "width": 1280,
+            "height": 853
           }
         ],
         "videos": [],
@@ -231,7 +285,9 @@
       {
         "photos": [
           {
-            "name": "VKN55do"
+            "name": "VKN55do",
+            "width": 1280,
+            "height": 853
           }
         ],
         "videos": [],
@@ -240,10 +296,14 @@
       {
         "photos": [
           {
-            "name": "LOOQ0zL"
+            "name": "LOOQ0zL",
+            "width": 1280,
+            "height": 655
           },
           {
-            "name": "uV6tHfE"
+            "name": "uV6tHfE",
+            "width": 1280,
+            "height": 238
           }
         ],
         "videos": [],

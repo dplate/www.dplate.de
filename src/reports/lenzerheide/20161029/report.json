@@ -694,11 +694,15 @@
         "photos": [
           {
             "name": "track1",
-            "alt": "Wanderkarte Brambrüesch"
+            "alt": "Wanderkarte Brambrüesch",
+            "width": 1280,
+            "height": 647
           },
           {
             "name": "track2",
-            "alt": "Höhenprofil Fulhorn"
+            "alt": "Höhenprofil Fulhorn",
+            "width": 1280,
+            "height": 273
           }
         ],
         "videos": [],

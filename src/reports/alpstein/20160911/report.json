@@ -677,11 +677,15 @@
         "photos": [
           {
             "name": "track1",
-            "alt": "Wanderkarte Wasserauen Säntis"
+            "alt": "Wanderkarte Wasserauen Säntis",
+            "width": 1280,
+            "height": 647
           },
           {
             "name": "track2",
-            "alt": "Höhenprofil Wasserauen Säntis"
+            "alt": "Höhenprofil Wasserauen Säntis",
+            "width": 1280,
+            "height": 293
           }
         ],
         "videos": [],

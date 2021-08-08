@@ -553,10 +553,14 @@
       {
         "photos": [
           {
-            "name": "track1"
+            "name": "track1",
+            "width": 1280,
+            "height": 459
           },
           {
-            "name": "track2"
+            "name": "track2",
+            "width": 1280,
+            "height": 374
           }
         ],
         "videos": [],

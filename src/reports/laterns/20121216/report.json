@@ -10,7 +10,9 @@
       {
         "photos": [
           {
-            "name": "Rmro9"
+            "name": "Rmro9",
+            "width": 1024,
+            "height": 497
           }
         ],
         "videos": [],
@@ -19,7 +21,9 @@
       {
         "photos": [
           {
-            "name": "Vboht"
+            "name": "Vboht",
+            "width": 1024,
+            "height": 406
           }
         ],
         "videos": [],
@@ -28,7 +32,9 @@
       {
         "photos": [
           {
-            "name": "8V03K"
+            "name": "8V03K",
+            "width": 1024,
+            "height": 437
           }
         ],
         "videos": [],
@@ -37,7 +43,9 @@
       {
         "photos": [
           {
-            "name": "OYVjj"
+            "name": "OYVjj",
+            "width": 1024,
+            "height": 605
           }
         ],
         "videos": [],
@@ -46,7 +54,9 @@
       {
         "photos": [
           {
-            "name": "nI2DW"
+            "name": "nI2DW",
+            "width": 1024,
+            "height": 482
           }
         ],
         "videos": [],
@@ -55,7 +65,9 @@
       {
         "photos": [
           {
-            "name": "a5iLY"
+            "name": "a5iLY",
+            "width": 1024,
+            "height": 768
           }
         ],
         "videos": [],
@@ -64,10 +76,14 @@
       {
         "photos": [
           {
-            "name": "xGiF8"
+            "name": "xGiF8",
+            "width": 1024,
+            "height": 524
           },
           {
-            "name": "0LQRT"
+            "name": "0LQRT",
+            "width": 1060,
+            "height": 454
           }
         ],
         "videos": [],

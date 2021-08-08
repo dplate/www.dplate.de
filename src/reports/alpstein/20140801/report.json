@@ -625,11 +625,15 @@
         "photos": [
           {
             "name": "track1",
-            "alt": "Wegstrecke Schwägalp Säntis"
+            "alt": "Wegstrecke Schwägalp Säntis",
+            "width": 1024,
+            "height": 915
           },
           {
             "name": "track2",
-            "alt": "Höhenprofil Aufstieg Säntis"
+            "alt": "Höhenprofil Aufstieg Säntis",
+            "width": 1024,
+            "height": 353
           }
         ],
         "videos": [],

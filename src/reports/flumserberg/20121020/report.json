@@ -185,7 +185,9 @@
       {
         "photos": [
           {
-            "name": "track1"
+            "name": "track1",
+            "width": 1024,
+            "height": 571
           }
         ],
         "videos": [],

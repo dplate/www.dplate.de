@@ -489,11 +489,15 @@
         "photos": [
           {
             "name": "track1",
-            "alt": "Streckenplan Flumserberg"
+            "alt": "Streckenplan Flumserberg",
+            "width": 1024,
+            "height": 524
           },
           {
             "name": "track2",
-            "alt": "Höhenprofil Flumserberg"
+            "alt": "Höhenprofil Flumserberg",
+            "width": 936,
+            "height": 341
           }
         ],
         "videos": [],

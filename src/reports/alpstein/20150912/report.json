@@ -887,11 +887,15 @@
         "photos": [
           {
             "name": "track1",
-            "alt": "Wegstrecke Lisengrat Zwinglipass Mutschen"
+            "alt": "Wegstrecke Lisengrat Zwinglipass Mutschen",
+            "width": 1280,
+            "height": 655
           },
           {
             "name": "track2",
-            "alt": "Höhenprofil Listengrat Zwinglipass Mutschen"
+            "alt": "Höhenprofil Listengrat Zwinglipass Mutschen",
+            "width": 1280,
+            "height": 211
           }
         ],
         "videos": [],

@@ -576,10 +576,14 @@
       {
         "photos": [
           {
-            "name": "track1"
+            "name": "track1",
+            "width": 1920,
+            "height": 970
           },
           {
-            "name": "track2"
+            "name": "track2",
+            "width": 1920,
+            "height": 430
           }
         ],
         "videos": [],
@@ -587,7 +591,9 @@
       },
       {
         "photos": [],
-        "videos": ["c3aFz5SPyT4"],
+        "videos": [
+          "c3aFz5SPyT4"
+        ],
         "text": "Google Earth Zusammenfassung der Wanderung."
       }
     ],

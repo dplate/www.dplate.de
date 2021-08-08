@@ -622,11 +622,15 @@
         "photos": [
           {
             "name": "track1",
-            "alt": "Wanderkarte St. Antönien - Drusentor"
+            "alt": "Wanderkarte St. Antönien - Drusentor",
+            "width": 1920,
+            "height": 970
           },
           {
             "name": "track2",
-            "alt": "Höhenprofil St. Antönien - Drusentor"
+            "alt": "Höhenprofil St. Antönien - Drusentor",
+            "width": 1872,
+            "height": 318
           }
         ],
         "text": "Zurückgelegte Strecke in knapp 7h. Mit dem Trottinett habe ich mir natürlich ein paar Kilometer erschlichen."

@@ -11,7 +11,9 @@
         "photos": [
           {
             "name": "HxEU4",
-            "alt": "Halb Tageskarte"
+            "alt": "Halb Tageskarte",
+            "width": 400,
+            "height": 524
           }
         ],
         "videos": [],
@@ -21,7 +23,9 @@
         "photos": [
           {
             "name": "hvVjE",
-            "alt": "Verschneites Bergrestaurant"
+            "alt": "Verschneites Bergrestaurant",
+            "width": 1024,
+            "height": 679
           }
         ],
         "videos": [],
@@ -31,7 +35,9 @@
         "photos": [
           {
             "name": "uiDhh",
-            "alt": "Blick Schwägalp"
+            "alt": "Blick Schwägalp",
+            "width": 1024,
+            "height": 637
           }
         ],
         "videos": [],
@@ -41,7 +47,9 @@
         "photos": [
           {
             "name": "ngMyc",
-            "alt": "Tiefschnee auf Piste"
+            "alt": "Tiefschnee auf Piste",
+            "width": 1024,
+            "height": 768
           }
         ],
         "videos": [],
@@ -51,7 +59,9 @@
         "photos": [
           {
             "name": "sJmNb",
-            "alt": "Schmale Piste im Wald"
+            "alt": "Schmale Piste im Wald",
+            "width": 1024,
+            "height": 768
           }
         ],
         "videos": [],
@@ -61,7 +71,9 @@
         "photos": [
           {
             "name": "mrLxG",
-            "alt": "Urnäsch im Winter"
+            "alt": "Urnäsch im Winter",
+            "width": 1024,
+            "height": 768
           }
         ],
         "videos": [],
@@ -71,7 +83,9 @@
         "photos": [
           {
             "name": "x1tOC",
-            "alt": "Spuren im Tiefschnee"
+            "alt": "Spuren im Tiefschnee",
+            "width": 1024,
+            "height": 1365
           }
         ],
         "videos": [],
@@ -81,7 +95,9 @@
         "photos": [
           {
             "name": "2s7oW",
-            "alt": "Talstation Skilift"
+            "alt": "Talstation Skilift",
+            "width": 1024,
+            "height": 690
           }
         ],
         "videos": [],
@@ -91,7 +107,9 @@
         "photos": [
           {
             "name": "9TCEu",
-            "alt": "Neuschnee bei tiefer Sonne"
+            "alt": "Neuschnee bei tiefer Sonne",
+            "width": 1024,
+            "height": 768
           }
         ],
         "videos": [],
@@ -101,7 +119,9 @@
         "photos": [
           {
             "name": "O9eSm",
-            "alt": "Babylift"
+            "alt": "Babylift",
+            "width": 1024,
+            "height": 703
           }
         ],
         "videos": [],
@@ -111,7 +131,9 @@
         "photos": [
           {
             "name": "fFGtR",
-            "alt": "Tiefschneeabfahrt"
+            "alt": "Tiefschneeabfahrt",
+            "width": 1024,
+            "height": 768
           }
         ],
         "videos": [],
@@ -121,11 +143,15 @@
         "photos": [
           {
             "name": "wFiPR",
-            "alt": "Winterlandschaft"
+            "alt": "Winterlandschaft",
+            "width": 1024,
+            "height": 691
           },
           {
             "name": "2ktQm",
-            "alt": "Dunkle Wolken in verschneiter Landschaft"
+            "alt": "Dunkle Wolken in verschneiter Landschaft",
+            "width": 1024,
+            "height": 768
           }
         ],
         "videos": [],
@@ -135,7 +161,9 @@
         "photos": [
           {
             "name": "FIQwN",
-            "alt": "Skilift Trasse"
+            "alt": "Skilift Trasse",
+            "width": 1024,
+            "height": 1365
           }
         ],
         "videos": [],
@@ -145,7 +173,9 @@
         "photos": [
           {
             "name": "LGL3c",
-            "alt": "Skilift Ausstieg"
+            "alt": "Skilift Ausstieg",
+            "width": 1024,
+            "height": 684
           }
         ],
         "videos": [],
@@ -155,7 +185,9 @@
         "photos": [
           {
             "name": "o5nJj",
-            "alt": "Verschneiter Tisch und Stühle"
+            "alt": "Verschneiter Tisch und Stühle",
+            "width": 1024,
+            "height": 667
           }
         ],
         "videos": [],
@@ -165,11 +197,15 @@
         "photos": [
           {
             "name": "vor63",
-            "alt": "Talstation mit Schafen"
+            "alt": "Talstation mit Schafen",
+            "width": 1024,
+            "height": 724
           },
           {
             "name": "TZadj",
-            "alt": "Skiflift vor Schafherde"
+            "alt": "Skiflift vor Schafherde",
+            "width": 1024,
+            "height": 699
           }
         ],
         "videos": [],
@@ -179,11 +215,15 @@
         "photos": [
           {
             "name": "a3nKv",
-            "alt": "Einfahrt Skilift"
+            "alt": "Einfahrt Skilift",
+            "width": 1024,
+            "height": 768
           },
           {
             "name": "xTvRz",
-            "alt": "Altmodische Talstation"
+            "alt": "Altmodische Talstation",
+            "width": 1024,
+            "height": 768
           }
         ],
         "videos": [],
@@ -193,7 +233,9 @@
         "photos": [
           {
             "name": "G6kox",
-            "alt": "Talstation Babylift"
+            "alt": "Talstation Babylift",
+            "width": 1024,
+            "height": 768
           }
         ],
         "videos": [],
@@ -203,7 +245,9 @@
         "photos": [
           {
             "name": "MZz6c",
-            "alt": "Gefahrene Strecke"
+            "alt": "Gefahrene Strecke",
+            "width": 1024,
+            "height": 524
           }
         ],
         "videos": [],

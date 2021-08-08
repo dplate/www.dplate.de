@@ -837,11 +837,15 @@
         "photos": [
           {
             "name": "track1",
-            "alt": "Wegstrecke um den Seealpsee"
+            "alt": "Wegstrecke um den Seealpsee",
+            "width": 800,
+            "height": 685
           },
           {
             "name": "track2",
-            "alt": "Höhenprofil um den Seealpsee"
+            "alt": "Höhenprofil um den Seealpsee",
+            "width": 800,
+            "height": 325
           }
         ],
         "videos": [],

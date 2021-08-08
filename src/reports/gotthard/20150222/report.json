@@ -11,7 +11,9 @@
         "photos": [
           {
             "name": "kRXINBa",
-            "alt": "Piste"
+            "alt": "Piste",
+            "width": 1280,
+            "height": 560
           }
         ],
         "videos": [],
@@ -21,7 +23,9 @@
         "photos": [
           {
             "name": "TwRqPIH",
-            "alt": "Skilift"
+            "alt": "Skilift",
+            "width": 1280,
+            "height": 1055
           }
         ],
         "videos": [],
@@ -31,7 +35,9 @@
         "photos": [
           {
             "name": "mjVXIJB",
-            "alt": "Skipiste"
+            "alt": "Skipiste",
+            "width": 1280,
+            "height": 422
           }
         ],
         "videos": [],
@@ -41,7 +47,9 @@
         "photos": [
           {
             "name": "A0m6YDV",
-            "alt": "Schwarze Talabfahrt"
+            "alt": "Schwarze Talabfahrt",
+            "width": 1280,
+            "height": 853
           }
         ],
         "videos": [],
@@ -51,7 +59,9 @@
         "photos": [
           {
             "name": "J75CMOW",
-            "alt": "Seilbahn"
+            "alt": "Seilbahn",
+            "width": 1280,
+            "height": 853
           }
         ],
         "videos": [],
@@ -61,7 +71,9 @@
         "photos": [
           {
             "name": "Mx10lEc",
-            "alt": "Tief verschneite Häuser"
+            "alt": "Tief verschneite Häuser",
+            "width": 1280,
+            "height": 510
           }
         ],
         "videos": [],
@@ -71,7 +83,9 @@
         "photos": [
           {
             "name": "l98ZMRI",
-            "alt": "Seilbahn Talstation"
+            "alt": "Seilbahn Talstation",
+            "width": 1280,
+            "height": 853
           }
         ],
         "videos": [],
@@ -81,7 +95,9 @@
         "photos": [
           {
             "name": "bLFN7Hk",
-            "alt": "Verschneiter Parkplatz"
+            "alt": "Verschneiter Parkplatz",
+            "width": 1280,
+            "height": 853
           }
         ],
         "videos": [],
@@ -91,7 +107,9 @@
         "photos": [
           {
             "name": "vqdVfS2",
-            "alt": "Warteschlange am Skilift"
+            "alt": "Warteschlange am Skilift",
+            "width": 1280,
+            "height": 853
           }
         ],
         "videos": [],
@@ -101,7 +119,9 @@
         "photos": [
           {
             "name": "JoIeKCS",
-            "alt": "Lifttrasse des Skilifts"
+            "alt": "Lifttrasse des Skilifts",
+            "width": 1280,
+            "height": 853
           }
         ],
         "videos": [],
@@ -111,7 +131,9 @@
         "photos": [
           {
             "name": "zxkjT26",
-            "alt": "Seilbahn Bergstation"
+            "alt": "Seilbahn Bergstation",
+            "width": 1280,
+            "height": 696
           }
         ],
         "videos": [],
@@ -121,7 +143,9 @@
         "photos": [
           {
             "name": "3Iq7NVp",
-            "alt": "Restaurant Mittelstation"
+            "alt": "Restaurant Mittelstation",
+            "width": 1280,
+            "height": 845
           }
         ],
         "videos": [],
@@ -131,11 +155,15 @@
         "photos": [
           {
             "name": "vDtGpBs",
-            "alt": "Hubschrauber"
+            "alt": "Hubschrauber",
+            "width": 1280,
+            "height": 483
           },
           {
             "name": "8Ie6VHe",
-            "alt": "Gotthardpass"
+            "alt": "Gotthardpass",
+            "width": 1280,
+            "height": 853
           }
         ],
         "videos": [],
@@ -145,11 +173,15 @@
         "photos": [
           {
             "name": "OsTW9DH",
-            "alt": "Winterlandschaft"
+            "alt": "Winterlandschaft",
+            "width": 1280,
+            "height": 853
           },
           {
             "name": "CnHOlyw",
-            "alt": "Verschneite Bäume"
+            "alt": "Verschneite Bäume",
+            "width": 1280,
+            "height": 802
           }
         ],
         "videos": [],
@@ -159,7 +191,9 @@
         "photos": [
           {
             "name": "0u1HWT8",
-            "alt": "Plastikpalme"
+            "alt": "Plastikpalme",
+            "width": 1280,
+            "height": 825
           }
         ],
         "videos": [],
@@ -169,11 +203,15 @@
         "photos": [
           {
             "name": "BGVqfNE",
-            "alt": "Buckelpiste"
+            "alt": "Buckelpiste",
+            "width": 1280,
+            "height": 394
           },
           {
             "name": "4kLg2bv",
-            "alt": "Wettkampf"
+            "alt": "Wettkampf",
+            "width": 1280,
+            "height": 1535
           }
         ],
         "videos": [],
@@ -183,7 +221,9 @@
         "photos": [
           {
             "name": "oWmxZdI",
-            "alt": "Seilbahn"
+            "alt": "Seilbahn",
+            "width": 1280,
+            "height": 962
           }
         ],
         "videos": [],
@@ -193,7 +233,9 @@
         "photos": [
           {
             "name": "DUi4nGP",
-            "alt": "Pistenraupe vor Föhnwalze"
+            "alt": "Pistenraupe vor Föhnwalze",
+            "width": 1280,
+            "height": 383
           }
         ],
         "videos": [],
@@ -203,7 +245,9 @@
         "photos": [
           {
             "name": "46F1azI",
-            "alt": "Leere Skipiste"
+            "alt": "Leere Skipiste",
+            "width": 1280,
+            "height": 853
           }
         ],
         "videos": [],
@@ -213,7 +257,9 @@
         "photos": [
           {
             "name": "KwaDuSo",
-            "alt": "Bergstation Tellerlift"
+            "alt": "Bergstation Tellerlift",
+            "width": 1280,
+            "height": 406
           }
         ],
         "videos": [],
@@ -223,7 +269,9 @@
         "photos": [
           {
             "name": "po2oyAt",
-            "alt": "Talstation Tellerlift"
+            "alt": "Talstation Tellerlift",
+            "width": 1280,
+            "height": 462
           }
         ],
         "videos": [],
@@ -233,7 +281,9 @@
         "photos": [
           {
             "name": "2X7iOEz",
-            "alt": "Piste am Tellerlift"
+            "alt": "Piste am Tellerlift",
+            "width": 1280,
+            "height": 717
           }
         ],
         "videos": [],
@@ -243,7 +293,9 @@
         "photos": [
           {
             "name": "o2V0rE8",
-            "alt": "Talabfahrt vom Tellerlift"
+            "alt": "Talabfahrt vom Tellerlift",
+            "width": 1280,
+            "height": 509
           }
         ],
         "videos": [],
@@ -253,11 +305,15 @@
         "photos": [
           {
             "name": "leTyc4I",
-            "alt": "Nante"
+            "alt": "Nante",
+            "width": 1280,
+            "height": 473
           },
           {
             "name": "AyhVUsH",
-            "alt": "Verschneiter Ort"
+            "alt": "Verschneiter Ort",
+            "width": 1280,
+            "height": 823
           }
         ],
         "videos": [],
@@ -267,7 +323,9 @@
         "photos": [
           {
             "name": "6OpZpBH",
-            "alt": "Seilbahn"
+            "alt": "Seilbahn",
+            "width": 1280,
+            "height": 853
           }
         ],
         "videos": [],
@@ -277,7 +335,9 @@
         "photos": [
           {
             "name": "xFPQm0v",
-            "alt": "Schwarze Piste unter Seilbahn"
+            "alt": "Schwarze Piste unter Seilbahn",
+            "width": 1280,
+            "height": 603
           }
         ],
         "videos": [],
@@ -287,7 +347,9 @@
         "photos": [
           {
             "name": "QRQmkzn",
-            "alt": "Skipisten"
+            "alt": "Skipisten",
+            "width": 1280,
+            "height": 769
           }
         ],
         "videos": [],
@@ -297,7 +359,9 @@
         "photos": [
           {
             "name": "GH3GxNO",
-            "alt": "Seilbahn Tiefschnee"
+            "alt": "Seilbahn Tiefschnee",
+            "width": 1280,
+            "height": 787
           }
         ],
         "videos": [],
@@ -307,7 +371,9 @@
         "photos": [
           {
             "name": "zyN3MwJ",
-            "alt": "Neuschnee auf Piste"
+            "alt": "Neuschnee auf Piste",
+            "width": 1280,
+            "height": 699
           }
         ],
         "videos": [],
@@ -317,7 +383,9 @@
         "photos": [
           {
             "name": "vxt6opt",
-            "alt": "Im Tellerlift"
+            "alt": "Im Tellerlift",
+            "width": 1280,
+            "height": 853
           }
         ],
         "videos": [],
@@ -327,7 +395,9 @@
         "photos": [
           {
             "name": "68cghga",
-            "alt": "Im Schnee vergrabenes Haus"
+            "alt": "Im Schnee vergrabenes Haus",
+            "width": 1280,
+            "height": 791
           }
         ],
         "videos": [],
@@ -337,7 +407,9 @@
         "photos": [
           {
             "name": "lVyqviD",
-            "alt": "Steile Piste am Tellerlift"
+            "alt": "Steile Piste am Tellerlift",
+            "width": 1280,
+            "height": 799
           }
         ],
         "videos": [],
@@ -347,11 +419,15 @@
         "photos": [
           {
             "name": "3N8PET1",
-            "alt": "Zugeschneite Alp"
+            "alt": "Zugeschneite Alp",
+            "width": 1280,
+            "height": 803
           },
           {
             "name": "ehWiTJQ",
-            "alt": "Verschneite Schneekanone"
+            "alt": "Verschneite Schneekanone",
+            "width": 1280,
+            "height": 789
           }
         ],
         "videos": [],
@@ -361,7 +437,9 @@
         "photos": [
           {
             "name": "tX1Ryd7",
-            "alt": "Tiefschnee Tellerlift"
+            "alt": "Tiefschnee Tellerlift",
+            "width": 1280,
+            "height": 853
           }
         ],
         "videos": [],
@@ -371,7 +449,9 @@
         "photos": [
           {
             "name": "9tWt3l2",
-            "alt": "Blick ins Tal"
+            "alt": "Blick ins Tal",
+            "width": 1280,
+            "height": 665
           }
         ],
         "videos": [],
@@ -381,7 +461,9 @@
         "photos": [
           {
             "name": "uMty2x6",
-            "alt": "Föhnwalze am Gotthard"
+            "alt": "Föhnwalze am Gotthard",
+            "width": 1280,
+            "height": 550
           }
         ],
         "videos": [],
@@ -391,7 +473,9 @@
         "photos": [
           {
             "name": "YSkCB95",
-            "alt": "Skiabfahrt durch verschneiten Wald"
+            "alt": "Skiabfahrt durch verschneiten Wald",
+            "width": 1280,
+            "height": 853
           }
         ],
         "videos": [],
@@ -401,7 +485,9 @@
         "photos": [
           {
             "name": "PxpwW1B",
-            "alt": "Skistock im Tiefschnee"
+            "alt": "Skistock im Tiefschnee",
+            "width": 1280,
+            "height": 1920
           }
         ],
         "videos": [],
@@ -411,11 +497,15 @@
         "photos": [
           {
             "name": "oO8zSOu",
-            "alt": "Föhnwalze vor Seilbahn"
+            "alt": "Föhnwalze vor Seilbahn",
+            "width": 1280,
+            "height": 562
           },
           {
             "name": "I5sJsxW",
-            "alt": "Föhnwalze ins Tal"
+            "alt": "Föhnwalze ins Tal",
+            "width": 1280,
+            "height": 561
           }
         ],
         "videos": [],
@@ -425,7 +515,9 @@
         "photos": [
           {
             "name": "c22TcLo",
-            "alt": "Airolo im Winter"
+            "alt": "Airolo im Winter",
+            "width": 1280,
+            "height": 757
           }
         ],
         "videos": [],
@@ -435,15 +527,21 @@
         "photos": [
           {
             "name": "44RmKvR",
-            "alt": "Pistenplan"
+            "alt": "Pistenplan",
+            "width": 1280,
+            "height": 999
           },
           {
             "name": "FJSh6Wo",
-            "alt": "Gefahrene Strecke"
+            "alt": "Gefahrene Strecke",
+            "width": 1280,
+            "height": 655
           },
           {
             "name": "MnG8jUr",
-            "alt": "Gefahrene Höhenmeter"
+            "alt": "Gefahrene Höhenmeter",
+            "width": 1280,
+            "height": 211
           }
         ],
         "videos": [],

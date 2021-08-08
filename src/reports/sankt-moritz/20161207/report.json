@@ -429,11 +429,15 @@
         "photos": [
           {
             "name": "track1",
-            "alt": "Streckenplan Corviglia"
+            "alt": "Streckenplan Corviglia",
+            "width": 1280,
+            "height": 647
           },
           {
             "name": "track2",
-            "alt": "Höhenprofil Corviglia"
+            "alt": "Höhenprofil Corviglia",
+            "width": 1280,
+            "height": 219
           }
         ],
         "videos": [],

@@ -339,10 +339,14 @@
       {
         "photos": [
           {
-            "name": "track1"
+            "name": "track1",
+            "width": 1280,
+            "height": 647
           },
           {
-            "name": "track2"
+            "name": "track2",
+            "width": 1280,
+            "height": 248
           }
         ],
         "videos": [],

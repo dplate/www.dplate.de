@@ -10,7 +10,9 @@
       {
         "photos": [
           {
-            "name": "KXKLH"
+            "name": "KXKLH",
+            "width": 1024,
+            "height": 768
           }
         ],
         "videos": [],
@@ -19,10 +21,14 @@
       {
         "photos": [
           {
-            "name": "frjWJ"
+            "name": "frjWJ",
+            "width": 1024,
+            "height": 573
           },
           {
-            "name": "tb2d4"
+            "name": "tb2d4",
+            "width": 1024,
+            "height": 768
           }
         ],
         "videos": [],
@@ -31,7 +37,9 @@
       {
         "photos": [
           {
-            "name": "JQ1Hq"
+            "name": "JQ1Hq",
+            "width": 1024,
+            "height": 574
           }
         ],
         "videos": [],
@@ -40,13 +48,19 @@
       {
         "photos": [
           {
-            "name": "dfjtr"
+            "name": "dfjtr",
+            "width": 1024,
+            "height": 524
           },
           {
-            "name": "cU09G"
+            "name": "cU09G",
+            "width": 1024,
+            "height": 768
           },
           {
-            "name": "EQ2PP"
+            "name": "EQ2PP",
+            "width": 1024,
+            "height": 768
           }
         ],
         "videos": [],
@@ -55,7 +69,9 @@
       {
         "photos": [
           {
-            "name": "Zdq1n"
+            "name": "Zdq1n",
+            "width": 1024,
+            "height": 768
           }
         ],
         "videos": [],
@@ -64,7 +80,9 @@
       {
         "photos": [
           {
-            "name": "Wa7Ls"
+            "name": "Wa7Ls",
+            "width": 1024,
+            "height": 732
           }
         ],
         "videos": [],
@@ -73,7 +91,9 @@
       {
         "photos": [
           {
-            "name": "tEaxR"
+            "name": "tEaxR",
+            "width": 1024,
+            "height": 570
           }
         ],
         "videos": [],
@@ -82,10 +102,14 @@
       {
         "photos": [
           {
-            "name": "MF5l5"
+            "name": "MF5l5",
+            "width": 1024,
+            "height": 597
           },
           {
-            "name": "lSQlq"
+            "name": "lSQlq",
+            "width": 1024,
+            "height": 702
           }
         ],
         "videos": [],

@@ -437,11 +437,15 @@
         "photos": [
           {
             "name": "track2",
-            "alt": "Streckenplan Lenzerheide Arosa"
+            "alt": "Streckenplan Lenzerheide Arosa",
+            "width": 1280,
+            "height": 655
           },
           {
             "name": "track1",
-            "alt": "Höhenprofil Lenzerheide Arosa"
+            "alt": "Höhenprofil Lenzerheide Arosa",
+            "width": 1280,
+            "height": 316
           }
         ],
         "videos": [],

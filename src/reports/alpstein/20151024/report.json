@@ -405,11 +405,15 @@
         "photos": [
           {
             "name": "track1",
-            "alt": "Wegstrecke Hochalp Schwägalp"
+            "alt": "Wegstrecke Hochalp Schwägalp",
+            "width": 1280,
+            "height": 655
           },
           {
             "name": "track2",
-            "alt": "Höhenprofil Hochalp Schwägalp"
+            "alt": "Höhenprofil Hochalp Schwägalp",
+            "width": 1280,
+            "height": 398
           }
         ],
         "videos": [],

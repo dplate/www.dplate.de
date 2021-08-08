@@ -10,7 +10,9 @@
       {
         "photos": [
           {
-            "name": "Vclw6EM"
+            "name": "Vclw6EM",
+            "width": 1280,
+            "height": 759
           }
         ],
         "videos": [],
@@ -19,7 +21,9 @@
       {
         "photos": [
           {
-            "name": "CmRXC66"
+            "name": "CmRXC66",
+            "width": 1280,
+            "height": 474
           }
         ],
         "videos": [],
@@ -28,7 +32,9 @@
       {
         "photos": [
           {
-            "name": "cOwWuHI"
+            "name": "cOwWuHI",
+            "width": 1280,
+            "height": 566
           }
         ],
         "videos": [],
@@ -37,7 +43,9 @@
       {
         "photos": [
           {
-            "name": "8Z3uEgC"
+            "name": "8Z3uEgC",
+            "width": 1280,
+            "height": 710
           }
         ],
         "videos": [],
@@ -46,7 +54,9 @@
       {
         "photos": [
           {
-            "name": "ruxvuOh"
+            "name": "ruxvuOh",
+            "width": 1280,
+            "height": 756
           }
         ],
         "videos": [],
@@ -55,7 +65,9 @@
       {
         "photos": [
           {
-            "name": "NvTARoo"
+            "name": "NvTARoo",
+            "width": 1280,
+            "height": 769
           }
         ],
         "videos": [],
@@ -64,7 +76,9 @@
       {
         "photos": [
           {
-            "name": "WPphSmE"
+            "name": "WPphSmE",
+            "width": 1280,
+            "height": 477
           }
         ],
         "videos": [],
@@ -73,7 +87,9 @@
       {
         "photos": [
           {
-            "name": "V9HDfkr"
+            "name": "V9HDfkr",
+            "width": 1280,
+            "height": 603
           }
         ],
         "videos": [],
@@ -82,7 +98,9 @@
       {
         "photos": [
           {
-            "name": "cKlbn2n"
+            "name": "cKlbn2n",
+            "width": 1280,
+            "height": 734
           }
         ],
         "videos": [],
@@ -91,7 +109,9 @@
       {
         "photos": [
           {
-            "name": "zShAu3G"
+            "name": "zShAu3G",
+            "width": 1280,
+            "height": 338
           }
         ],
         "videos": [],
@@ -100,7 +120,9 @@
       {
         "photos": [
           {
-            "name": "IlPtDqN"
+            "name": "IlPtDqN",
+            "width": 1280,
+            "height": 766
           }
         ],
         "videos": [],
@@ -109,7 +131,9 @@
       {
         "photos": [
           {
-            "name": "lu3THUe"
+            "name": "lu3THUe",
+            "width": 1280,
+            "height": 853
           }
         ],
         "videos": [],
@@ -118,7 +142,9 @@
       {
         "photos": [
           {
-            "name": "KDevhMS"
+            "name": "KDevhMS",
+            "width": 1280,
+            "height": 646
           }
         ],
         "videos": [],
@@ -127,7 +153,9 @@
       {
         "photos": [
           {
-            "name": "gHgtyeS"
+            "name": "gHgtyeS",
+            "width": 1280,
+            "height": 651
           }
         ],
         "videos": [],
@@ -136,7 +164,9 @@
       {
         "photos": [
           {
-            "name": "VUwB4pE"
+            "name": "VUwB4pE",
+            "width": 1280,
+            "height": 531
           }
         ],
         "videos": [],
@@ -144,13 +174,17 @@
       },
       {
         "photos": [],
-        "videos": ["fUFgbYN7XZo"],
+        "videos": [
+          "fUFgbYN7XZo"
+        ],
         "text": "Komplette Auffahrt mit der Seilbahn (für Leute mit Zeit)."
       },
       {
         "photos": [
           {
-            "name": "FrYHDfF"
+            "name": "FrYHDfF",
+            "width": 1280,
+            "height": 817
           }
         ],
         "videos": [],
@@ -159,7 +193,9 @@
       {
         "photos": [
           {
-            "name": "LEJWPuf"
+            "name": "LEJWPuf",
+            "width": 1280,
+            "height": 505
           }
         ],
         "videos": [],
@@ -168,7 +204,9 @@
       {
         "photos": [
           {
-            "name": "8cL4zSd"
+            "name": "8cL4zSd",
+            "width": 1280,
+            "height": 517
           }
         ],
         "videos": [],
@@ -177,7 +215,9 @@
       {
         "photos": [
           {
-            "name": "m9JasyY"
+            "name": "m9JasyY",
+            "width": 1280,
+            "height": 853
           }
         ],
         "videos": [],
@@ -186,7 +226,9 @@
       {
         "photos": [
           {
-            "name": "mQ6fBh2"
+            "name": "mQ6fBh2",
+            "width": 1280,
+            "height": 579
           }
         ],
         "videos": [],
@@ -195,7 +237,9 @@
       {
         "photos": [
           {
-            "name": "60crdI3"
+            "name": "60crdI3",
+            "width": 1280,
+            "height": 688
           }
         ],
         "videos": [],
@@ -204,7 +248,9 @@
       {
         "photos": [
           {
-            "name": "qhH41yH"
+            "name": "qhH41yH",
+            "width": 1280,
+            "height": 813
           }
         ],
         "videos": [],
@@ -213,10 +259,14 @@
       {
         "photos": [
           {
-            "name": "acWx4HP"
+            "name": "acWx4HP",
+            "width": 1280,
+            "height": 655
           },
           {
-            "name": "cpSqmz6"
+            "name": "cpSqmz6",
+            "width": 1280,
+            "height": 173
           }
         ],
         "videos": [],
@@ -225,10 +275,14 @@
       {
         "photos": [
           {
-            "name": "FsumP6F"
+            "name": "FsumP6F",
+            "width": 1280,
+            "height": 608
           },
           {
-            "name": "qigIeB6"
+            "name": "qigIeB6",
+            "width": 1280,
+            "height": 737
           }
         ],
         "videos": [],
@@ -237,10 +291,14 @@
       {
         "photos": [
           {
-            "name": "SqPhjXT"
+            "name": "SqPhjXT",
+            "width": 1280,
+            "height": 570
           },
           {
-            "name": "qsPrIT0"
+            "name": "qsPrIT0",
+            "width": 1280,
+            "height": 890
           }
         ],
         "videos": [],

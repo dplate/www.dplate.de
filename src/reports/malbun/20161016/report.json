@@ -568,11 +568,15 @@
         "photos": [
           {
             "name": "track1",
-            "alt": "Wanderkarte Malbun"
+            "alt": "Wanderkarte Malbun",
+            "width": 1280,
+            "height": 603
           },
           {
             "name": "track2",
-            "alt": "Höhenprofil Naafkopf"
+            "alt": "Höhenprofil Naafkopf",
+            "width": 1280,
+            "height": 219
           }
         ],
         "videos": [],

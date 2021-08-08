@@ -386,7 +386,9 @@
         "photos": [
           {
             "name": "track1",
-            "alt": "Wegstrecke"
+            "alt": "Wegstrecke",
+            "width": 1024,
+            "height": 524
           }
         ],
         "videos": [],

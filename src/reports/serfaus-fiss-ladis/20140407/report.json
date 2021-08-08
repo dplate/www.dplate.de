@@ -452,11 +452,15 @@
         "photos": [
           {
             "name": "track1",
-            "alt": "Streckenplan"
+            "alt": "Streckenplan",
+            "width": 1280,
+            "height": 655
           },
           {
             "name": "track2",
-            "alt": "Höhenprofil"
+            "alt": "Höhenprofil",
+            "width": 1280,
+            "height": 285
           }
         ],
         "videos": [],

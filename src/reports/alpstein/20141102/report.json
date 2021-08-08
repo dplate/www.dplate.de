@@ -562,11 +562,15 @@
         "photos": [
           {
             "name": "track1",
-            "alt": "Wegstrecke Jakobsbad Kronberg"
+            "alt": "Wegstrecke Jakobsbad Kronberg",
+            "width": 1280,
+            "height": 655
           },
           {
             "name": "track2",
-            "alt": "Höhenprofil Jakobsbad Kronberg"
+            "alt": "Höhenprofil Jakobsbad Kronberg",
+            "width": 1280,
+            "height": 289
           }
         ],
         "videos": [],

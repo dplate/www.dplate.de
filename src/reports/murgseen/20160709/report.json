@@ -28,7 +28,9 @@
             "height": 1388
           }
         ],
-        "videos": [""],
+        "videos": [
+          ""
+        ],
         "text": "Deshalb ging es zuerst über den rauschenden Bach. Da es noch ziemlich bewölkt war, konnte ich mich auch ohne Graufilter an einer längeren Belichtungszeit versuchen."
       },
       {
@@ -425,10 +427,14 @@
       {
         "photos": [
           {
-            "name": "track1"
+            "name": "track1",
+            "width": 1280,
+            "height": 647
           },
           {
-            "name": "track2"
+            "name": "track2",
+            "width": 1280,
+            "height": 254
           }
         ],
         "videos": [],

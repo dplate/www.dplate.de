@@ -10,7 +10,9 @@
       {
         "photos": [
           {
-            "name": "W6CvIVn"
+            "name": "W6CvIVn",
+            "width": 1024,
+            "height": 683
           }
         ],
         "videos": [],
@@ -19,7 +21,9 @@
       {
         "photos": [
           {
-            "name": "LWmm9Wr"
+            "name": "LWmm9Wr",
+            "width": 1024,
+            "height": 683
           }
         ],
         "videos": [],
@@ -28,7 +32,9 @@
       {
         "photos": [
           {
-            "name": "IaGFVNN"
+            "name": "IaGFVNN",
+            "width": 1024,
+            "height": 604
           }
         ],
         "videos": [],
@@ -37,7 +43,9 @@
       {
         "photos": [
           {
-            "name": "zmcV3Cs"
+            "name": "zmcV3Cs",
+            "width": 1024,
+            "height": 683
           }
         ],
         "videos": [],
@@ -46,7 +54,9 @@
       {
         "photos": [
           {
-            "name": "lbwwciU"
+            "name": "lbwwciU",
+            "width": 1024,
+            "height": 561
           }
         ],
         "videos": [],
@@ -55,7 +65,9 @@
       {
         "photos": [
           {
-            "name": "a0Cew3V"
+            "name": "a0Cew3V",
+            "width": 1024,
+            "height": 561
           }
         ],
         "videos": [],
@@ -64,7 +76,9 @@
       {
         "photos": [
           {
-            "name": "r14AZ07"
+            "name": "r14AZ07",
+            "width": 1024,
+            "height": 542
           }
         ],
         "videos": [],
@@ -72,16 +86,22 @@
       },
       {
         "photos": [],
-        "videos": ["1Jm8ljMzOrU"],
+        "videos": [
+          "1Jm8ljMzOrU"
+        ],
         "text": "Fast die ganze Auffahrt mit dieser klapprigen Bahn für langweilige Sommertage."
       },
       {
         "photos": [
           {
-            "name": "FIRYxrR"
+            "name": "FIRYxrR",
+            "width": 1024,
+            "height": 762
           },
           {
-            "name": "R4Ptfg2"
+            "name": "R4Ptfg2",
+            "width": 1024,
+            "height": 536
           }
         ],
         "videos": [],
@@ -90,7 +110,9 @@
       {
         "photos": [
           {
-            "name": "O0D67TL"
+            "name": "O0D67TL",
+            "width": 1024,
+            "height": 696
           }
         ],
         "videos": [],
@@ -99,7 +121,9 @@
       {
         "photos": [
           {
-            "name": "xa8DujK"
+            "name": "xa8DujK",
+            "width": 1024,
+            "height": 874
           }
         ],
         "videos": [],
@@ -107,13 +131,17 @@
       },
       {
         "photos": [],
-        "videos": ["oE1Oh6pZT2E"],
+        "videos": [
+          "oE1Oh6pZT2E"
+        ],
         "text": "Hier auch noch mal als Video."
       },
       {
         "photos": [
           {
-            "name": "FIVkZBA"
+            "name": "FIVkZBA",
+            "width": 1024,
+            "height": 572
           }
         ],
         "videos": [],
@@ -122,10 +150,14 @@
       {
         "photos": [
           {
-            "name": "ZICQZaE"
+            "name": "ZICQZaE",
+            "width": 1024,
+            "height": 776
           },
           {
-            "name": "1v2Kh5n"
+            "name": "1v2Kh5n",
+            "width": 1024,
+            "height": 672
           }
         ],
         "videos": [],
@@ -134,7 +166,9 @@
       {
         "photos": [
           {
-            "name": "SmvzbBv"
+            "name": "SmvzbBv",
+            "width": 1024,
+            "height": 594
           }
         ],
         "videos": [],
@@ -143,10 +177,14 @@
       {
         "photos": [
           {
-            "name": "AzL0hHL"
+            "name": "AzL0hHL",
+            "width": 1024,
+            "height": 1083
           },
           {
-            "name": "R7Og5Pz"
+            "name": "R7Og5Pz",
+            "width": 1024,
+            "height": 683
           }
         ],
         "videos": [],
@@ -155,7 +193,9 @@
       {
         "photos": [
           {
-            "name": "QyAGXHY"
+            "name": "QyAGXHY",
+            "width": 1024,
+            "height": 601
           }
         ],
         "videos": [],

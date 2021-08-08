@@ -737,11 +737,15 @@
         "photos": [
           {
             "name": "track1",
-            "alt": "Wanderkarte Margelchopf"
+            "alt": "Wanderkarte Margelchopf",
+            "width": 1920,
+            "height": 970
           },
           {
             "name": "track2",
-            "alt": "Höhenprofil Margelchopf"
+            "alt": "Höhenprofil Margelchopf",
+            "width": 1881,
+            "height": 410
           }
         ],
         "videos": [],

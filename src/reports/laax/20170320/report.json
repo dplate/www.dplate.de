@@ -10,7 +10,9 @@
       {
         "photos": [
           {
-            "name": "iypeIZl"
+            "name": "iypeIZl",
+            "width": 1280,
+            "height": 645
           }
         ],
         "videos": [],
@@ -19,7 +21,9 @@
       {
         "photos": [
           {
-            "name": "fbbUaNG"
+            "name": "fbbUaNG",
+            "width": 1280,
+            "height": 443
           }
         ],
         "videos": [],
@@ -28,7 +32,9 @@
       {
         "photos": [
           {
-            "name": "xesXQsz"
+            "name": "xesXQsz",
+            "width": 1280,
+            "height": 531
           }
         ],
         "videos": [],
@@ -37,7 +43,9 @@
       {
         "photos": [
           {
-            "name": "PyTpl8p"
+            "name": "PyTpl8p",
+            "width": 1280,
+            "height": 656
           }
         ],
         "videos": [],
@@ -46,7 +54,9 @@
       {
         "photos": [
           {
-            "name": "RXfPkpL"
+            "name": "RXfPkpL",
+            "width": 1280,
+            "height": 606
           }
         ],
         "videos": [],
@@ -55,7 +65,9 @@
       {
         "photos": [
           {
-            "name": "mJa8tOx"
+            "name": "mJa8tOx",
+            "width": 1280,
+            "height": 458
           }
         ],
         "videos": [],
@@ -64,7 +76,9 @@
       {
         "photos": [
           {
-            "name": "NKVR63r"
+            "name": "NKVR63r",
+            "width": 1280,
+            "height": 536
           }
         ],
         "videos": [],
@@ -73,7 +87,9 @@
       {
         "photos": [
           {
-            "name": "RZbdlPH"
+            "name": "RZbdlPH",
+            "width": 1280,
+            "height": 792
           }
         ],
         "videos": [],
@@ -82,7 +98,9 @@
       {
         "photos": [
           {
-            "name": "XcTfvPu"
+            "name": "XcTfvPu",
+            "width": 1280,
+            "height": 503
           }
         ],
         "videos": [],
@@ -91,7 +109,9 @@
       {
         "photos": [
           {
-            "name": "VNDqr78"
+            "name": "VNDqr78",
+            "width": 1280,
+            "height": 567
           }
         ],
         "videos": [],
@@ -100,7 +120,9 @@
       {
         "photos": [
           {
-            "name": "4zQOVoz"
+            "name": "4zQOVoz",
+            "width": 1280,
+            "height": 442
           }
         ],
         "videos": [],
@@ -109,7 +131,9 @@
       {
         "photos": [
           {
-            "name": "1CDKrUR"
+            "name": "1CDKrUR",
+            "width": 1280,
+            "height": 479
           }
         ],
         "videos": [],
@@ -118,7 +142,9 @@
       {
         "photos": [
           {
-            "name": "EPiBExC"
+            "name": "EPiBExC",
+            "width": 1280,
+            "height": 584
           }
         ],
         "videos": [],
@@ -127,7 +153,9 @@
       {
         "photos": [
           {
-            "name": "DKqBUlV"
+            "name": "DKqBUlV",
+            "width": 1280,
+            "height": 618
           }
         ],
         "videos": [],
@@ -136,7 +164,9 @@
       {
         "photos": [
           {
-            "name": "xXJxa6F"
+            "name": "xXJxa6F",
+            "width": 1280,
+            "height": 472
           }
         ],
         "videos": [],
@@ -145,7 +175,9 @@
       {
         "photos": [
           {
-            "name": "3WSWlwP"
+            "name": "3WSWlwP",
+            "width": 1280,
+            "height": 749
           }
         ],
         "videos": [],
@@ -154,7 +186,9 @@
       {
         "photos": [
           {
-            "name": "BGLjJkP"
+            "name": "BGLjJkP",
+            "width": 1280,
+            "height": 614
           }
         ],
         "videos": [],
@@ -163,7 +197,9 @@
       {
         "photos": [
           {
-            "name": "5wvQAHW"
+            "name": "5wvQAHW",
+            "width": 1280,
+            "height": 798
           }
         ],
         "videos": [],
@@ -172,7 +208,9 @@
       {
         "photos": [
           {
-            "name": "7fRFxmj"
+            "name": "7fRFxmj",
+            "width": 1280,
+            "height": 563
           }
         ],
         "videos": [],
@@ -181,7 +219,9 @@
       {
         "photos": [
           {
-            "name": "RUn6pvh"
+            "name": "RUn6pvh",
+            "width": 1280,
+            "height": 853
           }
         ],
         "videos": [],
@@ -189,16 +229,22 @@
       },
       {
         "photos": [],
-        "videos": ["O9NaUW6LBOk"],
+        "videos": [
+          "O9NaUW6LBOk"
+        ],
         "text": "Anschließend bin ich mit der Grauberg-Bahn wieder nach oben gefahren. Da sie bei wenig Andrang nur alle 15min\n      fährt, kommt man um etwas Wartezeit kaum herum. Schlußendlich war ich aber trotzdem nur alleine in der Gondel."
       },
       {
         "photos": [
           {
-            "name": "98JctZm"
+            "name": "98JctZm",
+            "width": 1280,
+            "height": 706
           },
           {
-            "name": "h5PSRYz"
+            "name": "h5PSRYz",
+            "width": 1280,
+            "height": 492
           }
         ],
         "videos": [],
@@ -207,7 +253,9 @@
       {
         "photos": [
           {
-            "name": "mQCGlzH"
+            "name": "mQCGlzH",
+            "width": 1280,
+            "height": 490
           }
         ],
         "videos": [],
@@ -216,7 +264,9 @@
       {
         "photos": [
           {
-            "name": "NBDxmwL"
+            "name": "NBDxmwL",
+            "width": 1280,
+            "height": 853
           }
         ],
         "videos": [],
@@ -225,10 +275,14 @@
       {
         "photos": [
           {
-            "name": "UGYXzxG"
+            "name": "UGYXzxG",
+            "width": 1280,
+            "height": 647
           },
           {
-            "name": "7l7FhCI"
+            "name": "7l7FhCI",
+            "width": 1280,
+            "height": 256
           }
         ],
         "videos": [],

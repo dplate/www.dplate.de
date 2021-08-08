@@ -587,11 +587,15 @@
         "photos": [
           {
             "name": "track1",
-            "alt": "Wanderkarte Speer"
+            "alt": "Wanderkarte Speer",
+            "width": 1280,
+            "height": 647
           },
           {
             "name": "track2",
-            "alt": "Höhenprofil Speer"
+            "alt": "Höhenprofil Speer",
+            "width": 1280,
+            "height": 308
           }
         ],
         "videos": [],
@@ -599,7 +603,9 @@
       },
       {
         "photos": [],
-        "videos": ["RPaoFnFSpms"],
+        "videos": [
+          "RPaoFnFSpms"
+        ],
         "text": "Google Earth Zusammenfassung der Wanderung."
       }
     ],

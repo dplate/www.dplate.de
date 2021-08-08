@@ -355,11 +355,15 @@
         "photos": [
           {
             "name": "track1",
-            "alt": "Pisten Sonnenkopf"
+            "alt": "Pisten Sonnenkopf",
+            "width": 1024,
+            "height": 900
           },
           {
             "name": "track2",
-            "alt": "Höhenprofil Sonnenkopf"
+            "alt": "Höhenprofil Sonnenkopf",
+            "width": 1005,
+            "height": 283
           }
         ],
         "videos": [],
