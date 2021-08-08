@@ -16,7 +16,7 @@ import {
   Credit,
   Ellipsoid,
   EllipsoidGeodesic,
-  Entity,
+  Entity, EventHelper,
   GeographicTilingScheme,
   HeadingPitchRange,
   HeightReference,
@@ -346,21 +346,21 @@ const updateCamera = (viewer, hiker) => {
   viewer.camera.lookAt(realCurrentPos, new HeadingPitchRange(newHeading, newPitch, 500));
 };
 
-const updateSpeed = (clock, targetTime, onAnimationStopped) => {
+const updateSpeed = (viewer, targetTime, onAnimationStopped) => {
   if (!targetTime.current) {
     return;
   }
-
-  const timeDifference = JulianDate.secondsDifference(targetTime.current, clock.currentTime);
-  let multiplier = timeDifference / 3;
-  multiplier = Math.max(multiplier, -5000);
-  multiplier = Math.min(multiplier, 5000);
-  clock.multiplier = multiplier;
-  if (Math.abs(multiplier) < 20 || Math.abs(timeDifference) <= 10) {
-    if (clock.shouldAnimate) {
+  const timeDifference = JulianDate.secondsDifference(targetTime.current, viewer.clock.currentTime);
+  let targetMultiplier = timeDifference / 3;
+  const maxMultiplier = viewer.scene.globe.tilesLoaded ? 1000 : 100;
+  targetMultiplier = Math.max(targetMultiplier, -maxMultiplier);
+  targetMultiplier = Math.min(targetMultiplier, maxMultiplier);
+  viewer.clock.multiplier += (targetMultiplier - viewer.clock.multiplier) * 0.01;
+  if (Math.abs(targetMultiplier) < 20 || Math.abs(timeDifference) <= 10) {
+    if (viewer.clock.shouldAnimate) {
       onAnimationStopped()
     }
-    clock.shouldAnimate = false;
+    viewer.clock.shouldAnimate = false;
   }
 };
 
@@ -395,7 +395,7 @@ const updateHiker = (viewer, hiker) => {
 
 const tickChanged = (viewer, hiker, targetTime, onAnimationStopped) => {
   updateCamera(viewer, hiker);
-  updateSpeed(viewer.clock, targetTime, onAnimationStopped);
+  updateSpeed(viewer, targetTime, onAnimationStopped);
   updateHiker(viewer, hiker);
 };
 
@@ -473,6 +473,18 @@ const prepareStart = async (trackData, viewer, hiker, targetTime, onAnimationSta
 
   timeChanged(viewer.clock, targetTime, time, timeShift, onAnimationStarted);
   jumpToTargetTime(viewer, hiker, targetTime);
+
+  const eventHelper = new EventHelper();
+  await new Promise((resolve) => {
+    const listener = { remove: null };
+    listener.remove = eventHelper.add(viewer.scene.globe.tileLoadProgressEvent, (queue) => {
+      if (queue <= 0) {
+        listener.remove();
+        resolve();
+      }
+    });
+  });
+
   onAnimationStopped();
 
   return viewer.clock;
