@@ -159,7 +159,7 @@ class ReportMovie extends React.Component {
         if (photo.date) {
           const seconds = this.extractSecondsFromDate(photo.date);
           const secondsDiff = Math.max(1, seconds - lastSeconds);
-          const movieSeconds = lastMovieSeconds + 5 + Math.log10(secondsDiff / 20) * 4.925;
+          const movieSeconds = lastMovieSeconds + 5 + Math.log10(secondsDiff / 20) * 5.3;
           sections.push({
             movieSeconds: (movieSeconds + lastMovieSeconds + 5) / 2,
             text: photo.alt

@@ -21,6 +21,7 @@ const Title = styled.h1`
   right: 3vw;
   line-height: initial;
   text-shadow: 2px 2px 4px #000000;
+  opacity: 0.9;
 `;
 
 const Foreground = styled.img`
