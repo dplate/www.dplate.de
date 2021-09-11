@@ -147,7 +147,7 @@ class ReportMovie extends React.Component {
     const trackPoints = Array.prototype.slice.call(doc.getElementsByTagName('trkpt'));
     const startDate = trackPoints[0].getElementsByTagName('time')[0].firstChild.nodeValue;
     let lastSeconds = this.extractSecondsFromDate(startDate);
-    let lastMovieSeconds = 7;
+    let lastMovieSeconds = 5;
     const sections = [
       {
         movieSeconds: 0,
@@ -159,7 +159,7 @@ class ReportMovie extends React.Component {
         if (photo.date) {
           const seconds = this.extractSecondsFromDate(photo.date);
           const secondsDiff = Math.max(1, seconds - lastSeconds);
-          const movieSeconds = lastMovieSeconds + 5 + Math.log10(secondsDiff / 20) * 5.3;
+          const movieSeconds = lastMovieSeconds + 5 + Math.log10(secondsDiff / 30) * 6.1;
           sections.push({
             movieSeconds: (movieSeconds + lastMovieSeconds + 5) / 2,
             text: photo.alt

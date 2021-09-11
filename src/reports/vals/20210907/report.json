@@ -1,0 +1,577 @@
+[
+  {
+    "destination": "vals",
+    "date": "d20210907",
+    "type": "hike",
+    "track": true,
+    "detailMap": "swiss",
+    "shortTitle": "Faltschonhorn",
+    "title": "Vals - Faltschonhorn",
+    "title3d": {
+      "offsetY": 2,
+      "fontSize": 8.5,
+      "align": "right",
+      "width": 1920,
+      "height": 457
+    },
+    "movie": "DzzP0edBqLM",
+    "intro": "An diesem September-Dienstag hatte ich mir freigenommen, um das 3000m hohe Faltschonhorn oberhalb von Vals zu besteigen. Das 1200m hohe Vals liegt in einem abgelegenen Seitental des Rheins in Graubünden. Die lange Anfahrt von 2:15h waren aber in Ordnung, da die Gondelbahn für die ersten 550 Höhenmeter eh erst um 9:30 startet. Pünktlich stellte ich mein Auto auf dem Parkplatz ab, 5 CHF Parkgebühren müssen per App oder per Karte bezahlt werden. Die Fahrt mit der Bahn ist (sehr ungewöhnlich) im Sommer gratis für Jeden... man könnte also auch den ganzen Tag herumgondeln. ;)",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Talsstation Vals3000",
+            "date": "2021-09-07T09:39:49.000+02:00",
+            "width": 1829,
+            "height": 1080
+          },
+          {
+            "name": "002",
+            "alt": "Gondelbahn Vals",
+            "date": "2021-09-07T09:42:27.000+02:00",
+            "width": 1920,
+            "height": 958
+          },
+          {
+            "name": "003",
+            "alt": "Walserort Leis",
+            "date": "2021-09-07T09:43:09.000+02:00",
+            "width": 1920,
+            "height": 1021
+          }
+        ],
+        "text": "Impressionen während der Fahrt mit der Gondelbahn, die an der kleinen Siedlung Leis vorbei führte."
+      },
+      {
+        "photos": [
+          {
+            "name": "004",
+            "alt": "Gadastatt",
+            "date": "2021-09-07T09:51:14.000+02:00",
+            "width": 1920,
+            "height": 997
+          }
+        ],
+        "text": "An der 1800m hohen Bergstation Gadastatt folgte ich dem Wegweiser nach rechts. Die Hauptwege gehen eher in die andere Richtung nach Zervreila und Stausee... aber an diesem Tag war alles wie ausgestorben."
+      },
+      {
+        "photos": [
+          {
+            "name": "005",
+            "alt": "Bergbach mit Brücke",
+            "date": "2021-09-07T09:52:26.000+02:00",
+            "width": 1029,
+            "height": 1080
+          }
+        ],
+        "text": "Gleich am Anfang ging es über diesen kleine Bach, der über freigespühlte Felsplatten hinweg fließt."
+      },
+      {
+        "photos": [
+          {
+            "name": "006",
+            "alt": "Hangweg",
+            "date": "2021-09-07T09:57:43.000+02:00",
+            "width": 1920,
+            "height": 1028
+          },
+          {
+            "name": "007",
+            "alt": "Wanderung Gadastatt",
+            "date": "2021-09-07T09:58:32.000+02:00",
+            "width": 1709,
+            "height": 1080
+          }
+        ],
+        "text": "Weiter ging es auf harmlosem Grasweg leicht ansteigenden den Hang entlang. Erst der Blick nach vorne, dann zurück nach Gadastatt."
+      },
+      {
+        "photos": [
+          {
+            "name": "008",
+            "alt": "Wanderweg Stafelti",
+            "date": "2021-09-07T10:03:37.000+02:00",
+            "width": 720,
+            "height": 1080
+          },
+          {
+            "name": "009",
+            "alt": "Landschaft Vals",
+            "date": "2021-09-07T10:04:11.000+02:00",
+            "width": 1920,
+            "height": 926
+          }
+        ],
+        "text": "Nach kurzer Zeit tauchten bereits die Häuser von Stafelti auf, eine der vielen malerischen Siedlungen mit dem typischen Walser-Baustil."
+      },
+      {
+        "photos": [
+          {
+            "name": "010",
+            "alt": "Rauschender Sturzbach",
+            "date": "2021-09-07T10:09:19.000+02:00",
+            "width": 1410,
+            "height": 1080
+          }
+        ],
+        "text": "Bevor ich aber die Häuser erreichte, musste noch dieser rauschende Bergbach überquert werden."
+      },
+      {
+        "photos": [
+          {
+            "name": "011",
+            "alt": "Grasweg vor Stafelti",
+            "date": "2021-09-07T10:10:48.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "012",
+            "alt": "Steingedeckte Häuser",
+            "date": "2021-09-07T10:12:01.000+02:00",
+            "width": 1920,
+            "height": 964
+          }
+        ],
+        "text": "Nach rund 30min von Gadastatt hatte ich dann das erste Zwischenziel Stafelti erreicht. Auch hier menschenleer."
+      },
+      {
+        "photos": [
+          {
+            "name": "013",
+            "alt": "Feldweg Leisalp",
+            "date": "2021-09-07T10:22:48.000+02:00",
+            "width": 1920,
+            "height": 1078
+          },
+          {
+            "name": "014",
+            "alt": "Straße mit Fanellhorn",
+            "date": "2021-09-07T10:33:49.000+02:00",
+            "width": 1838,
+            "height": 1080
+          }
+        ],
+        "text": "Die nächste halbe Stunde ging es nun auf dieser Alpstraße weiter, wobei ab der Leisalp die Richtung wechselte.<br />Auf dem zweiten Bild ist im Hintergrund das Fanellhorn zu sehen, das ich als alternatives Ziel erwogen hatte."
+      },
+      {
+        "photos": [
+          {
+            "name": "015",
+            "alt": "Bergweg Vals",
+            "date": "2021-09-07T10:40:44.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Auf einer Höhe von 2100m verließ der Wanderung die Straße wieder und nun ging es etwas zügiger bergauf zur Fuorcla da Patnaul."
+      },
+      {
+        "photos": [
+          {
+            "name": "016",
+            "alt": "Güferhorn und Güfergletscher",
+            "date": "2021-09-07T10:57:32.000+02:00",
+            "width": 1920,
+            "height": 948
+          }
+        ],
+        "text": "Tele beim Aufstieg zum 3300m hohen Güferhorn mit seinem Güfergletscher."
+      },
+      {
+        "photos": [
+          {
+            "name": "017",
+            "alt": "Weg zwischen zwei Bächen",
+            "date": "2021-09-07T11:07:25.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Der Weg ging nun ununterbrochen die Wiese bergauf. Für etwas Abwechslung sorgten kleine Bäche."
+      },
+      {
+        "photos": [
+          {
+            "name": "018",
+            "alt": "Faltschonhorn mit Fuorcla da Patnaul",
+            "date": "2021-09-07T12:08:11.000+02:00",
+            "width": 1899,
+            "height": 1080
+          }
+        ],
+        "text": "Erst kurz davor tauchte die 2770m hohe Fuorcla da Patnaul auf, dem Pass rechts vor dem Faltschonhorn."
+      },
+      {
+        "photos": [
+          {
+            "name": "019",
+            "alt": "Wanderweg Vrin Vals",
+            "date": "2021-09-07T12:17:57.000+02:00",
+            "width": 1798,
+            "height": 1080
+          },
+          {
+            "name": "020",
+            "alt": "Fuorcla da Patnaul",
+            "date": "2021-09-07T12:18:54.000+02:00",
+            "width": 1920,
+            "height": 947
+          }
+        ],
+        "text": "Ankunft schließlich auf dem Pass nach gut 2,5h und 900m Aufstieg. Auf der anderen Seite des Passes geht es bergab nach Vrin im Val Lumnezia. An diesem Weg wurde vor Herdenhunden gewarnt - zum Glück wollte ich dort sowieso nicht hin.<br />Ich hatte eigentlich eine längere Pause hier eingeplant, aber auf dem Pass wehte ein kalter Wind und auch die Sonne versteckte sich hinter Wolken. Also ging ich schon bald weiter, um die angezeigten 50min auf das Faltschonhorn zu schaffen. Rein optisch sah es nicht mehr nach 50min aus, aber es fehlten ja noch 300 Höhenmeter und auch die Höhe machte sich bei mir bemerkbar."
+      },
+      {
+        "photos": [
+          {
+            "name": "021",
+            "alt": "Schotter Faltschonhorn",
+            "date": "2021-09-07T12:46:33.000+02:00",
+            "width": 1920,
+            "height": 826
+          },
+          {
+            "name": "022",
+            "alt": "Aufstieg Faltschonhorn",
+            "date": "2021-09-07T12:50:37.000+02:00",
+            "width": 1844,
+            "height": 1080
+          }
+        ],
+        "text": "Der Aufstieg vom Pass auf den Gipfel geht meistens recht harmlos auf dem breiten Grat. Nur zweimal ging es rechts in den schottrigen Hang hinein, was ich besonders beim späteren Abstieg auf Grund des bröckeligen Gesteins unangenehm fand."
+      },
+      {
+        "photos": [
+          {
+            "name": "023",
+            "alt": "Piz Terri",
+            "date": "2021-09-07T12:51:30.000+02:00",
+            "width": 1788,
+            "height": 1080
+          }
+        ],
+        "text": "Dann tauchte der Piz Terri mit seinen beeindruckenden Steilhängen auf."
+      },
+      {
+        "photos": [
+          {
+            "name": "024",
+            "alt": "Bergweg Faltschonhorn",
+            "date": "2021-09-07T12:51:56.000+02:00",
+            "width": 1920,
+            "height": 1005
+          },
+          {
+            "name": "025",
+            "alt": "Grat des Faltschonhorns",
+            "date": "2021-09-07T12:56:58.000+02:00",
+            "width": 1920,
+            "height": 730
+          }
+        ],
+        "text": "Nach dem anstrengenden Aufstieg erreichte ich plötzlich den überraschend harmlosen und flachen Gipfelgrat - die letzten Meter waren also sehr erholsam."
+      },
+      {
+        "photos": [
+          {
+            "name": "026",
+            "alt": "Piz Aul",
+            "date": "2021-09-07T12:59:33.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Blick zurück zum Piz Aul auf der anderen Seite der Fuorcla da Patnaul."
+      },
+      {
+        "photos": [
+          {
+            "name": "027",
+            "alt": "Gipfel Faltschonhorn",
+            "date": "2021-09-07T13:04:52.000+02:00",
+            "width": 1658,
+            "height": 1080
+          }
+        ],
+        "text": "Den 3000m hohen Gipfel erreichte ich um 13:00 nach knapp 3,5h. Ein Gipfelkreuz gibt es dort nicht, aber ein Steinmännchen mit Gipfelbuch."
+      },
+      {
+        "photos": [
+          {
+            "name": "028",
+            "alt": "Panorama Faltschonhorn",
+            "date": "2021-09-07T13:06:56.000+02:00",
+            "width": 1920,
+            "height": 742
+          }
+        ],
+        "text": "Das schönste Panorama ergab sich den Grat weiter nach Süd/Ost."
+      },
+      {
+        "photos": [
+          {
+            "name": "029",
+            "alt": "Aussicht Faltschonhorn",
+            "date": "2021-09-07T13:12:16.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Gleiche Richtung, aber mit mehr Details. Links wieder der Güfergletscher, rechts der Piz Scharboda. Diese ganzen Berge kennt wahrscheinlich niemand, sie sind aber alle über 3000m hoch."
+      },
+      {
+        "photos": [
+          {
+            "name": "030",
+            "alt": "Piz Terri",
+            "date": "2021-09-07T13:12:45.000+02:00",
+            "width": 720,
+            "height": 1080
+          }
+        ],
+        "text": "Der Blick auf den total unecht wirkenden Piz Terri hatte es mir besonders angetan. Es lag wohl auch etwas an dem gedämpften Sonnenlicht, dass er diese Wirkung hatte. Schön anzuschauen, aber nicht zum Wandern geeignet. ;)"
+      },
+      {
+        "photos": [
+          {
+            "name": "031",
+            "alt": "Vals vom Faltschonhorn",
+            "date": "2021-09-07T13:24:37.000+02:00",
+            "width": 1920,
+            "height": 693
+          }
+        ],
+        "text": "Blick Richtung Vals - 1800m tiefer. Hier kann man auch ein Großteil des Aufstiegs sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "032",
+            "alt": "Bergpanorama",
+            "date": "2021-09-07T13:24:59.000+02:00",
+            "width": 1920,
+            "height": 412
+          }
+        ],
+        "text": "Zuletzt noch der Blick nach Norden. Rechts irgendwo ist der Piz Sezner vom Skigebiet Obersaxen zu sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "033",
+            "alt": "Faltschonhorn Höhe",
+            "date": "2021-09-07T13:26:39.000+02:00",
+            "width": 859,
+            "height": 1080
+          }
+        ],
+        "text": "Da es auf dem Gipfel auch keinen Wegweiser gibt, ist die offizielle Höhe auf einer Plakette am Boden angebracht.<br />Nach 20min Pause auf dem Gipfel machte ich mich dann an den Abstieg."
+      },
+      {
+        "photos": [
+          {
+            "name": "034",
+            "alt": "Faltschonhorn ausgesetzte Stelle",
+            "date": "2021-09-07T13:29:10.000+02:00",
+            "width": 1920,
+            "height": 918
+          }
+        ],
+        "text": "Bis zur 2000m hohen Leisalp ging es für mich auf dem gleichen Weg zurück. Kurz nach dem Gipfel übrigens dieser überhängende Fels, der Weg daran vorbei war aber problemlos."
+      },
+      {
+        "photos": [
+          {
+            "name": "035",
+            "alt": "Piz Aul",
+            "date": "2021-09-07T13:43:30.000+02:00",
+            "width": 1920,
+            "height": 847
+          }
+        ],
+        "text": "Noch einmal der Blick auf den Piz Aul und davor die Fuorcla da Patnaul. Rechts nach Vals, links nach Vrin."
+      },
+      {
+        "photos": [
+          {
+            "name": "036",
+            "alt": "Gespaltener Fels",
+            "date": "2021-09-07T13:59:56.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Kurios am Wegrand dieser gebrochene Stein mit Wegzeichen."
+      },
+      {
+        "photos": [
+          {
+            "name": "037",
+            "alt": "Wanderweg im Hochgebirge",
+            "date": "2021-09-07T14:04:43.000+02:00",
+            "width": 1920,
+            "height": 790
+          },
+          {
+            "name": "038",
+            "alt": "Wanderung Surselva",
+            "date": "2021-09-07T14:05:38.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "039",
+            "alt": "Abstieg über Wiesen",
+            "date": "2021-09-07T14:30:13.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Drei Impressionen während das Abstiegs vom Pass zur Leisalp. Leider versteckte sich nun die Sonne hinter einer stationären Quellwolke, so dass die Bilder etwas düster wirken. Auf der anderen Seite von Vals strahlte dagegen die Sonne."
+      },
+      {
+        "photos": [
+          {
+            "name": "040",
+            "alt": "Wasserfall mit Eisenhut",
+            "date": "2021-09-07T14:37:15.000+02:00",
+            "width": 1798,
+            "height": 1080
+          }
+        ],
+        "text": "Schönste Stelle beim Abstieg war dieser kleine Wasserfall mit lila Eisenhut im Vordergrund. Leider zeigte sich auch hier nicht die Sonne, obwohl ich mittels einer Trinkpause etwas wartete."
+      },
+      {
+        "photos": [
+          {
+            "name": "041",
+            "alt": "Tiefblick Vals",
+            "date": "2021-09-07T15:15:11.000+02:00",
+            "width": 1920,
+            "height": 640
+          }
+        ],
+        "text": "Tele hinab nach Vals. Wirkte schon recht nah, waren aber noch gut 1000 Höhenmeter."
+      },
+      {
+        "photos": [
+          {
+            "name": "042",
+            "alt": "Leisalp Parkplatz",
+            "date": "2021-09-07T15:31:42.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Wieder auf der Straße und an der Leisalp. Bis dort kann man wohl auch mit dem Auto hochfahren, denn es ist ein Parkplatz ausgewiesen, auf dem auch beim Aufstieg ein Auto mit zwei Wanderern geparkt hatten. Von hier aus wäre der Auf- und Abstieg auf den Gipfel am einfachsten. Außerdem gibt es an der Leisalp einen kleinen Selbstbedienungsladen."
+      },
+      {
+        "photos": [
+          {
+            "name": "043",
+            "alt": "Wanderweg Leisalp Vals",
+            "date": "2021-09-07T15:39:12.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Ich hätte natürlich von der Leisalp auch weiter auf dem Hinweg nach Gandstatt zurückwandern und dort wieder die Gondelbahn nehmen können. Das wären 550m weniger Abstieg und gut eine Stunde weniger lang. Man muss dabei nur beachten, dass die letzte Bahn um 17:00 fährt.<br />Ich entschied mich dagegen für den Abstieg bis nach Vals. Direkt nach der Leisalp praktisch ohne sichtbare Wegspur nur den spärlichen Wanderzeichen folgend."
+      },
+      {
+        "photos": [
+          {
+            "name": "044",
+            "alt": "Walser Berghütten",
+            "date": "2021-09-07T16:07:54.000+02:00",
+            "width": 1576,
+            "height": 1080
+          }
+        ],
+        "text": "Der Weg über die Wiesen war ziemlich unangenehm, da durch das hohe Gras der unebene Untergrund nicht zu sehen war. Mehrfach stolperte ich, so dass ich nicht unglücklich war, dass ich bei den Häusern von Alta Gada wieder einen Fahrweg erreichte."
+      },
+      {
+        "photos": [
+          {
+            "name": "045",
+            "alt": "Alpstraße Vals",
+            "date": "2021-09-07T16:30:33.000+02:00",
+            "width": 918,
+            "height": 1080
+          }
+        ],
+        "text": "Rund 250 Höhenmeter ging es nun auf der Straße weiter bergab - gut um abzuschalten und vor sich hin zu trotten."
+      },
+      {
+        "photos": [
+          {
+            "name": "046",
+            "alt": "Wanderweg oberhalb von Vals",
+            "date": "2021-09-07T17:09:23.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Nach einer schönen Pause auf einer Bank verließ ich den Fahrweg wieder und es ging recht steil an diesem Zaun entlang hinab. Da der Weg aber besser ausgetreten war, ging es hier ganz gut. "
+      },
+      {
+        "photos": [
+          {
+            "name": "047",
+            "alt": "Ort Vals",
+            "date": "2021-09-07T17:09:35.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "048",
+            "alt": "Vals im Herbst",
+            "date": "2021-09-07T17:14:18.000+02:00",
+            "width": 1835,
+            "height": 1080
+          }
+        ],
+        "text": "Am Schluß dann noch ein paar Meter auf einem Feldweg (evt. war es auch immer die selbe Straße) direkt oberhalb von Vals."
+      },
+      {
+        "photos": [
+          {
+            "name": "049",
+            "alt": "Brücke Vals",
+            "date": "2021-09-07T17:36:36.000+02:00",
+            "width": 1920,
+            "height": 952
+          }
+        ],
+        "text": "Ankunft in Vals bzw. am Parkplatz der Talstation um 17:45. Am Ende hatten meine Beine dann doch keine Lust mehr auf Abstieg."
+      },
+      {
+        "photos": [
+          {
+            "name": "050",
+            "alt": "Straße Rheinschlucht",
+            "date": "2021-09-07T18:38:26.000+02:00",
+            "width": 1727,
+            "height": 1080
+          },
+          {
+            "name": "051",
+            "alt": "Tunnel Rheinschlucht",
+            "date": "2021-09-07T18:45:38.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "052",
+            "alt": "Sonnenuntergang Rheinschlucht",
+            "date": "2021-09-07T18:49:08.000+02:00",
+            "width": 1873,
+            "height": 1080
+          }
+        ],
+        "text": "Auf der Rückfahrt bin ich dann noch statt über Flims auf der tollen Straße durch die Rheinschlucht gefahren - gerade noch vor Sonnenuntergang."
+      }
+    ],
+    "outro": "Fazit: 'Viel rauf und noch viel mehr runter' kann man die Wanderung wohl kurz beschreiben - aber das ist meistens so, will man einen hohen Gipfel besteigen. Rein vom Wanderweg und der Landschaft gibt es wahrscheinlich schönere Wege um Vals, dafür muss man dann aber auf das beeindruckende Gipfelerlebnis verzichten.<br />Mit über 1200m Aufstieg und 1800m Abstieg bei 8h Dauer war es doch eine ziemlich anstrengende Wanderung, besonders steil oder gefährlich war sie aber nicht."
+  }
+]
