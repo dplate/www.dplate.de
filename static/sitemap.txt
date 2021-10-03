@@ -210,3 +210,4 @@ https://www.dplate.de/alpine/praettigau/20210821
 https://www.dplate.de/alpine/vals/20210907
 https://www.dplate.de/alpine/toggenburg/20210912
 https://www.dplate.de/alpine/lenzerheide/20210918
+https://www.dplate.de/alpine/flumserberg/20211002
