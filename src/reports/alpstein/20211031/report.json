@@ -1,0 +1,663 @@
+[
+  {
+    "destination": "alpstein",
+    "date": "d20211031",
+    "type": "hike",
+    "track": true,
+    "detailMap": "swiss",
+    "shortTitle": "Gulmen",
+    "title": "Wildhaus - Gulmen",
+    "title3d": {
+      "offsetY": 3,
+      "fontSize": 8,
+      "align": "right",
+      "width": 1920,
+      "height": 470
+    },
+    "movie": "TODO",
+    "intro": "An diesem letzten Oktobersonntag hatte ich nach einer nicht so lange Wanderung gesucht, da die Wettervorhersage etwas unsicher war. Das schönste Wetter sollte dank des Föhns entlang des Rheintal sein. Also fiel meine Wahl auf den Gulmen im Alpstein nahe Wildhaus. Nicht zu verwechseln mit dem <a href='/alpine/toggenburg/20180616' target='_blank'>Gulmen bei Stein</a> ganz in der Nähe.<br />Da ich die Zeitumstellung ignorierte, parkte ich mein Auto bereits um 7:45 in Wildhaus auf einen der wenigen noch vorhandenen Gratisparkplätzen - der große Wanderparkplatz nach der Kirche kostet inzwischen eine Gebühr.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Wegweiser Gamplüt",
+            "date": "2021-10-31T07:55:23.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Zuerst folgte ich der Ortsstraße bis zur Talstation der kleinen Gamplütbahn. Dort war auch bereits das Ziel meiner Wanderung - der Gulmen - ausgewiesen. Für die gut 900m Aufstieg waren über 3h angegeben."
+      },
+      {
+        "photos": [
+          {
+            "name": "002",
+            "alt": "Flüretobel",
+            "date": "2021-10-31T07:55:52.000+01:00",
+            "width": 904,
+            "height": 1080
+          }
+        ],
+        "text": "Dem Wegweiser nach ging ich zuerst durch das untere Ende des Flüretobel. Ich hätte auch kürzer einfach die Straße ein Stück weiterlaufen können, aber schöner war es natürlich hier entlang. Beim nächsten Wegweiser bog ich aber dann nach rechts ab, und nicht weiter durch die Schlucht, um meinen eigentlichen Aufstieg zu erreichen."
+      },
+      {
+        "photos": [
+          {
+            "name": "003",
+            "alt": "Wildhaus im Toggenburg",
+            "date": "2021-10-31T08:06:31.000+01:00",
+            "width": 1920,
+            "height": 889
+          }
+        ],
+        "text": "Blick zurück zum kleinen Ort Wildhaus. Im Hintergrund die Churfirsten, von denen mir immer noch einige fehlen."
+      },
+      {
+        "photos": [
+          {
+            "name": "004",
+            "alt": "Dunkler Waldweg",
+            "date": "2021-10-31T08:14:21.000+01:00",
+            "width": 1920,
+            "height": 718
+          }
+        ],
+        "text": "Nun ging es erst mal ca. eine halbe Stunde etwas öde auf einem Forstweg und noch im Schatten den steilen bewaldeten Hang hinauf."
+      },
+      {
+        "photos": [
+          {
+            "name": "005",
+            "alt": "Forstweg",
+            "date": "2021-10-31T08:19:12.000+01:00",
+            "width": 1760,
+            "height": 1080
+          }
+        ],
+        "text": "Zwischendurch konnte man auch mal etwas sehen, weil der Wald durch einen Sturm gelichtet wurde. Im Hintergrund die beeindruckende Schafbergwand, links/unten der Tobel, den ich verlassen hatte."
+      },
+      {
+        "photos": [
+          {
+            "name": "006",
+            "alt": "Weg durch felsigen Wald",
+            "date": "2021-10-31T08:42:05.000+01:00",
+            "width": 841,
+            "height": 1080
+          }
+        ],
+        "text": "Beim nächsten Wegweiser bog ich wieder rechts ab und es wurde deutlich interessanter. Der Wald wurde nun uriger und der Weg ging auf felsigem Grund weiter hinauf."
+      },
+      {
+        "photos": [
+          {
+            "name": "007",
+            "alt": "Weg durch Felsrinne",
+            "date": "2021-10-31T08:43:09.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Besonders lustig war dieser kurze Abschnitt durch eine Rinne aus vom Regen geglättetem Kalkstein."
+      },
+      {
+        "photos": [
+          {
+            "name": "008",
+            "alt": "Wanderweg Gulmenhütte",
+            "date": "2021-10-31T09:06:37.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Schließlich erreichte ich auch die Sonne. Kalt war mir aber dank dem lauen Föhnwind und dem Aufstieg auch vorher nicht."
+      },
+      {
+        "photos": [
+          {
+            "name": "009",
+            "alt": "Gulmenhütte",
+            "date": "2021-10-31T09:09:44.000+01:00",
+            "width": 1920,
+            "height": 800
+          }
+        ],
+        "text": "Nach rund 600m Aufstieg kam ich nach 1,5h an der malerisch gelegene Gulmenhütte an. Was wie eine bewirtschaftete Hütte klingt, ist aber in Wirklichkeit nur eine sehr kleine Alp für Schafe. Die Tiere waren aber nun Ende Oktober bereits im Tal."
+      },
+      {
+        "photos": [
+          {
+            "name": "010",
+            "alt": "Kalkgestein",
+            "date": "2021-10-31T09:20:04.000+01:00",
+            "width": 1796,
+            "height": 1080
+          }
+        ],
+        "text": "Zeit für eine erste Pause auf denen vom Kalkstein geprägten Wiesen der Gulmenhütte."
+      },
+      {
+        "photos": [
+          {
+            "name": "011",
+            "alt": "Blick ins Rheintal",
+            "date": "2021-10-31T09:33:06.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Nach der Hütte wird der Weg spürbar flacher und man verlässt auch den Wald. Hier wurde der erste Blick hinab in Rheintal möglich."
+      },
+      {
+        "photos": [
+          {
+            "name": "012",
+            "alt": "Wanderung Gulmen",
+            "date": "2021-10-31T09:40:55.000+01:00",
+            "width": 1920,
+            "height": 858
+          }
+        ],
+        "text": "Über eine weitere Schafweide ging es nun auf dem breiten Rücken weiter hinauf. Hier der Blick zurück."
+      },
+      {
+        "photos": [
+          {
+            "name": "013",
+            "alt": "Windgebeutelte Tanne",
+            "date": "2021-10-31T09:57:18.000+01:00",
+            "width": 1920,
+            "height": 1001
+          }
+        ],
+        "text": "Die letzten richtigen Bäume weichten nun Unmengen von niedrigen Latschenkiefern, die wohl besser an die häufigen Stürme hier angepasst sind. Trotz angesagtem starken Föhns, gab es bei mir an diesem Tag aber nur einen leichten angenehmen Wind."
+      },
+      {
+        "photos": [
+          {
+            "name": "014",
+            "alt": "Föhnwolke",
+            "date": "2021-10-31T09:59:39.000+01:00",
+            "width": 911,
+            "height": 1080
+          }
+        ],
+        "text": "Und so ging der Weg nun durch die Latschenkiefern hindurch. Aussicht hat man deshalb beim Aufstieg leider nur noch selten."
+      },
+      {
+        "photos": [
+          {
+            "name": "015",
+            "alt": "Schwierigkeit Wanderweg Gulmen",
+            "date": "2021-10-31T10:00:50.000+01:00",
+            "width": 1920,
+            "height": 937
+          }
+        ],
+        "text": "Plötzlich ging der Weg aber doch mal an die zum Rheintal abfallende Kante. Das ist auch der einzige Abschnitt des gesamten Wanderwegs, bei dem man sich etwas konzentrieren sollte. Wirklich gefährlich oder schwierig ist es aber auch hier nicht - man darf sich nur nicht vom Blick in die Tiefe irritieren lassen."
+      },
+      {
+        "photos": [
+          {
+            "name": "016",
+            "alt": "Gulmen",
+            "date": "2021-10-31T10:10:38.000+01:00",
+            "width": 1920,
+            "height": 970
+          }
+        ],
+        "text": "Dann verlässt der Weg die Latschenkiefern und dann doch etwas überraschend taucht das erste mal der Gulmen im Blickfeld auf. Das letzte kurze Stück geht es schön entlang dieser Felswände auf den fast 2000m hohen Gipfel."
+      },
+      {
+        "photos": [
+          {
+            "name": "017",
+            "alt": "Gätterifirst und Rheintal",
+            "date": "2021-10-31T10:14:01.000+01:00",
+            "width": 1920,
+            "height": 1019
+          }
+        ],
+        "text": "Nach 2,5h erreichte ich den Gipfel. Die angegebenen 3:10 auf dem Wegweiser sind also ziemlich großzügig, hatte ich mich doch auch nicht besonders beeilt.<br />Während es beim ganzen Aufstieg sehr einsam war, war tatsächlich schon jemand auf dem Gipfel und blockierte den schönsten Aussichtsplatz. Ich setzte mich erst mal auf die Seite und genoss den Blick den steilen Glätterifirst entlang, der zwischen den beiden bewanderbaren Gipfeln des Gulmen und <a href='/alpine/alpstein/20150912#panorama-mutschen-rheintal_062' target='_blank'>Mutschen</a> liegt."
+      },
+      {
+        "photos": [
+          {
+            "name": "018",
+            "alt": "Schafberg und Altmann",
+            "date": "2021-10-31T10:17:56.000+01:00",
+            "width": 1920,
+            "height": 801
+          }
+        ],
+        "text": "Und der Blick hinüber zum Schafberg links und rechts dem Altmann. Ganz rechts der <a href='/alpine/alpstein/20170617' target='_blank'>Zwinglipass</a>."
+      },
+      {
+        "photos": [
+          {
+            "name": "019",
+            "alt": "Säntis Antenne",
+            "date": "2021-10-31T10:18:18.000+01:00",
+            "width": 1920,
+            "height": 1011
+          }
+        ],
+        "text": "Und mit Tele genau zwischen Schafberg und Altmann ist gerade so nur die Antenne des Säntis zu sehen, der sich hinter dem Grat befindet."
+      },
+      {
+        "photos": [
+          {
+            "name": "020",
+            "alt": "Gätterifirst",
+            "date": "2021-10-31T10:29:58.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Noch ein Tele den Glätterifirst entlang. Der Grasgipfel dahinter ist der Mutschen, links davon der Mutschensattel."
+      },
+      {
+        "photos": [
+          {
+            "name": "021",
+            "alt": "Spitzmeilen",
+            "date": "2021-10-31T10:33:23.000+01:00",
+            "width": 1920,
+            "height": 927
+          }
+        ],
+        "text": "Tele nach Süden und die Antwort, warum eine Wanderung tiefer in den Alpen an diesem Tag keine gute Idee gewesen wäre. Rechts ist gerade so der <a href='/alpine/flumserberg/20211002' target='_blank'>Spitzmeilen</a> zu sehen, an dem ich diesen Oktober bereits vorbeigewandert war."
+      },
+      {
+        "photos": [
+          {
+            "name": "022",
+            "alt": "Toggenburg",
+            "date": "2021-10-31T10:34:50.000+01:00",
+            "width": 1920,
+            "height": 676
+          }
+        ],
+        "text": "Panorama in Richtung Toggenburg, von wo ich hinaufgekommen war."
+      },
+      {
+        "photos": [
+          {
+            "name": "023",
+            "alt": "Churfirsten",
+            "date": "2021-10-31T10:38:00.000+01:00",
+            "width": 1920,
+            "height": 966
+          }
+        ],
+        "text": "Tele auf die tollen Churfirsten mit anfliegender Alpendohle. Links der <a href='/alpine/toggenburg/20210912' target='_blank'>Chäserrugg</a>, direkt daneben der <a href='/alpine/toggenburg/20160813' target='_blank'>Hinterrugg</a>. Und abgeschaut von der Karte in weiterer Folge: Schibenstoll, Zuestoll, Brisi, Frümsel und Selun."
+      },
+      {
+        "photos": [
+          {
+            "name": "024",
+            "alt": "Aussicht Gulmen",
+            "date": "2021-10-31T10:49:43.000+01:00",
+            "width": 1920,
+            "height": 755
+          },
+          {
+            "name": "025",
+            "alt": "Rheintal",
+            "date": "2021-10-31T10:50:57.000+01:00",
+            "width": 1920,
+            "height": 886
+          }
+        ],
+        "text": "Und nachdem der Sitzplatz direkt beim Gipfelsteinmännchen frei wurde, noch zwei weitere Panoramen von dort die recht steile Südwand ins Rheintal hinab."
+      },
+      {
+        "photos": [
+          {
+            "name": "026",
+            "alt": "Alpendohle auf Fels",
+            "date": "2021-10-31T10:58:58.000+01:00",
+            "width": 1879,
+            "height": 1080
+          }
+        ],
+        "text": "Die Alpendohle auf dem Steinmännchen lauerte auf Essensreste. Die Chancen wuchsen, den nun erreichten noch einige andere Wanderer den Gipfel."
+      },
+      {
+        "photos": [
+          {
+            "name": "027",
+            "alt": "Gratweg Gulmen",
+            "date": "2021-10-31T11:04:39.000+01:00",
+            "width": 1713,
+            "height": 1080
+          }
+        ],
+        "text": "Nach einer großzügigen Pause machte ich mich um 11:00 wieder auf den Abstieg. Da auf den Gulmen nur ein Wanderweg führt, ging es nun den Großteil des Wegs identisch zurück."
+      },
+      {
+        "photos": [
+          {
+            "name": "028",
+            "alt": "Steiler Weg Gulmen",
+            "date": "2021-10-31T11:12:48.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Dementsprechend muss auch das etwas ausgesetzte Wegstück wieder 'überwunden' werden."
+      },
+      {
+        "photos": [
+          {
+            "name": "029",
+            "alt": "Schafbergwand",
+            "date": "2021-10-31T11:16:16.000+01:00",
+            "width": 720,
+            "height": 1080
+          },
+          {
+            "name": "030",
+            "alt": "Weg durch Latschenkiefern",
+            "date": "2021-10-31T11:16:38.000+01:00",
+            "width": 1920,
+            "height": 941
+          }
+        ],
+        "text": "Und es ging auch wieder durch die Latschenkiefern. Bergab aber deutlich schöner, da man dabei die Sicht ins Toggenburg und auf die Schafbergwand hat."
+      },
+      {
+        "photos": [
+          {
+            "name": "031",
+            "alt": "Braunes Gras",
+            "date": "2021-10-31T11:20:28.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Noch schöner waren allerdings die freigeholzten Flächen mit den herbstlichen Wiesen."
+      },
+      {
+        "photos": [
+          {
+            "name": "032",
+            "alt": "Zehespitz",
+            "date": "2021-10-31T11:41:05.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Waldgrenze erreicht, Blick auf die Zehespitz, einer der Felsspitzen unterhalb des Schafbergs."
+      },
+      {
+        "photos": [
+          {
+            "name": "033",
+            "alt": "Churfirsten hinter Bäumen",
+            "date": "2021-10-31T11:42:04.000+01:00",
+            "width": 1920,
+            "height": 975
+          }
+        ],
+        "text": "Wieder ein Tele zu den immer sichtbaren Churfirsten."
+      },
+      {
+        "photos": [
+          {
+            "name": "034",
+            "alt": "St. Galler Rheintal",
+            "date": "2021-10-31T11:51:16.000+01:00",
+            "width": 1794,
+            "height": 1080
+          }
+        ],
+        "text": "Letzter Blick in das Rheintal, bevor es wieder Richtung Wald ging. Auf der anderen Seite des Rheintals ist das ganze Fürstentum Liechtenstein zu sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "035",
+            "alt": "Wandern bei Sonnenschein",
+            "date": "2021-10-31T11:55:21.000+01:00",
+            "width": 1471,
+            "height": 1080
+          }
+        ],
+        "text": "Das Wetter war an diesem Tag einfach toll und ich ahnte bereits, dass ich mir eine zu kurze Wanderung ausgesucht hatte. Folglich legte ich immer mehr und immer längere Pausen ein."
+      },
+      {
+        "photos": [
+          {
+            "name": "036",
+            "alt": "Gulmenhütte",
+            "date": "2021-10-31T11:58:39.000+01:00",
+            "width": 1358,
+            "height": 1080
+          },
+          {
+            "name": "037",
+            "alt": "Bergwiese mit Felsen",
+            "date": "2021-10-31T12:13:54.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Auch an der Gulmenhütte ging es natürlich wieder vorbei."
+      },
+      {
+        "photos": [
+          {
+            "name": "038",
+            "alt": "Verwunschene Mauer",
+            "date": "2021-10-31T12:34:25.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Eine mystisch aussehende Mauer, die mitten durch den Wald führt. Der Wald wirkte nun auch viel freundlicher als am schattigen Morgen. <br />Den Hinweg verließ ich aber noch bevor ich den Forstweg erreichte, denn ich wollte noch einen Schlenker über Gamplüt machen. Zuerst musste ich dafür dem Wegweiser Richtung Mutschen und Zwinglipasshütte folgen."
+      },
+      {
+        "photos": [
+          {
+            "name": "039",
+            "alt": "Wanderweg Teselalp",
+            "date": "2021-10-31T12:41:34.000+01:00",
+            "width": 1683,
+            "height": 1080
+          }
+        ],
+        "text": "Direkt nach dem Wegweiser verlässt der Weg den Wald und man erreicht die Tal mit der Teselalp, welches sich zwischen Schafberg und Gulmen befindet. Durch dieses Tal führt auch der Hauptweg zum Mutschensattel und der Zwinglipasshütte."
+      },
+      {
+        "photos": [
+          {
+            "name": "040",
+            "alt": "Felswände",
+            "date": "2021-10-31T12:47:09.000+01:00",
+            "width": 1795,
+            "height": 1080
+          }
+        ],
+        "text": "Eigentlich musste ich das Tal links hinab nach Gamplüt. Der Wanderweg rechnet aber nicht damit, dass jemand von hier kommt und nicht zur Zwinglipasshütte oder zum Mutschensattel will. Also musste ich erst einmal etwas in die falsche Richtung zur Teselalp weitergehen. Wenn ich es eilig gehabt hätte, hätte ich aber auch einfach über diese Wiese abkürzen können."
+      },
+      {
+        "photos": [
+          {
+            "name": "041",
+            "alt": "Teselalp",
+            "date": "2021-10-31T12:48:05.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Blick das Tal hinauf. Am Ende des Tals ist der Mutschen zu sehen. Rechts der Hang gehört zum Gulmen."
+      },
+      {
+        "photos": [
+          {
+            "name": "042",
+            "alt": "Fahrweg Teselalp",
+            "date": "2021-10-31T12:51:40.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Unterhalb der Schafbergwände ging ich nun also wieder in die andere Richtung, nach dem ich die Fahrstraße im Tal erreicht hatte."
+      },
+      {
+        "photos": [
+          {
+            "name": "043",
+            "alt": "Wanderweg Gamplüt Tesel",
+            "date": "2021-10-31T13:25:21.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "An der tiefsten Stelle des Straße hätte ich auch den Flüretobel vom Morgen wieder hinabwandern können. Schöner ist es aber über Gamplüt, wofür man aber noch mal knapp 50m aufsteigen muss.<br />Im Hintergrund ist die Bergstation des Skilifts von Gamplüt zu sehen, aber Skibetrieb gibt es dort schon lange nicht mehr."
+      },
+      {
+        "photos": [
+          {
+            "name": "044",
+            "alt": "Wanderung Wildhaus",
+            "date": "2021-10-31T13:27:20.000+01:00",
+            "width": 1672,
+            "height": 1080
+          }
+        ],
+        "text": "Blick zurück in das Tal."
+      },
+      {
+        "photos": [
+          {
+            "name": "045",
+            "alt": "Gamplütbahn",
+            "date": "2021-10-31T13:33:17.000+01:00",
+            "width": 1607,
+            "height": 1080
+          }
+        ],
+        "text": "Nach dem kleinen Abstieg erreichte ich einen Aussichtspunkt 100m oberhalb von Gamplüt. Hier der Blick hinab auf die kleine Gondeln, die die 300m von Wildhaus hinauf nach Gamplüt überwinden."
+      },
+      {
+        "photos": [
+          {
+            "name": "046",
+            "alt": "Miniaturaufnahme Gamplüt",
+            "date": "2021-10-31T13:44:26.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Tele auf die Bergstation und das Restaurant von Gamplüt mit Tiltshift Effekt. Außerdem gibt es auf Gamplüt noch ein sehr fotogenes Windrad, das dank des Föhns auch etwas zu tun hatte."
+      },
+      {
+        "photos": [
+          {
+            "name": "047",
+            "alt": "Gondelbahn Gamplüt",
+            "date": "2021-10-31T13:51:52.000+01:00",
+            "width": 1752,
+            "height": 1080
+          }
+        ],
+        "text": "Noch einmal die Gamplütbahn rechts. Hier waren nun hauptsächlich Spaziergänger unterwegs, ist Gamplüt doch ein leicht zu erreichendes Ziel von Wildhaus."
+      },
+      {
+        "photos": [
+          {
+            "name": "048",
+            "alt": "Windkraft in den Alpen",
+            "date": "2021-10-31T13:58:44.000+01:00",
+            "width": 1920,
+            "height": 1044
+          }
+        ],
+        "text": "Eine weitere Pause neben dem Restaurant nutze ich für eine Aufnahme mit längerer Belichtungszeit. Mehr Verwischeffekt war ohne Graufilter bei dem strahlenden Sonnenschein aber nicht drin."
+      },
+      {
+        "photos": [
+          {
+            "name": "049",
+            "alt": "Moor Gamplüt",
+            "date": "2021-10-31T14:05:50.000+01:00",
+            "width": 1920,
+            "height": 1045
+          }
+        ],
+        "text": "Blick über die moorigen Wiesen von Gamplüt Richtung Säntis, der hier auch mal gerade so zu sehen ist."
+      },
+      {
+        "photos": [
+          {
+            "name": "050",
+            "alt": "Restaurant Gamplüt",
+            "date": "2021-10-31T14:06:20.000+01:00",
+            "width": 1809,
+            "height": 1080
+          }
+        ],
+        "text": "Von Gamplüt aus wählte ich wieder nicht den schnellsten Abstieg über eine steile Straße, sondern den nur 10min längeren Barfußweg über Wiesen.<br />Blick zurück nach Gamplüt. Dahinter die Schafbergwand und rechts der unscheinbare Buckel ist der Gulmen."
+      },
+      {
+        "photos": [
+          {
+            "name": "051",
+            "alt": "Barfußweg Wildhaus",
+            "date": "2021-10-31T14:17:32.000+01:00",
+            "width": 1920,
+            "height": 977
+          }
+        ],
+        "text": "Schön geht der Themenweg über die Wiesen bergab. Schnell tauchten die ersten Häuser von Wildhaus auf."
+      },
+      {
+        "photos": [
+          {
+            "name": "052",
+            "alt": "Herbstwanderung Toggenburg",
+            "date": "2021-10-31T14:19:23.000+01:00",
+            "width": 1702,
+            "height": 1080
+          }
+        ],
+        "text": "Blick das Toggenburg hinab. Da ich immer noch viel Zeit hatte und das Wetter so toll war, eine weitere Pause. Seit Gamplüt war ich zwar nicht barfuß, aber zumindest in Sandalen unterwegs."
+      },
+      {
+        "photos": [
+          {
+            "name": "053",
+            "alt": "Puzzlebank",
+            "date": "2021-10-31T14:32:43.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Eine originelle Bank aus Puzzleteilen am Wegrand."
+      },
+      {
+        "photos": [
+          {
+            "name": "054",
+            "alt": "Herbsturlaub Wildhaus",
+            "date": "2021-10-31T14:33:08.000+01:00",
+            "width": 1920,
+            "height": 930
+          },
+          {
+            "name": "055",
+            "alt": "Kirche Wildhaus",
+            "date": "2021-10-31T14:36:12.000+01:00",
+            "width": 1738,
+            "height": 1080
+          }
+        ],
+        "text": "Die letzten Meter dann noch auf asphaltierter Straße hinab nach Wildhaus. Die bereits gesteckten Holzpfähle entlang der Straße verraten die Vorbereitungen auf den Winter.<br />Im Tele hinter der Kirche übrigens der Garsellikopf und Kuegrat in Liechtenstein, auf die ich mal über den <a href='/alpine/malbun/20181013' target='_blank'>Fürstensteig</a> gewandert war.<br />Meine Ankunft zurück am Auto hatte ich zumindest bis 14:45 hinausgezögert."
+      }
+    ],
+    "outro": "Fazit: Bis auf den ersten Aufstieg durch den Wald war es eine schöne Wanderung auf einen einfachen Aussichtsgipfel. Zurück sollte man sich noch den Umweg über Gamplüt gönnen, sonst wäre es etwas viel gleicher Weg hin und zurück. Der Weg sollte auch mit etwas Schnee noch gut gehen, denn die steilen Stellen sind ausschließlich am Südhang, wo es wohl nur selten Schneereste hat.<br />Ich habe für die rund 14km und 1000 Höhenmeter 7h gebraucht. Ohne die unzähligen und langen Pausen hätte ich es aber auch gut in 5h schaffen können."
+  }
+]
