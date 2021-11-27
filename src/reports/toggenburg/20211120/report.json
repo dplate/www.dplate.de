@@ -1,0 +1,536 @@
+[
+  {
+    "destination": "toggenburg",
+    "date": "d20211120",
+    "type": "hike",
+    "track": true,
+    "detailMap": "swiss",
+    "shortTitle": "Chrüzegg",
+    "title": "Atzmännig - Chrüzegg",
+    "title3d": {
+      "offsetY": 4,
+      "fontSize": 8,
+      "align": "left",
+      "width": 1920,
+      "height": 558
+    },
+    "movie": "dS_39STpYmA",
+    "intro": "Während das Flachland die ganze Woche von einer grauen Nebeldecke verhüllt war, strahlte in den Bergen fast ununterbrochen die Sonne. Deshalb ging es an diesem Samstag auf eine Rundwanderung von Atzmännig aus. Nach der Fahrt durch die Nebelsuppe erreichten wir gegen 9:00 den noch leeren und riesigen Parkplatz von Atzmännig - Schutt.<br />Nachdem die Parkgebühren von 4,30 CHF bezahlt waren, ging es bei eisiger Kälte - aber schon ohne Nebel - auf direktem Weg zum Sonnenhang.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Sonnenaufgang Atzmännig",
+            "date": "2021-11-20T09:16:50.000+01:00",
+            "width": 1797,
+            "height": 1080
+          }
+        ],
+        "text": "Blick zurück nach Schutt und dem Campingplatz Atzmännig.<br />Dank der Sonne und dem Aufstieg über diese Wiese wurde es jetzt auch mit der leichten Bekleidung angenehmer."
+      },
+      {
+        "photos": [
+          {
+            "name": "002",
+            "alt": "Chopf",
+            "date": "2021-11-20T09:29:59.000+01:00",
+            "width": 1920,
+            "height": 801
+          }
+        ],
+        "text": "Schnell war der Bergrücken erreicht. Hier der Blick den Rücken hinab auf das Nebelmeer über dem Zürichsee."
+      },
+      {
+        "photos": [
+          {
+            "name": "003",
+            "alt": "Oberchamm",
+            "date": "2021-11-20T10:07:07.000+01:00",
+            "width": 1920,
+            "height": 950
+          }
+        ],
+        "text": "Vorbei an dem Alp Oberchamm ging es hier an dem Zaun entlang steiler hinauf. Wieder der Blick zurück."
+      },
+      {
+        "photos": [
+          {
+            "name": "004",
+            "alt": "Mythen hinter Nebelmeer",
+            "date": "2021-11-20T10:21:58.000+01:00",
+            "width": 1920,
+            "height": 998
+          }
+        ],
+        "text": "Tele über das Nebelmeer hinweg zu den Mythen. Dahinter die 4000er Jungfrau, Schreckhorn und Finsteraarhorn. Die Sicht war an diesem Tag nur durch die Erdkrümmung begrenzt, so konnte man auch bis nach Frankreich zu den Vogesen sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "005",
+            "alt": "Aussichtspunkt über dem Nebel",
+            "date": "2021-11-20T10:33:08.000+01:00",
+            "width": 1920,
+            "height": 825
+          }
+        ],
+        "text": "Nach einer ersten Pause auf dieser schönen Aussichtsbank wurde der Weg etwas geröllig und steiler - aber wie die ganze Runde nicht gefährlich."
+      },
+      {
+        "photos": [
+          {
+            "name": "006",
+            "alt": "Nebelgrenze Atzmännig",
+            "date": "2021-11-20T10:49:22.000+01:00",
+            "width": 1920,
+            "height": 894
+          },
+          {
+            "name": "007",
+            "alt": "Wanderweg Chrüzegg",
+            "date": "2021-11-20T10:53:46.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Etwas weiter oben kann man eine Abkürzung direkt zum Gasthaus Chrüzegg nehmen. Man spart damit ca. 50 Höhenmeter, verpasst aber den eigentlichen Gipfel des Chrüzegg. Wir sind natürlich auf dem Grat weiter und der Blick hinab belohnte auch weiterhin mit dem tollen Nebelmeer."
+      },
+      {
+        "photos": [
+          {
+            "name": "008",
+            "alt": "Bergsturz Chrüzegg",
+            "date": "2021-11-20T11:03:24.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Kurz bevor man den Gipfel erreicht, sollte man einen kleinen Abstecher nach links in den Wald nehmen, von wo ebenfalls ein Wanderweg auf das Chrüzegg führt. Dort ist nämlich das Nagelfluhgestein aufgebrochen und große Steinbrocken rutschen nach und nach ins Tal und verursachen häufiger Felsstürze. Zum Glück nicht gerade an diesem Tag. ;)"
+      },
+      {
+        "photos": [
+          {
+            "name": "009",
+            "alt": "Aufstieg Chrüzegg",
+            "date": "2021-11-20T11:06:11.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Nun aber die letzten Meter hinauf auf den Gipfel des Chrüzegg."
+      },
+      {
+        "photos": [
+          {
+            "name": "010",
+            "alt": "Gipfelkreuz Chrüzegg",
+            "date": "2021-11-20T11:08:40.000+01:00",
+            "width": 1707,
+            "height": 1080
+          }
+        ],
+        "text": "Das Gipfelkreuz des 1300m hohen Chrüzeggs erreichten wir um 11:00 nach ca. 2h Aufstieg."
+      },
+      {
+        "photos": [
+          {
+            "name": "011",
+            "alt": "Panorama Chrüzegg",
+            "date": "2021-11-20T11:09:01.000+01:00",
+            "width": 1920,
+            "height": 783
+          }
+        ],
+        "text": "Blick vom Gipfel hinab Richtung Atzmännig."
+      },
+      {
+        "photos": [
+          {
+            "name": "012",
+            "alt": "Aussicht Chrüzegg",
+            "date": "2021-11-20T11:21:11.000+01:00",
+            "width": 1920,
+            "height": 771
+          }
+        ],
+        "text": "Und das Panorama vom Chrüzegg nach Osten. Hier hinab geht auch der weitere Weg."
+      },
+      {
+        "photos": [
+          {
+            "name": "013",
+            "alt": "Chrüzegg",
+            "date": "2021-11-20T11:28:49.000+01:00",
+            "width": 1920,
+            "height": 810
+          }
+        ],
+        "text": "Nach einer Pause auf dem Gipfel ging es weiter - noch ein Blick zurück zum Chrüzegg."
+      },
+      {
+        "photos": [
+          {
+            "name": "014",
+            "alt": "Gasthaus Chrüzegg",
+            "date": "2021-11-20T11:30:23.000+01:00",
+            "width": 1920,
+            "height": 779
+          }
+        ],
+        "text": "Etwas unterhalb des Gipfels befindet sich das Gasthaus Chrüzegg. Rechts dahinter die Tweralpspitz, unser nächstes Ziel."
+      },
+      {
+        "photos": [
+          {
+            "name": "015",
+            "alt": "Wegweiser Chrüzegg",
+            "date": "2021-11-20T11:34:27.000+01:00",
+            "width": 1831,
+            "height": 1080
+          }
+        ],
+        "text": "Am Gasthaus Chrüzegg gibt wirklich genug Wanderwege und Hinweisschilder. Auch führen mit dem Rad befahrbare Wege hierher und der Wirt kommt sogar mit dem Auto hinauf."
+      },
+      {
+        "photos": [
+          {
+            "name": "016",
+            "alt": "Wanderweg Chrüzegg - Libingen",
+            "date": "2021-11-20T11:39:00.000+01:00",
+            "width": 1920,
+            "height": 908
+          }
+        ],
+        "text": "Blick vom Gasthaus nach Süden. Im Tal (unter dem Nebel) befindet sich der Ort Libingen, von dem ich ebenfalls schon mal eine <a href='/alpine/toggenburg/20171104' target='_blank'>Rundwanderung über das Schnebelhorn und das Chrüzegg</a> gemacht habe."
+      },
+      {
+        "photos": [
+          {
+            "name": "017",
+            "alt": "Parkplatz Atzmännig",
+            "date": "2021-11-20T11:43:48.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Tele hinab zum 800m hoch gelegenen Parkplatz Atzmännig. Immer wieder schwappte der Nebel in das Tal hinein, dort war es also nicht die ganze Zeit sonnig."
+      },
+      {
+        "photos": [
+          {
+            "name": "018",
+            "alt": "Fahrweg Chrüzegg",
+            "date": "2021-11-20T11:58:24.000+01:00",
+            "width": 1920,
+            "height": 808
+          }
+        ],
+        "text": "Ein kleines Stück geht es vom Gasthauf Chrüzegg auf betoniertem Weg hinüber zur Oberen Tweralp, die unterhalb der Tweralpspitz liegt."
+      },
+      {
+        "photos": [
+          {
+            "name": "019",
+            "alt": "Appenzellerland",
+            "date": "2021-11-20T11:58:56.000+01:00",
+            "width": 1920,
+            "height": 790
+          }
+        ],
+        "text": "Aussicht über die typischen Hügelketten des Appenzellerlands hinweg nach Osten. Im Hintergrund die österreichischen Berge."
+      },
+      {
+        "photos": [
+          {
+            "name": "020",
+            "alt": "Treppe Tweralpspitz",
+            "date": "2021-11-20T12:12:56.000+01:00",
+            "width": 815,
+            "height": 1080
+          },
+          {
+            "name": "021",
+            "alt": "Wanderweg Tweralpspitz",
+            "date": "2021-11-20T12:16:22.000+01:00",
+            "width": 1920,
+            "height": 758
+          }
+        ],
+        "text": "Der Aufstieg auf die Tweralpspitz geht über eine lange Treppe auf sehr rutschigem Grund. Auch die knapp 100m Aufstieg auf die Tweralpspitz könnte man umgehen, in dem man davor nach rechts abbiegt."
+      },
+      {
+        "photos": [
+          {
+            "name": "022",
+            "alt": "Panorama Tweralpspitz",
+            "date": "2021-11-20T12:22:10.000+01:00",
+            "width": 1920,
+            "height": 711
+          }
+        ],
+        "text": "Schon fast oben der Blick hinab Richtung Säntis. Unten im Tal verborgen Wattwil links und Ebnat-Kappel rechts."
+      },
+      {
+        "photos": [
+          {
+            "name": "023",
+            "alt": "Abgestorbener Baum",
+            "date": "2021-11-20T12:29:21.000+01:00",
+            "width": 720,
+            "height": 1080
+          }
+        ],
+        "text": "Ein abgestorbener Baum vor Atzmännig, das gerade wieder im Nebel versunken war."
+      },
+      {
+        "photos": [
+          {
+            "name": "024",
+            "alt": "Aussicht Tweralpspitz",
+            "date": "2021-11-20T12:29:48.000+01:00",
+            "width": 1666,
+            "height": 1080
+          }
+        ],
+        "text": "Der eigentliche Weg führt nicht ganz auf den Gipfel der 1330m hohen Tweralpspitz. Die letzten Meter lohnen sich auch nicht wirkich, aber zumindest haben wir so den höchsten Punkt der Wanderung erreicht.<br />Inzwischen war es 12:30 - noch genügend Zeit für den Rest der Runde."
+      },
+      {
+        "photos": [
+          {
+            "name": "025",
+            "alt": "Gratweg Tweralpspitz",
+            "date": "2021-11-20T12:35:24.000+01:00",
+            "width": 1920,
+            "height": 816
+          }
+        ],
+        "text": "Beim Abstieg von der Tweralpspitz muss ein kleines Stück Hang im Wald überwunden werden. Etwas übertrieben mit Drahtseil gesichert, obwohl der Weg nicht schmal ist.<br />Danach aber wieder schöner weiter über diesen Grat."
+      },
+      {
+        "photos": [
+          {
+            "name": "026",
+            "alt": "Wanderweg Tweralpspitz",
+            "date": "2021-11-20T12:42:15.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Kleiner Pass zwischen der Tweralpspitz und dem nächsten Gipfel, dem Rotstein."
+      },
+      {
+        "photos": [
+          {
+            "name": "027",
+            "alt": "Schnuckelige Berghütte",
+            "date": "2021-11-20T12:45:11.000+01:00",
+            "width": 720,
+            "height": 1080
+          }
+        ],
+        "text": "Bei einer Pause auf einer Wiese fiel dieses kleine Häuschen auf. Es liegt an dem Wanderweg, der den Rotstein und die Tweralpspitz umgeht."
+      },
+      {
+        "photos": [
+          {
+            "name": "028",
+            "alt": "Rundwanderung Atzmännig",
+            "date": "2021-11-20T12:58:41.000+01:00",
+            "width": 1920,
+            "height": 671
+          }
+        ],
+        "text": "Panorama von selber Stelle über das Tal von Atzmännig. Ganz rechts kann man das Chrüzegg erkennen. Im Vordergrund die Alp Grossrotstein, die über eine eigene Transportseilbahn verfügt."
+      },
+      {
+        "photos": [
+          {
+            "name": "029",
+            "alt": "Chrüzegg",
+            "date": "2021-11-20T12:58:55.000+01:00",
+            "width": 1920,
+            "height": 841
+          }
+        ],
+        "text": "Tele zum Gasthaus Chrüzegg und zum eigentlichen Chrüzegg links."
+      },
+      {
+        "photos": [
+          {
+            "name": "030",
+            "alt": "Toggenburg mit Nebelmeer",
+            "date": "2021-11-20T13:19:54.000+01:00",
+            "width": 1920,
+            "height": 674
+          }
+        ],
+        "text": "Noch vor dem Rotstein der Blick das Toggenburg hinauf. Viele bereits bewanderte Gipfel gibt es hier zu sehen: Ganz links <a href='/alpine/alpstein/20151024' target='_blank'>die Hochalp</a>, dahinter natürlich <a href='/alpine/alpstein/20160911' target='_blank'>der Säntis</a>. Den Grat weiter <a href='/alpine/alpstein/20180916' target='_blank'>die Silberplatten</a> und <a href='/alpine/alpstein/20201025' target='_blank'>die Lütispitz</a>. Etwas weiter vorne <a href='/alpine/toggenburg/20181104' target='_blank'>der Stockberg und die Neuenalpspitz</a>. Auf der anderen Seite des Tals die Churfirsten mit <a href='/alpine/toggenburg/20210912' target='_blank'>dem Chäserrugg</a> und <a href='/alpine/toggenburg/20160813' target='_blank'>dem Hinterrugg</a>. Davor noch <a href='/alpine/toggenburg/20180526' target='_blank'>die Sellamatt</a>."
+      },
+      {
+        "photos": [
+          {
+            "name": "031",
+            "alt": "Säntis mit Nebelmeer",
+            "date": "2021-11-20T13:28:20.000+01:00",
+            "width": 1920,
+            "height": 860
+          }
+        ],
+        "text": "Nach dem Rotstein geht es etwas unangenehm eine Serpentine den Hang hinab, hier wäre eine Sicherung mit Drahtseil nützlicher, handelt es sich doch sonst um einen einfachen gelben Wanderweg. Aber es sehr kurz steil und man kann schnell wieder den Blick zum Säntis genießen."
+      },
+      {
+        "photos": [
+          {
+            "name": "032",
+            "alt": "Glarus mit Nebel",
+            "date": "2021-11-20T13:34:22.000+01:00",
+            "width": 1843,
+            "height": 1080
+          }
+        ],
+        "text": "Danach folgt der letzte kleine Aufstieg zum Schwammegg hinauf.<br />Blick in das ebenfalls neblige Glarus. An der Alp im Vordergrund kommt man vorbei, wenn man vom Parkplatz in Oberricken hinaufkommt. Ingesamt wurde es nun ziemlich voll auf dem Weg, denn auch die Bergstation der Sesselbahn Atzmännig kam näher."
+      },
+      {
+        "photos": [
+          {
+            "name": "034",
+            "alt": "Gipfelkreuz vor Nebelmeer",
+            "date": "2021-11-20T13:52:05.000+01:00",
+            "width": 1920,
+            "height": 1054
+          }
+        ],
+        "text": "Das Gipfelkreuz des Schwammeggs. Im Hintergrund wieder das Nebelmeer und der Glarus."
+      },
+      {
+        "photos": [
+          {
+            "name": "035",
+            "alt": "Sonnenschein beim Wandern",
+            "date": "2021-11-20T13:56:22.000+01:00",
+            "width": 1920,
+            "height": 901
+          }
+        ],
+        "text": "Obwohl es gerade mal um 14:00 war, kam durch den niedrigen Sonnenstand im November schon Abendstimmung auf."
+      },
+      {
+        "photos": [
+          {
+            "name": "036",
+            "alt": "Aussichtspunkt Atzmännig",
+            "date": "2021-11-20T14:06:44.000+01:00",
+            "width": 1920,
+            "height": 952
+          }
+        ],
+        "text": "Aber noch genug Zeit für eine weitere Pause an diesem Aussichtspunkt oberhalb der Bergstation Atzmännig."
+      },
+      {
+        "photos": [
+          {
+            "name": "037",
+            "alt": "Wanderung Atzmännig",
+            "date": "2021-11-20T14:27:57.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Nun hätten wir auch die Sesselbahn zurück ins Tal nehmen können, aber das Wetter war schön und der Abstieg ist mit ca. 1h auch nicht lang und nicht steil. Außerdem ist es der Spatz Männi Erlebnisweg, auf dem Kinder an Stationen beschäftigt werden und Fragen beantworten können."
+      },
+      {
+        "photos": [
+          {
+            "name": "038",
+            "alt": "Abstieg Atzmännig",
+            "date": "2021-11-20T14:48:57.000+01:00",
+            "width": 1920,
+            "height": 990
+          }
+        ],
+        "text": "Aber auch ohne diese Stationen ist der Weg schön und geht zu Beginn diesen Grat hinab."
+      },
+      {
+        "photos": [
+          {
+            "name": "039",
+            "alt": "Schlotterschlucht",
+            "date": "2021-11-20T14:50:40.000+01:00",
+            "width": 720,
+            "height": 1080
+          }
+        ],
+        "text": "Eine der Stationen ist die Schlotterschlucht. Wegen Steinschlaggefahr konnte man aber nur hineinschauen und nicht hindurchgehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "040",
+            "alt": "Nebelgrenze",
+            "date": "2021-11-20T14:52:52.000+01:00",
+            "width": 793,
+            "height": 1080
+          }
+        ],
+        "text": "Nicht besonders verlockend näherten wir uns auch schnell wieder der Nebelgrenze. Von oben aber schön anzuschauen."
+      },
+      {
+        "photos": [
+          {
+            "name": "041",
+            "alt": "Skipiste Atzmännig",
+            "date": "2021-11-20T14:55:45.000+01:00",
+            "width": 1749,
+            "height": 1080
+          }
+        ],
+        "text": "Weiter geht es entlang der Skipiste, deren Pfosten bereits vorbereitet waren. Normalerweise werden die Pfosten ja in den Schnee gesteckt, aber wahrscheinlich liegt in Atzmännig häufig nur wenig davon."
+      },
+      {
+        "photos": [
+          {
+            "name": "042",
+            "alt": "Nebel im Tal",
+            "date": "2021-11-20T15:06:29.000+01:00",
+            "width": 1844,
+            "height": 1080
+          },
+          {
+            "name": "043",
+            "alt": "Skilift Atzmännig",
+            "date": "2021-11-20T15:09:21.000+01:00",
+            "width": 1571,
+            "height": 1080
+          }
+        ],
+        "text": "Ab der Mitte des Skilifts Atzmännig geht es dann auf einer Fahrstraße weiter. Aber ab dort sind es eh nur noch 100 Höhenmeter bis zum Parkplatz."
+      },
+      {
+        "photos": [
+          {
+            "name": "044",
+            "alt": "Sonnenstrahlen im Wald",
+            "date": "2021-11-20T15:16:11.000+01:00",
+            "width": 1911,
+            "height": 1080
+          }
+        ],
+        "text": "Tolle Lichtspiele an der Nebelgrenze im Wald."
+      },
+      {
+        "photos": [
+          {
+            "name": "045",
+            "alt": "Sommerrodelbahn Atzmännig",
+            "date": "2021-11-20T15:32:10.000+01:00",
+            "width": 1920,
+            "height": 941
+          }
+        ],
+        "text": "Nachdem wir um 15:30 die Wanderung beendet hatten, gönnten wir uns als Belohnung noch eine Fahrt mit der spaßigen Sommerrodelbahn für 9,50 CHF dort. Also ging es wieder den halben Hang hinauf bis zur Mittelstation der Sesselbahn. Bei der Sommerrodelbahn handelt es sich netterweise um einen klassische Kanal ohne festen Schienen - nach meiner Meinung nach macht das mehr Spaß.<br />Zu beachten ist, dass die Sesselbahn nur von 10:00 bis 16:00 in Betrieb ist."
+      }
+    ],
+    "outro": "Einfache, aber aussichtsreiche Rundwanderung. Wer sich beeilt kann die 10km und 800 Höhenmeter sicher auch in 3-4h schaffen, anstatt wie wir in 6,5h. Aber das wäre bei dem tollen Wetter auch Verschwendung gewesen.<br />Noch weniger anstrengend wird die Rundwanderung, wenn man sie andersherum macht und ca. 300m Aufstieg mit der Sesselbahn vermeidet."
+  }
+]

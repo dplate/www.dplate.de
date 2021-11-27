@@ -213,3 +213,4 @@ https://www.dplate.de/alpine/lenzerheide/20210918
 https://www.dplate.de/alpine/flumserberg/20211002
 https://www.dplate.de/alpine/davos/20211009
 https://www.dplate.de/alpine/alpstein/20211031
+https://www.dplate.de/alpine/toggenburg/20211120
