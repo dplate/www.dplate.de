@@ -1,0 +1,174 @@
+[
+  {
+    "destination": "toggenburg",
+    "date": "d20220515",
+    "type": "hike",
+    "track": true,
+    "detailMap": "swiss",
+    "shortTitle": "Stockberg",
+    "title": "Stein - Stockberg",
+    "title3d": {
+      "offsetY": 0,
+      "fontSize": 10,
+      "align": "left",
+      "width": 1920,
+      "height": 505
+    },
+    "movie": "e1XS7xstoV8",
+    "intro": "Für die erste Wanderung der Saison suchte ich mir als Ziel den 1780m hohen Stockberg im Toggenburg aus. Der Startpunkt für die Tour sollte der kleine Ort Stein sein, in dem ich kurz vor 9:00 mein Auto auf einem der vielen verfügbaren und kostenlosen Parkplätze abstellte.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Stein in St. Gallen",
+            "date": "2022-05-15T09:02:49.000+02:00",
+            "width": 1920,
+            "height": 872
+          }
+        ],
+        "text": "Den Aufstieg auf den Stockberg wollte ich mit einem größeren Bogen Richtung Norden erledigen. Dafür ging es erst einmal ein Stück den Hang zwischen den Häusern von Stein hinauf.<br />Das Wetter war, wie man sieht, blendend und auch schon jetzt am morgen warm."
+      },
+      {
+        "photos": [
+          {
+            "name": "002",
+            "alt": "Fahrstraße Stein",
+            "date": "2022-05-15T09:17:22.000+02:00",
+            "width": 1920,
+            "height": 895
+          }
+        ],
+        "text": "Nach dem ersten Anstieg ging es mehr oder weniger ohne weitere Steigung am Hang entlang - überausgebaut auf asphaltierter Straße.<br />Auf der anderen Seite des Tals kann man den noch schneebedeckten <a href='/alpine/toggenburg/20150606' target='_blank'>Speer</a> sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "003",
+            "alt": "Untere Schloh",
+            "date": "2022-05-15T09:30:23.000+02:00",
+            "width": 1856,
+            "height": 1080
+          }
+        ],
+        "text": "Vor der Alp Untere Schloh ging der Weg kurz mal nicht auf einem Fahrweg, um eine (harmlosen) felsige Rippe zu passieren. Direkt nach dieser Alp ging es aber wieder auf einem Feldweg weiter.<br />Anschließend verließ ich den offiziellen Wanderweg und kürzte über weitere steile Alpstraßen den Weg ab, um den weiter oben verlaufenden (von Nesslau kommenden) Wanderweg zu erreichen."
+      },
+      {
+        "photos": [
+          {
+            "name": "005",
+            "alt": "Stockneregg",
+            "date": "2022-05-15T11:16:09.000+02:00",
+            "width": 1920,
+            "height": 928
+          }
+        ],
+        "text": "Hier hatte ich nun den langen Bergrücken, der bis zum Gipfel des Stockberg führt, erreicht. Das geschieht bei der Alp Stockneregg, wo auch ein Startplatz für Paraglider ist.<br />Unten links im Tal kann man meinen Ausgangspunkt Stein sehen. Inzwischen hatte ich schon knapp 700m Aufstieg geschafft."
+      },
+      {
+        "photos": [
+          {
+            "name": "006",
+            "alt": "Panorama Stockberg",
+            "date": "2022-05-15T12:11:32.000+02:00",
+            "width": 1920,
+            "height": 786
+          }
+        ],
+        "text": "Anschließend geht es ziemlich direkt den Grashang die weiteren 200 Höhenmeter hinauf. Den Gipfel erreichte ich um 12:00 nach 3h Weg. <br />Hier der Blick wieder den Hang hinab. Neben dem Speer (rechts) sind nun auch die noch schneebedeckten Churfirsten links hinter der <a href='/alpine/toggenburg/20181104' target='_blank'>Neuenalpspitz</a> aufgetaucht."
+      },
+      {
+        "photos": [
+          {
+            "name": "007",
+            "alt": "Gipfel Stockberg",
+            "date": "2022-05-15T12:17:39.000+02:00",
+            "width": 1920,
+            "height": 887
+          },
+          {
+            "name": "008",
+            "alt": "Alpstein",
+            "date": "2022-05-15T12:18:24.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Spektakulärer ist aber definitiv die Aussicht vom Stockberg in die andere Richtung. Den dort fällt der Berg mit einer 300m hohen Felswand steil ab.<br />Unten in diesem Tal verläuft die Straße zur <a href='/alpine/alpstein/20151024' target='_blank'>Schwägalp</a>, die in der Mitte zu sehen ist. Rechts davon der alles überragende <a href='/alpine/alpstein/20140801' target='_blank'>Säntis</a>."
+      },
+      {
+        "photos": [
+          {
+            "name": "009",
+            "alt": "Wanderung Stockberg",
+            "date": "2022-05-15T12:34:37.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Nach nur einer guten halben Stunde Pause (auf Grund der vielen Fliegen) ging es wieder bergab. Zuerst fast bis zum Stockneregg auf dem Weg des Aufstiegs."
+      },
+      {
+        "photos": [
+          {
+            "name": "010",
+            "alt": "Lütispitz",
+            "date": "2022-05-15T12:46:27.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Dann aber zweigte ich nach links Richtung Risipass ab.<br />Hier im Hintergrund ist die <a href='/alpine/alpstein/20201025' target='_blank'>Lütispitz</a> zu sehen, auf der ich zwei Jahre zuvor war."
+      },
+      {
+        "photos": [
+          {
+            "name": "011",
+            "alt": "Risipass",
+            "date": "2022-05-15T12:53:03.000+02:00",
+            "width": 1391,
+            "height": 1080
+          }
+        ],
+        "text": "Der 1450m hohe Risipass zwischen Stockberg und Alpstein war dann schnell erreicht.<br />Hier der Blick wieder Richtung Schwägalp und Säntis."
+      },
+      {
+        "photos": [
+          {
+            "name": "012",
+            "alt": "Speer",
+            "date": "2022-05-15T13:20:59.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Tele vom Risipass in die andere Richtung zum Speer. Hier gab es auch die letzten paar Schneeflecken auf der Wanderung zu bewundern.<br />Über den Risipass führen Feldweg, so dass er gerne von Mountainbikern auf dem Weg zur Schwägalp genommen wird."
+      },
+      {
+        "photos": [
+          {
+            "name": "013",
+            "alt": "Wanderweg Risipass",
+            "date": "2022-05-15T13:42:52.000+02:00",
+            "width": 1768,
+            "height": 1080
+          }
+        ],
+        "text": "Der Wanderweg hinab vom Risipass nach Stein führt sehr schön über Gras die Wiesen hinab. Da es dabei aber recht steil ist und heiß war, strengte es trotzdem an."
+      },
+      {
+        "photos": [
+          {
+            "name": "014",
+            "alt": "Hütte zwischen Felsen",
+            "date": "2022-05-15T14:03:03.000+02:00",
+            "width": 1396,
+            "height": 1080
+          }
+        ],
+        "text": "Vorbei ging es an der Alp Lauboden, die zwischen einzelnen Felsbrocken liegt.<br />Zum Abschluss der Tour ging es dann wieder zwischen den Häusern von Stein hindurch zurück zum Auto, das ich um 14:30 bei großer Hitze erreichte."
+      }
+    ],
+    "outro": "Fazit: Schöner Aussichtsgipfel mit ungefährlichem Weg.<br />Mit 13km Länge und einer Gesamtdauer von 5,5h eine eher kurze Wanderung, aber bei der hohen Temperatur und mit den gut 900m Aufstieg war es trotzdem anstrengend und lang genug.<br />Alternativ kann man auch von Lutertannen an der Schwägalpstraße starten, womit man ein paar Höhenmeter einsparen kann."
+  }
+]
