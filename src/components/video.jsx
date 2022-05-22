@@ -8,18 +8,20 @@ const VideoWrapper = styled.div`
   ${videoWrapperStyle}
 `;
 
-const Video = ({title, video}) => {
+const Video = ({ title, video }) => {
   const { ref, inView } = useInView({ triggerOnce: true });
 
   return (
     <VideoWrapper ref={ref}>
-      { inView && <iframe
-        loading="lazy"
-        src={`https://www.youtube.com/embed/${video}?wmode=transparent`}
-        frameBorder="0"
-        allowFullScreen
-        title={title}
-      />}
+      {inView && (
+        <iframe
+          loading="lazy"
+          src={`https://www.youtube.com/embed/${video}?wmode=transparent`}
+          frameBorder="0"
+          allowFullScreen
+          title={title}
+        />
+      )}
     </VideoWrapper>
   );
 };

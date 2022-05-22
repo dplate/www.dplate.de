@@ -5,7 +5,7 @@ import { graphql } from 'gatsby';
 import styled from 'styled-components';
 import formatDate from '../utils/formatDate.js';
 import loadable from '@loadable/component';
-const Map = loadable(() => import('../components/map.jsx'))
+const Map = loadable(() => import('../components/map.jsx'));
 
 const Movie = styled.div`
   position: fixed;
@@ -325,7 +325,8 @@ class ReportMovie extends React.Component {
   }
 
   renderCurtain() {
-    const curtainClosed = this.state.phase === 'loading' || this.state.phase === 'intro' || this.state.phase === 'outro';
+    const curtainClosed =
+      this.state.phase === 'loading' || this.state.phase === 'intro' || this.state.phase === 'outro';
     const opacity = curtainClosed ? 1 : 0;
     return <Curtain opacity={opacity} />;
   }
@@ -337,16 +338,18 @@ class ReportMovie extends React.Component {
   renderMap() {
     const { type, track, timeShift, detailMap, hideSwissTopo } = this.props.data.reportJson;
     if (track) {
-      return <Map
-        gpxPath={this.buildGpxPath()}
-        time={this.getTargetTime()}
-        timeShift={timeShift}
-        detailMap={detailMap}
-        hideSwissTopo={hideSwissTopo}
-        winter={type !== 'hike'}
-        onTimeReached={this.nextPhase}
-        size="fullscreen"
-      />;
+      return (
+        <Map
+          gpxPath={this.buildGpxPath()}
+          time={this.getTargetTime()}
+          timeShift={timeShift}
+          detailMap={detailMap}
+          hideSwissTopo={hideSwissTopo}
+          winter={type !== 'hike'}
+          onTimeReached={this.nextPhase}
+          size="fullscreen"
+        />
+      );
     }
   }
 

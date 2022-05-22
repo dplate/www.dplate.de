@@ -1,11 +1,11 @@
 import React, { useEffect, useState } from 'react';
 import PropTypes from 'prop-types';
 import styled, { keyframes } from 'styled-components';
-import loadable from '@loadable/component'
+import loadable from '@loadable/component';
 import resizeIcon from '../icons/resize.svg';
 import closeIcon from '../icons/close.svg';
 import mapIcon from '../icons/map.svg';
-const Map = loadable(() => import('./map.jsx'))
+const Map = loadable(() => import('./map.jsx'));
 
 const MenuBar = styled.div`
   position: fixed;
@@ -49,7 +49,6 @@ const ResizeIcon = styled(Icon)`
 const CloseIcon = styled(Icon)`
   right: 5px;
 `;
-
 
 const bounceIn = keyframes`
   0% {
@@ -110,7 +109,7 @@ const changeSize = (size, setSize, allowTeaser) => {
   if (size === 'fullscreen' || (size === 'icon' && allowTeaser)) {
     newSize = 'teaser';
   }
-  setSize(newSize)
+  setSize(newSize);
   // noinspection JSUnresolvedVariable
   window.ga && window.ga('send', 'event', 'resizeMap', newSize);
 };
@@ -119,7 +118,7 @@ const close = (setSize) => {
   setSize('icon');
   // noinspection JSUnresolvedVariable
   window.ga && window.ga('send', 'event', 'closeMap', 'click');
-}
+};
 
 const renderButton = (time, size) => {
   if (time && time !== 'start' && time !== 'end') {
@@ -135,7 +134,7 @@ const renderButton = (time, size) => {
   }
 };
 
-const MapButton = ({time, mapProps}) => {
+const MapButton = ({ time, mapProps }) => {
   const [size, setSize] = useState('icon');
   const [allowTeaser, setAllowTeaser] = useState(true);
   useEffect(() => setAllowTeaser(window.innerWidth >= 640), []);
@@ -148,9 +147,7 @@ const MapButton = ({time, mapProps}) => {
         <ResizeIcon onClick={changeSizePrepared} src={resizeIcon} />
         <CloseIcon onClick={() => close(setSize)} src={closeIcon} />
       </MenuBar>
-      {size !== 'icon' && (
-        <Map {...mapProps} time={time} size={size} />
-      )}
+      {size !== 'icon' && <Map {...mapProps} time={time} size={size} />}
       <Button onClick={changeSizePrepared} className={size}>
         {renderButton(time, size)}
       </Button>

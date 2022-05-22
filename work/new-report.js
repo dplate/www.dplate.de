@@ -32,7 +32,7 @@ const newPhoto = async (sourcePhoto, targetPhotosPath, index) => {
       console.log(sourcePhoto, targetPhoto, error.message);
       throw 'Photo could not be converted';
     });
-    console.log(sourcePhoto, targetPhoto, 'success')
+    console.log(sourcePhoto, targetPhoto, 'success');
   }
 
   const photoSize = sizeOf(targetPhoto);
@@ -62,10 +62,10 @@ const createLandmarks = async () => {
     .map((file) => sourcePath + '/' + file);
   const targetPhotosPath = projectPath + '/static/photos/' + destination + '/' + reportDate;
   fs.mkdirSync(targetPhotosPath, { recursive: true });
-  const photos = await Promise.all(sourcePhotos.map(
-    (sourcePhoto, index) => newPhoto(sourcePhoto, targetPhotosPath, index)
-  ));
-  return photos.map(photo => ({
+  const photos = await Promise.all(
+    sourcePhotos.map((sourcePhoto, index) => newPhoto(sourcePhoto, targetPhotosPath, index))
+  );
+  return photos.map((photo) => ({
     photos: [photo],
     text: 'TODO'
   }));

@@ -16,7 +16,8 @@ import {
   Credit,
   Ellipsoid,
   EllipsoidGeodesic,
-  Entity, EventHelper,
+  Entity,
+  EventHelper,
   GeographicTilingScheme,
   HeadingPitchRange,
   HeightReference,
@@ -124,7 +125,7 @@ const catchInvalidSwissTopoTiles = (provider) => {
         const brokenIndices = indexLengths.filter((length) => length === 0).length;
         // noinspection JSUnresolvedVariable
         if (brokenIndices > 0 && brokenIndices < 4 && terrainData._minimumHeight <= 150 && randomValidTile) {
-          console.warn('Replacing possible invalid terrain tile by random correct tile');
+          console.warn('Replacing possible invalid terrain tile by random correct tile', indexLengths);
           return randomValidTile;
         } else {
           // noinspection JSUnresolvedVariable
@@ -297,7 +298,10 @@ const findOptimalCameraHeight = (viewer, hikerPosition) => {
       hikerPosition.height * distanceFactor + cameraPos.height * (1.0 - distanceFactor)
     );
     const terrainHeight = viewer.scene.globe.getHeight(samplePos);
-    optimalHeight = Math.max(optimalHeight, hikerPosition.height + (terrainHeight - hikerPosition.height) / (1.0 - distanceFactor));
+    optimalHeight = Math.max(
+      optimalHeight,
+      hikerPosition.height + (terrainHeight - hikerPosition.height) / (1.0 - distanceFactor)
+    );
   }
   return optimalHeight + 150;
 };
@@ -358,7 +362,7 @@ const updateSpeed = (viewer, targetTime, onAnimationStopped) => {
   viewer.clock.multiplier += (targetMultiplier - viewer.clock.multiplier) * 0.01;
   if (Math.abs(targetMultiplier) < 20 || Math.abs(timeDifference) <= 10) {
     if (viewer.clock.shouldAnimate) {
-      onAnimationStopped()
+      onAnimationStopped();
     }
     viewer.clock.shouldAnimate = false;
   }
@@ -461,15 +465,21 @@ const setupMap = (trackData, hideSwissTopo, detailMap, winter) => {
   return viewer;
 };
 
-const prepareStart = async (trackData, viewer, hiker, targetTime, onAnimationStarted, onAnimationStopped, time, timeShift) => {
-  setupClock(
-    viewer.clock,
-    trackData.startTime,
-    trackData.stopTime,
-    () => tickChanged(viewer, hiker, targetTime, onAnimationStopped)
+const prepareStart = async (
+  trackData,
+  viewer,
+  hiker,
+  targetTime,
+  onAnimationStarted,
+  onAnimationStopped,
+  time,
+  timeShift
+) => {
+  setupClock(viewer.clock, trackData.startTime, trackData.stopTime, () =>
+    tickChanged(viewer, hiker, targetTime, onAnimationStopped)
   );
 
-  await viewer.terrainProvider.readyPromise
+  await viewer.terrainProvider.readyPromise;
 
   timeChanged(viewer.clock, targetTime, time, timeShift, onAnimationStarted);
   jumpToTargetTime(viewer, hiker, targetTime);
@@ -510,19 +520,12 @@ const Map = (props) => {
   };
 
   useEffect(() => {
-    loadTrack(props.gpxPath)
-      .then(parseTrackData)
-      .then(setTrackData)
+    loadTrack(props.gpxPath).then(parseTrackData).then(setTrackData);
   }, []); // eslint-disable-line react-hooks/exhaustive-deps
 
   useEffect(() => {
     if (trackData) {
-      const newViewer = setupMap(
-        trackData,
-        props.hideSwissTopo,
-        props.detailMap,
-        props.winter
-      );
+      const newViewer = setupMap(trackData, props.hideSwissTopo, props.detailMap, props.winter);
       setViewer(newViewer);
       return () => {
         newViewer.destroy();
@@ -556,7 +559,7 @@ const Map = (props) => {
     if (clock) {
       timeChanged(clock, targetTime, props.time, props.timeShift, onAnimationStarted);
     }
-  }, [clock, props.time, props.timeShift])
+  }, [clock, props.time, props.timeShift]);
 
   return (
     <div>
@@ -571,7 +574,7 @@ const Map = (props) => {
       />
     </div>
   );
-}
+};
 
 Map.propTypes = {
   size: PropTypes.string.isRequired,
@@ -582,7 +585,7 @@ Map.propTypes = {
   hideSwissTopo: PropTypes.bool,
   winter: PropTypes.bool,
   onClick: PropTypes.func,
-  onTimeReached: PropTypes.func,
+  onTimeReached: PropTypes.func
 };
 
 export default Map;
