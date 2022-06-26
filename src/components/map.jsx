@@ -384,7 +384,7 @@ const updateHiker = (viewer, hiker) => {
   const geodesic = new EllipsoidGeodesic(currentCart, futureCart);
   const hikerHeading = geodesic.startHeading;
   const cameraHeading = viewer.camera.heading;
-  const viewAngle = (cameraHeading - hikerHeading) % (2 * Math.PI);
+  const viewAngle = ((cameraHeading - hikerHeading) + 2 * Math.PI) % (2 * Math.PI);
 
   if (viewAngle >= 0.25 * Math.PI && viewAngle < 0.75 * Math.PI) {
     entity.billboard = hiker.left;
