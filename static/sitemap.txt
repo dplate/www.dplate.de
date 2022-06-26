@@ -215,3 +215,4 @@ https://www.dplate.de/alpine/davos/20211009
 https://www.dplate.de/alpine/alpstein/20211031
 https://www.dplate.de/alpine/toggenburg/20211120
 https://www.dplate.de/alpine/toggenburg/20220515
+https://www.dplate.de/alpine/lenzerheide/20220625

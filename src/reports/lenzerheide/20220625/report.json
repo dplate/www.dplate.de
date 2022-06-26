@@ -1,0 +1,605 @@
+[
+  {
+    "destination": "lenzerheide",
+    "date": "d20220625",
+    "type": "hike",
+    "track": true,
+    "detailMap": "swiss",
+    "shortTitle": "Gürgaletsch",
+    "title": "Tschiertschen - Gürgaletsch",
+    "title3d": {
+      "offsetY": 4,
+      "fontSize": 7,
+      "align": "right",
+      "width": 1920,
+      "height": 536
+    },
+    "movie": "naSXMYCHK1M",
+    "intro": "Ich war schon viel in den Bergen von Lenzerheide und Arosa unterwegs, aber noch nie in dem kleinen Ort Tschiertschen, obwohl es fast dazwischen liegt. Ich suchte mir also eine Runde dort aus und machte mich an diesem sommerlichen Samstag auf den Weg.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Tschiertschen",
+            "date": "2022-06-25T08:09:49.000+02:00",
+            "width": 1920,
+            "height": 1032
+          }
+        ],
+        "text": "Relativ früh um 8:00 stellte ich mein Auto auf dem großen Gratis-Parkplatz vor dem Ort ab. Um zu den eigentlichen Wanderwegen (oder im Winter zur Sesselbahn) zu kommen, muss man erst durch den Ort laufen. Dieser ist aber sehr urig und so ist es kein Nachteil."
+      },
+      {
+        "photos": [
+          {
+            "name": "002",
+            "alt": "Wandern Tschiertschen",
+            "date": "2022-06-25T08:16:25.000+02:00",
+            "width": 1695,
+            "height": 1080
+          },
+          {
+            "name": "003",
+            "alt": "Blume mit Insekten",
+            "date": "2022-06-25T08:19:02.000+02:00",
+            "width": 1734,
+            "height": 1080
+          }
+        ],
+        "text": "Mein erstes Ziel war der 2400m hohe Gürgaletsch, von Tschiertschen aus 1100m Aufstieg. Der Weg ging gleich direkt nach dem Ort sehr malerisch über Blumenwiesen und vorbei an Lärchen."
+      },
+      {
+        "photos": [
+          {
+            "name": "004",
+            "alt": "Furgglis",
+            "date": "2022-06-25T08:43:19.000+02:00",
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "text": "Nach den ersten 300m Aufstieg Blick auf die Weiden von Furgglis. Noch ist die ganze Landschaft von Fahrstraßen durchzogen, der Wanderweg vermeidet sie aber.<br />Im Hintergrund ist der <a href='/alpine/lenzerheide/20191012' target='_blank'>Hochwang</a> zu sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "005",
+            "alt": "Landschaft Chur",
+            "date": "2022-06-25T08:53:51.000+02:00",
+            "width": 845,
+            "height": 1080
+          }
+        ],
+        "text": "Nach Furgglis ging es aber doch ein kleines Stück auf einem Schotterweg (bzw. Skipiste) durch den Wald, ab und zu mit Blick hinab nach Chur. An dieser Straße gibt es auch eine erlaubte Abstellmöglichkeit für Wohnmobile - auf jeden Fall mit toller Aussicht."
+      },
+      {
+        "photos": [
+          {
+            "name": "006",
+            "alt": "Skilift Jochalp",
+            "date": "2022-06-25T09:15:24.000+02:00",
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "text": "Die Straße endet an der Talstation des Skilifts Jochalp, ansonsten bekommt man von dem kleinen Skigebiet während der Wanderung nicht viel mit."
+      },
+      {
+        "photos": [
+          {
+            "name": "007",
+            "alt": "Wanderweg über Wiesen",
+            "date": "2022-06-25T09:19:48.000+02:00",
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "text": "Nun wurde der Weg wieder schöner und ging wenig steil die Wiese und Wald hinauf."
+      },
+      {
+        "photos": [
+          {
+            "name": "008",
+            "alt": "Alp Gruoben",
+            "date": "2022-06-25T09:25:10.000+02:00",
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "text": "Vorbei an der kleinen Alp Gruoben."
+      },
+      {
+        "photos": [
+          {
+            "name": "009",
+            "alt": "Wanderweg durch Alpenrosen",
+            "date": "2022-06-25T09:33:51.000+02:00",
+            "width": 1920,
+            "height": 1080
+          },
+          {
+            "name": "010",
+            "alt": "Alpenrosen",
+            "date": "2022-06-25T09:41:01.000+02:00",
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "text": "Nun zweigte ich vom Hauptweg (der über das Joch nach Churwalden führt) Richtung Tälli ab. Dieses Wegstück war praktisch nicht begangen und gingen mitten hindurch durch diese Alpenrosen."
+      },
+      {
+        "photos": [
+          {
+            "name": "011",
+            "alt": "Tälli",
+            "date": "2022-06-25T10:32:25.000+02:00",
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "text": "Nach einem kleinen Steilstück hinauf zum Tälli, ging dann wneig steil das Tal westlich vom Gürgaletsch hinauf. Hier der Blick zurück."
+      },
+      {
+        "photos": [
+          {
+            "name": "012",
+            "alt": "Lenzerheide im Sommer",
+            "date": "2022-06-25T10:38:35.000+02:00",
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "text": "Dann erreichte ich die Abbruchkante Richtung Churwalden, welches hier im Bild rechts/unten zu sehen ist. Links ist die eigentliche Lenzerheide mit dem gut sichtbaren Heidsee."
+      },
+      {
+        "photos": [
+          {
+            "name": "013",
+            "alt": "Gratweg Gürgaletsch",
+            "date": "2022-06-25T10:47:11.000+02:00",
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "text": "Nun folgte der Abstecher zum Gipfel des Gürgaletsch. Mit kaum noch Höhenmetern verlief der Weg sehr schön auf diesem Gratweg."
+      },
+      {
+        "photos": [
+          {
+            "name": "014",
+            "alt": "Panorama Gürgaletsch",
+            "date": "2022-06-25T11:04:05.000+02:00",
+            "width": 1920,
+            "height": 713
+          }
+        ],
+        "text": "Um 11:00 nach 3h Aufstieg hatte ich den Gipfel erreicht. Hier der Blick nach Norden, links ist wieder Chur zu sehen und rechts der Hochwang. Dazwischen konnte man das Rheintal hinab bis zum Alpstein schauen, denn die Sicht (und das Wetter allgemein) war an diesem Tag sehr gut."
+      },
+      {
+        "photos": [
+          {
+            "name": "015",
+            "alt": "Berge mit Wolken",
+            "date": "2022-06-25T11:04:22.000+02:00",
+            "width": 1920,
+            "height": 1050
+          }
+        ],
+        "text": "Und der Blick nach Osten. Im Hintergrund ist das 2600m hohe Weisshorn von Arosa zu sehen. Der Grat im Vordergrund wird später noch relevant, denn der felsige Ende des Grats ist der Alpstein (der Name scheint nicht geschützt zu sein) und war der letzte geplante Gipfel meiner Wanderung."
+      },
+      {
+        "photos": [
+          {
+            "name": "016",
+            "alt": "Gipfel Gürgaletsch",
+            "date": "2022-06-25T11:06:29.000+02:00",
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "text": "Der eigentliche Gipfel des Gürgaletsch ist wenig aufregend. Erst besteht nur aus diesem Steinhaufen (aber mit Gipfelbuch). Ich hielt mich auch nur kurz oben auf, weil es vor Fliegen wimmelte.<br />Hier übrigens der Blick über den Grat, den ich hinaufgekommen war."
+      },
+      {
+        "photos": [
+          {
+            "name": "017",
+            "alt": "Murmeltier mit Heidsee",
+            "date": "2022-06-25T11:08:56.000+02:00",
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "text": "Stark vergrößertes Bild eines der vielen Murmeltier mit Aussicht auf den Heidsee von Lenzerheide. Sie waren leider recht scheu, so dass ich nicht näher rankam."
+      },
+      {
+        "photos": [
+          {
+            "name": "018",
+            "alt": "Sommerwanderung",
+            "date": "2022-06-25T11:19:34.000+02:00",
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "text": "Vom Gürgaletsch musste ich erst wieder den gleichen Grat zurück laufen. Links/hinten ist das Parpaner Schwarzhorn zu sehen zu dessem Fuß ich nun unterwegs war."
+      },
+      {
+        "photos": [
+          {
+            "name": "019",
+            "alt": "Wanderweg Parpaner Schwarzhorn",
+            "date": "2022-06-25T11:31:46.000+02:00",
+            "width": 1920,
+            "height": 693
+          },
+          {
+            "name": "020",
+            "alt": "Panorama Wanderung",
+            "date": "2022-06-25T11:34:12.000+02:00",
+            "width": 1920,
+            "height": 1080
+          },
+          {
+            "name": "021",
+            "alt": "Abbruchkante",
+            "date": "2022-06-25T11:37:35.000+02:00",
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "text": "Der Weg vom Gürgaletsch zum Parpaner Schwarzhorn verläuft entlang der Abbruchkante, ohne aber ausgesetzt zu sein. Hier begegnete ich auch den ersten anderen Wanderern des Tages - es waren aber den ganzen Tag nur rund zehn."
+      },
+      {
+        "photos": [
+          {
+            "name": "022",
+            "alt": "Wegweiser",
+            "date": "2022-06-25T11:42:09.000+02:00",
+            "width": 676,
+            "height": 1080
+          }
+        ],
+        "text": "Wegweiser an der Festwand des Malakoff. Das hier angegebene Farur ist eine Alp auf 1900m oberhalb von Tschiertschen, zu der man mit den Auto hochfahren kann. Von dort ist der Gürgaletsch auch ohne viel Mühe erreichbar.<br />Ich folgte aber dem Wegweiser Farurfurgga, weiter an der Kante entlang."
+      },
+      {
+        "photos": [
+          {
+            "name": "023",
+            "alt": "Violette Bergwiese",
+            "date": "2022-06-25T11:47:16.000+02:00",
+            "width": 1920,
+            "height": 1021
+          },
+          {
+            "name": "024",
+            "alt": "Alpenblumen",
+            "date": "2022-06-25T11:50:22.000+02:00",
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "text": "Auf den Wiesen waren an diesem Tag extrem viele Blumen zu bewundern und um mich herum summten unzählige Insekten."
+      },
+      {
+        "photos": [
+          {
+            "name": "025",
+            "alt": "Wanderweg mit Drahtseil",
+            "date": "2022-06-25T11:55:49.000+02:00",
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "text": "Während bis hierher die Wanderung sehr harmlos war, folgten nun ein paar Steilstufen, die hier sogar mit Dratseil gesichert war. Mir machten aber eher die Anstiege wegen der prallen Sonne zu schaffen."
+      },
+      {
+        "photos": [
+          {
+            "name": "026",
+            "alt": "Gürgaletsch",
+            "date": "2022-06-25T12:02:47.000+02:00",
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "text": "Also machte ich erst mal eine Pause nach dem steilsten und größten Aufstieg bei diesem Wegabschnitt.<br />Hier der Blick zurück, ganz hinten ist der Gürgaletsch zu sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "027",
+            "alt": "Lenzerheide",
+            "date": "2022-06-25T12:10:47.000+02:00",
+            "width": 1920,
+            "height": 921
+          }
+        ],
+        "text": "Noch ein letzter Blick die Felswand hinab nach Lenzerheide. Nach dem ich jetzt so nah am Paparner Schwarzhorn war, überlegte ich, ob ich diesen noch mitnehmen sollte, um dann über das Urdenfürggli und Urdental abzusteigen. Da es aber zum fast 2700m hohen Schwarzhorn noch einmal 200m zusätzlichen Austieg wären, entschied ich mich bei meinem ursprünglichen Plan zu bleiben. Deshalb bog ich nun nach Osten zur Farurfurgga ab."
+      },
+      {
+        "photos": [
+          {
+            "name": "028",
+            "alt": "Blumen auf Fels",
+            "date": "2022-06-25T12:47:09.000+02:00",
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "text": "Kleine Blumenwelt abseits des Wegs. Ich kürzte hier nämlich etwas ab."
+      },
+      {
+        "photos": [
+          {
+            "name": "029",
+            "alt": "Farurfurgga",
+            "date": "2022-06-25T12:53:57.000+02:00",
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "text": "Nun war ich an dem kleinen 40m Aufstieg hinauf zur Farurfurgga, die eine Verbindung zwischen dem Urdental und Farur ist."
+      },
+      {
+        "photos": [
+          {
+            "name": "030",
+            "alt": "Urdental",
+            "date": "2022-06-25T12:56:26.000+02:00",
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "text": "Folglich konnte ich auf dem Pass nun auf der anderen Seite hinab in das Urdental blicken. In der Mitte ist wieder das Aroser Weisshorn zu sehen. Von hier hätte ich nun auch direkt in das Tal absteigen können - nachträglich gesehen wäre es wohl besser gewesen."
+      },
+      {
+        "photos": [
+          {
+            "name": "031",
+            "alt": "Parpaner Schwarzhorn",
+            "date": "2022-06-25T13:05:18.000+02:00",
+            "width": 1920,
+            "height": 732
+          }
+        ],
+        "text": "Ich ging dagegen den Grat entlang Richtung Alpstein. Hier der Blick zurück. Links das Parpaner Schwarzhorn, von rechts bin ich gekommen."
+      },
+      {
+        "photos": [
+          {
+            "name": "032",
+            "alt": "Gratweg Tschingla",
+            "date": "2022-06-25T13:08:28.000+02:00",
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "text": "Der Weg sah auf der Wanderkarte sehr schön aus, in der Realität war er aber mühsam und schwierig. Das lag vor allem daran, dass es eigentlich gar keinen Weg gab. Außerdem waren kaum Wegzeichen vorhanden und teilweise waren sie auch von aufgegebenen Varianten. Folglich war ich ständig auf der Suche nach dem richtigen nächsten Wegzeichen und das in einem nicht sehr flachen Gelände."
+      },
+      {
+        "photos": [
+          {
+            "name": "033",
+            "alt": "Steiler Weg",
+            "date": "2022-06-25T13:13:42.000+02:00",
+            "width": 672,
+            "height": 1080
+          }
+        ],
+        "text": "Das war der Abstieg vom ersten Gipfel auf dem Grat. Hier gab es zwar viele Markierungen, aber kein Weg - und es war deutlich steiler, als es hier aussieht."
+      },
+      {
+        "photos": [
+          {
+            "name": "034",
+            "alt": "Tümpel",
+            "date": "2022-06-25T13:20:30.000+02:00",
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "text": "Kleiner Tümpel auf dem Grat. Im Hintergrund wieder das Schwarzhorn und rechts der bisher zurückgelegte Weg."
+      },
+      {
+        "photos": [
+          {
+            "name": "035",
+            "alt": "Tschingla",
+            "date": "2022-06-25T13:30:52.000+02:00",
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "text": "Ein kleiner zurück überkletternder Fels beim Aufstieg zum Tschingla - einen der vielen Gipfel auf dem Grat."
+      },
+      {
+        "photos": [
+          {
+            "name": "036",
+            "alt": "Schwieriger Wanderweg",
+            "date": "2022-06-25T13:43:02.000+02:00",
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "text": "Während es am Tschingla links vorbei ging, führt der Weg beim nächsten Gipfel rechts vorbei - wobei auch ein paar alten Wanderzeichen über dem Gipfel gingen. Ich hatte auf jeden Fall die ganze Zeit das Gefühl, falsch abgebogen zu sein und ich war immer froh, wenn ich wieder eine Art Weg gefunden hatte."
+      },
+      {
+        "photos": [
+          {
+            "name": "037",
+            "alt": "Blumenhügel",
+            "date": "2022-06-25T14:06:26.000+02:00",
+            "width": 1884,
+            "height": 1080
+          }
+        ],
+        "text": "Hier hatte ich dann die steilen felsigen Abschnitte hinter mir und konnte etwas entspannen. Ich finde es schade, dass der Weg in einem solch schlechten Zustand und so wenig begangen ist, denn landschaftlich ist er toll."
+      },
+      {
+        "photos": [
+          {
+            "name": "038",
+            "alt": "Alpstein",
+            "date": "2022-06-25T14:10:39.000+02:00",
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "text": "Hier nun endlich der letzte Gipfel des Grats, der Alpstein. Links unterhalb seiner Felswand ist die Alp Farur, zu der man (wie ich vorher erwähnt habe) mit dem Auto hinauffahren kann.<br />Für den Grat zwischen Farurfurgga und Alpstein habe ich über eine Stunde gebraucht, deutlich mehr als geplant. Rückblickend wäre die Variante über das Parpaner Schwarzhorn wahrscheinlich schneller und weniger anstrengend gewesen."
+      },
+      {
+        "photos": [
+          {
+            "name": "039",
+            "alt": "Ausblick Alpstein",
+            "date": "2022-06-25T14:21:04.000+02:00",
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "text": "Auf dem Alpstein machte ich jetzt erst mal eine längere Pause. Hier der Blick nach Chur. Links ist übrigens der Gipfel des Gürgaletsch, auf dem ich 3,5h zuvor war."
+      },
+      {
+        "photos": [
+          {
+            "name": "040",
+            "alt": "Farur",
+            "date": "2022-06-25T14:43:51.000+02:00",
+            "width": 1920,
+            "height": 577
+          }
+        ],
+        "text": "Und hier der Überblick über diese 3,5h. Rechts vom Gürgaletsch immer den Grat entlang und zum Schluß links zurück, also einmal um dieses Tal herum."
+      },
+      {
+        "photos": [
+          {
+            "name": "041",
+            "alt": "Hörnli",
+            "date": "2022-06-25T15:11:40.000+02:00",
+            "width": 1920,
+            "height": 926
+          }
+        ],
+        "text": "Der nun folgende Abstieg ins Urdental war erst recht schön und nicht zu steil über die Wiesen. Hier der Blick hinauf ins Urdental. Links das Hörnli von Arosa."
+      },
+      {
+        "photos": [
+          {
+            "name": "042",
+            "alt": "Arosa Weisshorn",
+            "date": "2022-06-25T15:15:01.000+02:00",
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "text": "Und nochmal das jetzt sehr nahe Arosa Weisshorn. Für mich die völlig unbekannte Seite, kenne ich es doch nur vom Skifahren auf der Rückseite."
+      },
+      {
+        "photos": [
+          {
+            "name": "043",
+            "alt": "Fahrweg Urdental",
+            "date": "2022-06-25T15:24:38.000+02:00",
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "text": "Dann erreichte ich eine Alpstraße. Am Anfang fand ich es sehr angenehm, nun einfach die Straße hinuntertrotten zu können. Aber der Fahrweg ist sehr flach angelegt, so dass die sich die beiden Serpentinen länger als notwendig hinzogen. Eigentlich waren es nur 250 Höhenmeter auf der Straße, aber trotzdem 3,5km."
+      },
+      {
+        "photos": [
+          {
+            "name": "044",
+            "alt": "Straße unter Fels",
+            "date": "2022-06-25T15:53:08.000+02:00",
+            "width": 703,
+            "height": 1080
+          }
+        ],
+        "text": "Einziges Highlight auf dem Abschnitt - außer dem einen Auto, das mir entgegenkam. ;)"
+      },
+      {
+        "photos": [
+          {
+            "name": "045",
+            "alt": "Urdenbach mit Fahrweg",
+            "date": "2022-06-25T16:13:53.000+02:00",
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "text": "Ankunft am Urdenbach am Talboden, und damit hatte ich auch bald das Ende der Fahrstraße erreicht."
+      },
+      {
+        "photos": [
+          {
+            "name": "046",
+            "alt": "Bergbach",
+            "date": "2022-06-25T16:25:04.000+02:00",
+            "width": 734,
+            "height": 1080
+          }
+        ],
+        "text": "Hier ging es nun über den sprudelnden Bach und plötzlich wurde es viel belebter. Denn ich kam auf eine ziemlich beliebte Mountainbike-Strecke von Arosa nach Chur."
+      },
+      {
+        "photos": [
+          {
+            "name": "047",
+            "alt": "Malerische Alpwiese",
+            "date": "2022-06-25T16:30:19.000+02:00",
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "text": "Weiter ging es nun zuerst an dieser malerischen Alpwiese vorbei. Anschließend eigentlich nur noch durch den Wald immer mit Abstand am Bach entlang. Die Mountainbiker, die mich erst überholten, waren nicht besonders routiniert. Obwohl es bergab ging, war ich zu Fuß praktisch genau so schnell."
+      },
+      {
+        "photos": [
+          {
+            "name": "048",
+            "alt": "Füchsliweg",
+            "date": "2022-06-25T17:08:01.000+02:00",
+            "width": 1920,
+            "height": 1011
+          },
+          {
+            "name": "049",
+            "alt": "Badestelle Füchsliweg",
+            "date": "2022-06-25T17:17:08.000+02:00",
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "text": "Zum Schluss ging es dann noch auf den Füchsliweg. Einer dieser typischen Themenwege mit Stationen für Kinder, die anscheinend jeder Ort braucht. Bis auf diese beiden Plätze mit Wasserkanälen sah er für mich aber nicht besonders attraktiv aus. Er führt auch einfach nur durch den Wald ohne Aussicht - ich denke da hätte es schönere Möglichkeiten in Tschiertschen gegeben. Ich habe auch niemanden dort gesehen, außer den Mountainbikern."
+      },
+      {
+        "photos": [
+          {
+            "name": "050",
+            "alt": "Tschiertschen",
+            "date": "2022-06-25T17:34:48.000+02:00",
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "text": "Zurück zum Ort musste ich jetzt noch ein kleines Stück auf einer Asphaltstraße hochlaufen, und anschließend auch dann wieder durch den Ort."
+      },
+      {
+        "photos": [
+          {
+            "name": "051",
+            "alt": "Parkplatz Tschiertschen",
+            "date": "2022-06-25T17:42:01.000+02:00",
+            "width": 1920,
+            "height": 933
+          }
+        ],
+        "text": "Erschöpfte Ankunft am Parkplatz um 17:45. Der alte Postbus hier fährt in den Sommermonaten als Nostalgiebus von Chur über Tschiertschen bis hinauf zur Alp Farur. Ich hatte überlegt gehabt, ihn zu verwenden, aber die erste Fahrt ist erst relativ spät gegen 10:00."
+      }
+    ],
+    "outro": "Fazit: Tschiertschen und die Landschaft oberhalb ist sehr schön. Die von mir ausgesuchte Runde war allerdings etwas arg lang und anstrengend. Ich habe für die 24km und 1600 Höhenmeter 9:45h gebraucht.<br />Ich glaube, ich werde stattdessen mal nach Farur hinauffahren und von dort das Parpaner Schwarzhorn zusammen mit dem Gürgaletsch machen."
+  }
+]
