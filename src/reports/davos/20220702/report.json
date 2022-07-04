@@ -1,0 +1,269 @@
+[
+  {
+    "destination": "davos",
+    "date": "d20220702",
+    "type": "hike",
+    "track": true,
+    "detailMap": "swiss",
+    "shortTitle": "Grialetschhütte",
+    "title": "Flüela - Grialetschhütte",
+    "title3d": {
+      "offsetY": 3,
+      "fontSize": 7,
+      "align": "left",
+      "width": 1920,
+      "height": 500
+    },
+    "movie": "azXKZpwlFvI",
+    "intro": "Dieses Jahr ist der Schnee auch im Hochgebirge Anfang Juli schon komplett weggetaut, so dass wir an diesem Samstag eine Wanderungen machen konnte, die sich ausschließlich zwischen 2000m und 2800m abspielte. Das Auto stellten wir dafür auf der Ostseite der Passhöhe auf einem der vielen Möglichkeiten entlang der Straße ab. Je nachdem wie tief man parkt, desto mehr muss man am Morgen bzw. am Abend den Wanderweg entlang der Straße hochlaufen. Die eigentliche Wanderung geht an der Bushaltestelle Schwarzhorn los.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Radönt",
+            "date": "2022-07-02T10:28:20.000+02:00",
+            "width": 1920,
+            "height": 859
+          }
+        ],
+        "text": "Von der Straße geht es erst auf gut ausgebautem Wanderweg in ein paar Serpentinen eine Talstufe nach Radönt hinauf. Dort geht der Hauptweg rechts am Hang weiter zum Schwarzhorn, wir bogen dort aber nach links und querten hier den Bach über eine Brücke."
+      },
+      {
+        "photos": [
+          {
+            "name": "002",
+            "alt": "Schwarzhorn",
+            "date": "2022-07-02T11:51:30.000+02:00",
+            "width": 1920,
+            "height": 803
+          }
+        ],
+        "text": "Der Weg ging nun konstant ansteigend am linken Talrand hinauf. Hier der Blick zurück in das Tal und das <a href='/alpine/davos/20170801' target='_blank'>Schwarzhorn</a>."
+      },
+      {
+        "photos": [
+          {
+            "name": "004",
+            "alt": "Fuorcla Radönt",
+            "date": "2022-07-02T12:07:10.000+02:00",
+            "width": 1920,
+            "height": 791
+          }
+        ],
+        "text": "Ankunft auf dem Pass Fuorcla Radönt am Ende des Tals. Mit einer Höhe von 2788m der höchste Punkt der Wanderung. Auf der anderen Seite dieses beeindruckende Panorama der Bergkette entlang des Grialetschgletschers."
+      },
+      {
+        "photos": [
+          {
+            "name": "005",
+            "alt": "Bergsee",
+            "date": "2022-07-02T12:21:49.000+02:00",
+            "width": 1615,
+            "height": 1080
+          }
+        ],
+        "text": "Der ausgezeichnete Weg zur Grialetschhütte geht vom Pass aus nach rechts am Hang entlang. Von einer <a href='/alpine/davos/20170801' target='_blank'>früheren Wanderung</a> wusste ich aber noch, dass er ziemlich anstrengend durch zwei Felsstürze hindurchführt. Wir gingen gingen stattdessen einen alten Weg direkt den Hang hinab - vorbei an diesem kleinen See direkt unterhalb der Fuorcla Radönt."
+      },
+      {
+        "photos": [
+          {
+            "name": "006",
+            "alt": "Wanderung Grialetsch",
+            "date": "2022-07-02T12:35:13.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Obwohl dieser Weg nicht mehr mit Wegweisern gekennzeichnet ist, ist er noch gut markiert und auch eindeutig. Dabei ein schöner Blick hinab in das Tal. Vom Pass aus ist man so schnell die 180m zum mehr begangenen Grialetsch-Höhenweg abgestiegen, dem wir anschließend nach rechts zur Grialetschhütte folgten."
+      },
+      {
+        "photos": [
+          {
+            "name": "007",
+            "alt": "Grialetschhütte",
+            "date": "2022-07-02T13:50:40.000+02:00",
+            "width": 1769,
+            "height": 1080
+          }
+        ],
+        "text": "Ankunft an der 2540m hohen Grialetschhütte, die vor kurzem renoviert wurde. Erreichbar ist sie auch einfach von Dürrboden bei Davos."
+      },
+      {
+        "photos": [
+          {
+            "name": "008",
+            "alt": "Murmeltier",
+            "date": "2022-07-02T13:52:40.000+02:00",
+            "width": 1668,
+            "height": 1080
+          }
+        ],
+        "text": "Wir machten Pause etwas entfernt mit schöner Aussicht auf den Gletscher und den Piz Sarsura. Und wer genau hinschaut, kann auch das Murmeltier entdecken, das wir dabei aufscheuchten."
+      },
+      {
+        "photos": [
+          {
+            "name": "009",
+            "alt": "Grialetsch Hütte",
+            "date": "2022-07-02T14:38:27.000+02:00",
+            "width": 1658,
+            "height": 1080
+          }
+        ],
+        "text": "Für den Rückweg entschieden wir uns für den wenig begangenen Weg unten im Grialetschtal. Alternativ kann man auch wieder den gleich langen Grialetsch-Höhenweg wählen.<br />Hier der Blick zurück zur Grialetschhütte."
+      },
+      {
+        "photos": [
+          {
+            "name": "010",
+            "alt": "Grialetsch Gletscher",
+            "date": "2022-07-02T14:38:34.000+02:00",
+            "width": 1920,
+            "height": 1054
+          },
+          {
+            "name": "011",
+            "alt": "Grialetsch",
+            "date": "2022-07-02T14:59:12.000+02:00",
+            "width": 1920,
+            "height": 968
+          },
+          {
+            "name": "012",
+            "alt": "Piz Vadret",
+            "date": "2022-07-02T15:06:00.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Jeweils der Blick auf die verschiedenen 3000er entlang den Resten des Grialetsch-Gletschers während des sanften Abstiegs zum Grialetsch-Fluss"
+      },
+      {
+        "photos": [
+          {
+            "name": "013",
+            "alt": "Milchiges Gletscherwasser",
+            "date": "2022-07-02T15:16:33.000+02:00",
+            "width": 1920,
+            "height": 841
+          }
+        ],
+        "text": "Und schließlich waren wir am Fluss angekommen, dessen Wasser vom Gletscher sehr milchig war. Er sieht hier nicht besonders mächtig aus, er hatte aber viel Wasser und war sehr laut - ohne Brücke nicht zu überqueren."
+      },
+      {
+        "photos": [
+          {
+            "name": "014",
+            "alt": "Kleiner Bach",
+            "date": "2022-07-02T15:30:44.000+02:00",
+            "width": 720,
+            "height": 1080
+          }
+        ],
+        "text": "Die vielen kleinen Bäche am Hang waren dagegen kristallklar und konnten (und mussten) wir ohne Brücken überqueren."
+      },
+      {
+        "photos": [
+          {
+            "name": "015",
+            "alt": "Grünes Tal",
+            "date": "2022-07-02T15:36:34.000+02:00",
+            "width": 1879,
+            "height": 1080
+          },
+          {
+            "name": "016",
+            "alt": "Grialetsch Tal",
+            "date": "2022-07-02T16:20:01.000+02:00",
+            "width": 1920,
+            "height": 1075
+          },
+          {
+            "name": "017",
+            "alt": "Val Grialetsch",
+            "date": "2022-07-02T16:22:17.000+02:00",
+            "width": 1674,
+            "height": 1080
+          }
+        ],
+        "text": "Und so ging es durch das Val Grialetsch hinab, währenddessen uns niemand anderes begegnet war.<br />Wieder jeweils der Blick zurück."
+      },
+      {
+        "photos": [
+          {
+            "name": "018",
+            "alt": "Wanderung Val Grialetsch",
+            "date": "2022-07-02T16:24:14.000+02:00",
+            "width": 1920,
+            "height": 1003
+          },
+          {
+            "name": "019",
+            "alt": "Alp Grialetsch",
+            "date": "2022-07-02T16:26:06.000+02:00",
+            "width": 1757,
+            "height": 1080
+          }
+        ],
+        "text": "Einziges Merkmal der Zivilisation im Tal ist die kleine Alp Grialetsch. Dort ist auch die erste Brücke über den Fluss, wir blieben aber auf Westseite."
+      },
+      {
+        "photos": [
+          {
+            "name": "020",
+            "alt": "Berg Nelkenwurz",
+            "date": "2022-07-02T16:27:10.000+02:00",
+            "width": 1692,
+            "height": 1080
+          }
+        ],
+        "text": "Makro einer Berg-Nelkenwurz"
+      },
+      {
+        "photos": [
+          {
+            "name": "021",
+            "alt": "Aua da Grialetsch",
+            "date": "2022-07-02T16:46:03.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Pause am rauschenden Fluss um die Füße abkühlen, weil jetzt stand leider zum Schluss der Wanderung noch einmal ein Aufstieg an."
+      },
+      {
+        "photos": [
+          {
+            "name": "022",
+            "alt": "Val Susasca",
+            "date": "2022-07-02T17:23:08.000+02:00",
+            "width": 1920,
+            "height": 918
+          }
+        ],
+        "text": "Denn jetzt mussten wir vom Fluss den Hang hinauf gut 100m Richtung Flüelapass aufsteigen. Der Weg war dabei zum Teil sehr schmal und zugewachsen, so dass es zusätzlich anstrengend war.<br />Im Hintergrund ist hier bereits die Flüela-Passstraße zu sehen, die das Val Susasca hinabführt."
+      },
+      {
+        "photos": [
+          {
+            "name": "023",
+            "alt": "Wanderweg Flüela",
+            "date": "2022-07-02T18:05:34.000+02:00",
+            "width": 1822,
+            "height": 1080
+          },
+          {
+            "name": "024",
+            "alt": "Flüelapass",
+            "date": "2022-07-02T18:13:29.000+02:00",
+            "width": 1920,
+            "height": 884
+          }
+        ],
+        "text": "Nachdem wir die Straße erreicht hatten, mussten wir noch weitere knapp 100m hochlaufen, da wir etwas weiter oben geparkt hatten. Der Weg war aber einfach und schnell erledigt."
+      }
+    ],
+    "outro": "Fazit: Mit 12km und 700 Höhenmetern eine schöne Wanderung im Hochgebirge. Wer sich etwas mehr beeilt, kann sie auch in 5h schaffen. Etwas ungünstig ist der schwierige Aufstieg noch ganz am Schluß - also entweder etwas Kraft aufsparen oder den Höhenweg von der Grialetschhütte zurücklaufen."
+  }
+]
