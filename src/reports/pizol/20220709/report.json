@@ -1,0 +1,718 @@
+[
+  {
+    "destination": "pizol",
+    "date": "d20220709",
+    "type": "hike",
+    "track": true,
+    "detailMap": "swiss",
+    "shortTitle": "Calanda",
+    "title": "Vazer Alp - Calanda",
+    "title3d": {
+      "offsetY": 1,
+      "fontSize": 9,
+      "align": "right",
+      "width": 1920,
+      "height": 452
+    },
+    "movie": "mDrhrT16Uo4",
+    "intro": "Auf vielen meiner Wanderungen in Graubünden hatte ich immer wieder die Calanda im Blick, ein Gebirgsmassiv direkt westlich von Chur. Obwohl ein rot/weißer Wanderweg auf den höchsten Gipfel, die Haldensteiner Calanda, führt, hatte ich lange keine (für mich) machbare Tour planen können. Denn vom nächstgelegenen Ort Haldenstein sind es über 2000m Auf- und Abstieg und eine Zwischenübernachtung auf der Calandahütte wollte ich für den Gipfel auch nicht machen.<br />Dann habe ich aber herausgefunden, dass man von Untervaz auf gebührenpflichtiger Alpstraße bis auf 1750m hinauf zur Vazer Alp fahren darf. Von dort sind es dann nur 1100m Aufstieg zum Gipfel und damit gut machbar für eine Tagestour, die ich dann endlich letzten Samstag unternahm.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Fahrbewilligung Vazer Alp",
+            "date": "2022-07-09T07:54:59.000+02:00",
+            "width": 1920,
+            "height": 972
+          }
+        ],
+        "text": "Während die Fahrbewilligung für 10CHF einfach über die App Easypark bezogen werden kann, war die Straße zur Vazer Alp in Untervaz nicht wirklich gut zu finden. Google Maps kennt auf jeden Fall nicht den richtigen Weg und führte mich erst mal in eine Sackgasse auf einem Waldweg. Am einfachsten findet man die Auffahrt, wenn man von der Ortsmitte den Wanderwegweisern zur Vazer Alp folgt. Dabei darf man sich auch nicht von den ersten Verbotsschildern direkt nach dem Ort abschrecken lassen - etwas weiter kommt dann noch das Schild, dass das Befahren mit Bewilligung gestattet ist.<br />Die 1100 Höhenmeter hoch zur Vazer Alp nahm einiges an Zeit in Anspruch, ist die Straße doch steil, einspurig und zumeist nur grob geschottert. Ich war die ganze Strecke nur im 1. Gang unterwegs und es dauerte rund eine halbe Stunde.<br />Direkt vor der Vazer Alp dann ein überraschend großer und gut ausgebauter Parkplatz."
+      },
+      {
+        "photos": [
+          {
+            "name": "002",
+            "alt": "Parkplatz Vazer Alp",
+            "date": "2022-07-09T08:08:41.000+02:00",
+            "width": 1920,
+            "height": 864
+          }
+        ],
+        "text": "Um kurz nach 8:00 war ich auf dem Parkplatz auf 1750m angekommen. Hier der Blick zurück ins Rheintal und die Schotterstraße, die ich hinaufgekommen war."
+      },
+      {
+        "photos": [
+          {
+            "name": "003",
+            "alt": "Vazer Alp",
+            "date": "2022-07-09T08:16:39.000+02:00",
+            "width": 1920,
+            "height": 1073
+          }
+        ],
+        "text": "Hier war ich dann schon an der Vazer Alp vorbeigelaufen. Auf der Vazer Alp selbst kann man auch einkehren und Produkte von der Alp verzehren.<br />Die Wettervorhersage für den Tag war blendend, was man auch hier schon sieht."
+      },
+      {
+        "photos": [
+          {
+            "name": "004",
+            "alt": "Wanderung Vazer Alp",
+            "date": "2022-07-09T08:23:06.000+02:00",
+            "width": 1920,
+            "height": 1071
+          }
+        ],
+        "text": "Mein erstes Zwischenziel war die Calandahütte. Von der Vazer Alp führen dort hin zwei (laut Wegweiser gleich lange) Wege. Für den Hinweg entschied ich mich für den oberen Weg, der nach meiner Meinung auch schneller ist. Dieser hat den notwendigen 200m Aufstieg gleich am Anfang. Hier der Blick zurück."
+      },
+      {
+        "photos": [
+          {
+            "name": "005",
+            "alt": "Lärchen auf Alpwiese",
+            "date": "2022-07-09T08:29:35.000+02:00",
+            "width": 1897,
+            "height": 1080
+          }
+        ],
+        "text": "Ganz nett, aber anstrengend, ging der Weg über Wiesen und an Lärchen vorbei durch das kleine 'Hinter Tal' hinauf."
+      },
+      {
+        "photos": [
+          {
+            "name": "006",
+            "alt": "Wanderweg Calandahütte",
+            "date": "2022-07-09T08:40:57.000+02:00",
+            "width": 1764,
+            "height": 1080
+          }
+        ],
+        "text": "Dabei kam ich schnell den Felsen der Haldensteiner Calanda näher, dessen Gipfelgrat hier erstmals richtig zu sehen ist. Auch wenn es von hier aus schwer zu erkennen ist, welche der Spitzen nun wirklich der Gipfel ist.<br />Der Aufstieg verläuft über den Steilhang ganz links auf den Grat und dann auf dem Grat zum höchsten Punkt."
+      },
+      {
+        "photos": [
+          {
+            "name": "007",
+            "alt": "Rheintal Höhenweg",
+            "date": "2022-07-09T08:46:47.000+02:00",
+            "width": 1920,
+            "height": 779
+          }
+        ],
+        "text": "Nach einer kleine Kuppe konnte ich dann über Chur hinweg (hier nicht sichtbar) nach Südwesten schauen. Das Hochtal, was nach hinten/recht geht, ist die Lenzerheide."
+      },
+      {
+        "photos": [
+          {
+            "name": "008",
+            "alt": "Grüne Alpwiesen",
+            "date": "2022-07-09T08:56:29.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Nach einer knappen Stunde hatte zu erst einmal den Aufstieg geschafft und das Ende des kleinen Tals erreicht. Hier der Blick zurück."
+      },
+      {
+        "photos": [
+          {
+            "name": "009",
+            "alt": "Wanderung Calandahütte",
+            "date": "2022-07-09T08:57:32.000+02:00",
+            "width": 1920,
+            "height": 1008
+          },
+          {
+            "name": "010",
+            "alt": "Calandahütte vor Piz Beverin",
+            "date": "2022-07-09T09:00:04.000+02:00",
+            "width": 1709,
+            "height": 857
+          }
+        ],
+        "text": "Zur nun sichtbaren Calandahütte ging es jetzt nur noch flach über diese Wiesen hinüber. Hinter der Calandahütte ist der Piz Beverin zu sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "011",
+            "alt": "Blick auf Aroser Weisshorn",
+            "date": "2022-07-09T09:16:17.000+02:00",
+            "width": 1617,
+            "height": 1080
+          }
+        ],
+        "text": "Auf dem nun einfachen Weg der Blick nach links zum Arosa Weisshorn in der Bildmitte. Auf den Bergen rechts davon war ich zwei Wochen zuvor vom kleinen Ort Tschiertschen aus unterwegs: <a href='/alpine/lenzerheide/20220625' target='_blank'>Wanderung Tschiertschen</a>."
+      },
+      {
+        "photos": [
+          {
+            "name": "012",
+            "alt": "Mountainbike Calandahütte",
+            "date": "2022-07-09T09:22:59.000+02:00",
+            "width": 1920,
+            "height": 1058
+          }
+        ],
+        "text": "Nach schnelle 1:15h erreichte ich die noch recht verlassene Calandahütte. Hier kann man auch eine weitere Möglichkeit für diese Calanda-Wanderung erkennen: Mit dem E-Mountainbike hinauf zur Calandahütte und dann auf den Gipfel weiter zu Fuß. Das machten im Laufe des Tages einige."
+      },
+      {
+        "photos": [
+          {
+            "name": "013",
+            "alt": "Langer Brunnen",
+            "date": "2022-07-09T09:33:40.000+02:00",
+            "width": 720,
+            "height": 1080
+          }
+        ],
+        "text": "Ab der Calandahütte ging es nun erst ohne viel Steigung weiter - zumindest bis zu diesem extra langen Brunnen. Ansonsten gab es auf der ganzen Wanderung praktisch keine Gratis-Erfrischung."
+      },
+      {
+        "photos": [
+          {
+            "name": "014",
+            "alt": "Wegweiser",
+            "date": "2022-07-09T09:37:49.000+02:00",
+            "width": 923,
+            "height": 1080
+          }
+        ],
+        "text": "Recht unnötiger Wegweiser. Er dient wohl nur dazu, dass man den 90° Knick des Wanderwegs nicht verpasst - aber der Weg ist sowieso immer total eindeutig."
+      },
+      {
+        "photos": [
+          {
+            "name": "015",
+            "alt": "Alpendistel",
+            "date": "2022-07-09T09:39:44.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Makro einer farbenfrohen Alpendistel. Verschiedene Alpenblumen gab es an diesem Tag noch reichlich auf den Wiesen."
+      },
+      {
+        "photos": [
+          {
+            "name": "016",
+            "alt": "Steiniger Weg",
+            "date": "2022-07-09T09:41:58.000+02:00",
+            "width": 1837,
+            "height": 1080
+          }
+        ],
+        "text": "Nun begann aber der wirkliche Aufstieg auf den Gipfel. Denn von der 2000m hoch gelegenen Calandahütte mussten nun 700 Höhenmeter bis hinauf zum Grat geschafft werden, dies fast ausschließlich auf einem steilen Wiesen- und Schotterhang. Der hier zu sehende Weg hinauf zu diesem Hang war noch breit planiert - wahrscheinlich um Vieh den Hang erreichbar zu machen."
+      },
+      {
+        "photos": [
+          {
+            "name": "017",
+            "alt": "Calandahütte und Blumen",
+            "date": "2022-07-09T09:44:16.000+02:00",
+            "width": 1631,
+            "height": 1080
+          }
+        ],
+        "text": "Blick zurück zur Calandahütte."
+      },
+      {
+        "photos": [
+          {
+            "name": "018",
+            "alt": "Wanderweg in Fels mit Zaun",
+            "date": "2022-07-09T09:45:12.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Nicht täuschen lassen: Nur dieses kurze Stück des Wegs ist so breit in den Fels geschlagen und mit Zaun gesichert."
+      },
+      {
+        "photos": [
+          {
+            "name": "019",
+            "alt": "Grashang Calanda",
+            "date": "2022-07-09T10:01:27.000+02:00",
+            "width": 1920,
+            "height": 853
+          },
+          {
+            "name": "020",
+            "alt": "Calandahütte und Chur",
+            "date": "2022-07-09T10:07:11.000+02:00",
+            "width": 1890,
+            "height": 1080
+          }
+        ],
+        "text": "Nun hatte ich den Grashang erreicht und der Weg wurde immer steiler und anstrengender. Hier wieder jeweils der Blick zurück zur Calandhütte. Nun tauchte auch erstmalig Chur dahinter im Rheintal auf."
+      },
+      {
+        "photos": [
+          {
+            "name": "021",
+            "alt": "Steiler Weg über Schotter",
+            "date": "2022-07-09T10:21:14.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Dann hörte das Gras auf und der Weg wurde richtig steil. Das fand ich recht unangenehm zu gehen, da es einfach zu direkt hinauf ging. Ich hätte ein paar Serpentinen oder zumindest Stufen in dem feinen Schiefer begrüßt. Außerdem ahnte ich schon, dass der Abstieg auch nicht gut zu gehen sein wird. Bis zur Calandahütte führt er nämlich auf dem selben Weg zurück."
+      },
+      {
+        "photos": [
+          {
+            "name": "022",
+            "alt": "Tiefblick ins Rheintal",
+            "date": "2022-07-09T10:43:57.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Blick vom rechten Rand des Hangs hinab ins Rheintal. Unten rechts muss irgendwo die Vazer Alp sein, an der ich gestartet war. Hinten ist die <a href='/alpine/brandnertal/20150829' target='_blank'>Schesaplana</a> und <a href='/alpine/praettigau/20141012' target='_blank'>Sulzfluh</a> zu erkennen."
+      },
+      {
+        "photos": [
+          {
+            "name": "023",
+            "alt": "Aufstieg Calanda",
+            "date": "2022-07-09T10:46:38.000+02:00",
+            "width": 1779,
+            "height": 1080
+          }
+        ],
+        "text": "Nach 1:30h von der Calandahütte aus erreichte ich den 2700m hohen Gipfelgrat. Dort kommt auch ein blauer Alpinweg vom Taminatal hinzu, deshalb macht der Wegweiser hier Sinn."
+      },
+      {
+        "photos": [
+          {
+            "name": "024",
+            "alt": "Ringelspitz",
+            "date": "2022-07-09T10:47:53.000+02:00",
+            "width": 1920,
+            "height": 955
+          }
+        ],
+        "text": "Der mühsame Aufstieg wird dann auch gleich belohnt mit dem beeindruckenden Blick auf die Ringelspitz auf der Westseite des Taminatals. Rechts ist der Stausee Gigerwaldsee zu sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "025",
+            "alt": "Fettes Steinmännchen",
+            "date": "2022-07-09T10:50:47.000+02:00",
+            "width": 1756,
+            "height": 1080
+          }
+        ],
+        "text": "Ich gönnte mir hier erst mal eine Pause und musste nun sogar eine Jacke überziehen, da der Wind doch frisch und böig war.<br />Von hier waren es jetzt nur noch 100 Höhenmeter zum Gipfel - weniger anstrengend, aber anspruchsvoller."
+      },
+      {
+        "photos": [
+          {
+            "name": "026",
+            "alt": "Felswand Calanda",
+            "date": "2022-07-09T10:51:31.000+02:00",
+            "width": 1920,
+            "height": 985
+          }
+        ],
+        "text": "Noch einmal der Blick hinab Richtung Vazer Alp und Rheintal. Die halbrunde Felswand der Calanda fand ich toll. Links wurde jetzt auch deutlicher das Ziel meiner Wanderung erkennbar."
+      },
+      {
+        "photos": [
+          {
+            "name": "027",
+            "alt": "Gipfelgrat Haldensteiner Calanda",
+            "date": "2022-07-09T10:57:40.000+02:00",
+            "width": 1837,
+            "height": 1080
+          }
+        ],
+        "text": "Zuerst war der Weg noch richtig idyllisch. Aber da hinten kann man schon erkennen, dass sich das gleich ändert."
+      },
+      {
+        "photos": [
+          {
+            "name": "028",
+            "alt": "Schwierigkeit Calanda",
+            "date": "2022-07-09T10:59:19.000+02:00",
+            "width": 1920,
+            "height": 868
+          },
+          {
+            "name": "029",
+            "alt": "Wanderweg Haldensteiner Calanda",
+            "date": "2022-07-09T11:06:38.000+02:00",
+            "width": 1920,
+            "height": 914
+          }
+        ],
+        "text": "Zweimal geht es auf dem Weg zum Gipfel vom wenig ausgesetzten Grat auf den Westhang der Calanda. Auch wenn der Weg eigentlich nicht schwierig ist, muss man dabei aber doch den 1900m tiefen Blick in das Taminatal ertragen. Für Höhenangstfreie sicher kein Problem..."
+      },
+      {
+        "photos": [
+          {
+            "name": "030",
+            "alt": "Ausgesetzter Steilhang Calanda",
+            "date": "2022-07-09T11:10:15.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Der meiste Nervenkitzel für mich war diese Hangquerung direkt vor dem Gipfel. Ich hatte sie aber erwartet und Schritt für Schritt (möglichst ohne Blick in die Tiefe ;) ) ging es dann doch recht gut. Hier der Blick zurück."
+      },
+      {
+        "photos": [
+          {
+            "name": "031",
+            "alt": "Gipfel Haldensteiner Calanda",
+            "date": "2022-07-09T11:15:20.000+02:00",
+            "width": 1836,
+            "height": 1080
+          }
+        ],
+        "text": "Ankunft um 11:15 nach gut 3h Aufstieg auf dem Gipfel der 2800m hohen Haldensteiner Calanda. :)<br />Blick am zerbrochenen (Blitzeinschlag?) Gipfelkreuz vorbei nach Norden. Die Sicht und das Wetter waren - wie man sieht - ausgesprochen gut."
+      },
+      {
+        "photos": [
+          {
+            "name": "032",
+            "alt": "Kunkelspass",
+            "date": "2022-07-09T11:18:31.000+02:00",
+            "width": 1920,
+            "height": 841
+          }
+        ],
+        "text": "Zeit für eine aussichtsreiche Pause. Der Gipfel bietet zwar nicht viel Platz, aber mit mir waren nur vier andere auf dem Gipfel.<br />Hier der Blick nach Süden. Rechts das Taminatal, das hinten über den Kunkelspass mit dem Rheintal verbunden ist. Links ist der Grat des Aufstiegs zu sehen. Dahinter die Felsberger Calanda, der zweite Gipfel der Calanda."
+      },
+      {
+        "photos": [
+          {
+            "name": "033",
+            "alt": "Blick Calanda Chur",
+            "date": "2022-07-09T11:27:23.000+02:00",
+            "width": 1920,
+            "height": 706
+          }
+        ],
+        "text": "Aussicht nach Osten. Unten ist Chur zu sehen.<br />Nun entstanden ein paar kleinere Wölkchen, die aber zum Glück kaum die Sicht beeinträchtigten."
+      },
+      {
+        "photos": [
+          {
+            "name": "034",
+            "alt": "Taminatal",
+            "date": "2022-07-09T11:37:20.000+02:00",
+            "width": 1745,
+            "height": 1080
+          }
+        ],
+        "text": "Noch einer der Tiefblick nach Norden ins Taminatal, in dem sich der türkise Mapraggsee befindet. Diese Seite des Gipfels war richtig steil... aber eigentlich ging es in alle Richtungen steil hinab."
+      },
+      {
+        "photos": [
+          {
+            "name": "035",
+            "alt": "Fernlick Calanda",
+            "date": "2022-07-09T11:37:38.000+02:00",
+            "width": 1785,
+            "height": 1080
+          }
+        ],
+        "text": "Gleiche Richtung, aber Tele. Der Grasberg ganz links, der Muntaluna, steht auch noch auf meiner Agenda für dieses Jahr."
+      },
+      {
+        "photos": [
+          {
+            "name": "036",
+            "alt": "Felsgrat",
+            "date": "2022-07-09T11:38:50.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Fehlt eigentlich nur noch Nord/Ost, wo der Grat der Calanda aus schroffem steilen Fels besteht. Hinten links der <a href='/alpine/praettigau/20180908' target='_blank'>Falknis</a>."
+      },
+      {
+        "photos": [
+          {
+            "name": "037",
+            "alt": "Gigerwaldsee",
+            "date": "2022-07-09T11:47:22.000+02:00",
+            "width": 1831,
+            "height": 1080
+          }
+        ],
+        "text": "Nach einer halben Stunde machte ich mich dann wieder auf den Abstieg auf dem gleichen Weg. Erstes Foto, nach dem ich den unangenehmen Schotterhang geschafft hatte."
+      },
+      {
+        "photos": [
+          {
+            "name": "038",
+            "alt": "Panorama Calanda",
+            "date": "2022-07-09T11:48:18.000+02:00",
+            "width": 1920,
+            "height": 815
+          }
+        ],
+        "text": "Wenn der Weg auf dem Grat oder wie hier auf der Ostseite verlief, dann war er einfach."
+      },
+      {
+        "photos": [
+          {
+            "name": "039",
+            "alt": "Bergweg Haldensteiner Calanda",
+            "date": "2022-07-09T11:53:07.000+02:00",
+            "width": 1818,
+            "height": 1080
+          }
+        ],
+        "text": "Ein letzter Blick in das Calfeisental hinein, an dessen Ende sich der Piz Sardona befindet."
+      },
+      {
+        "photos": [
+          {
+            "name": "040",
+            "alt": "Kletterei Calanda",
+            "date": "2022-07-09T11:55:30.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Das ist die einzige Stelle des Wegs, an dem man die Hände braucht, da man diese Felsen runter- bzw. hochkraxeln muss. Finde ich aber deutlich besser, als diese feinen Schotterhangwege."
+      },
+      {
+        "photos": [
+          {
+            "name": "041",
+            "alt": "Geographie Calanda",
+            "date": "2022-07-09T12:09:39.000+02:00",
+            "width": 1920,
+            "height": 1064
+          }
+        ],
+        "text": "Blick das 'Hinter Tal' (das ich am Morgen hinaufgelaufen war) hinab zum Rheintal. Beim Aufstieg konnte ich die tolle Geographie aber gar nicht erkennen."
+      },
+      {
+        "photos": [
+          {
+            "name": "042",
+            "alt": "Alpine Bergbiene",
+            "date": "2022-07-09T12:14:12.000+02:00",
+            "width": 1920,
+            "height": 1052
+          }
+        ],
+        "text": "Nach dem ich den Grat geschafft hatte, Zeit für eine Makroaufnahme einer Biene auf 2700m Höhe."
+      },
+      {
+        "photos": [
+          {
+            "name": "043",
+            "alt": "Steiler Schotterhang",
+            "date": "2022-07-09T12:27:02.000+02:00",
+            "width": 1920,
+            "height": 768
+          }
+        ],
+        "text": "Nach einer weiteren kurzen Pause machte ich mich auf den mühsamen Abstieg den steilen Schotterhang hinab. Ich traute der Rutschfestigkeit dieses feinen Gerölls nicht so ganz, andere Wanderer waren deutlich schneller unterwegs."
+      },
+      {
+        "photos": [
+          {
+            "name": "044",
+            "alt": "Wanderweg an Abgrund",
+            "date": "2022-07-09T12:48:33.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Mit jedem Meter Abstieg wurde der Weg zum Glück flacher, hier hatte ich dann wieder das Gras erreicht."
+      },
+      {
+        "photos": [
+          {
+            "name": "045",
+            "alt": "Panarama Calandahütte",
+            "date": "2022-07-09T13:25:49.000+02:00",
+            "width": 1920,
+            "height": 832
+          }
+        ],
+        "text": "Gegen 13:30 hatte ich dann wieder die Calandahütte erreicht. Die Terrasse war nun gut gefühlt, ich machte meine Pause aber hier auf der Wiese nebendran.<br />Da ich noch viel Zeit hatte, entschied ich mich für einen kleinen Extraschlenker nach Süden."
+      },
+      {
+        "photos": [
+          {
+            "name": "046",
+            "alt": "Murmeltier Rossplatte",
+            "date": "2022-07-09T13:48:14.000+02:00",
+            "width": 1571,
+            "height": 1080
+          }
+        ],
+        "text": "Eigentlich wollte ich nur die glänzende Felswand 'Rossplatte' hinten rechts aufnehmen, aber wenn es da auch noch ein Murmeltier gibt, dann muss es halt auch noch auf das Bild. :)"
+      },
+      {
+        "photos": [
+          {
+            "name": "047",
+            "alt": "Haldensteiner Alp",
+            "date": "2022-07-09T13:58:01.000+02:00",
+            "width": 1920,
+            "height": 669
+          }
+        ],
+        "text": "Ansonsten war der Umweg nach Süden nicht lohnen, da er auf dem Zufahrtsweg zur Calandahütte hinabging. Aber wenn ich ihn nicht gegangen wäre, hätte ich nicht das Kreuz auf dem grünen Buckel hier rechts entdeckt. Auf der Karte war dieser Punkt mit `Sennenstein` benannt. Obwohl kein Weg dorthin führt, entschloss ich noch einen Abstecher dorthin zu machen."
+      },
+      {
+        "photos": [
+          {
+            "name": "048",
+            "alt": "Schiefermauer",
+            "date": "2022-07-09T14:09:44.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Als erstes fiel mir dort die toll aufgeschichtete Schiefermauer oberhalb des Steilhangs auf."
+      },
+      {
+        "photos": [
+          {
+            "name": "049",
+            "alt": "Aussichtspunkt Sennenstein",
+            "date": "2022-07-09T14:23:01.000+02:00",
+            "width": 1920,
+            "height": 968
+          }
+        ],
+        "text": "Aber wirklich beeindruckend war von dort die Aussicht hinab auf Chur. Ich muss fast sagen, eines der schönsten und überraschendsten Aussichtspunkte, die ich kenne."
+      },
+      {
+        "photos": [
+          {
+            "name": "050",
+            "alt": "Chur",
+            "date": "2022-07-09T14:23:33.000+02:00",
+            "width": 1920,
+            "height": 993
+          }
+        ],
+        "text": "Ganz Chur ist vom Sennenstein im Detail zu erkennen."
+      },
+      {
+        "photos": [
+          {
+            "name": "051",
+            "alt": "Haldensteiner Calanda",
+            "date": "2022-07-09T14:27:27.000+02:00",
+            "width": 1820,
+            "height": 1080
+          }
+        ],
+        "text": "Und von dort hat man auch den Blick zurück zur Calandahütte und den anstrengenden Hang hinauf zur Haldensteiner Calanda."
+      },
+      {
+        "photos": [
+          {
+            "name": "052",
+            "alt": "Aussichtsbank mit Tiefblick",
+            "date": "2022-07-09T14:28:09.000+02:00",
+            "width": 1338,
+            "height": 1080
+          }
+        ],
+        "text": "Und sogar eine Bank gibt es auf dem Sennenstein. Das war auf jeden Fall ein lohnender Abstecher."
+      },
+      {
+        "photos": [
+          {
+            "name": "053",
+            "alt": "Wegweiser Haldensteiner Alp",
+            "date": "2022-07-09T14:41:41.000+02:00",
+            "width": 1673,
+            "height": 1080
+          }
+        ],
+        "text": "Nun musste ich ein Stück auf gleichem Weg zurück und auch wieder etwas hochlaufen bis zu diesem Wegweiser. Hier wäre ich eigentlich auf den Weg getroffen, wenn ich normal von der Cladanahütte zurückgelaufen wären.<br />Im Hintergrund wieder die Haldensteiner Calanda."
+      },
+      {
+        "photos": [
+          {
+            "name": "054",
+            "alt": "Fahrweg Calandahütte",
+            "date": "2022-07-09T14:43:39.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "055",
+            "alt": "Alpweg durch Lärchenwald",
+            "date": "2022-07-09T14:44:32.000+02:00",
+            "width": 1920,
+            "height": 1025
+          }
+        ],
+        "text": "Nun musste ich 100 Höhenmeter auf dieser asphaltierten Straße nach Neusäss absteigen. Sie ging aber durch einen wunderbaren lichten Lärchenwald... und auch für die mich überholenden Mountainbiker war das sicher schön."
+      },
+      {
+        "photos": [
+          {
+            "name": "056",
+            "alt": "Lärchenwald",
+            "date": "2022-07-09T14:55:27.000+02:00",
+            "width": 853,
+            "height": 1080
+          },
+          {
+            "name": "057",
+            "alt": "Hangweg mit Lärchen",
+            "date": "2022-07-09T14:58:34.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Bei der Alp Neusäss verließ ich die Straße wieder und der Weg ging extrem malerisch durch diesen Lärchenwald den Hang entlang. Den muss ich unbedingt mal im Herbst bei leuchtenden gelben Lärchen machen."
+      },
+      {
+        "photos": [
+          {
+            "name": "058",
+            "alt": "Margerite",
+            "date": "2022-07-09T15:00:55.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Zur Abwechslung eine Aufnahme einer Margerite am Wegrand."
+      },
+      {
+        "photos": [
+          {
+            "name": "059",
+            "alt": "Weg auf roter Erde",
+            "date": "2022-07-09T15:16:34.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Auf der Karte sah der Weg eigentlich sehr gleichmäßig absteigend aus, aber es ging durchaus häufiger mal steiler runter und auch wieder rauf. Deshalb ist dieser untere Weg sicher zeitlich länger als der obere Weg, den ich hingelaufen war.<br />Was ich hier noch bemerkenswert finde, wie rötlich die staubtrockene Erde ist."
+      },
+      {
+        "photos": [
+          {
+            "name": "060",
+            "alt": "Vazer Alp",
+            "date": "2022-07-09T15:25:44.000+02:00",
+            "width": 1920,
+            "height": 1019
+          }
+        ],
+        "text": "Gegen 15:30 erreicht ich dann wieder die Vazer Alp. Anschließend dann natürlich auch wieder die schwierige Fahrt hinab ins Rheintal... diesmal kamen mir auch noch drei Autos entgegen - es war nicht einfach jeweils eine Ausweichstelle zu finden."
+      }
+    ],
+    "outro": "Fazit: Die Aussicht von der Haldensteiner Calanda ist toll, insbesondere hinab in das Taminatal und zur Ringelspitz. Den Weg von der Calandahütte bis zum Grat fand ich aber auf dem Steilhang einfach nicht schön zu laufen und machte mir keinen Spaß, deshalb werde ich persönlich es wahrscheinlich nicht noch einmal machen.<br />Von der Vazer Alp aus ist der Gipfel gut zu erreichen. Ich war dafür 7,5h unterwegs, aber es geht sicher auch deutlich schneller. Den kleinen Abstecher zum Sennenstein kann ich uneingeschränkt für jeden Wanderer empfehlen."
+  }
+]

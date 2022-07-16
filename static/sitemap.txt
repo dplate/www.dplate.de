@@ -217,3 +217,4 @@ https://www.dplate.de/alpine/toggenburg/20211120
 https://www.dplate.de/alpine/toggenburg/20220515
 https://www.dplate.de/alpine/lenzerheide/20220625
 https://www.dplate.de/alpine/davos/20220702
+https://www.dplate.de/alpine/pizol/20220709
