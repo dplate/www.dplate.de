@@ -1,0 +1,642 @@
+[
+  {
+    "destination": "malbun",
+    "date": "d20220809",
+    "type": "hike",
+    "track": true,
+    "detailMap": "swiss",
+    "shortTitle": "Fürstensteig",
+    "title": "Gaflei - Fürstensteig",
+    "title3d": {
+      "offsetY": 3,
+      "fontSize": 8,
+      "align": "right",
+      "width": 1920,
+      "height": 499
+    },
+    "movie": "ejHS_fawMz8",
+    "intro": "Den Fürstensteig in Liechtenstein war ich bereits vor einigen Jahre in Kombination mit einer längeren Wanderung gegangen. Leider war er damals am Morgen noch im Schatten, so dass ich mir vornahm ihn noch einmal am Abend zu gehen.<br />Diesen Dienstag machte ich deshalb etwas früher Feierabend und stellt mein Auto um 17:00 in Gaflei ab, von wo der Fürstensteig am Schnellsten erreichbar ist.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Herbstzeitlose",
+            "date": "2022-08-09T17:09:02.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Von Gaflei geht es zu erst ein Stück auf einem Feldweg bergauf. Am Wegrand eine Herbstzeitlose."
+      },
+      {
+        "photos": [
+          {
+            "name": "002",
+            "alt": "Parkplatz Gaflei",
+            "date": "2022-08-09T17:09:54.000+02:00",
+            "width": 1920,
+            "height": 828
+          }
+        ],
+        "text": "Der Parkplatz in Gaflei ist nicht besonders groß, dafür aber gratis. Um diese Uhrzeit war es aber kein Problem, einen freien Platz zu finden. Im Hintergrund das neu gebaute Clinicum Alpinum, eine Privatklinik.<br />Auf knapp 1500m startet die Wanderung bereits recht hoch, dadurch waren die Temperaturen erträglich."
+      },
+      {
+        "photos": [
+          {
+            "name": "003",
+            "alt": "Wanderweg im Wald",
+            "date": "2022-08-09T17:14:04.000+02:00",
+            "width": 875,
+            "height": 1080
+          },
+          {
+            "name": "004",
+            "alt": "Hangweg",
+            "date": "2022-08-09T17:24:04.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Dann verlässt der Weg zum Fürstensteig die Straße und der Pfad geht leicht ansteigend in zwei Serpentinen im Wald hinauf."
+      },
+      {
+        "photos": [
+          {
+            "name": "005",
+            "alt": "Einstieg Fürstensteig",
+            "date": "2022-08-09T17:27:01.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Dann lichtet sich der Wald und man erreicht die Felswand, durch die der Fürstensteig führt. Ein Schild warnt vor Steinschlag, denn der gesamte Fels ist nicht besonders stabil. Man sollte ihn definitiv nicht bei Regen laufen."
+      },
+      {
+        "photos": [
+          {
+            "name": "006",
+            "alt": "Aussicht Rheintal",
+            "date": "2022-08-09T17:29:35.000+02:00",
+            "width": 1401,
+            "height": 1080
+          }
+        ],
+        "text": "Bevor ich weiterging, noch ein Blick hinab ins 1200m tiefere Rheintal. Dahinter der <a href='/alpine/alpstein' target='_blank'>Alpstein</a> mit den typischen Quellwolken."
+      },
+      {
+        "photos": [
+          {
+            "name": "007",
+            "alt": "Breiter Weg",
+            "date": "2022-08-09T17:30:54.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Zu Beginn ist der Weg noch sehr einfach und breit in den Fels geschlagen. Auf der linken Seite geht es aber immer steil hinab."
+      },
+      {
+        "photos": [
+          {
+            "name": "008",
+            "alt": "Gesicherter Weg",
+            "date": "2022-08-09T17:31:54.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Blick zurück auf den ersten kurzen Abschnitt."
+      },
+      {
+        "photos": [
+          {
+            "name": "009",
+            "alt": "Aussichtsbank",
+            "date": "2022-08-09T17:33:37.000+02:00",
+            "width": 1855,
+            "height": 1080
+          }
+        ],
+        "text": "Auf einer kleinen Felsnase wurde sogar eine Bank mit Geländer aufgebaut. Wer nur mal in den Fürstensteig hineinschnuppern will, kann auch einfach nur bis hier gehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "010",
+            "alt": "Gaflei über Rheintal",
+            "date": "2022-08-09T17:35:07.000+02:00",
+            "width": 823,
+            "height": 1080
+          }
+        ],
+        "text": "Blick von dort zurück nach Gaflei. Wie man sieht noch keine große Entfernung."
+      },
+      {
+        "photos": [
+          {
+            "name": "011",
+            "alt": "Brücke in Felswand",
+            "date": "2022-08-09T17:36:39.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Der Weg wird jedes Frühjahr wieder in Stand gesetzt, zum Teil auch mit kleinen Brücken."
+      },
+      {
+        "photos": [
+          {
+            "name": "012",
+            "alt": "Felsenweg",
+            "date": "2022-08-09T17:37:46.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "In vielen Kurven führt der Weg immer in die Täler hinein und anschließend an Felsvorsprüngen vorbei, behält aber seine grobe Richtung nach Norden."
+      },
+      {
+        "photos": [
+          {
+            "name": "013",
+            "alt": "Wandern Liechtenstein",
+            "date": "2022-08-09T17:38:39.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Blick zurück zur Aussichtsbank."
+      },
+      {
+        "photos": [
+          {
+            "name": "014",
+            "alt": "Weg mit Geländer",
+            "date": "2022-08-09T17:40:59.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Zum Teil ist der Weg sogar mit Geländern gesichert. Ich denke aber, dass sie diese nicht mehr neu bauen und jetzt eher auf Drahtseile zum Festhalten konzentrieren. Wirklich brauchen tut man aber beides hier nicht."
+      },
+      {
+        "photos": [
+          {
+            "name": "015",
+            "alt": "Felswand",
+            "date": "2022-08-09T17:42:31.000+02:00",
+            "width": 720,
+            "height": 1080
+          }
+        ],
+        "text": "Der ganze Fürstensteig ist sehr interessant und man sollte sich (wie ich an diesem Abend) viel Zeit lassen."
+      },
+      {
+        "photos": [
+          {
+            "name": "016",
+            "alt": "Felsiger Hang",
+            "date": "2022-08-09T17:44:31.000+02:00",
+            "width": 1920,
+            "height": 936
+          }
+        ],
+        "text": "Der weitere Verlauf der Felswand. Suchspiel: Wer finden den anderen Wanderer auf dem Bild?<br />Insgesamt waren mir nur vier Leute im ganzen Fürstensteig begegnet - ein Vorteil der späten Stunde."
+      },
+      {
+        "photos": [
+          {
+            "name": "017",
+            "alt": "Schwierigkeit Fürstensteig",
+            "date": "2022-08-09T17:48:25.000+02:00",
+            "width": 1441,
+            "height": 1080
+          }
+        ],
+        "text": "Der (für mich) schwierigste Abschnitt des Fürstensteig. Hier ging es in drei kleinen Serpentinen bergab und leider auch ein kleines Stück ohne erreichbares Drahseil. Danach ging es aber gleich wieder angenehmer weiter."
+      },
+      {
+        "photos": [
+          {
+            "name": "018",
+            "alt": "Felswand über Rheintal",
+            "date": "2022-08-09T17:56:57.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Wieder ein Blick zurück auf einen weiteren Abschnitt des Wegs."
+      },
+      {
+        "photos": [
+          {
+            "name": "019",
+            "alt": "Bergweg durch Fels",
+            "date": "2022-08-09T17:59:37.000+02:00",
+            "width": 1426,
+            "height": 1080
+          }
+        ],
+        "text": "Hier änderte sich jetzt der Charakter des Wegs und zuerst ging es in diese kleine Schlucht mit einem 180° Wendung hindurch."
+      },
+      {
+        "photos": [
+          {
+            "name": "020",
+            "alt": "Aufstieg auf Grat",
+            "date": "2022-08-09T18:00:48.000+02:00",
+            "width": 720,
+            "height": 1080
+          },
+          {
+            "name": "021",
+            "alt": "Gratweg",
+            "date": "2022-08-09T18:01:41.000+02:00",
+            "width": 1060,
+            "height": 1080
+          }
+        ],
+        "text": "Und anschließend auf einem schmalen Grat hinauf. Auf dem zweitem Bild der Blick zurück. Dank der guten Sicherung kein Problem. :)"
+      },
+      {
+        "photos": [
+          {
+            "name": "022",
+            "alt": "Fürstensteig",
+            "date": "2022-08-09T18:02:31.000+02:00",
+            "width": 1920,
+            "height": 890
+          }
+        ],
+        "text": "Tele auf den zurückgelegten Weg durch den Fels."
+      },
+      {
+        "photos": [
+          {
+            "name": "023",
+            "alt": "Serpentine im Fels",
+            "date": "2022-08-09T18:07:25.000+02:00",
+            "width": 1920,
+            "height": 847
+          },
+          {
+            "name": "024",
+            "alt": "Wegzustand Fürstensteig",
+            "date": "2022-08-09T18:08:58.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Zum Abschluss des Fürstensteigs geht es noch zwei Serpentinen diesen Schotterhang hinauf."
+      },
+      {
+        "photos": [
+          {
+            "name": "025",
+            "alt": "Saminatal",
+            "date": "2022-08-09T18:10:35.000+02:00",
+            "width": 1920,
+            "height": 663
+          },
+          {
+            "name": "026",
+            "alt": "Warnschild Fürstensteig",
+            "date": "2022-08-09T18:14:02.000+02:00",
+            "width": 945,
+            "height": 1080
+          }
+        ],
+        "text": "Nach einem Drehkreuz kann man nun vom Grat aus auf der anderen Seite hinab in das Saminatal blicken.<br />Inzwischen war es kurz nach 18:00. Wer nur am Fürstensteig interessiert ist, könnte nun umdrehen und auf dem gleichen Weg zurücklaufen. Ich hatte mir aber eine Runde vorgenommen und wollte noch auf die knapp 2000m hohe Alpspitz laufen."
+      },
+      {
+        "photos": [
+          {
+            "name": "027",
+            "alt": "Kuegrat",
+            "date": "2022-08-09T18:15:40.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Der klassische Weg durch den Fürstensteig führt auf diesem Grat weiter <a href='/alpine/malbun/20181013' target='_blank'>über den Kuegrat und Garsellikopf</a>, um dann anschließend auf einem weiteren Steig die Drei Schwestern zu überqueren. Zurück nach Gaflei würde es dann per Bus gehen - das ist natürlich nichts für eine Feierabendwanderung."
+      },
+      {
+        "photos": [
+          {
+            "name": "028",
+            "alt": "Serpentinen mit Geländer",
+            "date": "2022-08-09T18:28:23.000+02:00",
+            "width": 1920,
+            "height": 1074
+          }
+        ],
+        "text": "Ich musste nun stattdessen diesen unwirklich breit ausgebautem Weg in vielen Serpentinen hinauflaufen. Ich denke über diesen Weg werden die Kühe zur Garsälli-Alp gebracht und deshalb wurde er dermaßen gut abgesichert. Steil und anstrengend waren diese 100 Höhenmeter trotzdem."
+      },
+      {
+        "photos": [
+          {
+            "name": "029",
+            "alt": "Pause auf Bank",
+            "date": "2022-08-09T18:28:51.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Zum Glück gab es auch hier in der Mitte eine schöne Bank für eine Pause. Ich hatte zwar nichts zum Essen dabei, aber etwas zum Trinken war mit."
+      },
+      {
+        "photos": [
+          {
+            "name": "030",
+            "alt": "Wanderung Gafleisattel ",
+            "date": "2022-08-09T18:35:22.000+02:00",
+            "width": 1656,
+            "height": 1080
+          }
+        ],
+        "text": "Fast oben. Der Blick hinab auf die Serpentinen und die Bank."
+      },
+      {
+        "photos": [
+          {
+            "name": "031",
+            "alt": "Chemi",
+            "date": "2022-08-09T18:36:34.000+02:00",
+            "width": 914,
+            "height": 1080
+          }
+        ],
+        "text": "Oben auf dem Pass (Chemi) wurde der Weg durch den Fels geschlagen."
+      },
+      {
+        "photos": [
+          {
+            "name": "032",
+            "alt": "Landschaft Liechtenstein",
+            "date": "2022-08-09T18:37:09.000+02:00",
+            "width": 1920,
+            "height": 1047
+          }
+        ],
+        "text": "Auf Südseite des Grats ist es deutlich idyllischer.<br />Nun muss man aber aufpassen nicht einfach den Hauptweg weiterzulaufen, sondern (ohne Wegweiser) direkt nach rechts auf den Grat abzubiegen. Sonst verpasst man die Alpspitz."
+      },
+      {
+        "photos": [
+          {
+            "name": "033",
+            "alt": "Wurzelweg Alpspitz",
+            "date": "2022-08-09T18:47:00.000+02:00",
+            "width": 1628,
+            "height": 1080
+          }
+        ],
+        "text": "Der Weg hinauf auf die Alpspitz geht durch Latschkiefern und über viele Wurzeln, ist aber nicht schwierig."
+      },
+      {
+        "photos": [
+          {
+            "name": "034",
+            "alt": "Panorama Alpspitz",
+            "date": "2022-08-09T18:50:34.000+02:00",
+            "width": 1873,
+            "height": 1080
+          }
+        ],
+        "text": "Den Gipfel der Alpspitz erreichte ich um 18:50.<br />In der Felswand unter der Alpspitz führt der Fürstensteig. Langsam senkte sich die Sonne Richtung Horizont."
+      },
+      {
+        "photos": [
+          {
+            "name": "035",
+            "alt": "Aussicht Alpspitz",
+            "date": "2022-08-09T18:58:06.000+02:00",
+            "width": 1920,
+            "height": 783
+          }
+        ],
+        "text": "Blick von der Alpspitz nach Norden."
+      },
+      {
+        "photos": [
+          {
+            "name": "036",
+            "alt": "St. Galler Rheintal",
+            "date": "2022-08-09T18:58:51.000+02:00",
+            "width": 1920,
+            "height": 799
+          }
+        ],
+        "text": "Und in die andere Richtung nach Süden.<br />Links ist <a href='/alpine/malbun/20170716' target='_blank'>der Grat zum Rappenstein</a> zu sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "037",
+            "alt": "Schönberg",
+            "date": "2022-08-09T18:59:14.000+02:00",
+            "width": 1920,
+            "height": 1047
+          }
+        ],
+        "text": "Tele nach Osten zum <a href='/alpine/malbun/20181117' target='_blank'>Schönberg</a>, der recht einfach von Malbun aus erreichbar ist."
+      },
+      {
+        "photos": [
+          {
+            "name": "038",
+            "alt": "Berge Liechtensteins",
+            "date": "2022-08-09T19:09:43.000+02:00",
+            "width": 1920,
+            "height": 1035
+          }
+        ],
+        "text": "Der Abstieg von der Alpspitz geht zum größten Teil auf Wiesen. Zum Teil war der Weg arg erodiert und steil. Während bis jetzt wenig los war, kamen mir jetzt doch einige Wanderer entgegen - die wahrscheinlich zum Sonnenuntergang auf die Alpspitz liefen."
+      },
+      {
+        "photos": [
+          {
+            "name": "039",
+            "alt": "Abendwanderung",
+            "date": "2022-08-09T19:14:38.000+02:00",
+            "width": 1920,
+            "height": 973
+          },
+          {
+            "name": "040",
+            "alt": "Wanderweg Alpspitz",
+            "date": "2022-08-09T19:16:10.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "041",
+            "alt": "Wandern bei Sonnenuntergang",
+            "date": "2022-08-09T19:20:56.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "042",
+            "alt": "Wiesenweg",
+            "date": "2022-08-09T19:26:30.000+02:00",
+            "width": 1920,
+            "height": 1027
+          }
+        ],
+        "text": "Schönes Licht beim 250m Abstieg von der Alpspitz zum Bargällasattel."
+      },
+      {
+        "photos": [
+          {
+            "name": "043",
+            "alt": "Mittelpunkt von Liechtenstein",
+            "date": "2022-08-09T19:28:47.000+02:00",
+            "width": 1920,
+            "height": 952
+          }
+        ],
+        "text": "Ankunft auf dem Bargällasattel um 19:30. Von hier könnte man noch einen kleinen Abstecher zum Mittelpunkt von Liechtenstein machen. Da dieser aber bereits im Schatten lag, verzichtete ich."
+      },
+      {
+        "photos": [
+          {
+            "name": "044",
+            "alt": "Bargällasattel",
+            "date": "2022-08-09T19:29:29.000+02:00",
+            "width": 1920,
+            "height": 971
+          },
+          {
+            "name": "045",
+            "alt": "Fahrweg Bargällasattel",
+            "date": "2022-08-09T19:30:43.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Vom Bargällasattel folgte ich nun dem direkten Weg zurück nach Gaflei. Bis zu dieser (bewirteten) Alp kann man den Fahrweg noch vermeiden und die Serpentinen auf einem richtigen Wanderweg abkürzen."
+      },
+      {
+        "photos": [
+          {
+            "name": "046",
+            "alt": "Kreuz im Sonnenuntergang",
+            "date": "2022-08-09T19:36:10.000+02:00",
+            "width": 1582,
+            "height": 1080
+          }
+        ],
+        "text": "Kreuz an der Alp."
+      },
+      {
+        "photos": [
+          {
+            "name": "047",
+            "alt": "Fahrweg über Rheintal",
+            "date": "2022-08-09T19:38:17.000+02:00",
+            "width": 1920,
+            "height": 883
+          },
+          {
+            "name": "048",
+            "alt": "Mountainbike Liechtenstein",
+            "date": "2022-08-09T19:40:34.000+02:00",
+            "width": 1920,
+            "height": 938
+          }
+        ],
+        "text": "Von der Alp bis nach Gaflei geht dann ausschließlich auf der Schotterstraße die noch fehlenden knapp 200m hinab. Durch das schöne Abendlicht und die Aussicht trotzdem sehr schön."
+      },
+      {
+        "photos": [
+          {
+            "name": "049",
+            "alt": "Gaflei am Abend",
+            "date": "2022-08-09T19:51:50.000+02:00",
+            "width": 1920,
+            "height": 1015
+          }
+        ],
+        "text": "Ankunft in Gaflei gegen 20:00. Für die ganze Runde hatte ich also 3h gebraucht."
+      },
+      {
+        "photos": [
+          {
+            "name": "050",
+            "alt": "Weg durch Lärchenwald",
+            "date": "2022-08-09T19:56:29.000+02:00",
+            "width": 822,
+            "height": 1080
+          },
+          {
+            "name": "051",
+            "alt": "Aussichtsturm Gaflei",
+            "date": "2022-08-09T19:59:52.000+02:00",
+            "width": 1223,
+            "height": 1080
+          }
+        ],
+        "text": "Da es noch hell war, habe ich noch einen zusätzlichen (10min) Abstecher zum Aussichtsturm von Gaflei gemacht. Dieser liegt etwas unterhalb von Gaflei."
+      },
+      {
+        "photos": [
+          {
+            "name": "052",
+            "alt": "Felswand Gaflei",
+            "date": "2022-08-09T20:01:07.000+02:00",
+            "width": 1920,
+            "height": 1077
+          },
+          {
+            "name": "053",
+            "alt": "Rheintal",
+            "date": "2022-08-09T20:03:12.000+02:00",
+            "width": 1870,
+            "height": 1080
+          }
+        ],
+        "text": "Von dort kann man auf die Felswand des Fürstensteigs und in das Rheintal blicken. Also nicht wirklich etwas, was ich nicht schon vorher gesehen hatte."
+      },
+      {
+        "photos": [
+          {
+            "name": "054",
+            "alt": "Sonnenuntergang Rheintal",
+            "date": "2022-08-09T20:26:28.000+02:00",
+            "width": 1920,
+            "height": 983
+          },
+          {
+            "name": "055",
+            "alt": "Straße nach Gaflei",
+            "date": "2022-08-09T20:28:08.000+02:00",
+            "width": 1920,
+            "height": 541
+          },
+          {
+            "name": "056",
+            "alt": "Sonnenuntergang Alpen",
+            "date": "2022-08-09T20:33:25.000+02:00",
+            "width": 1920,
+            "height": 1053
+          }
+        ],
+        "text": "Noch ein kurzer Halt zum Sonnenuntergangfotografieren nach der Abfahrt von Gaflei."
+      },
+      {
+        "photos": [
+          {
+            "name": "057",
+            "alt": "Mond mit Naafkopf",
+            "date": "2022-08-09T20:34:50.000+02:00",
+            "width": 1325,
+            "height": 805
+          }
+        ],
+        "text": "Und stark vergrößertes Bild vom Mond und daneben der <a href='/alpine/malbun/20161016' target='_blank'>Naafkopf</a>"
+      }
+    ],
+    "outro": "Fazit: Sicher eine der interessantesten 3h Rundwanderungen in der Gegend. Der Fürstensteig ist abends sehr sinnvoll, da die Sonne in die Felswand scheint, es kein Problem mehr beim Parken gibt und nur Wenige unterwegs sind. Natürlich sollte man nicht zu knapp mit dem Sonnenuntergang kalkulieren, so dass man sich Zeit lassen kann.<br />Der Fürstensteig selbst ist nicht schwieriger als andere Bergwege (rot/weiß) und zum größten Teil gut gesichert."
+  }
+]

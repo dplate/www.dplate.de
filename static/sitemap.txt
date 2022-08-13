@@ -16,13 +16,13 @@ https://www.dplate.de/alpine/damuels
 https://www.dplate.de/alpine/davos
 https://www.dplate.de/alpine/dolomiten
 https://www.dplate.de/alpine/disentis
+https://www.dplate.de/alpine/ebnit
 https://www.dplate.de/alpine/feldberg
 https://www.dplate.de/alpine/flumserberg
 https://www.dplate.de/alpine/fronalpstock
 https://www.dplate.de/alpine/gargellen
 https://www.dplate.de/alpine/gotthard
 https://www.dplate.de/alpine/grasgehren
-https://www.dplate.de/alpine/hohekugel
 https://www.dplate.de/alpine/ischgl
 https://www.dplate.de/alpine/kaunertal
 https://www.dplate.de/alpine/laax
@@ -58,7 +58,7 @@ https://www.dplate.de/alpine/gargellen/20150822
 https://www.dplate.de/alpine/davos/20150808
 https://www.dplate.de/alpine/flumserberg/20150726
 https://www.dplate.de/alpine/pizol/20150712
-https://www.dplate.de/alpine/hohekugel/20150628
+https://www.dplate.de/alpine/ebnit/20150628
 https://www.dplate.de/alpine/toggenburg/20150606
 https://www.dplate.de/alpine/disentis/20150514
 https://www.dplate.de/alpine/lenzerheide/20150318
@@ -219,3 +219,4 @@ https://www.dplate.de/alpine/lenzerheide/20220625
 https://www.dplate.de/alpine/davos/20220702
 https://www.dplate.de/alpine/pizol/20220709
 https://www.dplate.de/alpine/ebnit/20220724
+https://www.dplate.de/alpine/malbun/20220809

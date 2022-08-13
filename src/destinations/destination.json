@@ -40,6 +40,10 @@
     "name": "Disentis"
   },
   {
+    "destination": "ebnit",
+    "name": "Ebnit"
+  },
+  {
     "destination": "feldberg",
     "name": "Feldberg",
     "skiTeaser": true
@@ -59,10 +63,6 @@
   {
     "destination": "grasgehren",
     "name": "Grasgehren"
-  },
-  {
-    "destination": "hohekugel",
-    "name": "Hohe Kugel"
   },
   {
     "destination": "ischgl",
