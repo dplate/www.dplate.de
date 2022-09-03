@@ -220,3 +220,4 @@ https://www.dplate.de/alpine/davos/20220702
 https://www.dplate.de/alpine/pizol/20220709
 https://www.dplate.de/alpine/ebnit/20220724
 https://www.dplate.de/alpine/malbun/20220809
+https://www.dplate.de/alpine/lenzerheide/20220828

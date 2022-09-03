@@ -1,0 +1,542 @@
+[
+  {
+    "destination": "lenzerheide",
+    "date": "d20220828",
+    "type": "hike",
+    "track": true,
+    "detailMap": "swiss",
+    "shortTitle": "Tguma",
+    "title": "Glaspass - Tguma",
+    "title3d": {
+      "offsetY": 0,
+      "fontSize": 8,
+      "align": "center",
+      "width": 1920,
+      "height": 448
+    },
+    "movie": "gLfTAqhAPBg",
+    "intro": "Für den letzten Augustsonntag war die Wettervorhersage zuerst noch ziemlich unsicher, mit dem stabilsten Wetter rund um Lenzerheide. Nach etwas Suchen fand ich die Heinzenberger Gratwanderung. Da ich keine Lust auf ein zusätzliche Busfahrt hatte, verwandelte ich sie in eine Rundwanderung. Als Startpunkt wählte ich unverändert den 1800m hohen Glaspass, den ich über eine (teilweise einspurige) Asphaltstraße von Thusis aus um kurz nach 9:00 erreichte. Neben dem Wanderparkplatz (5CHF), gibt es dort noch ein Gasthaus und eine Postbushaltestelle.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Glaspass",
+            "date": "2022-08-28T09:22:45.000+02:00",
+            "width": 1920,
+            "height": 820
+          }
+        ],
+        "text": "Blick auf den eigentliche Glaspass. Die Straße endet dort, zu Fuß kann man aber auf der anderen Seite in das Safiental absteigen. Für mich ging es aber den Berg hinauf nach Süden zum Glaser Grat."
+      },
+      {
+        "photos": [
+          {
+            "name": "002",
+            "alt": "Piz Beverin",
+            "date": "2022-08-28T09:37:18.000+02:00",
+            "width": 1866,
+            "height": 1080
+          }
+        ],
+        "text": "Nach den ersten Höhenmetern der Blick zurück über den Glaspass hinweg zum beeindruckenden, fast 3000m hohen, Piz Beverin. Vom Glaspass aus führt dort nur ein blauer Alpinweg hinauf.<br />Das Wetter übrigens schon deutlich besser als erwartet."
+      },
+      {
+        "photos": [
+          {
+            "name": "003",
+            "alt": "Urige Wurzelhütte",
+            "date": "2022-08-28T09:55:00.000+02:00",
+            "width": 720,
+            "height": 1080
+          }
+        ],
+        "text": "Auf halbem Weg zum Glaser Grat kann man Pause in dieser urigen Wurzelhütte machen, in der sich sogar eine Sitzbank befindet."
+      },
+      {
+        "photos": [
+          {
+            "name": "004",
+            "alt": "Panoramatafel Glaser Grat",
+            "date": "2022-08-28T10:01:47.000+02:00",
+            "width": 1867,
+            "height": 1080
+          }
+        ],
+        "text": "Der Gipfel des 2100m hohen Glaser Grats war schnell nach einer knappen Stunde erreicht. An der winterlichen Panoramakarte kann man schon erkennen, dass dieser Berg auch ein beliebter Gipfel für Schneeschuhwanderer ist."
+      },
+      {
+        "photos": [
+          {
+            "name": "005",
+            "alt": "Glaser Grat",
+            "date": "2022-08-28T10:02:50.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Blick vom Gipfel auf den weiteren Verlauf des Wegs über den Glaser Grats. Links geht es zwar weit hinunter in das Safiental, aber der Grat selbst ist breit und somit einfach."
+      },
+      {
+        "photos": [
+          {
+            "name": "006",
+            "alt": "Aussicht Glaser Grat",
+            "date": "2022-08-28T10:03:15.000+02:00",
+            "width": 1920,
+            "height": 872
+          }
+        ],
+        "text": "Und der Blick zurück Richtung Glaspass."
+      },
+      {
+        "photos": [
+          {
+            "name": "007",
+            "alt": "Wanderung Glaser Grat",
+            "date": "2022-08-28T10:10:39.000+02:00",
+            "width": 1920,
+            "height": 818
+          },
+          {
+            "name": "008",
+            "alt": "Heinzenberger Gratweg",
+            "date": "2022-08-28T10:11:46.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "009",
+            "alt": "Gratweg",
+            "date": "2022-08-28T10:13:14.000+02:00",
+            "width": 1920,
+            "height": 997
+          },
+          {
+            "name": "010",
+            "alt": "Abstieg Glaser Grat",
+            "date": "2022-08-28T10:15:03.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Vier sehr ähnliche Bilder vom Glaser Grat während des Abstiegs. Jeweils der Blick zurück - ein sehr lustiger und schön zu wandernder Weg."
+      },
+      {
+        "photos": [
+          {
+            "name": "011",
+            "alt": "Lüschgrat",
+            "date": "2022-08-28T10:15:48.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Und hier zur Abwechslung der Blick nach vorne. Nach dem Glaser Grat ist der nächste Berg des Grat eigentlich der Lüschgrat hier links im Bild. Über diesen führt ebenfalls ein Weg, aber da der offizielle Wanderung rechts daran vorbei führt, werde ich ihn ebenfalls ausgelassen... und natürlich spare ich so ein paar Höhenmeter."
+      },
+      {
+        "photos": [
+          {
+            "name": "012",
+            "alt": "Piz Beverin hinter Glaser Grat",
+            "date": "2022-08-28T10:17:55.000+02:00",
+            "width": 1920,
+            "height": 810
+          },
+          {
+            "name": "013",
+            "alt": "Piz Beverin mit Wolken",
+            "date": "2022-08-28T10:18:13.000+02:00",
+            "width": 1920,
+            "height": 1065
+          }
+        ],
+        "text": "Nun tauchte wieder der Piz Beverin im Rücken auf. Fotogen geschmückt mit einigen Nebelfetzen und Quellwolken."
+      },
+      {
+        "photos": [
+          {
+            "name": "014",
+            "alt": "Bruchalp",
+            "date": "2022-08-28T10:38:50.000+02:00",
+            "width": 1920,
+            "height": 743
+          }
+        ],
+        "text": "Aussicht während der Umwanderung des Lüschgrats auf einem Feldweg.<br />Rechts der Glaser Grat, das buckelige Geländer unterhalb nennte sich Bruchalp. Und links ist der Lüschersee zu sehen, der beim Rückweg besucht werden wird."
+      },
+      {
+        "photos": [
+          {
+            "name": "015",
+            "alt": "Alp Lüsch",
+            "date": "2022-08-28T10:53:45.000+02:00",
+            "width": 1812,
+            "height": 1080
+          }
+        ],
+        "text": "Vorbei geht der Weg an der Alp Lüsch und einem großen Gehege für Schweine, die sich aber nur faul sonnten."
+      },
+      {
+        "photos": [
+          {
+            "name": "016",
+            "alt": "Fahrstraße und Piz Beverin",
+            "date": "2022-08-28T10:59:40.000+02:00",
+            "width": 1352,
+            "height": 1080
+          }
+        ],
+        "text": "Noch ein weiterer Blick zurück zum Piz Beverin, noch immer auf dem breiten Weg."
+      },
+      {
+        "photos": [
+          {
+            "name": "017",
+            "alt": "Pascuminersee",
+            "date": "2022-08-28T11:04:10.000+02:00",
+            "width": 1920,
+            "height": 1063
+          },
+          {
+            "name": "018",
+            "alt": "Reflexion in Bergsee",
+            "date": "2022-08-28T11:09:55.000+02:00",
+            "width": 1809,
+            "height": 1080
+          },
+          {
+            "name": "019",
+            "alt": "Bischolasee",
+            "date": "2022-08-28T11:10:22.000+02:00",
+            "width": 1920,
+            "height": 888
+          }
+        ],
+        "text": "Dann erreichte ich den 2000m hohen Bischolapass, auf dem sich der Pascuminersee und der Bischolasee befindet. Während ich den Pascuminersee nur von oben bewunderte, ging der Weg direkt am Bischolasee vorbei."
+      },
+      {
+        "photos": [
+          {
+            "name": "020",
+            "alt": "Alp Bischola",
+            "date": "2022-08-28T11:15:28.000+02:00",
+            "width": 1572,
+            "height": 1080
+          }
+        ],
+        "text": "Etwas hinter dem Pass befindet sich die kleine Gaststätte Alp Bischola, an der ich aber nur vorbeiwanderte. Denn nun folgte der Aufstieg zum höchsten Punkt der Wanderung! Na gut, es ging nur 160m weiter rauf."
+      },
+      {
+        "photos": [
+          {
+            "name": "021",
+            "alt": "Wanderweg mit Piz Beverin",
+            "date": "2022-08-28T11:26:08.000+02:00",
+            "width": 1724,
+            "height": 1080
+          }
+        ],
+        "text": "Mal wieder ein Tele zurück zum Piz Beverin."
+      },
+      {
+        "photos": [
+          {
+            "name": "022",
+            "alt": "Bischolapass",
+            "date": "2022-08-28T11:33:42.000+02:00",
+            "width": 1920,
+            "height": 986
+          }
+        ],
+        "text": "Und der Blick zurück zur Alp Bischola (links) und den umgangenen Lüschgrat. Rechts das Safiental."
+      },
+      {
+        "photos": [
+          {
+            "name": "023",
+            "alt": "Tguma",
+            "date": "2022-08-28T11:39:29.000+02:00",
+            "width": 1863,
+            "height": 1080
+          }
+        ],
+        "text": "Ankunft auf dem 2160m hohen Tguma schließlich nach 2,5h Stunden vom Glaspass. Kein besonders spektakulärer Gipfel, aber mit Kreuz und Gipfelbuch. Bei der Wanderung an diesem Tag ging es aber ohnehin nicht um Gipfel und viele Höhenmetern, sondern um den Gratweg selbst."
+      },
+      {
+        "photos": [
+          {
+            "name": "024",
+            "alt": "Safiental",
+            "date": "2022-08-28T11:39:48.000+02:00",
+            "width": 1854,
+            "height": 1080
+          }
+        ],
+        "text": "Steiler Blick vom Tguma hinab in das 1000m tiefere Safiental."
+      },
+      {
+        "photos": [
+          {
+            "name": "025",
+            "alt": "Panorama Tguma",
+            "date": "2022-08-28T11:59:56.000+02:00",
+            "width": 1920,
+            "height": 679
+          }
+        ],
+        "text": "Und zurück zum Bischolapass und den Weg des Aufstiegs."
+      },
+      {
+        "photos": [
+          {
+            "name": "026",
+            "alt": "Tguma mit Piz Beverin",
+            "date": "2022-08-28T12:14:47.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Nun folgte beim Abstieg vom Tguma der originellste Teil des Wegs, geht es doch auf dem Grat über viele kleine Buckel hinweg. Auch hier immer einfach und nicht besonders ausgesetzt."
+      },
+      {
+        "photos": [
+          {
+            "name": "027",
+            "alt": "Tguma mit Safiental",
+            "date": "2022-08-28T12:16:32.000+02:00",
+            "width": 1920,
+            "height": 964
+          }
+        ],
+        "text": "Blick zurück zum Tguma nach den ersten Metern des Abstiegs."
+      },
+      {
+        "photos": [
+          {
+            "name": "028",
+            "alt": "Kleine Hütte in den Bergen",
+            "date": "2022-08-28T12:31:12.000+02:00",
+            "width": 1829,
+            "height": 1080
+          }
+        ],
+        "text": "Kleine Hütte am Wegrand. Dahinter ist der Westgrat von Lenzerheide zu sehen, von links nach rechts: <a href='/alpine/lenzerheide/20161029' target='_blank'>Fulhorn</a>, Stätzerhorn, Piz Danis und Piz Scalottas."
+      },
+      {
+        "photos": [
+          {
+            "name": "029",
+            "alt": "Heinzenberger Gratwanderung",
+            "date": "2022-08-28T12:41:43.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Der Gratweg hier war sehr abwechslungsreich und ist insgesamt ein sehr schöner Wanderweg."
+      },
+      {
+        "photos": [
+          {
+            "name": "030",
+            "alt": "Steiler Abstieg",
+            "date": "2022-08-28T12:46:51.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Der schwierigste Abschnitt war dieser steile Abstieg hier. Aber trotzdem noch nichts, wo man die Hände benutzen müsste."
+      },
+      {
+        "photos": [
+          {
+            "name": "031",
+            "alt": "Rabiusa Schlucht",
+            "date": "2022-08-28T12:47:31.000+02:00",
+            "width": 1920,
+            "height": 1067
+          }
+        ],
+        "text": "Blick das Safiental hinab, das in die Rheinschlucht mündet. Dahinter der Flimserstein."
+      },
+      {
+        "photos": [
+          {
+            "name": "032",
+            "alt": "Wanderung Heinzenberg",
+            "date": "2022-08-28T12:48:39.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Wirklich ein überraschend hübscher Weg."
+      },
+      {
+        "photos": [
+          {
+            "name": "033",
+            "alt": "Wanderweg zur Präzer Höhi",
+            "date": "2022-08-28T12:51:46.000+02:00",
+            "width": 1794,
+            "height": 1080
+          },
+          {
+            "name": "034",
+            "alt": "Sommerwanderung Beverin",
+            "date": "2022-08-28T13:01:49.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Noch zwei weitere Eindrücke vom Grat zwischen Tguma und dem letzten Gipfel meiner Rundwanderung, der Präzer Höhi."
+      },
+      {
+        "photos": [
+          {
+            "name": "035",
+            "alt": "Präzer Höhi",
+            "date": "2022-08-28T13:19:12.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Ankunft nach dem tollen Weg auf der 2120m hohen Präzer Höhi, die auch Mutta heißt. Inzwischen war ich knapp 4h unterwegs - aber in meiner geplanten Runde war das nun das Ende des Grats. Von nun würde es zurück zum Glaspass gehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "036",
+            "alt": "Piz Fess",
+            "date": "2022-08-28T13:32:47.000+02:00",
+            "width": 1882,
+            "height": 1080
+          }
+        ],
+        "text": "Blick hinüber zum 2880m hohen Piz Fess auf der anderen Seite des Safientals."
+      },
+      {
+        "photos": [
+          {
+            "name": "037",
+            "alt": "Solarskilift",
+            "date": "2022-08-28T13:32:51.000+02:00",
+            "width": 1304,
+            "height": 801
+          }
+        ],
+        "text": "Und Tele nach Tenna und dessen mit Solarplatten ausgestattetem (kurzen) Skilift."
+      },
+      {
+        "photos": [
+          {
+            "name": "038",
+            "alt": "Naturpark Beverin",
+            "date": "2022-08-28T14:04:36.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Nach einer längeren Pause ging es um 14:00 zurück. Der Abstieg von der Präzer Höhi zuerst auf dem Hinweg. "
+      },
+      {
+        "photos": [
+          {
+            "name": "039",
+            "alt": "Fahrstraße Sarner Alp",
+            "date": "2022-08-28T14:33:09.000+02:00",
+            "width": 1920,
+            "height": 874
+          }
+        ],
+        "text": "Dann zweigte ich aber vom Grat zur (bewirtschafteten) Sarner Alp ab. Von dort ging es dann eine Serpentine auf diesem betonierten Fahrweg hinab, den man auch mit privatem Auto befahren darf."
+      },
+      {
+        "photos": [
+          {
+            "name": "040",
+            "alt": "Wandern Heinzenberg",
+            "date": "2022-08-28T14:46:55.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "041",
+            "alt": "Hänge von Heinzenberg",
+            "date": "2022-08-28T15:13:06.000+02:00",
+            "width": 1920,
+            "height": 796
+          }
+        ],
+        "text": "Dann verließ ich aber die Straße wieder und es ging oberhalb der Weiden von Heinzenberg auf normalen Wanderwegen den Hang entlang. Hier der Blick jeweils zurück."
+      },
+      {
+        "photos": [
+          {
+            "name": "042",
+            "alt": "Hütte vor Piz Beverin",
+            "date": "2022-08-28T15:19:57.000+02:00",
+            "width": 1920,
+            "height": 1044
+          }
+        ],
+        "text": "Nun tauchte auch wieder der Piz Beverin auf, weil ich mich langsam dem Glaspass näherte."
+      },
+      {
+        "photos": [
+          {
+            "name": "043",
+            "alt": "Kleine Hütte an Bergsee",
+            "date": "2022-08-28T15:22:15.000+02:00",
+            "width": 1920,
+            "height": 975
+          }
+        ],
+        "text": "Eine kleine Hütte an einem kleinen Teich. Der ganze Rückweg war immer um die 1900m hoch, es ging aber immer etwas rauf und runter. Da es nun auch ziemlich warm und windstill war, war es doch anstrengend."
+      },
+      {
+        "photos": [
+          {
+            "name": "044",
+            "alt": "Weg über Wiesen",
+            "date": "2022-08-28T15:41:56.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "045",
+            "alt": "Wanderweg Bischolapass",
+            "date": "2022-08-28T15:47:36.000+02:00",
+            "width": 1920,
+            "height": 777
+          }
+        ],
+        "text": "Der Weg ist aber schön angelegt und die Landschaft ist abwechslungsreicher, als man beim Blick vom Tal nach Heinzenberg vermuten würde."
+      },
+      {
+        "photos": [
+          {
+            "name": "046",
+            "alt": "Lüschersee",
+            "date": "2022-08-28T16:18:08.000+02:00",
+            "width": 1920,
+            "height": 825
+          }
+        ],
+        "text": "Nach einem nicht so schönen 80m Aufstieg auf einem Schotterweg erreichte ich kurz nach 16:00 den Lüschersee unterhalb des Glaser Grats. Der eigentlich viel größere See wurde in der Vergangenheit abgelassen, weil man die Gefahr eines Bergrutsches vermindern wollte. Jetzt glaubt man, dass der See keine Gefahr darstellt und er wird wieder aufgestaut und füllt sich langsam. Außerdem dient er auch als Wasserquelle für die Beschneiung des Skigebiets Heinzenberg."
+      },
+      {
+        "photos": [
+          {
+            "name": "047",
+            "alt": "Ehemaliger Lüschersee",
+            "date": "2022-08-28T16:22:36.000+02:00",
+            "width": 1920,
+            "height": 1003
+          }
+        ],
+        "text": "Hier kann man die ehemaligen Ausmaße des Sees erahnen. Dahinter der am Morgen umwanderte Lüschgrat.<br />Anschließend nur noch etwas Abstieg auf einem Feldweg hinunter zum Parkplatz auf dem Glaspass, den ich um 17:00 erreichte"
+      }
+    ],
+    "outro": "Fazit: Die Heinzenberger Gratwanderung ist eine tolle Tour auf nicht zu schwierigen Wanderwegen und meistens über 2000m. Wer (wie ich( keine Lust auf den Aufwand mit der Rückfahrt mit Postbussen hat, kann den abwechslungsreichen Gratweg jederzeit abbrechen und (auf ebenfalls schönen) Wegen zum Glaspass zurückkehren. Mit 20km war meine gewählte Runde recht lang, aber es waren keine großen Höhenunterschiede dabei."
+  }
+]
