@@ -1,0 +1,452 @@
+[
+  {
+    "destination": "alpstein",
+    "date": "d20220902",
+    "type": "hike",
+    "track": true,
+    "detailMap": "swiss",
+    "shortTitle": "Mutschen",
+    "title": "Wildhaus - Mutschen",
+    "title3d": {
+      "offsetY": 3,
+      "fontSize": 8,
+      "align": "center",
+      "width": 1920,
+      "height": 529
+    },
+    "movie": "2zB7-a-r3r0",
+    "intro": "An diesem ersten Septemberfreitag hatte ich mir freigenommen, um mal wieder eine Wanderung im Alpstein zu unternehmen. Als Ziel wählte ich den 2100m hohen Mutschen, den ich via Zwinglipass erreichen wollte. Als Ausgangspunkt eignet sich dafür am besten das 1000m hohe Wildhaus im Toggenburg.<br />Wenn nicht viel los ist (oder man früh genug dran ist), kann man im 'Zentrum' von Wildhaus umsonst parken, sonst muss man den kostenpflichtigen großen Wanderparkplatz verwenden. Ich startete die Wanderung gegen 8:30 bei strahlendem Sonnenschein.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Wanderweg Gamplüt",
+            "date": "2022-09-02T08:46:30.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Da ich in der Gegend inzwischen alle Wegvarianten kenne, wählte ich für die ersten Höhenmeter den Weg Richtung Gamplüt. Dieser führt zuerst in ein paar Serpentinen auf altem Weg im Wald hinauf."
+      },
+      {
+        "photos": [
+          {
+            "name": "002",
+            "alt": "Wanderung Wildhaus",
+            "date": "2022-09-02T09:00:07.000+02:00",
+            "width": 1920,
+            "height": 947
+          }
+        ],
+        "text": "Dann verließ ich den Hauptweg und querte hier die ehemaligen Skihänge von Gamplüt, um in den Flüretobel zu kommen. Das ist der Blick zurück."
+      },
+      {
+        "photos": [
+          {
+            "name": "003",
+            "alt": "Flüretobel",
+            "date": "2022-09-02T09:14:44.000+02:00",
+            "width": 853,
+            "height": 1080
+          }
+        ],
+        "text": "Im Flüretobel ging es dann steil (aber ungefährlich) hinauf. Do dort ein neues Wasserreservoir gebaut wurde, war der Weg noch gerölliger als er es sowieso ist.."
+      },
+      {
+        "photos": [
+          {
+            "name": "004",
+            "alt": "Baum mit Gesicht",
+            "date": "2022-09-02T09:17:24.000+02:00",
+            "width": 1123,
+            "height": 1080
+          }
+        ],
+        "text": "Kurz vor dem Ende des Tobels wurde ich von einem lustigen Baum mit wirrer Frisur beobachtet..."
+      },
+      {
+        "photos": [
+          {
+            "name": "005",
+            "alt": "Zehespitz",
+            "date": "2022-09-02T09:42:20.000+02:00",
+            "width": 1809,
+            "height": 1080
+          }
+        ],
+        "text": "Nach rund 400m Aufstieg von Wildhaus erreichte ich nach dem Tobel das flache Tal der Teselalp (und auch den Fahrweg, der von Gamplüt aus hier her führt). Hier der Blick zurück, rechts die Zehespitz mit der Schofbergwand."
+      },
+      {
+        "photos": [
+          {
+            "name": "006",
+            "alt": "Wanderweg Zwinglipasshütte",
+            "date": "2022-09-02T09:54:39.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "007",
+            "alt": "Saumweg Zwinglipass",
+            "date": "2022-09-02T10:00:37.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Den Fahrweg verließ ich aber bereits an der Alp Tesel schon wieder und nun ging es auf toll gebautem Saumweg in vielen Serpentinen den steilen Hang Richtung Zwinglipass hinauf."
+      },
+      {
+        "photos": [
+          {
+            "name": "008",
+            "alt": "Churfirsten",
+            "date": "2022-09-02T10:15:26.000+02:00",
+            "width": 1815,
+            "height": 1080
+          }
+        ],
+        "text": "Blick beim Aufstieg das Tal hinab. Im Hintergrund die Churfirsten."
+      },
+      {
+        "photos": [
+          {
+            "name": "009",
+            "alt": "Girenspitz und Altmann",
+            "date": "2022-09-02T10:40:39.000+02:00",
+            "width": 1920,
+            "height": 705
+          }
+        ],
+        "text": "Nach 300m Aufstieg erreichte ich die flacheren Wiesen der Chreialp. Das Tolle hier oben ist der Blick auf die sehenswerte Girenspitz (oder Girespitz) links und ganz rechts der 2400m hohe Altmann."
+      },
+      {
+        "photos": [
+          {
+            "name": "010",
+            "alt": "Girenspitz",
+            "date": "2022-09-02T10:45:26.000+02:00",
+            "width": 1920,
+            "height": 948
+          }
+        ],
+        "text": "Die fantastische Girenspitz ist auch noch ein weiteres Foto wert. :)"
+      },
+      {
+        "photos": [
+          {
+            "name": "011",
+            "alt": "Chreialp",
+            "date": "2022-09-02T10:51:28.000+02:00",
+            "width": 885,
+            "height": 1080
+          }
+        ],
+        "text": "Vorbei geht es beim Aufstieg über die Wiesen an der kleinen Siedlung der Chreialp, die mit einer Transportseilbahn versorgt wird. Der Grat im Hintergrund gehört übrigens zum <a href='/alpine/alpstein/20211031' target='_blank'>Gulmen</a>, auf dem ich im letzten Spätherbst war."
+      },
+      {
+        "photos": [
+          {
+            "name": "012",
+            "alt": "Bergdistel",
+            "date": "2022-09-02T11:06:34.000+02:00",
+            "width": 1562,
+            "height": 1080
+          }
+        ],
+        "text": "Eine kleine Bergdistel beim nicht allzu anstrengendem Aufstieg zur Zwinglipasshütte."
+      },
+      {
+        "photos": [
+          {
+            "name": "013",
+            "alt": "Zwinglipasshütte",
+            "date": "2022-09-02T11:14:11.000+02:00",
+            "width": 1817,
+            "height": 1080
+          }
+        ],
+        "text": "Ich erreichte die 2000m hohe Zwinglipasshütte um 11:15 nach 1000m Aufstieg. Durch den fast ununterbrochenen Aufstieg ist man also recht flott hier oben. Ich kehrte allerdings nicht ein, sondern ging gleich weiter zum eigentlichen Zwinglipass, der noch 10m höher liegt."
+      },
+      {
+        "photos": [
+          {
+            "name": "014",
+            "alt": "Zwinglipass",
+            "date": "2022-09-02T11:24:43.000+02:00",
+            "width": 1758,
+            "height": 1080
+          }
+        ],
+        "text": "10min später war ich dann am richtigen Zwinglipass und machte die erste längere Pause. Vom Pass aus hat man einen tollen Blick auf der anderen Seite hinab zum <a href='/alpine/alpstein/20170617#fählensee_010' target='_blank'>Fählensee</a> und dahinter dem <a href='/alpine/alpstein/20131019' target='_blank'>Hohen Kasten</a>."
+      },
+      {
+        "photos": [
+          {
+            "name": "015",
+            "alt": "Altmann",
+            "date": "2022-09-02T11:48:34.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Vom Zwinglipass ging es dann (etwas felsiger) hinauf auf den Chreialpfirst - ein Grasrücken, der den Zwinglipass mit dem Mutschen verbindet.<br />Hier der Blick zurück auf den alles überragenden Altmann."
+      },
+      {
+        "photos": [
+          {
+            "name": "016",
+            "alt": "Rundwanderung Zwinglipass",
+            "date": "2022-09-02T12:01:23.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Blick vom Cheialpfirst in das nun tiefe Tal der Fählenalp. Dahinter wieder der Altmann."
+      },
+      {
+        "photos": [
+          {
+            "name": "017",
+            "alt": "Wanderung Alpstein",
+            "date": "2022-09-02T12:08:12.000+02:00",
+            "width": 1920,
+            "height": 872
+          },
+          {
+            "name": "018",
+            "alt": "Chreialpfirst",
+            "date": "2022-09-02T12:13:54.000+02:00",
+            "width": 1920,
+            "height": 621
+          }
+        ],
+        "text": "Und so harmlos ist es oben auf dem Chreialpfirst. Jeweils der Blick zurück, was eindeutig die schönere Blickrichtung ist. Rechts vom Altmann tauchte nun auch der <a href='/alpine/alpstein/20160911' target='_blank'>Säntis</a> auf, mit 2500m der höchste Gipfel des Alpsteins."
+      },
+      {
+        "photos": [
+          {
+            "name": "019",
+            "alt": "Felsen des Alpsteins",
+            "date": "2022-09-02T12:19:57.000+02:00",
+            "width": 901,
+            "height": 1080
+          }
+        ],
+        "text": "Am Ende des Cheialpfirsts hat man dann noch mal einen beeindruckenden Tiefblick in das Tal der Fählenalp. Dahinter die steilen Felsen des Hundsteins."
+      },
+      {
+        "photos": [
+          {
+            "name": "020",
+            "alt": "Wanderung Mutschensattel",
+            "date": "2022-09-02T12:30:32.000+02:00",
+            "width": 1920,
+            "height": 922
+          }
+        ],
+        "text": "Vom Chreialpfirst zum Mutschensattel musste ich dann noch diese steile Wiese queren. Durch dieses Tal wird dann nach der Besteigung des Mutschen der Abstieg zurück nach Wildhaus folgen."
+      },
+      {
+        "photos": [
+          {
+            "name": "021",
+            "alt": "Mutschen",
+            "date": "2022-09-02T12:41:03.000+02:00",
+            "width": 1920,
+            "height": 759
+          }
+        ],
+        "text": "Vom Mutschensattel sind es nur 10min hinauf auf den Gipfel des Mutschen. Der Weg ist aber recht steil und ist nicht besonders gesichert. Für diese Rundwanderung muss man aber auch nicht unbedingt auf den Mutschen, denn auch ich musste anschließend auf gleichem Weg wieder zum Mutschensattel zurück.<br />Der Mutschen ist ein sehr schmaler Gipfel, der Richtung Rheintal 1700m abfällt. Sitzend kann man dort oben schön Pause machen, aber um auf dem Grat normal herumzulaufen, war es mir zu steil.<br />Hier auf dem Foto sieht man das Gipfelkreuz, rechts den Altmann und davor den Chreialpfirst, den ich überwandert hatte."
+      },
+      {
+        "photos": [
+          {
+            "name": "022",
+            "alt": "Kreuzberge",
+            "date": "2022-09-02T12:41:16.000+02:00",
+            "width": 1665,
+            "height": 1080
+          }
+        ],
+        "text": "Der Blick in die andere Richtung beeindruckt vor allem durch die Kreuzberge, die sich zwischen der Saxerlücke und dem Mutschen befinden. Rechts das tiefe Rheintal."
+      },
+      {
+        "photos": [
+          {
+            "name": "023",
+            "alt": "Aussicht Mutschen",
+            "date": "2022-09-02T12:41:26.000+02:00",
+            "width": 1920,
+            "height": 637
+          }
+        ],
+        "text": "Und hier die komplette Aussicht Richtung Rheintal als Panorama."
+      },
+      {
+        "photos": [
+          {
+            "name": "024",
+            "alt": "Mutschensattel",
+            "date": "2022-09-02T12:56:25.000+02:00",
+            "width": 1920,
+            "height": 805
+          }
+        ],
+        "text": "Zurück auf dem Mutschensattel machte ich dann meine zweite lange Pause, bei der ich ebenfalls einen schönen Blick auf die Kreuzberge hatte."
+      },
+      {
+        "photos": [
+          {
+            "name": "025",
+            "alt": "Blauer Eisenhut",
+            "date": "2022-09-02T13:32:43.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Ein blauer Eisenhut nach dem ersten steileren Abstieg vom Mutschensattel (hier verschwommen im Hintergrund)."
+      },
+      {
+        "photos": [
+          {
+            "name": "026",
+            "alt": "Felsschichtungen",
+            "date": "2022-09-02T13:40:46.000+02:00",
+            "width": 1791,
+            "height": 1080
+          }
+        ],
+        "text": "Blick vom Tal auf die aufgefalteten Felsschichtungen des Gätterifirsts, der sich zwischen dem Tal des Abstiegs und dem Rheintal befindet."
+      },
+      {
+        "photos": [
+          {
+            "name": "027",
+            "alt": "Himmelblauer Blattkäfer",
+            "date": "2022-09-02T13:51:43.000+02:00",
+            "width": 1452,
+            "height": 988
+          }
+        ],
+        "text": "Ein kleiner Himmelblauer Blattkäfer (scheint wohl wirklich der Name zu sein) beim Abstieg."
+      },
+      {
+        "photos": [
+          {
+            "name": "028",
+            "alt": "Alp Gruebe",
+            "date": "2022-09-02T13:57:03.000+02:00",
+            "width": 1703,
+            "height": 1080
+          },
+          {
+            "name": "029",
+            "alt": "Wanderweg Mutschen",
+            "date": "2022-09-02T14:03:27.000+02:00",
+            "width": 1658,
+            "height": 1080
+          }
+        ],
+        "text": "Nach sehr gleichmäßigen Abstieg durch das Tal erreichte hier die Alp Gruebe, die vor allem damit auffällt, dass sie mitten in einem Felssturz liegt und außerdem der Weg an ihr vorbei durch tiefen Matsch führt.<br />Im Hintergrund ist übrigens noch einmal der Mutsch zu sehen, der von hier sehr unscheinbar wirkt."
+      },
+      {
+        "photos": [
+          {
+            "name": "030",
+            "alt": "Teselalp",
+            "date": "2022-09-02T14:36:06.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Nach weiteren 300m Abstieg kam ich hier wieder auf die flachen Wiesen der Alp Tesel.<br />Rechts ging es am Morgen zum Zwinglipass hinauf."
+      },
+      {
+        "photos": [
+          {
+            "name": "031",
+            "alt": "Fahrweg Alp Tesel",
+            "date": "2022-09-02T14:53:27.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Dieses kurze Stück auf der Fahrstraße ab der Alp Tesel war auf dieser Rundwanderung doppelt. Aber nach dem langen Abstieg ist etwas Fahrweg auch ganz angenehm zu gehen.<br />Hier der Blick zurück das ganze Tal hinauf."
+      },
+      {
+        "photos": [
+          {
+            "name": "032",
+            "alt": "Alpweg Gamplüt",
+            "date": "2022-09-02T15:08:01.000+02:00",
+            "width": 1850,
+            "height": 1080
+          }
+        ],
+        "text": "Ich bog allerdings nicht wieder in den steilen Flüretobel ab, sondern ging weiter auf der Straße geradeaus nach Gamplüt. Das ist zwar länger und bedeutet noch mal 50m Extraaufstieg, ist aber deutlich angenehmer zu gehen. Außerdem war es noch nicht mal 15:00.<br />Auch hier der Blick zurück - und ganz hinten wieder der Mutschen."
+      },
+      {
+        "photos": [
+          {
+            "name": "033",
+            "alt": "Wanderung Gamplüt",
+            "date": "2022-09-02T15:20:30.000+02:00",
+            "width": 1648,
+            "height": 1080
+          }
+        ],
+        "text": "Nachdem ich den Extraaufstieg (bei doch recht hohen Temperaturen) geschafft hatte, ging es nun hinab nach zur Bergstation und Gaststätte Gamplüt. Dabei konnte ich nun die Serpentinen der Straße abkürzen."
+      },
+      {
+        "photos": [
+          {
+            "name": "034",
+            "alt": "Seilbahn Gamplüt",
+            "date": "2022-09-02T15:27:16.000+02:00",
+            "width": 1902,
+            "height": 1080
+          }
+        ],
+        "text": "Blick den Verlauf der Seilbahn Gamplüt hinab. Wer keine Lust mehr hat, kann nach einer Erfrischung in der Gaststätte auch mit der Bahn oder mit dem Trottinet zurück nach Wildhaus fahren. Damit spart man sich aber nur rund 300m Abstieg.<br />Im Hintergrund kann man den <a href='/alpine/alviergruppe/20171021' target='_blank'>Margelchopf</a> sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "035",
+            "alt": "Gamplüt",
+            "date": "2022-09-02T15:34:49.000+02:00",
+            "width": 1920,
+            "height": 922
+          }
+        ],
+        "text": "Für mich ging es an Gamplüt ohne Pause vorbei. Der Grashang gehört zum Schafberg und links lugt schon wieder der <a href='/alpine/alpstein/20140801' target='_blank'>Säntis</a> hervor."
+      },
+      {
+        "photos": [
+          {
+            "name": "036",
+            "alt": "Laubbaum in den Bergen",
+            "date": "2022-09-02T15:56:41.000+02:00",
+            "width": 1829,
+            "height": 1080
+          }
+        ],
+        "text": "Hinab ging ich dann den Barfuß- und Kneippweg. Barfuß muss man dort aber ziemlich auf die vielen Kuhfladen aufpassen..."
+      },
+      {
+        "photos": [
+          {
+            "name": "037",
+            "alt": "Wildhaus",
+            "date": "2022-09-02T16:08:27.000+02:00",
+            "width": 1809,
+            "height": 1080
+          }
+        ],
+        "text": "Und das letzte Stück ging es dann auf Asphalt durch Wildhaus zurück zum Parkplatz, den ich gegen 16:00 erreichte."
+      }
+    ],
+    "outro": "Fazit: Eine der wenigen ungefährlichen Bergwanderungen im Alpstein, die aber trotzdem fast ganz hinauf führt und die tolle Landschaft des Alpsteins zeigt. Es sind aber auch über 1000m Auf- und Abstieg, die sich auch nicht groß abkürzen lassen. Für die gut 18km Runde habe ich 7,5h gebraucht."
+  }
+]
