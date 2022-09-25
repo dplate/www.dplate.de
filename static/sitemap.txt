@@ -222,3 +222,4 @@ https://www.dplate.de/alpine/ebnit/20220724
 https://www.dplate.de/alpine/malbun/20220809
 https://www.dplate.de/alpine/lenzerheide/20220828
 https://www.dplate.de/alpine/alpstein/20220902
+https://www.dplate.de/alpine/alpstein/20220922
