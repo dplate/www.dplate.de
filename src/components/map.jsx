@@ -147,7 +147,7 @@ const createTerrainProvider = (hideSwissTopo) => {
     });
   }
   const provider = new CesiumTerrainProvider({
-    url: '//3d.geo.admin.ch/1.0.0/ch.swisstopo.terrain.3d/default/20200520/4326/',
+    url: 'https://3d.geo.admin.ch/1.0.0/ch.swisstopo.terrain.3d/default/20200520/4326/',
     requestVertexNormals: true
   });
   return catchInvalidSwissTopoTiles(provider);
@@ -245,7 +245,7 @@ const createHdRectangle = (positions) => {
 
 const createSwissSatelliteProvider = (hdRectangle) => {
   return new UrlTemplateImageryProvider({
-    url: '//wmts{s}.geo.admin.ch/1.0.0/ch.swisstopo.swissimage-product/default/current/4326/{z}/{x}/{y}.jpeg',
+    url: 'https://wmts{s}.geo.admin.ch/1.0.0/ch.swisstopo.swissimage-product/default/current/4326/{z}/{x}/{y}.jpeg',
     subdomains: ['5', '6', '7', '8', '9', '20'],
     minimumLevel: 8,
     maximumLevel: 17,
@@ -260,7 +260,7 @@ const createSwissSatelliteProvider = (hdRectangle) => {
 
 const createAustriaSatelliteProvider = (hdRectangle) => {
   return new WebMapTileServiceImageryProvider({
-    url: '//maps{s}.wien.gv.at/basemap/bmaporthofoto30cm/{Style}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg',
+    url: 'https://maps{s}.wien.gv.at/basemap/bmaporthofoto30cm/{Style}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg',
     layer: 'bmaporthofoto30cm',
     style: 'normal',
     tileMatrixSetID: 'google3857',
