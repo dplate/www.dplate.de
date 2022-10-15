@@ -1,0 +1,475 @@
+[
+  {
+    "destination": "feldberg",
+    "date": "d20221009",
+    "type": "hike",
+    "track": true,
+    "hideSwissTopo": true,
+    "shortTitle": "Feldberg",
+    "title": "Rinken - Feldberg",
+    "title3d": {
+      "offsetY": 0,
+      "fontSize": 9,
+      "align": "right",
+      "width": 1920,
+      "height": 445
+    },
+    "movie": "VWt2o8Jmrxg",
+    "intro": "Da es in den Alpen an diesem Oktobersonntag eher bewölkt war, suchte ich mir eine Rundwanderung am Feldberg aus. Die meisten vorgeschlagenen Wanderungen starten (bereits weit oben) am Parkhaus am Feldberger Hof. Als bessere Alternative wählte ich den Wanderparkplatz Rinken, der über eine einspurige Straße von Hinterzarten aus erreichbar ist. Ein weiterer Vorteil ist, dass es dort keine Parkgebühren kostet.<br />Die Wanderung startete ich noch vor 9:00 bei nebeligem Wetter und einem frischen Wind. Zuerst ging es noch ein kurzes Stück auf der asphaltierten Rinkenstraße weiter zum Rinkensattel, dort bog ich dann nach links auf einen Waldweg ab.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Grillplatz Feldberg",
+            "date": "2022-10-09T09:14:23.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Nach einer Weile auf dem breiten Forstweg erreichte ich diesen großzügigen Grillplatz - um diese Zeit natürlich noch ganz verlassen. Wie man an den Bäumen sieht, war gerade die beste Zeit für bunte Herbstfarben."
+      },
+      {
+        "photos": [
+          {
+            "name": "002",
+            "alt": "Schmaler Waldweg",
+            "date": "2022-10-09T09:24:57.000+02:00",
+            "width": 720,
+            "height": 1080
+          }
+        ],
+        "text": "Ein paar Minuten später ging es nun nach rechts von der Straße ab und auf schönem schmalen Waldweg weiter."
+      },
+      {
+        "photos": [
+          {
+            "name": "003",
+            "alt": "Weg über Holzplanke",
+            "date": "2022-10-09T09:32:03.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "004",
+            "alt": "Bretterweg Feldberg",
+            "date": "2022-10-09T09:35:24.000+02:00",
+            "width": 720,
+            "height": 1080
+          }
+        ],
+        "text": "Obwohl der Weg anscheinend nur wenig begangen ist, waren sumpfige Abschnitte mit Holzplanken und Brettern ausgebaut. Der Wald ist dabei schön urig mit vielen umgefallenen Bäumen, da ich mich hier bereits im Naturschutzgebiet Feldberg befand."
+      },
+      {
+        "photos": [
+          {
+            "name": "005",
+            "alt": "Sonne durch Nebelschwaden",
+            "date": "2022-10-09T09:47:49.000+02:00",
+            "width": 984,
+            "height": 1080
+          }
+        ],
+        "text": "Dieser Emil-Thoma-Weg (hier haben alle Wege irgendeinen Namen) bog dann wieder nach rechts auf einen breiten Grat oberhalb des Feldsees ab. Durch die vielen Bäume kann man den Feldsee aber nur ab und zur kurz sehen. Auf dem Foto hier ist er übrigens unten rechts zu entdecken.<br />Langsam lockerte sich der Nebel etwas und es kam ein klein wenig die Sonne durch."
+      },
+      {
+        "photos": [
+          {
+            "name": "006",
+            "alt": "Weg über Bach",
+            "date": "2022-10-09T10:04:25.000+02:00",
+            "width": 1920,
+            "height": 904
+          }
+        ],
+        "text": "Nach etwas Aufstieg erreichte ich den Felsenweg, der zwischen Feldsee und Seebuck (einen der Gipfel des Feldbergs) verläuft. Diesem folgte ich nach links. Auf dem Wegweiser wurde der Weg als schwierig ausgewiesen, aber hier war er noch genauso einfach wie die Wege zuvor."
+      },
+      {
+        "photos": [
+          {
+            "name": "007",
+            "alt": "Wanderweg über Brücke",
+            "date": "2022-10-09T10:09:36.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Die vereinzelten Bachüberquerungen waren ebenfalls komfortabel mit breiten Brücken gelöst. Auch wenn bei dieser das Geländer schon etwas mitgenommen aussah."
+      },
+      {
+        "photos": [
+          {
+            "name": "008",
+            "alt": "Sumpfiger Weg mit Baumstümpfen",
+            "date": "2022-10-09T10:18:49.000+02:00",
+            "width": 720,
+            "height": 1080
+          }
+        ],
+        "text": "Eine weitere Alternative, wie man einen sumpfigen Weg begehbar machen kann."
+      },
+      {
+        "photos": [
+          {
+            "name": "009",
+            "alt": "Fliegenpilz",
+            "date": "2022-10-09T10:19:24.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Am Wegesrand gab es hier viele Pilze zu finden - hier ein kleiner Fliegenpilz."
+      },
+      {
+        "photos": [
+          {
+            "name": "010",
+            "alt": "Bach im Herbstwald",
+            "date": "2022-10-09T10:22:16.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Ein weiterer kleiner Bach, der über die Granitsteine des Feldbergs hinab plätscherte. Überhaupt war der Weg hier sehr abwechslungsreich, auch wenn er fast ohne Aussicht durch den Wald führte."
+      },
+      {
+        "photos": [
+          {
+            "name": "011",
+            "alt": "Herbstwanderung",
+            "date": "2022-10-09T10:26:50.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Endlich setzte sich die Sonne richtig durch und der feuchte Wald fing an zu leuchten."
+      },
+      {
+        "photos": [
+          {
+            "name": "012",
+            "alt": "Felsenweg Feldberg",
+            "date": "2022-10-09T10:33:18.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Nun wurde der Felsenweg doch etwas steiler und zum Teil geht es tatsächlich über Fels. Aber eine wirkliche Herausforderung ist es für jeden, der schon mal einen Bergweg gesehen hat, nicht. Nur im Winter soll er wohl manchmal gefährlich sein."
+      },
+      {
+        "photos": [
+          {
+            "name": "013",
+            "alt": "Feldberger Hof",
+            "date": "2022-10-09T10:54:22.000+02:00",
+            "width": 1920,
+            "height": 897
+          }
+        ],
+        "text": "Ziemlich plötzlich endete nun der Felsenweg und ich erreichte den flachen Skihang des Seebucks in halber Höhe. Hier im Hintergrund ist das Hauptzentrum des Feldberggebiets zu sehen, folglich begegnete ich nun deutlich mehr Leuten. Inzwischen war es aber auch schon populärere elf Uhr."
+      },
+      {
+        "photos": [
+          {
+            "name": "014",
+            "alt": "Spaziergang Feldbuck",
+            "date": "2022-10-09T10:58:59.000+02:00",
+            "width": 1892,
+            "height": 1080
+          }
+        ],
+        "text": "Nun folgte der kurze Aufstieg auf den Seebuck per unschön breit geschottertem Weg. Es fehlten aber nur noch gut 100 Höhenmeter zum Gipfel."
+      },
+      {
+        "photos": [
+          {
+            "name": "015",
+            "alt": "Feldsee im Herbst",
+            "date": "2022-10-09T11:04:55.000+02:00",
+            "width": 1755,
+            "height": 1080
+          }
+        ],
+        "text": "Von hier oben konnte ich nun das erste mal so richtig den Feldsee sehen, obwohl ich den zuvor schon deutlich näher halb umrundet hatte."
+      },
+      {
+        "photos": [
+          {
+            "name": "016",
+            "alt": "Feldbergbahn Seebuck",
+            "date": "2022-10-09T11:05:48.000+02:00",
+            "width": 1920,
+            "height": 1030
+          }
+        ],
+        "text": "Im Sommer und Herbst kann man mit Gondeln auf den Seebuck fahren. Auch wenn die Fahrt nur 7€ kostet, lohnt sich das für die paar Höhenmeter eigentlich nicht - es sei denn, man will unbedingt mal Seilbahn fahren."
+      },
+      {
+        "photos": [
+          {
+            "name": "017",
+            "alt": "Hochfläche Feldberg",
+            "date": "2022-10-09T11:31:30.000+02:00",
+            "width": 1920,
+            "height": 568
+          }
+        ],
+        "text": "Blick vom Seebuck über die Hochfläche zum eigentlichen Gipfel des Feldbergs - ich hatte also noch nicht den höchsten Punkt des Tages erreicht. Trotzdem war es nun Zeit für eine erste Pause."
+      },
+      {
+        "photos": [
+          {
+            "name": "018",
+            "alt": "Abstieg Seebuck",
+            "date": "2022-10-09T11:47:18.000+02:00",
+            "width": 1920,
+            "height": 968
+          }
+        ],
+        "text": "Anschließend wollte ich eigentlich noch auf den Aussichtsturm. Dieser kostet leider ebenfalls 7€ Eintritt (da er mit einem Schinkenmuseum kombiniert ist) - mit Gondelbahnticket dürfte man aber 'umsonst' rein. Das war mir nur der Aussichtsturm nicht wert.<br />Da ich noch etwas Höhenmeter sammeln wollte, lief ich nicht direkt zum Feldberg Gipfel hinüber, sondern wollte zuvor vom Seebuck auf der anderen Seite wieder absteigen. Ohne Absicht bin ich vom Turm auf gesperrtem Pfad zum offiziellem Abstieg gelaufen. Hier also kurz nicht meinem GPX Track folgen, um die Wiesen auf dem Feldberg zu schonen.<br />Der knapp 100m Abstieg erfolgte auf schönem Wanderweg, allerdings waren hier arg viele Ausflügler unterwegs - deshalb nur ein Foto der Aussicht."
+      },
+      {
+        "photos": [
+          {
+            "name": "019",
+            "alt": "Franz-Klarmeyer-Weg",
+            "date": "2022-10-09T11:53:18.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Am Ende des Abstiegs erreichte ich den asphaltierten Franz-Klarmeyer-Weg, der im Winter eine Langlaufloipe ist. Diesem Weg folgte ich nun nach rechts. Zum Glück wurde es gleich deutlich leerer."
+      },
+      {
+        "photos": [
+          {
+            "name": "020",
+            "alt": "Herbst im Schwarzwald",
+            "date": "2022-10-09T11:59:25.000+02:00",
+            "width": 1920,
+            "height": 972
+          },
+          {
+            "name": "021",
+            "alt": "Bunte Herbstfarben",
+            "date": "2022-10-09T12:11:40.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "022",
+            "alt": "Aussichtsbank",
+            "date": "2022-10-09T12:15:42.000+02:00",
+            "width": 1768,
+            "height": 1080
+          }
+        ],
+        "text": "Auch wenn dieser Abschnitt auf dem Fahrweg nicht besonders spannend ist, hat man doch immer einen schönen Blick in den Schwarzwald und auf die tollen bunten Herbstbäume."
+      },
+      {
+        "photos": [
+          {
+            "name": "023",
+            "alt": "Wanderung Todtnauer Hütte",
+            "date": "2022-10-09T12:26:26.000+02:00",
+            "width": 1920,
+            "height": 844
+          }
+        ],
+        "text": "Nach einer halben Stunde auf diesem Panoramaweg erreichte ich die Todtnauer Hütte."
+      },
+      {
+        "photos": [
+          {
+            "name": "024",
+            "alt": "Spazierweg Todtnauer Hütte",
+            "date": "2022-10-09T12:26:53.000+02:00",
+            "width": 1920,
+            "height": 912
+          }
+        ],
+        "text": "Blick zurück zum Seebuck (der mit dem Turm)."
+      },
+      {
+        "photos": [
+          {
+            "name": "025",
+            "alt": "Todtnauer Hütte",
+            "date": "2022-10-09T12:33:00.000+02:00",
+            "width": 1920,
+            "height": 946
+          },
+          {
+            "name": "026",
+            "alt": "Wanderweg Feldberg",
+            "date": "2022-10-09T12:46:11.000+02:00",
+            "width": 1920,
+            "height": 886
+          }
+        ],
+        "text": "Von der Todtnauer Hütte ging es nun auf schönem Serpentinenweg ca. 150m rauf auf den Feldberggipfel."
+      },
+      {
+        "photos": [
+          {
+            "name": "027",
+            "alt": "Graslandschaft Feldberg",
+            "date": "2022-10-09T13:17:29.000+02:00",
+            "width": 1920,
+            "height": 727
+          }
+        ],
+        "text": "Den Gipfel des Feldbergs erreichte ich kurz nach 13:00. Da ich mit 1490m nun den höchsten Punkt der Wanderung erreicht hatte, machte ich eine weitere Pause an einer windgeschützten Stelle - denn der Wind wehte hier oben ziemlich stark."
+      },
+      {
+        "photos": [
+          {
+            "name": "028",
+            "alt": "Friedrich-Luise-Turm",
+            "date": "2022-10-09T13:29:38.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Neben der Aussichtsplattform wird der Gipfel vor allen durch Antennen, Radaranlagen und Wetterstationen bestimmt."
+      },
+      {
+        "photos": [
+          {
+            "name": "029",
+            "alt": "Feldberg",
+            "date": "2022-10-09T13:47:24.000+02:00",
+            "width": 1920,
+            "height": 753
+          }
+        ],
+        "text": "Den Abstieg zurück nach Rinken wollte ich über den Baldenweger Buck machen. Das hat den Vorteil, dass man nicht direkt wieder absteigt, sondern noch etwas auf der Hochfläche bleibt. Hier der Blick zurück zum Feldberggipfel."
+      },
+      {
+        "photos": [
+          {
+            "name": "030",
+            "alt": "Moor am Feldberg",
+            "date": "2022-10-09T13:51:16.000+02:00",
+            "width": 1920,
+            "height": 896
+          }
+        ],
+        "text": "Vorbei geht es dabei an diesem kleinen Moor. Ganz links noch immer der Feldberg."
+      },
+      {
+        "photos": [
+          {
+            "name": "031",
+            "alt": "Naturlehrpfad Rinken",
+            "date": "2022-10-09T14:01:59.000+02:00",
+            "width": 1920,
+            "height": 814
+          }
+        ],
+        "text": "Und bevor ich die Hochfläche verließ, noch ein letzter Blick zurück zum Gipfel."
+      },
+      {
+        "photos": [
+          {
+            "name": "032",
+            "alt": "Rundwanderung Feldberg",
+            "date": "2022-10-09T14:10:05.000+02:00",
+            "width": 1421,
+            "height": 1080
+          },
+          {
+            "name": "033",
+            "alt": "Naturfreundehaus Feldberg",
+            "date": "2022-10-09T14:11:28.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Vom Baldenweger Buck ging es dann den recht steilen Hang in einigen kleinen Serpentinen hinab zum Naturfreundhaus Feldberg. Hier hat man dann auch mal so richtig Aussicht nach Norden."
+      },
+      {
+        "photos": [
+          {
+            "name": "034",
+            "alt": "Baldenweger Hütte",
+            "date": "2022-10-09T14:17:08.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Ganz zum Naturfreundehaus musste ich allerdings nicht, sondern bog nach rechts zur Baldenweger Hütte ab."
+      },
+      {
+        "photos": [
+          {
+            "name": "035",
+            "alt": "Sonnenstrahlen mit Holzbrücke über Bach",
+            "date": "2022-10-09T14:50:55.000+02:00",
+            "width": 720,
+            "height": 1080
+          }
+        ],
+        "text": "Von der Baldenweger Hütte könnte man theoretisch auf der Asphaltstraße zurück zum Wanderparkplatz laufen, deutlich schöner ist es aber im Wald entlang des Sägenbach. Der Weg hat natürlich wieder einen Namen und heißt Sägebachschlag-Steig.<br />Der Bach hat einige kleine Wasserfälle zu bieten."
+      },
+      {
+        "photos": [
+          {
+            "name": "036",
+            "alt": "Waldweg über Wurzeln",
+            "date": "2022-10-09T14:53:45.000+02:00",
+            "width": 720,
+            "height": 1080
+          },
+          {
+            "name": "037",
+            "alt": "Sägebachschlag-Steig",
+            "date": "2022-10-09T14:58:42.000+02:00",
+            "width": 1841,
+            "height": 1080
+          },
+          {
+            "name": "038",
+            "alt": "Sägenbach",
+            "date": "2022-10-09T15:01:16.000+02:00",
+            "width": 720,
+            "height": 1080
+          }
+        ],
+        "text": "Es war ein wirklich schöner Weg durch das kleine Tal."
+      },
+      {
+        "photos": [
+          {
+            "name": "039",
+            "alt": "Seewaldweg",
+            "date": "2022-10-09T15:09:25.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Am Ende des Tals mündet der Weg auf die Fahrstraße, die ich bereits am Morgen gelaufen war. Folglich musste ich nun nach links."
+      },
+      {
+        "photos": [
+          {
+            "name": "040",
+            "alt": "Rinken",
+            "date": "2022-10-09T15:14:14.000+02:00",
+            "width": 1462,
+            "height": 1080
+          },
+          {
+            "name": "041",
+            "alt": "Wanderparkplatz Rinken",
+            "date": "2022-10-09T15:17:54.000+02:00",
+            "width": 1920,
+            "height": 967
+          }
+        ],
+        "text": "Und dann noch die letzten Meter vom Rinkensattel zurück zum Wanderparkplatz auf Asphalt. Hier der Blick zurück zum Feldberg.<br />Das Auto erreichte ich gegen 15:30."
+      }
+    ],
+    "outro": "Fazit: Mit dieser Runde hatte ich den Feldberg nun ganz gut erkundet. Während auf der Südseite und den Gipfeln an einem Schönwettersonntag schon arg viel los ist, geht es auf den kleinen Waldwegen auf der Nordseite deutlich ruhiger zu und sie sind auch toll angelegt.<br />Mit knapp 15km und 700 Höhenmeter war diese Runde nicht besonders anstrengend. Viel mehr ist rund um den Feldberggipfel aber auch nicht möglich. Ich habe dafür 6,5h gebraucht - wer sich beeilt, schafft es aber auch schneller. Abkürzen könnte man die Runde, wenn man vom Seebuck direkt zum Feldberggipfel läuft, dann spart man auch noch ein paar Höhenmeter."
+  }
+]

@@ -46,6 +46,10 @@ const CesiumContainer = styled.div`
     max-width: 5vw;
   }
 
+  .cesium-credit-textContainer {
+    display: none !important;
+  }
+
   .cesium-viewer-bottom {
     bottom: 3px !important;
   }
