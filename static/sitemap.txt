@@ -224,3 +224,4 @@ https://www.dplate.de/alpine/lenzerheide/20220828
 https://www.dplate.de/alpine/alpstein/20220902
 https://www.dplate.de/alpine/alpstein/20220922
 https://www.dplate.de/alpine/feldberg/20221009
+https://www.dplate.de/alpine/montafon/20221016
