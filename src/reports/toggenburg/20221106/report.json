@@ -1,0 +1,631 @@
+[
+  {
+    "destination": "toggenburg",
+    "date": "d20221106",
+    "type": "hike",
+    "track": true,
+    "detailMap": "swiss",
+    "shortTitle": "Schnebelhorn",
+    "title": "Mosnang - Schnebelhorn",
+    "title3d": {
+      "offsetY": 2,
+      "fontSize": 8,
+      "align": "center",
+      "width": 1920,
+      "height": 478
+    },
+    "movie": "KY7MRTjO75E",
+    "intro": "In den vergangenen Tagen gab es Neuschnee bis auf 1200m hinab. So musste ich mir für diese Wanderung im November ein nicht so hohes Ziel suchen und wählte das 1300m hohe Schnebelhorn im Toggenburg. Ich war dort bereits vor einigen Jahren schon mal von Libingen hinaufgelaufen. Diesmal startete ich vom 720m hochgelegenen Mosnang, wo ich auf einen der vielen Gratisparkmöglichkeiten mein Auto abstellte. Da für den Nachmittag etwas Bewölkung angesagt war, lief ich bereits kurz vor 8:00 in der nebeligen Dämmerung los.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Mosnang im Nebel",
+            "date": "2022-11-06T07:55:39.000+01:00",
+            "width": 1920,
+            "height": 881
+          }
+        ],
+        "text": "Aber bereits kurz nach dem Ort und den ersten Höhenmetern kam ich aus dem Nebel hinaus. :)"
+      },
+      {
+        "photos": [
+          {
+            "name": "002",
+            "alt": "Bauernhaus an Nebelgrenze",
+            "date": "2022-11-06T07:56:51.000+01:00",
+            "width": 1802,
+            "height": 1080
+          }
+        ],
+        "text": "Aus dem frostigen Nebel hinauszuwandern und die ersten Sonnenstrahlen zu spüren ist ein tolles Erlebnis."
+      },
+      {
+        "photos": [
+          {
+            "name": "003",
+            "alt": "Sonnenaufgang bei Nebel",
+            "date": "2022-11-06T07:58:37.000+01:00",
+            "width": 1717,
+            "height": 1080
+          }
+        ],
+        "text": "Aber auch durch den strammen Aufstieg wurde mir schnell warm. Zu Beginn hier noch auf einem steilen Feldweg."
+      },
+      {
+        "photos": [
+          {
+            "name": "004",
+            "alt": "Toggenburg im November",
+            "date": "2022-11-06T08:10:44.000+01:00",
+            "width": 1920,
+            "height": 755
+          }
+        ],
+        "text": "Dann wurde es kurz flacher und es ging oberhalb dieser Kuhweide entlang. Nun auch auf richtigem Wanderweg. Hinter dem Nebelmeer ist hier der Säntis zu sehen. Die vielen Kondensstreifen kündigten bereits die Wetterverschlechterung an, aber dafür sah es interessant aus."
+      },
+      {
+        "photos": [
+          {
+            "name": "005",
+            "alt": "Wanderweg Schlosshöchi",
+            "date": "2022-11-06T08:21:26.000+01:00",
+            "width": 1920,
+            "height": 1079
+          }
+        ],
+        "text": "Nach einem steilen Weg im Wald kam ich auf die Wiesen unterhalb meines ersten Gipfels, der Schlosshöchi - praktisch der Hausberg von Mosnang. Der Weg hier über die Wiese war ziemlich schmierig und rutschtig, da der Boden gerade auftaute."
+      },
+      {
+        "photos": [
+          {
+            "name": "006",
+            "alt": "Nebelmeer",
+            "date": "2022-11-06T08:24:53.000+01:00",
+            "width": 1920,
+            "height": 836
+          }
+        ],
+        "text": "Blick zurück auf das tolle Nebelmeer (zumindest, wenn man darüber ist)."
+      },
+      {
+        "photos": [
+          {
+            "name": "007",
+            "alt": "Aussicht Schlosshöchi",
+            "date": "2022-11-06T08:27:49.000+01:00",
+            "width": 969,
+            "height": 1080
+          }
+        ],
+        "text": "Und noch ein Blick über das Nebelmeer, kurz vor dem 1000m hohen Gipfel."
+      },
+      {
+        "photos": [
+          {
+            "name": "008",
+            "alt": "Schlosshöchi",
+            "date": "2022-11-06T08:28:32.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Und hier das große Gipfelkreuz der Schlosshöchi. Oben gibt es auch eine schöne Grillstelle. Die 300m Aufstieg von Mosnang hatte ich in ziemlich schnellen 40min erledigt - also war nun eine erste Trinkpause auf dem Gipfel nötig."
+      },
+      {
+        "photos": [
+          {
+            "name": "009",
+            "alt": "Nebelfetzen im Tal",
+            "date": "2022-11-06T08:48:18.000+01:00",
+            "width": 1920,
+            "height": 960
+          }
+        ],
+        "text": "Von der Schlosshöchi ging es erst wieder über die Wiese hinab und dann folgte ein Stück Asphaltstraße an der Alp Rachlis vorbei.<br />Dabei konnte man schön beobachten, wie sich der Nebel in den Seitentälern des Thurtals lichtete."
+      },
+      {
+        "photos": [
+          {
+            "name": "010",
+            "alt": "Iddaburg über Nebelmeer",
+            "date": "2022-11-06T08:52:09.000+01:00",
+            "width": 1030,
+            "height": 623
+          }
+        ],
+        "text": "Ein Stück weiter konnte ich dann auch wieder nach Norden schauen, genauer zu Iddaburg, die gerade aus den Nebel ragte. Hier sehr stark vergrößert."
+      },
+      {
+        "photos": [
+          {
+            "name": "011",
+            "alt": "Schafe in den Bergen",
+            "date": "2022-11-06T08:56:02.000+01:00",
+            "width": 1920,
+            "height": 1039
+          }
+        ],
+        "text": "Nun verließ ich wieder die Straße bei dieser Alp und es folgte der (kleine) Aufstieg auf den Ober Stein. Hier der Blick zurück."
+      },
+      {
+        "photos": [
+          {
+            "name": "012",
+            "alt": "Gratweg Ober Stein",
+            "date": "2022-11-06T09:02:19.000+01:00",
+            "width": 846,
+            "height": 1080
+          }
+        ],
+        "text": "Der offielle Wanderweg geht links und rechts unter dem Grat entlang, man kann aber problemlos den schöneren Weg über den Grat wählen."
+      },
+      {
+        "photos": [
+          {
+            "name": "013",
+            "alt": "Wanderweg an Stacheldrahtzaun",
+            "date": "2022-11-06T09:13:14.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Nach dem bewaldeten Ober Stein geht es zu dieser Senke mit einem kleinen Kreuz bergab. Wie man sieht, waren die Wiesen auf der Nordseite noch gefroren."
+      },
+      {
+        "photos": [
+          {
+            "name": "014",
+            "alt": "Talkessel Libingen",
+            "date": "2022-11-06T09:17:07.000+01:00",
+            "width": 1920,
+            "height": 977
+          },
+          {
+            "name": "015",
+            "alt": "Nebelreste im Tal",
+            "date": "2022-11-06T09:17:29.000+01:00",
+            "width": 1920,
+            "height": 890
+          }
+        ],
+        "text": "Danach geht es kurz steiler hinauf und ich erreichte den mir schon bekannten <a href='/alpine/toggenburg/20171104' target='_blank'>Weg von Libingen auf das Schnebelhorn</a>. Libingen liegt hier unten im Tal im Nebel."
+      },
+      {
+        "photos": [
+          {
+            "name": "016",
+            "alt": "Wanderweg Mosnang Schnebelhorn",
+            "date": "2022-11-06T09:28:42.000+01:00",
+            "width": 1900,
+            "height": 1080
+          },
+          {
+            "name": "017",
+            "alt": "Herbstwanderung Toggenburg",
+            "date": "2022-11-06T09:29:29.000+01:00",
+            "width": 1906,
+            "height": 1080
+          },
+          {
+            "name": "018",
+            "alt": "Laubberg",
+            "date": "2022-11-06T09:35:19.000+01:00",
+            "width": 1837,
+            "height": 1080
+          },
+          {
+            "name": "019",
+            "alt": "Kiefer auf Grat",
+            "date": "2022-11-06T09:36:05.000+01:00",
+            "width": 1840,
+            "height": 1080
+          }
+        ],
+        "text": "Danach folgte der schönste Abschnitt des Gratwegs, geht es doch über unbewaldete Buckel hinweg, auf denen einzelne (für die Gegend untypischen) Kiefern wachsen. Leider war das Gras noch zu nass zum Sitzen, so dass ich keine Pause machte."
+      },
+      {
+        "photos": [
+          {
+            "name": "020",
+            "alt": "Ehratsrick",
+            "date": "2022-11-06T09:40:30.000+01:00",
+            "width": 1920,
+            "height": 970
+          }
+        ],
+        "text": "Blick hinab in das Tal von Ehratsrick, das ich auf meiner heutigen Wanderung praktisch halb umrundete. Ursprünglich hatte ich auch vor, durch dieses Tal am Schluss zurück nach Mosnang zu laufen."
+      },
+      {
+        "photos": [
+          {
+            "name": "021",
+            "alt": "Bergwirtschaft Meiersalp",
+            "date": "2022-11-06T09:52:15.000+01:00",
+            "width": 1864,
+            "height": 1080
+          }
+        ],
+        "text": "Oberhalb der Bergwirtschaft Meiersalp (im November schon geschlossen) fand ich endlich eine trockene Bank für eine weitere Pause. Inzwischen war es 09:50. Der Berg hier im Bild ist übrigens schon das Schnebelhorn, es war also nicht mehr weit."
+      },
+      {
+        "photos": [
+          {
+            "name": "022",
+            "alt": "Schattenwurf auf Nagelfluh",
+            "date": "2022-11-06T09:57:15.000+01:00",
+            "width": 720,
+            "height": 1080
+          }
+        ],
+        "text": "Mein Schatten vor einer Nagelfluhwand. Aus diesem bröckeligen Gestein sind hier alle Berge 'gebacken', weshalb sie auch meist eher sanfte Hügel sind."
+      },
+      {
+        "photos": [
+          {
+            "name": "023",
+            "alt": "Aufstieg Schnebelhorn",
+            "date": "2022-11-06T09:59:51.000+01:00",
+            "width": 1920,
+            "height": 955
+          }
+        ],
+        "text": "Noch mal der Blick zurück, bevor ich die recht steilen letzten 100m auf den Gipfel in Angriff nahm."
+      },
+      {
+        "photos": [
+          {
+            "name": "024",
+            "alt": "Panorama Schnebelhorn",
+            "date": "2022-11-06T10:10:13.000+01:00",
+            "width": 1920,
+            "height": 776
+          }
+        ],
+        "text": "Den Gipfel erreichte ich um 10:10, also nach flotten 2:20h von Mosnang aus. Wie man sieht war die Fernsicht an diesem Tag hervorragend. In der Bildmitte kann man den Zürichsee sehen, dahinter die Mythen. Und noch weiter entfernt der Titlis und das Finsteraarhorn."
+      },
+      {
+        "photos": [
+          {
+            "name": "025",
+            "alt": "Gipfel Schnebelhorn",
+            "date": "2022-11-06T10:18:29.000+01:00",
+            "width": 1873,
+            "height": 1080
+          }
+        ],
+        "text": "Und so sieht es auf dem Gipfel aus. Hier begegnete ich auch den ersten anderen Wanderern des Tages, denn die meisten laufen von anderen Seite auf das Schnebelhorn, genauer von Steg. Da es mit fast 1300m der höchste Berg des Kanton Zürich ist, ist es ein beliebtes Ziel für die Züricher."
+      },
+      {
+        "photos": [
+          {
+            "name": "026",
+            "alt": "Aussicht Schnebelhorn",
+            "date": "2022-11-06T10:21:43.000+01:00",
+            "width": 1572,
+            "height": 1080
+          }
+        ],
+        "text": "Noch ein Blick nach Südwest vom Gipfel."
+      },
+      {
+        "photos": [
+          {
+            "name": "027",
+            "alt": "Wanderung Schnebelhorn",
+            "date": "2022-11-06T10:22:30.000+01:00",
+            "width": 1920,
+            "height": 1079
+          }
+        ],
+        "text": "Das es jetzt etwas bewölkter wurde, machte ich nur eine kurze Pause und stieg Richtung Süden vom Schnebelhorn ab.<br />Hier der Blick zurück zum Gipfel."
+      },
+      {
+        "photos": [
+          {
+            "name": "028",
+            "alt": "Abstieg Schnebelhorn",
+            "date": "2022-11-06T10:24:20.000+01:00",
+            "width": 1920,
+            "height": 932
+          }
+        ],
+        "text": "Und der Blick nach vorne. Ich nahm den Weg auf dem Grat nach rechts."
+      },
+      {
+        "photos": [
+          {
+            "name": "029",
+            "alt": "Schmieriger Weg",
+            "date": "2022-11-06T10:37:21.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Was nun folgte ist ein (unnötiger) Abstecher zum Gipfel Hirzegg. Das liegt daran, dass ich eigentlich einen anderen Rückweg vor hatte und mich dann erst anders entschieden hatte.<br />Hier wieder der Blick zurück zum Schnebelhorn."
+      },
+      {
+        "photos": [
+          {
+            "name": "030",
+            "alt": "Gelber Fisch an Baumstamm",
+            "date": "2022-11-06T10:48:30.000+01:00",
+            "width": 890,
+            "height": 1080
+          }
+        ],
+        "text": "Etwas versteckt ein kleines Kunstwerk an einem abgestorbenen Baum. Hatte erst gedacht, es wäre wirklich ein Tier. ;)"
+      },
+      {
+        "photos": [
+          {
+            "name": "031",
+            "alt": "Hirzegg",
+            "date": "2022-11-06T10:51:39.000+01:00",
+            "width": 1920,
+            "height": 968
+          }
+        ],
+        "text": "Und das ist der Hirzegg, zu dem ich 200m vom Schnebelhorn abgestiegen war. Es war nicht wirklich viel los, es war nur gerade eine große Gruppe auf dem Hirzegg angekommen, so dass ich mich dort nur sehr kurz aufhielt."
+      },
+      {
+        "photos": [
+          {
+            "name": "032",
+            "alt": "Aussicht Hirzegg",
+            "date": "2022-11-06T10:55:28.000+01:00",
+            "width": 1920,
+            "height": 933
+          }
+        ],
+        "text": "Und hier der Blick vom 1080m hohen Gipfel des Hirzegg. Auch in die andere Richtung gab es nichts zu sehen, was man nicht auch vom Schnebelhorn sehen konnte. Der Gipfel sah aus der Entfernung deutlich interessanter aus."
+      },
+      {
+        "photos": [
+          {
+            "name": "033",
+            "alt": "Aussichtsbank",
+            "date": "2022-11-06T11:18:11.000+01:00",
+            "width": 1809,
+            "height": 1080
+          }
+        ],
+        "text": "Nach dem Abstecher zum Hirzegg machte ich noch einen weiteren kleineren Abstecher zu dieser Aussichtsbank. Hier wäre auch mein ursprünglich geplanter Rückweg vorbeigegangen. Ich entschloss aber, da ich noch keine Lust hatte wieder ins Tal abzusteigen, stattdessen den Grat des Hinwegs auch wieder zurückzulaufen. Das war zwar deutlich weiter, aber es war auch gerade erst 11:30."
+      },
+      {
+        "photos": [
+          {
+            "name": "034",
+            "alt": "Hangweg Schnebelhorn",
+            "date": "2022-11-06T11:39:25.000+01:00",
+            "width": 1920,
+            "height": 1065
+          }
+        ],
+        "text": "Ich musste aber nicht wieder über das Schnebelhorn, sondern konnte hier unterhalb vorbeilaufen (Blick zurück)."
+      },
+      {
+        "photos": [
+          {
+            "name": "035",
+            "alt": "Wanderwegweiser",
+            "date": "2022-11-06T11:47:57.000+01:00",
+            "width": 1760,
+            "height": 1080
+          }
+        ],
+        "text": "Und hier kam ich dann wieder auf den Hinweg."
+      },
+      {
+        "photos": [
+          {
+            "name": "036",
+            "alt": "Fahrweg auf Grat",
+            "date": "2022-11-06T11:48:56.000+01:00",
+            "width": 1920,
+            "height": 972
+          }
+        ],
+        "text": "Um nicht zu viel doppelte Wege zu gehen, ging ich nicht diesen Gratweg weiter, sondern wählte einen Parallelweg rechts auf der Sonnenseite des Hangs. Auch so wurde es jetzt zum Glück wieder etwas sonniger."
+      },
+      {
+        "photos": [
+          {
+            "name": "037",
+            "alt": "Panoramaweg Schnebelhorn",
+            "date": "2022-11-06T11:52:36.000+01:00",
+            "width": 1920,
+            "height": 1059
+          },
+          {
+            "name": "038",
+            "alt": "Spazierweg Meiersalp",
+            "date": "2022-11-06T11:54:33.000+01:00",
+            "width": 1744,
+            "height": 1080
+          },
+          {
+            "name": "039",
+            "alt": "Kiefern bei Libingen",
+            "date": "2022-11-06T11:59:36.000+01:00",
+            "width": 1080,
+            "height": 1080
+          }
+        ],
+        "text": "Und so schön führte dieser Weg den Hang entlang. Es war wahrscheinlich der ehemalige Zufahrtsweg zur Meiersalp. Auf diesem Weg sparte ich mir eine Menge hoch und runter auf dem Grat."
+      },
+      {
+        "photos": [
+          {
+            "name": "040",
+            "alt": "Acker-Witwenblume",
+            "date": "2022-11-06T12:03:08.000+01:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "041",
+            "alt": "Habichtskraut",
+            "date": "2022-11-06T12:03:50.000+01:00",
+            "width": 1676,
+            "height": 1080
+          }
+        ],
+        "text": "Sogar ein paar Blumen gibt es im November noch in den Bergen. Mein Google-Botaniker sagt, dass es eine Acker-Witwenblume und ein Habichtskraut war."
+      },
+      {
+        "photos": [
+          {
+            "name": "042",
+            "alt": "Hütte vor Nebel mit Säntis",
+            "date": "2022-11-06T12:06:10.000+01:00",
+            "width": 1920,
+            "height": 984
+          }
+        ],
+        "text": "Und weiter ging es auf diesem Hangweg (nun etwas ausgebauter). Rechts der Säntis war nun klarer zu sehen und der Nebel stieg etwas an."
+      },
+      {
+        "photos": [
+          {
+            "name": "043",
+            "alt": "Glockenblume",
+            "date": "2022-11-06T12:08:09.000+01:00",
+            "width": 1863,
+            "height": 1080
+          }
+        ],
+        "text": "Und eine Glockenblume."
+      },
+      {
+        "photos": [
+          {
+            "name": "044",
+            "alt": "Fahrweg an Berghang",
+            "date": "2022-11-06T12:08:42.000+01:00",
+            "width": 1920,
+            "height": 978
+          }
+        ],
+        "text": "Auf so einem Weg ohne jegliche Höhenmeter kam ich natürlich sehr flott voran."
+      },
+      {
+        "photos": [
+          {
+            "name": "045",
+            "alt": "Engelsfiguren in Wurzeln",
+            "date": "2022-11-06T12:11:41.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Überraschend einige Engel - versteckt im Fels und in Wurzeln."
+      },
+      {
+        "photos": [
+          {
+            "name": "046",
+            "alt": "Kleine Häuser an Feldweg",
+            "date": "2022-11-06T12:24:08.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Zeit für eine weitere Pause in der warmen Sonne gegen 12:30."
+      },
+      {
+        "photos": [
+          {
+            "name": "047",
+            "alt": "Ausblick Under Stein",
+            "date": "2022-11-06T12:31:42.000+01:00",
+            "width": 1920,
+            "height": 681
+          }
+        ],
+        "text": "Hier bei Under Stein verließ ich kurz die offiziell ausgewiesenen Wanderwege und kürzte auf breitem Weg einen unnötigen Zwischenaufstieg ab."
+      },
+      {
+        "photos": [
+          {
+            "name": "048",
+            "alt": "Säntis mit Schnee",
+            "date": "2022-11-06T12:36:07.000+01:00",
+            "width": 1103,
+            "height": 607
+          }
+        ],
+        "text": "Tele zum ziemlich verschneiten Säntis."
+      },
+      {
+        "photos": [
+          {
+            "name": "049",
+            "alt": "Gratweg im Wald",
+            "date": "2022-11-06T12:43:00.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Dann erreichte ich wieder meinen Hinweg auf dem Grat. Hier wählte ich dann noch den Trampelpfad direkt über den Ober Stein, den ich beim Hinweg umgangen hatte. Generell gibt es hier sehr viele Wege und Varianten, die man gehen kann... obwohl es eigentlich immer nur den Grat entlang geht."
+      },
+      {
+        "photos": [
+          {
+            "name": "050",
+            "alt": "Rachlis im Nebel",
+            "date": "2022-11-06T13:11:09.000+01:00",
+            "width": 1920,
+            "height": 1061
+          }
+        ],
+        "text": "Die Asphaltstraße vorbei an Rachlis konnte ich aber nicht vermeiden. Hier der Blick zurück nach Rachlis bei hinaufziehendem Nebel.<br />Ich bin dann auch noch mal für eine Pause auf die Schlosshöchi gestiegen. Da dort oben aber eine Grillfeier stattfand, bin ich ohne Pause wieder runter."
+      },
+      {
+        "photos": [
+          {
+            "name": "051",
+            "alt": "Sonnenstrahlen im Wald",
+            "date": "2022-11-06T13:22:55.000+01:00",
+            "width": 1188,
+            "height": 1080
+          }
+        ],
+        "text": "Für den Abstieg von der Schlosshöchi nach Mosnang wählte ich wieder eine andere (insgesamt flachere, aber längere) Variante. Im Prinzip einfach den Grat weiter.<br />Hier ging es dann bei leichtem Nebeldunst in den Wald hinein und es folgte ein kurzer steiler Abschnitt."
+      },
+      {
+        "photos": [
+          {
+            "name": "052",
+            "alt": "Grüne Wiesen im Toggenburg",
+            "date": "2022-11-06T13:35:49.000+01:00",
+            "width": 1562,
+            "height": 1080
+          },
+          {
+            "name": "053",
+            "alt": "Säntis mit Ballon",
+            "date": "2022-11-06T13:38:44.000+01:00",
+            "width": 690,
+            "height": 377
+          }
+        ],
+        "text": "Nach dem Wald wurde es dann endgültig zivilisierter und flacher. Hier der Blick über die überdüngten grünen Wiesen zum Säntis mit einem Ballon (leider knapp den Zeitpunkt verpasst, wo er genau über der Antenne war)."
+      },
+      {
+        "photos": [
+          {
+            "name": "054",
+            "alt": "Herbstwanderung Mosnang",
+            "date": "2022-11-06T13:51:08.000+01:00",
+            "width": 1737,
+            "height": 1080
+          }
+        ],
+        "text": "Am Schluss dann noch auf Asphaltstraße zurück nach Mosnang und etwas durch den kleinen Ort.<br />Am Auto war ich dann um 14:00."
+      }
+    ],
+    "outro": "Fazit: Schöne und harmlose Herbstwanderung. Insgesamt waren es weite 22km. Aber da es nur 1000 Höhenmeter waren, habe ich trotzdem nur gut 6h gebraucht. Wenn man den unnötigen Abstecher zum Hirzegg weglässt, spart man noch eine Stunde und einige Kilometer. Welche der Wege man den Höhenzug entlang wählt, kann man spontan entscheiden. So hat man dann auch nicht das Gefühl, zu viel doppelt zu gehen."
+  }
+]

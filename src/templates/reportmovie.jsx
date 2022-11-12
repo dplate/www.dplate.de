@@ -70,7 +70,7 @@ const Label = styled.div.attrs(({ offsetY }) => ({
   left: 50%;
   margin-right: -50%;
   transform: translate(-50%, 0);
-  font-size: 30px;
+  font-size: 50px;
   text-shadow: 0 0 4px black;
   transition: top 2s ease-in-out;
 `;
@@ -289,7 +289,7 @@ class ReportMovie extends React.Component {
     const photoPath = '/photos' + this.getReportPath() + '/' + fileName + '.jpg';
     const isShown = this.state.phase === 'photo' && this.state.photo.name === fileName;
     const opacity = isShown ? 1 : 0;
-    const offsetY = isShown ? 75 : -100;
+    const offsetY = isShown ? 100 : -100;
     return (
       <Fragment key={index}>
         <Photo id={fileName} src={photoPath} alt={photo.alt} opacity={opacity} />
