@@ -1,0 +1,392 @@
+[
+  {
+    "destination": "ebnit",
+    "date": "d20221113",
+    "type": "hike",
+    "track": true,
+    "detailMap": "austria",
+    "shortTitle": "Hohe Kugel",
+    "title": "Viktorsberg - Hohe Kugel",
+    "title3d": {
+      "offsetY": 4,
+      "fontSize": 7,
+      "align": "left",
+      "width": 1920,
+      "height": 487
+    },
+    "movie": "ljKCQzZkShM",
+    "intro": "Um dem penetranten Nebel zu entkommen, ging es an diesem Novembersonntag in die Berge. Ziel sollte die 1600m hohe Hohe Kugel werden, die damit gerade noch unter der Schneegrenze lag.<br />Mein Auto stellte ich gegen 9:00 auf einem der letzten freien (offiziellen) Parkplätze am Kloster Viktorsberg ab.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Waldweg im Nebel",
+            "date": "2022-11-13T09:25:48.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Noch im dichten Nebel ging es dann zu Fuß los, doch schon nach ein paar Höhenmetern wurde es heller..."
+      },
+      {
+        "photos": [
+          {
+            "name": "002",
+            "alt": "Nebelgrenze",
+            "date": "2022-11-13T09:28:34.000+01:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "003",
+            "alt": "Knapp über dem Nebel",
+            "date": "2022-11-13T09:29:43.000+01:00",
+            "width": 1920,
+            "height": 849
+          }
+        ],
+        "text": "...und wie bestellt strahlte darüber die Sonne und die Luft war vollkommen klar. Entlang der sehr scharfen Nebelgrenze konnte man über das Rheintal blicken."
+      },
+      {
+        "photos": [
+          {
+            "name": "004",
+            "alt": "Kran ragt aus Nebel",
+            "date": "2022-11-13T09:30:08.000+01:00",
+            "width": 1008,
+            "height": 1080
+          }
+        ],
+        "text": "Die Spitze eine Krans ragte gerade aus dem Nebel."
+      },
+      {
+        "photos": [
+          {
+            "name": "005",
+            "alt": "Herbstwanderung Viktorsberg",
+            "date": "2022-11-13T09:33:48.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Ein kleines Stück ging es hier über die Wiese hinauf, bevor der Weg für eine Weile im Wald weiterging."
+      },
+      {
+        "photos": [
+          {
+            "name": "006",
+            "alt": "Kleines Holzhaus",
+            "date": "2022-11-13T10:04:31.000+01:00",
+            "width": 1830,
+            "height": 1080
+          }
+        ],
+        "text": "Nach rund 200m Aufstieg durch dem Wald erreichte ich die Wiesen von Letze. Dort befindet sich auch gleich Lamperts Hütte, ein nettes kleines Holzhaus mit mehreren Bänken."
+      },
+      {
+        "photos": [
+          {
+            "name": "007",
+            "alt": "Parkplatz Fraxern",
+            "date": "2022-11-13T10:10:04.000+01:00",
+            "width": 1920,
+            "height": 916
+          }
+        ],
+        "text": "Nicht nur von Viktorsberg kann man vom Rheintal her auf die Hohe Kugel laufen, sondern auch von Fraxern, was sich auf dem Bergrücken nebendran befindet. Dort sind mehr Parkplätze vorhanden, die man hier ganz rechts sehen kann."
+      },
+      {
+        "photos": [
+          {
+            "name": "008",
+            "alt": "Wanderung Viktorsberg",
+            "date": "2022-11-13T10:13:58.000+01:00",
+            "width": 1920,
+            "height": 1069
+          }
+        ],
+        "text": "Der Abschnitt über die Wiesen von Letze ist sehr schön. Der Gipfel im Hintergrund ist noch nicht die Hohe Kugel, sondern der First, den ich auf dieser Wanderung zuerst besteigen werde."
+      },
+      {
+        "photos": [
+          {
+            "name": "009",
+            "alt": "Bunte Lärchen",
+            "date": "2022-11-13T10:16:18.000+01:00",
+            "width": 1845,
+            "height": 1080
+          }
+        ],
+        "text": "Die Lärchen hier hatten sogar noch ein paar Nadeln und leuchteten bunt in der Sonne. Über dem Nebel war übrigens angenehm warmes T-Shirt-Wetter. :)<br />Unten links kann man das Gasthaus Almeinalpe sehen, bei dem mein Weg aber nicht vorbei ging."
+      },
+      {
+        "photos": [
+          {
+            "name": "010",
+            "alt": "Nebel im Tal",
+            "date": "2022-11-13T10:17:50.000+01:00",
+            "width": 1920,
+            "height": 1024
+          }
+        ],
+        "text": "Noch ein Blick zurück über das Nebelmeer, bevor es ein längeres Stück im Wald mit wenig Aussicht weiterging."
+      },
+      {
+        "photos": [
+          {
+            "name": "011",
+            "alt": "Wanderweg durch Wald",
+            "date": "2022-11-13T11:29:48.000+01:00",
+            "width": 1682,
+            "height": 1080
+          }
+        ],
+        "text": "So flach wie es hier auf dem Foto aussieht, war der Weg im Wald allerdings nur selten. Die meiste Zeit ging es über viele Wurzeln auf dem schmaler werdenden Grat ziemlich flott hinauf. Es blieb aber, wie die ganze Wanderung, immer ungefährlich."
+      },
+      {
+        "photos": [
+          {
+            "name": "012",
+            "alt": "Wanderung First",
+            "date": "2022-11-13T11:51:37.000+01:00",
+            "width": 1920,
+            "height": 823
+          }
+        ],
+        "text": "Nach 400m weiteren Aufstieg verlässt der Weg den Wald etwas unterhalb des Firsts. Hier der Blick Richtung Alp Maiensäss, über die ich den Abstieg geplant hatte. Links ist der <a href='/alpine/alpstein' target='_blank'>Alpstein</a> zu sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "013",
+            "alt": "Tanne vor Nebelmeer",
+            "date": "2022-11-13T11:59:16.000+01:00",
+            "width": 1732,
+            "height": 1080
+          }
+        ],
+        "text": "Ganz nett ging es jetzt noch 100m weiter hinauf, um zum Gipfelkreuz des First zu kommen."
+      },
+      {
+        "photos": [
+          {
+            "name": "014",
+            "alt": "Panorama First",
+            "date": "2022-11-13T12:29:02.000+01:00",
+            "width": 1920,
+            "height": 668
+          }
+        ],
+        "text": "Pause am Gipfelkreuz. Hier waren dann auch schon einige andere Wanderer am Genießen der tollen Aussicht über das Rheintal. Links den Bergrücken von Viktorsberg war ich hinaufgekommen, rechts den Bergrücken von Fraxern werde ich (zumindest zur Hälfte) nach dem Besuch der Hohen Kugel hinabsteigen."
+      },
+      {
+        "photos": [
+          {
+            "name": "015",
+            "alt": "First",
+            "date": "2022-11-13T12:34:26.000+01:00",
+            "width": 1920,
+            "height": 804
+          }
+        ],
+        "text": "Das Gipfelkreuz des First steht gar nicht auf dem Gipfel des Firsts, sondern auf eine Bergnase etwas darunter. Hier der Blick zurück, während ich ich schon auf dem Weg zum richtigen höchsten Punkt bin. Wie man sieht gab es hier auf dem Nordhang noch etwas Schnee."
+      },
+      {
+        "photos": [
+          {
+            "name": "016",
+            "alt": "Weg zu einzelnem Baum",
+            "date": "2022-11-13T12:37:59.000+01:00",
+            "width": 1909,
+            "height": 1080
+          }
+        ],
+        "text": "Und dieser Baum markiert den richtigen Gipfel des Firsts. Da der Gipfel von Bäumen umringt ist, hat man von dort aber nicht so eine schöne Aussicht, wie beim Kreuz... deshalb hält sich niemand hier auf."
+      },
+      {
+        "photos": [
+          {
+            "name": "017",
+            "alt": "Wanderung im Schnee",
+            "date": "2022-11-13T12:42:29.000+01:00",
+            "width": 1920,
+            "height": 737
+          }
+        ],
+        "text": "Vom First ging es dann über diesen Hang zum Pass zwischen First und Hohe Kugel insgesamt 150m bergab. Schnee gab es nur am flachen Anfang des Abstiegs. Wer nur auf die Hohe Kugel will, kann ein paar Höhenmeter sparen, wenn man den First auslässt."
+      },
+      {
+        "photos": [
+          {
+            "name": "018",
+            "alt": "Blick zum Hohen Freschen",
+            "date": "2022-11-13T13:28:46.000+01:00",
+            "width": 1920,
+            "height": 946
+          }
+        ],
+        "text": "So schnell und so wenig anstrengend geht es nur in diesem Bericht, denn nun bin ich schon wieder die 150m auf der anderen Seite des Pass aufgestiegen.<br />Hier der Blick zurück zum First (rechts). Dahinter ist der <a href='/alpine/laterns/20141129' target='_blank'>Hohe Freschen</a> zu sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "019",
+            "alt": "Nebelmeer",
+            "date": "2022-11-13T13:29:42.000+01:00",
+            "width": 849,
+            "height": 1080
+          }
+        ],
+        "text": "Vor dem Gipfel noch ein Blick hinab. Den hier sichtbaren Grat war ich auf den First hinauf gewandert."
+      },
+      {
+        "photos": [
+          {
+            "name": "020",
+            "alt": "Hohe Kugel",
+            "date": "2022-11-13T13:33:16.000+01:00",
+            "width": 1920,
+            "height": 974
+          }
+        ],
+        "text": "Und hier ist sie nun, die Hohe Kugel. An so einem schönen Sonntag mit Nebel im Tal ist sie natürlich gut besucht."
+      },
+      {
+        "photos": [
+          {
+            "name": "021",
+            "alt": "Nebel im Rheintal",
+            "date": "2022-11-13T13:35:16.000+01:00",
+            "width": 1920,
+            "height": 713
+          }
+        ],
+        "text": "Noch ein Panorama des Rheintals und des Bodensees (irgendwo rechts)."
+      },
+      {
+        "photos": [
+          {
+            "name": "022",
+            "alt": "Wanderweg Hohe Kugel",
+            "date": "2022-11-13T14:01:12.000+01:00",
+            "width": 1920,
+            "height": 710
+          }
+        ],
+        "text": "Blick von der Hohen Kugel Richtung Norden. Rechts im Tal kann man die Häuser von Ebnit erkennen, von wo man ebenfalls auf die <a href='/alpine/ebnit/20150628' target='_blank'>Hohe Kugel wandern</a> kann."
+      },
+      {
+        "photos": [
+          {
+            "name": "023",
+            "alt": "Panorama Hohe Kugel",
+            "date": "2022-11-13T14:01:39.000+01:00",
+            "width": 1920,
+            "height": 692
+          },
+          {
+            "name": "024",
+            "alt": "Aussicht Hohe Kugel",
+            "date": "2022-11-13T14:03:29.000+01:00",
+            "width": 1920,
+            "height": 1047
+          }
+        ],
+        "text": "Am spektakulärsten ist der Blick natürlich nach Westen Richtung Rheintal. Der Nebel war weiterhin dicht und die Nebelgrenze weiterhin auf rund 900m."
+      },
+      {
+        "photos": [
+          {
+            "name": "025",
+            "alt": "Wanderweg Fraxern Hohe Kugel",
+            "date": "2022-11-13T14:18:36.000+01:00",
+            "width": 1676,
+            "height": 1080
+          },
+          {
+            "name": "026",
+            "alt": "Rundwanderung Vorarlberg",
+            "date": "2022-11-13T14:21:58.000+01:00",
+            "width": 1920,
+            "height": 883
+          }
+        ],
+        "text": "Nach der verdienten Pause ging ich nun auf einem der Hauptwege hinab nach Maiensäss. Alleine ist man hier auf jeden Fall selten, wie man an dem gut ausgetretenem Weg erkennen kann."
+      },
+      {
+        "photos": [
+          {
+            "name": "027",
+            "alt": "Weg am Waldrand",
+            "date": "2022-11-13T14:37:42.000+01:00",
+            "width": 994,
+            "height": 1080
+          }
+        ],
+        "text": "Der Weg ist aber schön angelegt und geht auch nicht all zu steil hinab. Hier bin ich schon kurz vor Maiensäss."
+      },
+      {
+        "photos": [
+          {
+            "name": "028",
+            "alt": "Maiensäss",
+            "date": "2022-11-13T14:41:05.000+01:00",
+            "width": 1626,
+            "height": 1080
+          }
+        ],
+        "text": "Blick über die Weiden von Maiensäss. Die eigentliche Alp versteckt sich hinter einem kleinen Buckel im Hintergrund (der Fahrweg führt dort hin)."
+      },
+      {
+        "photos": [
+          {
+            "name": "029",
+            "alt": "Fahrstraße Maiensäss",
+            "date": "2022-11-13T14:45:53.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Und auf eben dieser Fahrstraße wollte ich wieder zurück zu 'meinem' Viktorsberg-Rücken gelangen. Deshalb bin ich gar nicht ganz bis zur Alp gelaufen, sondern habe zur Straße abgekürzt."
+      },
+      {
+        "photos": [
+          {
+            "name": "030",
+            "alt": "Nebelmeer am Abend",
+            "date": "2022-11-13T15:33:19.000+01:00",
+            "width": 1820,
+            "height": 1080
+          }
+        ],
+        "text": "Keine weiteren Fotos auf dem unspektakulären Weg zurück nach Letze, wo ich jetzt angekommen war. Nun zogen Wolken über den Himmel, die die bereits einsetzende Abendstimmung verstärkten - obwohl es gerade mal 15:30 war."
+      },
+      {
+        "photos": [
+          {
+            "name": "031",
+            "alt": "Nebelschwaden im Wald",
+            "date": "2022-11-13T16:19:04.000+01:00",
+            "width": 1920,
+            "height": 962
+          }
+        ],
+        "text": "Beim Abstieg von Letze durch den Wald vermied ich die Abkürzungen und lief die Serpentinen der Fahrstraße aus. Eigentlich gibt es noch einen schöneren Weg mit weniger Wald, aber der war wegen Holzarbeiten gesperrt.<br />Hier der letzte Moment, bevor ich wieder in den Nebel tauchte - so eine Nebelgrenze mitten im Wald hatte ich noch nie gesehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "032",
+            "alt": "Baum im dichten Nebel",
+            "date": "2022-11-13T16:29:49.000+01:00",
+            "width": 1754,
+            "height": 1080
+          }
+        ],
+        "text": "Kurz vor dem Auto war der Nebel dann extrem dicht und man konnte kaum den Weg sehen. Außerdem wurde es frostig kalt. Zurück am Parkplatz war ich gegen 16:30."
+      }
+    ],
+    "outro": "Fazit: Schöne Wanderung auf die Hohe Kugel bei wunderbarem Herbstwetter. Eine wirkliche Rundtour mit der Hohen Kugel ist etwas schwierig, d.h. man muss meisten ein Teil des Wegs doppelt gehen. Gebraucht habe ich für die 15,5km und 1000 Höhenmeter 7,5h Stunden. Mit weniger Pausen geht das natürlich auch schneller. Wer es weniger lang haben will, kann auch von Fraxern oder Ebnit starten."
+  }
+]
