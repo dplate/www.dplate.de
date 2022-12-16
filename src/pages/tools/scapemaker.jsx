@@ -1,5 +1,4 @@
 import React from 'react';
-import { Helmet } from 'react-helmet';
 import styled from 'styled-components';
 import { cardStyle, pictureStyle } from '../../styles/basestyle.js';
 import Layout from '../../components/layout.jsx';
@@ -16,9 +15,6 @@ const PageScapeMaker = (props) => {
   return (
     <Layout location={props.location}>
       <div>
-        <Helmet>
-          <title>ScapeMaker</title>
-        </Helmet>
         <Card>
           <h1>ScapeMaker</h1>
           <p>
@@ -52,6 +48,14 @@ const PageScapeMaker = (props) => {
         </Card>
       </div>
     </Layout>
+  );
+};
+
+export const Head = () => {
+  return (
+    <>
+      <title>ScapeMaker</title>
+    </>
   );
 };
 

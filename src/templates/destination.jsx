@@ -1,5 +1,4 @@
 import React from 'react';
-import { Helmet } from 'react-helmet';
 import { graphql, Link } from 'gatsby';
 import styled from 'styled-components';
 import formatDate from '../utils/formatDate';
@@ -94,20 +93,20 @@ const getDestinationDescription = (name, hikeReports, skiReports) => {
   return name;
 };
 
-const PageDestination = (props) => {
-  const { name, destination, hikeTeaser, skiTeaser } = props.data.destinationJson;
-  const reports = props.data.allReportJson.edges.map((element) => element.node);
+const extractReports = (allReportsJson) => {
+  const reports = allReportsJson.edges.map((element) => element.node);
   const hikeReports = reports.filter((report) => report.type === 'hike');
   const skiReports = reports.filter((report) => report.type !== 'hike');
+  return { hikeReports, skiReports };
+};
+
+const PageDestination = (props) => {
+  const { name, destination, hikeTeaser, skiTeaser } = props.data.destinationJson;
+  const { hikeReports, skiReports } = extractReports(props.data.allReportJson);
   const destinationTitle = getDestinationTitle(name, hikeReports, skiReports);
-  const destinationDescription = getDestinationDescription(name, hikeReports, skiReports);
   return (
     <Layout location={props.location}>
       <div>
-        <Helmet>
-          <title>{destinationTitle}</title>
-          <meta name="description" content={destinationDescription} />
-        </Helmet>
         <Title>{destinationTitle}</Title>
         <FlexContainer>
           {renderReports(name, destination, hikeTeaser, hikeReports, 'hike')}
@@ -115,6 +114,20 @@ const PageDestination = (props) => {
         </FlexContainer>
       </div>
     </Layout>
+  );
+};
+
+export const Head = (props) => {
+  const { name } = props.data.destinationJson;
+  const { hikeReports, skiReports } = extractReports(props.data.allReportJson);
+  const destinationTitle = getDestinationTitle(name, hikeReports, skiReports);
+  const destinationDescription = getDestinationDescription(name, hikeReports, skiReports);
+
+  return (
+    <>
+      <title>{destinationTitle}</title>
+      <meta name="description" content={destinationDescription} />
+    </>
   );
 };
 
@@ -126,7 +139,7 @@ export const pageQuery = graphql`
       skiTeaser
       hikeTeaser
     }
-    allReportJson(filter: { destination: { eq: $destination } }, sort: { fields: [date], order: DESC }, limit: 1000) {
+    allReportJson(filter: { destination: { eq: $destination } }, sort: { date: DESC }, limit: 1000) {
       edges {
         node {
           destination

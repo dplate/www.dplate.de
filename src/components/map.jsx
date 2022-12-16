@@ -11,7 +11,6 @@ import {
   CesiumTerrainProvider,
   ClockRange,
   Color,
-  CorridorGraphics,
   createWorldTerrain,
   Credit,
   Ellipsoid,
@@ -24,6 +23,8 @@ import {
   Ion,
   JulianDate,
   Math as CesiumMath,
+  PolylineGraphics,
+  PolylineOutlineMaterialProperty,
   Rectangle,
   SampledPositionProperty,
   SingleTileImageryProvider,
@@ -32,7 +33,6 @@ import {
   Viewer,
   WebMapTileServiceImageryProvider
 } from 'cesium';
-import { Helmet } from 'react-helmet';
 
 const CesiumContainer = styled.div`
   position: fixed;
@@ -184,12 +184,16 @@ const setupViewer = (trackData, hideSwissTopo) => {
     navigationHelpButton: false,
     navigationInstructionsInitiallyVisible: false,
     scene3DOnly: true,
+    msaaSamples: 4,
     showRenderLoopErrors: false,
     imageryProvider: new BingMapsImageryProvider({
       url: 'https://dev.virtualearth.net',
       key: 'AkvC0n8biVNXoCbpiAc4p3g7S9ZHoUWvlpgcJKYQd8FhCA5sn6C8OUmhIR8IEO0X',
       mapStyle: BingMapsStyle.AERIAL
-    })
+    }),
+    contextOptions: {
+      requestWebgl2: true
+    }
   });
   viewer.scene.globe.depthTestAgainstTerrain = true;
   viewer.scene.globe.tileCacheSize = 1000;
@@ -203,15 +207,20 @@ const setupViewer = (trackData, hideSwissTopo) => {
 };
 
 const createTrackEntity = (positions) => {
-  const corridor = new CorridorGraphics({
+  const polyline = new PolylineGraphics({
     positions,
-    material: Color.RED,
-    width: 2.0
+    material: new PolylineOutlineMaterialProperty({
+      color: Color.WHITE.withAlpha(0.7),
+      outlineWidth: 4,
+      outlineColor: Color.BLACK.withAlpha(0.3)
+    }),
+    width: 8.0,
+    clampToGround: true
   });
 
   return new Entity({
     id: 'track',
-    corridor
+    polyline
   });
 };
 
@@ -388,7 +397,7 @@ const updateHiker = (viewer, hiker) => {
   const geodesic = new EllipsoidGeodesic(currentCart, futureCart);
   const hikerHeading = geodesic.startHeading;
   const cameraHeading = viewer.camera.heading;
-  const viewAngle = ((cameraHeading - hikerHeading) + 2 * Math.PI) % (2 * Math.PI);
+  const viewAngle = (cameraHeading - hikerHeading + 2 * Math.PI) % (2 * Math.PI);
 
   if (viewAngle >= 0.25 * Math.PI && viewAngle < 0.75 * Math.PI) {
     entity.billboard = hiker.left;
@@ -567,9 +576,7 @@ const Map = (props) => {
 
   return (
     <div>
-      <Helmet>
-        <link href={withPrefix('Cesium/Widgets/widgets.css')} rel="stylesheet" type="text/css" />
-      </Helmet>
+      <link href={withPrefix('Cesium/Widgets/widgets.css')} rel="stylesheet" type="text/css" />
       <CesiumContainer
         id="cesiumContainer"
         key="cesiumContainer"

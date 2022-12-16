@@ -1,5 +1,4 @@
 import React from 'react';
-import { Helmet } from 'react-helmet';
 import styled from 'styled-components';
 import { cardStyle, pictureStyle } from '../../styles/basestyle.js';
 import Layout from '../../components/layout.jsx';
@@ -19,9 +18,6 @@ const pageAncient = (props) => {
   return (
     <Layout location={props.location}>
       <div>
-        <Helmet>
-          <title>Antike Spiele</title>
-        </Helmet>
         <Card>
           <h1>Labyland</h1>
           <Picture src="/screenshots/labyland.jpg" />
@@ -146,6 +142,14 @@ const pageAncient = (props) => {
         </Card>
       </div>
     </Layout>
+  );
+};
+
+export const Head = () => {
+  return (
+    <>
+      <title>Antike Spiele</title>
+    </>
   );
 };
 

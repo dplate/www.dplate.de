@@ -1,8 +1,8 @@
-import React from 'react';
+import React, { useCallback, useEffect, useReducer, useState } from 'react';
 import logoIcon from '../icons/logo.png';
 import menuIcon from '../icons/menu.svg';
 import styled from 'styled-components';
-import { graphql, Link, StaticQuery } from 'gatsby';
+import { graphql, Link, useStaticQuery } from 'gatsby';
 import Menu from './menu.jsx';
 
 const Header = styled.div`
@@ -72,7 +72,7 @@ const Content = styled.div`
 
 const layoutQuery = graphql`
   query AllDynamicItems {
-    allDestinationJson(filter: {}, sort: { fields: [name], order: ASC }) {
+    allDestinationJson(filter: {}, sort: { name: ASC }) {
       edges {
         node {
           destination
@@ -80,7 +80,7 @@ const layoutQuery = graphql`
         }
       }
     }
-    allReportJson(filter: {}, sort: { fields: [date], order: DESC }) {
+    allReportJson(filter: {}, sort: { date: DESC }) {
       edges {
         node {
           destination
@@ -93,72 +93,53 @@ const layoutQuery = graphql`
   }
 `;
 
-class Layout extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      showHeader: true,
-      showMenu: false,
-      lastScrollY: 0
+const Layout = (props) => {
+  const [showHeader, setShowHeader] = useState(true);
+  const [showMenu, setShowMenu] = useState(false);
+  const toggleMenu = useCallback(() => {
+    setShowMenu(!showMenu);
+  }, [showMenu]);
+  const [, handleScrolling] = useReducer((lastScrollY) => {
+    if (window.scrollY === lastScrollY) {
+      return;
+    }
+    setShowHeader(window.scrollY < lastScrollY);
+    return window.scrollY;
+  }, 0);
+  useEffect(() => {
+    window.addEventListener('scroll', handleScrolling);
+    return () => {
+      window.removeEventListener('scroll', handleScrolling);
     };
-    this.scrollHandler = this.scrollHandler.bind(this);
-    this.toggleMenu = this.toggleMenu.bind(this);
-  }
+  }, []);
 
-  scrollHandler() {
-    if (window.pageYOffset === this.state.lastScrollY) return;
-    this.setState({
-      showHeader: window.pageYOffset < this.state.lastScrollY,
-      lastScrollY: window.pageYOffset
-    });
-  }
+  const data = useStaticQuery(layoutQuery);
+  const reports = data.allReportJson.edges.map((element) => element.node);
+  const destinations = data.allDestinationJson.edges.map((element) => element.node);
 
-  toggleMenu() {
-    this.setState({ showMenu: !this.state.showMenu });
-  }
-
-  componentDidMount() {
-    window.addEventListener('scroll', this.scrollHandler);
-  }
-
-  componentWillUnmount() {
-    window.removeEventListener('scroll', this.scrollHandler);
-  }
-
-  render() {
-    return (
-      <StaticQuery
-        query={layoutQuery}
-        render={(data) => {
-          const reports = data.allReportJson.edges.map((element) => element.node);
-          const destinations = data.allDestinationJson.edges.map((element) => element.node);
-          return (
-            <div>
-              <Content>{this.props.children}</Content>
-              <Header className={this.state.showHeader ? 'showHeader' : ''}>
-                <MenuButton onClick={this.toggleMenu}>
-                  <img src={menuIcon} width="24px" height="24px" alt="Menü" />
-                  <MenuText>Menü</MenuText>
-                </MenuButton>
-                <Link to="/">
-                  <Title>www.dplate.de</Title>
-                  <Logo src={logoIcon} width="48px" height="48px" alt="" />
-                </Link>
-              </Header>
-              {this.state.showMenu && (
-                <Menu
-                  onClose={this.toggleMenu}
-                  reports={reports}
-                  destinations={destinations}
-                  currentPath={this.props.location.pathname}
-                />
-              )}
-            </div>
-          );
-        }}
-      />
-    );
-  }
-}
+  return (
+    <div>
+      <Content>{props.children}</Content>
+      <Header className={showHeader ? 'showHeader' : ''}>
+        <MenuButton onClick={toggleMenu}>
+          <img src={menuIcon} width="24px" height="24px" alt="Menü" />
+          <MenuText>Menü</MenuText>
+        </MenuButton>
+        <Link to="/">
+          <Title>www.dplate.de</Title>
+          <Logo src={logoIcon} width="48px" height="48px" alt="" />
+        </Link>
+      </Header>
+      {showMenu && (
+        <Menu
+          onClose={toggleMenu}
+          reports={reports}
+          destinations={destinations}
+          currentPath={props.location.pathname}
+        />
+      )}
+    </div>
+  );
+};
 
 export default Layout;

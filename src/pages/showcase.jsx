@@ -1,5 +1,4 @@
 import React from 'react';
-import { Helmet } from 'react-helmet';
 import { Link } from 'gatsby';
 import styled from 'styled-components';
 import { cardStyle, pictureStyle } from '../styles/basestyle.js';
@@ -18,9 +17,6 @@ const PageShowcase = (props) => {
   return (
     <Layout location={props.location}>
       <div>
-        <Helmet>
-          <title>Photos</title>
-        </Helmet>
         <Description>
           <h1>Fotolabor</h1>
           <p>
@@ -96,6 +92,14 @@ const PageShowcase = (props) => {
         </a>
       </div>
     </Layout>
+  );
+};
+
+export const Head = () => {
+  return (
+    <>
+      <title>Fotos</title>
+    </>
   );
 };
 

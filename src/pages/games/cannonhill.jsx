@@ -1,5 +1,4 @@
 import React from 'react';
-import { Helmet } from 'react-helmet';
 import styled from 'styled-components';
 import { cardStyle, pictureStyle } from '../../styles/basestyle.js';
 import Layout from '../../components/layout.jsx';
@@ -16,9 +15,6 @@ const PageCannonhill = (props) => {
   return (
     <Layout location={props.location}>
       <div>
-        <Helmet>
-          <title>Cannonhill</title>
-        </Helmet>
         <Card>
           <h1>Cannonhill</h1>
           <p>
@@ -53,6 +49,14 @@ const PageCannonhill = (props) => {
         </Card>
       </div>
     </Layout>
+  );
+};
+
+export const Head = () => {
+  return (
+    <>
+      <title>Cannonhill</title>
+    </>
   );
 };
 

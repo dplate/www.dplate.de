@@ -1,11 +1,10 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useState, Suspense } from 'react';
 import PropTypes from 'prop-types';
 import styled, { keyframes } from 'styled-components';
-import loadable from '@loadable/component';
 import resizeIcon from '../icons/resize.svg';
 import closeIcon from '../icons/close.svg';
 import mapIcon from '../icons/map.svg';
-const Map = loadable(() => import('./map.jsx'));
+const Map = React.lazy(() => import('./map.jsx'));
 
 const MenuBar = styled.div`
   position: fixed;
@@ -147,7 +146,11 @@ const MapButton = ({ time, mapProps }) => {
         <ResizeIcon onClick={changeSizePrepared} src={resizeIcon} />
         <CloseIcon onClick={() => close(setSize)} src={closeIcon} />
       </MenuBar>
-      {size !== 'icon' && <Map {...mapProps} time={time} size={size} />}
+      {size !== 'icon' && (
+        <Suspense fallback={'loading'}>
+          <Map {...mapProps} time={time} size={size} />
+        </Suspense>
+      )}
       <Button onClick={changeSizePrepared} className={size}>
         {renderButton(time, size)}
       </Button>

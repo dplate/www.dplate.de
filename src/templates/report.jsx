@@ -1,5 +1,4 @@
 import React from 'react';
-import { Helmet } from 'react-helmet';
 import styled from 'styled-components';
 import MapButton from '../components/mapbutton.jsx';
 import Title3D from '../components/title3d.jsx';
@@ -95,6 +94,26 @@ const Movie = styled.div`
   }
 `;
 
+const getReportPath = (destination, date) => {
+  return '/' + destination + '/' + date.substring(1);
+};
+
+const buildPageTitle = (title, type) => {
+  if (type === 'hike') {
+    return `⛰ ${title} Wanderung`;
+  }
+  return `⛷ ${title} Skigebiet`;
+};
+
+const buildPageDescription = (title, type, date) => {
+  if (type === 'hike') {
+    return `⛰ Wandern ${title} vom ${formatDate(date)} mit vielen Fotos, ausführlicher Wegbeschreibung und Wanderkarte`;
+  }
+  return `⛷ Skigebiet ${title} am ${formatDate(
+    date
+  )} mit vielen Fotos, Pistenplan und Beschreibung der Abfahrten/Schneeverhältnisse`;
+};
+
 class Report extends React.Component {
   constructor(props) {
     super(props);
@@ -179,13 +198,13 @@ class Report extends React.Component {
     });
   }
 
-  renderPhoto(photo, index) {
+  renderPhoto(reportPath, photo, index) {
     let fileName = photo.name;
     if (process.env.NODE_ENV === `production` && photo.alt) {
       fileName = photo.alt.split(' ').join('-').toLowerCase() + '_' + photo.name;
     }
 
-    const photoPath = '/photos' + this.getReportPath() + '/' + fileName + '.jpg';
+    const photoPath = '/photos' + reportPath + '/' + fileName + '.jpg';
     return (
       <PhotoContainer
         href={'#' + fileName}
@@ -219,36 +238,14 @@ class Report extends React.Component {
     );
   }
 
-  renderLandmark(landmark, index) {
+  renderLandmark(reportPath, landmark, index) {
     return (
       <Landmark key={index} className="landmark">
-        {landmark.photos && landmark.photos.map(this.renderPhoto.bind(this))}
+        {landmark.photos && landmark.photos.map(this.renderPhoto.bind(this, reportPath))}
         {landmark.videos && landmark.videos.map(this.renderVideo.bind(this))}
         <Chapter dangerouslySetInnerHTML={{ __html: landmark.text }} />
       </Landmark>
     );
-  }
-
-  getReportPath() {
-    return '/' + this.props.data.reportJson.destination + '/' + this.props.data.reportJson.date.substring(1);
-  }
-
-  buildPageTitle(title, type) {
-    if (type === 'hike') {
-      return `⛰ ${title} Wanderung`;
-    }
-    return `⛷ ${title} Skigebiet`;
-  }
-
-  buildPageDescription(title, type, date) {
-    if (type === 'hike') {
-      return `⛰ Wandern ${title} vom ${formatDate(
-        date
-      )} mit vielen Fotos, ausführlicher Wegbeschreibung und Wanderkarte`;
-    }
-    return `⛷ Skigebiet ${title} am ${formatDate(
-      date
-    )} mit vielen Fotos, Pistenplan und Beschreibung der Abfahrten/Schneeverhältnisse`;
   }
 
   renderGpxDownload(gpxPath) {
@@ -274,26 +271,28 @@ class Report extends React.Component {
 
   render() {
     const content = this.props.data.reportJson;
-    const { date, type, track, timeShift, detailMap, hideSwissTopo, title, title3d, movie, intro, landmarks, outro } =
-      content;
-    const reportPath = this.getReportPath();
+    const {
+      destination,
+      date,
+      type,
+      track,
+      timeShift,
+      detailMap,
+      hideSwissTopo,
+      title,
+      title3d,
+      movie,
+      intro,
+      landmarks,
+      outro
+    } = content;
+    const reportPath = getReportPath(destination, date);
     const gpxPath = '/tracks' + reportPath + '.gpx';
     const fullTitle = title + ' - ' + formatDate(date);
-    const pageTitle = this.buildPageTitle(title, type);
+    const pageTitle = buildPageTitle(title, type);
     return (
       <Layout location={this.props.location}>
         <Content>
-          <Helmet>
-            <title>{pageTitle}</title>
-            <meta name="description" property="og:description" content={this.buildPageDescription(title, type, date)} />
-            <meta property="og:title" content={pageTitle} />
-            <meta property="og:type" content="website" />
-            <meta property="og:url" content={`https://www.dplate.de/alpine${reportPath}`} />
-            {title3d && <meta property="og:image" content={`https://www.dplate.de/photos${reportPath}/title.jpg`} />}
-            {movie && <meta property="og:video" content={`https://youtu.be/${movie}`} />}
-            {movie && <meta property="og:video:height" content="1920" />}
-            {movie && <meta property="og:video:width" content="1080" />}
-          </Helmet>
           {!title3d && <h1>{fullTitle}</h1>}
           {title3d && (
             <Title3D
@@ -307,7 +306,7 @@ class Report extends React.Component {
             />
           )}
           <Chapter dangerouslySetInnerHTML={{ __html: intro }} />
-          {landmarks.map(this.renderLandmark.bind(this))}
+          {landmarks.map(this.renderLandmark.bind(this, reportPath))}
           <Chapter dangerouslySetInnerHTML={{ __html: outro }} />
           {track && this.renderGpxDownload(gpxPath)}
           {track && this.state.time && (
@@ -347,6 +346,25 @@ class Report extends React.Component {
     );
   }
 }
+
+export const Head = (props) => {
+  const { destination, date, type, title, title3d, movie } = props.data.reportJson;
+  const pageTitle = buildPageTitle(title, type);
+  const reportPath = getReportPath(destination, date);
+  return (
+    <>
+      <title>{pageTitle}</title>
+      <meta name="description" property="og:description" content={buildPageDescription(title, type, date)} />
+      <meta property="og:title" content={pageTitle} />
+      <meta property="og:type" content="website" />
+      <meta property="og:url" content={`https://www.dplate.de/alpine${reportPath}`} />
+      {title3d && <meta property="og:image" content={`https://www.dplate.de/photos${reportPath}/title.jpg`} />}
+      {movie && <meta property="og:video" content={`https://youtu.be/${movie}`} />}
+      {movie && <meta property="og:video:height" content="1920" />}
+      {movie && <meta property="og:video:width" content="1080" />}
+    </>
+  );
+};
 
 export default Report;
 

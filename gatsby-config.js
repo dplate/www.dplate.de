@@ -1,9 +1,7 @@
 module.exports = {
   plugins: [
     'gatsby-transformer-json',
-    'gatsby-plugin-loadable-components-ssr',
     'gatsby-plugin-styled-components',
-    'gatsby-plugin-react-helmet',
     {
       resolve: 'gatsby-source-filesystem',
       options: {
@@ -26,5 +24,6 @@ module.exports = {
       }
     }
   ],
-  pathPrefix: '/'
+  pathPrefix: '/',
+  trailingSlash: 'never'
 };

@@ -1,11 +1,9 @@
 import React, { Fragment } from 'react';
-import { Helmet } from 'react-helmet';
 import AnimatedTitle from '../components/animatedtitle.jsx';
 import { graphql } from 'gatsby';
 import styled from 'styled-components';
 import formatDate from '../utils/formatDate.js';
-import loadable from '@loadable/component';
-const Map = loadable(() => import('../components/map.jsx'));
+const Map = React.lazy(() => import('../components/map.jsx'));
 
 const Movie = styled.div`
   position: fixed;
@@ -75,6 +73,10 @@ const Label = styled.div.attrs(({ offsetY }) => ({
   transition: top 2s ease-in-out;
 `;
 
+const getReportPath = (destination, date) => {
+  return '/' + destination + '/' + date.substring(1);
+};
+
 class ReportMovie extends React.Component {
   constructor(props) {
     super(props);
@@ -86,13 +88,10 @@ class ReportMovie extends React.Component {
     };
   }
 
-  getReportPath() {
-    return '/' + this.props.data.reportJson.destination + '/' + this.props.data.reportJson.date.substring(1);
-  }
-
   async outputMetadata() {
     const { date, destination, title, shortTitle } = this.props.data.reportJson;
-    const sections = await this.generateSections();
+    const reportPath = getReportPath(destination, date);
+    const sections = await this.generateSections(reportPath);
     console.log({
       title: `⛰ ${title} Wanderung`,
       description:
@@ -103,7 +102,7 @@ class ReportMovie extends React.Component {
         '.\n' +
         'Der ausführliche Bericht dieser Wanderung und der Download der GPX-Datei sind hier zu finden:\n' +
         'https://www.dplate.de/alpine' +
-        this.getReportPath() +
+        reportPath +
         '\n' +
         '\n' +
         'Inhalt:\n' +
@@ -141,8 +140,8 @@ class ReportMovie extends React.Component {
     return date.getUTCHours() * 60 * 60 + date.getUTCMinutes() * 60 + date.getUTCSeconds();
   }
 
-  async generateSections() {
-    const gpxRaw = await (await fetch(this.buildGpxPath())).text();
+  async generateSections(reportPath) {
+    const gpxRaw = await (await fetch(this.buildGpxPath(reportPath))).text();
     const doc = new window.DOMParser().parseFromString(gpxRaw, 'text/xml');
     const trackPoints = Array.prototype.slice.call(doc.getElementsByTagName('trkpt'));
     const startDate = trackPoints[0].getElementsByTagName('time')[0].firstChild.nodeValue;
@@ -284,9 +283,9 @@ class ReportMovie extends React.Component {
     }
   }
 
-  renderPhoto(photo, index) {
+  renderPhoto(reportPath, photo, index) {
     const fileName = photo.name;
-    const photoPath = '/photos' + this.getReportPath() + '/' + fileName + '.jpg';
+    const photoPath = '/photos' + reportPath + '/' + fileName + '.jpg';
     const isShown = this.state.phase === 'photo' && this.state.photo.name === fileName;
     const opacity = isShown ? 1 : 0;
     const offsetY = isShown ? 100 : -100;
@@ -298,20 +297,25 @@ class ReportMovie extends React.Component {
     );
   }
 
-  renderLandmark(landmark, index) {
+  renderLandmark(reportPath, landmark, index) {
     return (
       <Landmark key={index} className="landmark">
-        {landmark.photos && landmark.photos.map(this.renderPhoto.bind(this))}
+        {landmark.photos && landmark.photos.map(this.renderPhoto.bind(this, reportPath))}
       </Landmark>
     );
   }
 
   renderTitle() {
     const introActive = this.state.phase === 'loading' || this.state.phase === 'intro';
-    const { date, title, title3d } = this.props.data.reportJson;
+    const { destination, date, title, title3d } = this.props.data.reportJson;
     const fullTitle = title + ' - ' + formatDate(date);
     return (
-      <AnimatedTitle reportPath={this.getReportPath()} title={fullTitle} title3d={title3d} visible={introActive} />
+      <AnimatedTitle
+        reportPath={getReportPath(destination, date)}
+        title={fullTitle}
+        title3d={title3d}
+        visible={introActive}
+      />
     );
   }
 
@@ -331,16 +335,17 @@ class ReportMovie extends React.Component {
     return <Curtain opacity={opacity} />;
   }
 
-  buildGpxPath() {
-    return '/tracks' + this.getReportPath() + '.gpx';
+  buildGpxPath(reportPath) {
+    return '/tracks' + reportPath + '.gpx';
   }
 
   renderMap() {
-    const { type, track, timeShift, detailMap, hideSwissTopo } = this.props.data.reportJson;
+    const { destination, date, type, track, timeShift, detailMap, hideSwissTopo } = this.props.data.reportJson;
+    const reportPath = getReportPath(destination, date);
     if (track) {
       return (
         <Map
-          gpxPath={this.buildGpxPath()}
+          gpxPath={this.buildGpxPath(reportPath)}
           time={this.getTargetTime()}
           timeShift={timeShift}
           detailMap={detailMap}
@@ -355,24 +360,33 @@ class ReportMovie extends React.Component {
 
   render() {
     const reportJson = this.props.data.reportJson;
+    const { destination, date } = reportJson;
+    const reportPath = getReportPath(destination, date);
     reportJson.landmarks = reportJson.landmarks.filter((landmark) => {
       return landmark.photos.length > 0;
     });
     return (
       <Movie id="movie">
-        <Helmet>
-          <link rel="canonical" href={`/alpine${this.getReportPath()}`} />
-          <meta name="robots" content="noindex" />
-        </Helmet>
         {this.renderCurtain()}
         {this.renderLogo()}
         {this.renderTitle()}
         {this.renderMap()}
-        {this.props.data.reportJson.landmarks.map(this.renderLandmark)}
+        {this.props.data.reportJson.landmarks.map(this.renderLandmark.bind(this, reportPath))}
       </Movie>
     );
   }
 }
+
+export const Head = (props) => {
+  const { destination, date } = props.data.reportJson;
+  const reportPath = getReportPath(destination, date);
+  return (
+    <>
+      <link rel="canonical" href={`/alpine${reportPath}`} />
+      <meta name="robots" content="noindex" />
+    </>
+  );
+};
 
 export default ReportMovie;
 

@@ -1,5 +1,4 @@
 import React from 'react';
-import { Helmet } from 'react-helmet';
 import { graphql, Link } from 'gatsby';
 import styled from 'styled-components';
 import formatDate from '../utils/formatDate';
@@ -42,9 +41,6 @@ const PageIndex = (props) => {
   return (
     <Layout location={props.location}>
       <div>
-        <Helmet>
-          <title>www.dplate.de</title>
-        </Helmet>
         <Title>
           <h1>Herzlich willkommen</h1>
           <p>Hier findest Du ein wildes Sammelsurium von allem, was ich für veröffentlichbar halte.</p>
@@ -89,9 +85,17 @@ const PageIndex = (props) => {
   );
 };
 
+export const Head = () => {
+  return (
+    <>
+      <title>www.dplate.de</title>
+    </>
+  );
+};
+
 export const pageQuery = graphql`
   query LatestReport {
-    allReportJson(filter: {}, sort: { fields: [date], order: DESC }, limit: 5) {
+    allReportJson(filter: {}, sort: { date: DESC }, limit: 5) {
       edges {
         node {
           destination

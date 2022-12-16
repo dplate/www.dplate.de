@@ -1,5 +1,4 @@
 import React from 'react';
-import { Helmet } from 'react-helmet';
 import styled from 'styled-components';
 import { cardStyle } from '../styles/basestyle.js';
 import Layout from '../components/layout.jsx';
@@ -12,9 +11,6 @@ const PageImpressum = (props) => {
   return (
     <Layout location={props.location}>
       <Content>
-        <Helmet>
-          <title>Impressum und Datenschutzerklärung</title>
-        </Helmet>
         <h1>Impressum und Datenschutzerklärung</h1>
         <h2>Kontaktadresse</h2>
         <p>
@@ -82,6 +78,14 @@ const PageImpressum = (props) => {
         </p>
       </Content>
     </Layout>
+  );
+};
+
+export const Head = () => {
+  return (
+    <>
+      <title>Impressum und Datenschutzerklärung</title>
+    </>
   );
 };
 

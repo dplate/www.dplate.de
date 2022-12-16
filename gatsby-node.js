@@ -147,6 +147,7 @@ exports.onCreateWebpackConfig = ({ getConfig, actions, loaders }) => {
         zlib: require.resolve('browserify-zlib'),
         assert: require.resolve('assert/'),
         stream: require.resolve('stream-browserify'),
+        url: require.resolve('url/'),
         util: require.resolve('util/')
       }
     },

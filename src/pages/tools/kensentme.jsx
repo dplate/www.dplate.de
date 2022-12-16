@@ -1,5 +1,4 @@
 import React from 'react';
-import { Helmet } from 'react-helmet';
 import styled from 'styled-components';
 import { cardStyle, pictureStyle, videoContainerStyle, videoWrapperStyle } from '../../styles/basestyle.js';
 import Layout from '../../components/layout.jsx';
@@ -24,9 +23,6 @@ const PageKenSentMe = (props) => {
   return (
     <Layout location={props.location}>
       <div>
-        <Helmet>
-          <title>KenSentMe</title>
-        </Helmet>
         <Card>
           <h1>KenSentMe</h1>
           <p>
@@ -46,7 +42,6 @@ const PageKenSentMe = (props) => {
           <VideoWrapper>
             <iframe
               src="https://www.youtube.com/embed/mwb6_sKLWNE?wmode=transparent"
-              frameBorder="0"
               allowFullScreen
               title="Beispiel 1"
             />
@@ -57,7 +52,6 @@ const PageKenSentMe = (props) => {
           <VideoWrapper>
             <iframe
               src="https://www.youtube.com/embed/keunot3XZfw?wmode=transparent"
-              frameBorder="0"
               allowFullScreen
               title="Beispiel 2"
             />
@@ -68,7 +62,6 @@ const PageKenSentMe = (props) => {
           <VideoWrapper>
             <iframe
               src="https://www.youtube.com/embed/16ay-Kw0TcM?wmode=transparent"
-              frameBorder="0"
               allowFullScreen
               title="Beispiel 3"
             />
@@ -159,6 +152,14 @@ const PageKenSentMe = (props) => {
         </Card>
       </div>
     </Layout>
+  );
+};
+
+export const Head = () => {
+  return (
+    <>
+      <title>KenSentMe</title>
+    </>
   );
 };
 

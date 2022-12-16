@@ -1,5 +1,4 @@
 import React from 'react';
-import { Helmet } from 'react-helmet';
 import styled from 'styled-components';
 import { cardStyle, pictureStyle } from '../../styles/basestyle.js';
 import Layout from '../../components/layout.jsx';
@@ -16,9 +15,6 @@ const PageDrawAMountain = (props) => {
   return (
     <Layout location={props.location}>
       <div>
-        <Helmet>
-          <title>Draw-A-Mountain</title>
-        </Helmet>
         <Card>
           <h1>Draw-A-Mountain</h1>
           <p>
@@ -62,6 +58,14 @@ const PageDrawAMountain = (props) => {
         </Card>
       </div>
     </Layout>
+  );
+};
+
+export const Head = () => {
+  return (
+    <>
+      <title>Draw-A-Mountain</title>
+    </>
   );
 };
 

@@ -14,13 +14,13 @@ Install required dependencies:
 
 This command serves the app at `http://localhost:8000` and provides basic URL routing for the app:
 
-    gatsby develop
+    npm run develop
 
 ### Build
 
 Builds the page into the `public` folder:
 
-    gatsby build
+    npm run build
 
 ### Prettier
 

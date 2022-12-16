@@ -1,5 +1,4 @@
 import React from 'react';
-import { Helmet } from 'react-helmet';
 import styled from 'styled-components';
 import { cardStyle, pictureStyle } from '../../styles/basestyle.js';
 import Layout from '../../components/layout.jsx';
@@ -16,9 +15,6 @@ const PageModracer = (props) => {
   return (
     <Layout location={props.location}>
       <div>
-        <Helmet>
-          <title>Modracer</title>
-        </Helmet>
         <Card>
           <h1>Modracer</h1>
           <p>
@@ -82,6 +78,14 @@ const PageModracer = (props) => {
         </Card>
       </div>
     </Layout>
+  );
+};
+
+export const Head = () => {
+  return (
+    <>
+      <title>Modracer</title>
+    </>
   );
 };
 
