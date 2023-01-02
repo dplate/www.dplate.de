@@ -345,7 +345,14 @@ const updateCamera = (viewer, hiker) => {
   if (viewer.clock.shouldAnimate) {
     const futureCart = Cartographic.fromCartesian(hikerPosition.getValue(futureTime));
     const geodesic = new EllipsoidGeodesic(currentCart, futureCart);
-    newHeading = geodesic.startHeading;
+    let necessaryHeadingChange = geodesic.startHeading - viewer.camera.heading;
+    if (necessaryHeadingChange > Math.PI) {
+      necessaryHeadingChange -= 2 * Math.PI;
+    }
+    if (necessaryHeadingChange < -Math.PI) {
+      necessaryHeadingChange += 2 * Math.PI;
+    }
+    newHeading += necessaryHeadingChange * 0.01;
 
     const optimalCameraHeight = findOptimalCameraHeight(
       viewer,
