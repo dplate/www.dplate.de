@@ -226,6 +226,12 @@ class ReportMovie extends React.Component {
     switch (this.state.phase) {
       case 'loading':
         this.setState({
+          phase: 'waitForStart'
+        });
+        window.setTimeout(this.nextPhase, 5000);
+        break;
+      case 'waitForStart':
+        this.setState({
           phase: 'intro'
         });
         break;
@@ -268,6 +274,7 @@ class ReportMovie extends React.Component {
   getTargetTime() {
     switch (this.state.phase) {
       case 'loading':
+      case 'waitForStart':
       case 'intro':
       case 'introScroll':
         return 'start';
