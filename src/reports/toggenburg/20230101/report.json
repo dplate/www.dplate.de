@@ -1,0 +1,428 @@
+[
+  {
+    "destination": "toggenburg",
+    "date": "d20230101",
+    "type": "hike",
+    "track": true,
+    "detailMap": "swiss",
+    "shortTitle": "Tanzboden",
+    "title": "Ricken - Tanzboden",
+    "title3d": {
+      "offsetY": 5,
+      "fontSize": 9,
+      "align": "right",
+      "width": 1920,
+      "height": 599
+    },
+    "movie": "M0gKDIeATYI",
+    "intro": "Eigentlich fahre ich an Neujahr gerne zum Skifahren, aber da die Schneelage eher bescheiden war und hohe Temperaturen angesagt waren, unternahm ich stattdessen eine Wanderung. Ich suchte mir einen Abschnitt des Toggenburger Höhenwegs aus, genauer vom knapp 800m hohen Rickenpass über den Regelstein zum 1440m hohen Tanzboden.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Kleiner Waldbach",
+            "date": "2023-01-01T08:53:58.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Nachdem ich mein Auto gegen 8:30 auf dem Wanderparkplatz Eich (etwas südlich von Ricken) abstellte, wählte ich für den Aufstieg auf den Regelstein die, mit 1:45h ausgewiesene, kürzeste Variante.<br />Diese ging zuerst nur leicht ansteigend (und recht langweilig) auf einem geschotterten Forstweg den Hang hinauf. Also einziges Fotomotiv musste dieser kleine Bach herhalten. "
+      },
+      {
+        "photos": [
+          {
+            "name": "002",
+            "alt": "Wurzelweg",
+            "date": "2023-01-01T09:09:42.000+01:00",
+            "width": 720,
+            "height": 1080
+          }
+        ],
+        "text": "Nach rund 20min hörte die Fahrstraße auf und der Weg ging den Hang nun direkt bergauf, zum Teil - wie hier - über viele Wurzeln. Jetzt wurde mir auch warm genug, dass ich die Jacke wegpacken konnte und den Rest des Tages im T-Shirt und kurzen Hosen unterwegs war (und ja, es war der 1. Januar)."
+      },
+      {
+        "photos": [
+          {
+            "name": "003",
+            "alt": "Wegweiser Regelstein",
+            "date": "2023-01-01T09:44:21.000+01:00",
+            "width": 1820,
+            "height": 1080
+          }
+        ],
+        "text": "Den Gipfel des 1300m hohen Regelstein erreichte ich um 9:45 und dort traf ich auch auf die ersten Sonnenstrahlen des Tages."
+      },
+      {
+        "photos": [
+          {
+            "name": "004",
+            "alt": "Regelstein",
+            "date": "2023-01-01T09:45:16.000+01:00",
+            "width": 1873,
+            "height": 1080
+          }
+        ],
+        "text": "Aussichtsbank und Feuerstelle auf dem sehr flachen Gipfel des Regelsteins. Von dort hat man hauptsächlich Aussicht auf den Säntis (hier rechts zu sehen) und in das Toggenburg."
+      },
+      {
+        "photos": [
+          {
+            "name": "005",
+            "alt": "Abstieg über Wiesen",
+            "date": "2023-01-01T10:00:08.000+01:00",
+            "width": 1920,
+            "height": 935
+          }
+        ],
+        "text": "Ich hielt mich nicht lange auf dem Gipfel auf und stieg auf der Südseite auf schönem Wiesenweg wieder rund 100m ab."
+      },
+      {
+        "photos": [
+          {
+            "name": "006",
+            "alt": "Figuren aus Holz",
+            "date": "2023-01-01T10:07:31.000+01:00",
+            "width": 1586,
+            "height": 1080
+          },
+          {
+            "name": "007",
+            "alt": "Holzeule",
+            "date": "2023-01-01T10:11:24.000+01:00",
+            "width": 841,
+            "height": 1080
+          },
+          {
+            "name": "008",
+            "alt": "Weg durch grünen Wald",
+            "date": "2023-01-01T10:11:52.000+01:00",
+            "width": 1592,
+            "height": 1080
+          }
+        ],
+        "text": "Dann führte der Weg durch einen schönen lichten Wald, in dem sich Waldarbeiter mit vielen kleine Holzfiguren verewigt haben."
+      },
+      {
+        "photos": [
+          {
+            "name": "009",
+            "alt": "Gipfel Breitenau",
+            "date": "2023-01-01T10:23:59.000+01:00",
+            "width": 1788,
+            "height": 1080
+          }
+        ],
+        "text": "Nach dem Abschnitt im Wald musste ich wieder 80m aufsteigen, um das Gipfelkreuz des Breitenau zu erreichen. Der eigentliche Weg geht dort vorbei, aber den kleinen Abstecher sollte man schon machen. Dort packten gerade welche ihr Zelt zusammen, die dort oben übernachtet hatten.<br />Leider versteckte sich die Sonne hier noch hinter hohen Schleierwolken, so dass es nicht ganz sonnig war."
+      },
+      {
+        "photos": [
+          {
+            "name": "010",
+            "alt": "Weg zwischen Zaun und Waldrand",
+            "date": "2023-01-01T10:51:23.000+01:00",
+            "width": 1611,
+            "height": 1080
+          }
+        ],
+        "text": "Nach dem Breitenau ging es auf dem breiten Grat weiter... wieder 80m runter, aber immer auf schön angelegten Wanderwegen. Hier entlang einer sumpfigen Wiese bei der Stotzweid."
+      },
+      {
+        "photos": [
+          {
+            "name": "011",
+            "alt": "Blick auf Zürchersee",
+            "date": "2023-01-01T11:03:27.000+01:00",
+            "width": 1882,
+            "height": 1080
+          }
+        ],
+        "text": "Dann folgte der finale 250m Anstieg auf den Tanzboden und es gab etwas mehr Aussicht. Hier z.B. zum Zürchersee."
+      },
+      {
+        "photos": [
+          {
+            "name": "012",
+            "alt": "Wanderweg Tanzboden",
+            "date": "2023-01-01T11:19:27.000+01:00",
+            "width": 1920,
+            "height": 836
+          }
+        ],
+        "text": "Und nachdem der Weg einen Knick machte, wurde nun das erste mal das Ziel, der Tanzboden, richtig sichtbar. Der hier breite Weg wird normalerweise im Winter präpariert - aber der einzige verbliebene Schnee ist dort rechts am Gipfel zu sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "013",
+            "alt": "Gasthaus Tanzboden",
+            "date": "2023-01-01T11:27:41.000+01:00",
+            "width": 1787,
+            "height": 1080
+          }
+        ],
+        "text": "Am Gasthaus Tanzboden kam ich um 11:30 nach insgesamt 3h an. Ich war allerdings recht flott unterwegs, man sollte bei normalem Tempo schon etwas mehr Zeit einplanen.<br />Das Gasthaus war geöffnet, aber ich ging weiter zur Aussichtsbank auf dem eigentlichen Gipfel nebendran."
+      },
+      {
+        "photos": [
+          {
+            "name": "014",
+            "alt": "Gipfel Tanzboden",
+            "date": "2023-01-01T11:29:23.000+01:00",
+            "width": 1899,
+            "height": 1080
+          }
+        ],
+        "text": "Und hier nun das Gipfelkreuz des Tanzboden. Nur nach Westen hin ist er steil und bietet in diese Richtung zum Zürchersee die schönste Aussicht.<br />So leer wie auf dem Foto ist es dort wohl nur selten, auch bei mir wurde es kurze Zeit später deutlich belebter."
+      },
+      {
+        "photos": [
+          {
+            "name": "015",
+            "alt": "Aussicht Tanzboden",
+            "date": "2023-01-01T11:50:57.000+01:00",
+            "width": 1920,
+            "height": 991
+          }
+        ],
+        "text": "Panorama vom Tanzboden nach Norden, rechts das Gasthaus und die arbeitslose Pistenraupe für den Winterwanderweg."
+      },
+      {
+        "photos": [
+          {
+            "name": "016",
+            "alt": "Blick vom Tanzboden zum Säntis",
+            "date": "2023-01-01T11:53:22.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Fehlt noch der Blick nach Osten zum <a href='/alpine/alpstein' target='_blank'>Alpstein</a> auf der anderen Seite des <a href='/alpine/toggenburg' target='_blank'>Toggenburgs</a>. Von hier würde man von Ebnat-Kappel aufsteigen."
+      },
+      {
+        "photos": [
+          {
+            "name": "017",
+            "alt": "Haus vor Zürchersee",
+            "date": "2023-01-01T11:54:56.000+01:00",
+            "width": 1920,
+            "height": 916
+          }
+        ],
+        "text": "Ein weiteres kleines Haus mit Aussicht auf dem Tanzboden."
+      },
+      {
+        "photos": [
+          {
+            "name": "018",
+            "alt": "Säntis",
+            "date": "2023-01-01T11:57:09.000+01:00",
+            "width": 1854,
+            "height": 1080
+          }
+        ],
+        "text": "Und noch ein Tele zum <a href='/alpine/alpstein/20160911' target='_blank'>Säntis</a>."
+      },
+      {
+        "photos": [
+          {
+            "name": "019",
+            "alt": "Winterwanderweg",
+            "date": "2023-01-01T12:03:31.000+01:00",
+            "width": 1920,
+            "height": 904
+          }
+        ],
+        "text": "Um 12:00 machte ich mich wieder auf den Rückweg. Grundsätzlich auf dem gleichen Weg, aber da ich mich jetzt etwas auskannte, baute ich ein paar kleine Varianten ein."
+      },
+      {
+        "photos": [
+          {
+            "name": "020",
+            "alt": "Toggenburger Höhenweg",
+            "date": "2023-01-01T12:32:41.000+01:00",
+            "width": 1920,
+            "height": 818
+          }
+        ],
+        "text": "Bei Chüeboden geht es über eine Moorwiese, wo ich noch eine schöne Sicht zum Säntis hatte."
+      },
+      {
+        "photos": [
+          {
+            "name": "021",
+            "alt": "Naturfreundehaus Stotzweid",
+            "date": "2023-01-01T12:50:50.000+01:00",
+            "width": 1920,
+            "height": 962
+          }
+        ],
+        "text": "Und auch an der Stotzweid ging es wieder vorbei, wo sich das Naturfreundehaus Stotzweid befindet.<br />Nicht weit entfernt ist auch die Bergstation des Skilifts Ebnat-Kappels - natürlich nicht in Betrieb."
+      },
+      {
+        "photos": [
+          {
+            "name": "022",
+            "alt": "Mauer auf Alpwiese",
+            "date": "2023-01-01T13:13:20.000+01:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "023",
+            "alt": "Wanderung im Toggenburg",
+            "date": "2023-01-01T13:14:22.000+01:00",
+            "width": 1616,
+            "height": 1080
+          }
+        ],
+        "text": "Der unvermeidliche Aufstieg zum Breitenau fiel mir auf dem Rückweg nun schon deutlich schwerer... aber die Landschaft mit den alten Mauern und Wiesenwegen ist toll."
+      },
+      {
+        "photos": [
+          {
+            "name": "024",
+            "alt": "Weg zur Alp Breitenau",
+            "date": "2023-01-01T13:17:00.000+01:00",
+            "width": 1682,
+            "height": 1080
+          }
+        ],
+        "text": "Um den Aufstieg nicht in einem Stück bewältigen zu müssen, ging hier hier erst mal quer zur Alp Breitenau - wirklicher Grund war mehr Abwechslung."
+      },
+      {
+        "photos": [
+          {
+            "name": "025",
+            "alt": "Aussicht Breitenau",
+            "date": "2023-01-01T13:27:14.000+01:00",
+            "width": 1920,
+            "height": 884
+          }
+        ],
+        "text": "Pause auf der Bank auf dem Breitenau. Beim Rückweg lies ich mir sowieso mehr Zeit und genoss die warme Sonne. In der Bildmitte ist hier übrigens der Tanzboden zu sehen. Rechts davon der <a href='/alpine/toggenburg/20170603' target='_blank'>Speer</a> und links die Churfirsten."
+      },
+      {
+        "photos": [
+          {
+            "name": "026",
+            "alt": "Familienbank",
+            "date": "2023-01-01T13:35:01.000+01:00",
+            "width": 1816,
+            "height": 1080
+          }
+        ],
+        "text": "Lustige Familienbank, die mir beim Hinweg gar nicht aufgefallen war. Die Forstarbeiter haben hier wirklich viel Zeit."
+      },
+      {
+        "photos": [
+          {
+            "name": "027",
+            "alt": "Wanderweg in den Wald",
+            "date": "2023-01-01T13:40:03.000+01:00",
+            "width": 1688,
+            "height": 1080
+          }
+        ],
+        "text": "Dann ging es auch wieder hinein in dem hübschen Waldabschnitt."
+      },
+      {
+        "photos": [
+          {
+            "name": "028",
+            "alt": "Moos an alter Mauer",
+            "date": "2023-01-01T13:46:44.000+01:00",
+            "width": 1787,
+            "height": 1080
+          }
+        ],
+        "text": "Und entlang einer alten moosigen Mauer. Die Mauer begleitet einen übrigens fast über den ganzen Höhenzug."
+      },
+      {
+        "photos": [
+          {
+            "name": "029",
+            "alt": "Befestigter Weg",
+            "date": "2023-01-01T13:51:34.000+01:00",
+            "width": 1616,
+            "height": 1080
+          }
+        ],
+        "text": "Machmal war der Weg ziemlich matschig, aber in den wirklich sumpfigen Abschnitten war er, wie hier, komfortabel befestigt."
+      },
+      {
+        "photos": [
+          {
+            "name": "030",
+            "alt": "Regula Stein",
+            "date": "2023-01-01T14:06:12.000+01:00",
+            "width": 950,
+            "height": 1080
+          }
+        ],
+        "text": "Um 14:00 erreichte ich wieder den Regelstein. Da dort die Bank besetzt war (und es auch sonst recht voll war) ging ich gleich weiter. Da mir der Aufstieg am Morgen nicht besonders gefallen hatte, wählte ich für den Abstieg den Weg über das Gasthaus Alp Egg.<br />Etwas unterhalb des Gipfels gibt es diese Sehenswürdigkeit mit dem Regulastein (weshalb der Berg auch Regelstein heißt). Auf dem Schild wird die Legende von Felix und Regula (zwei der Zürcher Stadtpatrone) erzählt."
+      },
+      {
+        "photos": [
+          {
+            "name": "031",
+            "alt": "Gasthaus Alp Egg",
+            "date": "2023-01-01T14:30:37.000+01:00",
+            "width": 1920,
+            "height": 856
+          }
+        ],
+        "text": "Ich machte noch mal eine Pause oberhalb des Gasthaus Egg, das nur 100m unterhalb des Gipfel des Regelsteins liegt. Da man bis dort mit dem Auto hinauffahren kann, bietet es sich an dort zu parken, wenn man die Wanderung etwas verkürzen will. Damit spart man sich rund 400m Auf- und Abstieg."
+      },
+      {
+        "photos": [
+          {
+            "name": "032",
+            "alt": "Wanderweg Alp Egg",
+            "date": "2023-01-01T14:39:45.000+01:00",
+            "width": 1833,
+            "height": 1080
+          }
+        ],
+        "text": "Der Abstieg vom Gasthaus Alp Egg geht teilweise recht schön über Wiesen und kleinen Waldabschnitten bergab, aber teilweise auch auf der Zufahrtsstraße und Waldwegen. Ich würde ihn aber trotzdem dem Weg über den Nordhang vorziehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "033",
+            "alt": "Gasthaus Rietmaren",
+            "date": "2023-01-01T14:53:49.000+01:00",
+            "width": 1660,
+            "height": 1080
+          }
+        ],
+        "text": "Vorbei ging es auch am Gasthaus Rietmaren, das an der gleichen Zufahrtsstraße liegt. Wie auch am Gasthaus Alp Egg war die Außenterrasse hier gut gefüllt."
+      },
+      {
+        "photos": [
+          {
+            "name": "034",
+            "alt": "Wanderweg Rietmaren",
+            "date": "2023-01-01T14:55:22.000+01:00",
+            "width": 1920,
+            "height": 950
+          }
+        ],
+        "text": "Nach dem Gasthaus Rietmaren ging es wieder über eine Wiese mit schöner Aussicht auf den Zürchersee bergab. Anschließend musste ich dann aber auf einem etwas öden Forstweg den Hang queren, um wieder zurück zum Ricken zu kommen."
+      },
+      {
+        "photos": [
+          {
+            "name": "035",
+            "alt": "Parkplatz Ricken Eich",
+            "date": "2023-01-01T15:31:38.000+01:00",
+            "width": 1920,
+            "height": 905
+          }
+        ],
+        "text": "Meinen Parkplatz Eich erreichte ich um 15:30. Mein Auto hatte inzwischen einige Freunde gefunden."
+      }
+    ],
+    "outro": "Fazit: Absolut harmlose Wanderung auf dem Toggenburger Höhenweg auf meist schönen Wanderwegen. Mit 20km Länge und 7h war es doch ordentlich lang, aber mit 1000m rauf und runter waren es nicht viele Höhenmeter. Dass das (hoffentlich) keine normalen Bedingungen für den Neujahrstag waren, brauche ich hoffentlich nicht zu erwähnen. Aber auch mit etwas Schnee könnte man den Weg problemlos gehen."
+  }
+]
