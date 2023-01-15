@@ -1,9 +1,10 @@
-import React, { Fragment } from 'react';
+import React, { Fragment, Suspense } from 'react';
 import AnimatedTitle from '../components/animatedtitle.jsx';
 import { graphql } from 'gatsby';
 import styled from 'styled-components';
 import formatDate from '../utils/formatDate.js';
 const Map = React.lazy(() => import('../components/map.jsx'));
+const HeightGraph = React.lazy(() => import('../components/heightgraph.jsx'));
 
 const Movie = styled.div`
   position: fixed;
@@ -56,6 +57,19 @@ const Photo = styled.img.attrs(({ opacity }) => ({
   transition: opacity 1s ease-in-out;
 `;
 
+const HeightGraphContainer = styled.div.attrs(({ opacity }) => ({
+  style: { opacity }
+}))`
+  position: fixed;
+  bottom: 3vh;
+  height: 15vh;
+  width: 60vw;
+  left: 50%;
+  transform: translate(-50%, 0);
+  z-index: 4;
+  transition: opacity 1s ease-in-out;
+`;
+
 const Label = styled.div.attrs(({ offsetY }) => ({
   style: {
     top: `calc(100% - ${offsetY}px)`
@@ -84,7 +98,8 @@ class ReportMovie extends React.Component {
     this.renderLandmark = this.renderLandmark.bind(this);
     this.state = {
       phase: 'loading',
-      photo: undefined
+      photo: undefined,
+      time: null
     };
   }
 
@@ -351,16 +366,36 @@ class ReportMovie extends React.Component {
     const reportPath = getReportPath(destination, date);
     if (track) {
       return (
-        <Map
-          gpxPath={this.buildGpxPath(reportPath)}
-          time={this.getTargetTime()}
-          timeShift={timeShift}
-          detailMap={detailMap}
-          hideSwissTopo={hideSwissTopo}
-          winter={type !== 'hike'}
-          onTimeReached={this.nextPhase}
-          size="fullscreen"
-        />
+        <Suspense fallback={null}>
+          <Map
+            gpxPath={this.buildGpxPath(reportPath)}
+            wishTime={this.getTargetTime()}
+            timeShift={timeShift}
+            detailMap={detailMap}
+            hideSwissTopo={hideSwissTopo}
+            winter={type !== 'hike'}
+            onWishTimeReached={this.nextPhase}
+            onTimeChanged={(time) => this.setState({ time })}
+            size="fullscreen"
+          />
+        </Suspense>
+      );
+    }
+  }
+
+  renderHeightGraph() {
+    const { destination, date, track, } = this.props.data.reportJson;
+    const reportPath = getReportPath(destination, date);
+    if (track) {
+      return (
+        <HeightGraphContainer opacity={this.state.phase === 'map' ? 0.7 : 0.0}>
+          <Suspense fallback={null}>
+            <HeightGraph
+              gpxPath={this.buildGpxPath(reportPath)}
+              time={this.state.time}
+            />
+          </Suspense>
+        </HeightGraphContainer>
       );
     }
   }
@@ -378,6 +413,7 @@ class ReportMovie extends React.Component {
         {this.renderLogo()}
         {this.renderTitle()}
         {this.renderMap()}
+        {this.renderHeightGraph()}
         {this.props.data.reportJson.landmarks.map(this.renderLandmark.bind(this, reportPath))}
       </Movie>
     );

@@ -151,7 +151,8 @@ const createTerrainProvider = (hideSwissTopo) => {
     });
   }
   const provider = new CesiumTerrainProvider({
-    url: 'https://3d.geo.admin.ch/1.0.0/ch.swisstopo.terrain.3d/default/20200520/4326/',
+    // locally stored copy of https://3d.geo.admin.ch/1.0.0/ch.swisstopo.terrain.3d/default/20200520/4326/
+    url: '/assets/geo-admin-terrain/',
     requestVertexNormals: true
   });
   return catchInvalidSwissTopoTiles(provider);
@@ -431,7 +432,7 @@ const setupClock = (clock, startTime, stopTime, onTick) => {
   clock.onTick.addEventListener(onTick);
 };
 
-const convertTimeIntoTargetTime = (clock, newTime, timeShift) => {
+const convertWishTimeIntoTargetTime = (clock, newTime, timeShift) => {
   if (newTime === 'start') {
     return clock.startTime;
   }
@@ -451,8 +452,8 @@ const convertTimeIntoTargetTime = (clock, newTime, timeShift) => {
   return newTargetTime;
 };
 
-const timeChanged = (clock, targetTime, newTime, timeShift, onAnimationStarted) => {
-  targetTime.current = convertTimeIntoTargetTime(clock, newTime, timeShift);
+const wishTimeChanged = (clock, targetTime, wishTime, timeShift, onAnimationStarted) => {
+  targetTime.current = convertWishTimeIntoTargetTime(clock, wishTime, timeShift);
   clock.shouldAnimate = true;
   onAnimationStarted();
 };
@@ -493,15 +494,19 @@ const prepareStart = async (
   onAnimationStarted,
   onAnimationStopped,
   time,
-  timeShift
+  timeShift,
+  onTimeChanged
 ) => {
-  setupClock(viewer.clock, trackData.startTime, trackData.stopTime, () =>
+  setupClock(viewer.clock, trackData.startTime, trackData.stopTime, () => {
     tickChanged(viewer, hiker, targetTime, onAnimationStopped)
-  );
+    if (onTimeChanged) {
+      onTimeChanged(JulianDate.toIso8601(viewer.clock.currentTime));
+    }
+  });
 
   await viewer.terrainProvider.readyPromise;
 
-  timeChanged(viewer.clock, targetTime, time, timeShift, onAnimationStarted);
+  wishTimeChanged(viewer.clock, targetTime, time, timeShift, onAnimationStarted);
   jumpToTargetTime(viewer, hiker, targetTime);
 
   const eventHelper = new EventHelper();
@@ -533,8 +538,8 @@ const Map = (props) => {
   };
 
   const onAnimationStopped = () => {
-    if (props.onTimeReached) {
-      props.onTimeReached();
+    if (props.onWishTimeReached) {
+      props.onWishTimeReached();
     }
     setMapStatus('free');
   };
@@ -569,17 +574,18 @@ const Map = (props) => {
         targetTime,
         onAnimationStarted,
         onAnimationStopped,
-        props.time,
-        props.timeShift
+        props.wishTime,
+        props.timeShift,
+        props.onTimeChanged
       ).then(setClock);
     }
   }, [trackData, viewer, hiker]); // eslint-disable-line react-hooks/exhaustive-deps
 
   useEffect(() => {
     if (clock) {
-      timeChanged(clock, targetTime, props.time, props.timeShift, onAnimationStarted);
+      wishTimeChanged(clock, targetTime, props.wishTime, props.timeShift, onAnimationStarted);
     }
-  }, [clock, props.time, props.timeShift]);
+  }, [clock, props.wishTime, props.timeShift]);
 
   return (
     <div>
@@ -597,13 +603,14 @@ const Map = (props) => {
 Map.propTypes = {
   size: PropTypes.string.isRequired,
   gpxPath: PropTypes.string.isRequired,
-  time: PropTypes.string.isRequired,
+  wishTime: PropTypes.string.isRequired,
   timeShift: PropTypes.number,
   detailMap: PropTypes.string,
   hideSwissTopo: PropTypes.bool,
   winter: PropTypes.bool,
   onClick: PropTypes.func,
-  onTimeReached: PropTypes.func
+  onWishTimeReached: PropTypes.func,
+  onTimeChanged: PropTypes.func
 };
 
 export default Map;

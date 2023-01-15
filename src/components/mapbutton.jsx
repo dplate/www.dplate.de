@@ -148,7 +148,7 @@ const MapButton = ({ time, mapProps }) => {
       </MenuBar>
       {size !== 'icon' && (
         <Suspense fallback={'loading'}>
-          <Map {...mapProps} time={time} size={size} />
+          <Map {...mapProps} wishTime={time} size={size} />
         </Suspense>
       )}
       <Button onClick={changeSizePrepared} className={size}>
