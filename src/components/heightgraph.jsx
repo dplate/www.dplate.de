@@ -28,9 +28,9 @@ const DistanceLabel = styled.div.attrs(({ x }) => ({
   position: absolute;
   color: black;
   opacity: 0.8;
-  bottom: 1%;
+  bottom: 2%;
   transform: translate(-50%, 0);
-  font-size: 1.9vh;
+  font-size: 1.6vh;
 `;
 
 const CurrentPointContainer = styled.div.attrs(({ x = 0, y = 0 }) => ({
@@ -76,19 +76,19 @@ const CurrentDistanceLine = styled.div.attrs(({ y }) => ({
   position: absolute;
   width: 2px;
   left: 0;
-  bottom: 20%;
+  bottom: 15%;
   transform: translate(-50%, 0);
   background-color: darkred;
 `;
 
 const CurrentDistanceLabel = styled.div`
   position: absolute;
-  bottom: 0.8%;
+  bottom: 1.7%;
   left: 0;
-  padding: 0 0.6% 0 0.6%;
+  padding: 0 0.6% 0% 0.6%;
   transform: translate(-50%, 0);
   background-color: darkred;
-  font-size: 1.9vh;
+  font-size: 1.6vh;
   border-radius: 4px;
 `;
 
@@ -208,7 +208,7 @@ const parseTrackData = (gpxRaw) => {
 
 const distanceToGraph = (trackData, distance) => 0.07 + 0.92 * (distance / trackData.maxDistance);
 const heightToGraph = (trackData, height) =>
-  0.1 + 0.65 * (1 - (height - trackData.minHeight) / (trackData.maxHeight - trackData.minHeight));
+  0.1 + 0.7 * (1 - (height - trackData.minHeight) / (trackData.maxHeight - trackData.minHeight));
 
 const formatHeight = (height) => `${Math.round(height)}m`;
 const formatDistance = (distance) => `${(Math.round(distance / 100) / 10).toFixed(1)}km`;
@@ -263,7 +263,7 @@ const renderDistanceLines = (trackData, gap, main) => {
     elements.push(
       <path
         key={`${main ? 'main' : 'sub'}_${distance}_distance_line`}
-        d={`M ${x} 0.1 L ${x} ${main ? 0.77 : 0.75}`}
+        d={`M ${x} 0.1 L ${x} ${main ? 0.82 : 0.78}`}
         stroke="gray"
         strokeWidth={main ? '1px' : '0.1px'}
         vectorEffect="non-scaling-stroke"
