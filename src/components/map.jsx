@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from 'react';
+import React, { useEffect, useRef, useState, useCallback } from 'react';
 import { withPrefix } from 'gatsby';
 import PropTypes from 'prop-types';
 import styled from 'styled-components';
@@ -424,12 +424,11 @@ const tickChanged = (viewer, hiker, targetTime, onAnimationStopped) => {
   updateHiker(viewer, hiker);
 };
 
-const setupClock = (clock, startTime, stopTime, onTick) => {
+const setupClock = (clock, startTime, stopTime) => {
   clock.startTime = startTime;
   clock.stopTime = stopTime;
   clock.clockRange = ClockRange.CLAMPED;
   clock.currentTime = startTime;
-  clock.onTick.addEventListener(onTick);
 };
 
 const convertWishTimeIntoTargetTime = (clock, newTime, timeShift) => {
@@ -494,15 +493,9 @@ const prepareStart = async (
   onAnimationStarted,
   onAnimationStopped,
   time,
-  timeShift,
-  onTimeChanged
+  timeShift
 ) => {
-  setupClock(viewer.clock, trackData.startTime, trackData.stopTime, () => {
-    tickChanged(viewer, hiker, targetTime, onAnimationStopped)
-    if (onTimeChanged) {
-      onTimeChanged(JulianDate.toIso8601(viewer.clock.currentTime));
-    }
-  });
+  setupClock(viewer.clock, trackData.startTime, trackData.stopTime);
 
   await viewer.terrainProvider.readyPromise;
 
@@ -526,6 +519,8 @@ const prepareStart = async (
 };
 
 const Map = (props) => {
+  const { wishTime, timeShift, onWishTimeReached, onTimeChanged } = props;
+
   const [mapStatus, setMapStatus] = useState('wait');
   const [trackData, setTrackData] = useState(null);
   const [viewer, setViewer] = useState(null);
@@ -533,16 +528,16 @@ const Map = (props) => {
   const [clock, setClock] = useState(null);
   const targetTime = useRef(null);
 
-  const onAnimationStarted = () => {
+  const onAnimationStarted = useCallback(() => {
     setMapStatus('wait');
-  };
+  }, []);
 
-  const onAnimationStopped = () => {
-    if (props.onWishTimeReached) {
-      props.onWishTimeReached();
+  const onAnimationStopped = useCallback(() => {
+    if (onWishTimeReached) {
+      onWishTimeReached();
     }
     setMapStatus('free');
-  };
+  }, [onWishTimeReached]);
 
   useEffect(() => {
     loadTrack(props.gpxPath).then(parseTrackData).then(setTrackData);
@@ -574,18 +569,30 @@ const Map = (props) => {
         targetTime,
         onAnimationStarted,
         onAnimationStopped,
-        props.wishTime,
-        props.timeShift,
-        props.onTimeChanged
+        wishTime,
+        timeShift
       ).then(setClock);
     }
   }, [trackData, viewer, hiker]); // eslint-disable-line react-hooks/exhaustive-deps
 
   useEffect(() => {
     if (clock) {
-      wishTimeChanged(clock, targetTime, props.wishTime, props.timeShift, onAnimationStarted);
+      wishTimeChanged(clock, targetTime, wishTime, timeShift, onAnimationStarted);
     }
-  }, [clock, props.wishTime, props.timeShift]);
+  }, [clock, wishTime, timeShift, onAnimationStarted]);
+
+  useEffect(() => {
+    if (clock) {
+      const onTick = () => {
+        tickChanged(viewer, hiker, targetTime, onAnimationStopped)
+        if (onTimeChanged) {
+          onTimeChanged(JulianDate.toIso8601(viewer.clock.currentTime));
+        }
+      }
+      clock.onTick.addEventListener(onTick);
+      return () => clock.onTick.removeEventListener(onTick);
+    }
+  }, [onAnimationStopped, onTimeChanged, viewer, hiker, targetTime, clock]);
 
   return (
     <div>
