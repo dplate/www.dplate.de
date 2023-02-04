@@ -27,7 +27,6 @@ import {
   PolylineOutlineMaterialProperty,
   Rectangle,
   SampledPositionProperty,
-  SingleTileImageryProvider,
   UrlTemplateImageryProvider,
   VerticalOrigin,
   Viewer,
@@ -207,11 +206,12 @@ const setupViewer = (trackData, hideSwissTopo) => {
   return viewer;
 };
 
-const createTrackEntity = (positions) => {
+const createTrackEntity = (positions, winter) => {
+  const color = winter ? Color.DARKBLUE : Color.WHITE;
   const polyline = new PolylineGraphics({
     positions,
     material: new PolylineOutlineMaterialProperty({
-      color: Color.WHITE.withAlpha(0.7),
+      color: color.withAlpha(0.7),
       outlineWidth: 4,
       outlineColor: Color.BLACK.withAlpha(0.3)
     }),
@@ -288,11 +288,10 @@ const turnToWinter = (scene, hdRectangle) => {
   const layers = scene.imageryLayers;
   for (let i = 0; i < layers.length; i++) {
     const layer = layers.get(i);
-    layer.contrast = 1.5;
-    layer.saturation = 0.05;
-    layer.brightness = 1.8;
+    layer.contrast = 1.7;
+    layer.saturation = 0.1;
+    layer.brightness = 1.6;
   }
-  scene.highDynamicRange = false;
 };
 
 const findOptimalCameraHeight = (viewer, hikerPosition) => {
@@ -461,7 +460,7 @@ const jumpToTargetTime = (viewer, hiker, targetTime) => {
 
 const setupMap = (trackData, hideSwissTopo, detailMap, winter) => {
   const viewer = setupViewer(trackData, hideSwissTopo);
-  viewer.entities.add(createTrackEntity(trackData.positions));
+  viewer.entities.add(createTrackEntity(trackData.positions, winter));
   const hdRectangle = createHdRectangle(trackData.positions);
   switch (detailMap) {
     case 'swiss':
