@@ -288,17 +288,10 @@ const turnToWinter = (scene, hdRectangle) => {
   const layers = scene.imageryLayers;
   for (let i = 0; i < layers.length; i++) {
     const layer = layers.get(i);
-    layer.contrast = 2.5;
-    layer.saturation = 0.2;
-    layer.brightness = 1.5;
+    layer.contrast = 1.5;
+    layer.saturation = 0.05;
+    layer.brightness = 1.8;
   }
-  const snowLayer = layers.addImageryProvider(
-    new SingleTileImageryProvider({
-      url: '/snow-texture.jpg',
-      rectangle: hdRectangle
-    })
-  );
-  snowLayer.alpha = 0.2;
   scene.highDynamicRange = false;
 };
 
