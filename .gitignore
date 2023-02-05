@@ -3,4 +3,5 @@ debug.log
 .cache/
 public
 .idea
+.vscode
 work/tinify-key.js

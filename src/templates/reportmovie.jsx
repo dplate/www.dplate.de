@@ -225,6 +225,9 @@ const findNextPhoto = (landmarks, currentPhoto) => {
 };
 
 const nextPhase = (phase, setPhase, nextPhoto, setNextPhoto, landmarks) => {
+  if (phase.forDuration) {
+    return;
+  }
   switch (phase.name) {
     case 'loading':
       setPhase({ name: 'intro', forDuration: 5000 });
@@ -384,7 +387,10 @@ const ReportMovie = ({ data: { reportJson } }) => {
 
   useEffect(() => {
     if (phase.forDuration) {
-      const timeout = window.setTimeout(callNextPhase, phase.forDuration);
+      const timeout = window.setTimeout(() => {
+        phase.forDuration = null;
+        callNextPhase();
+      }, phase.forDuration);
       return () => {
         window.clearTimeout(timeout);
       };
