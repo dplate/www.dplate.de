@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import { cardStyle } from '../styles/basestyle.js';
-import Layout from '../components/layout.jsx';
+import Layout from '../components/Layout.jsx';
 
 const Content = styled.div`
   ${cardStyle}
@@ -47,7 +47,7 @@ const PageImpressum = (props) => {
         <h2>Urheberrechte</h2>
         <p>
           Die Urheber- und alle anderen Rechte an Inhalten, Bildern, Fotos oder anderen Dateien auf der Website gehören
-          ausschliesslich dem Autor oder den speziell genannten Rechtsinhabern. Für die Reproduktion jeglicher Elemente
+          ausschließlich dem Autor oder den speziell genannten Rechtsinhabern. Für die Reproduktion jeglicher Elemente
           ist die schriftliche Zustimmung der Urheberrechtsträger im Voraus einzuholen.
         </p>
         <h2>Datenschutzerklärung für die Nutzung von Google Analytics</h2>

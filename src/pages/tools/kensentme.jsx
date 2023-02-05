@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import { cardStyle, pictureStyle, videoContainerStyle, videoWrapperStyle } from '../../styles/basestyle.js';
-import Layout from '../../components/layout.jsx';
+import Layout from '../../components/Layout.jsx';
 
 const Card = styled.div`
   ${cardStyle}
@@ -29,7 +29,7 @@ const PageKenSentMe = (props) => {
             KenSentMe ist ein kleines Tool, um aus einem Bild ein Video zu erstellen. Dafür benutzt es den Ken Burns
             Effekt, d.h. eine virtuelle Kamera schwenkt und zoomt über das Bild.
             <br />
-            Zusätzlich werden Spezial-Effekt wie Verwackelung und langsamerer Belichtung verwendet, damit das Video
+            Zusätzlich werden Spezial-Effekt wie Verwackeln und langsamerer Belichtung verwendet, damit das Video
             realistischer wirkt.
             <br />
             Das Ergebnis kann als einzelne Frames oder als fertiges Video exportiert werden.

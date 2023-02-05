@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'gatsby';
 import styled from 'styled-components';
 import { cardStyle, pictureStyle } from '../styles/basestyle.js';
-import Layout from '../components/layout.jsx';
+import Layout from '../components/Layout.jsx';
 
 const Description = styled.div`
   ${cardStyle};

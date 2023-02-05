@@ -1,4 +1,4 @@
-import Title3D from './title3d.jsx';
+import Title3D from './Title3d.jsx';
 import React from 'react';
 import PropTypes from 'prop-types';
 import styled from 'styled-components';
@@ -40,7 +40,7 @@ const MovingTitle = ({ movePercent, reportPath, title, title3d }) => {
   );
 };
 
-const Animatedtitle = ({ reportPath, title, title3d, visible }) => {
+const AnimatedTitle = ({ reportPath, title, title3d, visible }) => {
   const { movePercent } = useSpring({
     config: { duration: 5000 },
     movePercent: visible ? 0 : 120
@@ -49,7 +49,7 @@ const Animatedtitle = ({ reportPath, title, title3d, visible }) => {
   return <AnimatedTitleContainer movePercent={movePercent} reportPath={reportPath} title={title} title3d={title3d} />;
 };
 
-Animatedtitle.propTypes = {
+AnimatedTitle.propTypes = {
   reportPath: PropTypes.string.isRequired,
   title: PropTypes.string.isRequired,
   title3d: PropTypes.shape({
@@ -62,8 +62,8 @@ Animatedtitle.propTypes = {
   visible: PropTypes.bool.isRequired
 };
 
-Animatedtitle.defaultProps = {
+AnimatedTitle.defaultProps = {
   visible: true
 };
 
-export default Animatedtitle;
+export default AnimatedTitle;

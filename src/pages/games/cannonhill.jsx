@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import { cardStyle, pictureStyle } from '../../styles/basestyle.js';
-import Layout from '../../components/layout.jsx';
+import Layout from '../../components/Layout.jsx';
 
 const Card = styled.div`
   ${cardStyle}
@@ -31,9 +31,9 @@ const PageCannonhill = (props) => {
           <ul>
             <li>Windows95</li>
             <li>32MB RAM</li>
-            <li>Directx6.0</li>
+            <li>DirectX6.0</li>
             <li>DirectDraw-kompatible Grafikkarte</li>
-            <li>Directsound-kompatible Soundkarte</li>
+            <li>DirectSound-kompatible Soundkarte</li>
             <li>Maus</li>
           </ul>
         </Card>
@@ -42,7 +42,7 @@ const PageCannonhill = (props) => {
           <p>
             <a href="/zips/cannonhill.exe">cannonhill.exe: 1,2 MByte</a>
           </p>
-          <h2>Sourcecode für C++ mit DirectxSDK</h2>
+          <h2>Sourcecode für C++ mit DirectX-SDK</h2>
           <p>
             <a href="/zips/cannonhillsdk.zip">cannonhillsdk.zip: 477 kByte</a>
           </p>

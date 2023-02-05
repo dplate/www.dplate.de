@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import { cardStyle, pictureStyle } from '../../styles/basestyle.js';
-import Layout from '../../components/layout.jsx';
+import Layout from '../../components/Layout.jsx';
 
 const Card = styled.div`
   ${cardStyle}
@@ -121,7 +121,7 @@ const pageAncient = (props) => {
           <Picture src="/screenshots/zahlorie.jpg" />
           <p>
             Ein Mix aus Memory und Mathespiel. Statt zwei Bildern werden drei Zahlen aufgedeckt. Diese drei Zahlen
-            müssen eine Formel erfüllen. Dabei stehen verschiedene Schwierigskeitsgrade und auch Computergegner zur
+            müssen eine Formel erfüllen. Dabei stehen verschiedene Schwierigkeitsgrade und auch Computergegner zur
             Verfügung.
           </p>
           <p>

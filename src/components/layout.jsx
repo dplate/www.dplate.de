@@ -3,7 +3,7 @@ import logoIcon from '../icons/logo.png';
 import menuIcon from '../icons/menu.svg';
 import styled from 'styled-components';
 import { graphql, Link, useStaticQuery } from 'gatsby';
-import Menu from './menu.jsx';
+import Menu from './Menu.jsx';
 
 const Header = styled.div`
   background-color: #cfe0c3;

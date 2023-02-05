@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import { cardStyle, pictureStyle } from '../../styles/basestyle.js';
-import Layout from '../../components/layout.jsx';
+import Layout from '../../components/Layout.jsx';
 
 const Card = styled.div`
   ${cardStyle}

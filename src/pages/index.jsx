@@ -3,7 +3,7 @@ import { graphql, Link } from 'gatsby';
 import styled from 'styled-components';
 import formatDate from '../utils/formatDate';
 import { cardStyle } from '../styles/basestyle.js';
-import Layout from '../components/layout.jsx';
+import Layout from '../components/Layout.jsx';
 
 const FlexContainer = styled.div`
   display: flex;

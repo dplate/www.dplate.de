@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import { cardStyle, pictureStyle } from '../../styles/basestyle.js';
-import Layout from '../../components/layout.jsx';
+import Layout from '../../components/Layout.jsx';
 
 const Card = styled.div`
   ${cardStyle}
@@ -33,7 +33,7 @@ const PageScapeMaker = (props) => {
           <h2>Systemanforderungen</h2>
           <ul>
             <li>WindowsXP</li>
-            <li>Directx 9.0c</li>
+            <li>DirectX 9.0c</li>
           </ul>
         </Card>
         <Card>
@@ -41,7 +41,7 @@ const PageScapeMaker = (props) => {
           <p>
             <a href="/zips/ScapeMakerSetup_1_3.exe">ScapeMakerSetup_1_3.exe: 4,4 MByte</a>
           </p>
-          <h2>Original Sourcecode für C++ mit DirectxSDK</h2>
+          <h2>Original Sourcecode für C++ mit DirectX-SDK</h2>
           <p>
             <a href="/zips/scapemakersdk.zip">scapemakersdk.zip: 17 MByte</a>
           </p>

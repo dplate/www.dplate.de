@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import { cardStyle, pictureStyle } from '../../styles/basestyle.js';
-import Layout from '../../components/layout.jsx';
+import Layout from '../../components/Layout.jsx';
 
 const Card = styled.div`
   ${cardStyle}
@@ -39,9 +39,9 @@ const PageSchiffbruch = (props) => {
           <ul>
             <li>Windows95</li>
             <li>32MB RAM</li>
-            <li>Directx6.0</li>
+            <li>DirectX6.0</li>
             <li>DirectDraw-kompatible Grafikkarte</li>
-            <li>Directsound-kompatible Soundkarte</li>
+            <li>DirectSound-kompatible Soundkarte</li>
             <li>Maus</li>
           </ul>
         </Card>
@@ -53,7 +53,7 @@ const PageSchiffbruch = (props) => {
           <p>
             Englisch: <a href="/zips/sbenglish.exe">sbenglish.exe: 1 MByte</a>
           </p>
-          <h2>Original Sourcecode für C++ mit DirectxSDK</h2>
+          <h2>Original Sourcecode für C++ mit DirectX-SDK</h2>
           <p>
             <a href="/zips/schiffbruchsdk.zip">schiffbruchsdk.zip: 487 kByte</a>
           </p>
@@ -85,7 +85,7 @@ const PageSchiffbruch = (props) => {
           </Spoiler>
           <h3>Warum sterbe ich ständig?</h3>
           <Spoiler>
-            Wenn Du nicht genug isst oder drinkst, dann sinkt deine Gesundheit. Ist diese "verbraucht", dann stirbst Du.
+            Wenn Du nicht genug isst oder trinkst, dann sinkt deine Gesundheit. Ist diese "verbraucht", dann stirbst Du.
             <br />
             Als erstes solltest Du also Trinkwasser, d.h. einen Fluss finden. Laufe dafür in das Landesinnere und achte
             dabei auf Wassergeräusche. Unterwegs solltest Du dabei Beeren essen, um Dich am Leben zu erhalten. Hast Du
@@ -111,7 +111,7 @@ const PageSchiffbruch = (props) => {
           <h3>Wie kann ich gerettet werden?</h3>
           <Spoiler>
             Deine Rettung hängt vom Zufall ab. Wie groß deine Chance ist, kannst du am Rettungsring ablesen. Die Chance
-            erhöhst du permantent durch SOS-Zeichen am Strand oder temporär durch Signalfeuer bzw. Fernglas (möglich auf
+            erhöhst du permanent durch SOS-Zeichen am Strand oder temporär durch Signalfeuer bzw. Fernglas (möglich auf
             Bergen).
           </Spoiler>
         </Card>

@@ -6,7 +6,7 @@ exports.createPages = ({ actions, graphql }) => {
   const { createPage } = actions;
 
   const reports = new Promise((resolve, reject) => {
-    const reportTemplate = path.resolve(`src/templates/report.jsx`);
+    const reportTemplate = path.resolve(`src/templates/Report.jsx`);
     resolve(
       graphql(
         `
@@ -42,12 +42,12 @@ exports.createPages = ({ actions, graphql }) => {
   });
 
   const reportMovies = new Promise((resolve, reject) => {
-    const reportMovieTemplate = path.resolve(`src/templates/reportmovie.jsx`);
+    const reportMovieTemplate = path.resolve(`src/templates/ReportMovie.jsx`);
     resolve(
       graphql(
         `
           {
-            allReportJson(limit: 1000) {
+            allReportJson(filter: { track: { eq: true } }, limit: 1000) {
               edges {
                 node {
                   destination
@@ -78,7 +78,7 @@ exports.createPages = ({ actions, graphql }) => {
   });
 
   const destinations = new Promise((resolve, reject) => {
-    const destinationTemplate = path.resolve(`src/templates/destination.jsx`);
+    const destinationTemplate = path.resolve(`src/templates/Destination.jsx`);
     resolve(
       graphql(
         `

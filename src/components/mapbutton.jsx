@@ -4,7 +4,8 @@ import styled, { keyframes } from 'styled-components';
 import resizeIcon from '../icons/resize.svg';
 import closeIcon from '../icons/close.svg';
 import mapIcon from '../icons/map.svg';
-const Map = React.lazy(() => import('./map.jsx'));
+import loadTrack from '../utils/loadTrack';
+const Map = React.lazy(() => import('./Map.jsx'));
 
 const MenuBar = styled.div`
   position: fixed;
@@ -133,10 +134,16 @@ const renderButton = (time, size) => {
   }
 };
 
-const MapButton = ({ time, mapProps }) => {
+const MapButton = ({ time, reportPath, mapProps }) => {
+  const [track, setTrack] = useState(null);
   const [size, setSize] = useState('icon');
   const [allowTeaser, setAllowTeaser] = useState(true);
   useEffect(() => setAllowTeaser(window.innerWidth >= 640), []);
+  useEffect(() => {
+    if (size !== 'icon' && !track) {
+      loadTrack(reportPath).then(setTrack);
+    }
+  }, [reportPath, track, size]);
 
   const changeSizePrepared = () => changeSize(size, setSize, allowTeaser);
 
@@ -148,7 +155,7 @@ const MapButton = ({ time, mapProps }) => {
       </MenuBar>
       {size !== 'icon' && (
         <Suspense fallback={'loading'}>
-          <Map {...mapProps} wishTime={time} size={size} />
+          {track && <Map {...mapProps} track={track} wishTime={time} size={size} />}
         </Suspense>
       )}
       <Button onClick={changeSizePrepared} className={size}>
@@ -160,6 +167,7 @@ const MapButton = ({ time, mapProps }) => {
 
 MapButton.propTypes = {
   time: PropTypes.string.isRequired,
+  reportPath: PropTypes.string.isRequired,
   mapProps: PropTypes.object.isRequired
 };
 

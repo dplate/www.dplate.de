@@ -1,13 +1,13 @@
 import React from 'react';
 import styled from 'styled-components';
-import MapButton from '../components/mapbutton.jsx';
-import Title3D from '../components/title3d.jsx';
+import MapButton from '../components/MapButton.jsx';
+import Title3D from '../components/Title3d.jsx';
 import { videoContainerStyle } from '../styles/basestyle.js';
 import formatDate from '../utils/formatDate';
 import gpxIcon from '../icons/gpx.svg';
 import { graphql, Link } from 'gatsby';
-import Layout from '../components/layout.jsx';
-import Video from '../components/video.jsx';
+import Layout from '../components/Layout.jsx';
+import Video from '../components/Video.jsx';
 
 const Content = styled.div`
   display: block;
@@ -102,11 +102,14 @@ const buildPageTitle = (title, type) => {
   if (type === 'hike') {
     return `⛰ ${title} Wanderung`;
   }
+  if (type === 'winterHike') {
+    return `⛰ ${title} Winterwanderung`;
+  }
   return `⛷ ${title} Skigebiet`;
 };
 
 const buildPageDescription = (title, type, date) => {
-  if (type === 'hike') {
+  if (type === 'hike' || type === 'winterHike') {
     return `⛰ Wandern ${title} vom ${formatDate(date)} mit vielen Fotos, ausführlicher Wegbeschreibung und Wanderkarte`;
   }
   return `⛷ Skigebiet ${title} am ${formatDate(
@@ -312,8 +315,8 @@ class Report extends React.Component {
           {track && this.state.time && (
             <MapButton
               time={this.state.time}
+              reportPath={reportPath}
               mapProps={{
-                gpxPath,
                 timeShift,
                 detailMap,
                 hideSwissTopo,

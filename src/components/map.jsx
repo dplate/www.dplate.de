@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState, useCallback } from 'react';
+import React, { useMemo, useEffect, useRef, useState, useCallback } from 'react';
 import { withPrefix } from 'gatsby';
 import PropTypes from 'prop-types';
 import styled from 'styled-components';
@@ -80,33 +80,21 @@ const CesiumContainer = styled.div`
   }
 `;
 
-const loadTrack = (gpxPath) => fetch(gpxPath).then((response) => response.text());
-
-const parseTrackData = (gpxRaw) => {
+const extractTrackData = (track) => {
   const trackData = {
-    startTime: null,
-    stopTime: null,
+    startTime: track.startTime,
+    stopTime: track.stopTime,
     sampledPosition: new SampledPositionProperty(),
     positions: []
   };
-  const doc = new window.DOMParser().parseFromString(gpxRaw, 'text/xml');
-  Array.prototype.slice.call(doc.getElementsByTagName('trkpt')).forEach((trackPoint) => {
-    const longitude = parseFloat(trackPoint.getAttribute('lon'));
-    const latitude = parseFloat(trackPoint.getAttribute('lat'));
-    const position = Cartesian3.fromDegrees(longitude, latitude, 0);
+  track.points.forEach((point) => {
     if (
-      trackData.positions.length > 0 &&
-      Cartesian3.distance(position, trackData.positions[trackData.positions.length - 1]) < 20
+      trackData.positions.length === 0 ||
+      Cartesian3.distance(point.position, trackData.positions[trackData.positions.length - 1]) > 10
     ) {
-      return;
+      trackData.sampledPosition.addSample(point.time, point.position);
+      trackData.positions.push(point.position);
     }
-    const date = JulianDate.fromIso8601(trackPoint.getElementsByTagName('time')[0].firstChild.nodeValue);
-    if (!trackData.startTime) {
-      trackData.startTime = date;
-    }
-    trackData.stopTime = date;
-    trackData.sampledPosition.addSample(date, position);
-    trackData.positions.push(position);
   });
   return trackData;
 };
@@ -511,10 +499,9 @@ const prepareStart = async (
 };
 
 const Map = (props) => {
-  const { wishTime, timeShift, onWishTimeReached, onTimeChanged } = props;
+  const { track, wishTime, timeShift, onWishTimeReached, onTimeChanged } = props;
 
   const [mapStatus, setMapStatus] = useState('wait');
-  const [trackData, setTrackData] = useState(null);
   const [viewer, setViewer] = useState(null);
   const [hiker, setHiker] = useState(null);
   const [clock, setClock] = useState(null);
@@ -531,9 +518,7 @@ const Map = (props) => {
     setMapStatus('free');
   }, [onWishTimeReached]);
 
-  useEffect(() => {
-    loadTrack(props.gpxPath).then(parseTrackData).then(setTrackData);
-  }, []); // eslint-disable-line react-hooks/exhaustive-deps
+  const trackData = useMemo(() => track && extractTrackData(track), [track]);
 
   useEffect(() => {
     if (trackData) {
@@ -576,11 +561,11 @@ const Map = (props) => {
   useEffect(() => {
     if (clock) {
       const onTick = () => {
-        tickChanged(viewer, hiker, targetTime, onAnimationStopped)
+        tickChanged(viewer, hiker, targetTime, onAnimationStopped);
         if (onTimeChanged) {
           onTimeChanged(JulianDate.toIso8601(viewer.clock.currentTime));
         }
-      }
+      };
       clock.onTick.addEventListener(onTick);
       return () => clock.onTick.removeEventListener(onTick);
     }
@@ -601,7 +586,16 @@ const Map = (props) => {
 
 Map.propTypes = {
   size: PropTypes.string.isRequired,
-  gpxPath: PropTypes.string.isRequired,
+  track: PropTypes.shape({
+    startTime: PropTypes.object.isRequired,
+    stopTime: PropTypes.object.isRequired,
+    points: PropTypes.arrayOf(
+      PropTypes.shape({
+        time: PropTypes.object.isRequired,
+        position: PropTypes.object.isRequired
+      })
+    ).isRequired
+  }),
   wishTime: PropTypes.string.isRequired,
   timeShift: PropTypes.number,
   detailMap: PropTypes.string,

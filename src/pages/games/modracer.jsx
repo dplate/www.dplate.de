@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import { cardStyle, pictureStyle } from '../../styles/basestyle.js';
-import Layout from '../../components/layout.jsx';
+import Layout from '../../components/Layout.jsx';
 
 const Card = styled.div`
   ${cardStyle}
@@ -30,7 +30,7 @@ const PageModracer = (props) => {
           <ul>
             <li>WindowsXP</li>
             <li>128MB RAM</li>
-            <li>Directx8.0</li>
+            <li>DirectX8.0</li>
           </ul>
         </Card>
         <Card>
@@ -38,7 +38,7 @@ const PageModracer = (props) => {
           <p>
             <a href="/zips/modracer.zip">modracer.zip: 2,9 MByte</a>
           </p>
-          <h2>Sourcecode für C++ mit DirectxSDK</h2>
+          <h2>Sourcecode für C++ mit DirectX-SDK</h2>
           <p>
             <a href="/zips/modracersdk.zip">modracersdk.zip: 2,7 MByte</a>
           </p>

@@ -1,11 +1,18 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useState, useMemo } from 'react';
 import PropTypes from 'prop-types';
 import styled from 'styled-components';
-import { Cartesian3 } from 'cesium';
 
-const Container = styled.div`
-  width: 100%;
-  height: 100%;
+const Container = styled.div.attrs(({ opacity }) => ({
+  style: { opacity }
+}))`
+  position: fixed;
+  bottom: 3vh;
+  height: 15vh;
+  width: 60vw;
+  left: 50%;
+  transform: translate(-50%, 0);
+  z-index: 4;
+  transition: opacity 1s ease-in-out;
   background-color: #ffffee;
   border-radius: 10px;
   box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.3);
@@ -35,8 +42,9 @@ const DistanceLabel = styled.div.attrs(({ x }) => ({
 
 const CurrentPointContainer = styled.div.attrs(({ x = 0, y = 0 }) => ({
   style: {
-    transform: `translate(${x * 100}%, ${y * 100}%)`,
-  }}))`
+    transform: `translate(${x * 100}%, ${y * 100}%)`
+  }
+}))`
   position: absolute;
   top: 0;
   left: 0;
@@ -47,7 +55,8 @@ const CurrentPointContainer = styled.div.attrs(({ x = 0, y = 0 }) => ({
 const CurrentHeightLine = styled.div.attrs(({ x }) => ({
   style: {
     right: `${100 - x * 100}%`
-  }}))`
+  }
+}))`
   position: absolute;
   height: 2px;
   top: 0;
@@ -72,7 +81,8 @@ const CurrentHeightLabel = styled.div`
 const CurrentDistanceLine = styled.div.attrs(({ y }) => ({
   style: {
     top: `${y * 100}%`
-  }}))`
+  }
+}))`
   position: absolute;
   width: 2px;
   left: 0;
@@ -102,8 +112,6 @@ const CurrentDot = styled.div`
   transform: translate(-50%, -50%);
   background-color: darkred;
 `;
-
-const loadTrack = (gpxPath) => fetch(gpxPath).then((response) => response.text());
 
 const flattenHeightSpikes = (points) => {
   return points.map((point, index) => {
@@ -167,41 +175,24 @@ const getDistanceGaps = (maxDistance) => {
   };
 };
 
-const parseTrackData = (gpxRaw) => {
-  let lastPosition = null;
+const extractTrackData = (track) => {
   const trackData = {
-    minHeight: 9999,
-    maxHeight: 0,
-    maxDistance: 0,
-    points: []
+    ...track,
+    points: [],
+    heightGaps: getHeightGaps(track.maxHeight - track.minHeight),
+    distanceGaps: getDistanceGaps(track.maxDistance)
   };
-  const doc = new window.DOMParser().parseFromString(gpxRaw, 'text/xml');
-  Array.prototype.slice.call(doc.getElementsByTagName('trkpt')).forEach((trackPoint) => {
-    const longitude = parseFloat(trackPoint.getAttribute('lon'));
-    const latitude = parseFloat(trackPoint.getAttribute('lat'));
-    const height = parseFloat(trackPoint.getElementsByTagName('ele')[0].textContent);
-    const time = new Date(trackPoint.getElementsByTagName('time')[0].textContent).getTime();
-
-    const position = Cartesian3.fromDegrees(longitude, latitude, height);
-    const distanceDifference = lastPosition ? Cartesian3.distance(position, lastPosition) : 0;
-    trackData.maxDistance += distanceDifference;
-    trackData.minHeight = Math.min(trackData.minHeight, height);
-    trackData.maxHeight = Math.max(trackData.maxHeight, height);
-
+  track.points.forEach((point) => {
     const lastHeight = trackData.points[trackData.points.length - 1]?.height;
-    if (!lastHeight || Math.abs(height - lastHeight) > 5) {
+    if (!lastHeight || Math.abs(point.height - lastHeight) > 5) {
       trackData.points.push({
-        time,
-        distance: trackData.maxDistance,
-        height
+        timestamp: point.timestamp,
+        distance: point.distance,
+        height: point.height
       });
     }
-
-    lastPosition = position;
   });
   trackData.points = flattenHeightSpikes(trackData.points);
-  trackData.heightGaps = getHeightGaps(trackData.maxHeight - trackData.minHeight);
-  trackData.distanceGaps = getDistanceGaps(trackData.maxDistance);
 
   return trackData;
 };
@@ -296,7 +287,9 @@ const renderHeightLabels = (trackData, gap) => {
     }
     const y = heightToGraph(trackData, height);
     elements.push(
-      <HeightLabel key={`main_${height}_height_label`} y={y}>{formatHeight(height)}</HeightLabel>
+      <HeightLabel key={`main_${height}_height_label`} y={y}>
+        {formatHeight(height)}
+      </HeightLabel>
     );
   }
   return elements;
@@ -307,7 +300,9 @@ const renderDistanceLabels = (trackData, gap) => {
   for (let distance = 0; distance < trackData.maxDistance; distance += gap) {
     const x = distanceToGraph(trackData, distance);
     elements.push(
-      <DistanceLabel key={`main_${distance}_distance_label`} x={x}>{formatDistance(distance)}</DistanceLabel>
+      <DistanceLabel key={`main_${distance}_distance_label`} x={x}>
+        {formatDistance(distance)}
+      </DistanceLabel>
     );
   }
   return elements;
@@ -316,54 +311,65 @@ const renderDistanceLabels = (trackData, gap) => {
 const CurrentPoint = ({ trackData, currentPoint }) => {
   const x = distanceToGraph(trackData, currentPoint.distance);
   const y = heightToGraph(trackData, currentPoint.height);
-  return <>
-    <CurrentPointContainer y={y}><CurrentHeightLine x={x} /></CurrentPointContainer>
-    <CurrentPointContainer y={y}><CurrentHeightLabel>{formatHeight(currentPoint.height)}</CurrentHeightLabel></CurrentPointContainer>
-    <CurrentPointContainer x={x}><CurrentDistanceLine y={y} /></CurrentPointContainer>
-    <CurrentPointContainer x={x}><CurrentDistanceLabel>{formatDistance(currentPoint.distance)}</CurrentDistanceLabel></CurrentPointContainer>
-    <CurrentPointContainer x={x} y={y}><CurrentDot /></CurrentPointContainer>
-  </>;
+  return (
+    <>
+      <CurrentPointContainer y={y}>
+        <CurrentHeightLine x={x} />
+      </CurrentPointContainer>
+      <CurrentPointContainer y={y}>
+        <CurrentHeightLabel>{formatHeight(currentPoint.height)}</CurrentHeightLabel>
+      </CurrentPointContainer>
+      <CurrentPointContainer x={x}>
+        <CurrentDistanceLine y={y} />
+      </CurrentPointContainer>
+      <CurrentPointContainer x={x}>
+        <CurrentDistanceLabel>{formatDistance(currentPoint.distance)}</CurrentDistanceLabel>
+      </CurrentPointContainer>
+      <CurrentPointContainer x={x} y={y}>
+        <CurrentDot />
+      </CurrentPointContainer>
+    </>
+  );
 };
 
 const convertTimeToInterpolatedPoint = (trackData, isoTime) => {
-  const time = new Date(isoTime).getTime();
-  const previousPoint = trackData.points.findLast((point) => point.time < time) || trackData.points[0];
+  const timestamp = new Date(isoTime).getTime();
+  const previousPoint = trackData.points.findLast((point) => point.timestamp < timestamp) || trackData.points[0];
   const nextPoint =
-    trackData.points.find((point) => time < point.time) || trackData.points[trackData.points.length - 1];
-  if (nextPoint.time === previousPoint.time) {
+    trackData.points.find((point) => timestamp < point.timestamp) || trackData.points[trackData.points.length - 1];
+  if (nextPoint.timestamp === previousPoint.timestamp) {
     return {
-      time,
+      timestamp,
       distance: previousPoint.distance,
       height: previousPoint.height
     };
   }
-  const ratio = 1 - ((nextPoint.time - time) / (nextPoint.time - previousPoint.time));
+  const ratio = 1 - (nextPoint.timestamp - timestamp) / (nextPoint.timestamp - previousPoint.timestamp);
   return {
-    time,
+    timestamp,
     distance: previousPoint.distance + (nextPoint.distance - previousPoint.distance) * ratio,
     height: previousPoint.height + (nextPoint.height - previousPoint.height) * ratio
   };
 };
 
 const HeightGraph = (props) => {
-  const [trackData, setTrackData] = useState(null);
   const [currentPoint, setCurrentPoint] = useState(null);
+
+  const trackData = useMemo(() => extractTrackData(props.track), [props.track]);
+
   useEffect(() => {
-    loadTrack(props.gpxPath).then(parseTrackData).then(setTrackData);
-  }, []); // eslint-disable-line react-hooks/exhaustive-deps
-  useEffect(() => {
-    if (trackData && props.time) {
+    if (props.time) {
       const point = convertTimeToInterpolatedPoint(trackData, props.time);
       setCurrentPoint(point);
     }
   }, [props.time, trackData]);
 
-  if (!trackData || !currentPoint) {
+  if (!currentPoint) {
     return null;
   }
 
   return (
-    <Container>
+    <Container opacity={props.visible ? 0.7 : 0.0}>
       <Graph trackData={trackData} />
       {[
         ...renderHeightLabels(trackData, trackData.heightGaps.main),
@@ -375,7 +381,20 @@ const HeightGraph = (props) => {
 };
 
 HeightGraph.propTypes = {
-  gpxPath: PropTypes.string.isRequired
+  track: PropTypes.shape({
+    minHeight: PropTypes.number.isRequired,
+    maxHeight: PropTypes.number.isRequired,
+    maxDistance: PropTypes.number.isRequired,
+    points: PropTypes.arrayOf(
+      PropTypes.shape({
+        timestamp: PropTypes.number.isRequired,
+        distance: PropTypes.number.isRequired,
+        height: PropTypes.number.isRequired
+      })
+    ).isRequired
+  }).isRequired,
+  time: PropTypes.string,
+  visible: PropTypes.bool.isRequired
 };
 
 export default HeightGraph;

@@ -3,7 +3,7 @@ import { graphql, Link } from 'gatsby';
 import styled from 'styled-components';
 import formatDate from '../utils/formatDate';
 import { cardStyle } from '../styles/basestyle.js';
-import Layout from '../components/layout.jsx';
+import Layout from '../components/Layout.jsx';
 
 const Title = styled.h1`
   margin: 16px 0 0 16px;
@@ -93,10 +93,12 @@ const getDestinationDescription = (name, hikeReports, skiReports) => {
   return name;
 };
 
+const isHike = (report) => report.type === 'hike' || report.type === 'winterHike';
+
 const extractReports = (allReportsJson) => {
   const reports = allReportsJson.edges.map((element) => element.node);
-  const hikeReports = reports.filter((report) => report.type === 'hike');
-  const skiReports = reports.filter((report) => report.type !== 'hike');
+  const hikeReports = reports.filter(isHike);
+  const skiReports = reports.filter((report) => !isHike(report));
   return { hikeReports, skiReports };
 };
 
