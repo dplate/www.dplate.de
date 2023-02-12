@@ -8,6 +8,7 @@ import Logo from '../components/reportMovie/Logo.jsx';
 import Curtain from '../components/reportMovie/Curtain.jsx';
 import HeightGraph from '../components/reportMovie/HeightGraph.jsx';
 import YoutubeMetadata from '../components/reportMovie/YoutubeMetadata.jsx';
+import Soundtrack from '../components/reportMovie/Soundtrack.jsx';
 import loadTrack from '../utils/loadTrack.js';
 const Map = React.lazy(() => import('../components/Map.jsx'));
 
@@ -39,12 +40,9 @@ const findNextPhoto = (landmarks, currentPhoto) => {
 };
 
 const nextPhase = (phase, setPhase, nextPhoto, setNextPhoto, landmarks) => {
-  if (phase.forDuration) {
-    return;
-  }
   switch (phase.name) {
     case 'loading':
-      setPhase({ name: 'intro', forDuration: 5000 });
+      setPhase({ name: 'intro', forDuration: null });
       break;
     case 'intro':
       setPhase({ name: 'introScroll', forDuration: 5000 });
@@ -102,7 +100,10 @@ const ReportMovie = ({ data: { reportJson } }) => {
 
   const landmarks = useMemo(
     () =>
-      reportJson.landmarks.filter((landmark) => {
+      reportJson.landmarks.map(landmark => ({
+        ...landmark,
+        photos: landmark.photos.filter(photo => photo.date)
+      })).filter((landmark) => {
         return landmark.photos.length > 0;
       }),
     [reportJson]
@@ -115,7 +116,6 @@ const ReportMovie = ({ data: { reportJson } }) => {
   useEffect(() => {
     if (phase.forDuration) {
       const timeout = window.setTimeout(() => {
-        phase.forDuration = null;
         callNextPhase();
       }, phase.forDuration);
       return () => {
@@ -128,7 +128,11 @@ const ReportMovie = ({ data: { reportJson } }) => {
     () => (
       <>
         <Curtain closed={phase.name === 'loading' || phase.name === 'intro' || phase.name === 'outro'} />
-        <Logo introActive={phase.name === 'loading' || phase.name === 'intro'} outroActive={phase.name === 'outro'} />
+        <Logo
+          introActive={phase.name === 'loading' || phase.name === 'intro'}
+          outroActive={phase.name === 'outro'}
+          onClick={phase.name === 'intro' ? callNextPhase : null}
+        />
         <AnimatedTitle
           reportPath={reportPath}
           title={title + ' - ' + formatDate(date)}
@@ -187,6 +191,7 @@ const ReportMovie = ({ data: { reportJson } }) => {
     <Movie id="movie">
       {timeIndependentComponents}
       {track && <HeightGraph visible={phase.name === 'map'} track={track} time={time} />}
+      {track && <Soundtrack phaseName={phase.name} track={track} time={time} />}
     </Movie>
   );
 };

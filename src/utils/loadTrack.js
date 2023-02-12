@@ -23,8 +23,6 @@ const parseGpxRaw = (gpxRaw) => {
     const lastPosition = track.points[track.points.length - 1]?.position;
     const distanceDifference = lastPosition ? Cartesian3.distance(position, lastPosition) : 0;
 
-    if (!track.startTime) {
-    }
     track.startTime = track.startTime || time;
     track.stopTime = time;
     track.startTimestamp = track.startTimestamp || timestamp;

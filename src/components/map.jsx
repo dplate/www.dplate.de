@@ -17,6 +17,7 @@ import {
   EllipsoidGeodesic,
   Entity,
   EventHelper,
+  ExtrapolationType,
   GeographicTilingScheme,
   HeadingPitchRange,
   HeightReference,
@@ -87,10 +88,13 @@ const extractTrackData = (track) => {
     sampledPosition: new SampledPositionProperty(),
     positions: []
   };
-  track.points.forEach((point) => {
+  trackData.sampledPosition.backwardExtrapolationType = ExtrapolationType.HOLD;
+  trackData.sampledPosition.forwardExtrapolationType = ExtrapolationType.HOLD;
+  track.points.forEach((point, index) => {
     if (
       trackData.positions.length === 0 ||
-      Cartesian3.distance(point.position, trackData.positions[trackData.positions.length - 1]) > 10
+      Cartesian3.distance(point.position, trackData.positions[trackData.positions.length - 1]) > 10 ||
+      index === track.points.length - 1
     ) {
       trackData.sampledPosition.addSample(point.time, point.position);
       trackData.positions.push(point.position);
@@ -471,7 +475,6 @@ const prepareStart = async (
   hiker,
   targetTime,
   onAnimationStarted,
-  onAnimationStopped,
   time,
   timeShift
 ) => {
@@ -492,8 +495,6 @@ const prepareStart = async (
       }
     });
   });
-
-  onAnimationStopped();
 
   return viewer.clock;
 };
@@ -545,7 +546,6 @@ const Map = (props) => {
         hiker,
         targetTime,
         onAnimationStarted,
-        onAnimationStopped,
         wishTime,
         timeShift
       ).then(setClock);

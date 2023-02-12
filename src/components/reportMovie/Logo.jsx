@@ -17,16 +17,17 @@ const LogoContainer = styled.img.attrs(({ width, top, left }) => ({
   transition: width 5s ease-in-out, top 5s ease-in-out, left 5s ease-in-out;
 `;
 
-const Logo = ({ introActive, outroActive }) => {
+const Logo = ({ introActive, outroActive, onClick }) => {
   const top = introActive ? 75 : outroActive ? 50 : 95;
   const left = introActive || outroActive ? 50 : 95;
   const width = introActive ? 400 : outroActive ? 800 : 100;
-  return <LogoContainer top={top} left={left} width={width} src="/assets/alpinfunk.svg" />;
+  return <LogoContainer top={top} left={left} width={width} src="/assets/alpinfunk.svg" onClick={onClick} />;
 };
 
 Logo.propTypes = {
   introActive: PropTypes.bool.isRequired,
-  outroActive: PropTypes.bool.isRequired
+  outroActive: PropTypes.bool.isRequired,
+  onClick: PropTypes.func
 };
 
 export default Logo;

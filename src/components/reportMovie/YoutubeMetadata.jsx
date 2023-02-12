@@ -93,7 +93,8 @@ const outputMetadata = (date, title, shortTitle, landmarks, reportPath, track) =
       '- © 2023 Maxar\n' +
       '- ©CNES (2023) Distribution Airbus DS\n' +
       '- geodata © swisstopo\n' +
-      '- basemap.at',
+      '- basemap.at\n' +
+      '- freesound.org',
     tags:
       title +
       ',' +
