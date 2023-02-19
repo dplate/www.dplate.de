@@ -64,7 +64,7 @@ Landmarks.propTypes = {
       photos: PropTypes.arrayOf(
         PropTypes.shape({
           name: PropTypes.string.isRequired,
-          alt: PropTypes.string.isRequired
+          alt: PropTypes.string
         })
       ).isRequired
     })

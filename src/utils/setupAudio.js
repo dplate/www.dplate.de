@@ -1,10 +1,10 @@
-const createSound = (audioContext, audioBuffer, loop) => {
+const createSound = (audioContext, audioBuffer) => {
   let source = null;
 
+  const panNode = audioContext.createStereoPanner();
+  panNode.connect(audioContext.destination);
   const gainNode = audioContext.createGain();
-  gainNode.connect(audioContext.destination);
-
-  let volume = 1;
+  gainNode.connect(panNode);
 
   const sound = {
     stop: () => {
@@ -24,9 +24,14 @@ const createSound = (audioContext, audioBuffer, loop) => {
         source.detune && (source.detune.value = detune);
       }
     },
-    updateGain: () => {
+    setPan: (pan) => {
       if (source) {
-        gainNode.gain.value = volume;
+        panNode.pan.value = pan;
+      }
+    },
+    setGain: (gain) => {
+      if (source) {
+        gainNode.gain.value = gain;
       }
     },
     isPlaying: () => Boolean(source)
@@ -35,7 +40,6 @@ const createSound = (audioContext, audioBuffer, loop) => {
     if (!source || (restart && sound.stop())) {
       source = audioContext.createBufferSource();
       source.connect(gainNode);
-      source.loop = loop;
       source.buffer = audioBuffer;
       source.onended = () => {
         if (source) {
@@ -43,14 +47,7 @@ const createSound = (audioContext, audioBuffer, loop) => {
           source = null;
         }
       };
-      sound.updateGain();
       source.start();
-    }
-  };
-  sound.setVolume = (newVolume) => {
-    if (volume !== newVolume) {
-      volume = newVolume;
-      sound.updateGain();
     }
   };
   return sound;
@@ -62,21 +59,21 @@ const setupAudio = () => {
 
   const audio = {
     loadInstanced: async (name) => {
-      const response = await fetch('/assets/' + name + '.mp3');
+      const response = await fetch('/assets/sounds/' + name + '.mp3');
       const buffer = await response.arrayBuffer();
       const audioBuffer = await audioContext.decodeAudioData(buffer);
       return {
-        addInstance: (loop = false) => {
-          const sound = createSound(audioContext, audioBuffer, loop);
+        addInstance: () => {
+          const sound = createSound(audioContext, audioBuffer,);
           sounds.push(sound);
           return sound;
         }
       };
     },
   };
-  audio.load = async (name, loop = false) => {
+  audio.load = async (name) => {
     const instanced = await audio.loadInstanced(name);
-    return instanced.addInstance(loop);
+    return instanced.addInstance();
   };
 
   return audio;
