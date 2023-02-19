@@ -6,8 +6,15 @@
     "track": true,
     "shortTitle": "Madrisa Rundtour",
     "title": "Gargellen - Madrisa-Rundtour",
-    "movie": "Vx3DpzN2fLM",
-    "intro": "Schon lange auf meiner Liste für Wanderungen steht die recht bekannte <a href=\"https://touren.montafon.at/de/tour/wanderung/madrisa-rundtour-zweitaegig-auf-den-spuren-der-schmuggler/6877160/\" onclick=\"this.target='_blank';\">Madrisa-Rundtour</a>. Um die an einem Tag zu schaffen, startet man am besten von der Bergstation der Gondelbahn von Gargellen.<br />\nAls ich um 8:30 am Parkplatz der Bahn ankam, war ich erstmal verblüfft: Parkplatz schon halb voll, Wartezeit an den Kassen und eine lange Schlange vor den Gondeln. Als ich aber schließlich um 9:00 an der Bergstation ankam stellte sich zum Glück heraus, dass fast alle nur zum Bergfrühstück nach oben fuhren und kaum jemand sich auf den Wanderweg begab.",
+    "title3d": {
+      "offsetY": 0,
+      "fontSize": 8,
+      "align": "center",
+      "width": 1920,
+      "height": 483
+    },
+    "movie": "8wlkANKIwuE",
+    "intro": "Schon lange auf meiner Liste für Wanderungen steht die recht bekannte <a href=\"https://touren.montafon.at/de/tour/wanderung/madrisa-rundtour-zweitaegig-auf-den-spuren-der-schmuggler/6877160/\" onclick=\"this.target='_blank';\">Madrisa-Rundtour</a>. Um die an einem Tag zu schaffen, startet man am besten von der Bergstation der Gondelbahn von Gargellen.<br />\nAls ich um 8:30 am Parkplatz der Bahn ankam, war ich erst mal verblüfft: Parkplatz schon halb voll, Wartezeit an den Kassen und eine lange Schlange vor den Gondeln. Als ich aber schließlich um 9:00 an der Bergstation ankam stellte sich zum Glück heraus, dass fast alle nur zum Bergfrühstück nach oben fuhren und kaum jemand sich auf den Wanderweg begab.",
     "landmarks": [
       {
         "photos": [
@@ -15,7 +22,8 @@
             "name": "001",
             "date": "2015-08-22T09:09:35.000+02:00",
             "width": 1914,
-            "height": 1080
+            "height": 1080,
+            "alt": "Bergstation Gargellen"
           }
         ],
         "videos": [],
@@ -27,7 +35,8 @@
             "name": "002",
             "date": "2015-08-22T09:13:08.000+02:00",
             "width": 1909,
-            "height": 1080
+            "height": 1080,
+            "alt": "Wanderweg Gargellen Gafierjoch"
           }
         ],
         "videos": [],
@@ -39,7 +48,8 @@
             "name": "003",
             "date": "2015-08-22T09:36:26.000+02:00",
             "width": 1800,
-            "height": 1080
+            "height": 1080,
+            "alt": "Speichersee Gargellen"
           }
         ],
         "videos": [],
@@ -51,7 +61,8 @@
             "name": "004",
             "date": "2015-08-22T09:51:15.000+02:00",
             "width": 1920,
-            "height": 782
+            "height": 782,
+            "alt": "Gafierjoch St. Antönien"
           }
         ],
         "videos": [],
@@ -63,7 +74,8 @@
             "name": "005",
             "date": "2015-08-22T09:53:29.000+02:00",
             "width": 1920,
-            "height": 1012
+            "height": 1012,
+            "alt": "Rätschenflue"
           }
         ],
         "videos": [],
@@ -75,7 +87,8 @@
             "name": "006",
             "date": "2015-08-22T09:55:58.000+02:00",
             "width": 1620,
-            "height": 1080
+            "height": 1080,
+            "alt": "Wegweiser Gafier Joch"
           }
         ],
         "videos": [],
@@ -87,7 +100,8 @@
             "name": "007",
             "date": "2015-08-22T10:13:01.000+02:00",
             "width": 1620,
-            "height": 1080
+            "height": 1080,
+            "alt": "Abstieg Gafier Joch"
           }
         ],
         "videos": [],
@@ -99,7 +113,8 @@
             "name": "008",
             "date": "2015-08-22T10:18:40.000+02:00",
             "width": 1920,
-            "height": 1040
+            "height": 1040,
+            "alt": "Steiler Wegabschnitt"
           }
         ],
         "videos": [],
@@ -111,7 +126,8 @@
             "name": "009",
             "date": "2015-08-22T10:19:56.000+02:00",
             "width": 1743,
-            "height": 1080
+            "height": 1080,
+            "alt": "Murmeltier"
           }
         ],
         "videos": [],
@@ -123,7 +139,8 @@
             "name": "011",
             "date": "2015-08-22T10:31:31.000+02:00",
             "width": 1620,
-            "height": 1080
+            "height": 1080,
+            "alt": "Bergblumenwiese"
           }
         ],
         "videos": [],
@@ -135,7 +152,8 @@
             "name": "012",
             "date": "2015-08-22T10:49:50.000+02:00",
             "width": 1620,
-            "height": 1080
+            "height": 1080,
+            "alt": "Kalkfelsen"
           }
         ],
         "videos": [],
@@ -147,11 +165,12 @@
             "name": "014",
             "date": "2015-08-22T10:53:18.000+02:00",
             "width": 1643,
-            "height": 1080
+            "height": 1080,
+            "alt": "Steinlabyrinth"
           }
         ],
         "videos": [],
-        "text": "Die Wiesen entlang des Felsen hatten Wanderer mit diversen Kunstwerken und Stein-Graffities verschönert."
+        "text": "Die Wiesen entlang des Felsen hatten Wanderer mit diversen Kunstwerken und Stein-Graffitis verschönert."
       },
       {
         "photos": [
@@ -159,7 +178,8 @@
             "name": "015",
             "date": "2015-08-22T10:57:12.000+02:00",
             "width": 1620,
-            "height": 1080
+            "height": 1080,
+            "alt": "Madrisa"
           }
         ],
         "videos": [],
@@ -171,11 +191,12 @@
             "name": "016",
             "date": "2015-08-22T11:08:25.000+02:00",
             "width": 1548,
-            "height": 1080
+            "height": 1080,
+            "alt": "Aufstieg Rätschenhorn"
           }
         ],
         "videos": [],
-        "text": "Dann geht der Weg endlich doch direkt auf den Kalkfelsen zu... wo genau er hochführt, konnte man aber nicht erkennen.<br />\nDer Aufstieg auf das Rätschenhorn gehört eigentlich nicht zur Rundtour, aber die 100m Extraaufstieg nahm ich in Kauf."
+        "text": "Dann geht der Weg endlich doch direkt auf den Kalkfelsen zu... wo genau er hoch führt, konnte man aber nicht erkennen.<br />\nDer Aufstieg auf das Rätschenhorn gehört eigentlich nicht zur Rundtour, aber die 100m Extraaufstieg nahm ich in Kauf."
       },
       {
         "photos": [
@@ -183,7 +204,8 @@
             "name": "017",
             "date": "2015-08-22T11:09:31.000+02:00",
             "width": 1920,
-            "height": 836
+            "height": 836,
+            "alt": "Erosionen im Kalkstein"
           }
         ],
         "videos": [],
@@ -195,7 +217,8 @@
             "name": "018",
             "date": "2015-08-22T11:15:35.000+02:00",
             "width": 1620,
-            "height": 1080
+            "height": 1080,
+            "alt": "Weg durch Kalkfelsen"
           }
         ],
         "videos": [],
@@ -207,7 +230,8 @@
             "name": "019",
             "date": "2015-08-22T11:20:54.000+02:00",
             "width": 1920,
-            "height": 498
+            "height": 498,
+            "alt": "Gipfelplateau Rätschenhorn"
           }
         ],
         "videos": [],
@@ -219,7 +243,8 @@
             "name": "020",
             "date": "2015-08-22T11:33:30.000+02:00",
             "width": 1920,
-            "height": 1079
+            "height": 1079,
+            "alt": "Aussicht Rätschenhorn mit Segelflugzeug"
           }
         ],
         "videos": [],
@@ -231,7 +256,8 @@
             "name": "021",
             "date": "2015-08-22T11:35:15.000+02:00",
             "width": 1920,
-            "height": 765
+            "height": 765,
+            "alt": "Abbruchkante"
           }
         ],
         "videos": [],
@@ -243,7 +269,8 @@
             "name": "022",
             "date": "2015-08-22T11:37:11.000+02:00",
             "width": 1920,
-            "height": 662
+            "height": 662,
+            "alt": "Gipfel Rätschenhorn"
           }
         ],
         "videos": [],
@@ -255,7 +282,8 @@
             "name": "023",
             "date": "2015-08-22T11:39:12.000+02:00",
             "width": 1920,
-            "height": 1020
+            "height": 1020,
+            "alt": "Panorama Rätschenhorn"
           }
         ],
         "videos": [],
@@ -267,7 +295,8 @@
             "name": "024",
             "date": "2015-08-22T11:44:53.000+02:00",
             "width": 1920,
-            "height": 678
+            "height": 678,
+            "alt": "Madrisahorn"
           }
         ],
         "videos": [],
@@ -279,11 +308,12 @@
             "name": "025",
             "date": "2015-08-22T11:59:50.000+02:00",
             "width": 1920,
-            "height": 689
+            "height": 689,
+            "alt": "Rätschenjoch"
           }
         ],
         "videos": [],
-        "text": "Nun bin ich wieder auf der offizellen Rundtour, genauer gesagt auf dem 2600m hohen Rätschenjoch. Hinten das gerade eben bestiegene Rätschenhorn."
+        "text": "Nun bin ich wieder auf der offiziellen Rundtour, genauer gesagt auf dem 2600m hohen Rätschenjoch. Hinten das gerade eben bestiegene Rätschenhorn."
       },
       {
         "photos": [
@@ -291,7 +321,8 @@
             "name": "026",
             "date": "2015-08-22T12:01:47.000+02:00",
             "width": 1620,
-            "height": 1080
+            "height": 1080,
+            "alt": "Wanderweg Rätschenjoch"
           }
         ],
         "videos": [],
@@ -303,7 +334,8 @@
             "name": "027",
             "date": "2015-08-22T12:04:23.000+02:00",
             "width": 1920,
-            "height": 1033
+            "height": 1033,
+            "alt": "Rätschenfluh"
           }
         ],
         "videos": [],
@@ -315,11 +347,12 @@
             "name": "028",
             "date": "2015-08-22T12:12:27.000+02:00",
             "width": 1620,
-            "height": 1080
+            "height": 1080,
+            "alt": "Parsenn"
           }
         ],
         "videos": [],
-        "text": "Und Aussicht in die andere Richtung. Auf der anderen Seite des Tals ist der Weissfluhgeipfel des Skigebiets Davos-Parsenn zu sehen."
+        "text": "Und Aussicht in die andere Richtung. Auf der anderen Seite des Tals ist der Weissfluhgipfel des Skigebiets Davos-Parsenn zu sehen."
       },
       {
         "photos": [
@@ -327,7 +360,8 @@
             "name": "030",
             "date": "2015-08-22T12:23:21.000+02:00",
             "width": 1873,
-            "height": 1080
+            "height": 1080,
+            "alt": "Silvrettagletscher"
           }
         ],
         "videos": [],
@@ -339,7 +373,8 @@
             "name": "031",
             "date": "2015-08-22T12:35:34.000+02:00",
             "width": 1620,
-            "height": 1080
+            "height": 1080,
+            "alt": "Blauer Eisenhut"
           }
         ],
         "videos": [],
@@ -351,7 +386,8 @@
             "name": "032",
             "date": "2015-08-22T12:35:54.000+02:00",
             "width": 1899,
-            "height": 1080
+            "height": 1080,
+            "alt": "Schafcalanda"
           }
         ],
         "videos": [],
@@ -363,13 +399,15 @@
             "name": "033",
             "date": "2015-08-22T12:38:33.000+02:00",
             "width": 1829,
-            "height": 1080
+            "height": 1080,
+            "alt": "Pilz"
           },
           {
             "name": "034",
             "date": "2015-08-22T12:43:01.000+02:00",
             "width": 1779,
-            "height": 1080
+            "height": 1080,
+            "alt": "Eisenhut vor Fels"
           }
         ],
         "videos": [],
@@ -381,7 +419,8 @@
             "name": "035",
             "date": "2015-08-22T12:47:01.000+02:00",
             "width": 1920,
-            "height": 721
+            "height": 721,
+            "alt": "Wanderung Madrisa"
           }
         ],
         "videos": [],
@@ -393,13 +432,15 @@
             "name": "036",
             "date": "2015-08-22T13:17:05.000+02:00",
             "width": 1620,
-            "height": 1080
+            "height": 1080,
+            "alt": "Kleiner Bergbach"
           },
           {
             "name": "037",
             "date": "2015-08-22T13:19:06.000+02:00",
             "width": 1920,
-            "height": 1060
+            "height": 1060,
+            "alt": "Schlappintal"
           }
         ],
         "videos": [],
@@ -411,7 +452,8 @@
             "name": "038",
             "date": "2015-08-22T13:27:47.000+02:00",
             "width": 1742,
-            "height": 1080
+            "height": 1080,
+            "alt": "Kleine Bäche"
           }
         ],
         "videos": [],
@@ -423,7 +465,8 @@
             "name": "039",
             "date": "2015-08-22T13:49:12.000+02:00",
             "width": 1620,
-            "height": 1080
+            "height": 1080,
+            "alt": "Hangweg Schlappiner Joch"
           }
         ],
         "videos": [],
@@ -435,7 +478,8 @@
             "name": "040",
             "date": "2015-08-22T14:23:00.000+02:00",
             "width": 1620,
-            "height": 1080
+            "height": 1080,
+            "alt": "Blick nach Davos"
           }
         ],
         "videos": [],
@@ -447,7 +491,8 @@
             "name": "041",
             "date": "2015-08-22T14:23:30.000+02:00",
             "width": 1620,
-            "height": 1080
+            "height": 1080,
+            "alt": "Blick nach Gargellen"
           }
         ],
         "videos": [],
@@ -459,7 +504,8 @@
             "name": "042",
             "date": "2015-08-22T14:35:04.000+02:00",
             "width": 1920,
-            "height": 1076
+            "height": 1076,
+            "alt": "Wanderweg Schlappiner Joch"
           }
         ],
         "videos": [],
@@ -471,11 +517,12 @@
             "name": "043",
             "date": "2015-08-22T14:36:44.000+02:00",
             "width": 1920,
-            "height": 925
+            "height": 925,
+            "alt": "Bergmassiv Madrisa"
           }
         ],
         "videos": [],
-        "text": "Linkerhand ist wieder die Madrisa zu sehen, diesmal von der anderen Seite."
+        "text": "Linker Hand ist wieder die Madrisa zu sehen, diesmal von der anderen Seite."
       },
       {
         "photos": [
@@ -483,7 +530,8 @@
             "name": "044",
             "date": "2015-08-22T14:51:04.000+02:00",
             "width": 1920,
-            "height": 856
+            "height": 856,
+            "alt": "Wanderweg durch hohe Büsche"
           }
         ],
         "videos": [],
@@ -495,7 +543,8 @@
             "name": "045",
             "date": "2015-08-22T15:13:32.000+02:00",
             "width": 1523,
-            "height": 1080
+            "height": 1080,
+            "alt": "Valzifenzbach"
           }
         ],
         "videos": [],
@@ -507,13 +556,15 @@
             "name": "046",
             "date": "2015-08-22T15:21:53.000+02:00",
             "width": 1789,
-            "height": 1080
+            "height": 1080,
+            "alt": "Kuhherde"
           },
           {
             "name": "047",
             "date": "2015-08-22T15:31:26.000+02:00",
             "width": 1770,
-            "height": 1080
+            "height": 1080,
+            "alt": "Spazierweg Valzifenztal"
           }
         ],
         "videos": [],
@@ -525,7 +576,8 @@
             "name": "048",
             "date": "2015-08-22T15:54:18.000+02:00",
             "width": 1620,
-            "height": 1080
+            "height": 1080,
+            "alt": "Wanderung Gargellen"
           }
         ],
         "videos": [],
@@ -537,7 +589,8 @@
             "name": "049",
             "date": "2015-08-22T16:06:12.000+02:00",
             "width": 1620,
-            "height": 1080
+            "height": 1080,
+            "alt": "Gargellen"
           }
         ],
         "videos": [],
