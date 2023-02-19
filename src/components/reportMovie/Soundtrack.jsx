@@ -302,8 +302,6 @@ const playEnvironmentSounds = (height, sounds) => {
         const sound = sounds[environmentNoise.name].addInstance();
         const gain = Math.pow(Math.random(), 4);
         const pan = Math.random() * 2 - 1;
-        console.log(environmentNoise.name, heightFactor, gain, pan);
-
         sound.play();
         sound.setGain(gain);
         sound.setPan(pan);
