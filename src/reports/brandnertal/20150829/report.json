@@ -7,13 +7,21 @@
     "detailMap": "austria",
     "shortTitle": "Schesaplana",
     "title": "Lünersee - Schesaplana",
-    "movie": "E9jMVxDPvf0",
+    "title3d": {
+      "offsetY": 0,
+      "fontSize": 9,
+      "align": "left",
+      "width": 1920,
+      "height": 599
+    },
+    "movie": "iWAfcU85Ar0",
     "intro": "Da man nie genau weiß, wie lang im Jahr man noch Wanderungen bis hinauf auf knapp 3000m unternehmen kann, ging ich auf Nummer sicher und hatte mir diesen Samstag die Schesaplana vorgenommen.<br />\nAls Ausgangspunkt der Tour entschloss ich mich für die Talstation der Lünerseebahn auf 1500m am Ende des Brandnertals. Da ich der Hitze des Tages beim Aufstieg etwas entgehen wollte, war ich bereits um 7:00 auf dem großzügigen Parkplatz angekommen.",
     "landmarks": [
       {
         "photos": [
           {
             "name": "001",
+            "alt": "Böser Tritt",
             "date": "2015-08-29T07:29:30.000+02:00",
             "width": 1563,
             "height": 1080
@@ -26,6 +34,7 @@
         "photos": [
           {
             "name": "002",
+            "alt": "Brandnertal",
             "date": "2015-08-29T07:35:55.000+02:00",
             "width": 1920,
             "height": 914
@@ -38,6 +47,7 @@
         "photos": [
           {
             "name": "003",
+            "alt": "Stausee Lünersee",
             "date": "2015-08-29T07:45:27.000+02:00",
             "width": 1920,
             "height": 1069
@@ -50,6 +60,7 @@
         "photos": [
           {
             "name": "004",
+            "alt": "Sonnenaufgang Lünersee",
             "date": "2015-08-29T07:47:21.000+02:00",
             "width": 1620,
             "height": 1080
@@ -62,6 +73,7 @@
         "photos": [
           {
             "name": "005",
+            "alt": "Aufstieg Totalphütte",
             "date": "2015-08-29T08:22:43.000+02:00",
             "width": 1914,
             "height": 1080
@@ -74,6 +86,7 @@
         "photos": [
           {
             "name": "006",
+            "alt": "Wanderweg Totalphütte",
             "date": "2015-08-29T08:36:56.000+02:00",
             "width": 1767,
             "height": 1080
@@ -86,6 +99,7 @@
         "photos": [
           {
             "name": "007",
+            "alt": "Totalphütte",
             "date": "2015-08-29T09:02:17.000+02:00",
             "width": 1748,
             "height": 1080
@@ -98,6 +112,7 @@
         "photos": [
           {
             "name": "008",
+            "alt": "Blaue Berge",
             "date": "2015-08-29T09:05:12.000+02:00",
             "width": 1920,
             "height": 1020
@@ -110,6 +125,7 @@
         "photos": [
           {
             "name": "009",
+            "alt": "Aufstieg durch Kalkstein",
             "date": "2015-08-29T09:16:13.000+02:00",
             "width": 1620,
             "height": 1080
@@ -122,6 +138,7 @@
         "photos": [
           {
             "name": "010",
+            "alt": "Blau-Weißer Wanderweg",
             "date": "2015-08-29T09:26:13.000+02:00",
             "width": 1620,
             "height": 1080
@@ -134,6 +151,7 @@
         "photos": [
           {
             "name": "011",
+            "alt": "Panorama Totalp",
             "date": "2015-08-29T09:29:35.000+02:00",
             "width": 1920,
             "height": 616
@@ -146,6 +164,7 @@
         "photos": [
           {
             "name": "012",
+            "alt": "Bergtour Schesaplana",
             "date": "2015-08-29T09:43:09.000+02:00",
             "width": 1920,
             "height": 931
@@ -158,6 +177,7 @@
         "photos": [
           {
             "name": "014",
+            "alt": "Berninagruppe",
             "date": "2015-08-29T09:45:04.000+02:00",
             "width": 1816,
             "height": 1080
@@ -170,12 +190,14 @@
         "photos": [
           {
             "name": "015",
+            "alt": "Steilstufe",
             "date": "2015-08-29T09:59:35.000+02:00",
             "width": 1920,
             "height": 832
           },
           {
             "name": "016",
+            "alt": "Drahtseilweg",
             "date": "2015-08-29T10:00:42.000+02:00",
             "width": 1620,
             "height": 1080
@@ -188,6 +210,7 @@
         "photos": [
           {
             "name": "017",
+            "alt": "Schottriges Hochtal",
             "date": "2015-08-29T10:08:45.000+02:00",
             "width": 1620,
             "height": 1080
@@ -200,6 +223,7 @@
         "photos": [
           {
             "name": "018",
+            "alt": "Prättigau",
             "date": "2015-08-29T10:11:30.000+02:00",
             "width": 1920,
             "height": 1060
@@ -212,6 +236,7 @@
         "photos": [
           {
             "name": "019",
+            "alt": "Felsrinne mit Drahtseil",
             "date": "2015-08-29T10:19:39.000+02:00",
             "width": 870,
             "height": 1080
@@ -224,6 +249,7 @@
         "photos": [
           {
             "name": "020",
+            "alt": "Wanderweg Schesaplana",
             "date": "2015-08-29T10:24:51.000+02:00",
             "width": 1620,
             "height": 1080
@@ -236,6 +262,7 @@
         "photos": [
           {
             "name": "021",
+            "alt": "Steiler Schiferhang",
             "date": "2015-08-29T10:27:05.000+02:00",
             "width": 1620,
             "height": 1080
@@ -248,12 +275,14 @@
         "photos": [
           {
             "name": "022",
+            "alt": "Letzte Meter zum Gipfel",
             "date": "2015-08-29T10:29:20.000+02:00",
             "width": 1920,
             "height": 754
           },
           {
             "name": "023",
+            "alt": "Gipfel Schesaplana",
             "date": "2015-08-29T10:30:18.000+02:00",
             "width": 1570,
             "height": 1080
@@ -266,6 +295,7 @@
         "photos": [
           {
             "name": "024",
+            "alt": "Aussicht Schesaplana Lünersee",
             "date": "2015-08-29T10:34:02.000+02:00",
             "width": 1620,
             "height": 1080
@@ -278,6 +308,7 @@
         "photos": [
           {
             "name": "025",
+            "alt": "Brandner-Gletscher",
             "date": "2015-08-29T10:36:06.000+02:00",
             "width": 1920,
             "height": 680
@@ -290,6 +321,7 @@
         "photos": [
           {
             "name": "026",
+            "alt": "Blick in die Schweiz",
             "date": "2015-08-29T10:59:37.000+02:00",
             "width": 1920,
             "height": 879
@@ -302,6 +334,7 @@
         "photos": [
           {
             "name": "027",
+            "alt": "Vilan und Falknis",
             "date": "2015-08-29T11:02:23.000+02:00",
             "width": 1920,
             "height": 940
@@ -314,6 +347,7 @@
         "photos": [
           {
             "name": "028",
+            "alt": "Geröllfeld Schesaplana",
             "date": "2015-08-29T11:17:20.000+02:00",
             "width": 1620,
             "height": 1080
@@ -326,6 +360,7 @@
         "photos": [
           {
             "name": "029",
+            "alt": "Mannheimer-Hütte",
             "date": "2015-08-29T11:20:10.000+02:00",
             "width": 1847,
             "height": 1080
@@ -338,6 +373,7 @@
         "photos": [
           {
             "name": "030",
+            "alt": "Südhangsteig",
             "date": "2015-08-29T11:27:00.000+02:00",
             "width": 1920,
             "height": 811
@@ -350,24 +386,28 @@
         "photos": [
           {
             "name": "031",
+            "alt": "Weg durch Felswand",
             "date": "2015-08-29T11:29:32.000+02:00",
             "width": 1920,
             "height": 845
           },
           {
             "name": "032",
+            "alt": "Steiler Weg",
             "date": "2015-08-29T11:29:53.000+02:00",
             "width": 1920,
             "height": 830
           },
           {
             "name": "033",
+            "alt": "Am Abgrund",
             "date": "2015-08-29T11:31:01.000+02:00",
             "width": 1620,
             "height": 1080
           },
           {
             "name": "034",
+            "alt": "Mit Drahtseil gesichert",
             "date": "2015-08-29T11:33:29.000+02:00",
             "width": 1620,
             "height": 1080
@@ -380,6 +420,7 @@
         "photos": [
           {
             "name": "035",
+            "alt": "Blick über die Totalp",
             "date": "2015-08-29T12:03:16.000+02:00",
             "width": 1620,
             "height": 1080
@@ -392,6 +433,7 @@
         "photos": [
           {
             "name": "036",
+            "alt": "Felsschichtungen",
             "date": "2015-08-29T12:14:54.000+02:00",
             "width": 1620,
             "height": 1080
@@ -404,18 +446,20 @@
         "photos": [
           {
             "name": "037",
+            "alt": "Abstieg Totalphütte",
             "date": "2015-08-29T13:03:55.000+02:00",
             "width": 1920,
             "height": 755
           }
         ],
         "videos": [],
-        "text": "Nach einer Erfrischungspause auf der Terasse der Totalphütte stieg ich weiter zum See ab. Wieder nicht auf dem Hauptweg, sondern weiter rechts über Grashänge. Ich glaube, der Weg ist recht neu angelegt, denn er ist auf den meisten Karten (noch) nicht verzeichnet. Er ist aber deutlich schöner als der andere."
+        "text": "Nach einer Erfrischungspause auf der Terrasse der Totalphütte stieg ich weiter zum See ab. Wieder nicht auf dem Hauptweg, sondern weiter rechts über Grashänge. Ich glaube, der Weg ist recht neu angelegt, denn er ist auf den meisten Karten (noch) nicht verzeichnet. Er ist aber deutlich schöner als der andere."
       },
       {
         "photos": [
           {
             "name": "038",
+            "alt": "Wanderwege Lünersee",
             "date": "2015-08-29T13:11:46.000+02:00",
             "width": 1920,
             "height": 769
@@ -428,6 +472,7 @@
         "photos": [
           {
             "name": "039",
+            "alt": "Grasweg",
             "date": "2015-08-29T13:17:32.000+02:00",
             "width": 1920,
             "height": 1058
@@ -440,6 +485,7 @@
         "photos": [
           {
             "name": "040",
+            "alt": "Staumauer Lünersee",
             "date": "2015-08-29T13:28:29.000+02:00",
             "width": 1620,
             "height": 1080
@@ -452,6 +498,7 @@
         "photos": [
           {
             "name": "041",
+            "alt": "Badepause am Lünersee",
             "date": "2015-08-29T14:16:21.000+02:00",
             "width": 1920,
             "height": 613
@@ -464,6 +511,7 @@
         "photos": [
           {
             "name": "042",
+            "alt": "Lünerseealpe",
             "date": "2015-08-29T14:37:42.000+02:00",
             "width": 1920,
             "height": 1016
@@ -476,6 +524,7 @@
         "photos": [
           {
             "name": "043",
+            "alt": "Spazierweg um den Lünersee",
             "date": "2015-08-29T14:45:33.000+02:00",
             "width": 1677,
             "height": 1080
@@ -488,6 +537,7 @@
         "photos": [
           {
             "name": "044",
+            "alt": "Douglass-Hütte",
             "date": "2015-08-29T14:49:22.000+02:00",
             "width": 1920,
             "height": 721
@@ -500,12 +550,14 @@
         "photos": [
           {
             "name": "045",
+            "alt": "Seekopf",
             "date": "2015-08-29T14:57:32.000+02:00",
             "width": 1734,
             "height": 1080
           },
           {
             "name": "046",
+            "alt": "Lünersee im Sommer",
             "date": "2015-08-29T15:05:15.000+02:00",
             "width": 1920,
             "height": 964
@@ -518,6 +570,7 @@
         "photos": [
           {
             "name": "047",
+            "alt": "Aussichtspunkt Staumauer",
             "date": "2015-08-29T15:07:14.000+02:00",
             "width": 1920,
             "height": 767
@@ -530,6 +583,7 @@
         "photos": [
           {
             "name": "048",
+            "alt": "Einstieg Arbeiterweg",
             "date": "2015-08-29T15:31:16.000+02:00",
             "width": 1765,
             "height": 1080
@@ -542,18 +596,20 @@
         "photos": [
           {
             "name": "049",
+            "alt": "Lünerseebahn",
             "date": "2015-08-29T15:33:37.000+02:00",
             "width": 1841,
             "height": 1080
           }
         ],
         "videos": [],
-        "text": "Blick zur bergauffahrenden Gondel (es gibt nur eine) und im Hintergrund der Weg des Aufstiegs."
+        "text": "Blick zur bergauf fahrenden Gondel (es gibt nur eine) und im Hintergrund der Weg des Aufstiegs."
       },
       {
         "photos": [
           {
             "name": "050",
+            "alt": "Aufgegebener Wanderweg",
             "date": "2015-08-29T15:45:47.000+02:00",
             "width": 1509,
             "height": 1080
@@ -566,6 +622,7 @@
         "photos": [
           {
             "name": "052",
+            "alt": "Parkplatz Lünerseebahn",
             "date": "2015-08-29T16:04:03.000+02:00",
             "width": 1742,
             "height": 1080
