@@ -1,71 +1,9 @@
-import { useEffect } from 'react';
+import { useEffect, useRef } from 'react';
 import PropTypes from 'prop-types';
 import formatDate from '../../utils/formatDate.js';
 
-const extractSecondsFromDate = (dateString) => {
-  const date = new Date(Date.parse(dateString));
-  return date.getTime() / 1000;
-};
-
-const generateSections = (track, landmarks) => {
-  let lastSeconds = track.startTimestamp / 1000;
-  let lastMovieSeconds = 5;
-  const sections = [
-    {
-      movieSeconds: 0,
-      text: 'Titel'
-    }
-  ];
-  landmarks.forEach((landmark) => {
-    landmark.photos.forEach((photo) => {
-      if (photo.date) {
-        const seconds = extractSecondsFromDate(photo.date);
-        const secondsDiff = Math.max(1, seconds - lastSeconds);
-        const movieSeconds = lastMovieSeconds + 5 + Math.log10(secondsDiff / 30) * 6.1;
-        sections.push({
-          movieSeconds: (movieSeconds + lastMovieSeconds + 5) / 2,
-          text: photo.alt
-        });
-        lastSeconds = seconds;
-        lastMovieSeconds = movieSeconds;
-      }
-    });
-  });
-
-  let shortestDiff = Number.MAX_VALUE;
-  do {
-    let shortestIndex = null;
-    shortestDiff = Number.MAX_VALUE;
-    for (let i = 0; i < sections.length - 1; i++) {
-      const diff = sections[i + 1].movieSeconds - sections[i].movieSeconds;
-      if (diff <= shortestDiff) {
-        shortestDiff = diff;
-        shortestIndex = i;
-      }
-    }
-    if (shortestIndex !== null && shortestDiff < 10) {
-      sections[shortestIndex].text += ' & ' + sections[shortestIndex + 1].text;
-      sections.splice(shortestIndex + 1, 1);
-    }
-  } while (shortestDiff < 10);
-
-  return sections.map(
-    (section) =>
-      Math.floor(section.movieSeconds / 60)
-        .toString()
-        .padStart(2, '0') +
-      ':' +
-      Math.floor(section.movieSeconds % 60)
-        .toString()
-        .padStart(2, '0') +
-      ' ' +
-      section.text
-  );
-};
-
-const outputMetadata = (date, title, shortTitle, landmarks, reportPath, track) => {
-  const sections = generateSections(track, landmarks);
-  console.log({
+const outputMetadata = (date, title, shortTitle, reportPath) => {
+  console.log('metadata', {
     title: `⛰ ${title} Wanderung`,
     description:
       'Wanderkarte und Bilder des Wegs ' +
@@ -79,7 +17,7 @@ const outputMetadata = (date, title, shortTitle, landmarks, reportPath, track) =
       '\n' +
       '\n' +
       'Inhalt:\n' +
-      sections.join('\n') +
+      'TODO: INSERT SECTIONS HERE\n' +
       '\n' +
       '\n' +
       'Map engine:\n' +
@@ -108,10 +46,65 @@ const outputMetadata = (date, title, shortTitle, landmarks, reportPath, track) =
   });
 };
 
-const YoutubeMetadata = ({ date, title, shortTitle, landmarks, reportPath, track }) => {
+const addSection = (sections, text) => {
+  const lastSection = sections[sections.length - 1];
+  const currentTimestamp = Math.round(Date.now() / 1000);
+  const sectionTimestamp = (lastSection.photoEndTimestamp + currentTimestamp) / 2;
+  const photoEndTimestamp = currentTimestamp + 7;
+  if (sectionTimestamp - lastSection.sectionTimestamp < 10) {
+    lastSection.photoEndTimestamp = photoEndTimestamp;
+    lastSection.text += ` & ${text}`;
+  } else {
+    sections.push({
+      sectionTimestamp,
+      photoEndTimestamp,
+      text
+    });
+  }
+};
+
+const outputSections = (sections) => {
+  console.log(sections.map(
+    (section) => {
+      const movieSeconds = section.sectionTimestamp - sections[0].sectionTimestamp;
+      return Math.floor(movieSeconds / 60)
+          .toString()
+          .padStart(2, '0') +
+        ':' +
+        Math.floor(movieSeconds % 60)
+          .toString()
+          .padStart(2, '0') +
+        ' ' +
+        section.text;
+    }
+  ).join('\n'));
+}
+
+const YoutubeMetadata = ({ date, title, shortTitle, reportPath, phaseName, nextPhoto }) => {
+  const sectionsRef = useRef([]);
+
   useEffect(() => {
-    outputMetadata(date, title, shortTitle, landmarks, reportPath, track);
+    outputMetadata(date, title, shortTitle, reportPath);
   }, []); // eslint-disable-line react-hooks/exhaustive-deps
+
+  useEffect(() => {
+    switch(phaseName) {
+      case 'introScroll':
+        sectionsRef.current.push({
+          sectionTimestamp: Math.round(Date.now() / 1000) - 3,
+          photoEndTimestamp: Math.round(Date.now() / 1000),
+          text: 'Titel'
+        })
+        break;
+      case 'photo':
+        addSection(sectionsRef.current, nextPhoto.alt);
+        break;
+      case 'outro':
+        outputSections(sectionsRef.current);
+        break;  
+      default:
+    }
+  }, [ phaseName, nextPhoto ])
 
   return null;
 };
@@ -120,11 +113,11 @@ YoutubeMetadata.propTypes = {
   date: PropTypes.string.isRequired,
   title: PropTypes.string.isRequired,
   shortTitle: PropTypes.string.isRequired,
-  landmarks: PropTypes.array.isRequired,
   reportPath: PropTypes.string.isRequired,
-  track: PropTypes.shape({
-    startTimestamp: PropTypes.number.isRequired
-  }).isRequired
+  phaseName: PropTypes.string.isRequired,
+  nextPhoto: PropTypes.shape({
+    alt: PropTypes.string
+  })
 };
 
 export default YoutubeMetadata;

@@ -157,16 +157,14 @@ const ReportMovie = ({ data: { reportJson } }) => {
           reportPath={reportPath}
           visiblePhotoName={phase.name === 'photo' ? nextPhoto.name : null}
         />
-        {track && (
-          <YoutubeMetadata
-            date={date}
-            title={title}
-            shortTitle={shortTitle}
-            landmarks={landmarks}
-            reportPath={reportPath}
-            track={track}
-          />
-        )}
+        <YoutubeMetadata
+          date={date}
+          title={title}
+          shortTitle={shortTitle}
+          reportPath={reportPath}
+          phaseName={phase.name}
+          nextPhoto={nextPhoto}
+        />
       </>
     ),
     [
