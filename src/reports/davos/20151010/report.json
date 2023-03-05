@@ -6,9 +6,16 @@
     "track": true,
     "detailMap": "swiss",
     "shortTitle": "Schatzalp",
-    "title": "Schatzalp",
-    "movie": "xkiDeYXhYqY",
-    "intro": "Eigentlich hatte ich die Schatzalp nicht auf dem Plan, denn ursprünglich wollte ich oberhalb von Pany eine Tour unternehmen. Aber als ich dort auf dem Parkplatz ankam, waren alle Gipfel nebelverhangen. Auch die Wettervorhersagen hatten sich geändert und berichteten nun von einer Nebelobergrenzen bis zu 2000m statt der angesagten 1500m. Deshalb stieg ich wieder in's Auto und fuhr weiter nach Davos. Auch dort herrschte noch dicke Nebelsuppe. Ich stellte mein Auto auf dem Parkplatz der Jakobshornbahn ab (im Sommer gratis) und lief quer zur Schatzalp-Standseilbahn. 8 CHF ärmer ging die kurze Fahrt gleich los und ich entfloh dem Nebel auf die 1800m hohe Schatzalp.",
+    "title": "Schatzalp - Maienfelder Furgga",
+    "title3d": {
+      "offsetY": 2,
+      "fontSize": 8,
+      "align": "center",
+      "width": 1920,
+      "height": 654
+    },
+    "movie": "4m22dBaPmtA",
+    "intro": "Eigentlich hatte ich die Schatzalp nicht auf dem Plan, denn ursprünglich wollte ich oberhalb von Pany eine Tour unternehmen. Aber als ich dort auf dem Parkplatz ankam, waren alle Gipfel nebelverhangen. Auch die Wettervorhersagen hatten sich geändert und berichteten nun von einer Nebelobergrenze bis zu 2000m statt der angesagten 1500m. Deshalb stieg ich wieder in's Auto und fuhr weiter nach Davos. Auch dort herrschte noch dicke Nebelsuppe. Ich stellte mein Auto auf dem Parkplatz der Jakobshornbahn ab (im Sommer gratis) und lief quer zur Schatzalp-Standseilbahn. 8 CHF ärmer ging die kurze Fahrt gleich los und ich entfloh dem Nebel auf die 1800m hohe Schatzalp.",
     "landmarks": [
       {
         "photos": [
@@ -16,7 +23,8 @@
             "name": "001",
             "date": "2015-10-10T09:45:46.000+02:00",
             "width": 1848,
-            "height": 1080
+            "height": 1080,
+            "alt": "Restaurant Schatzalp"
           }
         ],
         "videos": [],
@@ -28,7 +36,8 @@
             "name": "002",
             "date": "2015-10-10T09:51:46.000+02:00",
             "width": 1920,
-            "height": 996
+            "height": 996,
+            "alt": "Sesselbahn Schatzalp"
           }
         ],
         "videos": [],
@@ -40,13 +49,15 @@
             "name": "003",
             "date": "2015-10-10T09:57:59.000+02:00",
             "width": 1920,
-            "height": 994
+            "height": 994,
+            "alt": "Lärchen im Herbst"
           },
           {
             "name": "004",
             "date": "2015-10-10T10:01:39.000+02:00",
             "width": 1825,
-            "height": 1080
+            "height": 1080,
+            "alt": "Herbstfarben"
           }
         ],
         "videos": [],
@@ -58,13 +69,15 @@
             "name": "005",
             "date": "2015-10-10T10:09:00.000+02:00",
             "width": 1620,
-            "height": 1080
+            "height": 1080,
+            "alt": "Nebel über Davos"
           },
           {
             "name": "006",
             "date": "2015-10-10T10:10:00.000+02:00",
             "width": 1620,
-            "height": 1080
+            "height": 1080,
+            "alt": "Blick zum Jakobshorn"
           }
         ],
         "videos": [],
@@ -76,7 +89,8 @@
             "name": "007",
             "date": "2015-10-10T10:15:16.000+02:00",
             "width": 1620,
-            "height": 1080
+            "height": 1080,
+            "alt": "Wanderweg im Herbst"
           }
         ],
         "videos": [],
@@ -88,7 +102,8 @@
             "name": "008",
             "date": "2015-10-10T10:38:02.000+02:00",
             "width": 1920,
-            "height": 920
+            "height": 920,
+            "alt": "Pischahorn"
           }
         ],
         "videos": [],
@@ -100,11 +115,12 @@
             "name": "009",
             "date": "2015-10-10T10:46:43.000+02:00",
             "width": 1620,
-            "height": 1080
+            "height": 1080,
+            "alt": "Restaurant Strelapass"
           }
         ],
         "videos": [],
-        "text": "Nach einer Stunde Aufstieg Ankunft auf dem Strelapass. Auch hier total leer. Ich glaube aber, es war zumindest ein Gast auf der Terasse."
+        "text": "Nach einer Stunde Aufstieg Ankunft auf dem Strelapass. Auch hier total leer. Ich glaube aber, es war zumindest ein Gast auf der Terrasse."
       },
       {
         "photos": [
@@ -112,7 +128,8 @@
             "name": "010",
             "date": "2015-10-10T10:49:17.000+02:00",
             "width": 1580,
-            "height": 1080
+            "height": 1080,
+            "alt": "Aussicht Strelapass"
           }
         ],
         "videos": [],
@@ -124,11 +141,12 @@
             "name": "011",
             "date": "2015-10-10T10:49:55.000+02:00",
             "width": 1620,
-            "height": 1080
+            "height": 1080,
+            "alt": "Weissfluh"
           }
         ],
         "videos": [],
-        "text": "Und Richtung Weissfluhgipfel links und der stillgelegten Verbindungbahn zum Parsenngebiet recht."
+        "text": "Und Richtung Weissfluhgipfel links und der stillgelegten Verbindungsbahn zum Parsenngebiet rechts."
       },
       {
         "photos": [
@@ -136,7 +154,8 @@
             "name": "012",
             "date": "2015-10-10T10:50:11.000+02:00",
             "width": 1746,
-            "height": 1080
+            "height": 1080,
+            "alt": "Weissfluhjoch ohne Schnee"
           }
         ],
         "videos": [],
@@ -148,7 +167,8 @@
             "name": "013",
             "date": "2015-10-10T11:08:25.000+02:00",
             "width": 1920,
-            "height": 862
+            "height": 862,
+            "alt": "Strelaberg"
           }
         ],
         "videos": [],
@@ -160,13 +180,15 @@
             "name": "014",
             "date": "2015-10-10T11:15:14.000+02:00",
             "width": 1513,
-            "height": 1080
+            "height": 1080,
+            "alt": "Strelasee"
           },
           {
             "name": "015",
             "date": "2015-10-10T11:16:02.000+02:00",
             "width": 1920,
-            "height": 1076
+            "height": 1076,
+            "alt": "Bergsee"
           }
         ],
         "videos": [],
@@ -178,13 +200,15 @@
             "name": "016",
             "date": "2015-10-10T11:20:00.000+02:00",
             "width": 1620,
-            "height": 1080
+            "height": 1080,
+            "alt": "Höhenweg Strela"
           },
           {
             "name": "017",
             "date": "2015-10-10T11:24:06.000+02:00",
             "width": 1782,
-            "height": 1080
+            "height": 1080,
+            "alt": "Wanderweg Strela"
           }
         ],
         "videos": [],
@@ -196,7 +220,8 @@
             "name": "018",
             "date": "2015-10-10T11:27:32.000+02:00",
             "width": 1620,
-            "height": 1080
+            "height": 1080,
+            "alt": "Latschüelfurgga"
           }
         ],
         "videos": [],
@@ -208,7 +233,8 @@
             "name": "019",
             "date": "2015-10-10T11:57:36.000+02:00",
             "width": 1920,
-            "height": 703
+            "height": 703,
+            "alt": "Aufstieg Chörbschhorn"
           }
         ],
         "videos": [],
@@ -220,7 +246,8 @@
             "name": "020",
             "date": "2015-10-10T12:05:24.000+02:00",
             "width": 1736,
-            "height": 1080
+            "height": 1080,
+            "alt": "Chörbschhorn"
           }
         ],
         "videos": [],
@@ -232,7 +259,8 @@
             "name": "021",
             "date": "2015-10-10T12:07:36.000+02:00",
             "width": 1920,
-            "height": 1020
+            "height": 1020,
+            "alt": "Chörbschhornhütte"
           }
         ],
         "videos": [],
@@ -244,7 +272,8 @@
             "name": "022",
             "date": "2015-10-10T12:20:41.000+02:00",
             "width": 1920,
-            "height": 837
+            "height": 837,
+            "alt": "Aussicht Chörbschhorn"
           }
         ],
         "videos": [],
@@ -256,7 +285,8 @@
             "name": "023",
             "date": "2015-10-10T12:21:05.000+02:00",
             "width": 1920,
-            "height": 1043
+            "height": 1043,
+            "alt": "Wegweiser Chörbschhorn"
           }
         ],
         "videos": [],
@@ -268,7 +298,8 @@
             "name": "024",
             "date": "2015-10-10T12:56:59.000+02:00",
             "width": 1920,
-            "height": 1059
+            "height": 1059,
+            "alt": "Schwifurgga"
           }
         ],
         "videos": [],
@@ -280,7 +311,8 @@
             "name": "025",
             "date": "2015-10-10T13:29:19.000+02:00",
             "width": 1620,
-            "height": 1080
+            "height": 1080,
+            "alt": "Aufstieg Tiejer Fürggli"
           }
         ],
         "videos": [],
@@ -292,7 +324,8 @@
             "name": "026",
             "date": "2015-10-10T13:45:54.000+02:00",
             "width": 1920,
-            "height": 975
+            "height": 975,
+            "alt": "Wanderweg Tiejer Fürggli"
           }
         ],
         "videos": [],
@@ -304,7 +337,8 @@
             "name": "027",
             "date": "2015-10-10T13:52:26.000+02:00",
             "width": 1620,
-            "height": 1080
+            "height": 1080,
+            "alt": "Maienfelder Furgga"
           }
         ],
         "videos": [],
@@ -316,7 +350,8 @@
             "name": "028",
             "date": "2015-10-10T14:04:49.000+02:00",
             "width": 1620,
-            "height": 1080
+            "height": 1080,
+            "alt": "Blick zur Tiejer Fürggli"
           }
         ],
         "videos": [],
@@ -328,7 +363,8 @@
             "name": "029",
             "date": "2015-10-10T14:09:22.000+02:00",
             "width": 1620,
-            "height": 1080
+            "height": 1080,
+            "alt": "See auf Maienfelder Furgga"
           }
         ],
         "videos": [],
@@ -340,7 +376,8 @@
             "name": "030",
             "date": "2015-10-10T14:09:45.000+02:00",
             "width": 1728,
-            "height": 1080
+            "height": 1080,
+            "alt": "Wegweiser Maienfelder Furgga"
           }
         ],
         "videos": [],
@@ -352,7 +389,8 @@
             "name": "031",
             "date": "2015-10-10T14:42:01.000+02:00",
             "width": 1920,
-            "height": 1008
+            "height": 1008,
+            "alt": "Mountainbike Trail"
           }
         ],
         "videos": [],
@@ -364,7 +402,8 @@
             "name": "032",
             "date": "2015-10-10T14:43:03.000+02:00",
             "width": 1822,
-            "height": 1080
+            "height": 1080,
+            "alt": "Wanderweg vor Rinerhorn"
           }
         ],
         "videos": [],
@@ -376,11 +415,12 @@
             "name": "033",
             "date": "2015-10-10T14:59:32.000+02:00",
             "width": 1620,
-            "height": 1080
+            "height": 1080,
+            "alt": "Pause im Gras"
           }
         ],
         "videos": [],
-        "text": "Erschöpft legte ich mich ins warme Gras und genoß die rarer werdenden Sonnenstrahlen."
+        "text": "Erschöpft legte ich mich ins warme Gras und genoss die rarer werdenden Sonnenstrahlen."
       },
       {
         "photos": [
@@ -388,7 +428,8 @@
             "name": "034",
             "date": "2015-10-10T15:12:10.000+02:00",
             "width": 1529,
-            "height": 1080
+            "height": 1080,
+            "alt": "Bunter Bewuchs"
           }
         ],
         "videos": [],
@@ -400,7 +441,8 @@
             "name": "035",
             "date": "2015-10-10T15:37:26.000+02:00",
             "width": 1918,
-            "height": 1080
+            "height": 1080,
+            "alt": "Abstieg Stafelalp"
           }
         ],
         "videos": [],
@@ -412,19 +454,22 @@
             "name": "036",
             "date": "2015-10-10T15:43:21.000+02:00",
             "width": 1920,
-            "height": 641
+            "height": 641,
+            "alt": "Stafelalp"
           },
           {
             "name": "037",
             "date": "2015-10-10T15:47:52.000+02:00",
             "width": 1920,
-            "height": 895
+            "height": 895,
+            "alt": "Holzhäuser"
           },
           {
             "name": "038",
             "date": "2015-10-10T15:50:02.000+02:00",
             "width": 1620,
-            "height": 1080
+            "height": 1080,
+            "alt": "Alte Alp"
           }
         ],
         "videos": [],
@@ -436,7 +481,8 @@
             "name": "039",
             "date": "2015-10-10T16:54:59.000+02:00",
             "width": 1917,
-            "height": 1080
+            "height": 1080,
+            "alt": "Davos"
           }
         ],
         "videos": [],
