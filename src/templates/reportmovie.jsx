@@ -19,6 +19,8 @@ const Movie = styled.div`
   color: white;
 `;
 
+const photoDuration = 5000;
+
 const getReportPath = (destination, date) => {
   return '/' + destination + '/' + date.substring(1);
 };
@@ -53,14 +55,19 @@ const nextPhase = (phase, setPhase, nextPhoto, setNextPhoto, landmarks) => {
       break;
     case 'map':
       if (nextPhoto) {
-        setPhase({ name: 'photo', forDuration: 5000 });
+        setPhase({ name: 'photo', forDuration: photoDuration });
       } else {
         setPhase({ name: 'outro', forDuration: null });
       }
       break;
     case 'photo':
-      setPhase({ name: 'map', forDuration: null });
-      setNextPhoto(findNextPhoto(landmarks, nextPhoto));
+      const newNextPhoto = findNextPhoto(landmarks, nextPhoto);
+      setNextPhoto(newNextPhoto);
+      if (nextPhoto.date !== newNextPhoto?.date) {
+        setPhase({ name: 'map', forDuration: null });
+      } else {
+        setPhase({ name: 'photo', forDuration: photoDuration });
+      }
       break;
     default:
       break;
