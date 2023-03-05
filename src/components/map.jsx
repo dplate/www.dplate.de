@@ -561,9 +561,13 @@ const Map = (props) => {
   useEffect(() => {
     if (clock) {
       const onTick = () => {
-        tickChanged(viewer, hiker, targetTime, onAnimationStopped);
-        if (onTimeChanged) {
-          onTimeChanged(JulianDate.toIso8601(viewer.clock.currentTime));
+        try {
+          tickChanged(viewer, hiker, targetTime, onAnimationStopped);
+          if (onTimeChanged) {
+            onTimeChanged(JulianDate.toIso8601(viewer.clock.currentTime));
+          }
+        } catch (error) {
+          console.log('onTickError', error);
         }
       };
       clock.onTick.addEventListener(onTick);
