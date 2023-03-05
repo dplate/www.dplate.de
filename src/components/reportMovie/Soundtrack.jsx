@@ -109,21 +109,21 @@ const environmentNoises = [
     minHeight: 1400,
     mainHeight: 1800,
     maxHeight: 2600,
-    probability: 0.1
+    probability: 0.07
   },
   {
     name: 'chirp2',
     minHeight: 1300,
     mainHeight: 1800,
     maxHeight: 2600,
-    probability: 0.1
+    probability: 0.07
   },
   {
     name: 'chirp3',
     minHeight: 1400,
     mainHeight: 1800,
     maxHeight: 2600,
-    probability: 0.1
+    probability: 0.07
   },
   {
     name: 'marmot',
@@ -240,19 +240,7 @@ const calculateStepNoises = (track, sounds) => {
   return stepNoises;
 };
 
-const getSpeed = (timestamp, track) => {
-  const pointMinuteBefore = track.points.find(point => point.timestamp > (timestamp - 60 * 1000));
-  const pointMinuteLater = track.points.findLast(point => point.timestamp < (timestamp + 60 * 1000));
-  if (pointMinuteBefore && pointMinuteLater) {
-    const distance = pointMinuteLater.distance - pointMinuteBefore.distance;
-    const duration = (pointMinuteLater.timestamp - pointMinuteBefore.timestamp);
-    if (distance < 1 && duration < 60 * 1000) {
-      return 0;
-    }
-    return distance / duration * 1000;
-  }
-  return 1.0;
-};
+const getPoint = (timestamp, track) => track.points.findLast(point => point.timestamp < timestamp);
 
 const getHeight = (timestamp, track) => {
   const point = track.points.find(point => point.timestamp > timestamp);
@@ -262,28 +250,28 @@ const getHeight = (timestamp, track) => {
   return point.height;
 };
 
-const adjustSoundSpeed = (sound, speed) => {
-  if (speed < 0.2 || speed > 2.0) {
+const adjustSoundSpeed = (sound, point) => {
+  if (point.action !== 'walking') {
     sound.setPlaybackRate(0);
     return;
   }
-  sound.setPlaybackRate(speed);
-  sound.setDetune(Math.log2(1.0 / speed) * 1200);
+  sound.setPlaybackRate(point.distanceSpeed);
+  sound.setDetune(Math.log2(1.0 / point.distanceSpeed) * 1200);
 };
 
 const playStepSound = (timestamp, stepNoises, track) => {
-  const speed = getSpeed(timestamp, track);
+  const point = getPoint(timestamp, track);
   const currentStepNoise = stepNoises.find(stepNoise => stepNoise.sound?.isPlaying());
   if (currentStepNoise) {
-    adjustSoundSpeed(currentStepNoise.sound, speed);
+    adjustSoundSpeed(currentStepNoise.sound, point);
     return;
   }
   const bestStepNoise = stepNoises.findLast(stepNoise => timestamp > stepNoise.startPoint.timestamp);
   const sound = bestStepNoise?.sound;
   if (sound) {
     sound.play();
-    sound.setGain(0.5);
-    adjustSoundSpeed(sound, speed);
+    sound.setGain(0.7);
+    adjustSoundSpeed(sound, point);
   }
 };
 

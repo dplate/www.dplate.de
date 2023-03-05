@@ -20,8 +20,12 @@ const parseGpxRaw = (gpxRaw) => {
     const isoTime = trackPoint.getElementsByTagName('time')[0].textContent;
     const time = JulianDate.fromIso8601(isoTime);
     const timestamp = new Date(Date.parse(isoTime)).getTime();
+    
     const lastPosition = track.points[track.points.length - 1]?.position;
     const distanceDifference = lastPosition ? Cartesian3.distance(position, lastPosition) : 0;
+    
+    const lastTimestamp = track.points[track.points.length - 1]?.timestamp;
+    const timestampDifference = lastTimestamp ? timestamp - lastTimestamp : 0;
 
     track.startTime = track.startTime || time;
     track.stopTime = time;
@@ -35,6 +39,8 @@ const parseGpxRaw = (gpxRaw) => {
       position,
       time,
       timestamp,
+      timestampDifference,
+      distanceDifference,
       distance: track.maxDistance,
       height
     });
@@ -42,10 +48,75 @@ const parseGpxRaw = (gpxRaw) => {
   return track;
 };
 
+const getSpeeds = (timestamp, track) => {
+  const pointMinuteBefore = track.points.find(point => point.timestamp > (timestamp - 60 * 1000));
+  const pointMinuteLater = track.points.findLast(point => point.timestamp < (timestamp + 60 * 1000));
+  if (pointMinuteBefore && pointMinuteLater) {
+    const distance = pointMinuteLater.distance - pointMinuteBefore.distance;
+    const climb =  pointMinuteLater.height - pointMinuteBefore.height;
+    const duration = pointMinuteLater.timestamp - pointMinuteBefore.timestamp;
+    if (duration < 60 * 1000) {
+      return {
+        distanceSpeed: 0.0,
+        climbSpeed: 0.0
+      }
+    }
+    return {
+      distanceSpeed: distance / duration * 1000,
+      climbSpeed: climb / duration * 1000
+    }
+  }
+  return 1.0;
+};
+
+const getAction = (speed) => {
+  if (speed < 0.2) {
+    return 'pausing';
+  }
+  if (speed > 2.0) {
+    return 'flying';
+  }
+  return 'walking';
+}
+
+const interpretTrack = (track) => {
+  let maxWalkDistance = 0;
+  let maxWalkDuration = 0;
+  let maxWalkUp = 0;
+  let maxWalkDown = 0;
+  const interpretedPoints = track.points.map(point => {
+    const { distanceSpeed, climbSpeed } = getSpeeds(point.timestamp, track);
+    const action = getAction(distanceSpeed);
+    if (action === 'walking') {
+      maxWalkDistance += point.distanceDifference;
+      maxWalkDuration += point.timestampDifference;
+      maxWalkUp += climbSpeed > 0 ? climbSpeed * point.timestampDifference / 1000 : 0;
+      maxWalkDown += climbSpeed < 0 ? -climbSpeed * point.timestampDifference / 1000 : 0;
+    }
+    return {
+      ...point,
+      distanceSpeed,
+      climbSpeed,
+      action,
+      walkDistance: maxWalkDistance,
+      walkDuration: maxWalkDuration,
+    };
+  });
+  return {
+    ...track,
+    maxWalkDistance,
+    maxWalkDuration,
+    maxWalkUp,
+    maxWalkDown,
+    points: interpretedPoints
+  };
+};
+
 const loadTrack = async (reportPath) => {
   const response = await fetch('/tracks' + reportPath + '.gpx');
   const gpxRaw = await response.text();
-  return parseGpxRaw(gpxRaw);
+  const track = parseGpxRaw(gpxRaw);
+  return interpretTrack(track);
 };
 
 export default loadTrack;
