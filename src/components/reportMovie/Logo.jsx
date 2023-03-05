@@ -18,9 +18,9 @@ const LogoContainer = styled.img.attrs(({ width, top, left }) => ({
 `;
 
 const Logo = ({ introActive, outroActive, onClick }) => {
-  const top = introActive ? 75 : outroActive ? 50 : 95;
+  const top = introActive ? 75 : outroActive ? 45 : 95;
   const left = introActive || outroActive ? 50 : 95;
-  const width = introActive ? 400 : outroActive ? 800 : 100;
+  const width = introActive ? 400 : outroActive ? 600 : 100;
   return <LogoContainer top={top} left={left} width={width} src="/assets/alpinfunk.svg" onClick={onClick} />;
 };
 

@@ -10,6 +10,7 @@ import HeightGraph from '../components/reportMovie/HeightGraph.jsx';
 import YoutubeMetadata from '../components/reportMovie/YoutubeMetadata.jsx';
 import Soundtrack from '../components/reportMovie/Soundtrack.jsx';
 import loadTrack from '../utils/loadTrack.js';
+import Summary from '../components/reportMovie/Summary.jsx';
 const Map = React.lazy(() => import('../components/Map.jsx'));
 
 const Movie = styled.div`
@@ -135,17 +136,18 @@ const ReportMovie = ({ data: { reportJson } }) => {
     () => (
       <>
         <Curtain closed={phase.name === 'loading' || phase.name === 'intro' || phase.name === 'outro'} />
-        <Logo
+        {phase.name !== 'loading' && <Logo
           introActive={phase.name === 'loading' || phase.name === 'intro'}
           outroActive={phase.name === 'outro'}
           onClick={phase.name === 'intro' ? callNextPhase : null}
-        />
+        />}
         <AnimatedTitle
           reportPath={reportPath}
           title={title + ' - ' + formatDate(date)}
           title3d={title3d}
           visible={phase.name === 'loading' || phase.name === 'intro'}
         />
+        <Summary visible={phase.name === 'outro'} track={track} />
         <Suspense fallback={null}>
           <Map
             track={track}

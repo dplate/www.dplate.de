@@ -102,6 +102,10 @@ const interpretTrack = (track) => {
       walkDuration: maxWalkDuration,
     };
   });
+  if (Math.abs(maxWalkUp - maxWalkDown) < 100) {
+    maxWalkDown = Math.max(maxWalkUp, maxWalkDown);
+    maxWalkUp = maxWalkDown;
+  }
   return {
     ...track,
     maxWalkDistance,
