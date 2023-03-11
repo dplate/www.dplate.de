@@ -6,9 +6,16 @@
     "track": true,
     "detailMap": "austria",
     "shortTitle": "Hoher Freschen",
-    "title": "Laterns Bad - Hoher Freschen",
-    "movie": "zjcdhxgeqpg",
-    "intro": "Zu Beginn eine formelle Entschuldigung für einen Wanderbericht Ende November. Liebend gerne hätte ich statt dessen über einen Skitag bei einem halben Meter Neuschnee geschrieben. Aber irgendwie ist das Wetter noch so wenig winterlich, dass eine stundenlange Autofahrt zu einem teuren, nur in Ansätzen geöffneten, Skigebiet selbst mir zu gewollt vorgekommen wäre.<br />\nAlso ging es schweren Herzens zum Wandern. Nach einer guten Stunde Fahrt kam ich um 8:30 in Laterns Bad an, einem Restaurent am Ende des Laternser Tals vor dem Furkajoch (ein Pass der hinüber nach Damüls führt).",
+    "title": "Bad Laterns - Hoher Freschen",
+    "title3d": {
+      "offsetY": 1,
+      "fontSize": 8.0,
+      "align": "center",
+      "width": 1920,
+      "height": 586
+    },
+    "movie": "jJfmEjkR2kk",
+    "intro": "Zu Beginn eine formelle Entschuldigung für einen Wanderbericht Ende November. Liebend gerne hätte ich statt dessen über einen Skitag bei einem halben Meter Neuschnee geschrieben. Aber irgendwie ist das Wetter noch so wenig winterlich, dass eine stundenlange Autofahrt zu einem teuren, nur in Ansätzen geöffneten, Skigebiet selbst mir zu gewollt vorgekommen wäre.<br />\nAlso ging es schweren Herzens zum Wandern. Nach einer guten Stunde Fahrt kam ich um 8:30 in Bad Laterns an, einem Restaurant am Ende des Laternser Tals vor dem Furkajoch (ein Pass der hinüber nach Damüls führt).",
     "landmarks": [
       {
         "photos": [
@@ -16,11 +23,12 @@
             "name": "001",
             "date": "2014-11-29T08:34:54.000+01:00",
             "width": 1920,
-            "height": 941
+            "height": 941,
+            "alt": "Bad Laterns"
           }
         ],
         "videos": [],
-        "text": "Ich beschloss den Hohen Freschen nicht auf dem Hauptweg zu besteigen, sondern von Richtung Furkajoch. Deshalb ging es zuerst in die falsche Richtung, dem Wegweise Furka Joch nach."
+        "text": "Ich beschloss den Hohen Freschen nicht auf dem Hauptweg zu besteigen, sondern von Richtung Furkajoch. Deshalb ging es zuerst in die falsche Richtung, dem Wegweiser Furka Joch nach."
       },
       {
         "photos": [
@@ -28,7 +36,8 @@
             "name": "002",
             "date": "2014-11-29T08:51:50.000+01:00",
             "width": 1620,
-            "height": 1080
+            "height": 1080,
+            "alt": "Agtawaldalpe"
           }
         ],
         "videos": [],
@@ -40,11 +49,12 @@
             "name": "003",
             "date": "2014-11-29T09:20:47.000+01:00",
             "width": 1620,
-            "height": 1080
+            "height": 1080,
+            "alt": "Laternser Tal"
           }
         ],
         "videos": [],
-        "text": "Nach einem weiteren knackigen Austieg im Wald erreichte ich auf 1500m nach 400m Aufstieg die ersten Schneeflecken. Der Blick fällt zurück ins Laternsertal Richtung Rheintal."
+        "text": "Nach einem weiteren knackigen Aufstieg im Wald erreichte ich auf 1500m nach 400m Aufstieg die ersten Schneeflecken. Der Blick fällt zurück ins Laternsertal Richtung Rheintal."
       },
       {
         "photos": [
@@ -52,7 +62,8 @@
             "name": "004",
             "date": "2014-11-29T09:35:25.000+01:00",
             "width": 1920,
-            "height": 735
+            "height": 735,
+            "alt": "Furkajoch Straße"
           }
         ],
         "videos": [],
@@ -64,11 +75,12 @@
             "name": "005",
             "date": "2014-11-29T09:43:15.000+01:00",
             "width": 1920,
-            "height": 788
+            "height": 788,
+            "alt": "Novembersonne"
           }
         ],
         "videos": [],
-        "text": "Ahh, endlich Morgensonne - wirkt doch gleich freundlicher. Das Haus war das erste Ziel, die Alt-Gehrenalpe. Wie man sieht waren die Sonnenhänge ziemlich schneefrei, hier immerhin auf 1700m."
+        "text": "Ahh, endlich Morgensonne - wirkt doch gleich freundlicher. Das Haus war das erste Ziel, die Altgerachalpe. Wie man sieht waren die Sonnenhänge ziemlich schneefrei, hier immerhin auf 1700m."
       },
       {
         "photos": [
@@ -76,11 +88,12 @@
             "name": "006",
             "date": "2014-11-29T09:51:09.000+01:00",
             "width": 1620,
-            "height": 1080
+            "height": 1080,
+            "alt": "Neugerachalpe"
           }
         ],
         "videos": [],
-        "text": "Blick von dort hinab auf die Neu-Gehrenalpe. Im Hintergrund auf der anderen Seite des Rheintals zwei andere Wanderziele meines Bergsommers: <a href=\"/alpine/toggenburg/20140928\">Chäserrugg</a> und <a href=\"/alpine/alviergruppe/20140907\">Alvier</a>."
+        "text": "Blick von dort hinab auf die Neugerachalpe. Im Hintergrund auf der anderen Seite des Rheintals zwei andere Wanderziele meines Bergsommers: <a href=\"/alpine/toggenburg/20140928\">Chäserrugg</a> und <a href=\"/alpine/alviergruppe/20140907\">Alvier</a>."
       },
       {
         "photos": [
@@ -88,7 +101,8 @@
             "name": "007",
             "date": "2014-11-29T10:20:14.000+01:00",
             "width": 1920,
-            "height": 860
+            "height": 860,
+            "alt": "Wanderung durch Restschnee"
           }
         ],
         "videos": [],
@@ -100,11 +114,12 @@
             "name": "008",
             "date": "2014-11-29T10:29:38.000+01:00",
             "width": 1920,
-            "height": 523
+            "height": 523,
+            "alt": "Höhenweg Hoher Freschen"
           }
         ],
         "videos": [],
-        "text": "Nach dem Hang ging es auf den flachen Grat. Nun öffnete sich der Blick nach Nord-Osten Richtung Skigebiet Damüls, das aber auf der Rückseite dieser Berge liegt. Zu sehen ist links die Sünser Spitze und daneben der Ragazer Blanken und das Portla Horn."
+        "text": "Nach dem Hang ging es auf den flachen Grat. Nun öffnete sich der Blick nach Nord-Osten Richtung Skigebiet Damüls, das aber auf der Rückseite dieser Berge liegt. Zu sehen ist links die <a href='/alpine/damuels/20130824'>Sünser Spitze</a> und daneben der Ragazer Blanken und das Portla Horn."
       },
       {
         "photos": [
@@ -112,7 +127,8 @@
             "name": "009",
             "date": "2014-11-29T10:35:48.000+01:00",
             "width": 1620,
-            "height": 1080
+            "height": 1080,
+            "alt": "Gefrorener Schnee"
           }
         ],
         "videos": [],
@@ -124,7 +140,8 @@
             "name": "010",
             "date": "2014-11-29T10:42:06.000+01:00",
             "width": 1920,
-            "height": 909
+            "height": 909,
+            "alt": "Tal Richtung Mellau"
           }
         ],
         "videos": [],
@@ -136,7 +153,8 @@
             "name": "011",
             "date": "2014-11-29T11:07:29.000+01:00",
             "width": 1920,
-            "height": 599
+            "height": 599,
+            "alt": "Panorama Matona"
           }
         ],
         "videos": [],
@@ -148,7 +166,8 @@
             "name": "012",
             "date": "2014-11-29T11:16:37.000+01:00",
             "width": 1620,
-            "height": 1080
+            "height": 1080,
+            "alt": "Einsame Spur im Schnee"
           }
         ],
         "videos": [],
@@ -160,7 +179,8 @@
             "name": "013",
             "date": "2014-11-29T11:16:51.000+01:00",
             "width": 1920,
-            "height": 585
+            "height": 585,
+            "alt": "Freschen Hütte vor Nebelmeer"
           }
         ],
         "videos": [],
@@ -172,7 +192,8 @@
             "name": "014",
             "date": "2014-11-29T11:30:00.000+01:00",
             "width": 1920,
-            "height": 733
+            "height": 733,
+            "alt": "Wandern im Spätherbst"
           }
         ],
         "videos": [],
@@ -184,7 +205,8 @@
             "name": "015",
             "date": "2014-11-29T11:33:49.000+01:00",
             "width": 1620,
-            "height": 1080
+            "height": 1080,
+            "alt": "Riesenspitze"
           }
         ],
         "videos": [],
@@ -193,22 +215,11 @@
       {
         "photos": [
           {
-            "name": "018",
-            "date": "2014-11-29T12:16:52.000+01:00",
-            "width": 1920,
-            "height": 670
-          }
-        ],
-        "videos": [],
-        "text": "Der Gipfel des Hohen Freschen (2000m) ist fast erreicht. Hier begegnete ich auch den ersten anderen Wanderern des Tages."
-      },
-      {
-        "photos": [
-          {
             "name": "016",
             "date": "2014-11-29T12:07:29.000+01:00",
             "width": 1920,
-            "height": 680
+            "height": 680,
+            "alt": "Panorama Hoher Freschen"
           }
         ],
         "videos": [],
@@ -220,7 +231,8 @@
             "name": "017",
             "date": "2014-11-29T12:10:07.000+01:00",
             "width": 1920,
-            "height": 714
+            "height": 714,
+            "alt": "Aussicht Hoher Freschen"
           }
         ],
         "videos": [],
@@ -229,10 +241,24 @@
       {
         "photos": [
           {
+            "name": "018",
+            "date": "2014-11-29T12:16:52.000+01:00",
+            "width": 1920,
+            "height": 670,
+            "alt": "Gipfel Hoher Freschen"
+          }
+        ],
+        "videos": [],
+        "text": "Blick zurück auf den Gipfel des Hohen Freschen (2000m). Hier begegnete ich auch den ersten anderen Wanderern des Tages."
+      },
+      {
+        "photos": [
+          {
             "name": "019",
             "date": "2014-11-29T12:22:36.000+01:00",
             "width": 1920,
-            "height": 693
+            "height": 693,
+            "alt": "Wanderung Hoher Freschen"
           }
         ],
         "videos": [],
@@ -244,13 +270,15 @@
             "name": "020",
             "date": "2014-11-29T12:33:00.000+01:00",
             "width": 1920,
-            "height": 796
+            "height": 796,
+            "alt": "Wandern im Schnee"
           },
           {
             "name": "021",
             "date": "2014-11-29T12:34:22.000+01:00",
             "width": 720,
-            "height": 1080
+            "height": 1080,
+            "alt": "Wanderweg über Schneefläche"
           }
         ],
         "videos": [],
@@ -262,7 +290,8 @@
             "name": "022",
             "date": "2014-11-29T12:44:31.000+01:00",
             "width": 1920,
-            "height": 865
+            "height": 865,
+            "alt": "Freschenhaus"
           }
         ],
         "videos": [],
@@ -274,7 +303,8 @@
             "name": "023",
             "date": "2014-11-29T12:53:09.000+01:00",
             "width": 1620,
-            "height": 1080
+            "height": 1080,
+            "alt": "Tele zum Alpstein"
           }
         ],
         "videos": [],
@@ -286,7 +316,8 @@
             "name": "024",
             "date": "2014-11-29T12:55:26.000+01:00",
             "width": 1920,
-            "height": 843
+            "height": 843,
+            "alt": "Rundwanderung Hoher Freschen"
           }
         ],
         "videos": [],
@@ -298,7 +329,8 @@
             "name": "025",
             "date": "2014-11-29T13:06:37.000+01:00",
             "width": 720,
-            "height": 1080
+            "height": 1080,
+            "alt": "Holzweg durch morastigen Wald"
           }
         ],
         "videos": [],
@@ -310,7 +342,8 @@
             "name": "026",
             "date": "2014-11-29T13:14:49.000+01:00",
             "width": 1920,
-            "height": 729
+            "height": 729,
+            "alt": "Untere Saluveralpe"
           }
         ],
         "videos": [],
@@ -322,11 +355,12 @@
             "name": "027",
             "date": "2014-11-29T13:32:05.000+01:00",
             "width": 1644,
-            "height": 1080
+            "height": 1080,
+            "alt": "Unscharfe Blindschleiche"
           }
         ],
         "videos": [],
-        "text": "Anschließend geht quer zu einem steilen Hang weiter hinab. Diese Blindschleiche auf dem Weg habe ich leider falsch fokusiert und einem zweiten Versuch entzog sie sich mir. <br />\nSie zeigt aber, dass es selbst beim Abstieg ordentlich warm war. Die Gesichter der entgegenkommenden Wanderer zeugten ebenfalls davon."
+        "text": "Anschließend geht quer zu einem steilen Hang weiter hinab. Diese Blindschleiche auf dem Weg habe ich leider falsch fokussiert und einem zweiten Versuch entzog sie sich mir. <br />\nSie zeigt aber, dass es selbst beim Abstieg ordentlich warm war. Die Gesichter der entgegenkommenden Wanderer zeugten ebenfalls davon."
       },
       {
         "photos": [
@@ -334,7 +368,8 @@
             "name": "028",
             "date": "2014-11-29T13:51:11.000+01:00",
             "width": 1920,
-            "height": 840
+            "height": 840,
+            "alt": "Garnitzaalpe"
           }
         ],
         "videos": [],
@@ -346,7 +381,8 @@
             "name": "029",
             "date": "2014-11-29T13:59:03.000+01:00",
             "width": 1620,
-            "height": 1080
+            "height": 1080,
+            "alt": "Alphütten"
           }
         ],
         "videos": [],
@@ -358,7 +394,8 @@
             "name": "030",
             "date": "2014-11-29T14:14:43.000+01:00",
             "width": 1620,
-            "height": 1080
+            "height": 1080,
+            "alt": "Garnitzabach"
           }
         ],
         "videos": [],
@@ -370,7 +407,8 @@
             "name": "031",
             "date": "2014-11-29T14:35:42.000+01:00",
             "width": 1920,
-            "height": 571
+            "height": 571,
+            "alt": "Laterns bei der Rückfahrt"
           }
         ],
         "videos": [],
