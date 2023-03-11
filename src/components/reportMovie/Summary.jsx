@@ -58,7 +58,7 @@ const ValueRight = styled.span`
 
 const formatDuration = (duration) => {
   const minutes = duration / (60 * 1000);
-  return `${Math.floor(minutes / 60)}h ${Math.round(Math.floor(minutes % 60) / 10) * 10}m`;
+  return `${Math.floor(minutes / 60)}h ${Math.floor(Math.floor(minutes % 60) / 10) * 10}m`;
 };
 
 const formatDistance = (distance) => {
