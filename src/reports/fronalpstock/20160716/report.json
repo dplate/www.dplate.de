@@ -4,11 +4,19 @@
     "date": "d20160716",
     "type": "hike",
     "track": true,
+    "timeShift": -60,
     "detailMap": "swiss",
-    "shortTitle": "Fronalpstock",
-    "title": "Umrundung Fronalpstock",
+    "shortTitle": "Geo-Phänomene-Weg",
+    "title": "Kerenzerberg - Geo-Phänomene-Weg",
+    "title3d": {
+      "offsetY": 0,
+      "fontSize": 8.5,
+      "align": "right",
+      "width": 1920,
+      "height": 593
+    },
     "movie": "GgeH0WvKhYs",
-    "intro": "Durch den Neuschnee der vergangenen Woche war ich bei der Auswahl von Wanderzielen auf die Höhe von unter 2000m eingeschränkt. Ich entschied mich für die Umrundung des Glaruser Fronalpstocks, der ganz in der Nähe der Murgseen liegt, die ich in der Woche zuvor besuchte.<br />\nPünktlich zum Betriebsstart der Sesselbahn parkte ich mein Auto um 8:00 in Filzbach, einem kleinen Ort oberhalb des Walensees.",
+    "intro": "Durch den Neuschnee der vergangenen Woche war ich bei der Auswahl von Wanderzielen auf die Höhe von unter 2000m eingeschränkt. Ich entschied mich für die Umrundung des Glaruser Fronalpstocks, der ganz in der Nähe der Murgseen liegt, die ich in der Woche zuvor besuchte.<br />\nPünktlich zum Betriebsstart der Sesselbahn Kerenzerberg parkte ich mein Auto um 8:00 in Filzbach, einem kleinen Ort oberhalb des Walensees.",
     "landmarks": [
       {
         "photos": [
@@ -21,7 +29,7 @@
           },
           {
             "name": "003",
-            "alt": "Bergstation Sesselbahn Filzbach",
+            "alt": "Bergstation Sesselbahn Kerenzerberg",
             "date": "2016-07-16T08:35:16.000+02:00",
             "width": 1920,
             "height": 1280
@@ -119,7 +127,7 @@
           },
           {
             "name": "011",
-            "alt": "Vermostes Wegzeichen",
+            "alt": "Vermoostes Wegzeichen",
             "date": "2016-07-16T10:11:00.000+02:00",
             "width": 1920,
             "height": 1280
@@ -139,7 +147,7 @@
           }
         ],
         "videos": [],
-        "text": "Mit dem sanftem begauf/bergab war es nun aber vorbei und es ging steil eine Fahrstraße bergauf. Im Bild ist das Naturfreundehaus Fronalp zu sehen, wo man auf einer schönen Terasse speisen könnte. Bis dort kann man auch mit dem Auto hochfahren - das ist der Ausgangspunkt, wenn man nur den Fronalpstock besteigen will."
+        "text": "Mit dem sanftem bergauf/bergab war es nun aber vorbei und es ging steil eine Fahrstraße bergauf. Im Bild ist das Naturfreundehaus Fronalp zu sehen, wo man auf einer schönen Terrasse speisen könnte. Bis dort kann man auch mit dem Auto hochfahren - das ist der Ausgangspunkt, wenn man nur den Fronalpstock besteigen will."
       },
       {
         "photos": [
@@ -275,7 +283,7 @@
         "photos": [
           {
             "name": "026",
-            "alt": "Talalpsee",
+            "alt": "Hinter Tal",
             "date": "2016-07-16T14:00:40.000+02:00",
             "width": 1920,
             "height": 1280
@@ -301,7 +309,7 @@
         "photos": [
           {
             "name": "029",
-            "alt": "Talalpsee",
+            "alt": "Gasthaus Talalpsee",
             "date": "2016-07-16T14:29:51.000+02:00",
             "width": 1920,
             "height": 1280

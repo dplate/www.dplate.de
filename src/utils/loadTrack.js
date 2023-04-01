@@ -69,11 +69,11 @@ const getSpeeds = (timestamp, track) => {
   return 1.0;
 };
 
-const getAction = (speed) => {
+const getAction = (speed, climbSpeed) => {
   if (speed < 0.2) {
     return 'pausing';
   }
-  if (speed > 2.0) {
+  if ((speed > 1.3 && (climbSpeed > 0.2 || climbSpeed < -0.35)) || speed > 2.2) {
     return 'flying';
   }
   return 'walking';
@@ -86,7 +86,7 @@ const interpretTrack = (track) => {
   let maxWalkDown = 0;
   const interpretedPoints = track.points.map(point => {
     const { distanceSpeed, climbSpeed } = getSpeeds(point.timestamp, track);
-    const action = getAction(distanceSpeed);
+    const action = getAction(distanceSpeed, climbSpeed);
     if (action === 'walking') {
       maxWalkDistance += point.distanceDifference;
       maxWalkDuration += point.timestampDifference;

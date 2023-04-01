@@ -7,8 +7,8 @@ const Container = styled.div.attrs(({ opacity }) => ({
 }))`
   position: fixed;
   bottom: 3vh;
-  height: 15vh;
-  width: 60vw;
+  height: 20vh;
+  width: 75vw;
   left: 50%;
   transform: translate(-50%, 0);
   z-index: 4;
@@ -24,9 +24,9 @@ const HeightLabel = styled.div.attrs(({ y }) => ({
   position: absolute;
   color: black;
   opacity: 0.8;
-  left: 1%;
+  left: 1.3%;
   transform: translate(0, -50%);
-  font-size: 0.9vw;
+  font-size: 1.2vw;
 `;
 
 const DistanceLabel = styled.div.attrs(({ x }) => ({
@@ -35,9 +35,10 @@ const DistanceLabel = styled.div.attrs(({ x }) => ({
   position: absolute;
   color: black;
   opacity: 0.8;
-  bottom: 2%;
+  bottom: 3%;
   transform: translate(-50%, 0);
-  font-size: 1.6vh;
+  font-size: 2.1vh;
+  line-height: 1.4;
 `;
 
 const CurrentPointContainer = styled.div.attrs(({ x = 0, y = 0 }) => ({
@@ -67,13 +68,13 @@ const CurrentHeightLine = styled.div.attrs(({ x }) => ({
 
 const CurrentHeightLabel = styled.div`
   position: absolute;
-  left: 0.4%;
+  left: 0.7%;
   top: 0;
-  width: 5%;
+  width: 5.7%;
   padding: 0 0.6% 0 0;
   transform: translate(0, -50%);
   background-color: darkred;
-  font-size: 0.9vw;
+  font-size: 1.2vw;
   border-radius: 4px;
   text-align: right;
 `;
@@ -93,12 +94,13 @@ const CurrentDistanceLine = styled.div.attrs(({ y }) => ({
 
 const CurrentDistanceLabel = styled.div`
   position: absolute;
-  bottom: 1.7%;
+  bottom: 3%;
   left: 0;
   padding: 0 0.6% 0% 0.6%;
   transform: translate(-50%, 0);
   background-color: darkred;
-  font-size: 1.6vh;
+  font-size: 2.1vh;
+  line-height: 1.4;
   border-radius: 4px;
 `;
 
@@ -197,12 +199,12 @@ const extractTrackData = (track) => {
   return trackData;
 };
 
-const distanceToGraph = (trackData, distance) => 0.07 + 0.92 * (distance / trackData.maxDistance);
+const distanceToGraph = (trackData, distance) => 0.08 + 0.91 * (distance / trackData.maxDistance);
 const heightToGraph = (trackData, height) =>
   0.1 + 0.7 * (1 - (height - trackData.minHeight) / (trackData.maxHeight - trackData.minHeight));
 
-const formatHeight = (height) => `${Math.round(height)}m`;
-const formatDistance = (distance) => `${(Math.round(distance / 100) / 10).toFixed(1)}km`;
+const formatHeight = (height) => `${Math.round(height)} m`;
+const formatDistance = (distance) => `${(Math.round(distance / 100) / 10).toFixed(1)} km`;
 
 const buildGraphPoints = (trackData) => {
   return trackData.points
@@ -236,9 +238,9 @@ const renderHeightLines = (trackData, gap, main) => {
     elements.push(
       <path
         key={`${main ? 'main' : 'sub'}_${height}_height_line`}
-        d={`M ${main ? 0.06 : 0.07} ${y} L 0.99 ${y}`}
+        d={`M ${main ? 0.07 : 0.08} ${y} L 0.99 ${y}`}
         stroke="gray"
-        strokeWidth={main ? '1px' : '0.1px'}
+        strokeWidth={main ? '1.5px' : '0.3px'}
         vectorEffect="non-scaling-stroke"
         fill="none"
       />
@@ -369,7 +371,7 @@ const HeightGraph = (props) => {
   }
 
   return (
-    <Container opacity={props.visible ? 0.7 : 0.0}>
+    <Container opacity={props.visible ? 0.9 : 0.0}>
       <Graph trackData={trackData} />
       {[
         ...renderHeightLabels(trackData, trackData.heightGaps.main),
