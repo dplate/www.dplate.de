@@ -7,61 +7,73 @@
     "detailMap": "swiss",
     "shortTitle": "Jöriseen",
     "title": "Wägerhütta - Jöriseen",
-    "movie": "uqp8dUdxM84",
+    "title3d": {
+      "offsetY": 4,
+      "fontSize": 8.7,
+      "align": "left",
+      "width": 1920,
+      "height": 641
+    },
+    "movie": "UgvsRPb6ZKs",
     "intro": "Die Hitze wird langsam nervig, trotzdem hatte ich Lust auf Berge. Deshalb suchte ich mir ein (noch relativ gut erreichbares) hohes Ziel für diesen Samstag.<br />\nNach knapp 2h Fahrt erreichte ich den Parkplatz am Wägerhütta, knapp unterhalb des Flüela-Pass (der von Davos ins Unterengadin führt). Obwohl bereits 2200m hoch, war es für kurz vor acht mit 16° schon ziemlich warm.",
     "landmarks": [
       {
         "photos": [
           {
             "name": "001",
+            "alt": "Flüela Passstraße am Morgen",
             "date": "2015-08-08T08:04:05.000+02:00",
             "width": 1620,
             "height": 1080
           }
         ],
         "videos": [],
-        "text": "Vom Auto aus geht direkt den Hang hinauf. Angenehmerweise noch im Schatten, außenherum wurde die Bergwelt aber bereits von der Sonne beschienen.<br />\nHier der Blick das Tal hinab Richtung Davos. Rechts/hinten ist das &quot;neue&quot; &quot;Freeride&quot; Skigebiet Pischa zu erahnen."
+        "text": "Vom Auto aus geht es direkt den Hang hinauf. Angenehmerweise noch im Schatten, außen herum wurde die Bergwelt aber bereits von der Sonne beschienen.<br />\nHier der Blick das Tal hinab Richtung Davos. Rechts/hinten ist das &quot;neue&quot; &quot;Freeride&quot; Skigebiet Pischa zu erahnen."
       },
       {
         "photos": [
           {
             "name": "002",
+            "alt": "Flüelapass",
             "date": "2015-08-08T08:09:17.000+02:00",
             "width": 1920,
             "height": 820
           }
         ],
         "videos": [],
-        "text": "Blick in die andere Richtung den Pass hinauf. Rechts der Parkplatz beim Wägerhus."
+        "text": "Blick in die andere Richtung den Pass hinauf. Rechts der Parkplatz beider Wägerhütta."
       },
       {
         "photos": [
           {
             "name": "003",
+            "alt": "Wanderweg Winterlücke",
             "date": "2015-08-08T08:33:08.000+02:00",
             "width": 1920,
             "height": 520
           }
         ],
         "videos": [],
-        "text": "Nach einer guten halben Stunde nicht zu steilem Aufstiegs traf ich mich schließlich mit der Sonne. Diese Foto entstand bereits nach der Abzweigung zur Winterlücke, die ich als Übergang zu den Jöri-Seen wählte. Der andere Weg führt zur Jöriflüelafurgga (was für ein Name), den ich für den Rückweg auserkoren hatte."
+        "text": "Nach einer guten halben Stunde nicht zu steilem Aufstiegs traf ich mich schließlich mit der Sonne. Diese Foto entstand bereits nach der Abzweigung zur Winterlücke, die ich als Übergang zu den Jöriseen wählte. Der andere Weg führt zur Jöriflüelafurgga (was für ein Name), den ich für den Rückweg auserkoren hatte."
       },
       {
         "photos": [
           {
             "name": "004",
+            "alt": "Weg durch Geröll",
             "date": "2015-08-08T08:33:41.000+02:00",
             "width": 1620,
             "height": 1080
           }
         ],
         "videos": [],
-        "text": "Den gesamten Aufstieg führt der Weg durch Geröllfelder. Da er aber sehr gut ausgebaut ist, war es trotdem angenehm zu gehen. Zum Teil wurden sogar Dämme aus großen Steinen aufgebaut.<br />\nIm Hintergrund das Flüela-Schwarzhorn, 3100m und schneefrei."
+        "text": "Den gesamten Aufstieg führt der Weg durch Geröllfelder. Da er aber sehr gut ausgebaut ist, war es trotzdem angenehm zu gehen. Zum Teil wurden sogar Dämme aus großen Steinen aufgebaut.<br />\nIm Hintergrund das Flüela-Schwarzhorn, 3100m und schneefrei."
       },
       {
         "photos": [
           {
             "name": "005",
+            "alt": "Hochtal unterhalb der Winterlücke",
             "date": "2015-08-08T09:05:10.000+02:00",
             "width": 1920,
             "height": 971
@@ -74,18 +86,20 @@
         "photos": [
           {
             "name": "006",
+            "alt": "Blick aus Höhle",
             "date": "2015-08-08T09:11:26.000+02:00",
             "width": 901,
             "height": 1080
           }
         ],
         "videos": [],
-        "text": "Kleiner Abstecker zu einer Höhle. Evt. mal militärisch genutzt? Das würde zumindest den gut ausgebauten Weg erklären, anschließend wurde er nämlich deutlich steiler und schmaler."
+        "text": "Kleiner Abstecher zu einer Höhle. Evt. mal militärisch genutzt? Das würde zumindest den gut ausgebauten Weg erklären, anschließend wurde er nämlich deutlich steiler und schmaler."
       },
       {
         "photos": [
           {
             "name": "007",
+            "alt": "Winterlücke",
             "date": "2015-08-08T09:18:21.000+02:00",
             "width": 1620,
             "height": 1080
@@ -98,18 +112,20 @@
         "photos": [
           {
             "name": "008",
+            "alt": "Hochgebirgswanderung",
             "date": "2015-08-08T09:19:35.000+02:00",
             "width": 1920,
             "height": 816
           }
         ],
         "videos": [],
-        "text": "Blick auf die flachere andere Seite. Diese drei kleinen Seen sind aber noch nicht die Jöri-Seen.<br />\nDie karge Landschaft zeigt deutlich: man ist weit oben.<br />\nDer bemerkenswerte Gipfel im Hintergrund ist der 3400m hohe Piz Linard, auf den aber kein Wanderweg führt."
+        "text": "Blick auf die flachere andere Seite. Diese drei kleinen Seen sind aber noch nicht die Jöriseen.<br />\nDie karge Landschaft zeigt deutlich: man ist weit oben.<br />\nDer bemerkenswerte Gipfel im Hintergrund ist der 3400m hohe Piz Linard, auf den aber kein Wanderweg führt."
       },
       {
         "photos": [
           {
             "name": "009",
+            "alt": "Kleiner Gebirgssee",
             "date": "2015-08-08T09:32:09.000+02:00",
             "width": 1920,
             "height": 709
@@ -122,24 +138,27 @@
         "photos": [
           {
             "name": "010",
+            "alt": "Kleiner Vogel am See mit Piz Linard",
             "date": "2015-08-08T09:34:02.000+02:00",
             "width": 1870,
             "height": 1080
           },
           {
             "name": "011",
+            "alt": "See in Felsen",
             "date": "2015-08-08T09:34:37.000+02:00",
             "width": 1920,
             "height": 781
           }
         ],
         "videos": [],
-        "text": "Einer der anderen Seen, netterweise dekorativ mit Vogel. Im Hintegrund wieder der Piz Linard."
+        "text": "Einer der anderen Seen, netterweise dekorativ mit Vogel. Im Hintergrund wieder der Piz Linard."
       },
       {
         "photos": [
           {
             "name": "012",
+            "alt": "Jörigletscher",
             "date": "2015-08-08T09:35:50.000+02:00",
             "width": 1920,
             "height": 979
@@ -152,30 +171,33 @@
         "photos": [
           {
             "name": "013",
+            "alt": "Gletschersee",
             "date": "2015-08-08T09:37:52.000+02:00",
             "width": 1920,
             "height": 836
           }
         ],
         "videos": [],
-        "text": "Der letzte der Seen vor dem Abstieg zu den Jöri-Seen. Deutlich milchiger, da durch den Gletscher gespeist."
+        "text": "Der letzte der Seen vor dem Abstieg zu den Jöriseen. Deutlich milchiger, da durch den Gletscher gespeist."
       },
       {
         "photos": [
           {
             "name": "014",
+            "alt": "Abstieg am Bach",
             "date": "2015-08-08T09:39:02.000+02:00",
             "width": 1620,
             "height": 1080
           }
         ],
         "videos": [],
-        "text": "Am Abfluss dieses Sees kann man dann schließlich auch einen der Jöri-Seen sehen - der türkis-blaue ganz hinten."
+        "text": "Am Abfluss dieses Sees kann man dann schließlich auch einen der Jöriseen sehen - der türkis-blaue ganz hinten."
       },
       {
         "photos": [
           {
             "name": "015",
+            "alt": "Kärgliche Natur",
             "date": "2015-08-08T09:41:51.000+02:00",
             "width": 1620,
             "height": 1080
@@ -188,6 +210,7 @@
         "photos": [
           {
             "name": "016",
+            "alt": "Türkiser Jörisee",
             "date": "2015-08-08T09:49:46.000+02:00",
             "width": 1920,
             "height": 681
@@ -200,18 +223,21 @@
         "photos": [
           {
             "name": "018",
+            "alt": "Jöriseen",
             "date": "2015-08-08T09:55:03.000+02:00",
             "width": 1920,
             "height": 981
           },
           {
             "name": "019",
+            "alt": "Blauer Jörisee",
             "date": "2015-08-08T09:56:44.000+02:00",
             "width": 1746,
             "height": 1080
           },
           {
             "name": "020",
+            "alt": "Farbiger Bergsee",
             "date": "2015-08-08T09:56:57.000+02:00",
             "width": 1780,
             "height": 1080
@@ -224,12 +250,14 @@
         "photos": [
           {
             "name": "021",
+            "alt": "Davos Wanderung",
             "date": "2015-08-08T10:01:59.000+02:00",
             "width": 1734,
             "height": 1080
           },
           {
             "name": "022",
+            "alt": "Wanderweg durch Geröllfeld",
             "date": "2015-08-08T10:09:37.000+02:00",
             "width": 1833,
             "height": 1080
@@ -242,12 +270,14 @@
         "photos": [
           {
             "name": "023",
+            "alt": "Gebirgssee",
             "date": "2015-08-08T10:12:43.000+02:00",
             "width": 1620,
             "height": 1080
           },
           {
             "name": "024",
+            "alt": "Pause am See",
             "date": "2015-08-08T10:15:16.000+02:00",
             "width": 1558,
             "height": 1080
@@ -260,6 +290,7 @@
         "photos": [
           {
             "name": "025",
+            "alt": "Panorama Jöriseen",
             "date": "2015-08-08T10:30:32.000+02:00",
             "width": 1920,
             "height": 574
@@ -272,6 +303,7 @@
         "photos": [
           {
             "name": "026",
+            "alt": "Tolle Farben",
             "date": "2015-08-08T10:34:09.000+02:00",
             "width": 1620,
             "height": 1080
@@ -284,6 +316,7 @@
         "photos": [
           {
             "name": "027",
+            "alt": "Wegweiser nach Klosters",
             "date": "2015-08-08T10:35:22.000+02:00",
             "width": 1920,
             "height": 849
@@ -296,6 +329,7 @@
         "photos": [
           {
             "name": "028",
+            "alt": "Wanderweg Jöriseen",
             "date": "2015-08-08T10:39:24.000+02:00",
             "width": 1920,
             "height": 968
@@ -308,6 +342,7 @@
         "photos": [
           {
             "name": "029",
+            "alt": "Vereinatal",
             "date": "2015-08-08T10:42:26.000+02:00",
             "width": 1375,
             "height": 1080
@@ -320,18 +355,20 @@
         "photos": [
           {
             "name": "030",
+            "alt": "Gänseblümchen an Bergsee",
             "date": "2015-08-08T10:44:41.000+02:00",
             "width": 1620,
             "height": 1080
           }
         ],
         "videos": [],
-        "text": "Der See wurde gesäumt von unzähligen Blümchen und einem angehem weichem Moosgrund."
+        "text": "Der See wurde gesäumt von unzähligen Blümchen und einem angenehm weichem Moosgrund."
       },
       {
         "photos": [
           {
             "name": "031",
+            "alt": "Frosch im Gras",
             "date": "2015-08-08T11:01:48.000+02:00",
             "width": 1600,
             "height": 1080
@@ -344,6 +381,7 @@
         "photos": [
           {
             "name": "032",
+            "alt": "Jöriseen mit dunklen Wolken",
             "date": "2015-08-08T11:25:27.000+02:00",
             "width": 1844,
             "height": 1080
@@ -356,6 +394,7 @@
         "photos": [
           {
             "name": "033",
+            "alt": "Jöriflüelafurgga",
             "date": "2015-08-08T11:29:49.000+02:00",
             "width": 1920,
             "height": 928
@@ -368,6 +407,7 @@
         "photos": [
           {
             "name": "034",
+            "alt": "Ziege mit Jöriseen",
             "date": "2015-08-08T11:31:24.000+02:00",
             "width": 1620,
             "height": 1080
@@ -380,6 +420,7 @@
         "photos": [
           {
             "name": "035",
+            "alt": "Panorama Jöriflüelafurgga",
             "date": "2015-08-08T11:39:22.000+02:00",
             "width": 1920,
             "height": 749
@@ -392,6 +433,7 @@
         "photos": [
           {
             "name": "036",
+            "alt": "Rundwanderung Davos",
             "date": "2015-08-08T11:51:53.000+02:00",
             "width": 1920,
             "height": 1033
@@ -404,6 +446,7 @@
         "photos": [
           {
             "name": "037",
+            "alt": "Parkplatz Wägerhütta",
             "date": "2015-08-08T12:03:16.000+02:00",
             "width": 1920,
             "height": 974
@@ -416,18 +459,20 @@
         "photos": [
           {
             "name": "038",
+            "alt": "Blick zur Davoser Weissfluh",
             "date": "2015-08-08T12:04:44.000+02:00",
             "width": 1865,
             "height": 1080
           }
         ],
         "videos": [],
-        "text": "Blick Tal hinab. Ganz hinten ist der Gipfel der Davoser Weißfluh zu sehen. Im Sommer ist es ziemlich offensichtlich, woher es seinen Namen hat."
+        "text": "Blick Tal hinab. Ganz hinten ist der Gipfel der Davoser Weissfluh zu sehen. Im Sommer ist es ziemlich offensichtlich, woher es seinen Namen hat."
       },
       {
         "photos": [
           {
             "name": "039",
+            "alt": "Flüelabach",
             "date": "2015-08-08T12:40:53.000+02:00",
             "width": 1920,
             "height": 1064
