@@ -5,21 +5,29 @@
     "type": "hike",
     "track": true,
     "detailMap": "swiss",
-    "shortTitle": "Amden-Speer",
+    "shortTitle": "Speer",
     "title": "Amden - Speer",
-    "movie": "mZTv6vsi7uM",
+    "title3d": {
+      "offsetY": 1,
+      "fontSize": 11,
+      "width": 1920,
+      "height": 655
+    },
+    "movie": "sSXPI7ApPJg",
     "intro": "So langsam geht der Schnee in den Bergen dahin, deshalb werden Wanderungen bis etwa 2000m Höhe möglich. Ich entschied mich diesen Samstag trotz der gewittrigen Vorhersage auf eine Tour auf den Speer, der oberhalb des Walensees liegt.<br />\nAuf Grund des für den Nachmittag angekündigten Unwetters, kam ich bereits um 7:30 in Amden (einem kleinen Ort auf einer Hochebene) an, dort parkte ich auf einem der wenigen Gratisparkplätze am Hallenbad.<br />\nNoch schnell die Bergschuhe anziehen und dann los... aber wo waren sie gleich - oh Mist, zuhause fertig vorbereitet liegen gelassen. 😞 Während ich mich noch über meine Verplantheit aufregte, entschied ich mich mit Sandalen loszulaufen und bei zu schlechtem Weg die Wanderung halt abzubrechen.",
     "landmarks": [
       {
         "photos": [
           {
             "name": "001",
+            "alt": "Weg durch Blumenwiese",
             "date": "2015-06-06T08:20:03.000+02:00",
             "width": 1620,
             "height": 1080
           },
           {
             "name": "002",
+            "alt": "Schlangenknöterich",
             "date": "2015-06-06T08:20:56.000+02:00",
             "width": 1742,
             "height": 1080
@@ -32,6 +40,7 @@
         "photos": [
           {
             "name": "003",
+            "alt": "Hochmoor mit Säntis",
             "date": "2015-06-06T08:49:45.000+02:00",
             "width": 1920,
             "height": 1016
@@ -44,6 +53,7 @@
         "photos": [
           {
             "name": "004",
+            "alt": "Mürtschenstock",
             "date": "2015-06-06T08:54:22.000+02:00",
             "width": 1920,
             "height": 525
@@ -56,6 +66,7 @@
         "photos": [
           {
             "name": "005",
+            "alt": "Weg um den Mattstock",
             "date": "2015-06-06T09:05:09.000+02:00",
             "width": 1920,
             "height": 913
@@ -68,6 +79,7 @@
         "photos": [
           {
             "name": "006",
+            "alt": "Blick ins Toggenburg",
             "date": "2015-06-06T09:14:22.000+02:00",
             "width": 1920,
             "height": 781
@@ -80,6 +92,7 @@
         "photos": [
           {
             "name": "007",
+            "alt": "Hangweg",
             "date": "2015-06-06T09:23:22.000+02:00",
             "width": 1920,
             "height": 1072
@@ -92,6 +105,7 @@
         "photos": [
           {
             "name": "008",
+            "alt": "Wanderweg durch Felslücke",
             "date": "2015-06-06T09:28:04.000+02:00",
             "width": 720,
             "height": 1080
@@ -104,6 +118,7 @@
         "photos": [
           {
             "name": "009",
+            "alt": "Alp Hinter-Höhi",
             "date": "2015-06-06T09:30:28.000+02:00",
             "width": 1860,
             "height": 1080
@@ -116,6 +131,7 @@
         "photos": [
           {
             "name": "010",
+            "alt": "Federispitz",
             "date": "2015-06-06T10:01:55.000+02:00",
             "width": 1920,
             "height": 814
@@ -128,6 +144,7 @@
         "photos": [
           {
             "name": "011",
+            "alt": "Farbenfrohe Alpwiese",
             "date": "2015-06-06T10:09:46.000+02:00",
             "width": 1830,
             "height": 1080
@@ -140,6 +157,7 @@
         "photos": [
           {
             "name": "012",
+            "alt": "Blick ins Glarus",
             "date": "2015-06-06T10:18:06.000+02:00",
             "width": 1620,
             "height": 1080
@@ -152,6 +170,7 @@
         "photos": [
           {
             "name": "013",
+            "alt": "Bergweg Speer",
             "date": "2015-06-06T10:42:53.000+02:00",
             "width": 1920,
             "height": 709
@@ -164,6 +183,7 @@
         "photos": [
           {
             "name": "014",
+            "alt": "Panorama Speer",
             "date": "2015-06-06T10:57:03.000+02:00",
             "width": 1920,
             "height": 982
@@ -176,6 +196,7 @@
         "photos": [
           {
             "name": "015",
+            "alt": "Aussicht Speer",
             "date": "2015-06-06T10:58:11.000+02:00",
             "width": 1920,
             "height": 818
@@ -188,6 +209,7 @@
         "photos": [
           {
             "name": "016",
+            "alt": "Höhe Speer",
             "date": "2015-06-06T10:59:14.000+02:00",
             "width": 1894,
             "height": 1080
@@ -200,6 +222,7 @@
         "photos": [
           {
             "name": "017",
+            "alt": "Wegweiser Speer",
             "date": "2015-06-06T11:01:23.000+02:00",
             "width": 1851,
             "height": 1080
@@ -212,6 +235,7 @@
         "photos": [
           {
             "name": "018",
+            "alt": "Gipfelplattform Speer",
             "date": "2015-06-06T11:02:22.000+02:00",
             "width": 1920,
             "height": 844
@@ -224,6 +248,7 @@
         "photos": [
           {
             "name": "019",
+            "alt": "Serpentinen auf den Speer",
             "date": "2015-06-06T11:11:59.000+02:00",
             "width": 1920,
             "height": 839
@@ -236,6 +261,7 @@
         "photos": [
           {
             "name": "020",
+            "alt": "Weg nach Oberkäseren",
             "date": "2015-06-06T11:25:24.000+02:00",
             "width": 1920,
             "height": 945
@@ -248,15 +274,10 @@
         "photos": [
           {
             "name": "021",
+            "alt": "Alpenblumen",
             "date": "2015-06-06T11:31:22.000+02:00",
             "width": 1800,
             "height": 1080
-          },
-          {
-            "name": "023",
-            "date": "2015-06-06T11:33:24.000+02:00",
-            "width": 1920,
-            "height": 690
           }
         ],
         "videos": [],
@@ -266,6 +287,7 @@
         "photos": [
           {
             "name": "022",
+            "alt": "Alpwirtschaft Oberkäseren",
             "date": "2015-06-06T11:32:10.000+02:00",
             "width": 1659,
             "height": 1080
@@ -277,7 +299,21 @@
       {
         "photos": [
           {
+            "name": "023",
+            "alt": "Rundwanderung Speer",
+            "date": "2015-06-06T11:33:24.000+02:00",
+            "width": 1920,
+            "height": 690
+          }
+        ],
+        "videos": [],
+        "text": "Noch einmal der Blick zurück."
+      },
+      {
+        "photos": [
+          {
             "name": "024",
+            "alt": "Abstieg durch Rippen",
             "date": "2015-06-06T11:45:24.000+02:00",
             "width": 1620,
             "height": 1080
@@ -290,30 +326,20 @@
         "photos": [
           {
             "name": "025",
+            "alt": "Kleine Alp",
             "date": "2015-06-06T12:12:27.000+02:00",
             "width": 1813,
             "height": 1080
           }
         ],
         "videos": [],
-        "text": "Schließlich erreichte ich eine weitere kleine Alp..."
-      },
-      {
-        "photos": [
-          {
-            "name": "027",
-            "date": "2015-06-06T12:17:44.000+02:00",
-            "width": 1920,
-            "height": 886
-          }
-        ],
-        "videos": [],
-        "text": "... ab der es dann leider nur noch auf einer Fahrstraße weiterging."
+        "text": "Schließlich erreichte ich eine weitere kleine Alp, ab der es dann leider nur noch auf einer Fahrstraße weiterging."
       },
       {
         "photos": [
           {
             "name": "026",
+            "alt": "Spannende Geologie",
             "date": "2015-06-06T12:13:46.000+02:00",
             "width": 1920,
             "height": 1020
@@ -325,7 +351,21 @@
       {
         "photos": [
           {
+            "name": "027",
+            "alt": "Abstieg auf Fahrstraße",
+            "date": "2015-06-06T12:17:44.000+02:00",
+            "width": 1920,
+            "height": 886
+          }
+        ],
+        "videos": [],
+        "text": "Nun folgte der Abstieg auf der Schotterstraße"
+      },
+      {
+        "photos": [
+          {
             "name": "028",
+            "alt": "Tiefblick nach Wesen",
             "date": "2015-06-06T13:14:30.000+02:00",
             "width": 1620,
             "height": 1080
@@ -338,6 +378,7 @@
         "photos": [
           {
             "name": "029",
+            "alt": "Walensee",
             "date": "2015-06-06T13:30:40.000+02:00",
             "width": 1920,
             "height": 1034
@@ -350,6 +391,7 @@
         "photos": [
           {
             "name": "030",
+            "alt": "Amden",
             "date": "2015-06-06T13:40:25.000+02:00",
             "width": 1920,
             "height": 907
