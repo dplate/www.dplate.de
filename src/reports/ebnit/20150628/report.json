@@ -7,13 +7,21 @@
     "detailMap": "austria",
     "shortTitle": "Hohe Kugel",
     "title": "Ebnit - Hohe Kugel",
-    "movie": "qcUYR2m8fIw",
-    "intro": "Ein Schönwettersonntag stand an, ich beschloss eine kleinere Wanderung auf die Hohe Kugel in Vorarlberg zu unternehmen. Nach gut einer Stunde Fahrt kam ich in dem kleinen und abgelegenen Ort Ebnit um 7:45 an. Ebnit (1000m) liegt oberhalb Dornbirns und ist nur durch eine einspurige und steile Straße durch den Rappenlochschlucht zu erreichen.",
+    "title3d": {
+      "offsetY": 4,
+      "fontSize": 9,
+      "align": "left",
+      "width": 1920,
+      "height": 583
+    },
+    "movie": "lXQpXRhS7oU",
+    "intro": "Ein Schönwettersonntag stand an, ich beschloss eine kleinere Wanderung auf die Hohe Kugel in Vorarlberg zu unternehmen. Nach gut einer Stunde Fahrt kam ich in dem kleinen und abgelegenen Ort Ebnit um 7:45 an. Ebnit (1000m) liegt oberhalb Dornbirns und ist nur durch eine einspurige und steile Straße durch die Rappenlochschlucht zu erreichen.",
     "landmarks": [
       {
         "photos": [
           {
             "name": "001",
+            "alt": "Ebnit",
             "date": "2015-06-28T08:09:57.000+02:00",
             "width": 1678,
             "height": 1080
@@ -26,6 +34,7 @@
         "photos": [
           {
             "name": "002",
+            "alt": "Ebniter Ach",
             "date": "2015-06-28T08:52:41.000+02:00",
             "width": 1620,
             "height": 1080
@@ -38,6 +47,7 @@
         "photos": [
           {
             "name": "003",
+            "alt": "Alpine Kornblume",
             "date": "2015-06-28T08:57:42.000+02:00",
             "width": 1716,
             "height": 1080
@@ -50,6 +60,7 @@
         "photos": [
           {
             "name": "004",
+            "alt": "Aufstieg durch Wald",
             "date": "2015-06-28T09:03:13.000+02:00",
             "width": 1620,
             "height": 1080
@@ -62,18 +73,20 @@
         "photos": [
           {
             "name": "005",
+            "alt": "Dampfendes Moos",
             "date": "2015-06-28T09:04:33.000+02:00",
             "width": 929,
             "height": 1080
           }
         ],
         "videos": [],
-        "text": "Da es nach den nächtlichen Regenfällen noch sehr feucht war, dampften die moosigen Bäume in den ersten Sonnenstrahen."
+        "text": "Da es nach den nächtlichen Regenfällen noch sehr feucht war, dampften die moosigen Bäume in den ersten Sonnenstrahlen."
       },
       {
         "photos": [
           {
             "name": "006",
+            "alt": "Valorsalpe",
             "date": "2015-06-28T09:28:26.000+02:00",
             "width": 1920,
             "height": 724
@@ -86,18 +99,20 @@
         "photos": [
           {
             "name": "007",
+            "alt": "Pferde auf Weide",
             "date": "2015-06-28T09:34:04.000+02:00",
             "width": 1620,
             "height": 1080
           }
         ],
         "videos": [],
-        "text": "Blick zurück durch das hochgewanderte Tal. Ganz hinten ist Ebnit."
+        "text": "Blick zurück durch das hoch gewanderte Tal. Ganz hinten ist Ebnit."
       },
       {
         "photos": [
           {
             "name": "008",
+            "alt": "Blick ins Rheintal",
             "date": "2015-06-28T09:54:47.000+02:00",
             "width": 1620,
             "height": 1080
@@ -110,18 +125,20 @@
         "photos": [
           {
             "name": "009",
+            "alt": "Westgrad zum Hohen Freschen",
             "date": "2015-06-28T10:14:50.000+02:00",
             "width": 1620,
             "height": 1080
           }
         ],
         "videos": [],
-        "text": "Danach wurde der Weg deutlich schmaler und ausgesetzer, hier musste ich einen Schotterhang queren. Im Hintergrund wieder der Hohe Freschen."
+        "text": "Danach wurde der Weg deutlich schmaler und ausgesetzter, hier musste ich einen Schotterhang queren. Im Hintergrund wieder der Hohe Freschen."
       },
       {
         "photos": [
           {
             "name": "010",
+            "alt": "Blick nach Ebnit",
             "date": "2015-06-28T10:18:47.000+02:00",
             "width": 1808,
             "height": 1080
@@ -134,6 +151,7 @@
         "photos": [
           {
             "name": "011",
+            "alt": "Ausgesetzter Grat",
             "date": "2015-06-28T10:31:37.000+02:00",
             "width": 1702,
             "height": 1080
@@ -146,6 +164,7 @@
         "photos": [
           {
             "name": "012",
+            "alt": "Schwieriger Weg",
             "date": "2015-06-28T10:34:45.000+02:00",
             "width": 1620,
             "height": 1080
@@ -158,6 +177,7 @@
         "photos": [
           {
             "name": "013",
+            "alt": "Alpinweg",
             "date": "2015-06-28T11:13:51.000+02:00",
             "width": 1769,
             "height": 1080
@@ -170,6 +190,7 @@
         "photos": [
           {
             "name": "014",
+            "alt": "Pause auf Vorderhörnle",
             "date": "2015-06-28T11:21:20.000+02:00",
             "width": 1920,
             "height": 593
@@ -182,6 +203,7 @@
         "photos": [
           {
             "name": "015",
+            "alt": "Wiesenweg mit Blumen",
             "date": "2015-06-28T11:43:28.000+02:00",
             "width": 1620,
             "height": 1080
@@ -194,18 +216,21 @@
         "photos": [
           {
             "name": "016",
+            "alt": "Hohe Kugel",
             "date": "2015-06-28T12:05:59.000+02:00",
             "width": 1920,
             "height": 792
           },
           {
             "name": "017",
+            "alt": "Beliebter Gipfel",
             "date": "2015-06-28T12:08:07.000+02:00",
             "width": 1805,
             "height": 1080
           },
           {
             "name": "018",
+            "alt": "Hohe Kugel vor Bodensee",
             "date": "2015-06-28T12:11:04.000+02:00",
             "width": 1920,
             "height": 801
@@ -218,18 +243,20 @@
         "photos": [
           {
             "name": "019",
+            "alt": "Panorama Hohe Kugel",
             "date": "2015-06-28T12:19:52.000+02:00",
             "width": 1920,
             "height": 410
           }
         ],
         "videos": [],
-        "text": "Um 12:00 schließlich auf dem Gipfel. Schuhe aus. Bei erfrischendem Wind konnte ich die tolle Aussicht in Rheintal und zum Bodensee genießen. <br />\nDiese Panorama hier ist im Original 500MPixel groß. Wer es im Detail erkunden will, kann es hier im <a href=\"https://www.gigapan.com/gigapans/175109\" onclick=\"this.target='_blank';\">Web</a> oder bei <a href=\"https://www.gigapan.com/gigapans/175109.kml\" onclick=\"this.target='_blank';\">Google Earth</a> tun."
+        "text": "Um 12:00 schließlich auf dem Gipfel. Schuhe aus. Bei erfrischendem Wind konnte ich die tolle Aussicht in Rheintal und zum Bodensee genießen. <br />\nDiese Panorama hier ist im Original 500MPixel groß. Wer es im Detail erkunden will, kann es hier im <a href=\"https://www.gigapan.com/gigapans/175109\" target='_blank'>Web</a> oder bei <a href=\"https://www.gigapan.com/gigapans/175109.kml\" target='_blank'>Google Earth</a> tun."
       },
       {
         "photos": [
           {
             "name": "020",
+            "alt": "Paraglider vor Rheintal",
             "date": "2015-06-28T12:30:44.000+02:00",
             "width": 1920,
             "height": 921
@@ -242,6 +269,7 @@
         "photos": [
           {
             "name": "021",
+            "alt": "Rundwanderung Hohe Kugel",
             "date": "2015-06-28T12:56:00.000+02:00",
             "width": 1620,
             "height": 1080
@@ -254,6 +282,7 @@
         "photos": [
           {
             "name": "022",
+            "alt": "Emser Hütte",
             "date": "2015-06-28T13:17:48.000+02:00",
             "width": 1620,
             "height": 1080
@@ -266,6 +295,7 @@
         "photos": [
           {
             "name": "024",
+            "alt": "Parkplatz Ebnit",
             "date": "2015-06-28T13:59:29.000+02:00",
             "width": 1920,
             "height": 1068
@@ -278,6 +308,7 @@
         "photos": [
           {
             "name": "025",
+            "alt": "Rückfahrt durch Rappenlochschlucht",
             "date": "2015-06-28T14:22:39.000+02:00",
             "width": 1235,
             "height": 1080
