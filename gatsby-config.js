@@ -17,10 +17,16 @@ module.exports = {
       }
     },
     {
-      resolve: 'gatsby-plugin-google-analytics',
+      resolve: 'gatsby-plugin-google-gtag',
       options: {
-        trackingId: 'UA-678641-3',
-        anonymize: true
+        trackingIds: ['G-Z27P6YLYRT'],
+        gtagConfig: {
+          anonymize_ip: true
+        },
+        pluginConfig: {
+          head: true,
+          respectDNT: true
+        }
       }
     }
   ],
