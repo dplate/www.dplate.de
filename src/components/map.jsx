@@ -469,15 +469,7 @@ const setupMap = (trackData, hideSwissTopo, detailMap, winter) => {
   return viewer;
 };
 
-const prepareStart = async (
-  trackData,
-  viewer,
-  hiker,
-  targetTime,
-  onAnimationStarted,
-  time,
-  timeShift
-) => {
+const prepareStart = async (trackData, viewer, hiker, targetTime, onAnimationStarted, time, timeShift) => {
   setupClock(viewer.clock, trackData.startTime, trackData.stopTime);
 
   await viewer.terrainProvider.readyPromise;
@@ -540,15 +532,7 @@ const Map = (props) => {
 
   useEffect(() => {
     if (trackData && viewer && hiker) {
-      prepareStart(
-        trackData,
-        viewer,
-        hiker,
-        targetTime,
-        onAnimationStarted,
-        wishTime,
-        timeShift
-      ).then(setClock);
+      prepareStart(trackData, viewer, hiker, targetTime, onAnimationStarted, wishTime, timeShift).then(setClock);
     }
   }, [trackData, viewer, hiker]); // eslint-disable-line react-hooks/exhaustive-deps
 

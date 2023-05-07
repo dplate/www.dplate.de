@@ -64,12 +64,12 @@ const setupAudio = () => {
       const audioBuffer = await audioContext.decodeAudioData(buffer);
       return {
         addInstance: () => {
-          const sound = createSound(audioContext, audioBuffer,);
+          const sound = createSound(audioContext, audioBuffer);
           sounds.push(sound);
           return sound;
         }
       };
-    },
+    }
   };
   audio.load = async (name) => {
     const instanced = await audio.loadInstanced(name);

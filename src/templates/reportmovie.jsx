@@ -108,12 +108,14 @@ const ReportMovie = ({ data: { reportJson } }) => {
 
   const landmarks = useMemo(
     () =>
-      reportJson.landmarks.map(landmark => ({
-        ...landmark,
-        photos: landmark.photos.filter(photo => photo.date)
-      })).filter((landmark) => {
-        return landmark.photos.length > 0;
-      }),
+      reportJson.landmarks
+        .map((landmark) => ({
+          ...landmark,
+          photos: landmark.photos.filter((photo) => photo.date)
+        }))
+        .filter((landmark) => {
+          return landmark.photos.length > 0;
+        }),
     [reportJson]
   );
 
@@ -136,11 +138,13 @@ const ReportMovie = ({ data: { reportJson } }) => {
     () => (
       <>
         <Curtain closed={phase.name === 'loading' || phase.name === 'intro' || phase.name === 'outro'} />
-        {phase.name !== 'loading' && <Logo
-          introActive={phase.name === 'loading' || phase.name === 'intro'}
-          outroActive={phase.name === 'outro'}
-          onClick={phase.name === 'intro' ? callNextPhase : null}
-        />}
+        {phase.name !== 'loading' && (
+          <Logo
+            introActive={phase.name === 'loading' || phase.name === 'intro'}
+            outroActive={phase.name === 'outro'}
+            onClick={phase.name === 'intro' ? callNextPhase : null}
+          />
+        )}
         <AnimatedTitle
           reportPath={reportPath}
           title={title + ' - ' + formatDate(date)}

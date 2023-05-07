@@ -194,7 +194,7 @@ const environmentNoises = [
     mainHeight: 2500,
     maxHeight: 5000,
     probability: 0.01
-  },
+  }
 ];
 
 const findStepSound = (sounds, height) => {
@@ -221,12 +221,14 @@ const findStepSound = (sounds, height) => {
 };
 
 const calculateStepNoises = (track, sounds) => {
-  const stepNoises = [{
-    startPoint: track.points[0],
-    sound: null
-  }];
+  const stepNoises = [
+    {
+      startPoint: track.points[0],
+      sound: null
+    }
+  ];
 
-  track.points.forEach(point => {
+  track.points.forEach((point) => {
     const currenStepNoise = stepNoises[stepNoises.length - 1];
     const durationOfCurrentStep = point.timestamp - currenStepNoise.startPoint.timestamp;
     if (!currenStepNoise.sound || durationOfCurrentStep > MINIMAL_STEP_NOISE_TIME) {
@@ -240,10 +242,10 @@ const calculateStepNoises = (track, sounds) => {
   return stepNoises;
 };
 
-const getPoint = (timestamp, track) => track.points.findLast(point => point.timestamp < timestamp);
+const getPoint = (timestamp, track) => track.points.findLast((point) => point.timestamp < timestamp);
 
 const getHeight = (timestamp, track) => {
-  const point = track.points.find(point => point.timestamp > timestamp);
+  const point = track.points.find((point) => point.timestamp > timestamp);
   if (!point) {
     return track.points[track.points.length - 1].height;
   }
@@ -261,12 +263,12 @@ const adjustSoundSpeed = (sound, point) => {
 
 const playStepSound = (timestamp, stepNoises, track) => {
   const point = getPoint(timestamp, track);
-  const currentStepNoise = stepNoises.find(stepNoise => stepNoise.sound?.isPlaying());
+  const currentStepNoise = stepNoises.find((stepNoise) => stepNoise.sound?.isPlaying());
   if (currentStepNoise) {
     adjustSoundSpeed(currentStepNoise.sound, point);
     return;
   }
-  const bestStepNoise = stepNoises.findLast(stepNoise => timestamp > stepNoise.startPoint.timestamp);
+  const bestStepNoise = stepNoises.findLast((stepNoise) => timestamp > stepNoise.startPoint.timestamp);
   const sound = bestStepNoise?.sound;
   if (sound) {
     sound.play();
@@ -276,16 +278,17 @@ const playStepSound = (timestamp, stepNoises, track) => {
 };
 
 const muteStepSound = (stepNoises) => {
-  const currentStepNoise = stepNoises.find(stepNoise => stepNoise.sound?.isPlaying());
+  const currentStepNoise = stepNoises.find((stepNoise) => stepNoise.sound?.isPlaying());
   currentStepNoise?.sound.setPlaybackRate(0);
-}
+};
 
 const playEnvironmentSounds = (height, sounds) => {
-  environmentNoises.forEach(environmentNoise => {
+  environmentNoises.forEach((environmentNoise) => {
     if (height > environmentNoise.minHeight && height < environmentNoise.maxHeight) {
-      const heightFactor = (height > environmentNoise.mainHeight) ? 
-        (environmentNoise.maxHeight - height) / (environmentNoise.maxHeight - environmentNoise.mainHeight) : 
-        (height - environmentNoise.minHeight) / (environmentNoise.mainHeight - environmentNoise.minHeight);
+      const heightFactor =
+        height > environmentNoise.mainHeight
+          ? (environmentNoise.maxHeight - height) / (environmentNoise.maxHeight - environmentNoise.mainHeight)
+          : (height - environmentNoise.minHeight) / (environmentNoise.mainHeight - environmentNoise.minHeight);
       if (Math.random() < environmentNoise.probability * heightFactor) {
         const sound = sounds[environmentNoise.name].addInstance();
         const gain = Math.pow(Math.random(), 4);
@@ -296,14 +299,14 @@ const playEnvironmentSounds = (height, sounds) => {
       }
     }
   });
-}
+};
 
 const Soundtrack = ({ phaseName, track, time }) => {
   const timestamp = new Date(time).getTime();
-  
+
   const [sounds, setSounds] = useState(null);
-  
-  const height = useRef(null);  
+
+  const height = useRef(null);
   useEffect(() => {
     if (timestamp && track) {
       height.current = getHeight(timestamp, track);
@@ -325,9 +328,11 @@ const Soundtrack = ({ phaseName, track, time }) => {
           stepsRock: await audio.load('stepsRock'),
           stepsFineGravel: await audio.load('stepsFineGravel')
         };
-        await Promise.all(environmentNoises.map(async environmentNoise => {
-          sounds[environmentNoise.name] = await audio.loadInstanced(environmentNoise.name)
-        }));
+        await Promise.all(
+          environmentNoises.map(async (environmentNoise) => {
+            sounds[environmentNoise.name] = await audio.loadInstanced(environmentNoise.name);
+          })
+        );
         setSounds(sounds);
       }
     })();
@@ -335,7 +340,7 @@ const Soundtrack = ({ phaseName, track, time }) => {
 
   const stepNoises = useMemo(() => {
     if (sounds) {
-      return calculateStepNoises(track, sounds)
+      return calculateStepNoises(track, sounds);
     }
     return null;
   }, [track, sounds]);
@@ -385,7 +390,7 @@ Soundtrack.propTypes = {
       })
     ).isRequired
   }).isRequired,
-  time: PropTypes.string,
+  time: PropTypes.string
 };
 
 export default Soundtrack;

@@ -64,21 +64,25 @@ const addSection = (sections, text) => {
 };
 
 const outputSections = (sections) => {
-  console.log(sections.map(
-    (section) => {
-      const movieSeconds = section.sectionTimestamp - sections[0].sectionTimestamp;
-      return Math.floor(movieSeconds / 60)
-          .toString()
-          .padStart(2, '0') +
-        ':' +
-        Math.floor(movieSeconds % 60)
-          .toString()
-          .padStart(2, '0') +
-        ' ' +
-        section.text;
-    }
-  ).join('\n'));
-}
+  console.log(
+    sections
+      .map((section) => {
+        const movieSeconds = section.sectionTimestamp - sections[0].sectionTimestamp;
+        return (
+          Math.floor(movieSeconds / 60)
+            .toString()
+            .padStart(2, '0') +
+          ':' +
+          Math.floor(movieSeconds % 60)
+            .toString()
+            .padStart(2, '0') +
+          ' ' +
+          section.text
+        );
+      })
+      .join('\n')
+  );
+};
 
 const YoutubeMetadata = ({ date, title, shortTitle, reportPath, phaseName, nextPhoto }) => {
   const sectionsRef = useRef([]);
@@ -88,23 +92,23 @@ const YoutubeMetadata = ({ date, title, shortTitle, reportPath, phaseName, nextP
   }, []); // eslint-disable-line react-hooks/exhaustive-deps
 
   useEffect(() => {
-    switch(phaseName) {
+    switch (phaseName) {
       case 'introScroll':
         sectionsRef.current.push({
           sectionTimestamp: Math.round(Date.now() / 1000) - 3,
           photoEndTimestamp: Math.round(Date.now() / 1000),
           text: 'Titel'
-        })
+        });
         break;
       case 'photo':
         addSection(sectionsRef.current, nextPhoto.alt);
         break;
       case 'outro':
         outputSections(sectionsRef.current);
-        break;  
+        break;
       default:
     }
-  }, [ phaseName, nextPhoto ])
+  }, [phaseName, nextPhoto]);
 
   return null;
 };

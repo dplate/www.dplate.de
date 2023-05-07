@@ -8,7 +8,7 @@ const SummaryContainer = styled.div.attrs(({ opacity }) => ({
   position: absolute;
   z-index: 6;
   font-size: 2vw;
-  color: #A0A0A0;
+  color: #a0a0a0;
   line-height: 1.1;
   transition: opacity 5s ease-in-out;
 `;
@@ -44,17 +44,17 @@ const ValueLeft = styled.span`
   width: 14vw;
   padding-right: 2vw;
   font-size: 4vw;
-  color: #FFFFFF;
+  color: #ffffff;
   text-align: right;
-`; 
+`;
 
 const ValueRight = styled.span`
   display: inline-block;
   width: 12vw;
   font-size: 4vw;
-  color: #FFFFFF;
+  color: #ffffff;
   text-align: right;
-`; 
+`;
 
 const formatDuration = (duration) => {
   const minutes = duration / (60 * 1000);
@@ -85,20 +85,25 @@ const Summary = ({ visible, track }) => {
   return (
     <SummaryContainer opacity={visible ? 1 : 0}>
       <Duration>
-        <ValueLeft>{formatDuration(track.maxWalkDuration)}</ValueLeft> Gehzeit<br />
+        <ValueLeft>{formatDuration(track.maxWalkDuration)}</ValueLeft> Gehzeit
+        <br />
       </Duration>
       <Distance>
-        Gehstrecke <ValueRight>{formatDistance(track.maxWalkDistance)}</ValueRight><br />
+        Gehstrecke <ValueRight>{formatDistance(track.maxWalkDistance)}</ValueRight>
+        <br />
       </Distance>
       <Height>
-        <ValueLeft>{formatHeight(track.maxWalkUp)}</ValueLeft> Aufstieg<br />
-        <ValueLeft>{formatHeight(track.maxWalkDown)}</ValueLeft> Abstieg<br />
+        <ValueLeft>{formatHeight(track.maxWalkUp)}</ValueLeft> Aufstieg
+        <br />
+        <ValueLeft>{formatHeight(track.maxWalkDown)}</ValueLeft> Abstieg
+        <br />
       </Height>
       <Time>
-        Startzeit <ValueRight>{formatTime(track.startTime)}</ValueRight><br />
+        Startzeit <ValueRight>{formatTime(track.startTime)}</ValueRight>
+        <br />
         Zielzeit <ValueRight>{formatTime(track.stopTime)}</ValueRight>
-      </Time>  
-    </SummaryContainer>    
+      </Time>
+    </SummaryContainer>
   );
 };
 
@@ -114,7 +119,7 @@ Summary.propTypes = {
     maxWalkDistance: PropTypes.number.isRequired,
     maxWalkUp: PropTypes.number.isRequired,
     maxWalkDown: PropTypes.number.isRequired
-  }),
+  })
 };
 
 export default Summary;
