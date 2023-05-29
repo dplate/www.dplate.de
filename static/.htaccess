@@ -54,4 +54,6 @@ Redirect 301 /alpine/hoher-freschen https://www.dplate.de/alpine/laterns
 Redirect 301 /photos/hoher-freschen https://www.dplate.de/photos/laterns
 Redirect 301 /alpine/hohekugel https://www.dplate.de/alpine/ebnit
 Redirect 301 /photos/hohekugel https://www.dplate.de/photos/ebnit
+Redirect 301 /alpine/fronalpstock https://www.dplate.de/alpine/glarus
+Redirect 301 /photos/fronalpstock https://www.dplate.de/photos/glarus
 redirectMatch  301 ^/photos$ https://www.dplate.de/showcase

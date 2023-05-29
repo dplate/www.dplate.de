@@ -1,0 +1,299 @@
+[
+  {
+    "destination": "toggenburg",
+    "date": "d20230521",
+    "type": "hike",
+    "track": true,
+    "detailMap": "swiss",
+    "shortTitle": "Schnebelhorn",
+    "title": "Hulftegg - Schnebelhorn",
+    "title3d": {
+      "offsetY": 0,
+      "fontSize": 8.4,
+      "align": "right",
+      "width": 1920,
+      "height": 586
+    },
+    "movie": "xw2DwQvJgGo",
+    "intro": "Nachdem der Frühling bisher eher kalt und regnerisch war, machte ich mich an diesem Sonntag endlich auf eine erste Wanderung der Saison. Es sollte vom 950m hohen Pass Hulftegg immer dem Grat entlang zum fast 1300m hohen Schnebelhorn gehen.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Hulftegg Passstraße",
+            "date": "2023-05-21T09:07:24.000+02:00",
+            "width": 1616,
+            "height": 1080
+          }
+        ],
+        "text": "Das Auto stellte ich gegen 9:00 auf dem großen Gratisparkplatz auf dem Hulftegg Pass neben dem beliebten Gasthaus ab. Die Straße ist besonders bei Motorradfahrern beliebt, noch war es aber ruhig."
+      },
+      {
+        "photos": [
+          {
+            "name": "002",
+            "alt": "Forstweg",
+            "date": "2023-05-21T09:26:18.000+02:00",
+            "width": 1043,
+            "height": 1080
+          }
+        ],
+        "text": "Bis zum Bauernhaus Aelpli ging es erst etwas langweilig und auf gleicher Höhe auf dieser Fahrstraße am Hang entlang."
+      },
+      {
+        "photos": [
+          {
+            "name": "003",
+            "alt": "Ziegen",
+            "date": "2023-05-21T09:32:35.000+02:00",
+            "width": 1920,
+            "height": 969
+          }
+        ],
+        "text": "Bei Aelpli waren dann einige Ziegen und ein Esel zu sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "004",
+            "alt": "Spazierweg Hulftegg",
+            "date": "2023-05-21T09:36:19.000+02:00",
+            "width": 1616,
+            "height": 1080
+          }
+        ],
+        "text": "Dann wurde die Landschaft abwechslungsreicher und es ging über diese Wiese - aber weiterhin auf einer Schotterstraße."
+      },
+      {
+        "photos": [
+          {
+            "name": "005",
+            "alt": "Aufstieg Roten",
+            "date": "2023-05-21T09:57:20.000+02:00",
+            "width": 1801,
+            "height": 1080
+          }
+        ],
+        "text": "Hier beim folgenden ersten Aufstieg zum Roten."
+      },
+      {
+        "photos": [
+          {
+            "name": "006",
+            "alt": "Panorama zum Hulftegg",
+            "date": "2023-05-21T10:01:15.000+02:00",
+            "width": 1920,
+            "height": 754
+          }
+        ],
+        "text": "Und die erste Aussicht ins arg dunstige Flachland."
+      },
+      {
+        "photos": [
+          {
+            "name": "007",
+            "alt": "Um den Roten",
+            "date": "2023-05-21T10:12:59.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Ganz auf den Roten ging der Weg allerdings nicht, sondern er wird etwas unterhalb am steilen Hang umgangen."
+      },
+      {
+        "photos": [
+          {
+            "name": "008",
+            "alt": "Bergweg Roten",
+            "date": "2023-05-21T10:15:55.000+02:00",
+            "width": 1676,
+            "height": 1080
+          }
+        ],
+        "text": "Dann hörten endlich die Fahrwege auf und der Weg ging auf einem recht schmalen Grat (aber nicht schwierig) vom Roten wieder bergab."
+      },
+      {
+        "photos": [
+          {
+            "name": "009",
+            "alt": "Aussicht Hirzegg",
+            "date": "2023-05-21T10:31:46.000+02:00",
+            "width": 1920,
+            "height": 651
+          }
+        ],
+        "text": "Nach dem Abstieg kann man einen kleinen Extraaufstieg auf den Aussichtspunkt Hirzegg machen, auf dem ich mich hier bereits befinde.<br />Von links kam ich hinauf, weiter ging es nach rechts."
+      },
+      {
+        "photos": [
+          {
+            "name": "010",
+            "alt": "Wanderweg Schnebelhorn",
+            "date": "2023-05-21T11:03:34.000+02:00",
+            "width": 1616,
+            "height": 1080
+          }
+        ],
+        "text": "Ab dem Hirzegg folgt dann der stetige Aufstieg hinauf auf das Schnebelhorn, welcher hier in der Bergmitte zu sehen ist."
+      },
+      {
+        "photos": [
+          {
+            "name": "011",
+            "alt": "Steile Wiese mit Hundeblumen",
+            "date": "2023-05-21T11:05:36.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Schöner aussichtsreicher Weg, mit (zumindest in dieser Jahreszeit) viel Grün."
+      },
+      {
+        "photos": [
+          {
+            "name": "012",
+            "alt": "Voralpenland",
+            "date": "2023-05-21T11:12:54.000+02:00",
+            "width": 1920,
+            "height": 864
+          }
+        ],
+        "text": "Blick zurück. Über den Grat rechts hatte ich erst letzten Herbst das <a href='/alpine/toggenburg/20221106' target='_blank'>Schnebelhorn von Mosnang</a> aus erwandert."
+      },
+      {
+        "photos": [
+          {
+            "name": "013",
+            "alt": "Gratweg",
+            "date": "2023-05-21T11:13:46.000+02:00",
+            "width": 1826,
+            "height": 1080
+          }
+        ],
+        "text": "Gleich Stelle mit Fokus auf den heutigen Wanderweg."
+      },
+      {
+        "photos": [
+          {
+            "name": "014",
+            "alt": "Gipfel Schnebelhorn",
+            "date": "2023-05-21T11:26:15.000+02:00",
+            "width": 1894,
+            "height": 1080
+          }
+        ],
+        "text": "Nach 2,5h war der Gipfel des Schnebelhorns erreicht. Wie man sieht, nutzen noch viele andere Wanderer den ersten Schönwettertag. Außerdem waren viele andere Wanderungen auf Grund des Schnees noch nicht möglich."
+      },
+      {
+        "photos": [
+          {
+            "name": "015",
+            "alt": "Abstieg Tierhag",
+            "date": "2023-05-21T11:55:52.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Die Pause machte ich ein Stück weiter. Hier entschloss ich auch, den Abstieg über das Gasthaus Tierhag zu machen, was aber nur ein kleiner Umweg bedeutet."
+      },
+      {
+        "photos": [
+          {
+            "name": "016",
+            "alt": "Wanderung Schnebelhorn",
+            "date": "2023-05-21T12:09:33.000+02:00",
+            "width": 1748,
+            "height": 1080
+          }
+        ],
+        "text": "Noch einmal der Blick zurück zum Schnebelhorn"
+      },
+      {
+        "photos": [
+          {
+            "name": "017",
+            "alt": "Frühlingswanderung",
+            "date": "2023-05-21T12:24:40.000+02:00",
+            "width": 1613,
+            "height": 1080
+          }
+        ],
+        "text": "Nach dem steilen 150m Abstieg nach Tierhag ging es für mich hier wieder am Hang entlang, damit ich wieder den Hinweg erreichen konnte."
+      },
+      {
+        "photos": [
+          {
+            "name": "018",
+            "alt": "Brüttental",
+            "date": "2023-05-21T12:26:57.000+02:00",
+            "width": 1920,
+            "height": 754
+          }
+        ],
+        "text": "Der Weg führt hierbei oberhalb des Brüttentals entlang."
+      },
+      {
+        "photos": [
+          {
+            "name": "019",
+            "alt": "Hangweg",
+            "date": "2023-05-21T12:34:23.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Und hier erreichte ich schon wieder den Hinweg, dem ich bis zurück zum Hulftegg folgte."
+      },
+      {
+        "photos": [
+          {
+            "name": "020",
+            "alt": "Hirzegg",
+            "date": "2023-05-21T12:57:25.000+02:00",
+            "width": 1920,
+            "height": 1061
+          }
+        ],
+        "text": "Auch am Hirzegg ging es wieder vorbei, aber diesmal sparte ich mir den Extraaufstieg."
+      },
+      {
+        "photos": [
+          {
+            "name": "021",
+            "alt": "Steiler Wegabschnitt",
+            "date": "2023-05-21T13:08:53.000+02:00",
+            "width": 1641,
+            "height": 1080
+          }
+        ],
+        "text": "Auch der steile Wegabschnitt am Roten musste ich natürlich wieder zurück."
+      },
+      {
+        "photos": [
+          {
+            "name": "022",
+            "alt": "Aelpli",
+            "date": "2023-05-21T13:48:00.000+02:00",
+            "width": 1920,
+            "height": 822
+          }
+        ],
+        "text": "Schließlich Ankunft am Bauernhof Aelpli. Hier könnte man theoretisch auch über den Berg dahinter gehen, um den langweiligen Waldweg zu vermeiden. Ich wählte aber auch hier den Hinweg."
+      },
+      {
+        "photos": [
+          {
+            "name": "023",
+            "alt": "Historischer Postbus Hulftegg",
+            "date": "2023-05-21T14:12:18.000+02:00",
+            "width": 1475,
+            "height": 1080
+          }
+        ],
+        "text": "Ankunft gegen 14:00 am Hulftegg, wo gerade ein historischer Postbus abfuhr. Ansonsten war der Parkplatz jetzt voll und jede Menge Motorräder hatten die Saison ebenfalls begonnen."
+      }
+    ],
+    "outro": "Fazit: Mit 14km und 500 Höhenmetern die einfachste der Wanderungen auf das Schnebelhorn. Der Beginn war nicht so interessant, aber ab Roten ist der Weg sehr schön. Einen richtigen Rundweg kann man vom Hulftegg aus aber nicht auf das Schnebelhorn unternehmen, man muss also immer den gleichen Weg zurück."
+  }
+]
