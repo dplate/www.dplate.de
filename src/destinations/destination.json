@@ -8,20 +8,16 @@
     "name": "Alviergruppe"
   },
   {
-    "destination": "gotthard",
-    "name": "Gotthardgebiet"
-  },
-  {
     "destination": "arlberg",
     "name": "Arlberg"
   },
   {
-    "destination": "brandnertal",
-    "name": "Brandnertal"
-  },
-  {
     "destination": "boedele",
     "name": "Bödele"
+  },
+  {
+    "destination": "brandnertal",
+    "name": "Brandnertal"
   },
   {
     "destination": "damuels",
@@ -32,12 +28,12 @@
     "name": "Davos"
   },
   {
-    "destination": "dolomiten",
-    "name": "Dolomiten"
-  },
-  {
     "destination": "disentis",
     "name": "Disentis"
+  },
+  {
+    "destination": "dolomiten",
+    "name": "Dolomiten"
   },
   {
     "destination": "ebnit",
@@ -53,12 +49,16 @@
     "name": "Flumserberg"
   },
   {
-    "destination": "fronalpstock",
-    "name": "Fronalpstock"
-  },
-  {
     "destination": "gargellen",
     "name": "Gargellen"
+  },
+  {
+    "destination": "glarus",
+    "name": "Glarus"
+  },
+  {
+    "destination": "gotthard",
+    "name": "Gotthardgebiet"
   },
   {
     "destination": "grasgehren",
@@ -93,10 +93,6 @@
   {
     "destination": "montafon",
     "name": "Silvretta-Montafon"
-  },
-  {
-    "destination": "murgseen",
-    "name": "Murgseen"
   },
   {
     "destination": "obersaxen",
@@ -137,5 +133,9 @@
     "name": "Toggenburg",
     "skiTeaser": true,
     "hikeTeaser": true
+  },
+  {
+    "destination": "vals",
+    "name": "Vals"
   }
 ]

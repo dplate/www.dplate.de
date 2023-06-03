@@ -1,0 +1,678 @@
+[
+  {
+    "destination": "glarus",
+    "date": "d20230527",
+    "type": "hike",
+    "track": true,
+    "detailMap": "swiss",
+    "shortTitle": "Mürtschenfurggel",
+    "title": "Talalpsee - Mürtschenfurggel",
+    "title3d": {
+      "offsetY": 0,
+      "fontSize": 7.5,
+      "align": "left",
+      "width": 1920,
+      "height": 545
+    },
+    "movie": "1GurRrtTaYE",
+    "intro": "Als erste größere Wanderung der Saison hatte ich mir eine nicht zu hohe Tour rund um den Mürtschenstock südlich des Walensees ausgesucht.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Parkplatz Talalpsee",
+            "date": "2023-05-27T08:15:58.000+02:00",
+            "width": 1773,
+            "height": 1080
+          }
+        ],
+        "text": "Als Startpunkt wählte ich den Parkplatz am Talalpsee, den man von Filzbach über eine schmale einspurige Straße erreichen kann. Die Parkgebühr für einen Tag beträgt 7CHF, die man am Automaten am Anfang der Straße bezahlen muss.<br />Zu Fuß weiter ging es dann für mich um 8:15, hier der Blick Richtung Talalpsee. Da ich mich aber entschied im Uhrzeigersinn um den Mürtschenstock (der hier ganz links zu sehen ist) zu gehen, sollte ich erst am Ende der Wanderung zum See kommen."
+      },
+      {
+        "photos": [
+          {
+            "name": "002",
+            "alt": "Wurzel mit Moos",
+            "date": "2023-05-27T08:19:00.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Vom Parkplatz ging ich also zuerst wieder in die komplett andere Richtung nach Norden, zu Beginn auf einem Forstweg."
+      },
+      {
+        "photos": [
+          {
+            "name": "003",
+            "alt": "Weg über nasses Gras",
+            "date": "2023-05-27T08:22:44.000+02:00",
+            "width": 1920,
+            "height": 1044
+          }
+        ],
+        "text": "Bereits kurze Zeit später ging es auf fast unsichtbarem Weg über diese vom Tau nasse Wiese etwas bergauf."
+      },
+      {
+        "photos": [
+          {
+            "name": "004",
+            "alt": "Steiler Feldweg",
+            "date": "2023-05-27T08:35:30.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Und auf der Rückseite auf einem Feldweg leider gut 100 Höhenmeter bergab (nicht so steil, wie es das Schild suggeriert). Es ist immer etwas seltsam, die Wanderung mit einem Abstieg zu beginnen, aber ich wusste nicht, ob man stattdessen hier irgendwo hätte parken können (wahrscheinlich ja)."
+      },
+      {
+        "photos": [
+          {
+            "name": "005",
+            "alt": "Hüttenberg",
+            "date": "2023-05-27T08:44:59.000+02:00",
+            "width": 1920,
+            "height": 920
+          }
+        ],
+        "text": "Auf asphaltierter Straße ging es weiter leicht ansteigend über die Weiden von Hüttenberg. Der Blick geht über über den Walensee hinweg zum <a href='/alpine/toggenburg/20180616' target='_blank'>Gulmen</a>."
+      },
+      {
+        "photos": [
+          {
+            "name": "006",
+            "alt": "Rauschender Bach",
+            "date": "2023-05-27T08:56:48.000+02:00",
+            "width": 779,
+            "height": 1080
+          }
+        ],
+        "text": "Und hinweg über einen rauschenden Bach, der dank Schneeschmelze ordentlich sprudelte."
+      },
+      {
+        "photos": [
+          {
+            "name": "007",
+            "alt": "Alter Laubbaum mit Wegzeichen",
+            "date": "2023-05-27T09:10:53.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Dann war es aber Schluss mit der gemütlichen Wanderung und der Weg ging ziemlich steil und anstrengend im Wald bergauf. Dabei kürzte er immer die langen Serpentinen dieser Fahrstraße ab."
+      },
+      {
+        "photos": [
+          {
+            "name": "008",
+            "alt": "Welterbe Sardona",
+            "date": "2023-05-27T09:13:05.000+02:00",
+            "width": 1641,
+            "height": 1080
+          }
+        ],
+        "text": "Groß vermarktet wird in dieser Gegend das Welterbe Sardona, das ich nun betrat. Hat mich schon etwas gewundert, dieses aufwändig im Boden eingelassene Schild zu finden, da der Wanderweg nicht all zu viel begangen schien."
+      },
+      {
+        "photos": [
+          {
+            "name": "009",
+            "alt": "Aufstieg im Morgenlicht",
+            "date": "2023-05-27T09:30:32.000+02:00",
+            "width": 1919,
+            "height": 1080
+          }
+        ],
+        "text": "Ab und zu ging es beim Aufstieg (habe ich schon erwähnt, dass es anstrengend war) auch über Wiesen."
+      },
+      {
+        "photos": [
+          {
+            "name": "010",
+            "alt": "Kleiner Wasserfall",
+            "date": "2023-05-27T09:47:58.000+02:00",
+            "width": 1578,
+            "height": 1080
+          }
+        ],
+        "text": "Bei der letzten der Serpentinen geht der offizielle Wanderweg seltsamerweise auf der Straße, obwohl dort die ebenfalls vorhandene Abkürzung schön am Bach entlang führt. Keine Ahnung, warum man dort plötzlich die Straße wählen sollte..."
+      },
+      {
+        "photos": [
+          {
+            "name": "011",
+            "alt": "Bergweg mit Mürtschenstock",
+            "date": "2023-05-27T09:55:32.000+02:00",
+            "width": 1616,
+            "height": 1080
+          }
+        ],
+        "text": "Nach 500m Aufstieg von Hüttenberg erreichte ich die Alp Meerenboden. Mit der Waldgrenze wurde die Landschaft auch gleich alpiner und der Weg deutlich schöner. Außerdem hört dort die Fahrstraße auf.<br />Hier im Hintergrund ist der Mürtschenstock zu sehen, an dem ich links vorbei wollte. Es folgten also noch ein paar Höhenmeter."
+      },
+      {
+        "photos": [
+          {
+            "name": "012",
+            "alt": "Tugsteinhoren",
+            "date": "2023-05-27T10:02:21.000+02:00",
+            "width": 1920,
+            "height": 1028
+          }
+        ],
+        "text": "Blick hinauf zu einem kleinen Felsenstreifen mit vielen Höhlen, laut Karte die Tugsteinhoren."
+      },
+      {
+        "photos": [
+          {
+            "name": "013",
+            "alt": "Alp Meerenboden",
+            "date": "2023-05-27T10:04:17.000+02:00",
+            "width": 1920,
+            "height": 1051
+          }
+        ],
+        "text": "Blick zurück über die Alp Meerenboden."
+      },
+      {
+        "photos": [
+          {
+            "name": "014",
+            "alt": "Aufstieg über Schneefeld",
+            "date": "2023-05-27T10:21:16.000+02:00",
+            "width": 791,
+            "height": 1080
+          }
+        ],
+        "text": "Mein aktuelles Ziel war der Pass Robmen, ein 1750m hoher Übergang in das Mürtschental. Nur ganz am Schluss hatte ich hier noch dieses Schneefeld - da der Schnee schon weich war, hatte ich genug halt."
+      },
+      {
+        "photos": [
+          {
+            "name": "015",
+            "alt": "Schutzhütte Robmen",
+            "date": "2023-05-27T10:23:38.000+02:00",
+            "width": 1920,
+            "height": 899
+          }
+        ],
+        "text": "Nach insgesamt 2h Wanderung mit hauptsächlich Aufstieg hatte ich die kleine Schutzhütte auf Robmen erreicht. Im Hintergrund die noch sehr weißen Berge rund um das Mürtschental."
+      },
+      {
+        "photos": [
+          {
+            "name": "016",
+            "alt": "Mürtschental",
+            "date": "2023-05-27T10:31:49.000+02:00",
+            "width": 1712,
+            "height": 1080
+          }
+        ],
+        "text": "Und hier nun der Blick in das malerische Mürtschental. Endlich Gelegenheit für eine erste Pause."
+      },
+      {
+        "photos": [
+          {
+            "name": "017",
+            "alt": "Waldreservat Mürtschental",
+            "date": "2023-05-27T10:42:44.000+02:00",
+            "width": 1920,
+            "height": 760
+          }
+        ],
+        "text": "Überblick über das Mürtschental. Für mich ging es rechts am Hang entlang weiter, so dass ich praktisch keine Höhe verlor."
+      },
+      {
+        "photos": [
+          {
+            "name": "018",
+            "alt": "Wanderung Mürtschental",
+            "date": "2023-05-27T10:53:04.000+02:00",
+            "width": 720,
+            "height": 1080
+          }
+        ],
+        "text": "Eine etwas mitgenommene Tanne am Wegrand. Der Pfad war nun zwar deutlich schmaler, aber der Hang ist nicht besonders steil."
+      },
+      {
+        "photos": [
+          {
+            "name": "019",
+            "alt": "Wanderweg Murgseen",
+            "date": "2023-05-27T10:55:07.000+02:00",
+            "width": 1920,
+            "height": 989
+          }
+        ],
+        "text": "Blick hinab ins Tal. Unten kann man den beliebten <a href='/alpine/glarus/20160709' target='_blank'>Rundwanderweg zu den Murgseen</a> sehen, auf dem auch einige unterwegs waren. Ich war dagegen noch keinem Wanderer begegnet."
+      },
+      {
+        "photos": [
+          {
+            "name": "020",
+            "alt": "Rundwanderung Mürtschenstock",
+            "date": "2023-05-27T10:57:29.000+02:00",
+            "width": 1824,
+            "height": 1080
+          }
+        ],
+        "text": "Aussicht bei der Hangquerung das Tal hinab. Links durch die kleine Lücke kam ich hier her."
+      },
+      {
+        "photos": [
+          {
+            "name": "021",
+            "alt": "Schmaler Hangweg",
+            "date": "2023-05-27T11:01:31.000+02:00",
+            "width": 1751,
+            "height": 1080
+          }
+        ],
+        "text": "Recht schnell kam ich dem Ende des Tals, und damit den schneebedeckten Bergen, näher."
+      },
+      {
+        "photos": [
+          {
+            "name": "022",
+            "alt": "Sandglöckchen",
+            "date": "2023-05-27T11:02:02.000+02:00",
+            "width": 1315,
+            "height": 1080
+          }
+        ],
+        "text": "Die kleinen Sandglöckchen gab es an diesem Tag sehr häufig zu sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "023",
+            "alt": "Alpenblumen",
+            "date": "2023-05-27T11:04:19.000+02:00",
+            "width": 1833,
+            "height": 1080
+          }
+        ],
+        "text": "Und hier ein schöner Mix aus Enzian, Primel und Fettkraut."
+      },
+      {
+        "photos": [
+          {
+            "name": "024",
+            "alt": "Wanderweg Sardona",
+            "date": "2023-05-27T11:05:38.000+02:00",
+            "width": 1072,
+            "height": 1080
+          }
+        ],
+        "text": "Ein wirklich hübscher Wegabschnitt, der aber auch die ganze Zeit etwas hoch und runter ging. Auf der Karte sah es total eben aus."
+      },
+      {
+        "photos": [
+          {
+            "name": "025",
+            "alt": "Wanderung Glarus",
+            "date": "2023-05-27T11:21:10.000+02:00",
+            "width": 1715,
+            "height": 1080
+          }
+        ],
+        "text": "Noch ein letzter Blick zurück in diesem Tal."
+      },
+      {
+        "photos": [
+          {
+            "name": "026",
+            "alt": "Schwarzstöckli",
+            "date": "2023-05-27T11:23:02.000+02:00",
+            "width": 1748,
+            "height": 1080
+          }
+        ],
+        "text": "Vorbei an einem kleinen Hochmoor hatte ich hier fast das Ende des Tals erreicht."
+      },
+      {
+        "photos": [
+          {
+            "name": "027",
+            "alt": "Ober Mürtschenalp",
+            "date": "2023-05-27T11:31:00.000+02:00",
+            "width": 1920,
+            "height": 1015
+          }
+        ],
+        "text": "In einem Talkessel befindet sich dort die Ober Mürtschenalp. Hinten links geht der Wanderweg zu den Murgseen. Die Wanderer, die dort hin unterwegs waren, musste also noch ganz schön durch den Schnee stapfen."
+      },
+      {
+        "photos": [
+          {
+            "name": "028",
+            "alt": "Frühlingswanderung im Schnee",
+            "date": "2023-05-27T11:42:42.000+02:00",
+            "width": 1490,
+            "height": 1080
+          },
+          {
+            "name": "029",
+            "alt": "Aufstieg zum Mürtschenfurgglen",
+            "date": "2023-05-27T11:44:28.000+02:00",
+            "width": 1616,
+            "height": 1080
+          }
+        ],
+        "text": "Auch auf meinem (kleinen) Aufstieg zum Mürtschenfurggel musste ich zwei Schneefelder überqueren. Da hatte ich schon etwas bedenken, weil dies die Südseite des Passes ist und ich wusste nicht genau, wie steil er auf der Nordseite ist."
+      },
+      {
+        "photos": [
+          {
+            "name": "030",
+            "alt": "Mürtschenfurggel",
+            "date": "2023-05-27T11:48:06.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Um kurz vor 12 war ich dann am Ziel meiner Wanderung angekommen, der Mürtschenfurggel mit 1800m Höhe. Dank des Schnees kam ich mir trotz der eigentlich geringen Höhe recht weit oben vor. ;) Nächstes Ziel für mich war nun die Alp Hummel."
+      },
+      {
+        "photos": [
+          {
+            "name": "031",
+            "alt": "Aussicht Mürtschenfurggel",
+            "date": "2023-05-27T11:49:31.000+02:00",
+            "width": 1920,
+            "height": 893
+          }
+        ],
+        "text": "Aber zuerst eine länger Pause auf einem trockenen Wiesenfleck. Hier der Blick auf meinen weiteren Weg. Ganz rechts ist wieder ein Stück des Mürtschenstocks zu sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "032",
+            "alt": "Schmelzwasser",
+            "date": "2023-05-27T12:11:25.000+02:00",
+            "width": 1436,
+            "height": 1080
+          }
+        ],
+        "text": "Beim Abstieg musste ich zu Beginn etwas vorsichtig sein, da der Bach unter dem Schnee floss und man nie genau wusste, wo sich unter dem Schnee bereits Höhlen gebildet hatten. Es war nicht gefährlich, aber wer will schon ständig Schnee in den Schuhen haben..."
+      },
+      {
+        "photos": [
+          {
+            "name": "033",
+            "alt": "Wanderweg mit Schneefeldern",
+            "date": "2023-05-27T12:15:18.000+02:00",
+            "width": 1627,
+            "height": 1080
+          }
+        ],
+        "text": "Der Abstieg ging schön abwechslungsreich zwischen dem Karstgebiet (links) und den Schotterhängen des Mürtschenstocks (rechts) entlang. Hier begegnete ich auch den ersten anderen Wanderern, die mir entgegen kamen. Ab hier gab es also deutliche Spuren im Schnee und man konnte sehen, wo die Schneedecke nicht tragfähig genug war. ;)"
+      },
+      {
+        "photos": [
+          {
+            "name": "034",
+            "alt": "Weg über Geröll",
+            "date": "2023-05-27T12:26:43.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Blick zurück zur Mürtschenfurggel."
+      },
+      {
+        "photos": [
+          {
+            "name": "035",
+            "alt": "Fronalpstock",
+            "date": "2023-05-27T12:33:12.000+02:00",
+            "width": 1920,
+            "height": 997
+          }
+        ],
+        "text": "Hier verließ ich dann den Schnee und links tauchte der toll geformte Fronalpstock auf."
+      },
+      {
+        "photos": [
+          {
+            "name": "036",
+            "alt": "Alp Hummel",
+            "date": "2023-05-27T12:36:15.000+02:00",
+            "width": 1526,
+            "height": 1080
+          }
+        ],
+        "text": "Schnell war ich an der Alp Hummel angekommen. Der Rest meiner Runde ging es nun dieses Tal hinab."
+      },
+      {
+        "photos": [
+          {
+            "name": "037",
+            "alt": "Alpen Landschaft",
+            "date": "2023-05-27T12:48:16.000+02:00",
+            "width": 1901,
+            "height": 1080
+          }
+        ],
+        "text": "Noch eine weitere Pause auf einer schattigen Bank mit schönem Blick auf die Alp Hummel und den Fronalpstock. Nun war ich auf mir bereits bekanntem Weg, dem <a href='/alpine/glarus/20160716' target='_blank'>Geo-Phänomene-Weg</a>, der praktisch um den Fronalpstock herum führt."
+      },
+      {
+        "photos": [
+          {
+            "name": "038",
+            "alt": "Alpweg",
+            "date": "2023-05-27T12:49:01.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Der Weg war nun breit, denn es ist der Zugang zur Alp Hummel. Immer rechts auf dieser Wanderung der Mürtschenstock."
+      },
+      {
+        "photos": [
+          {
+            "name": "039",
+            "alt": "Spaneggsee mit Fronalpstock",
+            "date": "2023-05-27T12:56:16.000+02:00",
+            "width": 1872,
+            "height": 1080
+          }
+        ],
+        "text": "Unterhalb des Wegs befindet sich der Spaneggsee. Hätte ich etwas aufgepasst, hätte ich von der Alp Hummel auch dorthin absteigen können und dann am See vorbeilaufen können (mit etwas Extrahöhenmetern)."
+      },
+      {
+        "photos": [
+          {
+            "name": "040",
+            "alt": "Wanderung Spaneggsee",
+            "date": "2023-05-27T13:08:02.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Und noch ein Blick auf den malerischen Spaneggsee. Jetzt lies ich mir wirklich viel Zeit, denn das Ende der Wanderung war absehbar."
+      },
+      {
+        "photos": [
+          {
+            "name": "041",
+            "alt": "Steiler Treppenweg",
+            "date": "2023-05-27T13:28:42.000+02:00",
+            "width": 1685,
+            "height": 1080
+          }
+        ],
+        "text": "Der Spaneggsee hat keinen oberirdischen Abfluss, deshalb geht auch der Weg über einen Talriegel und dann anschließend steil hinab. Der Weg ist aber mit vielen Treppenstufen gut ausgebaut. Den vielen entgegenkommenden Wanderern war es eindeutig zu warm und anstrengend."
+      },
+      {
+        "photos": [
+          {
+            "name": "042",
+            "alt": "In Fels gehauener Weg",
+            "date": "2023-05-27T13:32:29.000+02:00",
+            "width": 1866,
+            "height": 1080
+          }
+        ],
+        "text": "Kurz vor dem Talgrund geht der Weg auch noch an einem Felsen vorbei und der Abgrund ist mit Drahtseil abgesichert."
+      },
+      {
+        "photos": [
+          {
+            "name": "043",
+            "alt": "Filzbach Wanderungen",
+            "date": "2023-05-27T13:40:51.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Unterhalb des Talriegels ist die Landschaft dann wieder harmlos und flach. Ganz klein ist hier schon der Talalpsee zu sehen - es war also wirklich nicht mehr weit."
+      },
+      {
+        "photos": [
+          {
+            "name": "044",
+            "alt": "Hellloch Doline",
+            "date": "2023-05-27T13:45:52.000+02:00",
+            "width": 1872,
+            "height": 1080
+          }
+        ],
+        "text": "Hier machte ich noch einen kleinen Abstecher zur Hellloch Doline, ein tiefes Loch mitten auf einer Wiese, verursacht durch den Einbruch einer Höhle."
+      },
+      {
+        "photos": [
+          {
+            "name": "045",
+            "alt": "Wolken über Mürtschenstock",
+            "date": "2023-05-27T13:53:12.000+02:00",
+            "width": 1616,
+            "height": 1080
+          }
+        ],
+        "text": "Blick hinauf zu dem Wolken um den Mürtschenstock. Auf der ganzen Wanderung um diesen Berg konnte ich immer nur kleine Abschnitte des Massivs sehen, da der Weg zu direkt daran vorbei führt."
+      },
+      {
+        "photos": [
+          {
+            "name": "046",
+            "alt": "Bagger an Transportseilbahn",
+            "date": "2023-05-27T14:08:58.000+02:00",
+            "width": 1920,
+            "height": 1061
+          }
+        ],
+        "text": "Hier wartete ich kurz auf die Abfahrt dieses, an einer Transportseilbahn gehängten, Baggers (inkl. Baggerfahrers). Die Bahn führt auf den Talriegel und der Bagger war wahrscheinlich auf dem Weg zur Alp Hummel."
+      },
+      {
+        "photos": [
+          {
+            "name": "047",
+            "alt": "Spaziergang Talalpsee",
+            "date": "2023-05-27T14:22:16.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Zum Schluss ging es auf flachem Feldweg weiter zum Talalpsee."
+      },
+      {
+        "photos": [
+          {
+            "name": "048",
+            "alt": "Alp im Sonnenlicht",
+            "date": "2023-05-27T14:24:01.000+02:00",
+            "width": 1613,
+            "height": 1080
+          }
+        ],
+        "text": "Noch ein Blick zurück zu einer weiteren Alp und dem Talriegel, hinter dem sich der Spaneggsee befindet."
+      },
+      {
+        "photos": [
+          {
+            "name": "049",
+            "alt": "Talalpsee",
+            "date": "2023-05-27T14:28:30.000+02:00",
+            "width": 1899,
+            "height": 1080
+          }
+        ],
+        "text": "Der Talalpsee. An diesem Tag noch eindeutig zu kalt, aber sonst kann man hier schön baden. Heute wurde der Ufer des Sees vor allem zum Grillen benutzt."
+      },
+      {
+        "photos": [
+          {
+            "name": "050",
+            "alt": "Höhlen am Talalpsee",
+            "date": "2023-05-27T14:33:25.000+02:00",
+            "width": 948,
+            "height": 1080
+          }
+        ],
+        "text": "Ein weiterer geologischer Abstecher hinauf zu den Höhlen oberhalb des Talalpsees."
+      },
+      {
+        "photos": [
+          {
+            "name": "051",
+            "alt": "Blick aus Höhle",
+            "date": "2023-05-27T14:35:00.000+02:00",
+            "width": 785,
+            "height": 1080
+          }
+        ],
+        "text": "Nicht besonders spektakulär. Aber wie gesagt, ich hatte noch viel Zeit."
+      },
+      {
+        "photos": [
+          {
+            "name": "052",
+            "alt": "Rundweg Talalpsee",
+            "date": "2023-05-27T14:41:18.000+02:00",
+            "width": 1694,
+            "height": 1080
+          }
+        ],
+        "text": "Die Sonnenstrahlen wurden nun rarer, als ich die letzten Meter am See entlang lief."
+      },
+      {
+        "photos": [
+          {
+            "name": "053",
+            "alt": "Bergsee",
+            "date": "2023-05-27T14:49:40.000+02:00",
+            "width": 1920,
+            "height": 1007
+          }
+        ],
+        "text": "Blick vom Ende des Sees zurück. Die Höhlen befinden sich rechts im Felsen."
+      },
+      {
+        "photos": [
+          {
+            "name": "054",
+            "alt": "Restaurant Talalpsee",
+            "date": "2023-05-27T14:54:47.000+02:00",
+            "width": 1920,
+            "height": 1002
+          }
+        ],
+        "text": "Am Talalpsee befindet sich auch dieses (kleine) Gasthaus."
+      },
+      {
+        "photos": [
+          {
+            "name": "055",
+            "alt": "Straße Talalpsee",
+            "date": "2023-05-27T15:09:32.000+02:00",
+            "width": 1920,
+            "height": 1041
+          }
+        ],
+        "text": "Das Auto erreichte ich um 15:00. Abfahrt dann wieder auf der einspurigen Straße - begleitet von vielen Trottinettes, die von der Sesselbahn Kerenzerberg hinabfuhren."
+      }
+    ],
+    "outro": "Fazit: Schöne mittellange Wanderung, die man auch im Frühling und Spätherbst bei etwas Schnee machen kann, da es nie wirklich steil und hoch ist. Evt. ist es besser die Runde andersherum zu machen. Dann hat man zwar am Ende noch einen kleinen Aufstieg, dafür kann man aber am Morgen den interessanteren Weg bergauf erleben und den etwas langweiligen Abstieg (meinen Aufstieg) schneller hinter sich bringen.<br />Insgesamt waren es 1000 Höhenmeter rauf und runter auf 16km Wegstrecke."
+  }
+]
