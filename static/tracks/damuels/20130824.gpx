@@ -6,6 +6,10 @@ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/
 <trk>
   <name>ACTIVE LOG092240</name>
   <trkseg>
+  <trkpt lat="47.28633996089627" lon="9.887753105939096">
+    <ele>1369.7619999999999</ele>
+    <time>2013-08-24T07:30:03Z</time>
+  </trkpt>
   <trkpt lat="47.299582999999998" lon="9.8914939999999998">
     <ele>1769.7619999999999</ele>
     <time>2013-08-24T07:49:03Z</time>

@@ -7,13 +7,21 @@
     "detailMap": "austria",
     "shortTitle": "Sünser Spitze",
     "title": "Damüls - Sünser Spitze",
-    "movie": "hhObOH2ylMI",
+    "title3d": {
+      "offsetY": 3,
+      "fontSize": 8,
+      "align": "left",
+      "width": 1920,
+      "height": 693
+    },
+    "movie": "lo-f7rr3MKA",
     "intro": "Wandertag in Damüls. Auf Grund der anrückenden Kaltfront früher Aufbruch um 7:30 am Bodensee. Nach gut 1.5h Fahrt, unter anderem über das einspurige (im Winter geschlossene) Furkajoch, Ankunft in der Talstation des Uga-Express in Damüls. Bergfahrt (8.80€) mit der gefühlt 1m/s schnellen Vierer-Sesselbahn auf die 1800m hohe Elsenalpe.<br />\nAnschließend weiter zu Fuss vorbei an der Mittagsspitze entlang der Zweier-Sesselbahn Hohes Licht zum Hochblanken.",
     "landmarks": [
       {
         "photos": [
           {
             "name": "002",
+            "alt": "Wanderweg Hochblanken",
             "date": "2013-08-24T10:40:13.000+02:00",
             "width": 1920,
             "height": 686
@@ -26,6 +34,7 @@
         "photos": [
           {
             "name": "003",
+            "alt": "Aussicht Hochblanken",
             "date": "2013-08-24T10:47:50.000+02:00",
             "width": 1920,
             "height": 735
@@ -38,6 +47,7 @@
         "photos": [
           {
             "name": "007",
+            "alt": "Hochblanken",
             "date": "2013-08-24T11:01:57.000+02:00",
             "width": 1920,
             "height": 880
@@ -50,6 +60,7 @@
         "photos": [
           {
             "name": "008",
+            "alt": "Weg an der Abbruchkante",
             "date": "2013-08-24T11:03:51.000+02:00",
             "width": 1211,
             "height": 1080
@@ -62,6 +73,7 @@
         "photos": [
           {
             "name": "012",
+            "alt": "Rundwanderung Damüls",
             "date": "2013-08-24T11:37:35.000+02:00",
             "width": 1920,
             "height": 984
@@ -74,6 +86,7 @@
         "photos": [
           {
             "name": "013",
+            "alt": "Hochmoor",
             "date": "2013-08-24T11:38:42.000+02:00",
             "width": 1920,
             "height": 729
@@ -86,12 +99,14 @@
         "photos": [
           {
             "name": "014",
+            "alt": "Felsformation",
             "date": "2013-08-24T11:40:03.000+02:00",
             "width": 1620,
             "height": 1080
           },
           {
             "name": "015",
+            "alt": "Tiefblick Richtung Mellau",
             "date": "2013-08-24T11:40:24.000+02:00",
             "width": 720,
             "height": 1080
@@ -104,6 +119,7 @@
         "photos": [
           {
             "name": "017",
+            "alt": "Sünser Alp",
             "date": "2013-08-24T11:49:12.000+02:00",
             "width": 1920,
             "height": 502
@@ -116,6 +132,7 @@
         "photos": [
           {
             "name": "018",
+            "alt": "Bergweg Damüls",
             "date": "2013-08-24T11:50:59.000+02:00",
             "width": 1620,
             "height": 1080
@@ -128,6 +145,7 @@
         "photos": [
           {
             "name": "022",
+            "alt": "Panorama Sünser Spitze",
             "date": "2013-08-24T12:09:07.000+02:00",
             "width": 1920,
             "height": 461
@@ -140,6 +158,7 @@
         "photos": [
           {
             "name": "023",
+            "alt": "Gipfel von Damüls",
             "date": "2013-08-24T12:20:04.000+02:00",
             "width": 1620,
             "height": 1080
@@ -152,6 +171,7 @@
         "photos": [
           {
             "name": "025",
+            "alt": "Sünser See",
             "date": "2013-08-24T12:51:46.000+02:00",
             "width": 1920,
             "height": 982
@@ -164,6 +184,7 @@
         "photos": [
           {
             "name": "031",
+            "alt": "Abstieg über Sunnegg",
             "date": "2013-08-24T14:02:19.000+02:00",
             "width": 1920,
             "height": 774
