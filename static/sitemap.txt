@@ -19,7 +19,7 @@ https://www.dplate.de/alpine/disentis
 https://www.dplate.de/alpine/ebnit
 https://www.dplate.de/alpine/feldberg
 https://www.dplate.de/alpine/flumserberg
-https://www.dplate.de/alpine/fronalpstock
+https://www.dplate.de/alpine/glarus
 https://www.dplate.de/alpine/gargellen
 https://www.dplate.de/alpine/gotthard
 https://www.dplate.de/alpine/grasgehren
@@ -30,7 +30,6 @@ https://www.dplate.de/alpine/laterns
 https://www.dplate.de/alpine/lenzerheide
 https://www.dplate.de/alpine/malbun
 https://www.dplate.de/alpine/montafon
-https://www.dplate.de/alpine/murgseen
 https://www.dplate.de/alpine/obersaxen
 https://www.dplate.de/alpine/pilatus
 https://www.dplate.de/alpine/pizol
@@ -45,9 +44,9 @@ https://www.dplate.de/alpine/lenzerheide/20161029
 https://www.dplate.de/alpine/malbun/20161016
 https://www.dplate.de/alpine/alpstein/20160911
 https://www.dplate.de/alpine/toggenburg/20160813
-https://www.dplate.de/alpine/murgseen/20160709
+https://www.dplate.de/alpine/glarus/20160709
 https://www.dplate.de/alpine/alpstein/20160730
-https://www.dplate.de/alpine/fronalpstock/20160716
+https://www.dplate.de/alpine/glarus/20160716
 https://www.dplate.de/alpine/kaunertal/20151124
 https://www.dplate.de/alpine/praettigau/20151031
 https://www.dplate.de/alpine/alpstein/20151024
