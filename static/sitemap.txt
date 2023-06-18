@@ -231,3 +231,4 @@ https://www.dplate.de/alpine/alpstein/20230107
 https://www.dplate.de/alpine/alpstein/20230129
 https://www.dplate.de/alpine/toggenburg/20230521
 https://www.dplate.de/alpine/glarus/20230527
+https://www.dplate.de/alpine/brandnertal/20230617
