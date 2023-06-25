@@ -1,0 +1,638 @@
+[
+  {
+    "destination": "glarus",
+    "date": "d20230624",
+    "type": "hike",
+    "track": true,
+    "detailMap": "swiss",
+    "shortTitle": "Leglerhütte",
+    "title": "Mettmen - Leglerhütte",
+    "title3d": {
+      "offsetY": 4,
+      "fontSize": 8,
+      "align": "left",
+      "width": 1920,
+      "height": 589
+    },
+    "movie": "XsI_HWxw28M",
+    "intro": "Nach einer gewrittrigen Woche wurden pünktlich das Wetter zum Wochenende stabiler und ich konnte an diesem Samstag eine Wanderung im Kanton Glarus unternehmen, genauer von Mettmen zur Leglerhütte.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Park & Ride zur Mettmenalp",
+            "date": "2023-06-24T07:19:13.000+02:00",
+            "width": 1920,
+            "height": 989
+          }
+        ],
+        "text": "Schon bekannt war mir, dass man die Straße zur Talstation der Seilbahn Mettmen auf Grund eines Erdrutsches dieses Jahr nicht mit dem Auto befahren kann. Die etwas abenteuerliche Umleitungsstrecke über Tannenberg darf nur von einem Ersatzbus befahren werden, der aber am Wochenende jede halbe Stunde fährt.<br />Überpünktlich traf ich auf dem großen (temporär eingerichteten) Park & Ride Parkplatz in Schwanden Däniberg ein, um den ersten Bus um 7:30 zu bekommen. Der Bus kam schon gut gefüllt vom Bahnhof Schwanden, ich konnte aber trotzdem noch einen Sitzplatz ergattern. An den weiteren Haltestellen in Schwanden stiegen dann noch Leute zu und der Bus war komplett überfüllt.<br />Auf schmaler einspuriger Serpentinenstraße quälte sich der normale Stadtbus nach Tannenberg hinauf und dann auf unasphaltierter Straße hinab ins Tal nach Kies, wo sich die Talstation der Seilbahn befindet. Insgesamt dauerte die Fahrt 35min. Auf der normalen Straße wäre man wahrscheinlich in 10min oben.<br />Für die Fahrt hatte ich mir eine Zonentageskarte für 6,40 CHF gekauft."
+      },
+      {
+        "photos": [
+          {
+            "name": "002",
+            "alt": "Luftseilbahn Mettmen",
+            "date": "2023-06-24T08:12:08.000+02:00",
+            "width": 1438,
+            "height": 1080
+          }
+        ],
+        "text": "Zum Glück saß ich nah an der Tür, so konnte ich mir recht schnell den Fahrschein für die Seilbahn für weitere 15 CHF kaufen. Die einzige Angestellte hatte nun einiges zu tun, musste sie doch der ganzen Busladung Tickets verkaufen und parallel noch die Seilbahn bedienen. Denn diese ist so klein, dass sie sicher 3-4 mal fahren musste, um alle aus dem Bus nach oben zu bringen.<br />Die Fahrt mit der kleinen Bahn geht aber sehr schnell, denn sie führt steil und ohne Stützen den Hang hinauf."
+      },
+      {
+        "photos": [
+          {
+            "name": "003",
+            "alt": "Berghotel Mettmen",
+            "date": "2023-06-24T08:20:23.000+02:00",
+            "width": 1614,
+            "height": 1080
+          }
+        ],
+        "text": "Die Seilbahn endet an dem ziemlich großen Berghotel Mettmen, von dort kann man entweder zum Naturfreundehaus (mit Gaststätte) oder (wie ich) weiter hinauf zur Staumauer gehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "004",
+            "alt": "Stausee Garichti",
+            "date": "2023-06-24T08:25:24.000+02:00",
+            "width": 1920,
+            "height": 959
+          },
+          {
+            "name": "005",
+            "alt": "See Mettmenalp",
+            "date": "2023-06-24T08:25:42.000+02:00",
+            "width": 1691,
+            "height": 1080
+          }
+        ],
+        "text": "Und hier habe ich bereits die Staumauer des Stausees Garichti überquert. Der See sah leider nicht so schön aus, da ihm rund 10m Wasserhöhe fehlten."
+      },
+      {
+        "photos": [
+          {
+            "name": "006",
+            "alt": "Kühe auf Wanderweg",
+            "date": "2023-06-24T08:30:47.000+02:00",
+            "width": 1304,
+            "height": 1080
+          }
+        ],
+        "text": "Kaum über die Mauer verließ ich aber bereits den See und lief nun flott ansteigend den Hang hinauf. Gerade wurden die Kühe hier auf die Weide gelassen und machten mir nur zögerlich Platz."
+      },
+      {
+        "photos": [
+          {
+            "name": "007",
+            "alt": "Alpenrosen",
+            "date": "2023-06-24T08:42:06.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "008",
+            "alt": "Wanderweg mit Alpenrosen",
+            "date": "2023-06-24T08:44:05.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Der Weg hinauf zum Matzlenfurggelen war gesäumt von Alpenrosen. Auch begegnete ich noch einer Gämse, die aber leider kamerascheu war."
+      },
+      {
+        "photos": [
+          {
+            "name": "009",
+            "alt": "Matzlenfurggelen",
+            "date": "2023-06-24T08:58:35.000+02:00",
+            "width": 1825,
+            "height": 1080
+          }
+        ],
+        "text": "Nach 40min Aufstieg erreichte ich die Matzlenfurggelen. Wer ganz genau hinschaut, kann auf der Felsnase dahinter bereits die Leglerhütte erahnen."
+      },
+      {
+        "photos": [
+          {
+            "name": "010",
+            "alt": "Wanderung Matzlenstock",
+            "date": "2023-06-24T09:06:18.000+02:00",
+            "width": 1833,
+            "height": 1080
+          },
+          {
+            "name": "011",
+            "alt": "Matzlenstock",
+            "date": "2023-06-24T09:07:29.000+02:00",
+            "width": 1920,
+            "height": 855
+          }
+        ],
+        "text": "Von dem kleinen Pass machte ich noch einen Abstecher auf den daneben liegenden Matzlenstock. Die 60 zusätzlichen Höhenmeter sind schnell geschafft und die Aussicht ist toll."
+      },
+      {
+        "photos": [
+          {
+            "name": "012",
+            "alt": "Aussicht Matzlenstock",
+            "date": "2023-06-24T09:11:19.000+02:00",
+            "width": 1920,
+            "height": 962
+          }
+        ],
+        "text": "Blick zurück und auf meinen weiteren Weg. Der hohe Berg hinten ist der 2800m hohe Kärpf. An dessen rechter Flanke liegt die Leglerhütte. Meinen Abstieg von dort wollte ich über den Wiesengrat rechts im Bild machen."
+      },
+      {
+        "photos": [
+          {
+            "name": "013",
+            "alt": "Bergweg durch Granitfelsen",
+            "date": "2023-06-24T09:27:57.000+02:00",
+            "width": 1510,
+            "height": 1080
+          }
+        ],
+        "text": "Nun war ich schon wieder vom Matzlenstock hinabgestiegen und befinde mich wieder auf dem Hauptweg zur Leglerhütte. In diesem Abschnitt geht es nur leicht ansteigend auf eine Terrasse den Hang entlang. Der Weg ist hier durch Granitfelsen verschönert und durchaus abwechslungsreich."
+      },
+      {
+        "photos": [
+          {
+            "name": "014",
+            "alt": "Bergsee mit Kärpf",
+            "date": "2023-06-24T09:34:28.000+02:00",
+            "width": 1759,
+            "height": 1080
+          },
+          {
+            "name": "015",
+            "alt": "Reflexionen im See",
+            "date": "2023-06-24T09:35:23.000+02:00",
+            "width": 1920,
+            "height": 626
+          }
+        ],
+        "text": "Vorbei geht es auch an diesem kleinen Bergsee, der natürlich für die obligatorischen Fotos erhalten muss."
+      },
+      {
+        "photos": [
+          {
+            "name": "016",
+            "alt": "Alp Kärpfstafel",
+            "date": "2023-06-24T09:41:44.000+02:00",
+            "width": 1920,
+            "height": 1074
+          }
+        ],
+        "text": "Hier folgte ein kleiner Abstieg zur Alp Kärpfstafel, dahinter ging es aber gleich wieder bergauf. Um den Kärpf bildeten sich nun einige Quellwolken."
+      },
+      {
+        "photos": [
+          {
+            "name": "017",
+            "alt": "Wanderweg Sunnenbergfurggele",
+            "date": "2023-06-24T10:29:18.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Am Ende des Tals wurde es dann steiler und es ging anstrengend 100m hinauf zur 2200m hohen Sunnenbergfurggele. Wie man sieht, ist der Weg breit, gut ausgebaut und absolut ungefährlich."
+      },
+      {
+        "photos": [
+          {
+            "name": "018",
+            "alt": "Panorama Sunnenbergfurggele",
+            "date": "2023-06-24T10:34:17.000+02:00",
+            "width": 1920,
+            "height": 635
+          }
+        ],
+        "text": "Blick vom Pass zurück. Im Tal rechts befindet sich Mettmen und der Stausee."
+      },
+      {
+        "photos": [
+          {
+            "name": "019",
+            "alt": "Granit",
+            "date": "2023-06-24T10:35:45.000+02:00",
+            "width": 1919,
+            "height": 1080
+          }
+        ],
+        "text": "Vom Pass ging es aber nicht wieder runter, sondern, durch große Granitfelsen hindurch, weiter den Hang des Kärpf hinauf."
+      },
+      {
+        "photos": [
+          {
+            "name": "020",
+            "alt": "Wanderweg über Schneefeld",
+            "date": "2023-06-24T10:43:48.000+02:00",
+            "width": 1920,
+            "height": 715
+          }
+        ],
+        "text": "Auch ein paar Schneefelder waren noch vom Winter übrig und mussten überquert werden."
+      },
+      {
+        "photos": [
+          {
+            "name": "021",
+            "alt": "Wanderung Leglerhütte",
+            "date": "2023-06-24T10:46:24.000+02:00",
+            "width": 1920,
+            "height": 787
+          }
+        ],
+        "text": "An der Leglerhütte kam ich um 10:50 - nach 2,5h von Mettmen aus - an."
+      },
+      {
+        "photos": [
+          {
+            "name": "022",
+            "alt": "Leglerhütte mit Glärnisch",
+            "date": "2023-06-24T10:52:04.000+02:00",
+            "width": 1920,
+            "height": 1004
+          }
+        ],
+        "text": "Ich lief aber an der SAC Hütte vorbei, denn ich hatte noch einen weiteren Abstecher vor. Diesmal zum Milchspüelersee. Hier der Blick zurück."
+      },
+      {
+        "photos": [
+          {
+            "name": "023",
+            "alt": "Abstecher Milchspüelersee",
+            "date": "2023-06-24T10:57:03.000+02:00",
+            "width": 1823,
+            "height": 1080
+          }
+        ],
+        "text": "Auf der Karte sah der Abstecher recht kurz aus, aber er bedeutet noch mal 100 Extrahöhenmeter. Ob es wohl daran lag, dass niemand anderes diesen Extraweg nahm?<br />Hier kann man auf jeden Fall schon den See sehen, der besonders durch seine türkise Farbe auffällt."
+      },
+      {
+        "photos": [
+          {
+            "name": "024",
+            "alt": "Wanderweg Milchspüelersee",
+            "date": "2023-06-24T11:02:12.000+02:00",
+            "width": 1766,
+            "height": 1080
+          },
+          {
+            "name": "025",
+            "alt": "Türkiser Bergsee",
+            "date": "2023-06-24T11:03:59.000+02:00",
+            "width": 1920,
+            "height": 756
+          }
+        ],
+        "text": "Nach 15min und einer Bachüberquerung kam ich schließlich am See an."
+      },
+      {
+        "photos": [
+          {
+            "name": "026",
+            "alt": "Milchspüelersee",
+            "date": "2023-06-24T11:06:25.000+02:00",
+            "width": 1920,
+            "height": 885
+          }
+        ],
+        "text": "Toller See und ich war tatsächlich ganz alleine während meiner langen Pause dort."
+      },
+      {
+        "photos": [
+          {
+            "name": "027",
+            "alt": "Oberhalb eines Wasserfalls",
+            "date": "2023-06-24T11:08:30.000+02:00",
+            "width": 1761,
+            "height": 1080
+          }
+        ],
+        "text": "Der Abfluss des Sees mündet direkt in einem Wasserfall. Näher habe ich mich nicht herangetraut."
+      },
+      {
+        "photos": [
+          {
+            "name": "028",
+            "alt": "Leglerhütte SAC",
+            "date": "2023-06-24T12:04:30.000+02:00",
+            "width": 1680,
+            "height": 1080
+          }
+        ],
+        "text": "Nach meiner Pause bin ich jetzt wieder zurück an der Leglerhütte, die auch einen kleinen See zu bieten hat."
+      },
+      {
+        "photos": [
+          {
+            "name": "029",
+            "alt": "Wandern im Glarus",
+            "date": "2023-06-24T12:05:55.000+02:00",
+            "width": 1920,
+            "height": 685
+          }
+        ],
+        "text": "Neben der Leglerhütte befindet sich noch dieser lohnenswerte Aussichtspunkt, der einen schönen Blick zum Glärnisch und hinab zum 300m tieferen Ängiseeli bietet. Dieser ist übrigens auch mein nächstes Ziel."
+      },
+      {
+        "photos": [
+          {
+            "name": "030",
+            "alt": "Serpentinenweg",
+            "date": "2023-06-24T12:14:54.000+02:00",
+            "width": 1920,
+            "height": 843
+          }
+        ],
+        "text": "Von der Hütte ging es nun einen sehr steilen Hang auf unzähligen Serpentinen bergab. Der Weg war aber breit und selbst gar nicht steil, also angenehm zu gehen - außer wenn man, wie die mir entgegenkommenden, ihn in der Mittagshitze hinaufsteigen muss."
+      },
+      {
+        "photos": [
+          {
+            "name": "031",
+            "alt": "Abstieg Ängiseeli",
+            "date": "2023-06-24T12:19:46.000+02:00",
+            "width": 1920,
+            "height": 1009
+          }
+        ],
+        "text": "Nach den Serpentinen geht es hier quer hinüber zum Ängiseeli."
+      },
+      {
+        "photos": [
+          {
+            "name": "032",
+            "alt": "Ängi Seen",
+            "date": "2023-06-24T12:23:23.000+02:00",
+            "width": 1920,
+            "height": 764
+          }
+        ],
+        "text": "Erst hier sieht man, dass es nicht nur ein See ist, sondern daneben noch der größere Chammseeli liegt."
+      },
+      {
+        "photos": [
+          {
+            "name": "033",
+            "alt": "Alpenrosen mit See",
+            "date": "2023-06-24T12:34:28.000+02:00",
+            "width": 1885,
+            "height": 1080
+          }
+        ],
+        "text": "Also musste natürlich eine weitere Pause gemacht werden. Das Foto diesmal eine Kombination aus Alpenrose und See."
+      },
+      {
+        "photos": [
+          {
+            "name": "034",
+            "alt": "Bergbach mit Wasserfällen",
+            "date": "2023-06-24T12:48:36.000+02:00",
+            "width": 938,
+            "height": 1080
+          }
+        ],
+        "text": "Ich folgte nun dem Abfluss des Ängiseeli und es ging an den kleinen Wasserfällen des Bachs bergab."
+      },
+      {
+        "photos": [
+          {
+            "name": "035",
+            "alt": "Alp Unter Ängi",
+            "date": "2023-06-24T12:51:53.000+02:00",
+            "width": 1920,
+            "height": 861
+          }
+        ],
+        "text": "Unterhalb der Seen erreichte ich nun die Alp Unter Ängi. Mein nächstes Ziel war der Pass, den man hier in der Bildmitte bereits sehen kann."
+      },
+      {
+        "photos": [
+          {
+            "name": "036",
+            "alt": "Weg über Gras mit Wasserfall",
+            "date": "2023-06-24T12:55:08.000+02:00",
+            "width": 783,
+            "height": 1080
+          }
+        ],
+        "text": "Zuerst ging es aber flach über die Alpwiesen. Der Wasserfall rechts stammt vom Chammseeli."
+      },
+      {
+        "photos": [
+          {
+            "name": "037",
+            "alt": "Sommerwanderung",
+            "date": "2023-06-24T13:09:08.000+02:00",
+            "width": 1784,
+            "height": 1080
+          },
+          {
+            "name": "038",
+            "alt": "Blick nach Braunwald",
+            "date": "2023-06-24T13:10:14.000+02:00",
+            "width": 1814,
+            "height": 1080
+          }
+        ],
+        "text": "Nun folgte eine überraschend malerische Hangquerung zum Pass. Hier begegnete ich nun mal wieder anderen Wanderern, ansonsten war es jetzt sehr leer."
+      },
+      {
+        "photos": [
+          {
+            "name": "039",
+            "alt": "Alter Wegweiser mit Wetterhahn",
+            "date": "2023-06-24T13:14:01.000+02:00",
+            "width": 1613,
+            "height": 1080
+          }
+        ],
+        "text": "Ankunft auf dem Steinstossfurggeli, wie der kleine Pass heißt. Origineller Wegweiser und eine Bank mit einem willkommen kühlenden Wind."
+      },
+      {
+        "photos": [
+          {
+            "name": "040",
+            "alt": "Steinstossfurggeli",
+            "date": "2023-06-24T13:24:16.000+02:00",
+            "width": 1920,
+            "height": 908
+          }
+        ],
+        "text": "Vom Pass musste ich leider noch mal 60m aufsteigen (die Schweißtrocknung war also vergebens). Hier der Blick zurück."
+      },
+      {
+        "photos": [
+          {
+            "name": "041",
+            "alt": "Weg mit abgestorbenen Bäumen",
+            "date": "2023-06-24T13:28:18.000+02:00",
+            "width": 1785,
+            "height": 1080
+          },
+          {
+            "name": "042",
+            "alt": "Uriger Gratweg",
+            "date": "2023-06-24T13:28:47.000+02:00",
+            "width": 1920,
+            "height": 995
+          }
+        ],
+        "text": "Oben auf dem Grat (Franzenhoren) war der Weg sehr urig und schön. Dank an den, der dort oben die Granitbrocken abgelegt hat."
+      },
+      {
+        "photos": [
+          {
+            "name": "043",
+            "alt": "Wanderweg über Höhenzug",
+            "date": "2023-06-24T13:34:16.000+02:00",
+            "width": 1920,
+            "height": 825
+          }
+        ],
+        "text": "Vom Franzenhoren ging es nun weiter über diesen breiten Grasbuckel zum Schönau (Bildmitte)."
+      },
+      {
+        "photos": [
+          {
+            "name": "044",
+            "alt": "Bank mit Glärnisch",
+            "date": "2023-06-24T13:51:26.000+02:00",
+            "width": 1920,
+            "height": 1036
+          }
+        ],
+        "text": "Und 15min später war ich dann auf dem Schönau, wo sich eine Bank, aber vor allem viel fotogenes Wollgras befindet."
+      },
+      {
+        "photos": [
+          {
+            "name": "045",
+            "alt": "Höch Turm und Ortstock",
+            "date": "2023-06-24T13:56:28.000+02:00",
+            "width": 1920,
+            "height": 816
+          }
+        ],
+        "text": "Blick über das Wollgras und das Tal hinweg zum Klausenpass (links) und zum 2700m hohen Ortstock."
+      },
+      {
+        "photos": [
+          {
+            "name": "046",
+            "alt": "Schönaufurggeli",
+            "date": "2023-06-24T13:57:03.000+02:00",
+            "width": 1920,
+            "height": 837
+          }
+        ],
+        "text": "Vom Schönau ging es nun bergab zur Schönaufurggeli. Wenn man zurück zur Talstation der Seilbahn in Kies wollte, müsste man hier nach rechts abbiegen. Das hätte ich auch getan, wenn ich bis der Seilbahn mit dem Auto hätte fahren dürfen.<br />Da ich aber eh noch Bus fahren musste, beschloss ich hier nach links Richtung Schwanden zu laufen und an der temporären Bushaltestelle beim Restaurant Tannenberg in den Bus zu steigen. Der Weg nach Kies wäre etwas kürzer und 100m weniger Abstieg gewesen."
+      },
+      {
+        "photos": [
+          {
+            "name": "047",
+            "alt": "Waldreservat Tüüffenwald",
+            "date": "2023-06-24T14:06:01.000+02:00",
+            "width": 1920,
+            "height": 737
+          },
+          {
+            "name": "048",
+            "alt": "Kleiner Waldsee",
+            "date": "2023-06-24T14:08:04.000+02:00",
+            "width": 1826,
+            "height": 1080
+          }
+        ],
+        "text": "Nicht erwartet hatte ich, dass der Weg hier zu Beginn so schön durch das Waldreservat Tüüffenwald führt (das hat mir erst ein Schild gesagt). Ein lichter Tannenwald mit Seen und Moorflächen - und immer der Blick auf den Glärnisch."
+      },
+      {
+        "photos": [
+          {
+            "name": "049",
+            "alt": "Steiler Abstieg durch Wald",
+            "date": "2023-06-24T14:24:42.000+02:00",
+            "width": 1485,
+            "height": 1080
+          }
+        ],
+        "text": "Nach dem Tüüffenwald ging es dann steil und etwas rutschig 100m durch den Wald hinab. Der unangenehmste Teil der ganzen Wanderung. Auch anschließend ging es noch ständig weiter hinab, aber hauptsächlich über gut aufgeheizte Weiden."
+      },
+      {
+        "photos": [
+          {
+            "name": "050",
+            "alt": "Serpentinenstraße",
+            "date": "2023-06-24T15:00:17.000+02:00",
+            "width": 1920,
+            "height": 873
+          }
+        ],
+        "text": "Ankunft an der Serpentinenstraße. Wahrscheinlich hätte ich auch hier bereits den Bus anhalten lassen können. Da er aber nicht in Sicht war, habe ich die Straße wieder verlassen und bin noch weitere 200 Höhenmeter zur offiziellen Haltestelle bei Tannenberg abgestiegen. Eigentlich wäre es sinnvoll, wenn sie auch hier eine Haltestelle eingerichtet hätten, z.B. für Leute, die die Runde andersherum machen oder nur zum Tüüffenwald gehen wollen."
+      },
+      {
+        "photos": [
+          {
+            "name": "051",
+            "alt": "Alpweg an Blumenwiese",
+            "date": "2023-06-24T15:03:06.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "052",
+            "alt": "Unsichtbarer Weg über Wiese",
+            "date": "2023-06-24T15:06:39.000+02:00",
+            "width": 1920,
+            "height": 959
+          }
+        ],
+        "text": "Der weitere Abstieg war aber schön, nicht steil und flott zu gehen. Auf dem zweiten Bild befindet sich für die Adleraugen übrigens ein Wegzeichen, der eigentliche Pfad war nicht zu sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "053",
+            "alt": "Ferienhäuser",
+            "date": "2023-06-24T15:14:19.000+02:00",
+            "width": 1694,
+            "height": 1080
+          }
+        ],
+        "text": "Dann ging es noch an ein paar Ferienhäusern und einem Ferienlager vorbei, jetzt fehlte nur noch eine Serpentine zum Abkürzen."
+      },
+      {
+        "photos": [
+          {
+            "name": "054",
+            "alt": "Restaurant Tannenberg",
+            "date": "2023-06-24T15:26:25.000+02:00",
+            "width": 1616,
+            "height": 1080
+          }
+        ],
+        "text": "Ankunft am (etwas verlassen wirkenden) Restaurant Tannenberg und der temporären Haltestelle."
+      },
+      {
+        "photos": [
+          {
+            "name": "055",
+            "alt": "Bus auf schmaler Bergstraße",
+            "date": "2023-06-24T15:26:47.000+02:00",
+            "width": 1920,
+            "height": 1052
+          }
+        ],
+        "text": "10min später kam auch schon der Bus. Wahrscheinlich weil es erst 15:30 war, war er noch angenehm leer und ich musste auch bei der Abfahrt nicht stehen."
+      }
+    ],
+    "outro": "Fazit: Es war eine sehr schöne Runde. Selten hat man auf einer Wanderung so viel Abwechslung und fast immer tolle Wege. Schwierigkeiten gab es keine, nur die 1700m Abstieg gingen natürlich schon in die Beine. In normalen Jahren wird man aber nur nach Kies absteigen, und auch ohne die beiden Abstecher kann man Höhenmeter sparen. Ich fand aber den Matzlenstock und den Milchspüelersee durch aus lohnend. Alternativ kann man von der Leglerhütte wieder zurück nach Mettmen gehen und die Seilbahn auch wieder hinabfahren. Auch dann müsste man kaum Weg doppelt gehen.<br />Meine Variante war insgesamt 17km lang und ich habe 7h gebraucht."
+  }
+]
