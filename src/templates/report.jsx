@@ -327,10 +327,13 @@ class Report extends React.Component {
           )}
           {movie && (
             <Movie>
-              <h3>
-                <a href={`https://youtu.be/${movie}`}>{pageTitle} als Animation</a>
-              </h3>
-              <VideoContainer>
+              <p>
+                Hast du noch Fragen? Dann benutze die Kommentare auf YouTube:<br /><a href={`https://youtu.be/${movie}`}>{pageTitle} auf YouTube</a>.
+              </p> 
+              <p>
+                Natürlich freue ich mich auch über jeden "Like" dort, falls dir der Bericht gefallen hat. 🙂
+              </p>
+              <VideoContainer style={{marginTop: '10px'}}>
                 <Video title={title} video={movie} />
               </VideoContainer>
             </Movie>
