@@ -7,13 +7,21 @@
     "detailMap": "swiss",
     "shortTitle": "Chrüz",
     "title": "Pany - Chrüz",
-    "movie": "02vcDvW76Y4",
+    "title3d": {
+      "offsetY": 0,
+      "fontSize": 12,
+      "align": "left",
+      "width": 1920,
+      "height": 568
+    },
+    "movie": "h2mS9L2_Jfc",
     "intro": "Nachdem vor einigen Wochen der Versuch von Pany auf den Chrüz zu laufen auf Grund von Nebel gescheitert war, versuchte ich mich diesen Samstag an einem neuen Versuch.<br />\nUm 8:30 kam ich am Skilift-Parkplatz in Pany (einem kleinen Ort auf 1300m oberhalb von Küblis) an. Während es im Tal nach leicht frostig war, heizte die Sonne hier oben bereits ordentlich ein.<br />\nDer 2200m hohe Chrüz ist ein pyramidenförmiger Berg, auf dem auf jeder Kante ein Weg hinauf führt. Ich beschloss zu erst um den Berg herum zu laufen, um ihn dann von der Rückseite zu besteigen.",
     "landmarks": [
       {
         "photos": [
           {
             "name": "001",
+            "alt": "Spazierweg Pany",
             "date": "2015-10-31T08:41:49.000+01:00",
             "width": 1620,
             "height": 1080
@@ -26,6 +34,7 @@
         "photos": [
           {
             "name": "002",
+            "alt": "Pany",
             "date": "2015-10-31T08:47:59.000+01:00",
             "width": 1920,
             "height": 820
@@ -38,6 +47,7 @@
         "photos": [
           {
             "name": "003",
+            "alt": "Herbstwanderung Prättigau",
             "date": "2015-10-31T08:57:26.000+01:00",
             "width": 1587,
             "height": 1080
@@ -50,12 +60,14 @@
         "photos": [
           {
             "name": "004",
+            "alt": "Alter Schrägzaun",
             "date": "2015-10-31T09:05:17.000+01:00",
             "width": 1920,
             "height": 882
           },
           {
             "name": "005",
+            "alt": "Siedlung Bova",
             "date": "2015-10-31T09:07:52.000+01:00",
             "width": 1920,
             "height": 967
@@ -68,6 +80,7 @@
         "photos": [
           {
             "name": "006",
+            "alt": "Blick auf Bova",
             "date": "2015-10-31T09:16:47.000+01:00",
             "width": 1920,
             "height": 762
@@ -80,6 +93,7 @@
         "photos": [
           {
             "name": "007",
+            "alt": "Rotspitz",
             "date": "2015-10-31T09:23:26.000+01:00",
             "width": 1920,
             "height": 1027
@@ -92,6 +106,7 @@
         "photos": [
           {
             "name": "008",
+            "alt": "Landschaft St. Antönien",
             "date": "2015-10-31T09:49:21.000+01:00",
             "width": 1920,
             "height": 788
@@ -104,6 +119,7 @@
         "photos": [
           {
             "name": "009",
+            "alt": "Herbst in den Bergen",
             "date": "2015-10-31T10:13:51.000+01:00",
             "width": 1920,
             "height": 788
@@ -116,6 +132,7 @@
         "photos": [
           {
             "name": "010",
+            "alt": "Aufstieg über Grat",
             "date": "2015-10-31T10:27:04.000+01:00",
             "width": 1920,
             "height": 625
@@ -128,6 +145,7 @@
         "photos": [
           {
             "name": "011",
+            "alt": "Blick Richtung Stelserberg",
             "date": "2015-10-31T10:31:33.000+01:00",
             "width": 1920,
             "height": 562
@@ -140,6 +158,7 @@
         "photos": [
           {
             "name": "012",
+            "alt": "Hochwang",
             "date": "2015-10-31T10:32:26.000+01:00",
             "width": 1920,
             "height": 863
@@ -152,6 +171,7 @@
         "photos": [
           {
             "name": "013",
+            "alt": "Schneereste",
             "date": "2015-10-31T10:41:23.000+01:00",
             "width": 924,
             "height": 1080
@@ -164,6 +184,7 @@
         "photos": [
           {
             "name": "014",
+            "alt": "Aufstieg Chrüz",
             "date": "2015-10-31T10:47:23.000+01:00",
             "width": 1620,
             "height": 1080
@@ -176,6 +197,7 @@
         "photos": [
           {
             "name": "015",
+            "alt": "Sulzfluh",
             "date": "2015-10-31T10:51:19.000+01:00",
             "width": 1645,
             "height": 1080
@@ -188,6 +210,7 @@
         "photos": [
           {
             "name": "016",
+            "alt": "Kleiner Bergsee",
             "date": "2015-10-31T10:58:57.000+01:00",
             "width": 1920,
             "height": 809
@@ -200,6 +223,7 @@
         "photos": [
           {
             "name": "017",
+            "alt": "Moorlandschaft",
             "date": "2015-10-31T11:02:28.000+01:00",
             "width": 1920,
             "height": 749
@@ -212,6 +236,7 @@
         "photos": [
           {
             "name": "018",
+            "alt": "Chrüz Panorama",
             "date": "2015-10-31T11:36:28.000+01:00",
             "width": 1920,
             "height": 725
@@ -224,6 +249,7 @@
         "photos": [
           {
             "name": "020",
+            "alt": "Aussicht Chrüz",
             "date": "2015-10-31T11:53:50.000+01:00",
             "width": 1920,
             "height": 778
@@ -236,6 +262,7 @@
         "photos": [
           {
             "name": "021",
+            "alt": "St. Antönien",
             "date": "2015-10-31T11:54:22.000+01:00",
             "width": 1920,
             "height": 643
@@ -248,6 +275,7 @@
         "photos": [
           {
             "name": "022",
+            "alt": "Rätschenhorn",
             "date": "2015-10-31T11:54:59.000+01:00",
             "width": 1920,
             "height": 924
@@ -260,6 +288,7 @@
         "photos": [
           {
             "name": "024",
+            "alt": "Steiler Abstieg",
             "date": "2015-10-31T12:07:14.000+01:00",
             "width": 1620,
             "height": 1080
@@ -272,12 +301,14 @@
         "photos": [
           {
             "name": "025",
+            "alt": "Gratweg",
             "date": "2015-10-31T12:11:13.000+01:00",
             "width": 1920,
             "height": 823
           },
           {
             "name": "026",
+            "alt": "Schmaler Weg",
             "date": "2015-10-31T12:11:43.000+01:00",
             "width": 809,
             "height": 1080
@@ -290,6 +321,7 @@
         "photos": [
           {
             "name": "027",
+            "alt": "Wanderweg Chrüz",
             "date": "2015-10-31T12:15:40.000+01:00",
             "width": 1920,
             "height": 798
@@ -302,6 +334,7 @@
         "photos": [
           {
             "name": "028",
+            "alt": "Gelbe Lärchen",
             "date": "2015-10-31T12:22:38.000+01:00",
             "width": 1545,
             "height": 1080
@@ -314,6 +347,7 @@
         "photos": [
           {
             "name": "029",
+            "alt": "Felsiger Wegabschnitt",
             "date": "2015-10-31T12:24:05.000+01:00",
             "width": 1920,
             "height": 944
@@ -326,6 +360,7 @@
         "photos": [
           {
             "name": "030",
+            "alt": "Paraglider",
             "date": "2015-10-31T12:27:22.000+01:00",
             "width": 1579,
             "height": 1080
@@ -338,6 +373,7 @@
         "photos": [
           {
             "name": "031",
+            "alt": "Chrüz",
             "date": "2015-10-31T12:33:02.000+01:00",
             "width": 1920,
             "height": 961
@@ -350,6 +386,7 @@
         "photos": [
           {
             "name": "032",
+            "alt": "Steinmännchen",
             "date": "2015-10-31T12:33:19.000+01:00",
             "width": 1620,
             "height": 1080
@@ -362,6 +399,7 @@
         "photos": [
           {
             "name": "033",
+            "alt": "Klosters",
             "date": "2015-10-31T12:37:10.000+01:00",
             "width": 1920,
             "height": 954
@@ -374,18 +412,20 @@
         "photos": [
           {
             "name": "034",
+            "alt": "Wandergebiet Prättigau",
             "date": "2015-10-31T12:47:17.000+01:00",
             "width": 1920,
             "height": 980
           }
         ],
         "videos": [],
-        "text": "Und das ganze ohne Tele. Nun wurde die Landschaft sehr idylisch."
+        "text": "Und das ganze ohne Tele. Nun wurde die Landschaft sehr idyllisch."
       },
       {
         "photos": [
           {
             "name": "035",
+            "alt": "Alplandschaft",
             "date": "2015-10-31T12:49:13.000+01:00",
             "width": 1920,
             "height": 686
@@ -398,12 +438,14 @@
         "photos": [
           {
             "name": "036",
+            "alt": "Schesaplana",
             "date": "2015-10-31T12:59:41.000+01:00",
             "width": 1779,
             "height": 1080
           },
           {
             "name": "037",
+            "alt": "Wasserspiegelung",
             "date": "2015-10-31T12:59:53.000+01:00",
             "width": 1920,
             "height": 1043
@@ -416,6 +458,7 @@
         "photos": [
           {
             "name": "038",
+            "alt": "Alp Alpbüel",
             "date": "2015-10-31T13:01:21.000+01:00",
             "width": 1920,
             "height": 866
@@ -428,6 +471,7 @@
         "photos": [
           {
             "name": "039",
+            "alt": "Doppeldecker",
             "date": "2015-10-31T13:09:01.000+01:00",
             "width": 1920,
             "height": 1080
@@ -440,6 +484,7 @@
         "photos": [
           {
             "name": "040",
+            "alt": "Moorgebiet",
             "date": "2015-10-31T13:19:34.000+01:00",
             "width": 1821,
             "height": 1080
@@ -452,6 +497,7 @@
         "photos": [
           {
             "name": "041",
+            "alt": "Siedlung Tratza",
             "date": "2015-10-31T13:38:43.000+01:00",
             "width": 1920,
             "height": 786
@@ -464,6 +510,7 @@
         "photos": [
           {
             "name": "042",
+            "alt": "Rundwanderung Pany",
             "date": "2015-10-31T14:26:02.000+01:00",
             "width": 1920,
             "height": 671
@@ -476,6 +523,7 @@
         "photos": [
           {
             "name": "045",
+            "alt": "Pischahorn",
             "date": "2015-10-31T14:32:53.000+01:00",
             "width": 1620,
             "height": 1080
@@ -504,13 +552,11 @@
         "photos": [
           {
             "name": "046",
-            "date": "2015-10-31T14:50:23.000+01:00",
             "width": 1620,
             "height": 1080
           },
           {
             "name": "047",
-            "date": "2015-10-31T14:51:20.000+01:00",
             "width": 1689,
             "height": 1080
           }
