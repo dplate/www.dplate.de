@@ -1,0 +1,652 @@
+[
+  {
+    "destination": "davos",
+    "date": "d20230902",
+    "type": "hike",
+    "track": true,
+    "timeShift": 30, 
+    "detailMap": "swiss",
+    "shortTitle": "Tschimas da Tisch",
+    "title": "Bergün - Tschimas da Tisch",
+    "title3d": {
+      "offsetY": 0,
+      "fontSize": 9,
+      "align": "left",
+      "width": 1920,
+      "height": 489
+    },
+    "movie": "pd8pckm0sXs",
+    "intro": "Das stabile Spätsommerwetter an diesem Samstag wollte ich nutzen, um eine höhere Wanderung zu machen. Dafür suchte ich mir den 2870m hohen Berg Tschimas da Tisch in der Nähe von Bergün als Ziel aus.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Sessellift Bergün",
+            "date": "2023-09-02T08:52:37.000+02:00",
+            "width": 1536,
+            "height": 1080
+          }
+        ],
+        "text": "Da ich mir die ersten 500 Höhenmeter mit einer Sesselbahnfahrt erleichtern wollte, musste meine recht lange Anreise nach Bergün gut geplant werden - denn der Lift fährt im Sommer immer nur zur vollen Stunde. Etwas zu pünktlich stellte ich mein Auto auf dem großen (im Sommer gratis) Parkplatz an der Talstation ab, kaufte den Fahrschein für 16CHF und musste noch 15min auf die erste Fahrt um 9:00 warten."
+      },
+      {
+        "photos": [
+          {
+            "name": "002",
+            "alt": "Bergün",
+            "date": "2023-09-02T09:01:29.000+02:00",
+            "width": 1920,
+            "height": 1074
+          }
+        ],
+        "text": "Mit mir fuhren nur drei andere Wanderer zu dieser Stunde hinauf. Hier der Blick direkt nach der Abfahrt hinüber nach Bergün."
+      },
+      {
+        "photos": [
+          {
+            "name": "003",
+            "alt": "Sesselbahn Darlux",
+            "date": "2023-09-02T09:14:20.000+02:00",
+            "width": 1920,
+            "height": 906
+          }
+        ],
+        "text": "Der Sessellift endet auf 1970m Höhe am Restaurant Darlux. Sonst gibt es dort nicht sehr viel. Im Winter führt von dort eine andere Sesselbahn weiter hinauf, deshalb wird dies hier Mittelstation genannt."
+      },
+      {
+        "photos": [
+          {
+            "name": "004",
+            "alt": "Piz Ela",
+            "date": "2023-09-02T09:25:43.000+02:00",
+            "width": 1849,
+            "height": 1080
+          }
+        ],
+        "text": "Nach dem Ausstieg aus dem Lift bin ich nicht dem Hauptweg nachgelaufen, sondern in die andere Richtung nach Süden. Diese Variante ist zwar ein kleines Stück länger, dafür vermeidet man eine Fahrstraße und außerdem wollte ich den anderen Weg am Ende hinablaufen.<br />Hier auf dem schmalen Weg mit Blick zurück auf den 3300m hohen Piz Ela, der sich auf der anderen Talseite befindet und nach dem der Parc Ela benannt ist. Dieser Naturpark erstreckt sich über die gesamte Gegend hier."
+      },
+      {
+        "photos": [
+          {
+            "name": "005",
+            "alt": "Alp Darlux",
+            "date": "2023-09-02T10:02:59.000+02:00",
+            "width": 1920,
+            "height": 754
+          }
+        ],
+        "text": "Nachdem ich den Hauptweg wieder erreicht hatte, ging es entlang des zweiten Sessellifts bis zu dessen Bergstation auf 2280m hinauf. Links wieder der Piz Ela."
+      },
+      {
+        "photos": [
+          {
+            "name": "006",
+            "alt": "Wanderweg Piz Darlux",
+            "date": "2023-09-02T10:24:08.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Das erste Zwischenziel war nun der 2640m hohe Piz Darlux, der hier im Hintergrund zu sehen ist. Knapp unter dessen Gipfel führt im Winter ein Skilift (und das waren dann auch alle drei Lifte des Skigebiets)."
+      },
+      {
+        "photos": [
+          {
+            "name": "007",
+            "alt": "Piz Üertsch",
+            "date": "2023-09-02T10:27:45.000+02:00",
+            "width": 1920,
+            "height": 1076
+          }
+        ],
+        "text": "Blick auf der anderen Seite des Grats das Tal Val Tisch hinauf, an dessen Ende sich der markante Piz Üertsch befindet.<br />Links dagegen war nun das erste mal des Tages mein Ziel, der Tschimas da Tisch sichtbar. Mein Wanderweg sollte auf dem Grat links dort hinaufführen."
+      },
+      {
+        "photos": [
+          {
+            "name": "008",
+            "alt": "Wanderung Bergün",
+            "date": "2023-09-02T10:36:18.000+02:00",
+            "width": 1712,
+            "height": 1080
+          }
+        ],
+        "text": "Nach einigen Metern warmen Aufstiegs der Blick zurück. Mitte/Rechts ist die Bergstation des zweiten Sessellifts zu sehen, an dem ich zuvor vorbeigelaufen war."
+      },
+      {
+        "photos": [
+          {
+            "name": "009",
+            "alt": "Aussicht Piz Darlux",
+            "date": "2023-09-02T10:49:21.000+02:00",
+            "width": 1920,
+            "height": 725
+          }
+        ],
+        "text": "Den Gipfel des Piz Darlux erreichte ich kurz vor 11:00, nach gut 1:30h Aufstieg.<br />Hier der Blick auf den weiteren Weg zum Tschimas da Tisch (rechts). Mein Rückweg vom Gipfel wird dann später ganz links vorbeiführen."
+      },
+      {
+        "photos": [
+          {
+            "name": "010",
+            "alt": "Gipfel Piz Darlux",
+            "date": "2023-09-02T10:49:55.000+02:00",
+            "width": 1920,
+            "height": 989
+          }
+        ],
+        "text": "Und noch der Blick vom Gipfel hinüber zum Piz Ela."
+      },
+      {
+        "photos": [
+          {
+            "name": "011",
+            "alt": "Gratweg Bergün",
+            "date": "2023-09-02T10:55:09.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Vom Piz Darlux ging es nun nur gut 40m auf dem Grat bergab, bevor es danach wieder ansteigen sollte. Wie man sieht war alles recht harmlos hier."
+      },
+      {
+        "photos": [
+          {
+            "name": "012",
+            "alt": "Kühe im Hochtal",
+            "date": "2023-09-02T11:00:08.000+02:00",
+            "width": 1920,
+            "height": 885
+          }
+        ],
+        "text": "Tele vom Grat in das benachbarte Hochtal, in dem ein paar Kühe weideten und aus einem See tranken."
+      },
+      {
+        "photos": [
+          {
+            "name": "013",
+            "alt": "Gratwanderung",
+            "date": "2023-09-02T11:10:18.000+02:00",
+            "width": 1920,
+            "height": 833
+          }
+        ],
+        "text": "Blick zurück zum Piz Darlux. Von hier kaum als Berg zu erkennen."
+      },
+      {
+        "photos": [
+          {
+            "name": "014",
+            "alt": "Piz d'Err",
+            "date": "2023-09-02T11:15:19.000+02:00",
+            "width": 1774,
+            "height": 1080
+          }
+        ],
+        "text": "Tele Richtung Süden zum 3370m hohen Piz d'Err."
+      },
+      {
+        "photos": [
+          {
+            "name": "015",
+            "alt": "Bergweg",
+            "date": "2023-09-02T11:23:40.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Steilste Stelle beim Aufstieg - einfach, aber anstrengend."
+      },
+      {
+        "photos": [
+          {
+            "name": "016",
+            "alt": "Aufstieg Tschimas da Tisch",
+            "date": "2023-09-02T11:31:32.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Die letzten Meter zum Gipfel dann durch Schotter. Die dünne Luft machte sich deutlich bemerkbar und ein frischer Wind wäre willkommen gewesen."
+      },
+      {
+        "photos": [
+          {
+            "name": "017",
+            "alt": "Val Tisch",
+            "date": "2023-09-02T11:33:46.000+02:00",
+            "width": 1920,
+            "height": 819
+          },
+          {
+            "name": "018",
+            "alt": "Wanderung Parc Ela",
+            "date": "2023-09-02T11:38:04.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Zum Ausschnaufen zweimal der Blick zurück."
+      },
+      {
+        "photos": [
+          {
+            "name": "019",
+            "alt": "Gipfel Tschimas da Tisch",
+            "date": "2023-09-02T11:40:04.000+02:00",
+            "width": 1920,
+            "height": 1072
+          }
+        ],
+        "text": "Ankunft auf dem 2870m hohen Gipfel des Tschimas da Tisch um 11:40. Ein Gipfelkreuz oder ein Gipfelbuch gibt es dort nicht, dafür ist der Gipfel sehr flach und bietet genug Platz - ich denke Dichtestress wird man hier aber eh nie haben."
+      },
+      {
+        "photos": [
+          {
+            "name": "020",
+            "alt": "Aussicht Tschimas da Tisch",
+            "date": "2023-09-02T11:47:34.000+02:00",
+            "width": 1920,
+            "height": 886
+          }
+        ],
+        "text": "Der schönste Blick geht Richtung Osten. Von links nach rechts: Piz Kesch (3400m), Piz Blaisun (3200m) und der Piz Üertsch (3260m).<br />Mein Abstieg wird hier rechts hinabführen und dann an dem See dort unten vorbeigehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "021",
+            "alt": "Panorama Tschimas da Tisch",
+            "date": "2023-09-02T11:48:24.000+02:00",
+            "width": 1920,
+            "height": 1069
+          }
+        ],
+        "text": "Hier noch der Blick nach Norden. In der Mitte ist ganz klein die <a href='/alpine/davos/20211009#kesch-hütte_016' target='_blank'>Kesch Hütte</a> zu sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "022",
+            "alt": "Rundwanderung Bergün",
+            "date": "2023-09-02T12:05:57.000+02:00",
+            "width": 1920,
+            "height": 649
+          }
+        ],
+        "text": "Und das Panorama nach Süden. Durch das einsame Val Tisch hier unten könnten man alternativ auch absteigen."
+      },
+      {
+        "photos": [
+          {
+            "name": "023",
+            "alt": "Steinmännchen auf Gipfel",
+            "date": "2023-09-02T12:08:06.000+02:00",
+            "width": 1920,
+            "height": 584
+          }
+        ],
+        "text": "Gleicher Blick, aber mit dem Gipfelsteinhaufen als Vordergrund. Dass perfektes Wetter war, brauche ich wohl nicht zu erwähnen..."
+      },
+      {
+        "photos": [
+          {
+            "name": "024",
+            "alt": "Abstieg Tschimas da Tisch",
+            "date": "2023-09-02T12:18:35.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Der Abstieg nach Osten über den Grat war zwar steiler als der Aufstieg, aber nicht besonders ausgesetzt. Die 150m hinunter waren auf jeden Fall schnell erledigt."
+      },
+      {
+        "photos": [
+          {
+            "name": "025",
+            "alt": "Wanderwegweiser",
+            "date": "2023-09-02T12:21:22.000+02:00",
+            "width": 1880,
+            "height": 1080
+          }
+        ],
+        "text": "An diesem Wegweiser muss man sich dann entscheiden, ob man durch das Val Tisch rechts oder entlang des Val Plazbi links zurücklaufen will.<br />Ich hatte mir den (längeren) Weg links hinab ausgesucht."
+      },
+      {
+        "photos": [
+          {
+            "name": "026",
+            "alt": "Tschimas da Tisch",
+            "date": "2023-09-02T12:22:09.000+02:00",
+            "width": 1917,
+            "height": 1080
+          }
+        ],
+        "text": "Blick zurück zum Tschimas da Tisch und den Grat, den ich hinab gekommen war."
+      },
+      {
+        "photos": [
+          {
+            "name": "027",
+            "alt": "Murtel da Lai",
+            "date": "2023-09-02T12:22:54.000+02:00",
+            "width": 1920,
+            "height": 1028
+          }
+        ],
+        "text": "Und hier ist auch schon mein nächste Ziel zu sehen, der See mit dem nicht besonders originellen Namen Lai. Dahinter wieder der Piz Kesch."
+      },
+      {
+        "photos": [
+          {
+            "name": "028",
+            "alt": "Bergsee Lai",
+            "date": "2023-09-02T12:31:24.000+02:00",
+            "width": 1703,
+            "height": 1080
+          },
+          {
+            "name": "029",
+            "alt": "Gebirgsbach",
+            "date": "2023-09-02T12:38:03.000+02:00",
+            "width": 720,
+            "height": 1080
+          }
+        ],
+        "text": "Der Abstieg zum See über die Wiesen. Das letzte Stück weglos entlang eines Bachs, weil der Wanderweg nicht direkt am See vorbeiführt."
+      },
+      {
+        "photos": [
+          {
+            "name": "030",
+            "alt": "See mit Piz Kesch",
+            "date": "2023-09-02T12:40:48.000+02:00",
+            "width": 1705,
+            "height": 1080
+          }
+        ],
+        "text": "Pause um 12:40 am kalten See."
+      },
+      {
+        "photos": [
+          {
+            "name": "031",
+            "alt": "Langzeitbelichtung",
+            "date": "2023-09-02T12:54:14.000+02:00",
+            "width": 1735,
+            "height": 1080
+          }
+        ],
+        "text": "Versuch einer Mehrfachbelichtung über 10min - das geht sicher noch besser."
+      },
+      {
+        "photos": [
+          {
+            "name": "032",
+            "alt": "See mit Wollgras",
+            "date": "2023-09-02T13:00:46.000+02:00",
+            "width": 1897,
+            "height": 1080
+          }
+        ],
+        "text": "Damit sich der holprige Umweg um den ganze See auch gelohnt hat, noch ein Foto von der anderen Seite aus mit dem Tschimas da Tisch (Mitte/Links)."
+      },
+      {
+        "photos": [
+          {
+            "name": "033",
+            "alt": "Kleine Berghütte mit Brücke",
+            "date": "2023-09-02T13:16:10.000+02:00",
+            "width": 1660,
+            "height": 1080
+          }
+        ],
+        "text": "Nach dem ich wieder den richtigen Wanderweg erreicht hatte, kam ich zu dieser urigen kleinen Hütte mit Holzbrücke."
+      },
+      {
+        "photos": [
+          {
+            "name": "034",
+            "alt": "Piz Kesch",
+            "date": "2023-09-02T13:17:01.000+02:00",
+            "width": 720,
+            "height": 1080
+          },
+          {
+            "name": "035",
+            "alt": "Panoramaweg Piz Kesch",
+            "date": "2023-09-02T13:21:01.000+02:00",
+            "width": 1920,
+            "height": 904
+          }
+        ],
+        "text": "Der Piz Kesch drängte sich nun immer ins Bild. Die satten grünen Hänge mit den zwei Bächen sahen einfach toll aus.<br />Der Weg ging nun wenig absteigend den Hang des Val Plazbis entlang."
+      },
+      {
+        "photos": [
+          {
+            "name": "036",
+            "alt": "Alpen Kuhschelle",
+            "date": "2023-09-02T13:31:02.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Eine der lustigen Alpen Kuhschellen. Natürlich mit Piz Kesch im Hintergrund."
+      },
+      {
+        "photos": [
+          {
+            "name": "037",
+            "alt": "Hangweg",
+            "date": "2023-09-02T13:34:47.000+02:00",
+            "width": 1920,
+            "height": 793
+          }
+        ],
+        "text": "Ja, der Hangweg war ziemlich lang, aber sehr schön. Hier der Blick zurück."
+      },
+      {
+        "photos": [
+          {
+            "name": "038",
+            "alt": "Chants",
+            "date": "2023-09-02T13:36:48.000+02:00",
+            "width": 1920,
+            "height": 732
+          }
+        ],
+        "text": "Und der Blick hinab nach Chants, wo ich vor zwei Jahren eine <a href='https://www.dplate.de/alpine/davos/20211009' target='_blank'>Wanderung zur Kesch Hütte</a> startete."
+      },
+      {
+        "photos": [
+          {
+            "name": "039",
+            "alt": "Val Plazbi",
+            "date": "2023-09-02T13:39:41.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Nach ein mal der Blick zurück. Nun wurde der Weg etwas steiler und ich hatte bald das Ende dieses Hangs erreicht."
+      },
+      {
+        "photos": [
+          {
+            "name": "040",
+            "alt": "Alp Muotta Sur",
+            "date": "2023-09-02T13:55:42.000+02:00",
+            "width": 1920,
+            "height": 992
+          }
+        ],
+        "text": "Nach dem Knick nach Westen war der Hang mehr eine Hochfläche und es ging durch Blaubeeren und Lärchen hindurch.<br />Der Weg war hier zum Teil ziemlich matschig und von Kühen zertreten."
+      },
+      {
+        "photos": [
+          {
+            "name": "041",
+            "alt": "Panoramaweg Darlux",
+            "date": "2023-09-02T14:08:39.000+02:00",
+            "width": 1920,
+            "height": 867
+          }
+        ],
+        "text": "Die Landschaft war aber auch hier sehr schön (Blick zurück). Dieser Wegabschnitt wird auch als Panoramaweg Darlux beworben und führt vom Sessellift nach Chants. Dementsprechend war jetzt richtig viel los - d.h. ich begegnete fünf anderen Wanderern."
+      },
+      {
+        "photos": [
+          {
+            "name": "042",
+            "alt": "Frisches Bergwasser",
+            "date": "2023-09-02T14:23:18.000+02:00",
+            "width": 720,
+            "height": 1080
+          }
+        ],
+        "text": "Die Brücke über diesen rauschenden Bach hatte zum Glück die starken Regenfälle der letzten Woche überstanden, sonst wäre es hier schwierig geworden."
+      },
+      {
+        "photos": [
+          {
+            "name": "043",
+            "alt": "Wanderweg durch Heidelbeeren",
+            "date": "2023-09-02T14:27:28.000+02:00",
+            "width": 720,
+            "height": 1080
+          }
+        ],
+        "text": "Kleiner Zwischenanstieg in der Hitze."
+      },
+      {
+        "photos": [
+          {
+            "name": "044",
+            "alt": "Graslandschaft mit Granit",
+            "date": "2023-09-02T14:47:55.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Pause auf einer schönen Wiese mit Granitfelsen. Da nun langsam der weitere Weg absehbar wurde, gönnte ich mir eine weitere Pause. Inzwischen war es schon 15:00.<br />Leider konnte ich von hier auch genau sehen, dass ich noch mal 40m links den Hang aufsteigen musste..."
+      },
+      {
+        "photos": [
+          {
+            "name": "045",
+            "alt": "Wandern Bergün",
+            "date": "2023-09-02T15:03:45.000+02:00",
+            "width": 1616,
+            "height": 1080
+          }
+        ],
+        "text": "Es war aber zum Glück nicht so anstrengend, wie es aussah und hier hatte ich es schon fast geschafft."
+      },
+      {
+        "photos": [
+          {
+            "name": "046",
+            "alt": "Fahrweg Darlux",
+            "date": "2023-09-02T15:11:42.000+02:00",
+            "width": 1738,
+            "height": 1080
+          }
+        ],
+        "text": "Nach einer kleinen Abkürzung über eine Skipiste kam ich schließlich auf der Fahrstraße an, die ich am Morgen noch vermeiden konnte.<br />Diese Straße musste ich nun 300m hinablaufen. Alternativ hätte ich auch den Sessellift um 16:00 oder 17:00 nehmen können, aber ich hatte noch etwas Eisenbahn-Sightseeing vor."
+      },
+      {
+        "photos": [
+          {
+            "name": "047",
+            "alt": "Spazierweg Darlux",
+            "date": "2023-09-02T15:28:52.000+02:00",
+            "width": 931,
+            "height": 1080
+          }
+        ],
+        "text": "Der Abstieg auf der Straße war aber angenehm, da sie genau die richtige Steigung zum flotten Ausschreiten hatte."
+      },
+      {
+        "photos": [
+          {
+            "name": "048",
+            "alt": "Schmaler Weg durch lichten Wald",
+            "date": "2023-09-02T16:01:43.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Bei einer Höhe von 1700m bog ich von der Straße ab und folgte einem schmalen Wanderweg Richtung Bergün."
+      },
+      {
+        "photos": [
+          {
+            "name": "049",
+            "alt": "Aussichtspunkt Sot igls Munts",
+            "date": "2023-09-02T16:03:29.000+02:00",
+            "width": 1765,
+            "height": 1080
+          },
+          {
+            "name": "050",
+            "alt": "Bergün von oben",
+            "date": "2023-09-02T16:03:39.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Völlig überraschend kam ich zu einem tollen Aussichtspunkt oberhalb von Bergün, der auf keiner meiner Karten verzeichnet war.<br />Und schon ergab sich das erste Foto der Albulabahn."
+      },
+      {
+        "photos": [
+          {
+            "name": "051",
+            "alt": "Das Bahndorf Bergün",
+            "date": "2023-09-02T16:22:03.000+02:00",
+            "width": 1616,
+            "height": 1080
+          }
+        ],
+        "text": "Nach 20min weiteren Abstiegs kam ich nach Bellavista, einer Wiese die in einer der Schleifen der Albulabahn liegt.<br />Fotos mit Zug abzupassen ist bei dem eng getaktetem Fahrplan keine große Kunst. Nur die Sonne machte sich nun etwas rar wegen ein paar Wolken über dem Piz Ela."
+      },
+      {
+        "photos": [
+          {
+            "name": "052",
+            "alt": "Latsch",
+            "date": "2023-09-02T16:35:43.000+02:00",
+            "width": 1727,
+            "height": 1080
+          }
+        ],
+        "text": "Blick hinüber nach Latsch, einem kleinen Ort oberhalb von Bergün."
+      },
+      {
+        "photos": [
+          {
+            "name": "053",
+            "alt": "Albulabahn",
+            "date": "2023-09-02T16:46:36.000+02:00",
+            "width": 1920,
+            "height": 985
+          }
+        ],
+        "text": "Kleine Fotomontage der Albulabahn - so dicht fahren sie dann doch nicht hintereinander her. Eigentlich wollte ich die Wanderung 2022 machen, als der Weltrekord für den längsten Zug aufgestellt wurde. An dem Tag war das Wetter aber leider nicht gut genug für eine solche Wanderung."
+      },
+      {
+        "photos": [
+          {
+            "name": "054",
+            "alt": "Parkplatz Darlux",
+            "date": "2023-09-02T17:08:14.000+02:00",
+            "width": 1422,
+            "height": 1080
+          }
+        ],
+        "text": "Der Weg von dort zurück zur Talstation und Parkplatz war etwas viel hin und her, weil noch zweimal die Bahntrasse passiert werden mussten. Am Auto kam ich schließlich um 17:15 an."
+      }
+    ],
+    "outro": "Fazit: Zum größten Teil harmlose, aber ziemlich anstrengende Wanderung auf einen hohen Gipfel. Eine weite Fernsicht darf man zwar nicht erwarten, weil die umgebenen Berge alle höher sind, es ist aber trotzdem eine tolle Kulisse. Etwas später im Jahr bei gelben Lärchen ist die Tour evt. noch schöner. Wer auf die Eisenbahn verzichten will, kann den Sessellift auch wieder bergab nehmen - viel zeitlichen Spielraum hat man dann aber nicht.<br />Insgesamt war ich 8,5h unterwegs, davon 6,5h und 21km aktiv gewandert. Hinauf ging es 1100m und bergab 1600m."
+  }
+]
