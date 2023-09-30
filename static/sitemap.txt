@@ -235,3 +235,4 @@ https://www.dplate.de/alpine/brandnertal/20230617
 https://www.dplate.de/alpine/glarus/20230624
 https://www.dplate.de/alpine/alpstein/20230709
 https://www.dplate.de/alpine/davos/20230902
+https://www.dplate.de/alpine/pizol/20230924
