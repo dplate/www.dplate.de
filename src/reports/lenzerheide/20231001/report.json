@@ -1,0 +1,657 @@
+[
+  {
+    "destination": "lenzerheide",
+    "date": "d20231001",
+    "type": "hike",
+    "track": true,
+    "detailMap": "swiss",
+    "shortTitle": "Piz Beverin",
+    "title": "Mathon - Piz Beverin",
+    "title3d": {
+      "offsetY": 2,
+      "fontSize": 8.7,
+      "align": "left",
+      "width": 1920,
+      "height": 508
+    },
+    "movie": "tctWzJ7RNWE",
+    "intro": "Seit ich eine <a href='/alpine/lenzerheide/20220828' target='_blank'>Wanderung am Glaspass</a> unternommen hatte, wollte ich auch mal auf den fast 3000m hohen Piz Beverin wandern. Da dafür der Schnee weg und das Wetter stabil sein muss, bietet sich vor allem der Herbst an. An diesem ersten Tag des Oktobers war es nun so weit und ich fuhr zum kleinen Ort Mathon, um dort um 8:00 meine Wanderung zu starten.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Mathon",
+            "date": "2023-10-01T08:11:23.000+02:00",
+            "width": 1920,
+            "height": 894
+          }
+        ],
+        "text": "Hier bin ich schon ein paar Meter oberhalb des 1500m hohen Orts Mathon. Gerade ging die Sonne über den Gipfeln auf der anderen Talseite des Hinterrheins auf."
+      },
+      {
+        "photos": [
+          {
+            "name": "002",
+            "alt": "Wanderung Hinterrhein",
+            "date": "2023-10-01T08:18:27.000+02:00",
+            "width": 1920,
+            "height": 994
+          }
+        ],
+        "text": "Blick das Tal hinauf Richtung San Bernadino."
+      },
+      {
+        "photos": [
+          {
+            "name": "003",
+            "alt": "Dunstiges Wetter",
+            "date": "2023-10-01T08:23:46.000+02:00",
+            "width": 1920,
+            "height": 968
+          }
+        ],
+        "text": "Der Weg hier war angenehm zu laufen und ist nicht zu steil - man kommt schnell voran."
+      },
+      {
+        "photos": [
+          {
+            "name": "004",
+            "alt": "Aufstieg über Weiden",
+            "date": "2023-10-01T08:26:53.000+02:00",
+            "width": 1589,
+            "height": 1080
+          }
+        ],
+        "text": "Nach ca. einer halben Stunde wird der Weg hier flacher und ich befand mich auf den Weiden unterhalb von Mursenas."
+      },
+      {
+        "photos": [
+          {
+            "name": "005",
+            "alt": "Herbstwiese",
+            "date": "2023-10-01T08:29:39.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Blick zurück. Leider war es an diesem Tag sehr dunstig, weshalb die Fotos etwas trüb wurden."
+      },
+      {
+        "photos": [
+          {
+            "name": "006",
+            "alt": "Parkplatz Mursenas",
+            "date": "2023-10-01T08:52:46.000+02:00",
+            "width": 1805,
+            "height": 1080
+          }
+        ],
+        "text": "Hier bin ich bereits oberhalb des 1900m hohen Mursenas. Bis dort kann man mit dem Auto fahren, wenn man für 10CHF eine Fahrbewilligung am Automaten kauft. Viele, die auf den Piz Beverin wandern, parken dort. Es sind aber nicht viele Parkplätze vorhanden."
+      },
+      {
+        "photos": [
+          {
+            "name": "007",
+            "alt": "Alternativroute",
+            "date": "2023-10-01T08:53:05.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Wenn man in Mursenas parkt, bietet sich der Aufstieg über diese Straße an, damit man nicht zu viel gleichen Weg hin und zurück hat. Ich hatte mir aber eine andere Runde ausgesucht, so dass ich hier zunächst den direkteren Weg nahm."
+      },
+      {
+        "photos": [
+          {
+            "name": "008",
+            "alt": "Val Mirer",
+            "date": "2023-10-01T08:57:33.000+02:00",
+            "width": 1772,
+            "height": 1080
+          }
+        ],
+        "text": "Der Weg führt, angenehm aufsteigend, entlang des Val Mirer. Im Hintergrund ist übrigens das Ziel der Wanderung zu sehen, der Piz Beverin."
+      },
+      {
+        "photos": [
+          {
+            "name": "009",
+            "alt": "Ausgebauter Wanderweg",
+            "date": "2023-10-01T09:18:12.000+02:00",
+            "width": 1920,
+            "height": 983
+          }
+        ],
+        "text": "Dann wurde es etwas verwirrend, weil die Wanderwege nicht mit den Wanderkarten übereinstimmten - denn hier wurde ein neuer Weg angelegt. Die Landschaft ist aber hier so harmlos, dass man sich nicht wirklich versteigen kann."
+      },
+      {
+        "photos": [
+          {
+            "name": "010",
+            "alt": "Wegweiser Alp Nursin",
+            "date": "2023-10-01T09:56:23.000+02:00",
+            "width": 1920,
+            "height": 824
+          }
+        ],
+        "text": "Nach insgesamt 2h konstantem Aufstieg erreichte ich diesen Wegweiser, der sich auf einem kleinen Sattel unterhalb die Beverin Pintg befindet. Hier ist auch eine (sehr kleine) Alphütte. Mit über 2400m ist man schon recht hoch.<br />Von hier gibt es zwei Weg zum Gipfel: Im Uhrzeigersinn über die Beverin Lücke oder andersherum über den Beverin Pintg. Da der Aufstieg über die Beverin Lücke steiler ist, wählte ich diese Variante für den Aufstieg."
+      },
+      {
+        "photos": [
+          {
+            "name": "011",
+            "alt": "Brunnen mit frischem Wasser",
+            "date": "2023-10-01T10:13:22.000+02:00",
+            "width": 1618,
+            "height": 1080
+          }
+        ],
+        "text": "Hier bin ich bereits eher flach vom Wegweiser (hinten rechts auf dem Grat) in das Nachbartal gelaufen. Der Brunnen hier hatte sehr klares und erfrischendes Wasser. Trotz der Höhe und Oktober war es ziemlich warm."
+      },
+      {
+        "photos": [
+          {
+            "name": "012",
+            "alt": "Wanderweg Beverin Lücke",
+            "date": "2023-10-01T10:28:37.000+02:00",
+            "width": 1644,
+            "height": 1080
+          }
+        ],
+        "text": "Der Blick hinauf zur Beverin Lücke. Man sollte sich hier nicht täuschen lassen - es war von hier noch eine halbe Stunde anstrengender Aufstieg."
+      },
+      {
+        "photos": [
+          {
+            "name": "013",
+            "alt": "Dunstgrenze",
+            "date": "2023-10-01T10:30:59.000+02:00",
+            "width": 1862,
+            "height": 1080
+          },
+          {
+            "name": "014",
+            "alt": "Gipfel über dem Dunst",
+            "date": "2023-10-01T10:51:42.000+02:00",
+            "width": 1920,
+            "height": 740
+          }
+        ],
+        "text": "Mit jedem weiteren Höhenmeter verließ ich nun endlich den Dunst und die Luft (und Sicht) wurde klarer."
+      },
+      {
+        "photos": [
+          {
+            "name": "015",
+            "alt": "Wegweiser Beverin Lücke",
+            "date": "2023-10-01T11:06:13.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Den Wegweiser an der Beverin Lücke erreichte ich gegen 11:00. Mit bereits ~2800m Höhe war es nun nicht mehr weit zum Gipfel, aber für die letzten 30min sollte man hier noch etwas Energie (und vor allem Luft) übrig haben."
+      },
+      {
+        "photos": [
+          {
+            "name": "016",
+            "alt": "Beverin Lücke",
+            "date": "2023-10-01T11:08:02.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Zur eigentlichen Beverin Lücke machte ich noch einen Abstecher, um auf der anderen Seite hinab Richtung Nord/West zu schauen. Über diesen Pass führt ein blauer Alpinweg vom Glaspass hinauf - nichts für mich."
+      },
+      {
+        "photos": [
+          {
+            "name": "017",
+            "alt": "Schwierigkeit Piz Beverin",
+            "date": "2023-10-01T11:12:41.000+02:00",
+            "width": 1240,
+            "height": 1080
+          }
+        ],
+        "text": "Von der Beverin Lücke aus müssen zwei Steilstufen überwunden werden, die jeweils mit Ketten gesichert sind. Diese braucht man nicht nur zum festhalten, sondern sie sind auch nützlich, um sich nach oben zu ziehen. Der Weg ist zwar nicht besonders ausgesetzt oder schwierig, aber wegen der Höhe war es sehr anstrengend."
+      },
+      {
+        "photos": [
+          {
+            "name": "018",
+            "alt": "Weg durch Felsen",
+            "date": "2023-10-01T11:13:55.000+02:00",
+            "width": 1920,
+            "height": 1057
+          }
+        ],
+        "text": "Abgesehen von den Steilstufen war der Weg einfach und ging durch solch ein Gelände hinauf. Der Himmel nun stahlblau."
+      },
+      {
+        "photos": [
+          {
+            "name": "019",
+            "alt": "Blick auf Beverin Lücke",
+            "date": "2023-10-01T11:17:07.000+02:00",
+            "width": 1774,
+            "height": 1080
+          },
+          {
+            "name": "020",
+            "alt": "Bruschghorn",
+            "date": "2023-10-01T11:23:49.000+02:00",
+            "width": 832,
+            "height": 1080
+          }
+        ],
+        "text": "Nach der ersten Steilstufe der Blick zurück Richtung Beverin Lücke. Im Hintergrund ist das Bruschghorn zu sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "021",
+            "alt": "Piz Beverin",
+            "date": "2023-10-01T11:26:45.000+02:00",
+            "width": 1774,
+            "height": 1080
+          }
+        ],
+        "text": "Das ist noch nicht der richtige Gipfel des Piz Beverin, er befindet sich dahinter. Aber die zweite Steilstufe ist hier zu erkennen. Nun kamen mir auch die ersten Wanderer entgegen, die den Gipfelabschnitt andersherum liefen."
+      },
+      {
+        "photos": [
+          {
+            "name": "022",
+            "alt": "Gipfeltour Graubünden",
+            "date": "2023-10-01T11:29:07.000+02:00",
+            "width": 1920,
+            "height": 1014
+          }
+        ],
+        "text": "Blick zurück. Nun öffnete sich schnell der Blick in alle Richtungen."
+      },
+      {
+        "photos": [
+          {
+            "name": "023",
+            "alt": "Letzte Meter zum Gipfel",
+            "date": "2023-10-01T11:40:05.000+02:00",
+            "width": 1855,
+            "height": 1080
+          }
+        ],
+        "text": "Die letzten Meter auf den flachen Gipfel waren dann wieder einfach."
+      },
+      {
+        "photos": [
+          {
+            "name": "024",
+            "alt": "Blick zum Glaspass",
+            "date": "2023-10-01T11:44:06.000+02:00",
+            "width": 1920,
+            "height": 815
+          }
+        ],
+        "text": "Den Gipfel erreichte ich schließlich um 11:44, nach also knapp 4h von Mathon aus. Auf dem Wegweiser in Mathon waren 4:15h angegeben, passt also ganz gut.<br />Hier der Blick nach Norden: Unten der Glaspass, dahinter der Piz Fess und dahinter der Vorab (Mitte), Tödi (links) und Ringelspitz (rechts),"
+      },
+      {
+        "photos": [
+          {
+            "name": "025",
+            "alt": "Panorama Piz Beverin",
+            "date": "2023-10-01T11:44:35.000+02:00",
+            "width": 1920,
+            "height": 764
+          }
+        ],
+        "text": "Die bereits bekannte Aussicht nach Süd/West.<br />Wie man sieht gibt es mehr als genug Platz auf dem Gipfel. Mit mir waren ca. 10 andere Wanderer auf dem Gipfel."
+      },
+      {
+        "photos": [
+          {
+            "name": "026",
+            "alt": "Fernblick Piz Beverin",
+            "date": "2023-10-01T11:45:44.000+02:00",
+            "width": 1920,
+            "height": 951
+          }
+        ],
+        "text": "Der Blick nach Nord/Ost. Da es dort an hohen Bergen mangelt, war hier vor allem der Dunst zu sehen. Dafür kam ich mir aber richtig hoch vor. :)"
+      },
+      {
+        "photos": [
+          {
+            "name": "027",
+            "alt": "Hochgebirge",
+            "date": "2023-10-01T11:47:33.000+02:00",
+            "width": 1920,
+            "height": 600
+          }
+        ],
+        "text": "Am schönsten war der Blick nach Süd/Ost, weil hier die Sonne den Dunst leuchten ließ."
+      },
+      {
+        "photos": [
+          {
+            "name": "028",
+            "alt": "Gipfel Piz Beverin",
+            "date": "2023-10-01T11:49:39.000+02:00",
+            "width": 1920,
+            "height": 916
+          },
+          {
+            "name": "029",
+            "alt": "Gipfelbuch",
+            "date": "2023-10-01T11:50:52.000+02:00",
+            "width": 1735,
+            "height": 1080
+          }
+        ],
+        "text": "Auf dem Piz Beverin gibt es statt eines Gipfelkreuzes ein Steinmännchen, in das sogar ein Gipfelbuch eingelassen ist.<br /> Und wer drauf Wert legt: Das Steinmännchen ist höher als 2m, vervollständigt also die 3000m, die der Piz Beverin mit 2998m nicht ganz erreicht. ;)"
+      },
+      {
+        "photos": [
+          {
+            "name": "030",
+            "alt": "Alpendohle im Flug",
+            "date": "2023-10-01T12:00:48.000+02:00",
+            "width": 1920,
+            "height": 954
+          },
+          {
+            "name": "031",
+            "alt": "Vogel über den Bergen",
+            "date": "2023-10-01T12:06:20.000+02:00",
+            "width": 1920,
+            "height": 866
+          }
+        ],
+        "text": "Während meiner Pause auf dem Gipfel hatte ich Zeit, die Alpendohlen vor den dunstigen Bergen zu fotografieren.<br />Hier war dann auch etwas frischer Wind zu spüren, so dass ich doch meine Jacke über das T-Shirt ziehen musste."
+      },
+      {
+        "photos": [
+          {
+            "name": "032",
+            "alt": "Wegweiser Piz Beverin",
+            "date": "2023-10-01T12:13:43.000+02:00",
+            "width": 1777,
+            "height": 1080
+          }
+        ],
+        "text": "Nach einer halben Stunde machte ich mich an den Abstieg, wie angekündigt über den Beverin Pintg. Auf dem Wegweiser wird auch schon dezent das nächste Highlight der Wanderung verraten."
+      },
+      {
+        "photos": [
+          {
+            "name": "033",
+            "alt": "Bergschattierungen",
+            "date": "2023-10-01T12:14:03.000+02:00",
+            "width": 1920,
+            "height": 916
+          }
+        ],
+        "text": "Noch ein letztes Fotos vom Gipfel auf das Dunstmeer."
+      },
+      {
+        "photos": [
+          {
+            "name": "034",
+            "alt": "Weg über flache Steine",
+            "date": "2023-10-01T12:26:20.000+02:00",
+            "width": 1831,
+            "height": 1080
+          }
+        ],
+        "text": "Der Abstieg über den Bergrücken ist zu erst flach und einfach. Im Hintergrund ist bereits der Beverin Pintg zu sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "035",
+            "alt": "Geröllfeld Piz Beverin",
+            "date": "2023-10-01T12:31:08.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Dann wird es zwar etwas steiler, aber immer noch einfach. Umgekehrt ist dieser Abschnitt wahrscheinlich sehr anstrengend."
+      },
+      {
+        "photos": [
+          {
+            "name": "036",
+            "alt": "Wanderweg mit Leiter",
+            "date": "2023-10-01T12:34:48.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "037",
+            "alt": "Leiter Piz Beverin",
+            "date": "2023-10-01T12:36:43.000+02:00",
+            "width": 1712,
+            "height": 1080
+          },
+          {
+            "name": "038",
+            "alt": "Leiter auf Beverin Pintg",
+            "date": "2023-10-01T12:37:09.000+02:00",
+            "width": 792,
+            "height": 1080
+          }
+        ],
+        "text": "Und schnell hatte ich die Leiter erreicht, die einen kleinen Felsabsatz hinaufführt. Unintuitive muss man sie beim Aufstieg auf den Piz Beverin hinabsteigen und beim Abstieg hinauf. Ich konnte sie also hinauf nehmen.<br />Rechts daneben sind übrigens noch die Reste der alten Leiter zu erkennen... das wäre schon deutlich schwieriger gewesen und der Weg blau markiert (siehe übermalte Wegzeichen)."
+      },
+      {
+        "photos": [
+          {
+            "name": "039",
+            "alt": "Oberhalb der Leiter",
+            "date": "2023-10-01T12:39:20.000+02:00",
+            "width": 1920,
+            "height": 1069
+          }
+        ],
+        "text": "Oberhalb der Leiter ist es wieder flach. Hier der Blick zurück. Die Leiter bildet seltsamerweise auch eine scharfe Grenze zwischen den Geröllfeldern des Piz Beverin und dem Gras auf dem Beverin Pintg."
+      },
+      {
+        "photos": [
+          {
+            "name": "040",
+            "alt": "Gratweg",
+            "date": "2023-10-01T12:49:02.000+02:00",
+            "width": 1612,
+            "height": 1080
+          },
+          {
+            "name": "041",
+            "alt": "Wanderweg Piz Beverin",
+            "date": "2023-10-01T13:02:08.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Dieser Wegabschnitt hat mir sehr gut gefallen, führt er doch auf dem tollen Grat, nicht zu steil, hinab."
+      },
+      {
+        "photos": [
+          {
+            "name": "042",
+            "alt": "Beverin Pintg",
+            "date": "2023-10-01T13:04:14.000+02:00",
+            "width": 1920,
+            "height": 843
+          }
+        ],
+        "text": "Den Beverin Pintg erreichte ich um 13:00. Zeit für eine weitere Pause, bevor ich den nun folgenden - steileren - Abstieg zu meinem Hinweg startete."
+      },
+      {
+        "photos": [
+          {
+            "name": "043",
+            "alt": "Kletterstelle",
+            "date": "2023-10-01T13:10:48.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Hier gibt es eine kleine Kraxelstelle, bei der man durchaus die Hände braucht. Das Gestein ist aber einfach zu gehen, da es natürlich Stufen bildet."
+      },
+      {
+        "photos": [
+          {
+            "name": "044",
+            "alt": "Weg durch Grasbuckel",
+            "date": "2023-10-01T13:26:41.000+02:00",
+            "width": 1662,
+            "height": 1080
+          }
+        ],
+        "text": "Nun folgte ich kurz meinem Hinweg durch diese Grasbuckellandschaft."
+      },
+      {
+        "photos": [
+          {
+            "name": "045",
+            "alt": "Alter Wanderweg",
+            "date": "2023-10-01T13:47:32.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Dann lief ich aber nicht den neu angelegtem Weg, sondern folgte dem noch deutlich sichtbaren alten Wanderweg. Der Grund war nicht nur Abwechslung, sondern ich wollte auch etwas unnötigen Abstieg vermeiden, in dem ich möglichst direkt diese Grasfläche (und einen Bach) querte."
+      },
+      {
+        "photos": [
+          {
+            "name": "046",
+            "alt": "Alpstraße mit Piz Beverin",
+            "date": "2023-10-01T13:59:19.000+02:00",
+            "width": 1920,
+            "height": 1005
+          }
+        ],
+        "text": "An diesem Alpweg erreichte ich dann wieder den offiziellen Wanderweg. Hier der Blick zurück zum Piz Beverin und Beverin Pintg."
+      },
+      {
+        "photos": [
+          {
+            "name": "047",
+            "alt": "Fahrweg durch herbstliches Gras",
+            "date": "2023-10-01T14:00:20.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Ohne Steigung ging es nun auf dieser Straße entlang, was meinen Beinen ganz gut tat."
+      },
+      {
+        "photos": [
+          {
+            "name": "048",
+            "alt": "Libi See mit Piz Curver",
+            "date": "2023-10-01T14:20:23.000+02:00",
+            "width": 1920,
+            "height": 810
+          },
+          {
+            "name": "049",
+            "alt": "Wanderung Libisee",
+            "date": "2023-10-01T14:21:24.000+02:00",
+            "width": 1619,
+            "height": 1080
+          }
+        ],
+        "text": "Auf einfachen Wegen erreichte ich so nach 20min den Libi See, an dem sich auch eine kleine Grillstelle befindet. Fast bis zum 2000m hoch gelegenen See kann man übrigens wieder mit der selben Fahrbewilligung hinauffahren."
+      },
+      {
+        "photos": [
+          {
+            "name": "050",
+            "alt": "Glasklarer Bergsee",
+            "date": "2023-10-01T14:24:30.000+02:00",
+            "width": 1920,
+            "height": 917
+          }
+        ],
+        "text": "Da der Rest des Wegs absehbar wurde, gönnte ich mir eine längere Pause auf der Wiese am (überraschend) glasklaren See. Die Farben der grünen und braunen Wiesen in Kombination mit dem klaren Wasser sahen sehr schön aus.<br />Im Hintergrund noch einmal der Piz Beverin, der nun schon sehr weit entfernt aussah."
+      },
+      {
+        "photos": [
+          {
+            "name": "051",
+            "alt": "Alplandschaft",
+            "date": "2023-10-01T14:48:05.000+02:00",
+            "width": 1920,
+            "height": 1079
+          },
+          {
+            "name": "052",
+            "alt": "Herbstwanderung Beverin",
+            "date": "2023-10-01T14:51:15.000+02:00",
+            "width": 1618,
+            "height": 1080
+          },
+          {
+            "name": "053",
+            "alt": "Alphütten mit Bach",
+            "date": "2023-10-01T14:52:35.000+02:00",
+            "width": 1638,
+            "height": 1080
+          }
+        ],
+        "text": "Vom See aus ging es zunächst auf einer Fahrstraße flach hinab. Hat mich aber auf Grund der schönen Landschaft und des tollen Wetters nicht gestört."
+      },
+      {
+        "photos": [
+          {
+            "name": "054",
+            "alt": "Bergbach",
+            "date": "2023-10-01T15:28:03.000+02:00",
+            "width": 815,
+            "height": 1080
+          }
+        ],
+        "text": "Dann kürzt der Wanderweg aber die Serpentinen der Straße ab und führte direkt durch den Wald. Eigentlich bis zum Ort Lohn, aber die letzte Serpentinenabkürzung war wegen Holzfällarbeiten gesperrt, so dass ich doch nochmal auf die Straße ausweichen musste. Dafür gab's dort einen Bergbach, der mit Langzeitbelichtung fotografiert werden wollte."
+      },
+      {
+        "photos": [
+          {
+            "name": "055",
+            "alt": "Klangweg Mathon Lohn",
+            "date": "2023-10-01T15:39:31.000+02:00",
+            "width": 1727,
+            "height": 1080
+          }
+        ],
+        "text": "Dann erreichte ich den Klangweg, der Lohn und Mathon verbindet und durch den Klangwald führt. Hier gibt es ein paar Stationen für Kinder um Lärm zu machen. Aber im Vergleich zum Klangweg in Wildhaus fehlt es wohl noch an Popularität... zumindest ist mir hier niemand begegnet."
+      },
+      {
+        "photos": [
+          {
+            "name": "056",
+            "alt": "Spazierweg Mathon",
+            "date": "2023-10-01T15:49:00.000+02:00",
+            "width": 1878,
+            "height": 1080
+          }
+        ],
+        "text": "Mit etwas Auf- (ächz) und Abstieg führt der Weg oberhalb der Autostraße durch den schönen Lärchenwald. Hier tauchten dann schon die ersten Häuser von Mathon auf."
+      },
+      {
+        "photos": [
+          {
+            "name": "057",
+            "alt": "Parkplatz Mathon",
+            "date": "2023-10-01T15:58:36.000+02:00",
+            "width": 1688,
+            "height": 1080
+          }
+        ],
+        "text": "Den Parkplatz (gratis) von Mathon erreichte ich um 16:00. Hier gibt es auch eine Toilette (gratis), einen Spielplatz (gratis) und ein Restaurant (nicht gratis)."
+      }
+    ],
+    "outro": "Fazit: Der Piz Beverin ist ein klasse Wanderberg, auf dem man (zumindest bei klarerem Wetter) eine super Aussicht hat. Von Mathon aus muss man dafür aber 1400m hinaufsteigen, was aber machbar ist, da der Weg insgesamt nicht weit ist. Wer die Höhenmeter auf unter 1000 drücken will, kann in Mursenas parken. Meine Abstiegsvariante über den Libisee war schön und bedeutete noch ein paar Kilometer extra (aber kaum Höhenmeter).<br />Die Schwierigkeit des Piz Beverin liegt hauptsächlich in der Anstrengung und der Höhe. Die schwierigeren Stellen sind mit Ketten und der Leiter sehr gut gesichert und auch für ältere Kinder machbar."
+  }
+]
