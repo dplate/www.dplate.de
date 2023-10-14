@@ -58,4 +58,6 @@ Redirect 301 /alpine/fronalpstock https://www.dplate.de/alpine/glarus
 Redirect 301 /photos/fronalpstock https://www.dplate.de/photos/glarus
 Redirect 301 /alpine/murgseen https://www.dplate.de/alpine/glarus
 Redirect 301 /photos/murgseen https://www.dplate.de/photos/glarus
+Redirect 301 /alpine/pilatus https://www.dplate.de/alpine/vierwaldstaettersee
+Redirect 301 /photos/pilatus https://www.dplate.de/photos/vierwaldstaettersee
 redirectMatch  301 ^/photos$ https://www.dplate.de/showcase

@@ -1,0 +1,349 @@
+[
+  {
+    "destination": "vierwaldstaettersee",
+    "date": "d20231005",
+    "type": "hike",
+    "track": true,
+    "detailMap": "swiss",
+    "shortTitle": "Gratwanderweg",
+    "title": "Stoos - Gratwanderweg",
+    "title3d": {
+      "offsetY": 5,
+      "fontSize": 7.5,
+      "align": "left",
+      "width": 1920,
+      "height": 601
+    },
+    "movie": "ZT5Rk1DDjGY",
+    "intro": "An einem Donnerstag ging es auf eine Wanderung beim autofreien Ort Stoos oberhalb des Vierwaldstättersees. Genauer: den sehr bekannten Gratwanderweg vom Klingenstock zum Fronalpstock.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Stoosbahn Talstation",
+            "date": "2023-10-05T10:44:55.000+02:00",
+            "width": 691,
+            "height": 1080
+          }
+        ],
+        "text": "Ankunft um 10:40 mit dem Auto im kostenpflichtigen Parkhaus der Stoosbahn. Die Standseilbahn hinauf zum Ort Stoos ist die steilste der Welt und ziemlich neu. Sie fährt bei wenig Andrang nur jede halbe Stunde, dann ist man aber innerhalb von 5min schnell 800m höher in Stoos."
+      },
+      {
+        "photos": [
+          {
+            "name": "002",
+            "alt": "Stoos Lodge",
+            "date": "2023-10-05T11:20:22.000+02:00",
+            "width": 1920,
+            "height": 783
+          }
+        ],
+        "text": "Blick auf die Bergstation der Stoosbahn (rechts) und das neue große Hotel Stoos Lodge (links). Im Hintergrund sind die beeindruckenden Mythen zu sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "004",
+            "alt": "Sesselbahn Klingenstock",
+            "date": "2023-10-05T11:26:28.000+02:00",
+            "width": 1920,
+            "height": 938
+          }
+        ],
+        "text": "Zunächst ging es auf einfachem Spazierweg hinüber zur Klingenstock Sesselbahn, mit der wir noch ein paar Höhenmeter (600m) erschummeln wollten."
+      },
+      {
+        "photos": [
+          {
+            "name": "005",
+            "alt": "Chaiserstock",
+            "date": "2023-10-05T11:45:38.000+02:00",
+            "width": 1920,
+            "height": 939
+          }
+        ],
+        "text": "Blick aus der Sesselbahn zum spitzen Chaiserstock auf der anderen Seite des Riemenstaldner Tals."
+      },
+      {
+        "photos": [
+          {
+            "name": "006",
+            "alt": "Klingenstock",
+            "date": "2023-10-05T11:49:25.000+02:00",
+            "width": 1920,
+            "height": 856
+          }
+        ],
+        "text": "Der Gipfel des Klingenstock befindet sich nur wenige Meter neben der Bergstation. Schon hier ist die Aussicht toll."
+      },
+      {
+        "photos": [
+          {
+            "name": "007",
+            "alt": "Aussicht Klingenstock",
+            "date": "2023-10-05T11:49:34.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Beim Blick in die andere Richtung, kann man eigentlich schon den ganzen Gratwanderweg vom Klingenstock zum Fronalpstock (ganz rechts) sehen. Der Weg geht fast die gesamte Zeit auf dem Grat entlang."
+      },
+      {
+        "photos": [
+          {
+            "name": "008",
+            "alt": "Wanderweg Stoos",
+            "date": "2023-10-05T11:53:17.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "009",
+            "alt": "Gratweg",
+            "date": "2023-10-05T11:55:45.000+02:00",
+            "width": 1891,
+            "height": 1080
+          }
+        ],
+        "text": "Schon gleich beginnt der eigentliche Weg sehr schön. Grundsätzlich ist der Weg immer breit und wie ein Spazierweg ausgebaut - häufig geht es aber neben dem Weg weit hinab."
+      },
+      {
+        "photos": [
+          {
+            "name": "010",
+            "alt": "Wanderung Vierwaldstättersee",
+            "date": "2023-10-05T11:59:36.000+02:00",
+            "width": 1920,
+            "height": 969
+          }
+        ],
+        "text": "Nun folgte ein Abschnitt, wo der Weg wirklich exakt auf dem Grat angelegt wurde. Sobald der Weg etwas steiler wurde, wurden zudem Treppen verbaut.<br />Links war nun das erste mal der Vierwaldstättersee zu sehen, genauer der Urnersee."
+      },
+      {
+        "photos": [
+          {
+            "name": "011",
+            "alt": "Treppenweg",
+            "date": "2023-10-05T12:04:36.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Genauso beeindruckend ging es auf dem Grat immer weiter. Wie man sieht, ist man hier auch an einem Werktag nie alleine unterwegs. Aber das kann man bei solch einem Weg auch nicht erwarten."
+      },
+      {
+        "photos": [
+          {
+            "name": "012",
+            "alt": "Gesicherter Gratweg",
+            "date": "2023-10-05T12:11:06.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Blick zurück. Hier war der Weg sogar mit einem Kettengeländer abgesichert."
+      },
+      {
+        "photos": [
+          {
+            "name": "013",
+            "alt": "Tiefblick Riemenstaldner Tal",
+            "date": "2023-10-05T12:17:58.000+02:00",
+            "width": 1229,
+            "height": 1080
+          }
+        ],
+        "text": "Auf der linken Seite ging es fast immer steil bergab, bei Höhenangst hat man auf diesem Weg wahrscheinlich wenig Spaß."
+      },
+      {
+        "photos": [
+          {
+            "name": "014",
+            "alt": "Ausgebauter Wanderweg",
+            "date": "2023-10-05T13:00:11.000+02:00",
+            "width": 720,
+            "height": 1080
+          }
+        ],
+        "text": "Immer wieder gab es kleine Zwischengipfel zu überwandern. Da die Temperaturen sehr hoch waren (für Oktober), kam man dabei jedes mal ins Schwitzen."
+      },
+      {
+        "photos": [
+          {
+            "name": "015",
+            "alt": "Stoos Rundwanderung",
+            "date": "2023-10-05T13:18:27.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Blick zurück über den Grat. Jetzt zogen einige hohe Wolkenfelder vorüber, die die Sonne etwas dämpften."
+      },
+      {
+        "photos": [
+          {
+            "name": "016",
+            "alt": "Blick nach Sisikon",
+            "date": "2023-10-05T13:29:17.000+02:00",
+            "width": 1775,
+            "height": 1080
+          }
+        ],
+        "text": "Spektakulärer Tiefblick zum Ort Sisikon. Dies an der einzigen Stelle, wo der Weg den Grat verlässt, um den Gipfel des Huser Stocks zu umgehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "017",
+            "alt": "Huser Stock",
+            "date": "2023-10-05T13:37:21.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Blick zurück zum umgangenen Huser Stock."
+      },
+      {
+        "photos": [
+          {
+            "name": "018",
+            "alt": "Steile Wiesen",
+            "date": "2023-10-05T13:38:28.000+02:00",
+            "width": 1672,
+            "height": 1080
+          }
+        ],
+        "text": "Man gewöhnte sich schon fast an die tollen Ausblicke auf diesem Weg."
+      },
+      {
+        "photos": [
+          {
+            "name": "019",
+            "alt": "Furggelen",
+            "date": "2023-10-05T14:00:15.000+02:00",
+            "width": 1800,
+            "height": 1080
+          }
+        ],
+        "text": "Nach dem kleinen Pass Furggelen begann der einzige größere Aufstieg dieser Wanderung - hinauf auf den Fronalpstock.<br />Hier schon etwas oben und der Blick zurück auf die Alp Furggelen und den Huser Stock."
+      },
+      {
+        "photos": [
+          {
+            "name": "020",
+            "alt": "Urnersee",
+            "date": "2023-10-05T14:22:47.000+02:00",
+            "width": 1920,
+            "height": 893
+          }
+        ],
+        "text": "Noch einmal die Aussicht auf den Urnersee."
+      },
+      {
+        "photos": [
+          {
+            "name": "021",
+            "alt": "Felswand Fronalpstock",
+            "date": "2023-10-05T14:25:51.000+02:00",
+            "width": 1894,
+            "height": 1080
+          }
+        ],
+        "text": "Die Westseite des Fronalpstocks ist eine Felswand, oben aber total flach.<br />Jetzt tauchten auch die anderen Teile des Vierwaldstättersees auf, ganz am Ende der <a href='/alpine/pilatus/20180826' target='_blank'>Pilatus</a>."
+      },
+      {
+        "photos": [
+          {
+            "name": "022",
+            "alt": "Zaun vor Abgrund",
+            "date": "2023-10-05T14:30:57.000+02:00",
+            "width": 1823,
+            "height": 1080
+          }
+        ],
+        "text": "Fotogene Zaunpfähle vor dem Abgrund."
+      },
+      {
+        "photos": [
+          {
+            "name": "023",
+            "alt": "Fronalpstock",
+            "date": "2023-10-05T14:40:21.000+02:00",
+            "width": 1920,
+            "height": 889
+          }
+        ],
+        "text": "Blick hinüber zur Bergstation und Restaurant des Fronalpstocks.<br />Hier endete dann auch der offizielle Gratwanderweg vom Klingenstock, für den man ca. 3h einplanen sollte."
+      },
+      {
+        "photos": [
+          {
+            "name": "024",
+            "alt": "Aussicht Fronalpstock",
+            "date": "2023-10-05T14:43:03.000+02:00",
+            "width": 1699,
+            "height": 1080
+          },
+          {
+            "name": "025",
+            "alt": "Vierwaldstättersee",
+            "date": "2023-10-05T14:46:39.000+02:00",
+            "width": 1920,
+            "height": 923
+          }
+        ],
+        "text": "Die Aussicht vom Fronalpstock ist phantastisch, schaut man doch von oben auf alle Teile des schönen Vierwaldstättersees."
+      },
+      {
+        "photos": [
+          {
+            "name": "026",
+            "alt": "Sesselbahn Fronalpstock",
+            "date": "2023-10-05T15:32:54.000+02:00",
+            "width": 1920,
+            "height": 756
+          }
+        ],
+        "text": "Wir entschieden uns noch den Abstieg zurück nach Stoos zu machen. Das dauert auf dem kürzesten Weg nur ca. 1,5h. Wir wählten aber eine schönere und etwas längere Variante.<br />Hier der Blick entlang der Sesselbahn das Muotathal hinauf."
+      },
+      {
+        "photos": [
+          {
+            "name": "027",
+            "alt": "Wanderung Fronalpstock",
+            "date": "2023-10-05T16:08:40.000+02:00",
+            "width": 1920,
+            "height": 805
+          }
+        ],
+        "text": "Einfacher Weg hinab hinab nach Stoos, am Ende leider auf ziemlich steiniger Skipiste."
+      },
+      {
+        "photos": [
+          {
+            "name": "028",
+            "alt": "Kapelle mit Mythen",
+            "date": "2023-10-05T16:50:49.000+02:00",
+            "width": 1920,
+            "height": 634
+          }
+        ],
+        "text": "Zum Schluss dann noch durch den Ort Stoos mit seiner schönen Holzkapelle. Im Hintergrund der Große Mythen. Ankunft an der Stoosbahn um 17:00."
+      },
+      {
+        "photos": [
+          {
+            "name": "029",
+            "alt": "Standseilbahn Stoos",
+            "date": "2023-10-05T17:30:00.000+02:00",
+            "width": 1920,
+            "height": 987
+          }
+        ],
+        "text": "Blick auf die Standseilbahn mit ihren beweglichen Gondeln. So kann die Trasse sowohl flach als auch extrem steil (110%) sein."
+      }
+    ],
+    "outro": "Fazit: Tolle und einfache Gratwanderung. Für meinen Geschmack war der Weg etwas zu gut ausgebaut. Aber das ist wohl notwendig, um die Massen an den Wochenenden zu verkraften. Da der Weg nicht lang ist, kann man zumindest den Weg hinab ohne Sesselbahnhilfe machen. Und die Stoosbahn selbst ist auch schon einen Besuch wert."
+  }
+]

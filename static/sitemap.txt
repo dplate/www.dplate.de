@@ -31,7 +31,7 @@ https://www.dplate.de/alpine/lenzerheide
 https://www.dplate.de/alpine/malbun
 https://www.dplate.de/alpine/montafon
 https://www.dplate.de/alpine/obersaxen
-https://www.dplate.de/alpine/pilatus
+https://www.dplate.de/alpine/vierwaldstaettersee
 https://www.dplate.de/alpine/pizol
 https://www.dplate.de/alpine/sankt-moritz
 https://www.dplate.de/alpine/savognin
@@ -176,7 +176,7 @@ https://www.dplate.de/alpine/toggenburg/20180526
 https://www.dplate.de/alpine/davos/20180610
 https://www.dplate.de/alpine/toggenburg/20180616
 https://www.dplate.de/alpine/alviergruppe/20180812
-https://www.dplate.de/alpine/pilatus/20180826
+https://www.dplate.de/alpine/vierwaldstaettersee/20180826
 https://www.dplate.de/alpine/praettigau/20180908
 https://www.dplate.de/alpine/alpstein/20180916
 https://www.dplate.de/alpine/savognin/20181009
@@ -237,3 +237,4 @@ https://www.dplate.de/alpine/alpstein/20230709
 https://www.dplate.de/alpine/davos/20230902
 https://www.dplate.de/alpine/pizol/20230924
 https://www.dplate.de/alpine/lenzerheide/20231001
+https://www.dplate.de/alpine/vierwaldstaettersee/20231005

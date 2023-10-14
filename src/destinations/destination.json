@@ -99,10 +99,6 @@
     "name": "Obersaxen-Mundaun"
   },
   {
-    "destination": "pilatus",
-    "name": "Pilatus"
-  },
-  {
     "destination": "pizol",
     "name": "Pizol",
     "skiTeaser": true,
@@ -137,5 +133,9 @@
   {
     "destination": "vals",
     "name": "Vals"
+  },
+  {
+    "destination": "vierwaldstaettersee",
+    "name": "Vierwaldstättersee"
   }
 ]
