@@ -1,0 +1,759 @@
+[
+  {
+    "destination": "praettigau",
+    "date": "d20231028",
+    "type": "hike",
+    "track": true,
+    "detailMap": "swiss",
+    "shortTitle": "Girenspitz",
+    "title": "Laubenzug - Girenspitz",
+    "title3d": {
+      "offsetY": 5,
+      "fontSize": 7.7,
+      "align": "right",
+      "width": 1920,
+      "height": 673
+    },
+    "movie": "4eAksofXsIo",
+    "intro": "Eigentlich wollte ich an diesem Herbstsamstag eine kleiner Wanderung durch die Lärchenwälder unterhalb der Calanda-Hütte machen, aber leider war die Straße hinauf gesperrt. So entschied ich mich stattdessen ins benachbarte Prättigau zu fahren, um dort eine Runde zu machen.<br />Die Tour hatte ich mir schon länger herausgesucht und deshalb wusste ich, dass ich zum Parkplatz Laubenzug nur mittels Fahrbewilligung komme. Diese kann aber einfach per App oder am Automaten im kleinen Ort Valzeina gekauft werden. Sie kostet für einen Tag max. 10 CHF und ist praktisch auch die Parkgebühr.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Prättigau am Morgen",
+            "date": "2023-10-28T08:48:09.000+02:00",
+            "width": 1920,
+            "height": 956
+          }
+        ],
+        "text": "Zu Beginn ist die Straße zwar schmal, aber noch asphaltiert. Hier der Blick das Seitental von Valzeina zurück. So finster, wie es hier auf dem Bild aussieht, war es kurz vor neun nicht wirklich. Später war die Straße dann in den Waldabschnitten nur noch geschottert, aber gut zu fahren."
+      },
+      {
+        "photos": [
+          {
+            "name": "002",
+            "alt": "Baum auf Fahrstraße",
+            "date": "2023-10-28T09:10:02.000+02:00",
+            "width": 1842,
+            "height": 1080
+          }
+        ],
+        "text": "Kurzer Schreck: Direkt vor dem Parkplatz Laubenzug war ein Baum auf die Straße gestürzt. Daran vorbei waren aber schon Spuren im Gras, so dass auch ich (dank der bereits entfernten Zäune), bis zum (leeren) Parkplatz kam."
+      },
+      {
+        "photos": [
+          {
+            "name": "003",
+            "alt": "Kaltes Tal",
+            "date": "2023-10-28T09:17:06.000+02:00",
+            "width": 1920,
+            "height": 832
+          }
+        ],
+        "text": "Vom 1400m hoch gelegenen Parkplatz musste ich erst noch ein kleines Stück die Straße weiter zum eigentlichen Wanderweg laufen. Wie man sieht war es noch recht frisch und der Schnee war in der Nacht bis auf 1700 Meter hinab gefallen.<br />Der Berg im Hintergrund ist der 2500m hohe <a href='/alpine/lenzerheide/20191012' target='_blank'>Hochwang</a>, auf dem ich mal (einfach) von der Rückseite hinaufgestiegen war."
+      },
+      {
+        "photos": [
+          {
+            "name": "004",
+            "alt": "Flussüberquerung",
+            "date": "2023-10-28T09:22:16.000+02:00",
+            "width": 1658,
+            "height": 1080
+          }
+        ],
+        "text": "Nachdem ich die Straße verlassen hatte, um die Talseite zu wechseln, musste ich zwei Bäche überqueren. Hier gab es keine Brücken, was bei höherem Wasserstand sicher ein Problem wäre."
+      },
+      {
+        "photos": [
+          {
+            "name": "005",
+            "alt": "Farn im Sonnenlicht",
+            "date": "2023-10-28T09:34:24.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Anschließend ging es (nicht sehr steil und auf breitem Weg) den Hang hinauf, bis ich hier endlich die ersten Sonnenstrahlen erreichte."
+      },
+      {
+        "photos": [
+          {
+            "name": "006",
+            "alt": "Schopftintling",
+            "date": "2023-10-28T09:37:28.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Die niedrige Herbstsonne lädt natürlich gleich zum Fotografieren ein, hier eine großer Schopftintling."
+      },
+      {
+        "photos": [
+          {
+            "name": "007",
+            "alt": "Vilan",
+            "date": "2023-10-28T09:38:00.000+02:00",
+            "width": 1753,
+            "height": 1080
+          }
+        ],
+        "text": "Blick das Tal hinab zum <a href='/alpine/praettigau/20181110' target='_blank'>Vilan</a>. Die sonnigen Wege dort hinauf sind ebenfalls bestens für eine Wanderung im Herbst geeignet."
+      },
+      {
+        "photos": [
+          {
+            "name": "008",
+            "alt": "Herbstwanderung",
+            "date": "2023-10-28T09:41:29.000+02:00",
+            "width": 1920,
+            "height": 873
+          }
+        ],
+        "text": "Total einsam ging es durch den lichten Wald weiter hinauf, bis ich eine Fahrstraße erreichte, die den Hang auf rund 1600m Höhe quert."
+      },
+      {
+        "photos": [
+          {
+            "name": "009",
+            "alt": "Schesaplana",
+            "date": "2023-10-28T10:02:52.000+02:00",
+            "width": 1920,
+            "height": 1007
+          }
+        ],
+        "text": "Je höher ich kam, desto besser wurde die Aussicht. Hier ein Tele zur 2900m hohen <a href='/alpine/praettigau/20181110' target='_blank'>Schesaplana</a>."
+      },
+      {
+        "photos": [
+          {
+            "name": "010",
+            "alt": "Grüsch Danusa",
+            "date": "2023-10-28T10:04:45.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Und vor der Schesaplana ist rechts davon das kleine Skigebiet Grüsch Danusa zu sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "011",
+            "alt": "Walsersiedlung Stams",
+            "date": "2023-10-28T10:07:58.000+02:00",
+            "width": 1920,
+            "height": 956
+          }
+        ],
+        "text": "Nach 15min auf dem Schotterweg (ohne großen Höhenunterschiede) erreichte ich die Walsersiedlung Stams. Zu dieser kann man von der anderen Seite - vom Rheintal - mit dem Auto hinauffahren und auch parken. Von hier könnte man den Großteil meiner Wanderung mit noch weniger Höhenunterschied machen."
+      },
+      {
+        "photos": [
+          {
+            "name": "012",
+            "alt": "Haldensteiner Calanda",
+            "date": "2023-10-28T10:10:16.000+02:00",
+            "width": 1708,
+            "height": 1080
+          }
+        ],
+        "text": "Von Stams aus kann man über das Rheintal hinweg zur <a href='/alpine/pizol/20220709' target='_blank'>Haldensteiner Calanda</a> schauen."
+      },
+      {
+        "photos": [
+          {
+            "name": "013",
+            "alt": "Wanderwege Stams",
+            "date": "2023-10-28T10:10:42.000+02:00",
+            "width": 762,
+            "height": 1080
+          }
+        ],
+        "text": "Der Wanderwegweiser bei Stams. Wie man sieht, sind es alles keine großen Entfernungen. Hinab zu meinem Ausgangspunkt 'Laubenzug' sind es gerade mal eine Stunde. Mein Ziel 'Girenspitz' steht nicht drauf, aber direkt dort befindet sich der 'Sayser-See', der mit 1 3/4h angegeben ist."
+      },
+      {
+        "photos": [
+          {
+            "name": "014",
+            "alt": "Mitgenommene Lärche",
+            "date": "2023-10-28T10:13:08.000+02:00",
+            "width": 1717,
+            "height": 1080
+          }
+        ],
+        "text": "Von Stams aus folgte nun ein Aufstieg von insgesamt 400 Höhenmetern. Hier wieder der Blick das Tal hinab. Rechts tauchte nun auch die <a href='/alpine/praettigau/20141012' target='_blank'>Sulzfluh</a> auf."
+      },
+      {
+        "photos": [
+          {
+            "name": "015",
+            "alt": "Lichter Herbstwald",
+            "date": "2023-10-28T10:36:28.000+02:00",
+            "width": 1616,
+            "height": 1080
+          }
+        ],
+        "text": "Optisch war der leicht eingeschneite Weg und die bunten Herbstfarben hier bereits sehr schön ..."
+      },
+      {
+        "photos": [
+          {
+            "name": "016",
+            "alt": "Matschweg mit Schnee",
+            "date": "2023-10-28T10:36:47.000+02:00",
+            "width": 881,
+            "height": 1080
+          }
+        ],
+        "text": "... aber in diesem Zustand war der von Kühen zertretene Weg. Ich konnte mir also aussuchen, ob ich in die unbestimmt tiefen Matschlöcher treten sollte oder auf die eventuell vereisten Steine. ;)"
+      },
+      {
+        "photos": [
+          {
+            "name": "017",
+            "alt": "Zanutscher Boden",
+            "date": "2023-10-28T10:51:44.000+02:00",
+            "width": 1920,
+            "height": 696
+          }
+        ],
+        "text": "Nach ca. 45min Aufstieg von Stams hatte ich den Zanutscher Boden erreicht. Ein breiter Grassattel hinüber zum Rheintal."
+      },
+      {
+        "photos": [
+          {
+            "name": "018",
+            "alt": "Blick ins Rheintal",
+            "date": "2023-10-28T10:54:27.000+02:00",
+            "width": 1920,
+            "height": 830
+          }
+        ],
+        "text": "Nach knapp 2h Weg wollte ich jetzt trotz des feuchten Bodens auch mal eine Pause machen. Dabei hatte ich diesen schönen Blick das Rheintal hinauf. Die Sicht und das Licht an diesem Tag war perfekt."
+      },
+      {
+        "photos": [
+          {
+            "name": "019",
+            "alt": "Verschneite Wiese",
+            "date": "2023-10-28T11:11:13.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "020",
+            "alt": "Aussicht Sunntigberg",
+            "date": "2023-10-28T11:13:32.000+02:00",
+            "width": 1869,
+            "height": 1080
+          }
+        ],
+        "text": "Vom Zanutscher Boden geht der offizielle Weg eigentlich am Hang zum Rheintal um den Sunntigberg herum, aber man kann auch direkt hinüber laufen, was ich gemacht habe.<br />Hier der Blick zurück vom Gipfel zum Zanutscher Boden."
+      },
+      {
+        "photos": [
+          {
+            "name": "021",
+            "alt": "Wanderweg Trimmis",
+            "date": "2023-10-28T11:20:40.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Direkt nach dem Gipfel kam ich wieder auf den schmalen Wanderweg. Bis zu den hohen Bergen im Hintergrund ging es nun immer entweder am Hang zum Rheintal oder direkt auf dem Grat weiter."
+      },
+      {
+        "photos": [
+          {
+            "name": "022",
+            "alt": "Neuschnee auf Weg",
+            "date": "2023-10-28T11:31:39.000+02:00",
+            "width": 951,
+            "height": 1080
+          }
+        ],
+        "text": "Der Weg war nun zwar fast durchgehend eingeschneit. Es waren aber nur rund 1-2cm und es war auch kaum rutschig - kurz: problemlos zu gehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "023",
+            "alt": "Steiler Grashang",
+            "date": "2023-10-28T11:32:32.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "024",
+            "alt": "Tiefblick ins Tal",
+            "date": "2023-10-28T11:35:25.000+02:00",
+            "width": 1920,
+            "height": 927
+          }
+        ],
+        "text": "Bei schlechteren Bodenbedingungen wären auch die nun folgenden Hangquerungen schwierig geworden. So durfte ich mich nur nicht vom Abgrund ablenken lassen und konnte sie ohne Probleme passieren."
+      },
+      {
+        "photos": [
+          {
+            "name": "025",
+            "alt": "Gratweg zur Girenspitz",
+            "date": "2023-10-28T11:36:41.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "026",
+            "alt": "Panoramawanderung",
+            "date": "2023-10-28T11:38:45.000+02:00",
+            "width": 1920,
+            "height": 907
+          },
+          {
+            "name": "027",
+            "alt": "Lärche mit Schnee",
+            "date": "2023-10-28T11:39:32.000+02:00",
+            "width": 1672,
+            "height": 1080
+          }
+        ],
+        "text": "Die Gratabschnitte dieses schönen Wegs waren immer toll. Dabei war der Grat aber nie zu schmal oder ausgesetzt."
+      },
+      {
+        "photos": [
+          {
+            "name": "028",
+            "alt": "Verschneiter Hangweg",
+            "date": "2023-10-28T11:41:21.000+02:00",
+            "width": 1679,
+            "height": 1080
+          },
+          {
+            "name": "029",
+            "alt": "Gratwanderung Prättigau",
+            "date": "2023-10-28T11:42:57.000+02:00",
+            "width": 1783,
+            "height": 1080
+          },
+          {
+            "name": "030",
+            "alt": "Winter und Sommer",
+            "date": "2023-10-28T11:45:08.000+02:00",
+            "width": 1793,
+            "height": 1080
+          }
+        ],
+        "text": "Immer in der gleichen Art ging es nun weiter. Hier wieder auf der noch teilweise weißen Westseite des Grats."
+      },
+      {
+        "photos": [
+          {
+            "name": "031",
+            "alt": "Spätherbst",
+            "date": "2023-10-28T11:47:18.000+02:00",
+            "width": 1886,
+            "height": 1080
+          },
+          {
+            "name": "032",
+            "alt": "Malerischer Grat",
+            "date": "2023-10-28T11:47:38.000+02:00",
+            "width": 971,
+            "height": 1080
+          },
+          {
+            "name": "033",
+            "alt": "Wanderung Valzeina",
+            "date": "2023-10-28T11:49:03.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Und nach dem Hang folgte natürlich wieder der Grat. Mit den bunt leuchtenden Bäumen, den strahlenden Schneeresten und der warmen Sonne kann man sich kaum einen schöneren Weg ausdenken."
+      },
+      {
+        "photos": [
+          {
+            "name": "034",
+            "alt": "Einsames Tal",
+            "date": "2023-10-28T11:50:35.000+02:00",
+            "width": 1788,
+            "height": 1080
+          },
+          {
+            "name": "035",
+            "alt": "Schnee im Herbst",
+            "date": "2023-10-28T11:52:25.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "036",
+            "alt": "Schmaler Pfad",
+            "date": "2023-10-28T11:53:27.000+02:00",
+            "width": 1616,
+            "height": 1080
+          },
+          {
+            "name": "037",
+            "alt": "Origineller Weg",
+            "date": "2023-10-28T11:54:09.000+02:00",
+            "width": 1745,
+            "height": 1080
+          }
+        ],
+        "text": "Sorry für die vielen Bilder dieses Wegs. Ich konnte mich nicht entscheiden, welche ich aus dem Bericht herausnehmen soll..."
+      },
+      {
+        "photos": [
+          {
+            "name": "038",
+            "alt": "Schattiger Weg",
+            "date": "2023-10-28T11:56:24.000+02:00",
+            "width": 1865,
+            "height": 1080
+          },
+          {
+            "name": "039",
+            "alt": "Wanderung Girenspitz",
+            "date": "2023-10-28T11:57:12.000+02:00",
+            "width": 759,
+            "height": 1080
+          }
+        ],
+        "text": "Eine Stunde nach dem Zanutscher Boden tauchte nun die Girenspitz (der letzte Gipfel des Höhenzugs) auf und das Ende des Grats war erreicht."
+      },
+      {
+        "photos": [
+          {
+            "name": "040",
+            "alt": "Saysersee",
+            "date": "2023-10-28T12:05:21.000+02:00",
+            "width": 1920,
+            "height": 1015
+          }
+        ],
+        "text": "Der Wanderweg geht nicht auf die Girenspitz hinauf, sondern direkt zum darunter liegendem Saysersee. Ich folgte dagegen einem deutlich sichtbaren Weg hinauf zum Gipfel und bin hier auch schon fast oben. Links übrigens wieder der Hochwang, nun deutlich näher."
+      },
+      {
+        "photos": [
+          {
+            "name": "041",
+            "alt": "Gipfel Girenspitz",
+            "date": "2023-10-28T12:07:18.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Der Weg auf den Gipfel war deutlich schwieriger als gedacht, was am Schnee lag, aber auch an dem bröckligen Schiefer.<br />Um kurz nach 12 war ich auf der 2100m hohen Girenspitz angekommen - nach gut 3h von Laubenzug."
+      },
+      {
+        "photos": [
+          {
+            "name": "042",
+            "alt": "Panorama Girenspitz",
+            "date": "2023-10-28T12:08:04.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Blick vom Gipfel den entlang gewanderten Grat zurück. Rechts im Tal befindet sich die Alp Laubenzug."
+      },
+      {
+        "photos": [
+          {
+            "name": "043",
+            "alt": "Blick von der Girenspitz",
+            "date": "2023-10-28T12:08:56.000+02:00",
+            "width": 1689,
+            "height": 1080
+          }
+        ],
+        "text": "Und etwas weiter nach Westen gerichtet, der Blick ins Rheintal und zur Calanda."
+      },
+      {
+        "photos": [
+          {
+            "name": "044",
+            "alt": "Aussicht Girenspitz",
+            "date": "2023-10-28T12:09:18.000+02:00",
+            "width": 1789,
+            "height": 1080
+          }
+        ],
+        "text": "Nun noch die Aussicht nach Norden das Rheintal hinauf.<br />Eigentlich wäre der Gipfel gut zum Pausemachen geeignet, aber hier wehte nun plötzlich ein kalter Wind, so dass ich mich gleich wieder auf den (ziemlich kniffligen) Abstieg zurück zum Wanderweg machte."
+      },
+      {
+        "photos": [
+          {
+            "name": "045",
+            "alt": "Wegweiser Sayser See",
+            "date": "2023-10-28T12:19:25.000+02:00",
+            "width": 1802,
+            "height": 1080
+          }
+        ],
+        "text": "Wieder auf offiziellem Weg erreichte ich dann schließlich den Sayser See, von dem ich mir etwas mehr versprochen hatte. Aber er liegt windgeschützt und so konnte ich dort meine längere Mittagspause machen."
+      },
+      {
+        "photos": [
+          {
+            "name": "046",
+            "alt": "Reflexionen im See",
+            "date": "2023-10-28T12:46:57.000+02:00",
+            "width": 1837,
+            "height": 1080
+          }
+        ],
+        "text": "Nach der Pause ging es am See vorbei. Hier der Blick zurück. Links der Gipfel ist die Girenspitz, auf die ich von der Rückseite hinaufgelaufen war.<br />Wer genau hinschaut, kann noch drei andere Wanderer auf dem Bild erkennen. Diese waren mir den ganzen Gratweg gefolgt. Ansonsten war ich auf der ganzen Runde nur einem anderen Wanderer bei Stams begegnet."
+      },
+      {
+        "photos": [
+          {
+            "name": "047",
+            "alt": "Weg auf schmalem Grat",
+            "date": "2023-10-28T12:48:29.000+02:00",
+            "width": 1879,
+            "height": 1080
+          },
+          {
+            "name": "048",
+            "alt": "Girenspitz",
+            "date": "2023-10-28T12:51:09.000+02:00",
+            "width": 1920,
+            "height": 1045
+          }
+        ],
+        "text": "Überraschend folgte nun noch ein weiterer kleiner Teich und ein weiterer lustiger Gratweg. Total unnötig, aber der Wegebauer hatte wohl hier seinen Spaß."
+      },
+      {
+        "photos": [
+          {
+            "name": "049",
+            "alt": "Abstieg ins Tal",
+            "date": "2023-10-28T12:59:12.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "050",
+            "alt": "Valzeina",
+            "date": "2023-10-28T13:12:21.000+02:00",
+            "width": 1920,
+            "height": 976
+          }
+        ],
+        "text": "Nach dem ich das Ende des Tals erreicht hatte, drehte der Weg um 180° und es ging auf einfachem Weg, flach absteigend, das Tal hinab."
+      },
+      {
+        "photos": [
+          {
+            "name": "051",
+            "alt": "Tal mit Lärchen",
+            "date": "2023-10-28T13:18:08.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Mein nächstes Ziel war dieser bunte Lärchenwald im Tal. Der Weg führt dort aber nicht direkt hin, sondern erst quer den Hang entlang zur Alp Zanutsch."
+      },
+      {
+        "photos": [
+          {
+            "name": "052",
+            "alt": "Hochwang",
+            "date": "2023-10-28T13:30:40.000+02:00",
+            "width": 1920,
+            "height": 1055
+          }
+        ],
+        "text": "Auch hier war der Weg schön und weiter einfach."
+      },
+      {
+        "photos": [
+          {
+            "name": "053",
+            "alt": "Alp Zanutsch",
+            "date": "2023-10-28T13:35:51.000+02:00",
+            "width": 1920,
+            "height": 804
+          }
+        ],
+        "text": "Ankunft an der Alp Zanutsch um 13:30. Das eingezäunte Quadrat ist übrigens der letzte Parkplatz der Straße von Valzeina her. Bis hier hätte ich mit meiner Fahrbewilligung fahren können. Wer hier parkt, kann die gleiche Runde wie von Stams aus machen, denn nach Stams würde man jetzt an der Alp vorbei weiter am Hang entlang laufen (auf der ab hier gesperrten Straße)."
+      },
+      {
+        "photos": [
+          {
+            "name": "054",
+            "alt": "Serpentinen",
+            "date": "2023-10-28T13:47:47.000+02:00",
+            "width": 1493,
+            "height": 1080
+          }
+        ],
+        "text": "Ich dagegen drehte an der Alp um und lief die Straße hinab zu den Lärchen. Wobei nicht ganz korrekt: diese Serpentinen des Fahrwegs konnte ich über die Wiese abkürzen."
+      },
+      {
+        "photos": [
+          {
+            "name": "055",
+            "alt": "Leuchtender Lärchenwald",
+            "date": "2023-10-28T13:49:49.000+02:00",
+            "width": 1920,
+            "height": 861
+          }
+        ],
+        "text": "Und nun erreichte ich den Lärchenwald, einfach toll."
+      },
+      {
+        "photos": [
+          {
+            "name": "056",
+            "alt": "Goldene Lärchen",
+            "date": "2023-10-28T13:53:04.000+02:00",
+            "width": 1328,
+            "height": 1080
+          }
+        ],
+        "text": "Hier überquert die Fahrstraße den Bach ebenfalls ohne eine Brücke, aber über eine betonierte Furt."
+      },
+      {
+        "photos": [
+          {
+            "name": "057",
+            "alt": "Schranggabach",
+            "date": "2023-10-28T13:53:50.000+02:00",
+            "width": 1676,
+            "height": 1080
+          }
+        ],
+        "text": "Blick den Schranggabach hinauf. Also bei Hochwasser ist diese Wanderung definitiv nicht machbar."
+      },
+      {
+        "photos": [
+          {
+            "name": "058",
+            "alt": "Lärchen im Herbst",
+            "date": "2023-10-28T13:55:53.000+02:00",
+            "width": 1776,
+            "height": 1080
+          },
+          {
+            "name": "059",
+            "alt": "Schmaler Fahrweg",
+            "date": "2023-10-28T13:56:46.000+02:00",
+            "width": 1866,
+            "height": 1080
+          }
+        ],
+        "text": "Wunderschön ging es auf der schmalen Straße nun weiter das Tal hinab."
+      },
+      {
+        "photos": [
+          {
+            "name": "060",
+            "alt": "Goldener Oktober",
+            "date": "2023-10-28T13:59:08.000+02:00",
+            "width": 1920,
+            "height": 861
+          },
+          {
+            "name": "061",
+            "alt": "Spazierweg mit Lärchen",
+            "date": "2023-10-28T14:01:25.000+02:00",
+            "width": 1728,
+            "height": 1080
+          }
+        ],
+        "text": "Nur wenige Tage im Jahr sind die Lärchen so schön gelb. Man muss schon etwas Glück haben, um auch noch gleichzeitig einen Sonnentag zu erwischen."
+      },
+      {
+        "photos": [
+          {
+            "name": "062",
+            "alt": "Weidegebiet",
+            "date": "2023-10-28T14:10:18.000+02:00",
+            "width": 1920,
+            "height": 872
+          }
+        ],
+        "text": "Als ich die Lärchen verließ, machte ich eine weitere Pause im (nun trockenem) Gras. Anschließend verließ ich beim Parkplatz 'Falsch' die Fahrstraße und folgte dem Weg am Bach entlang. Das war nicht so geschickt, denn dieser Weg war ebenfalls eine Schotterstraße und außerdem bereits im Schatten - waren aber nur gut 20min."
+      },
+      {
+        "photos": [
+          {
+            "name": "063",
+            "alt": "Wegweiser Falsch",
+            "date": "2023-10-28T14:47:52.000+02:00",
+            "width": 1806,
+            "height": 1080
+          }
+        ],
+        "text": "Hier erreichte ich nun meinen Hinweg bei der Bachüberquerung. Der Wegweiser ist richtig!"
+      },
+      {
+        "photos": [
+          {
+            "name": "064",
+            "alt": "Gebirgsbach",
+            "date": "2023-10-28T14:49:14.000+02:00",
+            "width": 1616,
+            "height": 1080
+          }
+        ],
+        "text": "Und wieder über Steine hüpfend über den Bach."
+      },
+      {
+        "photos": [
+          {
+            "name": "065",
+            "alt": "Blick zum Alpstein",
+            "date": "2023-10-28T14:57:52.000+02:00",
+            "width": 1920,
+            "height": 985
+          }
+        ],
+        "text": "Nun sonnig die Straße von der Alp Laubenzug zurück zum Parkplatz. Im Hintergrund der <a href='/alpine/alpstein' target='_blank'>Alpstein</a> und rechts der <a href='/alpine/praettigau/20180908' target='_blank'>Falknis</a> - tolle Fernsicht."
+      },
+      {
+        "photos": [
+          {
+            "name": "066",
+            "alt": "Alp Laubenzug",
+            "date": "2023-10-28T15:04:07.000+02:00",
+            "width": 1920,
+            "height": 907
+          }
+        ],
+        "text": "Fast der selbe Blick wie am Morgen zum Hochwang, nur deutlich wärmer und freundlicher."
+      },
+      {
+        "photos": [
+          {
+            "name": "067",
+            "alt": "Parkplatz Laubenzug",
+            "date": "2023-10-28T15:05:04.000+02:00",
+            "width": 1549,
+            "height": 1080
+          }
+        ],
+        "text": "Der umgestürzte Baum vor dem Parkplatz war inzwischen entfernt worden, so musst ich nicht wieder über die rutschige Wiese fahren.<br />Das Auto erreichte ich bereits um kurz nach drei."
+      },
+      {
+        "photos": [
+          {
+            "name": "068",
+            "alt": "Fahrbewilligung Valzeina",
+            "date": "2023-10-28T15:18:15.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Blick aus dem Auto auf der Rückfahrt zurück nach Valzeina."
+      }
+    ],
+    "outro": "Fazit: Mit 15km und knapp 1000 Höhenmeter eine eher kurze Wanderung. Die meiste Zeit ist der Weg aber sehr schön, insbesondere der Grat von Stams bis zum Saysersee. Bei mir kam noch das tolle Licht und die schönen Herbstfarben dazu. :)<br />Für meine Runde würde ich eher den Parkplatz Falsch empfehlen. Wer dagegen nur den Gratweg gehen will, parkt am besten in Stams - dann ist es aber eher eine Halbtageswanderung."
+  }
+]

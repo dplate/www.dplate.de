@@ -353,6 +353,37 @@ class Report extends React.Component {
   }
 }
 
+const createStructuredData = (reportJson) => {
+  const { destination, date, type, title, landmarks } = reportJson;
+  const pageTitle = buildPageTitle(title, type);
+  const reportPath = getReportPath(destination, date);
+  const allPhotos = landmarks.reduce((photos, landmark) => [ ...photos, ...landmark.photos], []);
+  const selectedPhotos = new Set();
+  selectedPhotos.add(allPhotos[Math.round(allPhotos.length * 0.3)]);
+  selectedPhotos.add(allPhotos[Math.round(allPhotos.length * 0.5)]);
+  selectedPhotos.add(allPhotos[Math.round(allPhotos.length * 0.7)]);
+  const photoUrls = [...selectedPhotos].map(photo => {
+    const fileName = photo.alt ? photo.alt.split(' ').join('-').toLowerCase() + '_' + photo.name : photo.name;
+    return 'https://www.dplate.de/photos' + reportPath + '/' + fileName + '.jpg';
+  });
+  const fallbackDate = date.substring(1, 5) + '-' + date.substring(5, 7) + '-' + date.substring(7, 9); 
+  const photoDate = allPhotos[Math.round(allPhotos.length * 0.5)]?.date;
+
+  return JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'BlogPosting',
+    headline: pageTitle,
+    image: photoUrls,
+    datePublished: photoDate || fallbackDate,
+    author: [{
+        '@type': 'Organization',
+        name: 'AlpinFunk',
+        url: 'https://www.dplate.de'
+      }
+    ]
+  });
+};
+
 export const Head = (props) => {
   const { destination, date, type, title, title3d, movie } = props.data.reportJson;
   const pageTitle = buildPageTitle(title, type);
@@ -360,10 +391,12 @@ export const Head = (props) => {
   return (
     <>
       <title>{pageTitle}</title>
+      <script type="application/ld+json">{createStructuredData(props.data.reportJson)}</script>
       <meta name="description" property="og:description" content={buildPageDescription(title, type, date)} />
       <meta property="og:title" content={pageTitle} />
-      <meta property="og:type" content="website" />
+      <meta property="og:type" content="article" />
       <meta property="og:url" content={`https://www.dplate.de/alpine${reportPath}`} />
+      <meta name="robots" content="max-image-preview:large" />
       {title3d && <meta property="og:image" content={`https://www.dplate.de/photos${reportPath}/title.jpg`} />}
       {movie && <meta property="og:video" content={`https://youtu.be/${movie}`} />}
       {movie && <meta property="og:video:height" content="1920" />}
