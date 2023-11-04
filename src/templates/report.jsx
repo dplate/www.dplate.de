@@ -328,12 +328,12 @@ class Report extends React.Component {
           {movie && (
             <Movie>
               <p>
-                Hast du noch Fragen? Dann benutze die Kommentare auf YouTube:<br /><a href={`https://youtu.be/${movie}`}>{pageTitle} auf YouTube</a>.
-              </p> 
-              <p>
-                Natürlich freue ich mich auch über jeden "Like" dort, falls dir der Bericht gefallen hat. 🙂
+                Hast du noch Fragen? Dann benutze die Kommentare auf YouTube:
+                <br />
+                <a href={`https://youtu.be/${movie}`}>{pageTitle} auf YouTube</a>.
               </p>
-              <VideoContainer style={{marginTop: '10px'}}>
+              <p>Natürlich freue ich mich auch über jeden "Like" dort, falls dir der Bericht gefallen hat. 🙂</p>
+              <VideoContainer style={{ marginTop: '10px' }}>
                 <Video title={title} video={movie} />
               </VideoContainer>
             </Movie>
@@ -357,16 +357,16 @@ const createStructuredData = (reportJson) => {
   const { destination, date, type, title, landmarks } = reportJson;
   const pageTitle = buildPageTitle(title, type);
   const reportPath = getReportPath(destination, date);
-  const allPhotos = landmarks.reduce((photos, landmark) => [ ...photos, ...landmark.photos], []);
+  const allPhotos = landmarks.reduce((photos, landmark) => [...photos, ...landmark.photos], []);
   const selectedPhotos = new Set();
   selectedPhotos.add(allPhotos[Math.round(allPhotos.length * 0.3)]);
   selectedPhotos.add(allPhotos[Math.round(allPhotos.length * 0.5)]);
   selectedPhotos.add(allPhotos[Math.round(allPhotos.length * 0.7)]);
-  const photoUrls = [...selectedPhotos].map(photo => {
+  const photoUrls = [...selectedPhotos].map((photo) => {
     const fileName = photo.alt ? photo.alt.split(' ').join('-').toLowerCase() + '_' + photo.name : photo.name;
     return 'https://www.dplate.de/photos' + reportPath + '/' + fileName + '.jpg';
   });
-  const fallbackDate = date.substring(1, 5) + '-' + date.substring(5, 7) + '-' + date.substring(7, 9); 
+  const fallbackDate = date.substring(1, 5) + '-' + date.substring(5, 7) + '-' + date.substring(7, 9);
   const photoDate = allPhotos[Math.round(allPhotos.length * 0.5)]?.date;
 
   return JSON.stringify({
@@ -375,7 +375,8 @@ const createStructuredData = (reportJson) => {
     headline: pageTitle,
     image: photoUrls,
     datePublished: photoDate || fallbackDate,
-    author: [{
+    author: [
+      {
         '@type': 'Organization',
         name: 'AlpinFunk',
         url: 'https://www.dplate.de'
