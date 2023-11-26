@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import styled from 'styled-components';
 import { cardStyle, pictureStyle } from '../../styles/basestyle.js';
 import Layout from '../../components/Layout.jsx';
@@ -23,9 +23,12 @@ const Picture = styled.img`
 `;
 
 const PageSchiffbruch = (props) => {
-  const playLink = /android/i.test(navigator.userAgent) ? 
-    'https://play.google.com/store/apps/details?id=de.dplate.schiffbruch' :
-    'https://schiffbruch.dplate.de';
+  const [playLink, setPlayLink] = useState('https://schiffbruch.dplate.de');
+  useEffect(() => {
+    if (/android/i.test(window.navigator.userAgent)) {
+      setPlayLink('https://play.google.com/store/apps/details?id=de.dplate.schiffbruch')
+    }
+  }, [])
 
   return (
     <Layout location={props.location}>
@@ -38,7 +41,7 @@ const PageSchiffbruch = (props) => {
             Ziel ist die Insel zu verlassen. Es ist ein Genremix aus Aufbau, Strategie und Adventure.
           </p>
         </Card>
-        <a href={playLink}><Picture src="/screenshots/schiffbruch.jpg" /></a>
+        <a href={playLink} aria-label="Spielen"><Picture src="/screenshots/schiffbruch.jpg" /></a>
         <Card>
           <h2>Neuauflage zum 25. Jubiläum</h2>
           <p>
