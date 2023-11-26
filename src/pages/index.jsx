@@ -43,13 +43,13 @@ const PageIndex = (props) => {
       <div>
         <Title>
           <h1>Herzlich willkommen</h1>
-          <p>Hier findest Du ein wildes Sammelsurium von allem, was ich für veröffentlichbar halte.</p>
+          <p>Hier findest Du ein wildes Sammelsurium von allem, was ich in meiner Freizeit erstelle.</p>
         </Title>
 
         <FlexContainer>
           <FlexCard>
             <h2>Alpinfunk</h2>
-            <p>Diverse Ski- oder Wanderberichte von meinen Ausflügen in die Alpen.</p>
+            <p>Diverse Wander- oder Skiberichte von meinen Ausflügen in die Berge.</p>
             <p>
               Neueste Berichte:
               <br />
@@ -58,16 +58,10 @@ const PageIndex = (props) => {
           </FlexCard>
 
           <FlexCard>
-            <h2>Fotolabor</h2>
-            <p>Eine Auswahl meiner besten Fotos.</p>
-            <Link to="/showcase">Anschauen</Link>
-          </FlexCard>
-
-          <FlexCard>
             <h2>Spielzimmer</h2>
-            <p>Downloads von mir entwickelter Spiele.</p>
-            <Link to="/games/draw-a-mountain">Draw-A-Mountain</Link>
+            <p>Meine PC&#8209; und Handyspiele.</p>
             <Link to="/games/schiffbruch">Schiffbruch</Link>
+            <Link to="/games/draw-a-mountain">Draw-A-Mountain</Link>
             <Link to="/games/cannonhill">Cannonhill</Link>
             <Link to="/games/modracer">Modracer</Link>
             <Link to="/games/ancient">Antike Spiele</Link>
@@ -78,6 +72,12 @@ const PageIndex = (props) => {
             <p>Downloads von mir entwickelter PC&#8209;Tools.</p>
             <Link to="/tools/scapemaker">ScapeMaker</Link>
             <Link to="/tools/kensentme">KenSentMe</Link>
+          </FlexCard>
+
+          <FlexCard>
+            <h2>Fotolabor</h2>
+            <p>Eine Auswahl meiner besten Fotos.</p>
+            <Link to="/showcase">Anschauen</Link>
           </FlexCard>
         </FlexContainer>
       </div>

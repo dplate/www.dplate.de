@@ -371,7 +371,7 @@ const createStructuredData = (reportJson) => {
 
   return JSON.stringify({
     '@context': 'https://schema.org',
-    '@type': 'BlogPosting',
+    '@type': 'Article',
     headline: pageTitle,
     image: photoUrls,
     datePublished: photoDate || fallbackDate,
