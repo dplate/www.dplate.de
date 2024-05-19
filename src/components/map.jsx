@@ -252,9 +252,9 @@ const createHdRectangle = (positions) => {
 const createSwissSatelliteProvider = (hdRectangle) => {
   return new UrlTemplateImageryProvider({
     url: 'https://wmts{s}.geo.admin.ch/1.0.0/ch.swisstopo.swissimage-product/default/current/4326/{z}/{x}/{y}.jpeg',
-    subdomains: ['5', '6', '7', '8', '9', '20'],
-    minimumLevel: 8,
-    maximumLevel: 17,
+    subdomains: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9'],
+    minimumLevel: 0,
+    maximumLevel: 19,
     tilingScheme: new GeographicTilingScheme({
       numberOfLevelZeroTilesX: 2,
       numberOfLevelZeroTilesY: 1

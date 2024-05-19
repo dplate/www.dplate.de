@@ -1,0 +1,394 @@
+[
+  {
+    "destination": "toggenburg",
+    "date": "d20240511",
+    "type": "hike",
+    "track": true,
+    "detailMap": "swiss",
+    "shortTitle": "Gulmen",
+    "title": "Arvenbüel - Gulmen - Flügenspitz",
+    "title3d": {
+      "offsetY": 3,
+      "fontSize": 6,
+      "align": "left",
+      "width": 1920,
+      "height": 507
+    },
+    "movie": "VcKGRS_-pgo",
+    "intro": "Als erste Wanderung des Jahres sollte es an diesem Samstag auf den Gulmen bei Amden gehen. Geparkt wurde auf dem großen Parkplatz im kleinen Ort Arvenbüel oberhalb von Amden auf 1300m. Die Parkgebühren für den Tag betrugen 9 CHF. Kurz vor 10:00 ging es los.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Kühe auf Löwenzahnwiese",
+            "date": "2024-05-11T10:06:46.000+02:00",
+            "width": 1475,
+            "height": 1080
+          },
+          {
+            "name": "002",
+            "alt": "Wiesenweg an Steinmauer",
+            "date": "2024-05-11T10:09:25.000+02:00",
+            "width": 1920,
+            "height": 1032
+          }
+        ],
+        "text": "Ich folgte nicht dem direkten Weg zum Gulmen, sondern wechselte direkt unterhalb von Arvenbüel auf einen Parallelweg, der etwas schöner über die gelben Löwenzahnwiesen hinauf führt."
+      },
+      {
+        "photos": [
+          {
+            "name": "003",
+            "alt": "Altes Weidegebiet",
+            "date": "2024-05-11T10:23:03.000+02:00",
+            "width": 1920,
+            "height": 1005
+          }
+        ],
+        "text": "Nach den ersten 100 Höhenmetern wird der Weg flacher und ich passierte die Alpen des Vorderbergs."
+      },
+      {
+        "photos": [
+          {
+            "name": "004",
+            "alt": "Gasthaus Altschen",
+            "date": "2024-05-11T10:39:42.000+02:00",
+            "width": 1920,
+            "height": 1004
+          }
+        ],
+        "text": "Auf einem Asphaltsträßchen ging es vorbei am Gasthaus Altschen - hier der Blick zurück."
+      },
+      {
+        "photos": [
+          {
+            "name": "005",
+            "alt": "Toggenburger Höhenweg",
+            "date": "2024-05-11T10:56:06.000+02:00",
+            "width": 1920,
+            "height": 816
+          }
+        ],
+        "text": "Dann folgte ich wieder nicht dem Wegweiser zum Gulmen, sondern bog nach links ab, um auf schönem Hangweg zur Westseite des Gulmen zu wechseln."
+      },
+      {
+        "photos": [
+          {
+            "name": "006",
+            "alt": "Blick ins Glarus",
+            "date": "2024-05-11T11:29:32.000+02:00",
+            "width": 1920,
+            "height": 755
+          }
+        ],
+        "text": "Dort angekommen (und nach einer kleinen Pause) folgte nun der steile Aufstieg, um die letzten 200 Höhenmeter auf den Gulmen zurückzulegen. Hier der Blick hinab, ganz links ist Arvenbüel zu erahnen."
+      },
+      {
+        "photos": [
+          {
+            "name": "007",
+            "alt": "Steiler Aufstieg zum Gulmen",
+            "date": "2024-05-11T11:41:13.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Etwas weiter oben auf dem steilen (aber ungefährlichen) Grashang. Nun tauchte auch rechts der Ort Amden und dahinter der Walensee auf. Der Berg links im Hintergrund ist der <a href='/alpine/glarus/20230527' target='_blank'>Mürtschenstock</a>, den ich im Frühjahr zuvor umrundet hatte."
+      },
+      {
+        "photos": [
+          {
+            "name": "008",
+            "alt": "Schnee auf den Churfirsten",
+            "date": "2024-05-11T11:53:09.000+02:00",
+            "width": 1894,
+            "height": 1080
+          }
+        ],
+        "text": "Kurz vor dem Gipfel erreichte ich das erste Schneefeld, aber zum Glück nicht auf dem Weg. Auch die nun sichtbaren Churfirsten im Hintergrund hatten dieses Jahr noch viel Schnee."
+      },
+      {
+        "photos": [
+          {
+            "name": "009",
+            "alt": "Gulmen Gipfel",
+            "date": "2024-05-11T11:57:38.000+02:00",
+            "width": 1920,
+            "height": 979
+          }
+        ],
+        "text": "Auf den letzten (nun flachen) Metern zum 1800m hohen Gipfel des Gulmen. Hier lag noch deutlich mehr Schnee als ich erwartet hatte."
+      },
+      {
+        "photos": [
+          {
+            "name": "010",
+            "alt": "Aussicht Gulmen",
+            "date": "2024-05-11T12:21:27.000+02:00",
+            "width": 1887,
+            "height": 1080
+          }
+        ],
+        "text": "Um 12:20 erreichte ich schließlich den Gipfel - wie man sieht bei schönstem Wanderwetter."
+      },
+      {
+        "photos": [
+          {
+            "name": "011",
+            "alt": "Blick zum Alpstein",
+            "date": "2024-05-11T12:28:20.000+02:00",
+            "width": 1920,
+            "height": 985
+          }
+        ],
+        "text": "Blick vom Gipfel Richtung Alpstein. Man könnte den Gipfel noch etwas weiterlaufen, aber auf Grund des Schnees verzichtete ich."
+      },
+      {
+        "photos": [
+          {
+            "name": "012",
+            "alt": "Wanderweg Gulmen",
+            "date": "2024-05-11T12:36:38.000+02:00",
+            "width": 1920,
+            "height": 1018
+          }
+        ],
+        "text": "Für den Abstieg vom Gulmen wählte ich den flacheren Ostgrat  - darüber kamen auch die meisten anderen Wanderer an diesem Tag hinauf."
+      },
+      {
+        "photos": [
+          {
+            "name": "013",
+            "alt": "Weg über Schneefeld",
+            "date": "2024-05-11T12:46:55.000+02:00",
+            "width": 1920,
+            "height": 704
+          }
+        ],
+        "text": "Blick zurück zum Gipfel. Die Schneefelder hier oben waren harmlos, allerdings sehr weich und nass."
+      },
+      {
+        "photos": [
+          {
+            "name": "014",
+            "alt": "Säntis",
+            "date": "2024-05-11T12:52:18.000+02:00",
+            "width": 1666,
+            "height": 1080
+          }
+        ],
+        "text": "Auf dem Gratweg der Blick zum <a href='/alpine/alpstein/20160911' target='_blank'>Säntis</a>."
+      },
+      {
+        "photos": [
+          {
+            "name": "015",
+            "alt": "Frühlingskrokus",
+            "date": "2024-05-11T12:58:12.000+02:00",
+            "width": 1029,
+            "height": 1080
+          }
+        ],
+        "text": "Die Wiesen waren hier oben von Frühlingskrokussen übersät."
+      },
+      {
+        "photos": [
+          {
+            "name": "016",
+            "alt": "Alp Vorder Höhi",
+            "date": "2024-05-11T13:08:46.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "017",
+            "alt": "Gesicherter Felsenweg",
+            "date": "2024-05-11T13:10:55.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Das letzte Stück vom Gulmen zur Alp Vorder Höhi wurde breit ausgebaut und in den Fels geschlagen. Nur das Geländer war nicht mehr so richtig in Ordnung. ;)"
+      },
+      {
+        "photos": [
+          {
+            "name": "018",
+            "alt": "Alplandschaft",
+            "date": "2024-05-11T13:14:36.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Hier die Hänge nördlich der Vorder Höhi. Dort kann man nach Stein absteigen, von wo ich ebenfalls mal <a href='/alpine/toggenburg/20180616' target='_blank'>auf den Gulmen gewandert</a> war."
+      },
+      {
+        "photos": [
+          {
+            "name": "019",
+            "alt": "Gulmen",
+            "date": "2024-05-11T13:38:16.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Nach einer Pause an der Vorder Höhi (kein Gasthaus) stieg ich aber noch nicht wieder nach Arvenbüel ab, sondern folgte dem Bergrücken weiter zur Flügenspitz. Es ging also wieder bergauf und auch der nasse Schnee kehrte zurück.<br />Hier der Blick zurück zum Gulmen und zur Alp."
+      },
+      {
+        "photos": [
+          {
+            "name": "020",
+            "alt": "Obertoggenburg",
+            "date": "2024-05-11T13:46:27.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Auf dem nun folgenden Weg hatte ich teilweise den Blick ins Obertoggenburg nach Unterwasser und Wildhaus."
+      },
+      {
+        "photos": [
+          {
+            "name": "021",
+            "alt": "Weg durch lichten Wald",
+            "date": "2024-05-11T14:12:19.000+02:00",
+            "width": 1548,
+            "height": 1080
+          }
+        ],
+        "text": "Der Pfad ging durch schönen, lichten und moorigen Wald."
+      },
+      {
+        "photos": [
+          {
+            "name": "022",
+            "alt": "Frühlingswanderung",
+            "date": "2024-05-11T14:18:42.000+02:00",
+            "width": 1616,
+            "height": 1080
+          }
+        ],
+        "text": "Schließlich erreichte ich die Ostseite der Flügenspitz, die ich bis zur Mitte queren musste. Zum Glück ist es auch hier nicht steil, so dass die Schneefelder nichts ausmachten."
+      },
+      {
+        "photos": [
+          {
+            "name": "023",
+            "alt": "Flügenspitz",
+            "date": "2024-05-11T14:36:06.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Dann ging es 50 Höhenmeter den matschigen Ostgrat hinauf. Oben war es dann trocken, so dass die letzten Meter zum 1700m hohen Gipfel die einfachsten waren."
+      },
+      {
+        "photos": [
+          {
+            "name": "024",
+            "alt": "Aussicht Flügenspitz",
+            "date": "2024-05-11T14:44:18.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Den Gipfel erreichte ich um 14:45. Hier der Blick nach Arvenbüel, der Rest des Wegs war also sehr überschaubar."
+      },
+      {
+        "photos": [
+          {
+            "name": "025",
+            "alt": "Blick zum Gulmen",
+            "date": "2024-05-11T14:52:46.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Und auch mein erster Gipfel des Tags, der Gulmen, war von hier sichtbar."
+      },
+      {
+        "photos": [
+          {
+            "name": "026",
+            "alt": "Gratweg Flügenspitz",
+            "date": "2024-05-11T14:58:49.000+02:00",
+            "width": 1616,
+            "height": 1080
+          },
+          {
+            "name": "027",
+            "alt": "Bergweg Flügenspitz",
+            "date": "2024-05-11T15:04:56.000+02:00",
+            "width": 1009,
+            "height": 1080
+          }
+        ],
+        "text": "Für den Abstieg wählte ich den Südgrat. Auch wenn er hier auf den Fotos schwierig aussieht, ist er ziemlich einfach und dem matschigen Ostgrat im Zweifel vorzuziehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "028",
+            "alt": "Rundwanderung Amden",
+            "date": "2024-05-11T15:18:38.000+02:00",
+            "width": 1920,
+            "height": 1067
+          },
+          {
+            "name": "029",
+            "alt": "Abstieg auf Fahrweg",
+            "date": "2024-05-11T15:40:37.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Anschließend ging der Weg über Wiesen und eine Fahrstraße hinab."
+      },
+      {
+        "photos": [
+          {
+            "name": "030",
+            "alt": "Weg über Blumenwiese",
+            "date": "2024-05-11T16:09:30.000+02:00",
+            "width": 1920,
+            "height": 832
+          }
+        ],
+        "text": "Angekommen in Arvenbüel ging ich nicht direkt zum Parkplatz zurück, sondern über schöne Blumenwiesen drumherum, denn ich wollte noch einen Abstecher zum Aussichtspunkt Chapf machen."
+      },
+      {
+        "photos": [
+          {
+            "name": "031",
+            "alt": "Aussichtspunkt Chapf",
+            "date": "2024-05-11T16:36:41.000+02:00",
+            "width": 1920,
+            "height": 1000
+          },
+          {
+            "name": "032",
+            "alt": "Walensee",
+            "date": "2024-05-11T16:37:16.000+02:00",
+            "width": 1920,
+            "height": 931
+          }
+        ],
+        "text": "Der Aussichtspunkt Chapf ist auf einem Felsvorsprung angelegt. Die Felswand fällt hier 900m zum Walensee ab, sehr beeindruckend."
+      },
+      {
+        "photos": [
+          {
+            "name": "033",
+            "alt": "Tiefblick nach Betlis",
+            "date": "2024-05-11T16:38:26.000+02:00",
+            "width": 1882,
+            "height": 1080
+          }
+        ],
+        "text": "Der Tiefblick zum glitzernden Walensee und dem kleinen Ort Betlis an dessen Ufer.<br />Anschließend ging es in 20min auf dem Spazierweg zurück zum Parkplatz in Arvenbüel, den ich um 17:15 erreichte."
+      }
+    ],
+    "outro": "Fazit: Schöne harmlose Frühlingswanderung bei Amden. Auf Grund der vielen Wege dort, lässt sie sich auch beliebige verkürzen oder verlängern. Meine war 14km lang und ich musste rund 800 Höhenmeter überwinden. Im richtigen Sommer ist diese Tour vermutlich zu heiß."
+  }
+]
