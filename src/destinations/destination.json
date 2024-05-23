@@ -99,6 +99,10 @@
     "name": "Obersaxen-Mundaun"
   },
   {
+    "destination": "pfaender",
+    "name": "Pfänder"
+  },
+  {
     "destination": "pizol",
     "name": "Pizol",
     "skiTeaser": true,
