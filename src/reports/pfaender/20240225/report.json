@@ -1,0 +1,294 @@
+[
+  {
+    "destination": "pfaender",
+    "date": "d20240225",
+    "type": "hike",
+    "track": true,
+    "detailMap": "austria",
+    "shortTitle": "Pfänder",
+    "title": "Bregenz - Pfänder",
+    "title3d": {
+      "offsetY": 5,
+      "fontSize": 6,
+      "align": "center",
+      "width": 1920,
+      "height": 427
+    },
+    "movie": "OFtPegfpHe4",
+    "intro": "An einem milden sonnigen Februarsonntag ging es mit dem Auto nach Bregenz am Bodensee. Nach dem in dem (schon recht vollen) Parkhaus geparkt wurde, ging es für 11€ mit der Seilbahn auf den 1000m hohen Pfänder.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Pfänderbahn",
+            "date": "2024-02-25T11:19:10.000+01:00",
+            "width": 1920,
+            "height": 1035
+          }
+        ],
+        "text": "Blick aus der Bahn auf die entgegenkommende Gondel und das Alpenpanorama."
+      },
+      {
+        "photos": [
+          {
+            "name": "002",
+            "alt": "Seilbahn Bregenz",
+            "date": "2024-02-25T11:25:36.000+01:00",
+            "width": 1920,
+            "height": 880
+          },
+          {
+            "name": "003",
+            "alt": "Bergbahn am Bodensee",
+            "date": "2024-02-25T11:25:49.000+01:00",
+            "width": 1727,
+            "height": 1080
+          }
+        ],
+        "text": "Ankunft auf dem Gipfel gegen 11:30. Blick von einem der vielen Aussichtspunkte auf die kuriose letzte Stütze und dem Bodensee im Hintergrund."
+      },
+      {
+        "photos": [
+          {
+            "name": "004",
+            "alt": "Rheintal mit Alpen",
+            "date": "2024-02-25T11:37:08.000+01:00",
+            "width": 1920,
+            "height": 998
+          }
+        ],
+        "text": "Vom Bodensee führt das topfebene Rheintal in die Alpen hinein, wo natürlich im Februar viel Schnee liegt. "
+      },
+      {
+        "photos": [
+          {
+            "name": "005",
+            "alt": "Lindau",
+            "date": "2024-02-25T11:41:32.000+01:00",
+            "width": 1920,
+            "height": 1044
+          }
+        ],
+        "text": "Tele zum deutschen Bodenseeufer mit der Insel Lindau."
+      },
+      {
+        "photos": [
+          {
+            "name": "006",
+            "alt": "Gasthaus Pfänderspitze",
+            "date": "2024-02-25T11:50:08.000+01:00",
+            "width": 1832,
+            "height": 1080
+          }
+        ],
+        "text": "Von der Bergstation muss man zum eigentlichen Gipfel des Pfänders noch 40m aufsteigen. Dort befindet sich auch das kleine Gasthaus Pfänderspitze. Wie man sieht war es warm genug, um draußen in der Sonne zu sitzen."
+      },
+      {
+        "photos": [
+          {
+            "name": "007",
+            "alt": "Wildpark Pfänder",
+            "date": "2024-02-25T11:59:43.000+01:00",
+            "width": 1612,
+            "height": 1080
+          }
+        ],
+        "text": "Dann gibt es rund um die Bergstation noch einen Wildpark. Die Mufflons hier im Bild genossen die Sonne (und die Aussicht?)."
+      },
+      {
+        "photos": [
+          {
+            "name": "008",
+            "alt": "Bergstation Pfänder",
+            "date": "2024-02-25T12:19:20.000+01:00",
+            "width": 1920,
+            "height": 1050
+          }
+        ],
+        "text": "Die Seilbahnstation der Pfänderbahn, die es seit 1927 gibt."
+      },
+      {
+        "photos": [
+          {
+            "name": "009",
+            "alt": "Gasthaus Pfänderdohle",
+            "date": "2024-02-25T12:28:48.000+01:00",
+            "width": 1693,
+            "height": 1080
+          }
+        ],
+        "text": "Gegen 12:20 ging dann die eigentliche Wanderung los. Zu erst auf einem Asphaltweg hinab zum Restaurant Alpendohle, hier rechts zu sehen. Der offizielle Weg geht um den Hügel, auf dem ich mich jetzt befinde, herum - schöner ist es aber oben rüber. Früher gab es hier Skilifte und Pisten, die aber nur selten genug Schnee hatten.<br />Wie man sieht zog es an diesem Sonntag viele Besucher auf den Pfänder."
+      },
+      {
+        "photos": [
+          {
+            "name": "010",
+            "alt": "Wanderweg Pfänder",
+            "date": "2024-02-25T12:54:13.000+01:00",
+            "width": 1616,
+            "height": 1080
+          }
+        ],
+        "text": "Nach dem Weg über den Hügel kam ich wieder auf den offiziellen Weg nach Fluh, der immer sehr breit und einfach ist."
+      },
+      {
+        "photos": [
+          {
+            "name": "011",
+            "alt": "Hennenbühel",
+            "date": "2024-02-25T13:00:22.000+01:00",
+            "width": 1920,
+            "height": 1027
+          }
+        ],
+        "text": "Vorbei an der Lichtung Hennenbühel."
+      },
+      {
+        "photos": [
+          {
+            "name": "012",
+            "alt": "Rheinmündung",
+            "date": "2024-02-25T13:06:33.000+01:00",
+            "width": 1126,
+            "height": 1080
+          }
+        ],
+        "text": "Manchmal mit Blick ins Tal, hier zur Rheinmündung."
+      },
+      {
+        "photos": [
+          {
+            "name": "013",
+            "alt": "Spazierweg Fluh",
+            "date": "2024-02-25T13:11:22.000+01:00",
+            "width": 1605,
+            "height": 1080
+          }
+        ],
+        "text": "Nach 45min Abstieg Ankunft im kleinen Ort Fluh, zwischen Pfänder und  Bregenzer Ach. Hier der Blick in den Bregenzer Wald."
+      },
+      {
+        "photos": [
+          {
+            "name": "014",
+            "alt": "Unterer Känzeleweg",
+            "date": "2024-02-25T13:27:35.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Bei Fluh kann man sich entscheiden, ob man den oberen oder unteren Känzeleweg geht. Der obere geht an der Kante eines langen Felsabbruchs entlang, der untere unterhalb. Wie man sieht, habe ich mich für den unteren Känzeleweg entschieden."
+      },
+      {
+        "photos": [
+          {
+            "name": "015",
+            "alt": "Weg unter Felswand",
+            "date": "2024-02-25T13:30:41.000+01:00",
+            "width": 720,
+            "height": 1080
+          }
+        ],
+        "text": "Die Felswand besteht aus einer Sandsteinschicht, auf der der Nagelfluh liegt. Da der Sandstein schneller verwittert, ergibt sich ein toller Weg unter dem überhängenden Felsen."
+      },
+      {
+        "photos": [
+          {
+            "name": "016",
+            "alt": "Wanderweg Känzele",
+            "date": "2024-02-25T14:08:15.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Der Weg wurde vor nicht so langer Zeit neu ausgebaut. Man läuft zwar unterhalb der Felswand, aber trotzdem befindet man sich noch ein Stück über dem Rheintal und hat manchmal auch Aussicht."
+      },
+      {
+        "photos": [
+          {
+            "name": "017",
+            "alt": "Sandsteinfelsen",
+            "date": "2024-02-25T14:38:00.000+01:00",
+            "width": 720,
+            "height": 1080
+          }
+        ],
+        "text": "Wenn man den unteren Känzeleweg wählt, muss man bis zum 'Fallenden Bach' laufen. Nur dort kommt man wieder nach oben (80m Aufstieg), um danach Richtung Talstation abbiegen zu können."
+      },
+      {
+        "photos": [
+          {
+            "name": "018",
+            "alt": "Autobahn Bregenz",
+            "date": "2024-02-25T14:40:28.000+01:00",
+            "width": 1723,
+            "height": 1080
+          }
+        ],
+        "text": "Nun befand ich mich genau auf dem Pfändertunnel, in dem die Autobahn den Pfänder unterquert. Bisher hatte ich den Ort, wo ich mich befinde, nur aus dem Auto heraus gesehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "019",
+            "alt": "Geologie Lehrpfad",
+            "date": "2024-02-25T14:41:31.000+01:00",
+            "width": 898,
+            "height": 1080
+          }
+        ],
+        "text": "Auf dem ganzen Abstieg gab es unzählige Themenweg und Schilder, hier war ich auf dem Geologie Lehrpfad."
+      },
+      {
+        "photos": [
+          {
+            "name": "020",
+            "alt": "Rheintal",
+            "date": "2024-02-25T14:45:30.000+01:00",
+            "width": 1920,
+            "height": 1013
+          }
+        ],
+        "text": "Blick ins Rheintal nach dem kurzen Zwischenaufstieg. Hier befindet sich auch die Burgruine Hohenbregenz, die ich aber nicht mehr besuchte."
+      },
+      {
+        "photos": [
+          {
+            "name": "021",
+            "alt": "Fuchstobel",
+            "date": "2024-02-25T15:08:42.000+01:00",
+            "width": 1010,
+            "height": 1080
+          }
+        ],
+        "text": "Zurück nach Bregenz ging es dann auf Forstwegen quer durch den Wald. Hier über eine Brücke durch den Fuchstobel."
+      },
+      {
+        "photos": [
+          {
+            "name": "022",
+            "alt": "Bregenz Oberstadt",
+            "date": "2024-02-25T15:25:17.000+01:00",
+            "width": 883,
+            "height": 1080
+          }
+        ],
+        "text": "Bregenz erreichte ich dann bei der Oberstadt, ein alter und befestigter Stadtteil von Bregenz."
+      },
+      {
+        "photos": [
+          {
+            "name": "023",
+            "alt": "Unteres Tor",
+            "date": "2024-02-25T15:27:13.000+01:00",
+            "width": 937,
+            "height": 1080
+          }
+        ],
+        "text": "Blick zurück zum Tor, durch das ich die Oberstadt wieder verließ. Anschließend noch etwas planlos durch Bregenz zurück zum Parkhaus. Ankunft dort gegen 16:00."
+      }
+    ],
+    "outro": "Fazit: Einfache Wanderung vom Aussichtsberg Pfänder nach Bregenz. Die Variante über Fluh und das Känzele ist auf jeden Fall lohnend und sicher interessanter, als die anderen, direkteren Abstiege. Nach Winter hat sich die Wanderung übrigens nicht angefühlt..."
+  }
+]
