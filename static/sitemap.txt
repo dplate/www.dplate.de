@@ -243,3 +243,4 @@ https://www.dplate.de/alpine/praettigau/20231028
 https://www.dplate.de/alpine/toggenburg/20240511
 https://www.dplate.de/alpine/allgaeu/20240518
 https://www.dplate.de/alpine/pfaender/20240225
+https://www.dplate.de/alpine/alpstein/20240714

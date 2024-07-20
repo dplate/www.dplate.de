@@ -1,0 +1,435 @@
+[
+  {
+    "destination": "alpstein",
+    "date": "d20240714",
+    "type": "hike",
+    "track": true,
+    "detailMap": "swiss",
+    "shortTitle": "Mutschensattel",
+    "title": "Staubern - Mutschensattel - Wildhaus",
+    "title3d": {
+      "offsetY": 2,
+      "fontSize": 7,
+      "align": "center",
+      "width": 1920,
+      "height": 498
+    },
+    "movie": "_sH8GhyQ9AQ",
+    "intro": "Endlich war auch mal am Wochenende schönes Wetter, deshalb ging es an diesem Julisonntag auf eine Wanderung quer durch den Alpstein. Das Auto stellte ich um 9:00 auf dem Parkplatz der Staubern-Seilbahn in Frümsen im Rheintal ab. Die offiziellen Parkplätze waren zu dieser Zeit bereits alle belegt, so dass ich etwas kreativ parken musste.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Staubern Bergbahn",
+            "date": "2024-07-14T09:19:23.000+02:00",
+            "width": 1793,
+            "height": 1080
+          }
+        ],
+        "text": "Nachdem die Bergfahrt für 20CHF am Automaten bezahlt war, musste ich noch zwei der 8er-Gondeln abwarten, die alle 8 Minuten fahren. Die moderne Bahn kommt mit wenig Personal aus und fährt in den Sommermonaten durchgehend von 7:00 bis 22:00!"
+      },
+      {
+        "photos": [
+          {
+            "name": "002",
+            "alt": "Staubern Seilbahn",
+            "date": "2024-07-14T09:38:42.000+02:00",
+            "width": 1616,
+            "height": 1080
+          }
+        ],
+        "text": "Schnell hat man mit der Bahn die steilen 1400 Höhenmeter zur Bergstation Staubern überwunden. Hier der Blick die Fahrstrecke zurück. Dahinter das Rheintal und die Berge von Liechtenstein und Österreich."
+      },
+      {
+        "photos": [
+          {
+            "name": "003",
+            "alt": "Staubern",
+            "date": "2024-07-14T09:39:39.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Die Seilbahn dient hauptsächlich als Zubringer zum Gasthaus Staubern, was sich (hier nicht sichtbar) rechts von der Bergstation befindet."
+      },
+      {
+        "photos": [
+          {
+            "name": "004",
+            "alt": "Sämtisersee",
+            "date": "2024-07-14T09:42:51.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Auf der anderen Seite des Grats geht es steil bergab zum Sämtisersee. Im Hintergrund ist noch der Hohe Kasten zu sehen, von dem der beliebte <a href='/alpine/alpstein/20131019' target='_blank'>Geologische Wanderweg</a> hier an Staubern vorbeiführt."
+      },
+      {
+        "photos": [
+          {
+            "name": "005",
+            "alt": "Alpstein Wanderung",
+            "date": "2024-07-14T09:44:55.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Nach Staubern geht der Wanderweg recht steil um die Stauberenkanzel herum, er ist aber immer breit und sehr gut abgesichert."
+      },
+      {
+        "photos": [
+          {
+            "name": "006",
+            "alt": "Steiler Hangweg",
+            "date": "2024-07-14T10:02:45.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "007",
+            "alt": "Fählensee",
+            "date": "2024-07-14T10:04:01.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Blick vom Hangweg zurück zum Sämtisersee und nach vorne zum Fählensee."
+      },
+      {
+        "photos": [
+          {
+            "name": "008",
+            "alt": "Alpenrosen",
+            "date": "2024-07-14T10:06:06.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Aktuell die richtige Zeit für viele Bergblumen, hier ein paar Alpenrosen am Wegrand."
+      },
+      {
+        "photos": [
+          {
+            "name": "009",
+            "alt": "Blick ins Rheintal",
+            "date": "2024-07-14T10:30:51.000+02:00",
+            "width": 1920,
+            "height": 843
+          },
+          {
+            "name": "010",
+            "alt": "Kreuzberge mit Wolken",
+            "date": "2024-07-14T10:30:51.000+02:00",
+            "width": 1792,
+            "height": 1080
+          }
+        ],
+        "text": "Nach etwas Aufstieg erreichte ich wieder den Grat und ich konnte ins Rheintal und erstmals die spektakulären Kreuzberge sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "011",
+            "alt": "Sommerwanderung",
+            "date": "2024-07-14T10:33:15.000+02:00",
+            "width": 1920,
+            "height": 1010
+          }
+        ],
+        "text": "Blick noch mal zurück."
+      },
+      {
+        "photos": [
+          {
+            "name": "012",
+            "alt": "Geologischer Wanderweg",
+            "date": "2024-07-14T10:35:07.000+02:00",
+            "width": 1920,
+            "height": 732
+          }
+        ],
+        "text": "Die letzten Meter auf dem Grat sind die schönsten des Geologischen Wanderwegs. Man ist hier aber nie allein unterwegs."
+      },
+      {
+        "photos": [
+          {
+            "name": "013",
+            "alt": "Gratweg",
+            "date": "2024-07-14T10:38:31.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Am Ende des Grats der Blick zurück zum Hochhus."
+      },
+      {
+        "photos": [
+          {
+            "name": "014",
+            "alt": "Bollenwees",
+            "date": "2024-07-14T10:43:19.000+02:00",
+            "width": 1681,
+            "height": 1080
+          }
+        ],
+        "text": "Tele hinab nach Bollenwees und dem schönen <a href='/alpine/alpstein/20230709' target='_blank'>Fählensee</a>."
+      },
+      {
+        "photos": [
+          {
+            "name": "015",
+            "alt": "Kreuzberge",
+            "date": "2024-07-14T10:53:15.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Vor dem Abstieg zur Saxerlücke, noch einmal ein Foto der tollen Kreuzberge. Nach der Saxerlücke geht es durch das Tal rechts davon bergauf zum Mutschensattel, der hier bereits ganz rechts zu sehen ist."
+      },
+      {
+        "photos": [
+          {
+            "name": "016",
+            "alt": "Wegweiser Saxerlücke",
+            "date": "2024-07-14T11:05:54.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Wegweiser auf der Saxerlücke. Hier verließ ich nun den Geologischen Wanderweg und es wurde etwas leerer."
+      },
+      {
+        "photos": [
+          {
+            "name": "017",
+            "alt": "Saxerlücke",
+            "date": "2024-07-14T11:30:38.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Nach dem ersten steilen Aufstieg (sogar teilweise mit Drahtseil), der Blick zurück zur Saxerlücke und den Serpentinen, die ich zuvor hinabgestiegen war."
+      },
+      {
+        "photos": [
+          {
+            "name": "018",
+            "alt": "Roslenalp",
+            "date": "2024-07-14T11:59:22.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Vorbei ging es an der kleinen Roslenalp, wo man auch etwas zu trinken kaufen könnte. In dem Tal weideten die Schafe, die den Wanderweg zum Teil sehr matschig hinterlassen hatten. Außerdem musste ein glitschiges, von Dreck verborgenes, Schneefeld überwunden werden."
+      },
+      {
+        "photos": [
+          {
+            "name": "019",
+            "alt": "Schnee am Mutschensattel",
+            "date": "2024-07-14T12:35:12.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Am Ende des Tals musste ich dann noch über dieses Schneefeld, was aber deutlich einfacher war. Hier der Blick durch das Tal zurück."
+      },
+      {
+        "photos": [
+          {
+            "name": "020",
+            "alt": "Blick ins Toggenburg",
+            "date": "2024-07-14T12:38:59.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Ankunft auf dem Mutschensattel um 12:30. Auf der anderen Seite geht es hinab nach Wildhaus im Toggenburg, aber ich hatte noch einen kleinen Extraschlenker vor."
+      },
+      {
+        "photos": [
+          {
+            "name": "021",
+            "alt": "Mutschen",
+            "date": "2024-07-14T12:51:01.000+02:00",
+            "width": 1616,
+            "height": 1080
+          }
+        ],
+        "text": "Die 10min Extraaufstieg zum <a href='/alpine/alpstein/20220902#mutschen_021' target='_blank'>Mutschen</a> sparte ich mir wegen der Bewölkung dagegen diesmal. Er ist aber generell lohnend, da man auf der Rückseite tief ins Rheintal blicken kann."
+      },
+      {
+        "photos": [
+          {
+            "name": "022",
+            "alt": "Bergwanderung",
+            "date": "2024-07-14T13:01:55.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Vom Mutschensattel ging es nun den Hang quer hinüber auf den Chreialpfirst, einem langen Rücken, der zum Zwinglipass führt.<br />Hier noch einmal der Blick ins Tal, das direkt nach Wildhaus führt."
+      },
+      {
+        "photos": [
+          {
+            "name": "023",
+            "alt": "Hundstein",
+            "date": "2024-07-14T13:06:27.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Vom Chreialpfirst kann man tief ins Tals des Fählensees blicken. Dahinter die Felsen des Hundsteins."
+      },
+      {
+        "photos": [
+          {
+            "name": "024",
+            "alt": "Höhenweg",
+            "date": "2024-07-14T13:54:24.000+02:00",
+            "width": 1920,
+            "height": 1006
+          },
+          {
+            "name": "025",
+            "alt": "Altmann",
+            "date": "2024-07-14T13:59:23.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Der schönste Abschnitt der Wanderung war der Höhenweg über den 2100m hohen Chreialpfirst. Dabei hat man immer den 2400m hohen Altman im Blick."
+      },
+      {
+        "photos": [
+          {
+            "name": "026",
+            "alt": "Wegweiser Zwinglipasshütte",
+            "date": "2024-07-14T14:39:21.000+02:00",
+            "width": 1243,
+            "height": 1080
+          }
+        ],
+        "text": "Um 14:30 Ankunft an der bewirteten Zwinglipasshütte, die etwas unterhalb des eigentlichen Zwinglipass liegt.<br />Wie man sieht, standen jetzt noch 2,5h Abstieg an, während dem es 1000m nach Wildhaus bergab geht."
+      },
+      {
+        "photos": [
+          {
+            "name": "027",
+            "alt": "Zwinglipasshütte",
+            "date": "2024-07-14T14:50:35.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Blick zurück zur Zwinglipasshütte und dem Altmann dahinter."
+      },
+      {
+        "photos": [
+          {
+            "name": "028",
+            "alt": "Girenspitz",
+            "date": "2024-07-14T15:08:59.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Während der ersten Hälfte des Abstiegs läuft man an der markanten Girenspitz vorbei, die auch (aus offensichtlichen Gründen) Toblerone-Berg genannt wird."
+      },
+      {
+        "photos": [
+          {
+            "name": "029",
+            "alt": "Alte Alp unter Felswand",
+            "date": "2024-07-14T15:10:51.000+02:00",
+            "width": 1765,
+            "height": 1080
+          }
+        ],
+        "text": "Vorbei ging es an einer alten großen Alp, die direkt unter einer hohen Felswand liegt."
+      },
+      {
+        "photos": [
+          {
+            "name": "030",
+            "alt": "Kuh mit Girenspitz",
+            "date": "2024-07-14T15:11:26.000+02:00",
+            "width": 996,
+            "height": 1080
+          }
+        ],
+        "text": "Noch einmal die Girenspitz, von der selbst die Kuh nicht die Blicke lassen kann."
+      },
+      {
+        "photos": [
+          {
+            "name": "031",
+            "alt": "Alpweg Zwinglipass",
+            "date": "2024-07-14T15:25:02.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Nach der eher flachen Alpwiesen ging es nun in vielen Serpentinen auf einem schön ausgebautem Saumpfad hinab. Nun zogen ein paar Schleierwolken rein, so dass der Himmel nicht mehr so blau war. Es blieb aber bis zum Ende sonnig."
+      },
+      {
+        "photos": [
+          {
+            "name": "032",
+            "alt": "Berg Zehenspitz",
+            "date": "2024-07-14T16:01:06.000+02:00",
+            "width": 1785,
+            "height": 1080
+          }
+        ],
+        "text": "Mit müden Beinen Ankunft im Tal an der Alp Tesel (dort kann man wieder Getränke kaufen) und der steilen Zehenspitz im Hintergrund."
+      },
+      {
+        "photos": [
+          {
+            "name": "033",
+            "alt": "Fahrweg Tesel",
+            "date": "2024-07-14T16:21:12.000+02:00",
+            "width": 1759,
+            "height": 1080
+          },
+          {
+            "name": "034",
+            "alt": "Alp Tesel",
+            "date": "2024-07-14T16:27:17.000+02:00",
+            "width": 1616,
+            "height": 1080
+          }
+        ],
+        "text": "Zum Beine-Erholen ging es nun ein Stück flach auf diesem Fahrweg weiter."
+      },
+      {
+        "photos": [
+          {
+            "name": "035",
+            "alt": "Flüretobel",
+            "date": "2024-07-14T16:47:18.000+02:00",
+            "width": 720,
+            "height": 1080
+          }
+        ],
+        "text": "Diesem Fahrweg könnte man auch noch weiter bis zum Gasthaus Gamplüt folgen und von dort mit einer kleinen Seilbahn oder mit Trottinett hinabfahren (zumindest bis 16:30). Ich entschied mich dagegen für den direkten Abstieg durch den Flüretobel, der etwas rutschig war."
+      },
+      {
+        "photos": [
+          {
+            "name": "036",
+            "alt": "Wildhaus",
+            "date": "2024-07-14T17:18:20.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "In der Mitte der Schlucht verließ ich den Tobel und lief quer hinüber nach Wildhaus, was dann auch das Ende meiner Wanderung war. Von dort ging es dann (jede volle Stunde) mit dem Postbus zurück nach Frümsen. Man muss allerdings in Gams umsteigen und hat dort über 20min Wartezeit. Deshalb dauert die Rückfahrt rund 50min."
+      }
+    ],
+    "outro": "Fazit: Schöne Wanderung durch den Alpstein. Mit dem Trick des Postbusses hat man viel Abwechslung, da man keine Runde laufen muss. Und dank der Bahn nach Staubern hat man auch nicht zu viele Höhenmeter aufzusteigen. Insgesamt waren es 15km Weg, es ging 660m hinauf und 1200m bergab. Der Weg ist zwar manchmal steil und hat Drahtseil, ist aber nie wirklich gefährlich und immer gut ausgebaut."
+  }
+]
