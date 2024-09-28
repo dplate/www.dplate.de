@@ -1,0 +1,645 @@
+[
+  {
+    "destination": "alviergruppe",
+    "date": "d20240921",
+    "type": "hike",
+    "track": true,
+    "detailMap": "swiss",
+    "shortTitle": "Margelchopf",
+    "title": "Voralpsee - Margelchopf",
+    "title3d": {
+      "offsetY": 1,
+      "fontSize": 7.5,
+      "align": "left",
+      "width": 1920,
+      "height": 403
+    },
+    "movie": "SFGMi7u4Qx8",
+    "intro": "Da oberhalb von 2200m noch der erste Septemberschnee lag, war meine Wanderzielwahl für diesen Schönwettersamstag etwas eingeschränkt. Schließlich wählte ich den 2160m hohen Margelchopf oberhalb des Rheintals als Ziel. Als Ausgangspunkt (und schönen Abschluss) wählte ich den Voralpsee oberhalb von Grabs auf 1120m Höhe.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Uriger Waldpfad",
+            "date": "2024-09-21T07:58:06.000+02:00",
+            "width": 1422,
+            "height": 1080
+          },
+          {
+            "name": "002",
+            "alt": "Wald bei Sonnenaufgang",
+            "date": "2024-09-21T07:59:01.000+02:00",
+            "width": 910,
+            "height": 1080
+          }
+        ],
+        "text": "Nach dem ich ziemlich früh um 7:45 mein Auto auf dem großen Parkplatz am Voralpsee (6 CHF) abgestellt hatte, ging ich nicht den breiten Weg zum Voralpsee, sondern einen schmalen Pfad durch den urigen Wald - dem Wegweiser Margelchopf folgend."
+      },
+      {
+        "photos": [
+          {
+            "name": "003",
+            "alt": "Kleinste Pilze",
+            "date": "2024-09-21T08:03:30.000+02:00",
+            "width": 1018,
+            "height": 1080
+          }
+        ],
+        "text": "Im Wald roch es stark nach Pilzen, aber direkt am Weg gab es nur diese sehr kleinen Pilze im Moos zu sehen.<br />Lautstark konnten man das Röhren eines Hirsch hören, das durch den Widerhall der umgebenen Berge noch verstärkt wurde."
+      },
+      {
+        "photos": [
+          {
+            "name": "004",
+            "alt": "Blick zum Alpstein",
+            "date": "2024-09-21T08:26:21.000+02:00",
+            "width": 1755,
+            "height": 1080
+          }
+        ],
+        "text": "Für den Aufstieg wählte ich den steilen Weg über Inggernast, der in vielen kleinen Serpentinen den Wald hinaufführt. Zum Teil war er etwas matschig und rutschig, aber bergauf kein Problem.<br />Hier die erste Aussicht nach ca. 30min mit Blick auf den Alpstein (links der Altmann)."
+      },
+      {
+        "photos": [
+          {
+            "name": "005",
+            "alt": "Inggernasthütte",
+            "date": "2024-09-21T08:37:50.000+02:00",
+            "width": 1920,
+            "height": 1030
+          },
+          {
+            "name": "006",
+            "alt": "Bank mit Aussicht",
+            "date": "2024-09-21T08:38:36.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Nach knapp 300m Aufstieg Ankunft an der kleinen Inggernasthütte, die etwas verloren auf einem kleinen Absatz mitten im Wald liegt. Schöne Bänke, Tische und ein Brunnen laden dort für eine erste Trinkpause ein."
+      },
+      {
+        "photos": [
+          {
+            "name": "007",
+            "alt": "Weg unterhalb von Felswand",
+            "date": "2024-09-21T08:54:38.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "008",
+            "alt": "Steinschlaggefahr",
+            "date": "2024-09-21T09:04:49.000+02:00",
+            "width": 1920,
+            "height": 855
+          }
+        ],
+        "text": "Etwas oberhalb der Hütte verlässt der Weg den Wald und es geht über ein steiles Geröllfeld direkt unter der Felswand des Chapf entlang. Dabei ist der Weg nicht besonders schwierig, aber auf einem Schild wurde vor Steinschlaggefahr gewarnt. Ich hörte auch Steine poltern - vermutlich von Gämsen losgetreten, die sich oberhalb und in der Felswand aufhielten."
+      },
+      {
+        "photos": [
+          {
+            "name": "009",
+            "alt": "Aussicht Schlösslichopf",
+            "date": "2024-09-21T09:29:51.000+02:00",
+            "width": 1920,
+            "height": 859
+          }
+        ],
+        "text": "Nach dem Steilhang ging ich einen kleinen Abstecher auf einen vorgelagerten Buckel. Von dort gibt es einen beeindruckenden Tiefblick auf den 700m tieferen Voralpsee. Im Hintergrund ist der Gamserrugg und <a href='/alpine/toggenburg/20210912' target='_blank'>Chäserrugg</a> zu sehen. Bis ganz auf die Kante hatte ich mich allerdings nicht rangetraut.<br />Erst später sah ich auf den Wegweisern, dass dies der Aussichtspunkt Schlösslichopf ist."
+      },
+      {
+        "photos": [
+          {
+            "name": "010",
+            "alt": "Gamsberg",
+            "date": "2024-09-21T09:30:51.000+02:00",
+            "width": 1663,
+            "height": 1080
+          }
+        ],
+        "text": "Blick von Schlösslichopf zur Ober Länggli Alp. An dieser Alp werde ich später an meinem Abstieg vorbeikommen. Dahinter die Isisizer Rosswis und der Gamsberg (beide gut 2300m hoch)."
+      },
+      {
+        "photos": [
+          {
+            "name": "011",
+            "alt": "Aussichtspunkt Schlösslichopf",
+            "date": "2024-09-21T09:34:12.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Blick zurück zum Schlösslichopf, der von hier recht unspektakulär aussieht."
+      },
+      {
+        "photos": [
+          {
+            "name": "012",
+            "alt": "Wanderweg Isisiz",
+            "date": "2024-09-21T09:35:28.000+02:00",
+            "width": 1555,
+            "height": 1080
+          }
+        ],
+        "text": "Da ich nun die Steilstufe vom Voralpsee überwunden hatte, wurde es hier flacher und ich konnte etwas verschnaufen. Außerdem kam ich nun aus dem Schatten der Berge hinaus und durch die Sonne sah alles gleich freundlicher aus."
+      },
+      {
+        "photos": [
+          {
+            "name": "013",
+            "alt": "Chäserrugg",
+            "date": "2024-09-21T09:38:05.000+02:00",
+            "width": 1920,
+            "height": 1074
+          }
+        ],
+        "text": "Noch einmal Ober Länggli, nur diesmal von weiter oben. Dahinter der Höchst und wieder der Chäserrugg."
+      },
+      {
+        "photos": [
+          {
+            "name": "014",
+            "alt": "Karstgebiet",
+            "date": "2024-09-21T09:42:19.000+02:00",
+            "width": 1920,
+            "height": 813
+          },
+          {
+            "name": "015",
+            "alt": "Alte Steinmauer",
+            "date": "2024-09-21T09:43:31.000+02:00",
+            "width": 1920,
+            "height": 911
+          }
+        ],
+        "text": "Kleine Hochebene, wo schon deutlich wird, dass ich mich hier mal wieder in einem Karstgebiet befinde."
+      },
+      {
+        "photos": [
+          {
+            "name": "016",
+            "alt": "Alp Isisizsess",
+            "date": "2024-09-21T09:46:55.000+02:00",
+            "width": 1645,
+            "height": 1080
+          }
+        ],
+        "text": "Ankunft an der Alp Isisizsess (zufällige Reihung von Is und S') nach 2h Aufstieg und 700 Höhenmetern<br />Im Hintergrund ist jetzt erstmals der Gipfel des Margelchopfs zu sehen. Der weiter Weg führt nun zuerst aus den Pass rechts und dann über den Isisizgrat nach links hinauf."
+      },
+      {
+        "photos": [
+          {
+            "name": "017",
+            "alt": "Wegweiser Isisitzsess",
+            "date": "2024-09-21T09:48:16.000+02:00",
+            "width": 873,
+            "height": 1080
+          }
+        ],
+        "text": "Der umfangreiche Wegweiser an der Alp. Hier kann man auch sehen, dass Isisiz auf den Wegweisern entgegen den Karten mit 'tz' geschrieben wird, was aber weniger lustig aussieht."
+      },
+      {
+        "photos": [
+          {
+            "name": "018",
+            "alt": "Alp mit Mauer",
+            "date": "2024-09-21T09:49:17.000+02:00",
+            "width": 1701,
+            "height": 1080
+          }
+        ],
+        "text": "Die Alp mit einer alten Steinmauer."
+      },
+      {
+        "photos": [
+          {
+            "name": "019",
+            "alt": "Wanderung zum Isisitzgrat",
+            "date": "2024-09-21T10:05:34.000+02:00",
+            "width": 720,
+            "height": 1080
+          }
+        ],
+        "text": "Und hier war ich dann schon fast oben auf dem Isisizgrat und es gab den ersten Schnee auf dem breiten Weg."
+      },
+      {
+        "photos": [
+          {
+            "name": "020",
+            "alt": "Panorama Isisizgrat",
+            "date": "2024-09-21T10:09:33.000+02:00",
+            "width": 1920,
+            "height": 662
+          }
+        ],
+        "text": "Blick vom 2000m hohen Isisizgrat nach Osten. Von dort führt der kürzeste Aufstieg zum Margelchopf vom Berghaus Malbun hinauf. Folglich begegnete ich auch hier dem ersten anderen Wanderer."
+      },
+      {
+        "photos": [
+          {
+            "name": "021",
+            "alt": "Blick ins Rheintal",
+            "date": "2024-09-21T10:20:55.000+02:00",
+            "width": 1920,
+            "height": 978
+          }
+        ],
+        "text": "Nach einer kleinen Pause auf dem Grat machte ich mich jetzt an den Aufstieg zum Gipfel. Das sind zwar nur gut 100 Höhenmeter, die sind dafür intensiv.<br />Hier der Blick an den Felsen des Margelchopfs vorbei ins Rheintal."
+      },
+      {
+        "photos": [
+          {
+            "name": "022",
+            "alt": "Gesteinsschichtungen",
+            "date": "2024-09-21T10:24:00.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Und der Blick in die andere Richtung, von der ich hinaufgelaufen kam. Unten die Alp Isisizsess."
+      },
+      {
+        "photos": [
+          {
+            "name": "023",
+            "alt": "Steiler Bergweg",
+            "date": "2024-09-21T10:25:20.000+02:00",
+            "width": 720,
+            "height": 1080
+          }
+        ],
+        "text": "Nach erreichen der Felswand geht es das erste Stück diese etwas bröckeligen Tritte hinauf. In Wirklichkeit ist es steiler, als es hier aussieht - man braucht schon fast die Hände hier."
+      },
+      {
+        "photos": [
+          {
+            "name": "024",
+            "alt": "Alviergruppe",
+            "date": "2024-09-21T10:28:02.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Kurze Pause nach der ersten Steilstufe. Blick zurück zum Isisizgrat. Links dahinter ist der 2300m hohe <a href='/alpine/alviergruppe/20180812' target='_blank'>Alvier</a> zu sehen, den man ebenfalls vom Berghaus Malbun besteigen kann."
+      },
+      {
+        "photos": [
+          {
+            "name": "025",
+            "alt": "Weg mit Drahtseil",
+            "date": "2024-09-21T10:29:19.000+02:00",
+            "width": 720,
+            "height": 1080
+          }
+        ],
+        "text": "Dann folgte das steilste Stück des Aufstiegs. Fast senkrecht geht es hier hinauf. Das Drahtseil hilft dabei ein wenig, aber die Tritte im Fels sind zum Teil recht klein und weit auseinander."
+      },
+      {
+        "photos": [
+          {
+            "name": "026",
+            "alt": "Schwieriger Weg",
+            "date": "2024-09-21T10:32:05.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Geschafft, Blick die gesamte Rinne hinab. Schwierig, aber wenn man sich etwas Zeit lässt, machbar."
+      },
+      {
+        "photos": [
+          {
+            "name": "027",
+            "alt": "Wanderweg Margelchopf",
+            "date": "2024-09-21T10:33:33.000+02:00",
+            "width": 1675,
+            "height": 1080
+          }
+        ],
+        "text": "Die letzten Meter zum Gipfelkreuz dienten dann der Entspannung. :)"
+      },
+      {
+        "photos": [
+          {
+            "name": "028",
+            "alt": "Gipfel Margelchopf",
+            "date": "2024-09-21T10:35:08.000+02:00",
+            "width": 1920,
+            "height": 603
+          }
+        ],
+        "text": "Ankunft auf dem Gipfel schließlich um 10:35, also hatte ich knapp 3h für die 1000 Höhenmeter gebraucht.<br />Der Gipfel besteht aus einer überraschend großen und flachen Wiese, hier wird man auch bei vielen Gipfelstürmern keine Platzangst bekommen."
+      },
+      {
+        "photos": [
+          {
+            "name": "029",
+            "alt": "Panorama Margelchopf",
+            "date": "2024-09-21T10:42:47.000+02:00",
+            "width": 1920,
+            "height": 645
+          }
+        ],
+        "text": "Längere Pause auf dem trockenen Gras mit Blick über das Rheintal. Links der Alpstein, rechts Vorarlberg."
+      },
+      {
+        "photos": [
+          {
+            "name": "030",
+            "alt": "Schneefeld mit Gipfelkreuz",
+            "date": "2024-09-21T10:43:04.000+02:00",
+            "width": 1920,
+            "height": 820
+          }
+        ],
+        "text": "Und Richtung Süden, links der 2500m hohe <a href='/alpine/praettigau/20180908' target='_blank'>Falknis</a>."
+      },
+      {
+        "photos": [
+          {
+            "name": "031",
+            "alt": "Aussicht Margelchopf",
+            "date": "2024-09-21T10:56:04.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Direkt auf der Felswand der Rückblick zum Isisizgrat und wieder ganz hinten der Falknis. Rechts der Fulfirst, auf den kein Wanderweg führt."
+      },
+      {
+        "photos": [
+          {
+            "name": "032",
+            "alt": "Steile Felswände",
+            "date": "2024-09-21T10:56:51.000+02:00",
+            "width": 1920,
+            "height": 916
+          }
+        ],
+        "text": "Und der schon bekannte Blick nach Westen. Die Alp Isisizsess ist hier nur mit im Bild, damit ich den Namen noch mal schreiben kann."
+      },
+      {
+        "photos": [
+          {
+            "name": "033",
+            "alt": "Modernes Gipfelkreuz",
+            "date": "2024-09-21T11:00:48.000+02:00",
+            "width": 1920,
+            "height": 980
+          }
+        ],
+        "text": "Das moderne Gipfelkreuz. Links ist <a href='/alpine/malbun' target='_blank'>Liechtenstein</a> zu sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "034",
+            "alt": "Blick zum Isisitzgrat",
+            "date": "2024-09-21T11:03:29.000+02:00",
+            "width": 1920,
+            "height": 921
+          }
+        ],
+        "text": "Um 11:00 machte ich mich dann auf den Abstieg (ohne weitere Fotos der Steilstellen). Ich habe mich einfach mehrfach auf den Po gesetzt und bin so ganz gut wieder runter gekommen. Zum Glück ist der Weg nicht besonders ausgesetzt."
+      },
+      {
+        "photos": [
+          {
+            "name": "035",
+            "alt": "Margelchopf mit Helikopter",
+            "date": "2024-09-21T11:22:01.000+02:00",
+            "width": 1920,
+            "height": 954
+          }
+        ],
+        "text": "Blick zurück zum Margelchopf. Der Helikopter flog anscheinend nur zum Spaß herum."
+      },
+      {
+        "photos": [
+          {
+            "name": "036",
+            "alt": "Wegweiser Isisitzgrat",
+            "date": "2024-09-21T11:23:58.000+02:00",
+            "width": 918,
+            "height": 1080
+          }
+        ],
+        "text": "Wegweiser auf dem Isisizgrat. Anstatt direkt wieder zum Voralpsee abzusteigen, kann man auch über das Berghaus Malbun absteigen und dann weiter unten zum Voralpsee queren. Das ist aber ein gutes Stück länger. Der offizielle 'Gipfelweg Margelchopf' startet beim Berghaus Malbun und führt dann zum Voralpsee hinab (An- und Rückfahrt mit dem Bus). Diesem Weg wollte ich nun folgen."
+      },
+      {
+        "photos": [
+          {
+            "name": "037",
+            "alt": "Altes Alpgebäude",
+            "date": "2024-09-21T11:50:38.000+02:00",
+            "width": 1450,
+            "height": 1080
+          }
+        ],
+        "text": "Schnell war ich wieder an der alten Alp Isisizsess."
+      },
+      {
+        "photos": [
+          {
+            "name": "038",
+            "alt": "Alp Ober Länggli",
+            "date": "2024-09-21T12:07:20.000+02:00",
+            "width": 1920,
+            "height": 1016
+          }
+        ],
+        "text": "Nun zweigte ich aber von meinem Hinweg ab und ging hinab zur Alp Ober Länggli. Das zu überquerende Schlammfeld habe ich auf dem Foto hier geschickt versteckt."
+      },
+      {
+        "photos": [
+          {
+            "name": "039",
+            "alt": "Chapf und Margelchopf",
+            "date": "2024-09-21T12:07:43.000+02:00",
+            "width": 1898,
+            "height": 1080
+          }
+        ],
+        "text": "Blick zurück. Links der Chapf und hinten der Margelchopf."
+      },
+      {
+        "photos": [
+          {
+            "name": "040",
+            "alt": "Gipfelweg Margelchopf",
+            "date": "2024-09-21T12:13:15.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "041",
+            "alt": "Wanderweg Chapf",
+            "date": "2024-09-21T12:14:26.000+02:00",
+            "width": 1920,
+            "height": 1066
+          }
+        ],
+        "text": "So schön ging es dann erst mal unter der Alp weiter."
+      },
+      {
+        "photos": [
+          {
+            "name": "042",
+            "alt": "Abgestorbene Bäume",
+            "date": "2024-09-21T12:18:04.000+02:00",
+            "width": 720,
+            "height": 1080
+          },
+          {
+            "name": "043",
+            "alt": "Schmaler Hangweg",
+            "date": "2024-09-21T12:23:41.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Dann wurde der Weg aber plötzlich schmal und es ging steil durch ein kleines Waldstück mit abgestorbenen Bäumen hinab."
+      },
+      {
+        "photos": [
+          {
+            "name": "044",
+            "alt": "Alp Unter Länggli",
+            "date": "2024-09-21T12:28:08.000+02:00",
+            "width": 1795,
+            "height": 1080
+          },
+          {
+            "name": "045",
+            "alt": "Schlösslichopf und Chapf",
+            "date": "2024-09-21T12:33:40.000+02:00",
+            "width": 1920,
+            "height": 1053
+          }
+        ],
+        "text": "Nach dem etwas kniffligen Abstieg erreichte ich die Alp Unter Länggli, die eine schön schattige Bank für eine Verschnaufpause bot. Dabei der Blick wieder zum Chapf. Der Felsvorsprung links davon ist der schon bekannte Schlösslichopf."
+      },
+      {
+        "photos": [
+          {
+            "name": "046",
+            "alt": "Baumgerippe",
+            "date": "2024-09-21T12:43:34.000+02:00",
+            "width": 1841,
+            "height": 1080
+          }
+        ],
+        "text": "Unerwartet schön ging der Weg nun über urige Wiesen. Hier mit einem großem Baumgerippe."
+      },
+      {
+        "photos": [
+          {
+            "name": "047",
+            "alt": "Schlösslichopf von unten",
+            "date": "2024-09-21T12:50:05.000+02:00",
+            "width": 789,
+            "height": 1080
+          }
+        ],
+        "text": "Und noch ein Stück weiter unten wieder der Blick zum Schlösslichopf - er wurde immer beeindruckender."
+      },
+      {
+        "photos": [
+          {
+            "name": "048",
+            "alt": "Bachüberquerung",
+            "date": "2024-09-21T12:57:29.000+02:00",
+            "width": 1895,
+            "height": 1080
+          }
+        ],
+        "text": "Hier musste ich einen Bach überqueren, der zum Glück nicht viel Wasser hatte. Ab hier war ich dann auch wieder im Schatten der Berge."
+      },
+      {
+        "photos": [
+          {
+            "name": "049",
+            "alt": "Voralpsee mit Gamserrugg",
+            "date": "2024-09-21T13:19:19.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Etwas matschig, aber sonst gut zu gehen, ging es nun durch den Wald weiter hinab. Hier der erste Blick auf den Voralpsee (fast da)."
+      },
+      {
+        "photos": [
+          {
+            "name": "050",
+            "alt": "Voralpsee",
+            "date": "2024-09-21T13:31:54.000+02:00",
+            "width": 1920,
+            "height": 1021
+          }
+        ],
+        "text": "Ich hätte auch direkter zurück zum Parkplatz laufen können, aber natürlich wollte ich noch zum Voralpsee gehen. Dafür geht es über diese fotogene Wiese hinab."
+      },
+      {
+        "photos": [
+          {
+            "name": "051",
+            "alt": "Fluss am Voralpsee",
+            "date": "2024-09-21T13:51:17.000+02:00",
+            "width": 1920,
+            "height": 1062
+          }
+        ],
+        "text": "Ankunft am See um 13:50. Für den Abstieg vom Gipfel hatte ich fast 3h gebraucht - ich bin aber bei steilen Abstiegen immer nicht viel schneller als bergauf.<br />Am See war dann Ausflugsstimmung, mit grillenden Familien, Anglern, einem Alphornbläser und einigen Gästen am kleinen Gasthaus/Kiosk."
+      },
+      {
+        "photos": [
+          {
+            "name": "052",
+            "alt": "Grillen am Voralpsee",
+            "date": "2024-09-21T13:54:47.000+02:00",
+            "width": 1631,
+            "height": 1080
+          },
+          {
+            "name": "053",
+            "alt": "Dunkler Bergsee",
+            "date": "2024-09-21T13:55:33.000+02:00",
+            "width": 1920,
+            "height": 1055
+          },
+          {
+            "name": "054",
+            "alt": "Rundweg Voralpsee",
+            "date": "2024-09-21T13:59:13.000+02:00",
+            "width": 1920,
+            "height": 852
+          }
+        ],
+        "text": "Da die Wanderung bisher nicht super lang war, entschied ich mich, noch um den schönen See herum zu laufen (zum Baden war es jetzt definitiv schon zu kalt)."
+      },
+      {
+        "photos": [
+          {
+            "name": "055",
+            "alt": "Spiegelung im See",
+            "date": "2024-09-21T14:15:15.000+02:00",
+            "width": 1920,
+            "height": 697
+          },
+          {
+            "name": "056",
+            "alt": "Bergsee mit Reflexion",
+            "date": "2024-09-21T14:18:20.000+02:00",
+            "width": 1784,
+            "height": 1080
+          }
+        ],
+        "text": "Noch ein paar obligatorische Reflexionen im Bergsee.<br />Anschließend ging es noch 50 Höhenmeter auf einem Schotterweg hinauf zum Parkplatz."
+      }
+    ],
+    "outro": "Fazit: Der Margelchopf ist der richtige Gipfel, wenn man etwas Nervenkitzel mag und eine schöne Wiese mit toller Aussicht genießen will. Der direkte Aufstieg vom Voralpsee und fast gleich zurück fand ich jetzt nicht so toll, da man einfach zu kurz 'oben' ist. Schöner wäre wahrscheinlich der Aufstieg auf meinem Abstieg gewesen und dann zurück über das Berghaus Malbun oder dem Chapf. Wer sich dafür interessiert, kann diesen Bericht von mir lesen, wo ich diese beiden Wege gegangen war: <a href='/alpine/alviergruppe/20171021' target='_blank'>Margelchopf vom Berghaus Malbun</a> (ohne Voralpsee). Ob man dann aber noch Lust hat, um den See zu laufen..."
+  }
+]
