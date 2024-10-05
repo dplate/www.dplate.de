@@ -1,0 +1,635 @@
+[
+  {
+    "destination": "flumserberg",
+    "date": "d20240929",
+    "type": "hike",
+    "track": true,
+    "detailMap": "swiss",
+    "shortTitle": "Tschingla",
+    "title": "Walenstadtberg - Tschingla",
+    "title3d": {
+      "offsetY": 0,
+      "fontSize": 8,
+      "align": "right",
+      "width": 1920,
+      "height": 508
+    },
+    "movie": "77pcE15rw74",
+    "intro": "Zumindest einen Tag Sonnenschein war für diesen letzten Sonntag im September angesagt. In der Nacht hatte es noch bis ca. 1500m herunter geschneit, so dass mal wieder höhere Wanderungen nicht möglich waren.<br />Ich entschied mich für eine Wanderung bei Walenstadtberg, das sehr sonnig auf einem Absatz zwischen dem 400m hohen Walensee und den 2300m hohen Churfirsten liegt.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Walenstadtberg",
+            "date": "2024-09-29T08:36:55.000+02:00",
+            "width": 1920,
+            "height": 896
+          }
+        ],
+        "text": "Das Auto stellte ich gegen 8:30 auf dem (gratis) Parkplatz in Walenstadtberg (Dorf) auf 800m Höhe ab. Das kommt noch am ehesten dem Zentrum des Orts Nahe, aber eigentlich sind es über den ganzen Hang verteilte Häuser.<br />Es war noch kalt, aber genau richtig kroch die Sonne bereits über die Berge der Alviergruppe."
+      },
+      {
+        "photos": [
+          {
+            "name": "002",
+            "alt": "Zuestoll",
+            "date": "2024-09-29T08:52:45.000+02:00",
+            "width": 1677,
+            "height": 1080
+          }
+        ],
+        "text": "Zuerst bin ich dem falschen Wegweiser nachgelaufen und Richtung Klinik hinaufgestiegen. Zum Glück nicht zu spät wurde der Fehler erkannt und ich konnte noch umdrehen. Hier befinde ich mich jetzt auf dem richtigen Weg, es geht nämlich erst ein Stück flach den Hang entlang. Das erste Ziel, das Restaurant Tschingla, befindet sich oberhalb dieser Felswände. Der Aufstieg erfolgt aber nicht durch die hier sichtbare Schlucht, sondern ein Tal weiter rechts.<br />Im Hintergrund sind auch schon die Churfirsten zu sehen, z.B. rechts der Zuestoll."
+      },
+      {
+        "photos": [
+          {
+            "name": "003",
+            "alt": "Feldweg im Morgenlicht",
+            "date": "2024-09-29T08:54:07.000+02:00",
+            "width": 1920,
+            "height": 837
+          }
+        ],
+        "text": "Dann erreichte ich diesen Feldweg, der direkt auf die Felswand zulief. Hier aber der Blick zurück. Auf der anderen Talseite sind die Hänge von <a href='/alpine/flumserberg' target='_blank'>Flumserberg</a> zu sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "004",
+            "alt": "Reha-Klinik Valens",
+            "date": "2024-09-29T09:15:40.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Und hier befinde ich mich schon mitten im steilen Aufstieg. Es ist die Reha-Klinik Valens zu sehen, die sich etwa 150m oberhalb meines Parkplatzes befindet. Dort kann man ebenfalls parken, man müsste dann aber zu meinem Weg erst etwas absteigen."
+      },
+      {
+        "photos": [
+          {
+            "name": "005",
+            "alt": "Steiler Weg Tschingla",
+            "date": "2024-09-29T09:18:45.000+02:00",
+            "width": 817,
+            "height": 1080
+          }
+        ],
+        "text": "Der ganze Steilhang sah recht ungemütlich aus und man fragt sich, wie der Weg dort hinauf führen soll. Er ist aber meist breit in den Fels geschlagen und gut zu gehen (zumindest bergauf)."
+      },
+      {
+        "photos": [
+          {
+            "name": "006",
+            "alt": "Panorama Walenstadtberg",
+            "date": "2024-09-29T09:21:03.000+02:00",
+            "width": 1822,
+            "height": 1080
+          }
+        ],
+        "text": "Noch einmal der Blick aus dem Schatten. Ganz links tauchte nun der Walensee auf, in der Mitte Walenstadtberg mit meinem Parkplatz und rechts die Klinik."
+      },
+      {
+        "photos": [
+          {
+            "name": "007",
+            "alt": "Aufstieg durch Schlucht",
+            "date": "2024-09-29T09:36:58.000+02:00",
+            "width": 860,
+            "height": 1080
+          }
+        ],
+        "text": "Meist führt der Weg über Serpentinen durch den felsdurchsetzten, bewaldeten Hang. Zweimal geht es aber auch bis in die Schlucht hinein und man kann diese ziemlich steil hinabschauen."
+      },
+      {
+        "photos": [
+          {
+            "name": "008",
+            "alt": "Steiler Waldweg",
+            "date": "2024-09-29T10:02:25.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Nach einer Stunde Aufstieg wurde es etwas flacher und freundlicher - auch weil nun die Sonne in den Hang schien."
+      },
+      {
+        "photos": [
+          {
+            "name": "009",
+            "alt": "Bergbach",
+            "date": "2024-09-29T10:17:31.000+02:00",
+            "width": 720,
+            "height": 1080
+          },
+          {
+            "name": "010",
+            "alt": "Wasser auf Wanderweg",
+            "date": "2024-09-29T10:19:22.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Dann wurde es aber doch noch mal aufregend und es folgte der etwas ausgesetzte Weg zu diesem Bach. Der Bach führte auf Grund des Regens der Nacht viel Wasser, so dass auch der ganze Weg unter Wasser stand. Wasserdichte Schuhe waren hier wichtig."
+      },
+      {
+        "photos": [
+          {
+            "name": "011",
+            "alt": "Wanderung Tschingla",
+            "date": "2024-09-29T10:28:27.000+02:00",
+            "width": 1731,
+            "height": 1080
+          }
+        ],
+        "text": "Jetzt war aber der Steilhang endgültig überwunden und ich erreichte die Weiden der Alp Tschingla. Hier der tolle Blick zum Walensee. Walenstadtberg versteckte sich nun unterhalb der Felswand."
+      },
+      {
+        "photos": [
+          {
+            "name": "012",
+            "alt": "Restaurant Tschingla",
+            "date": "2024-09-29T10:33:31.000+02:00",
+            "width": 1847,
+            "height": 1080
+          }
+        ],
+        "text": "Nach insgesamt 2h Wanderung kam ich nun am Restaurant Tschingla an, das sich auf 1500m Höhe befindet."
+      },
+      {
+        "photos": [
+          {
+            "name": "013",
+            "alt": "Wegweiser Tschingla",
+            "date": "2024-09-29T10:37:16.000+02:00",
+            "width": 1777,
+            "height": 1080
+          }
+        ],
+        "text": "Der Wegweiser bei Tschingla. Die angegebenen 1:10h zurück nach Walenstadtberg halte ich auf Grund des steilen Wegs für etwas zu optimistisch. Wer Lust hat, kann von hier auch noch weitere 2:30h zum Chäserrugg hinaufsteigen..."
+      },
+      {
+        "photos": [
+          {
+            "name": "014",
+            "alt": "Churfirsten",
+            "date": "2024-09-29T10:39:37.000+02:00",
+            "width": 1508,
+            "height": 1080
+          }
+        ],
+        "text": "Erste Pause  beim Spielplatz des Restaurants Tschingla. Hier die Sicht zu den westlichen Churfirsten. Über die Wiesen unterhalb wird mein weiterer Weg führen."
+      },
+      {
+        "photos": [
+          {
+            "name": "015",
+            "alt": "Walensee",
+            "date": "2024-09-29T10:46:28.000+02:00",
+            "width": 1920,
+            "height": 769
+          }
+        ],
+        "text": "Blick von der Pausenbank auf den Walensee."
+      },
+      {
+        "photos": [
+          {
+            "name": "016",
+            "alt": "Wasserhahn aus Felsen",
+            "date": "2024-09-29T11:00:17.000+02:00",
+            "width": 1381,
+            "height": 1080
+          }
+        ],
+        "text": "Um 11:00 ging es weiter. Auffällig war, dass bei vielen Brunnen am Wegrand die Wasserhähne direkt durch einen Felsen geführt wurden. Da hatte wohl jemand Spaß an seiner Arbeit. :)"
+      },
+      {
+        "photos": [
+          {
+            "name": "017",
+            "alt": "Alp Tschingla im Nebel",
+            "date": "2024-09-29T11:02:59.000+02:00",
+            "width": 1903,
+            "height": 1080
+          }
+        ],
+        "text": "Mit dem Aufstieg war es noch nicht vorbei. Hier der Blick zurück zum Restaurant Tschingla. Das Wetter wurde nicht wirklich schlecht, es zog nur gerade eine Nebelschwade vorbei."
+      },
+      {
+        "photos": [
+          {
+            "name": "018",
+            "alt": "Brisi und Zuestoll",
+            "date": "2024-09-29T11:03:42.000+02:00",
+            "width": 1284,
+            "height": 1080
+          }
+        ],
+        "text": "Rechts wieder der Zuestoll und links der Brisi. Nur auf den Chäserrugg führt von dieser Seite ein Weg auf die Churfirsten - diese beiden sind Kletterern vorbehalten. Oder man geht vom Toggenburg aus hinauf."
+      },
+      {
+        "photos": [
+          {
+            "name": "019",
+            "alt": "Kleiner Teich",
+            "date": "2024-09-29T11:11:16.000+02:00",
+            "width": 1714,
+            "height": 1080
+          }
+        ],
+        "text": "Die Wiesen unterhalb der Churfirsten sind überraschend flach und es gibt sogar kleinere Teiche. Das kann man sich von Flumserberg oder vom Walensee aus gesehen gar nicht vorstellen."
+      },
+      {
+        "photos": [
+          {
+            "name": "020",
+            "alt": "Churfirsten im Herbst",
+            "date": "2024-09-29T11:13:01.000+02:00",
+            "width": 1611,
+            "height": 1080
+          },
+          {
+            "name": "021",
+            "alt": "Felsen, Bäume und Wolken",
+            "date": "2024-09-29T11:16:07.000+02:00",
+            "width": 1194,
+            "height": 1080
+          },
+          {
+            "name": "022",
+            "alt": "Wanderweg Churfirsten",
+            "date": "2024-09-29T11:18:43.000+02:00",
+            "width": 1616,
+            "height": 1080
+          }
+        ],
+        "text": "Der schönste Abschnitt der heutigen Wanderung. Die klare Luft, die bunten Herbstfarben, der Neuschnee und die Wolkenfetzen bildeten die perfekte Szene."
+      },
+      {
+        "photos": [
+          {
+            "name": "023",
+            "alt": "Seeztal",
+            "date": "2024-09-29T11:21:46.000+02:00",
+            "width": 1729,
+            "height": 1080
+          }
+        ],
+        "text": "Blick das Seeztal hinauf, dass das Rheintal mit dem Walensee verbindet."
+      },
+      {
+        "photos": [
+          {
+            "name": "024",
+            "alt": "Wolkenschwaden",
+            "date": "2024-09-29T11:28:28.000+02:00",
+            "width": 1920,
+            "height": 1002
+          }
+        ],
+        "text": "Wunderbar ging es (meist leicht ansteigend) weiter über die Wiesen. Im Hintergrund ist der Hinterrugg zu sehen und dahinter versteckt sich der Chäserrugg."
+      },
+      {
+        "photos": [
+          {
+            "name": "025",
+            "alt": "Angezuckerte Wiesen",
+            "date": "2024-09-29T11:30:03.000+02:00",
+            "width": 1920,
+            "height": 1075
+          }
+        ],
+        "text": "Der Neuschnee der Nacht schmolz zügig davon, inzwischen war es angenehm warm und nur schwach windig."
+      },
+      {
+        "photos": [
+          {
+            "name": "026",
+            "alt": "Bergweg Churfirsten",
+            "date": "2024-09-29T11:34:03.000+02:00",
+            "width": 1568,
+            "height": 1080
+          },
+          {
+            "name": "027",
+            "alt": "Weg durch Felssturz",
+            "date": "2024-09-29T11:35:28.000+02:00",
+            "width": 1920,
+            "height": 908
+          },
+          {
+            "name": "028",
+            "alt": "Hinterrugg",
+            "date": "2024-09-29T11:42:53.000+02:00",
+            "width": 1842,
+            "height": 1080
+          }
+        ],
+        "text": "So stellt man sich einen Wanderweg vor. Hier ging es durch einen alten Felssturz hindurch, in dem auch ein paar Gämsen unterwegs waren. Der Weg war sehr einfach hier oben."
+      },
+      {
+        "photos": [
+          {
+            "name": "029",
+            "alt": "Unterhalb der Churfirsten",
+            "date": "2024-09-29T11:48:51.000+02:00",
+            "width": 1920,
+            "height": 1043
+          }
+        ],
+        "text": "Dann ging es wieder etwas mehr bergauf, um die Alp Obersäss zu erreichen. Hier der Blick zurück."
+      },
+      {
+        "photos": [
+          {
+            "name": "030",
+            "alt": "Blick nach Flumserberg",
+            "date": "2024-09-29T11:52:03.000+02:00",
+            "width": 1920,
+            "height": 803
+          }
+        ],
+        "text": "Blick hinüber nach Flumserberg. Wie man sieht, lag oberhalb vom 1800m schon ordentlich Schnee."
+      },
+      {
+        "photos": [
+          {
+            "name": "031",
+            "alt": "Hochtal Tschingla",
+            "date": "2024-09-29T11:57:11.000+02:00",
+            "width": 1920,
+            "height": 781
+          }
+        ],
+        "text": "Der kleine Aufstieg war nun geschafft. Im Rücken nun das kleine Hochtal und rechts wieder das Seeztal."
+      },
+      {
+        "photos": [
+          {
+            "name": "032",
+            "alt": "Wanderweg über Walensee",
+            "date": "2024-09-29T11:59:46.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "033",
+            "alt": "Alp- und Kulturweg Schrina",
+            "date": "2024-09-29T12:00:14.000+02:00",
+            "width": 1920,
+            "height": 814
+          }
+        ],
+        "text": "Bevor ich aber die Alp Obersäss erreichte, kam ich unerhofft zu dieser fotogenen Mauer, die sich spektakulär weit oberhalb des Walensees entlang schlängelt. Diese Trockenmauer wurde neu errichtet und ist Teil des Alp- und Kulturwegs Schrina, auf dem ich mich nun schon seit Tschingla befand."
+      },
+      {
+        "photos": [
+          {
+            "name": "034",
+            "alt": "Mauer Schrina",
+            "date": "2024-09-29T12:03:00.000+02:00",
+            "width": 1575,
+            "height": 1080
+          },
+          {
+            "name": "035",
+            "alt": "Trockenmauer Schrina",
+            "date": "2024-09-29T12:07:59.000+02:00",
+            "width": 1758,
+            "height": 1080
+          },
+          {
+            "name": "036",
+            "alt": "Alpweg Schrina",
+            "date": "2024-09-29T12:09:46.000+02:00",
+            "width": 1920,
+            "height": 1033
+          }
+        ],
+        "text": "Noch dreimal der Weg an der Mauer. War halt einfach schön. :)"
+      },
+      {
+        "photos": [
+          {
+            "name": "037",
+            "alt": "Aussichtspunkt Schrina",
+            "date": "2024-09-29T12:11:08.000+02:00",
+            "width": 1703,
+            "height": 1080
+          }
+        ],
+        "text": "Bei der Alp Obersäss erreichte ich mit 1700m den höchsten Punkt meiner Wanderung. Dort kann man leicht den unbezeichneten Pfad zu dieser Aussichtsstelle mit Kreuz verpassen. Etwas Mut braucht man, um zu dieser kleinen Bank zu gehen, man wird aber mit einem tollen Tiefblick auf den Walensee belohnt."
+      },
+      {
+        "photos": [
+          {
+            "name": "038",
+            "alt": "Aussicht Walensee",
+            "date": "2024-09-29T12:12:27.000+02:00",
+            "width": 1564,
+            "height": 1080
+          },
+          {
+            "name": "039",
+            "alt": "Tiefblick zum See",
+            "date": "2024-09-29T12:25:13.000+02:00",
+            "width": 1920,
+            "height": 1030
+          }
+        ],
+        "text": "Da ich mit dem höchsten Punkt praktisch das Ziel meiner Wanderung erreicht hatte, gönnte ich mir eine längere Pause. Bis nach Obersäss war ich nun auch schon 3,5h unterwegs."
+      },
+      {
+        "photos": [
+          {
+            "name": "040",
+            "alt": "Wandern Schrina",
+            "date": "2024-09-29T12:36:34.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Um 12:30 machte ich mich dann auf den Weiterweg. Nicht ohne noch mal die benachbarte Mauer zu fotografieren. ;)"
+      },
+      {
+        "photos": [
+          {
+            "name": "041",
+            "alt": "Herbstwanderung",
+            "date": "2024-09-29T12:38:05.000+02:00",
+            "width": 1776,
+            "height": 1080
+          }
+        ],
+        "text": "Nach der Alp Obersäss ging es nur noch kurz auf der Hochfläche weiter, denn diese endete hier gleich."
+      },
+      {
+        "photos": [
+          {
+            "name": "042",
+            "alt": "Blick nach Murg",
+            "date": "2024-09-29T12:46:35.000+02:00",
+            "width": 1810,
+            "height": 1080
+          }
+        ],
+        "text": "Über diese Wiese (auf einem etwas rutschigen und matschigen Weg) ging es nun 350m bis zu dem hier sichtbaren Fahrweg bergab.<br />Im Hintergrund auf der Halbinsel ist der Ort Murg zu sehen, dahinter im Tal befinden sich die <a href='/alpine/glarus/20160709' target='_blank'>Murgseen</a>."
+      },
+      {
+        "photos": [
+          {
+            "name": "043",
+            "alt": "Spazierweg Ruggstraße",
+            "date": "2024-09-29T13:17:40.000+02:00",
+            "width": 1920,
+            "height": 736
+          }
+        ],
+        "text": "Angekommen nach dem Abstieg auf dem Fahrweg. Hier waren einige Spaziergänger unterwegs, die den sonnigen Tag genossen."
+      },
+      {
+        "photos": [
+          {
+            "name": "044",
+            "alt": "Schären",
+            "date": "2024-09-29T13:41:42.000+02:00",
+            "width": 1920,
+            "height": 953
+          }
+        ],
+        "text": "Auf der Straße hätte ich auch nach links abbiegen können, das wäre der schnellste Weg zurück zur Klinik oder nach Walenstadtberg gewesen. Ich bog aber nach recht ab - auch um die vielen Fahrstraßen zu vermeiden.<br />Hier erreichte ich die Alp Schwaldis, der westlichste Punkt meiner Wanderung."
+      },
+      {
+        "photos": [
+          {
+            "name": "045",
+            "alt": "Alp Säls",
+            "date": "2024-09-29T13:50:11.000+02:00",
+            "width": 1920,
+            "height": 810
+          }
+        ],
+        "text": "Von dort ging ich auf einem schönen Weg über eine Wiese bergab.<br />Auf dem Felsen hinten befindet sich die Alp Säls, bis zu der man auf der gerade verlassenen Fahrstraße noch weiterlaufen könnte. Der Berg im Hintergrund ist der <a href='/alpine/glarus/20230527' target='_blank'>Mürtschenstock</a>."
+      },
+      {
+        "photos": [
+          {
+            "name": "046",
+            "alt": "Alter Stofel",
+            "date": "2024-09-29T13:51:49.000+02:00",
+            "width": 1891,
+            "height": 1080
+          },
+          {
+            "name": "047",
+            "alt": "Waldweg",
+            "date": "2024-09-29T14:02:53.000+02:00",
+            "width": 1606,
+            "height": 1080
+          }
+        ],
+        "text": "Nur kurz ging der Weg über diese Wiesen, anschließend breit ausgebaut durch den Wald. Immer leicht absteigend."
+      },
+      {
+        "photos": [
+          {
+            "name": "048",
+            "alt": "Leuchtender See",
+            "date": "2024-09-29T14:04:34.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Auch wenn der Weg im Wald einfach war, führt er doch entlang einer weiteren Felswand, die steil bis zum Walensee abfällt. Man konnte aber nur selten etwas davon sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "049",
+            "alt": "Wasserfall",
+            "date": "2024-09-29T14:13:14.000+02:00",
+            "width": 813,
+            "height": 1080
+          }
+        ],
+        "text": "Wieder ging es über einen Bach, diesmal aber mit weniger nassen Schuhen."
+      },
+      {
+        "photos": [
+          {
+            "name": "050",
+            "alt": "Aussichtspunkt Rütiwald",
+            "date": "2024-09-29T14:23:50.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Bei Rütiwald gibt es einen weiteren kleinen (und wieder nicht ausgeschilderten) Aussichtspunkt mit einer Pausenbank."
+      },
+      {
+        "photos": [
+          {
+            "name": "051",
+            "alt": "Herbstwald",
+            "date": "2024-09-29T14:43:38.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Nach einem kurzen Stück Fahrstraße, zweigte ich hier bei Josewise vom Weg nach Walenstadtberg ab und folgte einem weißen Wegweiser nach Walenstadt. Auch das, um nicht den Rest der Wanderung auf einer Straße zu laufen. Unverständlich, warum dieser Weg kein offizieller Wanderweg ist."
+      },
+      {
+        "photos": [
+          {
+            "name": "052",
+            "alt": "Alpstraße",
+            "date": "2024-09-29T15:12:14.000+02:00",
+            "width": 1798,
+            "height": 1080
+          },
+          {
+            "name": "053",
+            "alt": "Rundwanderung Walenstadtberg",
+            "date": "2024-09-29T15:30:22.000+02:00",
+            "width": 1738,
+            "height": 1080
+          }
+        ],
+        "text": "Nach dem matschigen 200m Abstieg durch den Wald erreichte ich hier den Hauptweg entlang des nördlichen Walensees auf gut 800m Höhe. Nun ging es nur noch mit wenige auf und ab zurück nach Walenstadtberg und zum Auto, das ich gegen 15:45 erreichte."
+      },
+      {
+        "photos": [
+          {
+            "name": "054",
+            "alt": "Paxmal",
+            "date": "2024-09-29T16:08:30.000+02:00",
+            "width": 1920,
+            "height": 712
+          },
+          {
+            "name": "055",
+            "alt": "Aussicht Paxmal",
+            "date": "2024-09-29T16:09:44.000+02:00",
+            "width": 1711,
+            "height": 1080
+          }
+        ],
+        "text": "Da ich noch Zeit hatte, fuhr ich nicht direkt zurück ins Tal, sondern stattdessen an der Klinik vorbei bis an das Ende der erlaubten Straße. Dort oben bei Hochrugg (einer ehemaligen Militärunterkunft) gibt es viele Parkplätze und man kommt nach 10min Weg zum Paxmal, einem Denkmal/Tempel den Karl Bickel in den 1920er Jahren erbaut hat.<br />Von dort könnte man übrigens auch auch einem blau/weißen Kletterpfad nach Tschingla aufsteigen."
+      },
+      {
+        "photos": [
+          {
+            "name": "056",
+            "alt": "Spaziergang Paxmal",
+            "date": "2024-09-29T16:15:55.000+02:00",
+            "width": 1605,
+            "height": 1080
+          }
+        ],
+        "text": "Ich beendete aber den schöne Wandertag mit dem kurzen Rückweg nach Hochrugg."
+      }
+    ],
+    "outro": "Fazit: Der Wanderweg zwischen Tschingla und Schrina/Obersäss ist ein Highlight am Walensee. Etwas kürzer ist es von der Klinik aus, dann muss man aber am Ende etwas mehr Straße laufen. Oder man geht von Hochrugg aus und läuft den schönen Weg einfach hin und zurück. Dann erspart man sich den steilen Aufstieg durch die Wand.<br />Insgesamt waren es 16km mit 1100 Auf- und Abstieg, für dich ich 7h unterwegs war. Ich hatte dabei perfektes Wanderwetter - im Hochsommer könnte es auf diesem Südhang schon sehr warm werden."
+  }
+]
