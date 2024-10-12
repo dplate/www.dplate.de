@@ -142,8 +142,7 @@ const createTerrainProvider = (hideSwissTopo) => {
     });
   }
   const provider = new CesiumTerrainProvider({
-    // locally stored copy of https://3d.geo.admin.ch/1.0.0/ch.swisstopo.terrain.3d/default/20200520/4326/
-    url: '/assets/geo-admin-terrain/',
+    url: 'https://3d.geo.admin.ch/ch.swisstopo.terrain.3d/v1',
     requestVertexNormals: true
   });
   return catchInvalidSwissTopoTiles(provider);
@@ -251,7 +250,7 @@ const createHdRectangle = (positions) => {
 
 const createSwissSatelliteProvider = (hdRectangle) => {
   return new UrlTemplateImageryProvider({
-    url: 'https://wmts{s}.geo.admin.ch/1.0.0/ch.swisstopo.swissimage-product/default/current/4326/{z}/{x}/{y}.jpeg',
+    url: 'https://wmts{s}.geo.admin.ch/1.0.0/ch.swisstopo.swissimage-product/default/2024/4326/{z}/{x}/{y}.jpeg',
     subdomains: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9'],
     minimumLevel: 0,
     maximumLevel: 19,

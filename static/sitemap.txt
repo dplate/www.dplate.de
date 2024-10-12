@@ -247,3 +247,4 @@ https://www.dplate.de/alpine/alpstein/20240714
 https://www.dplate.de/alpine/davos/20240907
 https://www.dplate.de/alpine/alviergruppe/20240921
 https://www.dplate.de/alpine/flumserberg/20240929
+https://www.dplate.de/alpine/praettigau/20241006

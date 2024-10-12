@@ -291,7 +291,7 @@ class Report extends React.Component {
     } = content;
     const reportPath = getReportPath(destination, date);
     const gpxPath = '/tracks' + reportPath + '.gpx';
-    const fullTitle = title + ' - ' + formatDate(date);
+    const fullTitle = title + ' ' + formatDate(date);
     const pageTitle = buildPageTitle(title, type);
     return (
       <Layout location={this.props.location}>

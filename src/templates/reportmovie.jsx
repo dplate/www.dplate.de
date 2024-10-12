@@ -147,7 +147,7 @@ const ReportMovie = ({ data: { reportJson } }) => {
         )}
         <AnimatedTitle
           reportPath={reportPath}
-          title={title + ' - ' + formatDate(date)}
+          title={title + ' ' + formatDate(date)}
           title3d={title3d}
           visible={phase.name === 'loading' || phase.name === 'intro'}
         />
