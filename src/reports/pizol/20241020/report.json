@@ -1,0 +1,622 @@
+[
+  {
+    "destination": "pizol",
+    "date": "d20241020",
+    "type": "hike",
+    "track": true,
+    "detailMap": "swiss",
+    "shortTitle": "Muntaluna",
+    "title": "Vättnerberg - Muntaluna",
+    "title3d": {
+      "offsetY": 4,
+      "fontSize":  7.7,
+      "align": "left",
+      "width": 1920,
+      "height": 571
+    },
+    "movie": "KlxgzsWv43Q",
+    "intro": "Das Taminatal bei Bad Ragaz war mir bisher unbekannt, aber das wollte ich letzten Sonntag ändern. Ich suchte mir eine Wanderung auf den 2400m hohen Muntaluna aus und stellte mein Auto kurz vor 8:45 auf dem Gratisparkplatz an der Talstation der Vättnerberg Seilbahn ab.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Rustikale Seilbahn",
+            "date": "2024-10-20T08:49:24.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "002",
+            "alt": "Seilbahn Vättnerberg",
+            "date": "2024-10-20T08:49:39.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Die Vättnerberg Bahn wird von einem Verein betrieben und dient (wie man an der rustikalen Gondel erkennen kann), auch dem Viehtransport. Im Herbst ist sie nur an Wochenenden in Betrieb und dann auch nur alle 1,5h, man muss also etwas planen.<br />Völlig alleine wartete ich an der Talstation bis zur angekündigten 9:00 Abfahrt und bekam schon etwas Zweifel, ob sie überhaupt fährt. Aber pünktlich um 9:00 kam dann jemand im Auto angefahren, kassierte die (äußerst günstigen) 9 CHF für die Bergfahrt von mir und startete die Bahn."
+      },
+      {
+        "photos": [
+          {
+            "name": "003",
+            "alt": "Talstation Vättnerberg Bahn",
+            "date": "2024-10-20T09:05:15.000+02:00",
+            "width": 1575,
+            "height": 1080
+          }
+        ],
+        "text": "Blick aus der Gondel auf die Talstation."
+      },
+      {
+        "photos": [
+          {
+            "name": "004",
+            "alt": "Felswand Vättnerberg",
+            "date": "2024-10-20T09:05:53.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Und der Blick die Trasse hinauf. Oben auf der Felswand kann man auch schon die 600m höher gelegene Bergstation sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "005",
+            "alt": "Gondel Vättnerberg",
+            "date": "2024-10-20T09:06:55.000+02:00",
+            "width": 1215,
+            "height": 1080
+          }
+        ],
+        "text": "Die entgegen kommende Gondel, die mehr für den Personentransport aussieht. Ich fand es aber lustiger in meinem großen 'Transportbehälter'."
+      },
+      {
+        "photos": [
+          {
+            "name": "006",
+            "alt": "Bergstation Vättnerberg",
+            "date": "2024-10-20T09:10:58.000+02:00",
+            "width": 1616,
+            "height": 1080
+          }
+        ],
+        "text": "Oben angekommen gab es kein Personal und ich musste alleine die Türen öffnen und schließen."
+      },
+      {
+        "photos": [
+          {
+            "name": "007",
+            "alt": "Seilbahnstütze",
+            "date": "2024-10-20T09:11:49.000+02:00",
+            "width": 1314,
+            "height": 1080
+          }
+        ],
+        "text": "Nun in der Sonne, der Blick an der Bergstation auf die einzige Stütze der Bahn. Dahinter ist die 2800m hohe <a href='/alpine/pizol/20220709' target='_blank'>Haldensteiner Calanda</a> zu sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "008",
+            "alt": "Vättnerberg am Morgen",
+            "date": "2024-10-20T09:26:34.000+02:00",
+            "width": 1720,
+            "height": 1080
+          }
+        ],
+        "text": "Auf der Hochebene hinter der Bergstation befindet sich der Vättnerberg, eine kleine Ansammlung von Alphütten. Hier bin ich bereits über die Wiesen gelaufen und befinde mich am ersten Aufstieg des Tages."
+      },
+      {
+        "photos": [
+          {
+            "name": "009",
+            "alt": "Spazierweg Vättnerberg",
+            "date": "2024-10-20T09:34:51.000+02:00",
+            "width": 1773,
+            "height": 1080
+          }
+        ],
+        "text": "Nach 200m Aufstieg bin ich hier am oberen Ende vom Vättnerberg angekommen. Nur die letzten Meter ging es auf diesem Schotterweg hinauf, davor konnte man die Serpentinen der Straße über die Wiesen abkürzen."
+      },
+      {
+        "photos": [
+          {
+            "name": "010",
+            "alt": "Aussichtspunkt mit Calanda",
+            "date": "2024-10-20T09:42:51.000+02:00",
+            "width": 1834,
+            "height": 1080
+          }
+        ],
+        "text": "Hier befindet sich auch ein kleiner Aussichtspunkt mit Bank, die ich auch gleich für eine erste Pause nutzte."
+      },
+      {
+        "photos": [
+          {
+            "name": "011",
+            "alt": "Vättnerberg",
+            "date": "2024-10-20T09:43:18.000+02:00",
+            "width": 1920,
+            "height": 703
+          }
+        ],
+        "text": "Blick von oben auf Vättnerberg. Das Morgenlicht war mit den herbstlichen Farben sehr schön."
+      },
+      {
+        "photos": [
+          {
+            "name": "012",
+            "alt": "Wanderweg Calvina",
+            "date": "2024-10-20T09:45:48.000+02:00",
+            "width": 1727,
+            "height": 1080
+          }
+        ],
+        "text": "Dort biegt der Fahrweg in das Calvina-Tal ab, in das ich nun ohne weitere Steigung bis zum Ende weitergehen sollte."
+      },
+      {
+        "photos": [
+          {
+            "name": "013",
+            "alt": "Blick nach Ladils",
+            "date": "2024-10-20T09:47:17.000+02:00",
+            "width": 1564,
+            "height": 1080
+          }
+        ],
+        "text": "Blick hinüber zur anderen Talseite nach Ladils. Es war genau die richtige Zeit für die leuchtenden Lärchen."
+      },
+      {
+        "photos": [
+          {
+            "name": "014",
+            "alt": "Vättnerchopf und Zanaihorn",
+            "date": "2024-10-20T09:47:52.000+02:00",
+            "width": 1920,
+            "height": 1021
+          }
+        ],
+        "text": "Blick ins Calvina-Tal. Links ist der 2600m hohe Vättnerchopf und hinten das 2800m hohe Zanaihorn. Besonders der Vättnerchopf dominierte hier die Landschaft."
+      },
+      {
+        "photos": [
+          {
+            "name": "015",
+            "alt": "Herbstwiesen",
+            "date": "2024-10-20T10:16:17.000+02:00",
+            "width": 1920,
+            "height": 840
+          }
+        ],
+        "text": "Ohne weitere Fotos bin ich auf dem Fahrweg flach bis zur Alp Rindersäss gewandert und befinde mich nun auf dem eigentlichen Aufstieg zum Muntaluna. Dafür ging es erst in dieses Seitental hinein. Dabei war oft keine eindeutige Wegspur zu sehen, sondern ich ging einfach immer grob zum nächsten Wegzeichen. Da es hier noch sehr flach war, ist es im Prinzip auch egal, wo man läuft."
+      },
+      {
+        "photos": [
+          {
+            "name": "016",
+            "alt": "Aufstieg durch Fels",
+            "date": "2024-10-20T10:31:08.000+02:00",
+            "width": 1838,
+            "height": 1080
+          }
+        ],
+        "text": "Dann bog der Weg ab und er wurde ein kurzes Stück sogar breit in eine Felswand geschlagen. Hier wurde es dann schon deutlich steiler und anstrengender."
+      },
+      {
+        "photos": [
+          {
+            "name": "017",
+            "alt": "Steiler Grashang",
+            "date": "2024-10-20T10:46:35.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "018",
+            "alt": "Vättnerchopf",
+            "date": "2024-10-20T10:48:45.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Nach dem Felsabschnitt befand ich mich nun auf der steilen Wiese, über den ein Großteil des Aufstiegs stattfindet. Bergauf war der Weg auch hier zum Teil nicht immer eindeutig und wechselte auch zwischen steil und flach ab. Zusammenfassend: Es ging erst in die eine Richtung bis zu einem Brunnen und dann in die andere Richtung zu einem anderen Brunnen."
+      },
+      {
+        "photos": [
+          {
+            "name": "019",
+            "alt": "Blick zum Skigebiet Pizol",
+            "date": "2024-10-20T11:00:23.000+02:00",
+            "width": 1920,
+            "height": 798
+          }
+        ],
+        "text": "Nach dem anstrengenden 400m Aufstieg über die Wiese erreichte ich den Grat des Muntaluna und ich konnte auf der anderen Seite hinunterschauen. Der lange Rücken im Vordergrund ist die Rückseite des <a href='/alpine/pizol' target='_blank'>Skigebiets Pizol</a>. Dahinter ist das Rheintal zu sehen, in dem noch der Nebel waberte.<br />Auf dem Grat wehte stürmisch der Föhn, so dass ich eine Jacke über mein T-Shirt ziehen musste. Außerdem ließen sich hier einige Schmetterlinge in den starken Böen herumtreiben, was ich so auch noch nie in den Bergen gesehen habe."
+      },
+      {
+        "photos": [
+          {
+            "name": "020",
+            "alt": "Zerklüfteter Gipfel",
+            "date": "2024-10-20T11:12:46.000+02:00",
+            "width": 1616,
+            "height": 1080
+          }
+        ],
+        "text": "Die restlichen 100 Höhenmeter über den Grat zum Gipfel waren dann schnell erledigt. Der Gipfel des Muntalunas ist etwas auseinandergebrochen, so dass es gar keinen eindeutigen höchsten Punkt gibt. Aber das hatte auch den Vorteil, dass ich angenehmer im Windschatten der Felsen eine Pause machen konnte.<br />Von der Bergstation der Seilbahn hatte ich bis hier oben nur 2h gebraucht - deutlich schneller als auf dem Wegweiser angegeben. Warum die 850 Höhenmeter so schnell erledigt waren, ist mir nicht ganz klar."
+      },
+      {
+        "photos": [
+          {
+            "name": "021",
+            "alt": "Aussicht Muntaluna",
+            "date": "2024-10-20T11:19:18.000+02:00",
+            "width": 1920,
+            "height": 905
+          }
+        ],
+        "text": "Die schönste Aussicht vom Muntaluna geht Richtung Norden. Dank Föhn war die Sicht ausgezeichnet.<br />Bis jetzt war mir auf der Wanderung noch niemand anderes begegnete, nun kam aber noch ein Mann weglos von Osten her am Gipfel an."
+      },
+      {
+        "photos": [
+          {
+            "name": "022",
+            "alt": "Fernsicht Muntaluna",
+            "date": "2024-10-20T11:19:21.000+02:00",
+            "width": 1920,
+            "height": 1029
+          }
+        ],
+        "text": "Tele zum Rheintal. Links der <a href='/alpine/alviergruppe/20140907' target='_blank'>Alvier</a> und rechts der <a href='/alpine/malbun/20181013' target='_blank'>Fürstensteig</a>."
+      },
+      {
+        "photos": [
+          {
+            "name": "023",
+            "alt": "Falknis und Schesaplana",
+            "date": "2024-10-20T11:19:25.000+02:00",
+            "width": 1756,
+            "height": 1080
+          }
+        ],
+        "text": "Und Tele nach Osten Richtung Prättigau. Links der <a href='/alpine/praettigau/20180908' target='_blank'>Falknis</a>, rechts der <a href='/alpine/praettigau/20181110' target='_blank'>Vilan</a> und im Hintergrund schneebedeckt die <a href='/alpine/brandnertal/20150829' target='_blank'>Schesaplana</a>."
+      },
+      {
+        "photos": [
+          {
+            "name": "024",
+            "alt": "Tiefblick Muntaluna",
+            "date": "2024-10-20T11:27:15.000+02:00",
+            "width": 1616,
+            "height": 1080
+          }
+        ],
+        "text": "Tiefblick hinab zur Taminaschlucht. Über die auch erkennbare Taminabrücke würde ich später zurückfahren."
+      },
+      {
+        "photos": [
+          {
+            "name": "025",
+            "alt": "Wanderung Muntaluna",
+            "date": "2024-10-20T11:29:05.000+02:00",
+            "width": 1775,
+            "height": 1080
+          }
+        ],
+        "text": "Blick den Grat des Aufstiegs entlang zum Zanaihorn. Rechts dahinter ist der Pizol zu sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "026",
+            "alt": "Gratweg Muntaluna",
+            "date": "2024-10-20T11:38:17.000+02:00",
+            "width": 1920,
+            "height": 1046
+          }
+        ],
+        "text": "Um 11:30 machte ich mich wieder auf den Abstieg. Da auf den Gipfel nur ein offizieller Weg führt, folgte ich meinem vorherigen Aufstieg. Wunderschön (abgesehen vom starken Wind) ging es erst wieder den Grat hinab."
+      },
+      {
+        "photos": [
+          {
+            "name": "027",
+            "alt": "Grüne und braune Wiese",
+            "date": "2024-10-20T11:45:31.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Lustige Farben der Wiese. Links das gut gedüngte Weidegebiet und rechts, wie die Landschaft natürlich aussehen würde."
+      },
+      {
+        "photos": [
+          {
+            "name": "028",
+            "alt": "Gipfel Muntaluna",
+            "date": "2024-10-20T11:45:48.000+02:00",
+            "width": 1920,
+            "height": 759
+          }
+        ],
+        "text": "Blick zurück zum Gipfel. Von dieser Stelle ging es dann wieder steiler in den Grashang rechts weiter."
+      },
+      {
+        "photos": [
+          {
+            "name": "029",
+            "alt": "Hangweg",
+            "date": "2024-10-20T12:05:57.000+02:00",
+            "width": 821,
+            "height": 1080
+          }
+        ],
+        "text": "Abwärts war der Weg auf Grund der Perspektive deutlich eindeutiger zu finden und auch einfacherer, als ich beim Aufstieg erwartet hatte. Jetzt kamen mir ein paar andere Wanderer entgegen, die wahrscheinlich eine Gondel später genommen hatten."
+      },
+      {
+        "photos": [
+          {
+            "name": "030",
+            "alt": "Alp Rindersäss",
+            "date": "2024-10-20T12:34:13.000+02:00",
+            "width": 1920,
+            "height": 995
+          }
+        ],
+        "text": "Beim Abstieg habe ich den Umweg zur hier zu sehenden Alp Rindersäss ausgelassen und habe stattdessen über die Wiese abgekürzt."
+      },
+      {
+        "photos": [
+          {
+            "name": "031",
+            "alt": "Calvina im Herbst",
+            "date": "2024-10-20T12:41:27.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Letzter Blick zurück ins Calvina Tal. Hier muss man sich entscheiden, denn es gibt insgesamt drei Möglichkeiten zur Talstation abzusteigen. Von oben gesehen rechts über Ladils, oder direkt unterhalb der Seilbahn oder in einem weiteren Bogen links über die Alp Findels. Letzteres hatte ich vor."
+      },
+      {
+        "photos": [
+          {
+            "name": "032",
+            "alt": "Oberhalb Vättnerberg",
+            "date": "2024-10-20T12:42:22.000+02:00",
+            "width": 1920,
+            "height": 898
+          }
+        ],
+        "text": "Ankunft oberhalb von Vättnerberg. Hier hatte ich aber gleich meinen Hinweg verlassen und war nicht bis zu den Häusern abgestiegen."
+      },
+      {
+        "photos": [
+          {
+            "name": "033",
+            "alt": "Bergtour im Herbst",
+            "date": "2024-10-20T12:56:43.000+02:00",
+            "width": 1800,
+            "height": 1080
+          }
+        ],
+        "text": "Aus unerfindlichen Grund war dies nun kein offizieller Wanderweg mehr, er scheint aber viel begangen zu sein und geht wunderbar oberhalb von Vättnerberg durch einen lichten Lärchenwald zur Alp Findels. Hier der Blick zurück."
+      },
+      {
+        "photos": [
+          {
+            "name": "034",
+            "alt": "Leuchtende Lärchen",
+            "date": "2024-10-20T12:57:46.000+02:00",
+            "width": 1920,
+            "height": 1076
+          },
+          {
+            "name": "035",
+            "alt": "Lärchen Wanderung",
+            "date": "2024-10-20T12:59:56.000+02:00",
+            "width": 867,
+            "height": 1080
+          },
+          {
+            "name": "036",
+            "alt": "Wanderweg Alp Findels",
+            "date": "2024-10-20T13:01:40.000+02:00",
+            "width": 1920,
+            "height": 1034
+          }
+        ],
+        "text": "Dank des goldenen Oktobers der schöne Abschnitt der ganzen Wanderung. Auch wer wieder mit der Seilbahn hinunterfahren will, sollte diesen kleinen Umweg über die Alp Findels machen."
+      },
+      {
+        "photos": [
+          {
+            "name": "037",
+            "alt": "Valens und Taminaschlucht",
+            "date": "2024-10-20T13:17:28.000+02:00",
+            "width": 1920,
+            "height": 1076
+          }
+        ],
+        "text": "Ab der Alp Findels begann dann mein Abstieg von weiteren knapp 800 Höhenmetern. Hier der Blick das Tal hinab nach Valens und der Taminaschlucht."
+      },
+      {
+        "photos": [
+          {
+            "name": "038",
+            "alt": "Alpweg in Wald",
+            "date": "2024-10-20T13:39:47.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Der Abstieg war nicht besonders bemerkenswert. Auf einem breiten Alpweg ging es in unzähligen kleinen Serpentinen den steilen Wald hinab. Schwierig war nur, dass bei dem vielen Laub der Boden nicht sichtbar war - dieser bestand abwechselnd aus großen Steinen oder Morast."
+      },
+      {
+        "photos": [
+          {
+            "name": "039",
+            "alt": "Steile Fahrstraße",
+            "date": "2024-10-20T13:45:56.000+02:00",
+            "width": 1920,
+            "height": 1053
+          }
+        ],
+        "text": "Ungefähr bei der Hälfte des Abstieg erreichte ich diese steile Fahrstraße, die ich aber da unten gleich wieder verließ."
+      },
+      {
+        "photos": [
+          {
+            "name": "040",
+            "alt": "Bunter Bergwald",
+            "date": "2024-10-20T13:52:10.000+02:00",
+            "width": 1920,
+            "height": 978
+          }
+        ],
+        "text": "Kleiner Abschnitt über diese Wiese (hier der Blick zurück). Wie man sieht, war der Weg hier praktisch nicht begangen und nur durch Wegzeichen auffindbar."
+      },
+      {
+        "photos": [
+          {
+            "name": "041",
+            "alt": "Herbstfarben",
+            "date": "2024-10-20T13:54:52.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Dann ging es wieder in den Wald und auf den breiten Alpweg."
+      },
+      {
+        "photos": [
+          {
+            "name": "042",
+            "alt": "Läuibach",
+            "date": "2024-10-20T14:02:28.000+02:00",
+            "width": 844,
+            "height": 1080
+          }
+        ],
+        "text": "Überquerung des Läuibachs. Ohne Brücke, aber damit gut geeignet zum Schuhe saubermachen."
+      },
+      {
+        "photos": [
+          {
+            "name": "043",
+            "alt": "Abstieg Mapraggsee",
+            "date": "2024-10-20T14:04:59.000+02:00",
+            "width": 1664,
+            "height": 1080
+          }
+        ],
+        "text": "Zum Schluss des Abstiegs dann noch diesen Grasweg hinunter zum hier schon sichtbaren Mapraggsee. Meine Beine hatte hier auch schon genug, ich hätte wohl zwischendurch beim Abstieg mal eine Pause machen sollen..."
+      },
+      {
+        "photos": [
+          {
+            "name": "044",
+            "alt": "Mapraggsee",
+            "date": "2024-10-20T14:14:58.000+02:00",
+            "width": 1720,
+            "height": 1080
+          }
+        ],
+        "text": "Ankunft am Stausee Mapraggsee um 14:15. Ich kam aber nur an einer Stelle wirklich bis zum Ufer, ansonsten verlief der Forstweg oberhalb parallel entlang. Hier war es nun richtig warm."
+      },
+      {
+        "photos": [
+          {
+            "name": "045",
+            "alt": "Wanderweg Mapraggsee",
+            "date": "2024-10-20T14:38:12.000+02:00",
+            "width": 912,
+            "height": 1080
+          }
+        ],
+        "text": "Entlang des Sees war der Weg wenig bemerkenswert, am oberen Ende wurde es dann aber schöner."
+      },
+      {
+        "photos": [
+          {
+            "name": "046",
+            "alt": "Brücke über Tamina",
+            "date": "2024-10-20T14:53:41.000+02:00",
+            "width": 1748,
+            "height": 1080
+          }
+        ],
+        "text": "Kurz wechselt der Wanderweg auch über zwei Brücken die Seite der Tamina (auf die Seite der Autostraße), da auf der Westseite eine hohe Felswand den Weg versperrt."
+      },
+      {
+        "photos": [
+          {
+            "name": "047",
+            "alt": "Mystischer Wald",
+            "date": "2024-10-20T14:54:26.000+02:00",
+            "width": 818,
+            "height": 1080
+          },
+          {
+            "name": "048",
+            "alt": "Fallendes Laub",
+            "date": "2024-10-20T14:59:57.000+02:00",
+            "width": 1920,
+            "height": 1048
+          }
+        ],
+        "text": "Dann ging es sehr schön auf einem Pfad durch den Wald weiter. Die flache Sonne und das fallende Laub sorgten für die herbstliche Stimmung."
+      },
+      {
+        "photos": [
+          {
+            "name": "049",
+            "alt": "Vättnerberg Bahn vor Felswand",
+            "date": "2024-10-20T15:14:46.000+02:00",
+            "width": 1808,
+            "height": 1080
+          }
+        ],
+        "text": "Am Schluss ging es (leider) noch mal 80m bergauf. Das hatte ich aber hier schon geschafft und ich konnte wieder zur Bergstation der Vättnerberg Seilbahn schauen. Wer genau hinschaut, kann auch die beiden Gondeln der Bahn vor der riesigen Felswand entdecken."
+      },
+      {
+        "photos": [
+          {
+            "name": "050",
+            "alt": "Kuh und Felswand",
+            "date": "2024-10-20T15:15:12.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Gleicher Blick, aber mit neugieriger Kuh."
+      },
+      {
+        "photos": [
+          {
+            "name": "051",
+            "alt": "Haldensteiner Calanda",
+            "date": "2024-10-20T15:16:12.000+02:00",
+            "width": 1920,
+            "height": 868
+          }
+        ],
+        "text": "Mein Auto erreichte ich um 15:20. Hier der Blick vom Tal die bunten bewaldeten Hänge hinauf zur Haldensteiner Calanda - knapp 2000 Höhenmeter Unterschied."
+      },
+      {
+        "photos": [
+          {
+            "name": "052",
+            "alt": "Taminabrücke",
+            "date": "2024-10-20T15:40:19.000+02:00",
+            "width": 1823,
+            "height": 1080
+          }
+        ],
+        "text": "Auf der Rückfahrt dann noch eine kurze Pause am Aussichtspunkt der 200m hohen Taminabrücke, die es erst seit 2017 gibt."
+      }
+    ],
+    "outro": "Fazit: Eine für mich neue Gegend und eine schöne Wanderung auf den Muntaluna. Das lag natürlich auch an dem tollen Herbstwetter und der farbigen Natur. Überrascht hatte mich, dass es so leer war - kann aber sein, dass im Sommer mehr Betrieb ist. Evt. sind die anderen Abstiege zur Talstation interessanter, aber vermutlich auch schwieriger. Ich fand aber den Abschluss an der Tamina entlang auch ganz nett.<br />Insgesamt ging es auf der 20km Wegstrecke knapp 1000m bergauf und 1600m bergab. Ich war dafür 6,5h unterwegs.Wenn man die Seilbahn auch bergab nimmt, ist es natürlich eine deutlich kürzere Wanderung. Ganz ohne Seilbahn wäre es (zumindest für mich) zu viel gewesen."
+  }
+]
