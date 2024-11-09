@@ -6,10 +6,10 @@
     "track": true,
     "detailMap": "austria",
     "shortTitle": "Sulzfluh",
-    "title": "Partnun - Sulzfluh",
+    "title": "Partnun - Sulzfluh - Plasseggenpass",
     "title3d": {
-      "offsetY": 2,
-      "fontSize": 9.5,
+      "offsetY": 0,
+      "fontSize": 7.5,
       "align": "center",
       "width": 1920,
       "height": 574
