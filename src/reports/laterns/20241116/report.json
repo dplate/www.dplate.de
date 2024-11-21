@@ -1,0 +1,601 @@
+[
+  {
+    "destination": "laterns",
+    "date": "d20241116",
+    "type": "hike",
+    "track": true,
+    "detailMap": "austria",
+    "shortTitle": "Hoher Freschen",
+    "title": "Bad Laterns - Hoher Freschen",
+    "title3d": {
+      "offsetY": 2,
+      "fontSize": 6.5,
+      "align": "left",
+      "width": 1920,
+      "height": 417
+    },
+    "movie": "TNzPCre07BU",
+    "intro": "Im Laufe des Novembers muss man seine Wanderziele bedachter wählen. Erstens sind die Tage deutlich kürzer und zweitens schmilzt gefallener Schnee nur noch auf Sonnenhängen wieder weg. Vor ziemlich genau 10 Jahren hatte ich Mitte November schon mal eine <a href='/alpine/laterns/20141129' target='_blank'>Wanderung auf den Hohen Freschen</a> in Vorarlberg gemacht und so wusste ich, dass es auch ein gutes Ziel für diesen Samstag war - nur diesmal wollte ich die Runde andersherum machen.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Verschneites Tal",
+            "date": "2024-11-16T08:59:19.000+01:00",
+            "width": 1823,
+            "height": 1080
+          }
+        ],
+        "text": "Nachdem ich mein Auto am Gasthaus Bad Laterns für 5€ Tagesgebühr abgestellt hatte (alle anderen Parkplätze sind inzwischen abgesperrt), lief ich kurz vor Neun die Fahrstraße in einer Schlucht Richtung Hoher Freschen hinauf.<br />Hier sah es richtig winterlich aus und auch die Temperaturen waren frostig."
+      },
+      {
+        "photos": [
+          {
+            "name": "002",
+            "alt": "Sonnenstrahlen im Tal",
+            "date": "2024-11-16T09:05:19.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Aber schon fünf Minuten später schien die aufgehende Sonne in das Tal hinein. :)"
+      },
+      {
+        "photos": [
+          {
+            "name": "003",
+            "alt": "Schneebedeckte Straße",
+            "date": "2024-11-16T09:06:55.000+01:00",
+            "width": 1691,
+            "height": 1080
+          }
+        ],
+        "text": "Nach knapp 15min Aufstieg erreichte ich das flache Hochtal Garnitza. Die gegenüberliegenden Südhänge sahen schon wanderfreundlicher aus, waren sie doch bis ganz oben schneefrei."
+      },
+      {
+        "photos": [
+          {
+            "name": "004",
+            "alt": "Garnitzaalpe",
+            "date": "2024-11-16T09:15:20.000+01:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "005",
+            "alt": "Fahrweg durch flaches Tal",
+            "date": "2024-11-16T09:18:10.000+01:00",
+            "width": 1920,
+            "height": 922
+          }
+        ],
+        "text": "Vorbei geht es auf dem Talboden (weiterhin auf dem Fahrweg) vorbei an der Garnitzaalpe."
+      },
+      {
+        "photos": [
+          {
+            "name": "006",
+            "alt": "Verschneite Brücke",
+            "date": "2024-11-16T09:22:32.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Am Ende des Hochtals hört die Straße auf und der Wanderweg geht über diese Holzbrücke."
+      },
+      {
+        "photos": [
+          {
+            "name": "007",
+            "alt": "Blick auf Garnitza",
+            "date": "2024-11-16T09:39:22.000+01:00",
+            "width": 1463,
+            "height": 1080
+          }
+        ],
+        "text": "Nach der Brücke ging es anstrengend steil die sonnige Wiese hinauf, bis ich hier in den Wald abbog. Der Kontrast zwischen warmem Wiesenhang und kaltem Talboden war faszinierend."
+      },
+      {
+        "photos": [
+          {
+            "name": "008",
+            "alt": "Weg zur Unteren Saluveralpe",
+            "date": "2024-11-16T09:59:44.000+01:00",
+            "width": 1855,
+            "height": 1080
+          },
+          {
+            "name": "009",
+            "alt": "Schnee auf flachen Wiesen",
+            "date": "2024-11-16T10:10:05.000+01:00",
+            "width": 1920,
+            "height": 953
+          }
+        ],
+        "text": "Nach einem fotofreien Hangweg durch den lichten Wald erreichte ich die nächste Hochfläche (und Fahrweg), diesmal bei der unteren Saluveralpe.<br />Hier überholte ich auch eine Wandergruppe, die sehr gemütlich unterwegs war. Ansonsten war alles noch sehr ausgestorben."
+      },
+      {
+        "photos": [
+          {
+            "name": "010",
+            "alt": "Verschneiter Holzweg",
+            "date": "2024-11-16T10:11:07.000+01:00",
+            "width": 698,
+            "height": 1080
+          }
+        ],
+        "text": "Nachdem ich den Schotterweg wieder verlassen hatte, geht der Wanderweg auf Holzplanken durch einen sumpfigen Wald. Und auch nur auf dem Holz hatte sich der Schnee gehalten."
+      },
+      {
+        "photos": [
+          {
+            "name": "011",
+            "alt": "Schneefreie Südhänge",
+            "date": "2024-11-16T10:23:42.000+01:00",
+            "width": 1920,
+            "height": 751
+          }
+        ],
+        "text": "Nun ging es zwar nicht steil, aber ununterbrochen bergauf - durchaus anstrengend. Deshalb kurze Pause und der Blick zurück."
+      },
+      {
+        "photos": [
+          {
+            "name": "012",
+            "alt": "Blick zum Alpstein",
+            "date": "2024-11-16T10:29:30.000+01:00",
+            "width": 1920,
+            "height": 791
+          }
+        ],
+        "text": "Bei der oberen Saluveralpe wird es dann aber kurz wieder flacher und deshalb ging es auch wieder durch Schnee. Es lag aber nur wenig Schnee und dieser war pulvrig - deshalb gut zu gehen.<br />Hier war ich inzwischen so hoch, dass ich über die benachbarten Berge hinweg ins Rheintal und zum <a href='/alpine/alpstein' target='_blank'>Alpstein</a> blicken konnte."
+      },
+      {
+        "photos": [
+          {
+            "name": "013",
+            "alt": "Wanderweg Freschenhaus",
+            "date": "2024-11-16T10:37:19.000+01:00",
+            "width": 1920,
+            "height": 889
+          }
+        ],
+        "text": "Nach der oberen Saluveralpe geht es wieder eine Steilstufe hinauf. Dass dabei perfektes Wetter war, brauche ich wohl kaum zu erwähnen. :)"
+      },
+      {
+        "photos": [
+          {
+            "name": "014",
+            "alt": "Freschenhaus und Hoher Freschen",
+            "date": "2024-11-16T10:43:26.000+01:00",
+            "width": 1920,
+            "height": 727
+          }
+        ],
+        "text": "Auf der nächsten Stufe erreichte ich nach knapp 2h Aufstieg das Freschenhaus, die sich aber bereits im Winterschlaf befand. Rechts dahinter war nun auch das erste mal das Ziel meiner Wanderung zu sehen, der 2000m Hohe Freschen. Dorthin fehlten jetzt nur noch 150 Höhenmeter."
+      },
+      {
+        "photos": [
+          {
+            "name": "015",
+            "alt": "Kapelle am Freschenhaus",
+            "date": "2024-11-16T10:44:02.000+01:00",
+            "width": 1920,
+            "height": 916
+          }
+        ],
+        "text": "Neben dem Freschenhaus befindet sich noch diese fotogene Kapelle und ein zugeschneiter Alpengarten."
+      },
+      {
+        "photos": [
+          {
+            "name": "016",
+            "alt": "Freschenhaus im Schnee",
+            "date": "2024-11-16T10:44:56.000+01:00",
+            "width": 1920,
+            "height": 866
+          }
+        ],
+        "text": "Blick über die Häuseransammlung beim Freschenhaus. Dahinter ist jetzt deutlicher das Rheintal zu sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "017",
+            "alt": "Spur im Schnee",
+            "date": "2024-11-16T10:45:32.000+01:00",
+            "width": 768,
+            "height": 1080
+          }
+        ],
+        "text": "Da ich zur Kapelle vom Weg abgebogen war, durfte ich auf dem Rückweg eine frische Spur im Schnee machen."
+      },
+      {
+        "photos": [
+          {
+            "name": "018",
+            "alt": "Riesenspitze",
+            "date": "2024-11-16T10:57:37.000+01:00",
+            "width": 1920,
+            "height": 944
+          }
+        ],
+        "text": "Nach dem Freschenhaus erreichte ich einen kleinen Pass und ich konnte weiter nach Osten schauen. Hinter diesen Bergen dort befindet sich das Skigebiet <a href='/alpine/malbun' target='_blank'>Malbun</a>."
+      },
+      {
+        "photos": [
+          {
+            "name": "019",
+            "alt": "Blick ins Rheintal",
+            "date": "2024-11-16T11:00:55.000+01:00",
+            "width": 1678,
+            "height": 1080
+          }
+        ],
+        "text": "Vom Pass zum Hohen Freschen ging es erst diesen Grashang hinauf, alles sehr harmlos. Hier der Blick zurück zum Freschenhaus."
+      },
+      {
+        "photos": [
+          {
+            "name": "020",
+            "alt": "Wanderung Hoher Freschen",
+            "date": "2024-11-16T11:09:05.000+01:00",
+            "width": 1920,
+            "height": 748
+          }
+        ],
+        "text": "Oben ist der Hohe Freschen sehr flach und es geht hier fast eben zum Gipfel weiter."
+      },
+      {
+        "photos": [
+          {
+            "name": "021",
+            "alt": "Steinbock vor Bodensee",
+            "date": "2024-11-16T11:12:26.000+01:00",
+            "width": 1623,
+            "height": 1080
+          }
+        ],
+        "text": "Auf dem Weg zum Gipfel kam ich an Steinböcken vorbei, die sich auf der steilen Ostseite des Bergs aufhielten. Hier einer mit dem nebelfreien, östlichen Ende des Bodensees im Hintergrund."
+      },
+      {
+        "photos": [
+          {
+            "name": "022",
+            "alt": "Steinbock",
+            "date": "2024-11-16T11:14:14.000+01:00",
+            "width": 1717,
+            "height": 1080
+          }
+        ],
+        "text": "Und ein anderer, der mutig direkt am Abgrund stand. Von mir haben sich die beiden nicht wirklich stören lassen..."
+      },
+      {
+        "photos": [
+          {
+            "name": "023",
+            "alt": "Panorama Hoher Freschen",
+            "date": "2024-11-16T11:18:12.000+01:00",
+            "width": 1920,
+            "height": 717
+          }
+        ],
+        "text": "Auf dem Gipfel kam ich um 11:15 nach recht flotten 2,5h Aufstieg an. Hier das Panorama nach Nord/Ost ins Tal, das nach Mellau führt."
+      },
+      {
+        "photos": [
+          {
+            "name": "024",
+            "alt": "Aussicht Hoher Freschen",
+            "date": "2024-11-16T11:32:42.000+01:00",
+            "width": 1900,
+            "height": 1080
+          }
+        ],
+        "text": "Auf dem Hohen Freschen wehte etwas der Wind, aber im trockenem Gras konnte ich trotzdem eine angenehme Pause machen. Unscharf im Hintergrund wieder das Rheintal und der Alpstein."
+      },
+      {
+        "photos": [
+          {
+            "name": "025",
+            "alt": "Fernsicht",
+            "date": "2024-11-16T11:32:58.000+01:00",
+            "width": 1920,
+            "height": 776
+          }
+        ],
+        "text": "Blick vom Gipfel Richtung Süden, von wo ich hier hinaufkam. Die Fernsicht war super und ich konnte praktisch unbegrenzt weit sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "026",
+            "alt": "Alpinsteig Hoher Freschen",
+            "date": "2024-11-16T11:35:44.000+01:00",
+            "width": 1680,
+            "height": 1080
+          }
+        ],
+        "text": "Nach Nord/West fällt der Hohe Freschen sehr steil ab. Das Gestein dort ist auch stark bröckelig, trotzdem kommen von dort zwei blaue Alpinwege hinauf. Diese waren aber an diesem Tag noch niemand gegangen.<br />Im Hintergrund kann man die <a href='/alpine/ebnit/20221113' target='_blank'>Hohe Kugel</a> sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "027",
+            "alt": "Bregenzer Wald",
+            "date": "2024-11-16T11:38:06.000+01:00",
+            "width": 1920,
+            "height": 842
+          }
+        ],
+        "text": "Noch einmal der Blick in den Bregenzer Wald."
+      },
+      {
+        "photos": [
+          {
+            "name": "028",
+            "alt": "Wanderung Vorarlberg",
+            "date": "2024-11-16T11:45:37.000+01:00",
+            "width": 1920,
+            "height": 832
+          }
+        ],
+        "text": "Dann machte ich mich wieder an den Abstieg. Bis zum Pass (hier links) auf meinem Hinweg. Danach wollte ich durch den Schnee rechts am Berg in der Mitte (die Matona) vorbeigehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "029",
+            "alt": "Rundwanderung Laternser Tal",
+            "date": "2024-11-16T11:59:53.000+01:00",
+            "width": 1920,
+            "height": 853
+          }
+        ],
+        "text": "Hier bin ich bereits von meinem Hinweg abgezweigt und blicke wieder Richtung Kapelle des Freschenhauses."
+      },
+      {
+        "photos": [
+          {
+            "name": "030",
+            "alt": "Weg durch frischen Schnee",
+            "date": "2024-11-16T12:03:29.000+01:00",
+            "width": 720,
+            "height": 1080
+          }
+        ],
+        "text": "Wie schon angekündigt lag hier am Nordhang der Matona noch mehr Schnee. Aber er war auch hier trocken und gut zu gehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "031",
+            "alt": "Rundweg zum Hohen Freschen",
+            "date": "2024-11-16T12:09:25.000+01:00",
+            "width": 1920,
+            "height": 826
+          }
+        ],
+        "text": "Ankunft auf dem Südgrat der Matona. Der Blick zurück zum Hohen Freschen und zum Freschenhaus."
+      },
+      {
+        "photos": [
+          {
+            "name": "032",
+            "alt": "Aussichtsbank an der Matona",
+            "date": "2024-11-16T12:10:59.000+01:00",
+            "width": 1716,
+            "height": 1080
+          }
+        ],
+        "text": "An dieser Stelle befindet sich auch eine schöne Aussichtsbank. Die war allerdings von Schnee bedeckt und wenig zum Pausemachen geeignet.<br />Von hier könnte man auch einen kleinen Abstecher auf die Matona machen, was ich mir aber gespart habe."
+      },
+      {
+        "photos": [
+          {
+            "name": "033",
+            "alt": "Hangweg über Wiese",
+            "date": "2024-11-16T12:13:16.000+01:00",
+            "width": 1902,
+            "height": 1080
+          }
+        ],
+        "text": "Statt dessen bin ich einfach am Hang der Matona weitergelaufen, nur hier dann schneefrei (Blick zurück)."
+      },
+      {
+        "photos": [
+          {
+            "name": "034",
+            "alt": "Tiefblick an Abbruchkante",
+            "date": "2024-11-16T12:18:03.000+01:00",
+            "width": 1920,
+            "height": 939
+          }
+        ],
+        "text": "Nach der Matona geht der Weg eine Weile entlang einer Abbruchkante - normalerweise mit etwas Abstand, aber den kleinen Abstecher sollte man nicht verpassen."
+      },
+      {
+        "photos": [
+          {
+            "name": "035",
+            "alt": "Exposition und Schnee",
+            "date": "2024-11-16T12:19:26.000+01:00",
+            "width": 1766,
+            "height": 1080
+          }
+        ],
+        "text": "Ein weiteres Foto des Unterschieds in Sachen Schnee zwischen den Südhängen und allen anderen Hangneigungen."
+      },
+      {
+        "photos": [
+          {
+            "name": "036",
+            "alt": "Weg entlang der Felskante",
+            "date": "2024-11-16T12:27:53.000+01:00",
+            "width": 1689,
+            "height": 1080
+          }
+        ],
+        "text": "Und so schön (und harmlos) ging der Weg an der Felskante weiter."
+      },
+      {
+        "photos": [
+          {
+            "name": "037",
+            "alt": "Felswand Matona",
+            "date": "2024-11-16T12:35:24.000+01:00",
+            "width": 1481,
+            "height": 1080
+          }
+        ],
+        "text": "Blick zurück zur Matona."
+      },
+      {
+        "photos": [
+          {
+            "name": "038",
+            "alt": "Blick zur Sünser Spitze",
+            "date": "2024-11-16T12:45:05.000+01:00",
+            "width": 1920,
+            "height": 769
+          }
+        ],
+        "text": "Blick auf den weiteren Verlauf des Grat. Im Hintergrund ist die <a href='/alpine/damuels/20130824' target='_blank'>Sünser Spitze</a> bei Damüls."
+      },
+      {
+        "photos": [
+          {
+            "name": "039",
+            "alt": "Wanderung Gävisalpe",
+            "date": "2024-11-16T13:00:55.000+01:00",
+            "width": 1729,
+            "height": 1080
+          }
+        ],
+        "text": "An der Gävisalpe verließ ich dann den Grat und bog nach rechts ab."
+      },
+      {
+        "photos": [
+          {
+            "name": "040",
+            "alt": "Novemberwanderung",
+            "date": "2024-11-16T13:15:49.000+01:00",
+            "width": 1920,
+            "height": 963
+          }
+        ],
+        "text": "Ich stieg aber nicht direkt von dort ab, sondern ging den Hang (wieder durch Schnee) weiter zum nächsten Quergrat. Hier der Blick zurück. Links sind Teile des <a href=/alpine/laterns/20141129' target='_blank'>Skigebiets von Laterns</a> zu sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "041",
+            "alt": "Löffelspitze",
+            "date": "2024-11-16T13:38:11.000+01:00",
+            "width": 1920,
+            "height": 795
+          }
+        ],
+        "text": "Nach dem Quergrat war es natürlich wieder schneefrei und über diesen Hang wollte ich nun auch mein Abstieg zurück zum Auto beginnen (rund 700m musste ich noch runter). Aber erst mal machte ich eine Pause auf der Bank dort und genoss die Sonne, denn es war erst 13:30."
+      },
+      {
+        "photos": [
+          {
+            "name": "042",
+            "alt": "Herbst in den Bergen",
+            "date": "2024-11-16T13:39:48.000+01:00",
+            "width": 1649,
+            "height": 1080
+          }
+        ],
+        "text": "Nett geht es über die Wiesen bergab zur Neugerachalpe."
+      },
+      {
+        "photos": [
+          {
+            "name": "043",
+            "alt": "Furkajoch Straße",
+            "date": "2024-11-16T14:06:53.000+01:00",
+            "width": 1920,
+            "height": 1053
+          }
+        ],
+        "text": "Nach der Neugerachalpe erreichte ich die Furkajoch Straße, die von Laterns nach Damüls führt. Im Winter ist sie geschlossen, noch war sie aber auf. Diese einspurige Straße hat wenig Verkehr."
+      },
+      {
+        "photos": [
+          {
+            "name": "044",
+            "alt": "Abstieg im Wald",
+            "date": "2024-11-16T14:17:27.000+01:00",
+            "width": 1540,
+            "height": 1080
+          }
+        ],
+        "text": "Ich bin natürlich nicht die Straße nach Bad Laterns heruntergelaufen, sondern habe sie nur gequert und steige hier direkter im Wald hinab. Der Weg war im Wald trocken, nur auf jeder Lichtung lag Schnee und es war etwas matschig."
+      },
+      {
+        "photos": [
+          {
+            "name": "045",
+            "alt": "Sommer und Winter",
+            "date": "2024-11-16T14:30:32.000+01:00",
+            "width": 1725,
+            "height": 1080
+          }
+        ],
+        "text": "Nach dem Waldstück kam ich zur Agtawaldalpe. Direkt unterhalb war im Schatten dann wieder der Winter."
+      },
+      {
+        "photos": [
+          {
+            "name": "046",
+            "alt": "Alpweg Agtawaldalpe",
+            "date": "2024-11-16T14:36:20.000+01:00",
+            "width": 1920,
+            "height": 955
+          }
+        ],
+        "text": "Von der Alp ging es nun aber endgültig Richtung Auto - erst flach auf diesem Schotterweg."
+      },
+      {
+        "photos": [
+          {
+            "name": "047",
+            "alt": "Verzauberter Wald",
+            "date": "2024-11-16T14:47:51.000+01:00",
+            "width": 800,
+            "height": 1080
+          }
+        ],
+        "text": "Nach erreichen der Furkajoch Straße kann man wieder von ihr abzweigen und auf schmalem Pfad durch den Wald laufen. Dieser war im flachen Sonnenlicht richtig mystisch, was auf dem Foto nicht richtig rüber kommt."
+      },
+      {
+        "photos": [
+          {
+            "name": "048",
+            "alt": "Holzbrücke Bad Laterns",
+            "date": "2024-11-16T14:58:48.000+01:00",
+            "width": 852,
+            "height": 1080
+          }
+        ],
+        "text": "Um 15:00 erreichte ich schließlich das Gasthaus Bad Laterns. Wie man sieht, war ich seit dem letzten Schnee der erste Mensch, der diesen Weg gegangen war. Das fand ich etwas überraschend, da auf allen anderen Wegen an diesem Tag schon ein paar Leute unterwegs waren."
+      },
+      {
+        "photos": [
+          {
+            "name": "049",
+            "alt": "Gasthaus Bad Laterns",
+            "date": "2024-11-16T15:00:09.000+01:00",
+            "width": 1681,
+            "height": 1080
+          }
+        ],
+        "text": "Der kleine See am Gasthaus Bad Laterns war tief gefroren, auch jetzt bei Sonnenschein waren es hier im Tal nur 5°."
+      }
+    ],
+    "outro": "Fazit: Diese Runde auf den Hohen Freschen ist uneingeschränkt zu empfehlen. Sie ist zwar nicht besonders spannend, aber immer abwechslungsreich. Auf dem Gipfel hat man eine tolle Aussicht als Belohnung für die 900m Aufstieg. Im Sommer ist es natürlich nicht so leer, aber dafür kann man im Freschenhaus einkehren. Für die 17km war ich 6h unterwegs, davon 5h reine Gehzeit. Wer es ausdehnen will, kann beim Rückweg noch Abstecher auf die Matona und den Gerenfalben machen. Wer es kürzer haben will, läuft einfach den selben Weg rauf und runter."
+  }
+]

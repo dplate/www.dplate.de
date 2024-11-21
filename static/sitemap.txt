@@ -252,3 +252,4 @@ https://www.dplate.de/alpine/pizol/20241020
 https://www.dplate.de/alpine/praettigau/20241027
 https://www.dplate.de/alpine/praettigau/20241102
 https://www.dplate.de/alpine/malbun/20241110
+https://www.dplate.de/alpine/laterns/20241116
