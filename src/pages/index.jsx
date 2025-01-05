@@ -60,6 +60,7 @@ const PageIndex = (props) => {
           <FlexCard>
             <h2>Spielzimmer</h2>
             <p>Meine PC&#8209; und Handyspiele.</p>
+            <Link to="/games/alpine-route">Alpine Route</Link>
             <Link to="/games/schiffbruch">Schiffbruch</Link>
             <Link to="/games/draw-a-mountain">Draw-A-Mountain</Link>
             <Link to="/games/cannonhill">Cannonhill</Link>

@@ -180,6 +180,11 @@ const createItems = (destinations, reports, currentPath) => {
       name: 'Spielzimmer',
       items: [
         {
+          id: 'alpine-route',
+          name: 'Alpine Route',
+          path: '/games/alpine-route'
+        },
+        {
           id: 'draw-a-mountain',
           name: 'Draw-A-Mountain',
           path: '/games/draw-a-mountain'
