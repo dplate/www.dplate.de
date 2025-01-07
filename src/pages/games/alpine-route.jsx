@@ -2,6 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 import { cardStyle, pictureStyle } from '../../styles/basestyle.js';
 import Layout from '../../components/Layout.jsx';
+import {useState, useEffect} from 'react';
 
 const Card = styled.div`
   ${cardStyle}
@@ -12,6 +13,13 @@ const Picture = styled.img`
 `;
 
 const PageAlpineRoute = (props) => {
+  const [playLink, setPlayLink] = useState('https://alpine-route.dplate.de');
+  useEffect(() => {
+    if (/android/i.test(window.navigator.userAgent)) {
+      setPlayLink('https://play.google.com/store/apps/details?id=de.dplate.alpine_route')
+    }
+  }, [])
+
   return (
     <Layout location={props.location}>
       <div>
@@ -27,7 +35,7 @@ const PageAlpineRoute = (props) => {
             Die Szenarien basieren teils auf real existierenden Strecken, wie der berühmten Albulabahn, teils auf visionären Projekten, die nie verwirklicht wurden – etwa einer Eisenbahn auf den Säntis.
           </p>
         </Card>
-        <Picture src="/screenshots/alpine-route.webp" />
+        <a href={playLink} aria-label="Spielen"><Picture src="/screenshots/alpine-route.webp" /></a>
         <Card>
           <h2>Systemanforderungen für Android App</h2>
           <ul>
