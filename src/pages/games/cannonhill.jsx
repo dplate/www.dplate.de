@@ -27,7 +27,24 @@ const PageCannonhill = (props) => {
         </Card>
         <Picture src="/screenshots/cannonhill.jpg" />
         <Card>
-          <h2>Systemanforderungen</h2>
+          <h2>SDL Port von Alexander (läuft auch auf aktuellen Rechnern)</h2>
+          <p>
+            <a href="https://univrsal.github.io/cannonhill-sdl/">Im Browser starten</a>
+          </p>
+          <p>
+            <a href="https://github.com/univrsal/cannonhill-sdl/releases">Download für Windows und Linux</a>
+          </p>
+          <h2>Original Installationsprogramm für Windows (läuft nur noch mit Glück)</h2>
+          <p>
+            <a href="/zips/cannonhill.exe">cannonhill.exe: 1,2 MByte</a>
+          </p>
+          <h2>Original Sourcecode für C++ mit DirectX-SDK</h2>
+          <p>
+            <a href="/zips/cannonhillsdk.zip">cannonhillsdk.zip: 477 kByte</a>
+          </p>
+        </Card>
+        <Card>
+          <h2>Original Systemanforderungen</h2>
           <ul>
             <li>Windows95</li>
             <li>32MB RAM</li>
@@ -36,16 +53,6 @@ const PageCannonhill = (props) => {
             <li>DirectSound-kompatible Soundkarte</li>
             <li>Maus</li>
           </ul>
-        </Card>
-        <Card>
-          <h2>Installationsprogramm für Windows</h2>
-          <p>
-            <a href="/zips/cannonhill.exe">cannonhill.exe: 1,2 MByte</a>
-          </p>
-          <h2>Sourcecode für C++ mit DirectX-SDK</h2>
-          <p>
-            <a href="/zips/cannonhillsdk.zip">cannonhillsdk.zip: 477 kByte</a>
-          </p>
         </Card>
       </div>
     </Layout>
