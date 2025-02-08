@@ -11,7 +11,7 @@ import {
   CesiumTerrainProvider,
   ClockRange,
   Color,
-  createWorldTerrain,
+  createWorldTerrainAsync,
   Credit,
   Ellipsoid,
   EllipsoidGeodesic,
@@ -21,6 +21,7 @@ import {
   GeographicTilingScheme,
   HeadingPitchRange,
   HeightReference,
+  ImageryLayer,
   Ion,
   JulianDate,
   Math as CesiumMath,
@@ -44,10 +45,6 @@ const CesiumContainer = styled.div`
 
   .cesium-credit-logoContainer img {
     max-width: 5vw;
-  }
-
-  .cesium-credit-textContainer {
-    display: none !important;
   }
 
   .cesium-viewer-bottom {
@@ -135,16 +132,19 @@ const catchInvalidSwissTopoTiles = (provider) => {
   return provider;
 };
 
-const createTerrainProvider = (hideSwissTopo) => {
+const createTerrainProvider = async (hideSwissTopo) => {
   if (hideSwissTopo) {
-    return new createWorldTerrain({
+    return await createWorldTerrainAsync({
       requestVertexNormals: true
     });
   }
-  const provider = new CesiumTerrainProvider({
-    url: 'https://3d.geo.admin.ch/ch.swisstopo.terrain.3d/v1',
-    requestVertexNormals: true
-  });
+  const provider = await CesiumTerrainProvider.fromUrl(
+    'https://3d.geo.admin.ch/ch.swisstopo.terrain.3d/v1',
+    {
+      requestVertexNormals: true,
+      credit: new Credit('geodata © swisstopo', true)
+    }
+  );
   return catchInvalidSwissTopoTiles(provider);
 };
 
@@ -157,12 +157,12 @@ const createGlobeRectangle = (positions) => {
   return globeRectangle;
 };
 
-const setupViewer = (trackData, hideSwissTopo) => {
+const setupViewer = async (trackData, hideSwissTopo) => {
   Ion.defaultAccessToken =
     'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiI2YzA0MGNiZi02N2E1LTQxZGQtYjAzNi1iNDJjYTRjNTU4NzciLCJpZCI6MTgxMSwiaWF0IjoxNTMwMjA0MjIxfQ.o1Sfgaz0-I6_tAgUIO-8RV2kw7nOB-nNupVeHwsGLj0';
 
   const viewer = new Viewer('cesiumContainer', {
-    terrainProvider: createTerrainProvider(hideSwissTopo),
+    terrainProvider: await createTerrainProvider(hideSwissTopo),
     baseLayerPicker: false,
     geocoder: false,
     animation: false,
@@ -177,14 +177,13 @@ const setupViewer = (trackData, hideSwissTopo) => {
     scene3DOnly: true,
     msaaSamples: 4,
     showRenderLoopErrors: false,
-    imageryProvider: new BingMapsImageryProvider({
-      url: 'https://dev.virtualearth.net',
-      key: 'AkvC0n8biVNXoCbpiAc4p3g7S9ZHoUWvlpgcJKYQd8FhCA5sn6C8OUmhIR8IEO0X',
-      mapStyle: BingMapsStyle.AERIAL
-    }),
-    contextOptions: {
-      requestWebgl2: true
-    }
+    baseLayer: ImageryLayer.fromProviderAsync(BingMapsImageryProvider.fromUrl(
+      'https://dev.virtualearth.net',
+      {
+        key: 'AkvC0n8biVNXoCbpiAc4p3g7S9ZHoUWvlpgcJKYQd8FhCA5sn6C8OUmhIR8IEO0X',
+        mapStyle: BingMapsStyle.AERIAL
+      }
+    ))
   });
   viewer.scene.globe.depthTestAgainstTerrain = true;
   viewer.scene.globe.tileCacheSize = 1000;
@@ -265,17 +264,16 @@ const createSwissSatelliteProvider = (hdRectangle) => {
 
 const createAustriaSatelliteProvider = (hdRectangle) => {
   return new WebMapTileServiceImageryProvider({
-    url: 'https://maps{s}.wien.gv.at/basemap/bmaporthofoto30cm/{Style}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg',
+    url: 'https://mapsneu.wien.gv.at/basemap/bmaporthofoto30cm/{Style}/{TileMatrixSet}/{TileMatrix}/{TileRow}/{TileCol}.jpeg',
     layer: 'bmaporthofoto30cm',
     style: 'normal',
     tileMatrixSetID: 'google3857',
-    subdomains: '1234',
     rectangle: hdRectangle,
     credit: new Credit('<a href="https://www.basemap.at/" target="_blank">Datenquelle: basemap.at</a>', true)
   });
 };
 
-const turnToWinter = (scene, hdRectangle) => {
+const turnToWinter = (scene) => {
   const layers = scene.imageryLayers;
   for (let i = 0; i < layers.length; i++) {
     const layer = layers.get(i);
@@ -449,8 +447,8 @@ const jumpToTargetTime = (viewer, hiker, targetTime) => {
   }
 };
 
-const setupMap = (trackData, hideSwissTopo, detailMap, winter) => {
-  const viewer = setupViewer(trackData, hideSwissTopo);
+const setupMap = async (trackData, hideSwissTopo, detailMap, winter) => {
+  const viewer = await setupViewer(trackData, hideSwissTopo);
   viewer.entities.add(createTrackEntity(trackData.positions, winter));
   const hdRectangle = createHdRectangle(trackData.positions);
   switch (detailMap) {
@@ -463,15 +461,13 @@ const setupMap = (trackData, hideSwissTopo, detailMap, winter) => {
     default:
   }
   if (winter) {
-    turnToWinter(viewer.scene, hdRectangle);
+    turnToWinter(viewer.scene);
   }
   return viewer;
 };
 
 const prepareStart = async (trackData, viewer, hiker, targetTime, onAnimationStarted, time, timeShift) => {
   setupClock(viewer.clock, trackData.startTime, trackData.stopTime);
-
-  await viewer.terrainProvider.readyPromise;
 
   wishTimeChanged(viewer.clock, targetTime, time, timeShift, onAnimationStarted);
   jumpToTargetTime(viewer, hiker, targetTime);
@@ -513,14 +509,19 @@ const Map = (props) => {
   const trackData = useMemo(() => track && extractTrackData(track), [track]);
 
   useEffect(() => {
-    if (trackData) {
-      const newViewer = setupMap(trackData, props.hideSwissTopo, props.detailMap, props.winter);
-      setViewer(newViewer);
-      return () => {
-        newViewer.destroy();
-        setViewer(null);
-      };
+    async function createViewer() {
+      if (trackData) {
+        const newViewer = await setupMap(trackData, props.hideSwissTopo, props.detailMap, props.winter);
+        setViewer(newViewer);
+      }
     }
+    createViewer();
+    return () => {
+      if (viewer) {
+        viewer.destroy();
+        setViewer(null);
+      }
+    };
   }, [trackData]); // eslint-disable-line react-hooks/exhaustive-deps
 
   useEffect(() => {
