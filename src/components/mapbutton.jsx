@@ -75,11 +75,11 @@ const Button = styled.span`
   opacity: 0.5;
   text-align: right;
 
-  :hover {
+  &:hover {
     opacity: 1.0;
   }
 
-  :not(:empty) {
+  &:not(:empty) {
     animation: ${bounceIn} 5s ease;
   }
 

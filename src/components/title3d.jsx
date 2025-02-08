@@ -32,7 +32,7 @@ const Foreground = styled.img`
   height: auto;
 `;
 
-const Title3D = ({ reportPath, title, offsetY, fontSize, width, height, align, scrollTrigger }) => {
+const Title3D = ({ reportPath, title, offsetY, fontSize, width, height, align = "left", scrollTrigger }) => {
   const containerRef = useRef(null);
 
   const [currentYOffset, setCurrentYOffset] = useState(0);
@@ -92,10 +92,6 @@ Title3D.propTypes = {
   height: PropTypes.number.isRequired,
   align: PropTypes.string,
   scrollTrigger: PropTypes.number
-};
-
-Title3D.defaultProps = {
-  align: 'left'
 };
 
 export default Title3D;

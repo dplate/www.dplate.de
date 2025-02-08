@@ -21,7 +21,7 @@ const FlexCard = styled.div`
   ${cardStyle};
   flex: 1;
   max-width: 600px;
-  background-image: url(${(props) => props.teaserPath});
+  background-image: url(${(props) => props.$teaserPath});
   background-repeat: no-repeat;
 `;
 
@@ -72,7 +72,7 @@ const renderReports = (name, destination, teaser, reports, type) => {
   const teaserPath = findTeaserPath(destination, teaser, type);
 
   return (
-    <FlexCard teaserPath={teaserPath}>
+    <FlexCard $teaserPath={teaserPath}>
       {renderReportTitle(name, teaser, type)}
       {reports.map(renderReport)}
     </FlexCard>

@@ -40,7 +40,7 @@ const MovingTitle = ({ movePercent, reportPath, title, title3d }) => {
   );
 };
 
-const AnimatedTitle = ({ reportPath, title, title3d, visible }) => {
+const AnimatedTitle = ({ reportPath, title, title3d, visible = true }) => {
   const { movePercent } = useSpring({
     config: { duration: 5000 },
     movePercent: visible ? 0 : 120
@@ -60,10 +60,6 @@ AnimatedTitle.propTypes = {
     align: PropTypes.string
   }),
   visible: PropTypes.bool.isRequired
-};
-
-AnimatedTitle.defaultProps = {
-  visible: true
 };
 
 export default AnimatedTitle;
