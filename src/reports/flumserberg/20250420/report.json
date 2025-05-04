@@ -1,0 +1,224 @@
+[
+  {
+    "destination": "flumserberg",
+    "date": "d20250420",
+    "type": "hike",
+    "track": true,
+    "detailMap": "swiss",
+    "shortTitle": "Quinten",
+    "title": "Walenstadt - Quinten",
+    "title3d": {
+      "offsetY": 3,
+      "fontSize": 7.8,
+      "align": "right",
+      "width": 1920,
+      "height": 617
+    },
+    "movie": "vigX2uOusQI",
+    "intro": "Am Ostersonntag ging es zu einer kleineren Wanderung an den Walensee. Da das Ufer der Südseite des Sees mit Eisenbahn, Straße und Autobahn gut belegt ist, bietet sich zum Wandern eher die steilere Nordseite unterhalb der Churfirsten an. Genauer ging es von Walenstadt am Ostende des Sees zum autofreien Ort Quinten und von dort mit dem Schiff zurück.<br />Bei ordentlich Wind stellte ich das Auto auf dem großen (kostenpflichtig, ~10CHF) Parkplatz des Strandbads ab und es ging um 10:40 zu Fuß los.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Walenstadt",
+            "date": "2025-04-20T10:57:45.000+02:00",
+            "width": 1863,
+            "height": 1080
+          }
+        ],
+        "text": "Da kurz nach Walenstadt das Ufer durch eine Felswand blockiert ist, ging es gleich zu Beginn mit einem 400m Aufstieg los, um das Hindernis oberhalb zu queren.<br />Hier der Blick zurück nach Walenstadt, wo auch bereits das Schiff zu sehen ist, mit dem ich später zurückfahren wollte."
+      },
+      {
+        "photos": [
+          {
+            "name": "002",
+            "alt": "Weinberg am Walensee",
+            "date": "2025-04-20T11:00:26.000+02:00",
+            "width": 1809,
+            "height": 1080
+          }
+        ],
+        "text": "Auf breitem Forstweg ging es erst oberhalb dieser Weinberge hinauf, später dann aber nur noch (etwas öde) durch den Wald. Der Wind war nun kaum noch spürbar und die Sonne heizte den Hang schon gut auf, so dass die Jacke weggepackt werden konnte."
+      },
+      {
+        "photos": [
+          {
+            "name": "003",
+            "alt": "Wiese bei Walenstadtberg",
+            "date": "2025-04-20T11:55:57.000+02:00",
+            "width": 1818,
+            "height": 1080
+          }
+        ],
+        "text": "Nach einer Stunde war der Aufstieg geschafft und ich erreichte die Wiesen rund um Walenstadtberg. Diesen Abschnitt kannte ich bereits von einer <a href='/alpine/flumserberg/20240929' target='_blank'>Wanderung im Herbst oberhalb von Walenstadtberg</a>."
+      },
+      {
+        "photos": [
+          {
+            "name": "004",
+            "alt": "Frühling",
+            "date": "2025-04-20T11:58:19.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "005",
+            "alt": "Kleiner Teich am Wegrand",
+            "date": "2025-04-20T12:09:40.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Idylisch ging es nun entlang blühende Wiesen und Obstbäume ohne große Steigung oben an der Felswand vorbei."
+      },
+      {
+        "photos": [
+          {
+            "name": "006",
+            "alt": "Gesicherter Weg über Bach",
+            "date": "2025-04-20T12:52:07.000+02:00",
+            "width": 1288,
+            "height": 1080
+          }
+        ],
+        "text": "Danach ging es aber schnell wieder die 400 Höhenmeter bergab zum See. Diesmal aber abwechslungsreicher auf richtigem (aber breitem) Wanderweg in vielen Serpentinen. An dieser Stelle war sogar ein Drahtseil angebracht, aber wohl eher für den Fall, dass dieser Bach etwas mehr Wasser führt. ;)"
+      },
+      {
+        "photos": [
+          {
+            "name": "007",
+            "alt": "Joseweg",
+            "date": "2025-04-20T12:53:48.000+02:00",
+            "width": 861,
+            "height": 1080
+          }
+        ],
+        "text": "Vorbei ging es auch an einzelnen gerodeten Wiese - noch war das Ufer nicht erreicht."
+      },
+      {
+        "photos": [
+          {
+            "name": "008",
+            "alt": "Bergweg am Fels",
+            "date": "2025-04-20T13:27:32.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Fast das gesamte Nordufer des Walensees ist steil und mit Felsen durchsetzt. Der Weg dort entlang aber gut ausgebaut und in die Felsen geschlagen."
+      },
+      {
+        "photos": [
+          {
+            "name": "009",
+            "alt": "Tiefblick zum See",
+            "date": "2025-04-20T13:28:26.000+02:00",
+            "width": 1472,
+            "height": 1080
+          }
+        ],
+        "text": "Tiefblick hinab zum See."
+      },
+      {
+        "photos": [
+          {
+            "name": "010",
+            "alt": "Wanderweg Quinten",
+            "date": "2025-04-20T13:32:38.000+02:00",
+            "width": 1719,
+            "height": 1080
+          }
+        ],
+        "text": "Der Weg entlang des Ufers war hier abwechslungsreich und schön zu gehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "011",
+            "alt": "Blick auf Schilt",
+            "date": "2025-04-20T13:39:02.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Dann erreicht ich die kleine Häuseransammlung Schilt, die aber keinen öffentlichen Schiffsanleger besitzt - also nur zu Fuß oder mit dem privaten Boot erreichbar ist."
+      },
+      {
+        "photos": [
+          {
+            "name": "012",
+            "alt": "Walensee Schifffahrt",
+            "date": "2025-04-20T13:55:16.000+02:00",
+            "width": 1625,
+            "height": 1080
+          }
+        ],
+        "text": "Hinter Schilt kam ich schnell nach Au, bereits ein 'Stadtteil' von Quinten, das einen Anleger besitzt. Ich hätte also auch bereits von hier zurückfahren können."
+      },
+      {
+        "photos": [
+          {
+            "name": "013",
+            "alt": "Badestrand Au",
+            "date": "2025-04-20T14:03:12.000+02:00",
+            "width": 1428,
+            "height": 1080
+          }
+        ],
+        "text": "Au bietet einen großen Badestrand mit Grillstellen, der einfach von Quinten erreichbar ist. Hier weht nun aber wieder stark der Wind und die Sonne hatte sich ebenfalls verzogen, so dass sich statt Badehose eher wieder die Jacke anbot."
+      },
+      {
+        "photos": [
+          {
+            "name": "014",
+            "alt": "Breiter Weg in Felswand",
+            "date": "2025-04-20T14:13:43.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "015",
+            "alt": "Spaziergang Quinten",
+            "date": "2025-04-20T14:15:19.000+02:00",
+            "width": 1888,
+            "height": 1080
+          }
+        ],
+        "text": "Von Au nach Quinten führt ein breiter Spazierweg durch eine weitere Felswand. Quinten erreichte ich nach ca. 3,5h von Walenstadt."
+      },
+      {
+        "photos": [
+          {
+            "name": "016",
+            "alt": "Weinberg Quinten",
+            "date": "2025-04-20T14:29:27.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "017",
+            "alt": "Quinten",
+            "date": "2025-04-20T14:30:01.000+02:00",
+            "width": 1637,
+            "height": 1080
+          }
+        ],
+        "text": "Da das nächste Schiff erst in einer Stunde fuhr, machte ich noch einen Runde durch den Ort Quinten. Hier jeweils der Blick zurück über die Weinberge zum 'Zentrum'. Leider begann es nun noch leicht zu regnen."
+      },
+      {
+        "photos": [
+          {
+            "name": "018",
+            "alt": "Schiffsanleger Quinten",
+            "date": "2025-04-20T15:15:57.000+02:00",
+            "width": 1920,
+            "height": 974
+          }
+        ],
+        "text": "Überpünktlich zurück am Anleger (ein Stadtrundgang dauert hier nicht allzu lange). Es kamen noch einige andere Osterspaziergänger und Wanderer an. Viele waren auch vom Westende des Sees nach Quinten gelaufen und wollten nun mit einem anderen Schiff zurück nach Weesen. Diese Wanderung dauert ungefähr genauso lang. Wer etwas sportlicher unterwegs sein will, kann also auch von Walenstadt bis nach Weesen durchlaufen.<br />Die Rückfahrt mit dem kleinen Boot nach Walenstadt war auf Grund des starken Winds und der hohen Wellen dann auch noch ein Erlebnis."
+      }
+    ],
+    "outro": "Fazit: Eine Wanderung entlang des Nordufers des Walensees ist praktisch zu jeder Jahreszeit möglich - im Winter meist schneefrei (aber das Schiff fährt nicht) und im Sommer kann man es mit einer Erfrischung im kalten See kombinieren. Der Reiz ist besonders die Autofreiheit der durch Felsen isolierten Orte.<br />Der Weg von Walenstadt war am Anfang etwas langweilig, bevor es dann interessant wurde. Man könnte evt. besser mit dem Bus nach Walenstadtberg hinauffahren und die Wanderung stattdessen nach Betlis verlängern."
+  }
+]
