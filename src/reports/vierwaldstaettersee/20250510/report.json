@@ -1,0 +1,554 @@
+[
+  {
+    "destination": "vierwaldstaettersee",
+    "date": "d20250510",
+    "type": "hike",
+    "track": true,
+    "detailMap": "swiss",
+    "shortTitle": "Rigi",
+    "title": "Kräbel - Scheidegg - Rigi Kulm",
+    "title3d": {
+      "offsetY": 3,
+      "fontSize": 6.5,
+      "align": "left",
+      "width": 1920,
+      "height": 476
+    },
+    "movie": "Ag-8204hw28",
+    "intro": "Für diesen Maisamstag war eine Wanderung auf der Rigi am Vierwaldstättersee geplant. Rund um die Rigi gibt es unzählige Startpunkte, ich entschied mich an der Talstation einer kleinen Seilbahn in Kräbel zu starten.<br />Kräbel liegt am Ende einer einspurigen Straße auf 770m Höhe oberhalb des Orts Goldau. Der großzügige Parkplatz dort kostete ca. 10CHF für den Tag.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Seilbahn Kräbel - Scheidegg",
+            "date": "2025-05-10T08:58:57.000+02:00",
+            "width": 1724,
+            "height": 1080
+          }
+        ],
+        "text": "Kurz vor neun stellte ich das Auto ab und schon konnte ich die kleine Gondel auf ihrem Weg zur 900m höheren Rigi Scheidegg beobachten. Die Bahn fährt mindestens jede halbe Stunde, aber bei genug Andrang auch häufiger."
+      },
+      {
+        "photos": [
+          {
+            "name": "002",
+            "alt": "Rigi Zahnradbahn",
+            "date": "2025-05-10T09:03:05.000+02:00",
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "text": "Neben der Talstation befindet sich auch eine Haltestelle der Zahnradbahn, die von Goldau zur Rigi Kulm fährt. Aus dieser Bahn stiegen nun einige aus, um ebenfalls mit der Seilbahn weiterzufahren. So war die nächste, 13 Personen fassende Gondel, voll. Die Bergfahrt kostete teure 29CHF, Halbtax ist aber möglich."
+      },
+      {
+        "photos": [
+          {
+            "name": "003",
+            "alt": "Seilbahn Rigi Scheidegg",
+            "date": "2025-05-10T09:15:18.000+02:00",
+            "width": 1699,
+            "height": 1080
+          },
+          {
+            "name": "004",
+            "alt": "Gondel Rigi Scheidegg",
+            "date": "2025-05-10T09:20:58.000+02:00",
+            "width": 1777,
+            "height": 1080
+          }
+        ],
+        "text": "Blick von der Scheidegg auf die Gondelbahn. Im Hintergrund ist der Zugersee zu sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "005",
+            "alt": "Aussicht Rigi Scheidegg",
+            "date": "2025-05-10T09:21:45.000+02:00",
+            "width": 1920,
+            "height": 1026
+          }
+        ],
+        "text": "Die Aussicht von der Bergstation nach Osten. Gut zu sehen sind hier die steilen Mythen (und der Dunst im Tal)."
+      },
+      {
+        "photos": [
+          {
+            "name": "006",
+            "alt": "Blick zum Titlis",
+            "date": "2025-05-10T09:23:18.000+02:00",
+            "width": 1920,
+            "height": 1011
+          }
+        ],
+        "text": "Der klarere Blick hinüber zu den verschneiten Bergen rund um den Titlis. Auf der Rigi Scheidegg befinden Gasthäuser, ein Skilift und einige Ferienhäuser. Von dieser Seite führt noch eine andere kleine Seilbahn hinauf."
+      },
+      {
+        "photos": [
+          {
+            "name": "007",
+            "alt": "Panorama Zugersee",
+            "date": "2025-05-10T09:29:23.000+02:00",
+            "width": 1813,
+            "height": 1080
+          }
+        ],
+        "text": "Am höchsten Punkt wurde ein Aussichtspunkt in Form einer Arche auf einem Wasserbehälter gebaut. Links im Hintergrund Rigi Kulm, das Hauptziel der Wanderung."
+      },
+      {
+        "photos": [
+          {
+            "name": "008",
+            "alt": "Spazierweg Rigi Scheidegg",
+            "date": "2025-05-10T09:38:15.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Sehr gemütlich ging es auf einem breiten Spazierweg über den Bergrücken der Scheidegg los."
+      },
+      {
+        "photos": [
+          {
+            "name": "009",
+            "alt": "Rigi Dossen",
+            "date": "2025-05-10T09:45:45.000+02:00",
+            "width": 1920,
+            "height": 741
+          }
+        ],
+        "text": "Dann ging der Weg leicht bergab und der Rigi Dossen tauchte auf. Ich wollte dort hinüber, aber man könnte auch auf einem Fahrweg rechts dran vorbeilaufen."
+      },
+      {
+        "photos": [
+          {
+            "name": "010",
+            "alt": "Vitznauerstock",
+            "date": "2025-05-10T10:01:16.000+02:00",
+            "width": 1862,
+            "height": 1080
+          }
+        ],
+        "text": "Blick beim 100m Aufstieg nach Süden."
+      },
+      {
+        "photos": [
+          {
+            "name": "011",
+            "alt": "Gratweg Rigi Dossen",
+            "date": "2025-05-10T10:08:21.000+02:00",
+            "width": 1920,
+            "height": 891
+          }
+        ],
+        "text": "Einfach, aber schön, ging der Weg hier entlang eines Zauns direkt auf dem Grat bergauf. Links rückte nun der Vierwaldstättersee immer mehr in den Fokus."
+      },
+      {
+        "photos": [
+          {
+            "name": "012",
+            "alt": "Vierwaldstättersee",
+            "date": "2025-05-10T10:09:26.000+02:00",
+            "width": 1920,
+            "height": 752
+          },
+          {
+            "name": "013",
+            "alt": "Aussicht Rigi Dossen",
+            "date": "2025-05-10T10:12:00.000+02:00",
+            "width": 1774,
+            "height": 1080
+          }
+        ],
+        "text": "Vom Dossen hatten man den schönsten Blick auf den verzweigten Vierwaldstättersee, der 1200m tiefer liegt. Der Aufstieg lohnte sich also."
+      },
+      {
+        "photos": [
+          {
+            "name": "014",
+            "alt": "Wanderweg mit Aussicht",
+            "date": "2025-05-10T10:15:17.000+02:00",
+            "width": 1920,
+            "height": 854
+          },
+          {
+            "name": "015",
+            "alt": "Blick zum Pilatus",
+            "date": "2025-05-10T10:17:51.000+02:00",
+            "width": 1593,
+            "height": 1080
+          }
+        ],
+        "text": "Der Abstieg ist etwas steiler, verläuft aber auch weiterhin entlang des Grats auf Alpweiden. Hier ist im Hintergrund der <a href='/alpine/vierwaldstaettersee/20180826' target='_blank'>Pilatus</a> zu sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "016",
+            "alt": "Brücke Unterstetten",
+            "date": "2025-05-10T10:55:50.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Vom Dossen ging es rund 200m abwärts, bis zu dieser Brücke bei Unterstetten. Die Brücke wurde restauriert und war vor über 100 Jahren Teil einer (nicht Zahnrad) Eisenbahnstrecke, die von Rigi Kaltbad zur Scheidegg führte. Sie war aber nur bis 1931 in Betrieb."
+      },
+      {
+        "photos": [
+          {
+            "name": "017",
+            "alt": "Scheideggstraße",
+            "date": "2025-05-10T11:18:09.000+02:00",
+            "width": 1920,
+            "height": 802
+          }
+        ],
+        "text": "Um den kleinen Hügel Würzenstock ging ich auf der ehemaligen Bahnstrecke vorbei, die auch hier wieder zu sehen ist."
+      },
+      {
+        "photos": [
+          {
+            "name": "018",
+            "alt": "Felsenweg",
+            "date": "2025-05-10T11:21:05.000+02:00",
+            "width": 1920,
+            "height": 1070
+          }
+        ],
+        "text": " Um den nächsten Berg kann man wieder links oder rechts (auf der Bahntrasse) vorbei. Hier entschied ich mich für 'links', den sogenannen Felsenweg - ein breiter Spazierweg, der dort in den Nagelfluhfels geschlagen wurde. Unterhalb auch weiterhin der Vierwaldstättersee. "
+      },
+      {
+        "photos": [
+          {
+            "name": "019",
+            "alt": "Panoramaweg Rigi",
+            "date": "2025-05-10T11:30:24.000+02:00",
+            "width": 1842,
+            "height": 1080
+          }
+        ],
+        "text": "Blick vom Felsenweg zurück. Auf diesem Abschnitt war nun deutlich mehr los, den dieser Weg ist einfach von Rigi Kaltbad erreichbar. Der Blick ist aber auch toll."
+      },
+      {
+        "photos": [
+          {
+            "name": "020",
+            "alt": "Frühlingswanderung",
+            "date": "2025-05-10T11:52:39.000+02:00",
+            "width": 1920,
+            "height": 840
+          }
+        ],
+        "text": "Ich bin aber nicht weiter bis nach Rigi Kaltbad gelaufen, sondern hier bereits beim 200m Aufstieg auf den nächsten Gipfel, dem Rotstock. Einsam wird es hier aber nicht mehr und überall befinden sich auch Ferienhäuser."
+      },
+      {
+        "photos": [
+          {
+            "name": "021",
+            "alt": "Wanderweg Rotstock",
+            "date": "2025-05-10T12:03:26.000+02:00",
+            "width": 1920,
+            "height": 936
+          }
+        ],
+        "text": "Blick hinüber zum Gipfel des Rigi Kulm, der aber erst nach dem Rotstock drankommen sollte."
+      },
+      {
+        "photos": [
+          {
+            "name": "022",
+            "alt": "Aussicht Rotstock",
+            "date": "2025-05-10T12:15:09.000+02:00",
+            "width": 1920,
+            "height": 874
+          }
+        ],
+        "text": "Aussicht vom 1660m hohen Rotstock. Wie man sieht ein sehr einfaches Gelände hier, deshalb sind es auch hier gelbe Wanderwege und keine Bergwege."
+      },
+      {
+        "photos": [
+          {
+            "name": "023",
+            "alt": "Bahnhof Rigi Staffel",
+            "date": "2025-05-10T12:52:04.000+02:00",
+            "width": 1920,
+            "height": 1036
+          }
+        ],
+        "text": "Am Pass zwischen Rotstock und Kulm befindet sich der Bahnhof Rigi Staffel. Hier treffen die beiden Zahnradbahnstrecken zum Kulm aufeinander. Die bereits bekannte von Goldau über Kräbel und die anderen von Vitznau über Kaltbad."
+      },
+      {
+        "photos": [
+          {
+            "name": "024",
+            "alt": "Hotel Festpark",
+            "date": "2025-05-10T13:02:03.000+02:00",
+            "width": 1545,
+            "height": 1080
+          }
+        ],
+        "text": "Um 1900 befanden sich auf der Rigi viele große Hotels. Das Hotel Festpark von 1872 ist eines der weniger gut erhaltenen."
+      },
+      {
+        "photos": [
+          {
+            "name": "025",
+            "alt": "Zahnradbahnen Rigi",
+            "date": "2025-05-10T13:08:04.000+02:00",
+            "width": 1617,
+            "height": 1080
+          }
+        ],
+        "text": "Von Staffel begann nun der letzte Aufstieg nach Rigi Kulm. Hier der Blick zurück, links der Rotstock. Der Weg ist nun betoniert und wurde von vielen Ausflüglern begangen."
+      },
+      {
+        "photos": [
+          {
+            "name": "026",
+            "alt": "Über dem Zugersee",
+            "date": "2025-05-10T13:15:16.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Der breite Weg ist aber trotzdem interessant, denn er führt entlang der steilen Nordflanke der Rigi hinauf. Gut abgesichert mit diesem aufwändig gebautem Schrägzaun."
+      },
+      {
+        "photos": [
+          {
+            "name": "027",
+            "alt": "Tische am Abgrund",
+            "date": "2025-05-10T13:23:51.000+02:00",
+            "width": 1724,
+            "height": 1080
+          }
+        ],
+        "text": "Fraglich, ob die Gäste an diesen Tischen sich diesem Abgrund bewusst waren. ;)"
+      },
+      {
+        "photos": [
+          {
+            "name": "028",
+            "alt": "Schrägzaun Rigi",
+            "date": "2025-05-10T13:25:17.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Noch ein Fotos des schönen Zauns - auch ein letzter Blick Richtung Westen."
+      },
+      {
+        "photos": [
+          {
+            "name": "029",
+            "alt": "Gipfel Rigi Kulm",
+            "date": "2025-05-10T13:34:10.000+02:00",
+            "width": 1920,
+            "height": 659
+          }
+        ],
+        "text": "Der Gipfel von Rigi Kulm war nicht genug, deshalb bin ich noch ein paar Stufen auf eine Aussichtsplattform an der großen Antenne hinauf (damit die Höhe von 1800m erreicht). Man sieht von dort aber nicht wirklich mehr - nur das der Gipfel auch für viele Besucher genug Platz bietet."
+      },
+      {
+        "photos": [
+          {
+            "name": "030",
+            "alt": "Panorama Rigi Kulm",
+            "date": "2025-05-10T13:36:10.000+02:00",
+            "width": 1879,
+            "height": 1080
+          }
+        ],
+        "text": "Blick den Steilhang hinab nach Norden. Links das Ende des Vierwaldstättersees, rechts der Zugersee. Von dieser Seite führt nur ein blauer Weg hinauf."
+      },
+      {
+        "photos": [
+          {
+            "name": "031",
+            "alt": "Aussicht Rigi Kulm",
+            "date": "2025-05-10T13:42:43.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Aussicht nach Osten. In der Mitte ist Goldach zu sehen, dahinter wieder die Mythen und der kleine Lauerzersee."
+      },
+      {
+        "photos": [
+          {
+            "name": "032",
+            "alt": "Zugersee",
+            "date": "2025-05-10T13:43:05.000+02:00",
+            "width": 1739,
+            "height": 1080
+          }
+        ],
+        "text": "Noch mal der Blick zum Zugersee. Wo links der Wanderer zu sehen ist, wollte ich nun absteigen."
+      },
+      {
+        "photos": [
+          {
+            "name": "033",
+            "alt": "Antenne Rigi Kulm",
+            "date": "2025-05-10T14:09:28.000+02:00",
+            "width": 739,
+            "height": 1080
+          },
+          {
+            "name": "034",
+            "alt": "Steiler Wanderweg",
+            "date": "2025-05-10T14:17:18.000+02:00",
+            "width": 922,
+            "height": 1080
+          },
+          {
+            "name": "035",
+            "alt": "Bergweg Rigi",
+            "date": "2025-05-10T14:22:14.000+02:00",
+            "width": 776,
+            "height": 1080
+          }
+        ],
+        "text": "Der Abstieg hier ist zwar kein blauer Weg, aber hinunter brauchte ich trotzdem teilweise die Hände. Auch hat man dabei häufig den Abgrund zum Zugersee im Blick."
+      },
+      {
+        "photos": [
+          {
+            "name": "036",
+            "alt": "Seeblick",
+            "date": "2025-05-10T14:24:28.000+02:00",
+            "width": 1650,
+            "height": 1080
+          }
+        ],
+        "text": "Nach zwei Steilstufen wurde der Weg aber schnell wieder harmloser und es gab einen tollen Blick auf den See als Belohnung."
+      },
+      {
+        "photos": [
+          {
+            "name": "037",
+            "alt": "Alp Zingel",
+            "date": "2025-05-10T14:48:49.000+02:00",
+            "width": 1874,
+            "height": 1080
+          }
+        ],
+        "text": "Ich ging diesen Bergweg weiter bis zu dieser Alp Zingel."
+      },
+      {
+        "photos": [
+          {
+            "name": "038",
+            "alt": "Alpweg Zingel",
+            "date": "2025-05-10T15:09:13.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "039",
+            "alt": "Alp Schwändi",
+            "date": "2025-05-10T15:28:45.000+02:00",
+            "width": 1920,
+            "height": 876
+          }
+        ],
+        "text": "Der offizielle Weg wäre von der Alp Zingel weiter bergab gegangen, wäre dann aber recht lange durch den Wald gegangen. Ich ging stattdessen diese Straße nur leicht absteigend nach rechts, um einen anderen Wanderweg vom Kulm her zu erreichen (auf der Rigi gibt es generell sehr viele Wanderwege und sehr viele mögliche Varianten)."
+      },
+      {
+        "photos": [
+          {
+            "name": "040",
+            "alt": "Hundeblumenwiese",
+            "date": "2025-05-10T15:37:10.000+02:00",
+            "width": 1920,
+            "height": 946
+          },
+          {
+            "name": "041",
+            "alt": "Alp Resti",
+            "date": "2025-05-10T15:58:59.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "042",
+            "alt": "Pusteblumenwiese",
+            "date": "2025-05-10T16:01:15.000+02:00",
+            "width": 1671,
+            "height": 1080
+          }
+        ],
+        "text": "Nachdem ich den offizellen Wanderweg erreicht hatte, ging es sehr schön über die blühenden Wiesen hinab, bis ich die Alp Resti erreichte."
+      },
+      {
+        "photos": [
+          {
+            "name": "043",
+            "alt": "Serpentine im Wald",
+            "date": "2025-05-10T16:20:35.000+02:00",
+            "width": 1739,
+            "height": 1080
+          }
+        ],
+        "text": "Die nächsten 200 Höhenmeter ging es nun auf diesem Forstweg weniger schön durch den Wald hinab."
+      },
+      {
+        "photos": [
+          {
+            "name": "044",
+            "alt": "Alte Seilbahn Dächli",
+            "date": "2025-05-10T16:26:44.000+02:00",
+            "width": 1525,
+            "height": 1080
+          }
+        ],
+        "text": "Im Wald befindet sich eine Bergstation einer aufgegebenen Transportseilbahn, die wohl für das alte Gasthaus Rigi Dächli gedacht war."
+      },
+      {
+        "photos": [
+          {
+            "name": "045",
+            "alt": "Kleiner Wasserfall",
+            "date": "2025-05-10T16:37:20.000+02:00",
+            "width": 1003,
+            "height": 1080
+          }
+        ],
+        "text": "Sonst gab es im Wald noch einen kleinen Wasserfall als Abwechslung."
+      },
+      {
+        "photos": [
+          {
+            "name": "046",
+            "alt": "Felssturz mit Bach",
+            "date": "2025-05-10T16:48:55.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "047",
+            "alt": "Brücke mit Knick",
+            "date": "2025-05-10T16:49:12.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Nach dem Abstieg zum Gasthaus Dächli bog ich auf den Bergweg zurück nach Kräbel ab und es ging nun immer den Hang entlang (leicht hoch und runter). Unterbrochen von der Überquerung des Bachs Rigiaa auf dieser originellen Brücke."
+      },
+      {
+        "photos": [
+          {
+            "name": "048",
+            "alt": "Parkplatz Seilbahn Kräbel",
+            "date": "2025-05-10T17:11:51.000+02:00",
+            "width": 1776,
+            "height": 1080
+          }
+        ],
+        "text": "Die Talstation der Seilbahn Kräbel, und damit meinen Parkplatz, erreichte ich schließlich kurz nach 17:00."
+      }
+    ],
+    "outro": "Fazit: Abwechslungsreiche Wanderung auf der Rigi. Der Blick hinab auf die umgebenen Seen macht den Hauptreiz der Rigi aus. Auch wenn ein Hauptteil des Wegs einfach war, waren es doch insgesamt 16km, 700m Aufstieg und 1400m Abstieg mit einer reinen Gehzeit von 6h. Man darf sich natürlich auch nicht davon stören lassen, dass die Rigi sehr gut erschlossen ist - das hat aber auch den Vorteil, dass sich die Runde sehr einfach verkürzen lässt, z.B. Talfahrt mit der Zahnradbahn."
+  }
+]
