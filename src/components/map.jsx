@@ -347,7 +347,7 @@ const updateCamera = (viewer, hiker, smooth = true) => {
 
     const optimalCameraHeight = findOptimalCameraHeight(viewer, newLookAtCart);
     if (cameraHeight && optimalCameraHeight) {
-      newTilt += (cameraHeight - optimalCameraHeight) * 0.002;
+      newTilt += (cameraHeight - optimalCameraHeight) * 0.003;
       newTilt = Math.max(newTilt, -90);
       newTilt = Math.min(newTilt, 0);
     }
@@ -377,7 +377,7 @@ const updateSpeed = (viewer, targetTime, onAnimationStopped) => {
   }
   const timeDifference = JulianDate.secondsDifference(targetTime.current, viewer.clock.currentTime);
   let targetMultiplier = timeDifference * 2;
-  targetMultiplier = Math.max(Math.min(targetMultiplier, 75), -75);
+  targetMultiplier = Math.max(Math.min(targetMultiplier, 100), -100);
   viewer.clock.multiplier = targetMultiplier;
   if (Math.abs(targetMultiplier) < 20 || Math.abs(timeDifference) <= 10) {
     if (viewer.clock.shouldAnimate) {
