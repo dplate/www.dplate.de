@@ -141,7 +141,7 @@ const createTerrainProvider = async (hideSwissTopo) => {
   const provider = await CesiumTerrainProvider.fromUrl(
     'https://3d.geo.admin.ch/ch.swisstopo.terrain.3d/v1',
     {
-      requestVertexNormals: true,
+      requestVertexNormals: false,
       credit: new Credit('geodata © swisstopo', true)
     }
   );
@@ -286,7 +286,7 @@ const turnToWinter = (scene) => {
 const findOptimalCameraHeight = (viewer, hikerPosition) => {
   const cameraPos = viewer.camera.positionCartographic;
   let optimalHeight = 0;
-  for (let distanceFactor = 0.0; distanceFactor < 1.0; distanceFactor += 0.1) {
+  for (let distanceFactor = 0.0; distanceFactor < 0.95; distanceFactor += 0.1) {
     const samplePos = new Cartographic(
       hikerPosition.longitude * distanceFactor + cameraPos.longitude * (1.0 - distanceFactor),
       hikerPosition.latitude * distanceFactor + cameraPos.latitude * (1.0 - distanceFactor),
@@ -301,7 +301,21 @@ const findOptimalCameraHeight = (viewer, hikerPosition) => {
   return optimalHeight + 150;
 };
 
-const updateCamera = (viewer, hiker) => {
+const calculateMovedTime = (viewer, secondsToMove, wrap = false) => {
+  const newTime = new JulianDate();
+  JulianDate.addSeconds(viewer.clock.currentTime, secondsToMove, newTime);
+  const secondsAfterEnd = JulianDate.secondsDifference(newTime, viewer.clock.stopTime);
+  if (secondsAfterEnd > 0) {
+    if (wrap) {
+      JulianDate.addSeconds(viewer.clock.startTime, secondsAfterEnd, newTime);
+    } else {
+      return viewer.clock.stopTime;
+    }
+  }
+  return newTime;
+};
+
+const updateCamera = (viewer, hiker, smooth = true) => {
   const terrainHeightUnderCamera = viewer.scene.globe.getHeight(viewer.camera.positionCartographic);
   const allowedMinimumCameraHeight = terrainHeightUnderCamera + 10;
   const cameraHeight = viewer.camera.positionCartographic.height;
@@ -309,24 +323,19 @@ const updateCamera = (viewer, hiker) => {
     return;
   }
 
-  const futureTime = new JulianDate();
-  JulianDate.addSeconds(viewer.clock.currentTime, 20 * 60, futureTime);
-  const secondsAfterEnd = JulianDate.secondsDifference(futureTime, viewer.clock.stopTime);
-  if (secondsAfterEnd > 0) {
-    JulianDate.addSeconds(viewer.clock.startTime, secondsAfterEnd, futureTime);
-  }
-
-  const hikerPosition = hiker.entity.position;
-  const currentCart = Cartographic.fromCartesian(hikerPosition.getValue(viewer.clock.currentTime));
-
-  const currentHeight = viewer.scene.globe.getHeight(currentCart) || currentCart.height;
-  const realCurrentPos = Cartesian3.fromRadians(currentCart.longitude, currentCart.latitude, currentHeight);
+  const newLookAtPosition = hiker.entity.position.getValue(calculateMovedTime(viewer, smooth ? 60 : 0));
+  const newLookAtCart = Cartographic.fromCartesian(newLookAtPosition);
+  const newLookAtHeight = viewer.scene.globe.getHeight(newLookAtCart) || newLookAtCart.height;
+  Cartesian3.fromRadians(newLookAtCart.longitude, newLookAtCart.latitude, newLookAtHeight, Ellipsoid.default, newLookAtPosition);
+  Cartographic.fromCartesian(newLookAtPosition, Ellipsoid.default, newLookAtCart);
 
   let newHeading = viewer.camera.heading;
   let newTilt = CesiumMath.toDegrees(viewer.camera.pitch);
   if (viewer.clock.shouldAnimate) {
-    const futureCart = Cartographic.fromCartesian(hikerPosition.getValue(futureTime));
-    const geodesic = new EllipsoidGeodesic(currentCart, futureCart);
+    const futureTime = calculateMovedTime(viewer, 20 * 60, true);
+    const futureHikerPosition = hiker.entity.position.getValue(futureTime);
+    const futureCart = Cartographic.fromCartesian(futureHikerPosition);
+    const geodesic = new EllipsoidGeodesic(newLookAtCart, futureCart);
     let necessaryHeadingChange = geodesic.startHeading - viewer.camera.heading;
     if (necessaryHeadingChange > Math.PI) {
       necessaryHeadingChange -= 2 * Math.PI;
@@ -336,12 +345,9 @@ const updateCamera = (viewer, hiker) => {
     }
     newHeading += necessaryHeadingChange * 0.01;
 
-    const optimalCameraHeight = findOptimalCameraHeight(
-      viewer,
-      new Cartographic(currentCart.longitude, currentCart.latitude, currentHeight)
-    );
+    const optimalCameraHeight = findOptimalCameraHeight(viewer, newLookAtCart);
     if (cameraHeight && optimalCameraHeight) {
-      newTilt += (cameraHeight - optimalCameraHeight) * 0.01;
+      newTilt += (cameraHeight - optimalCameraHeight) * 0.002;
       newTilt = Math.max(newTilt, -90);
       newTilt = Math.min(newTilt, 0);
     }
@@ -349,7 +355,20 @@ const updateCamera = (viewer, hiker) => {
     newTilt = cameraHeight - allowedMinimumCameraHeight;
   }
   const newPitch = CesiumMath.toRadians(newTilt);
-  viewer.camera.lookAt(realCurrentPos, new HeadingPitchRange(newHeading, newPitch, 500));
+
+  const previousCameraPosition = viewer.camera.positionWC.clone();
+  viewer.camera.lookAt(newLookAtPosition, new HeadingPitchRange(newHeading, newPitch, 500));
+  if (smooth && viewer.clock.shouldAnimate) {
+    const smoothCameraPosition = new Cartesian3();
+    Cartesian3.lerp(previousCameraPosition, viewer.camera.positionWC, 0.1, smoothCameraPosition);
+    viewer.camera.setView({
+      destination: smoothCameraPosition,
+      orientation: {
+        heading: viewer.camera.heading,
+        pitch: viewer.camera.pitch
+      }
+    });
+  }
 };
 
 const updateSpeed = (viewer, targetTime, onAnimationStopped) => {
@@ -357,11 +376,9 @@ const updateSpeed = (viewer, targetTime, onAnimationStopped) => {
     return;
   }
   const timeDifference = JulianDate.secondsDifference(targetTime.current, viewer.clock.currentTime);
-  let targetMultiplier = timeDifference / 3;
-  const maxMultiplier = viewer.scene.globe.tilesLoaded ? 1000 : 100;
-  targetMultiplier = Math.max(targetMultiplier, -maxMultiplier);
-  targetMultiplier = Math.min(targetMultiplier, maxMultiplier);
-  viewer.clock.multiplier += (targetMultiplier - viewer.clock.multiplier) * 0.01;
+  let targetMultiplier = timeDifference * 2;
+  targetMultiplier = Math.max(Math.min(targetMultiplier, 75), -75);
+  viewer.clock.multiplier = targetMultiplier;
   if (Math.abs(targetMultiplier) < 20 || Math.abs(timeDifference) <= 10) {
     if (viewer.clock.shouldAnimate) {
       onAnimationStopped();
@@ -442,7 +459,7 @@ const jumpToTargetTime = (viewer, hiker, targetTime) => {
   if (targetTime.current) {
     viewer.clock.currentTime = targetTime.current;
     viewer.clock.shouldAnimate = true;
-    updateCamera(viewer, hiker);
+    updateCamera(viewer, hiker, false);
     viewer.clock.shouldAnimate = false;
   }
 };
