@@ -24,12 +24,14 @@ const outputMetadata = (date, title, shortTitle, reportPath) => {
       '- Cesium\n' +
       '\n' +
       'Data Attributions:\n' +
-      '- Bing Imagery\n' +
-      '- © 2025 Microsoft Corporation\n' +
-      '- Data available from the U.S. Geological Survey, © CGIAR-CSI, Produced using Copernicus data and information funded by the European Union - EU-DEM layers, Data available from Land Information New Zealand, Data available from data.gov.uk, Data courtesy Geoscience Australia\n' +
-      '- Earthstar Geographics  SIO\n' +
-      '- © 2025 Maxar\n' +
-      '- ©CNES (2025) Distribution Airbus DS\n' +
+      '- Esri\n' +
+      '- Maxar GeoEye\n' +
+      '- CNES/Airbus DS\n' +
+      '- USDA\n' +
+      '- USGS AeroGRID\n' +
+      '- IGN\n' +
+      '- GIS User Community\n' +
+      '- Earthstar Geographics SIO\n' +
       '- geodata © swisstopo\n' +
       '- basemap.at\n' +
       '- freesound.org',

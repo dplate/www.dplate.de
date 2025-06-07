@@ -3,9 +3,9 @@ import { withPrefix } from 'gatsby';
 import PropTypes from 'prop-types';
 import styled from 'styled-components';
 import {
+  ArcGisBaseMapType,
+  ArcGisMapServerImageryProvider,
   BillboardGraphics,
-  BingMapsImageryProvider,
-  BingMapsStyle,
   Cartesian3,
   Cartographic,
   CesiumTerrainProvider,
@@ -38,7 +38,6 @@ import {
 const CesiumContainer = styled.div`
   position: fixed;
   z-index: 3;
-  line-height: 0.7;
   font-size: 8px;
   box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.75);
   cursor: all-scroll;
@@ -157,7 +156,7 @@ const createGlobeRectangle = (positions) => {
   return globeRectangle;
 };
 
-const setupViewer = async (trackData, hideSwissTopo) => {
+const setupViewer = async (trackData, hideSwissTopo, baseLayerProvider) => {
   Ion.defaultAccessToken =
     'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiI2YzA0MGNiZi02N2E1LTQxZGQtYjAzNi1iNDJjYTRjNTU4NzciLCJpZCI6MTgxMSwiaWF0IjoxNTMwMjA0MjIxfQ.o1Sfgaz0-I6_tAgUIO-8RV2kw7nOB-nNupVeHwsGLj0';
 
@@ -177,13 +176,7 @@ const setupViewer = async (trackData, hideSwissTopo) => {
     scene3DOnly: true,
     msaaSamples: 4,
     showRenderLoopErrors: false,
-    baseLayer: ImageryLayer.fromProviderAsync(BingMapsImageryProvider.fromUrl(
-      'https://dev.virtualearth.net',
-      {
-        key: 'AkvC0n8biVNXoCbpiAc4p3g7S9ZHoUWvlpgcJKYQd8FhCA5sn6C8OUmhIR8IEO0X',
-        mapStyle: BingMapsStyle.AERIAL
-      }
-    ))
+    baseLayer: ImageryLayer.fromProviderAsync(baseLayerProvider)
   });
   viewer.scene.globe.depthTestAgainstTerrain = true;
   viewer.scene.globe.tileCacheSize = 1000;
@@ -245,6 +238,20 @@ const createHdRectangle = (positions) => {
   hdRectangle.north += 0.00025;
   hdRectangle.south -= 0.00025;
   return hdRectangle;
+};
+
+const createBaseLayerProvider = (reduceDetail) => {
+  return ArcGisMapServerImageryProvider.fromBasemapType(
+    ArcGisBaseMapType.SATELLITE,
+    {
+      token: 'AAPTxy8BH1VEsoebNVZXo8HurPOoBL7NDOOfQux77KRsFQLW5AIXa29VzxmYezCd6K346tLQF_ykj8y8PrOsV0JrpDzDF8_fIBQpnI3R4oFlqY73fyJiuCO3Qfqard2CnE5spi7IVFosqPbSgARw7T7cyx584x68DIpC9SHg4F3R3ny5MW6HOISQ5ATR8Og5wv1jjzOE8dXpvuxZjbOksm3gUmpysCQTWrEfGs2EP_T2JuA.AT1_L5fYNUnV'
+    }
+  ).then(provider => {
+    if (reduceDetail) {
+      provider._maximumLevel = 13
+    }
+    return provider;
+  });
 };
 
 const createSwissSatelliteProvider = (hdRectangle) => {
@@ -465,7 +472,8 @@ const jumpToTargetTime = (viewer, hiker, targetTime) => {
 };
 
 const setupMap = async (trackData, hideSwissTopo, detailMap, winter) => {
-  const viewer = await setupViewer(trackData, hideSwissTopo);
+  const baseLayerProvider = createBaseLayerProvider(Boolean(detailMap));
+  const viewer = await setupViewer(trackData, hideSwissTopo, baseLayerProvider);
   viewer.entities.add(createTrackEntity(trackData.positions, winter));
   const hdRectangle = createHdRectangle(trackData.positions);
   switch (detailMap) {
