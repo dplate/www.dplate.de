@@ -23,6 +23,7 @@ import {
   HeightReference,
   ImageryLayer,
   Ion,
+  IonImageryProvider,
   JulianDate,
   Math as CesiumMath,
   PolylineGraphics,
@@ -34,6 +35,9 @@ import {
   Viewer,
   WebMapTileServiceImageryProvider
 } from 'cesium';
+
+Ion.defaultAccessToken =
+  'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIwZWE0NjYxMC0yY2Y1LTRmZmItODI1My1iMmRiYTU4NTMyYzEiLCJpZCI6MTgxMSwiYXNzZXRzIjpbMiwxXSwiaWF0IjoxNTMwMjA0NDI1fQ.OnhSNAVYfbQ2mBqo9QXF_-VSo_UIPt2Hw1FgvSID1Nk';
 
 const CesiumContainer = styled.div`
   position: fixed;
@@ -157,9 +161,6 @@ const createGlobeRectangle = (positions) => {
 };
 
 const setupViewer = async (trackData, hideSwissTopo, baseLayerProvider) => {
-  Ion.defaultAccessToken =
-    'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiI2YzA0MGNiZi02N2E1LTQxZGQtYjAzNi1iNDJjYTRjNTU4NzciLCJpZCI6MTgxMSwiaWF0IjoxNTMwMjA0MjIxfQ.o1Sfgaz0-I6_tAgUIO-8RV2kw7nOB-nNupVeHwsGLj0';
-
   const viewer = new Viewer('cesiumContainer', {
     terrainProvider: await createTerrainProvider(hideSwissTopo),
     baseLayerPicker: false,
@@ -241,6 +242,11 @@ const createHdRectangle = (positions) => {
 };
 
 const createBaseLayerProvider = (reduceDetail) => {
+  const useBing = true;
+  if (useBing) {
+    return IonImageryProvider.fromAssetId(2)
+  }
+
   return ArcGisMapServerImageryProvider.fromBasemapType(
     ArcGisBaseMapType.SATELLITE,
     {

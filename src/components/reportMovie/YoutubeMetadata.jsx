@@ -24,9 +24,11 @@ const outputMetadata = (date, title, shortTitle, reportPath) => {
       '- Cesium\n' +
       '\n' +
       'Data Attributions:\n' +
+      '- © Microsoft Corporation\n' +
+      '- © Maxar\n' +
+      '- ©CNES Distribution Airbus DS\n' +
+      '- Bing Imagery\n' +
       '- Esri\n' +
-      '- Maxar GeoEye\n' +
-      '- CNES/Airbus DS\n' +
       '- USDA\n' +
       '- USGS AeroGRID\n' +
       '- IGN\n' +
