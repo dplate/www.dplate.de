@@ -5,5 +5,5 @@ public
 .idea
 .vscode
 work/tinify-key.js
-work/piper/de_DE-thorsten-high.onnx
-work/piper/de_DE-thorsten-high.onnx.json
+work/piper/*.onnx
+work/piper/*.onnx.json
