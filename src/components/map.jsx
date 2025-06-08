@@ -250,6 +250,7 @@ const createBaseLayerProvider = (reduceDetail) => {
   return ArcGisMapServerImageryProvider.fromBasemapType(
     ArcGisBaseMapType.SATELLITE,
     {
+      // Token expires at 2026-06-07, must be recreated at https://location.arcgis.com/credentials/ (user "Alpinfunk")
       token: 'AAPTxy8BH1VEsoebNVZXo8HurPOoBL7NDOOfQux77KRsFQLW5AIXa29VzxmYezCd6K346tLQF_ykj8y8PrOsV0JrpDzDF8_fIBQpnI3R4oFlqY73fyJiuCO3Qfqard2CnE5spi7IVFosqPbSgARw7T7cyx584x68DIpC9SHg4F3R3ny5MW6HOISQ5ATR8Og5wv1jjzOE8dXpvuxZjbOksm3gUmpysCQTWrEfGs2EP_T2JuA.AT1_L5fYNUnV'
     }
   ).then(provider => {
