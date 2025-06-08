@@ -7,3 +7,4 @@ public
 work/tinify-key.js
 work/piper/*.onnx
 work/piper/*.onnx.json
+work/Orpheus-FastAPI/
