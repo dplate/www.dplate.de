@@ -17,8 +17,8 @@ const Background = styled.img`
 
 const Title = styled.h1`
   position: absolute;
-  left: 3vw;
-  right: 3vw;
+  left: 3cqw;
+  right: 3cqw;
   line-height: initial;
   text-shadow: 2px 2px 4px #000000;
   opacity: 0.9;
@@ -36,7 +36,6 @@ const Title3D = ({ reportPath, title, offsetY, fontSize, width, height, align = 
   const containerRef = useRef(null);
 
   const [currentYOffset, setCurrentYOffset] = useState(0);
-  const [initialYOffset, setInitalYOffset] = useState(null);
 
   useEffect(() => {
     if (containerRef.current) {
@@ -50,9 +49,6 @@ const Title3D = ({ reportPath, title, offsetY, fontSize, width, height, align = 
         setCurrentYOffset(containerRef.current.getBoundingClientRect().top);
       }
     };
-    if (containerRef.current) {
-      setInitalYOffset(containerRef.current.offsetTop);
-    }
     window.addEventListener('scroll', handleScroll, { passive: true });
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
@@ -61,19 +57,23 @@ const Title3D = ({ reportPath, title, offsetY, fontSize, width, height, align = 
   if (process.env.NODE_ENV === `production`) {
     backgroundFile = title.split(' ').join('-').toLowerCase() + '_' + backgroundFile;
   }
-  const yMovement = initialYOffset - currentYOffset;
+  const yMovement = currentYOffset > 0 ? 0 : -currentYOffset;
   return (
-    <Wrapper id="title3d" ref={containerRef} style={{ textAlign: align }}>
+    <Wrapper id="title3d" ref={containerRef} style={{
+      textAlign: align,
+      maxWidth: '1920px',
+      containerType: 'inline-size'
+    }}>
       <Background
         src={'/photos' + reportPath + '/' + backgroundFile}
-        style={{ top: yMovement / 20 + 'vh' }}
+        style={{ top: yMovement / 2 + 'px' }}
         width={width}
         height={height}
       />
       <Title
         style={{
-          top: 'calc(' + offsetY + 'vw + ' + yMovement / 40 + 'vh)',
-          fontSize: fontSize + 'vw'
+          top: 'calc(' + offsetY + 'cqw + ' + yMovement / 4 + 'px)',
+          fontSize: fontSize + 'cqw'
         }}
       >
         {title}
