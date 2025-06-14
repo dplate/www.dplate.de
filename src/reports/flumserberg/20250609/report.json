@@ -1,0 +1,612 @@
+[
+  {
+    "destination": "flumserberg",
+    "date": "d20250609",
+    "type": "hike",
+    "track": true,
+    "detailMap": "swiss",
+    "shortTitle": "Spitzmeilenhütte",
+    "title": "Maschgenkamm - Spitzmeilenhütte",
+    "title3d": {
+      "offsetY": 1,
+      "fontSize": 6,
+      "align": "left",
+      "width": 1920,
+      "height": 471
+    },
+    "movie": "NCgb-UkF6NU",
+    "intro": "An diesem Pfingstmontag wollte ich ein paar Lücken rund um Flumserberg schließen, in dem ich vom Maschgenkamm zur Spitzmeilenhütte laufen wollte. Da es diesen Winter nicht viel Schnee gab, konnte ich diese Wanderung bereits Anfang Juni unternehmen.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Bergjet Flumserberg",
+            "date": "2025-06-09T08:29:23.000+02:00",
+            "width": 1823,
+            "height": 1080
+          }
+        ],
+        "text": "Mein Auto stellte ich auf dem kostenpflichtigen (ca. 7CHF) Parkplatz in Tannenboden ab und bezahlte für die Bergfahrt mit der Gondelbahn Bergjet mit Halbtax 13CHF (sonst 26CHF).<br />Hier sitze ich bereits um 8:30 in der Bahn und blicke zurück nach Tannenboden. Noch war hier alles ausgestorben."
+      },
+      {
+        "photos": [
+          {
+            "name": "002",
+            "alt": "Spielteich Maschgenkamm",
+            "date": "2025-06-09T08:43:45.000+02:00",
+            "width": 1920,
+            "height": 953
+          }
+        ],
+        "text": "Auch am kleinen Spielteich auf dem Maschgenkamm war es noch leer. Im Hintergrund ist der markante Spitzmeilen zu sehen, zu dessen Fuß mich meine Füße heute bringen sollten."
+      },
+      {
+        "photos": [
+          {
+            "name": "003",
+            "alt": "Aufstieg zum Ziger",
+            "date": "2025-06-09T08:50:19.000+02:00",
+            "width": 1920,
+            "height": 1074
+          }
+        ],
+        "text": "Bis zur Zigerfurgglen kann man auf einfachen Spazierwegen links oder rechts am Ziger vorbeilaufen. Oder man wählt den interessanteren Weg oben rüber, auf dem ich mir hier jetzt befinde."
+      },
+      {
+        "photos": [
+          {
+            "name": "004",
+            "alt": "Gratweg Ziger",
+            "date": "2025-06-09T08:53:23.000+02:00",
+            "width": 1508,
+            "height": 1080
+          }
+        ],
+        "text": "Schön ging es vom Ziger dann wieder hinab zur Zigerfurgglen."
+      },
+      {
+        "photos": [
+          {
+            "name": "005",
+            "alt": "Blick zur Seebenalp",
+            "date": "2025-06-09T08:58:20.000+02:00",
+            "width": 1920,
+            "height": 925
+          }
+        ],
+        "text": "Blick nach Norden zur Seebenalp. Ein wenig des Walensees und der Churfirsten dahinter ist auch zu sehen. Die wenigen Restwolken lösten sich im Laufe des Tages auf, aber es blieb leider den ganzen Tag recht diesig, was an der Asche der Waldbrände in Kanada lag."
+      },
+      {
+        "photos": [
+          {
+            "name": "006",
+            "alt": "Bergweg Leist",
+            "date": "2025-06-09T09:17:12.000+02:00",
+            "width": 1595,
+            "height": 1080
+          }
+        ],
+        "text": "Von der Zigerfurgglen geht es eigentlich ohne große Steigungen den Hang entlang zur Spitzmeilenhütte. Ich hatte aber vor beim Hinweg ein Teil der <a href='/alpine/flumserberg/20150726' target='_blank'>7-Gipfel-Wanderung</a> mitzunehmen. Diese führt über mehrere Gipfel, wobei der Ziger bereits der erste war. Hier war ich nun auf dem Aufstieg zum zweiten Gipfel, dem Leist. Von der Zigerfurgglen sind es gut 200m steiler Aufstieg, zum Teil auch etwas ausgesetzt."
+      },
+      {
+        "photos": [
+          {
+            "name": "007",
+            "alt": "Wanderweg Leist",
+            "date": "2025-06-09T09:28:45.000+02:00",
+            "width": 1906,
+            "height": 1080
+          }
+        ],
+        "text": "Hier war ich dann schon fast oben auf dem Leist, die Wolkenschwaden sorgten für eine mystische Stimmung. Es war gerade erst 9:30 und es kam mir schon ein Wanderer entgegen."
+      },
+      {
+        "photos": [
+          {
+            "name": "008",
+            "alt": "Gipfelgrat Leist",
+            "date": "2025-06-09T09:31:44.000+02:00",
+            "width": 1920,
+            "height": 625
+          }
+        ],
+        "text": "Die letzten Meter führten über diesen schönen Grat, hier der Blick zurück."
+      },
+      {
+        "photos": [
+          {
+            "name": "009",
+            "alt": "Sesselbahn Leist",
+            "date": "2025-06-09T09:32:47.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Auf den Leist führt im Winter eine Sesselbahn, deshalb kenne ich diesen Berg ziemlich gut."
+      },
+      {
+        "photos": [
+          {
+            "name": "010",
+            "alt": "Panorama Leist",
+            "date": "2025-06-09T09:38:49.000+02:00",
+            "width": 1920,
+            "height": 797
+          }
+        ],
+        "text": "Blick vom Leist nach Süden. Mein weiterer Weg führte rechts herum über die Berge und dann unterhalb des steilen Bergs in der  Bergmitte zum Spitzmeilen links."
+      },
+      {
+        "photos": [
+          {
+            "name": "011",
+            "alt": "Abstieg vom Leist",
+            "date": "2025-06-09T09:40:03.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "012",
+            "alt": "Zerklüftetes Gelände",
+            "date": "2025-06-09T09:40:48.000+02:00",
+            "width": 1920,
+            "height": 1020
+          },
+          {
+            "name": "013",
+            "alt": "7-Gipfel-Wanderung",
+            "date": "2025-06-09T09:47:17.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Vom Leist ging es jetzt nur 60 Höhenmeter runter. Das ist der schönste Abschnitt der Wanderung, denn er führt durch zerklüftete Felsen hinüber zum Rainissalts. Dabei ist der Weg selbst aber einfach."
+      },
+      {
+        "photos": [
+          {
+            "name": "014",
+            "alt": "Sächsmoor",
+            "date": "2025-06-09T09:50:28.000+02:00",
+            "width": 1920,
+            "height": 938
+          }
+        ],
+        "text": "Blick zurück zum Leist rechts und dem Sächsmoor links."
+      },
+      {
+        "photos": [
+          {
+            "name": "015",
+            "alt": "Polsternelke",
+            "date": "2025-06-09T09:56:26.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Die ersten wenigen Blümchen nach der Schneeschmelze musste natürlich gleich fotografiert werden."
+      },
+      {
+        "photos": [
+          {
+            "name": "016",
+            "alt": "Alp Mulfeer",
+            "date": "2025-06-09T09:58:21.000+02:00",
+            "width": 1920,
+            "height": 823
+          }
+        ],
+        "text": "Zum Rainissalts ging es dann wieder 80m hinauf. Das letzte Stück des Wegs war etwas weggerutscht und damit schwieriger.<br />Hier der Blick wieder zurück zum Leist rechts im Bild."
+      },
+      {
+        "photos": [
+          {
+            "name": "017",
+            "alt": "Schneefeld auf Rainissalts",
+            "date": "2025-06-09T10:04:43.000+02:00",
+            "width": 1920,
+            "height": 805
+          }
+        ],
+        "text": "Der eigentliche Wanderweg geht am Gipfel des Rainissalts nur vorbei, ich habe aber noch den Abstecher zum höchsten Punkt gemacht. Der Schnee hier auf dem Bild war nur unterhalb des Gipfels und musste ich nicht überqueren. Dahinter ist wieder der Leist zu sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "018",
+            "alt": "Aussicht vom Rainissalts",
+            "date": "2025-06-09T10:08:10.000+02:00",
+            "width": 1920,
+            "height": 765
+          }
+        ],
+        "text": "Blick vom Rainissalts zum Walensee und den Churfirsten."
+      },
+      {
+        "photos": [
+          {
+            "name": "019",
+            "alt": "Murgtal",
+            "date": "2025-06-09T10:08:55.000+02:00",
+            "width": 1521,
+            "height": 1080
+          }
+        ],
+        "text": "Vom Gipfel kann man auch in das urige Murgtal schauen, in dem man die schöne <a href='/alpine/glarus/20160709' target='_blank'>Murgsee-Wanderung</a> machen kann.<br />Ganz im Hintergrund kann man im Dunst den fast 3000m hohen Glärnisch sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "020",
+            "alt": "Steiler Mütschüelergulmen",
+            "date": "2025-06-09T10:27:04.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Nach 50m Abstieg vom Rainissalts ging es gleich danach wieder rauf. Nun über 100 Höhenmeter auf den Mütschüelergulmen (oder kurz Gulmen). Der Weg ist recht steil, aber nicht gefährlich. Ein bisschen schwindelfrei sollte man aber schon sein."
+      },
+      {
+        "photos": [
+          {
+            "name": "021",
+            "alt": "Blick vom Gulmen",
+            "date": "2025-06-09T10:32:20.000+02:00",
+            "width": 1752,
+            "height": 1080
+          }
+        ],
+        "text": "Blick zurück. Links der flache Rainissalts und rechts der Leist."
+      },
+      {
+        "photos": [
+          {
+            "name": "022",
+            "alt": "Mürtschenstock",
+            "date": "2025-06-09T10:32:50.000+02:00",
+            "width": 1920,
+            "height": 917
+          }
+        ],
+        "text": "Ausblick über das Murgtal hinweg zum <a href='/alpine/glarus/20230527' target='_blank'>Mürtschenstock</a>."
+      },
+      {
+        "photos": [
+          {
+            "name": "023",
+            "alt": "Gipfelwanderung Flumserberg",
+            "date": "2025-06-09T10:33:18.000+02:00",
+            "width": 1920,
+            "height": 975
+          }
+        ],
+        "text": "Auf dem Gipfel des Gulmen kam ich um 10:30 an. Mit 2300m Höhe war dies auch der höchste Punkt meiner Wanderung... aber bei weitem noch nicht das Ziel. Denn wie man links im Bild sieht, war der Spitzmeilen immer noch weit entfernt."
+      },
+      {
+        "photos": [
+          {
+            "name": "024",
+            "alt": "Sächserseeli",
+            "date": "2025-06-09T10:49:52.000+02:00",
+            "width": 1920,
+            "height": 878
+          }
+        ],
+        "text": "Der Abstieg vom Gulmen geht über eine steile Wiese hinab. Hier konnte ich hinab zum <a href='/alpine/flumserberg/20210710' target='_blank'>Sächserseeli</a> schauen, an dem einer der anderen Wege zur Spitzmeilenhütte vorbei führt."
+      },
+      {
+        "photos": [
+          {
+            "name": "025",
+            "alt": "Steiler Grashang vom Gulmen",
+            "date": "2025-06-09T10:54:02.000+02:00",
+            "width": 1920,
+            "height": 1014
+          }
+        ],
+        "text": "Hier der Blick zurück zum steilen Grashang des Gulmen. 100 Höhenmeter ging es von dort oben hier hinab."
+      },
+      {
+        "photos": [
+          {
+            "name": "026",
+            "alt": "Moos-Insel auf Schiefer",
+            "date": "2025-06-09T10:59:38.000+02:00",
+            "width": 1080,
+            "height": 1080
+          }
+        ],
+        "text": "Lustige kreisrunde Blumen- und Moosinsel in mitten eines Schieferfelds."
+      },
+      {
+        "photos": [
+          {
+            "name": "027",
+            "alt": "Wanderweg Spitzmeilen",
+            "date": "2025-06-09T11:23:35.000+02:00",
+            "width": 1669,
+            "height": 1080
+          }
+        ],
+        "text": "Nach der wenig bemerkenswerten Überschreitung des Hoch Camatsch hatte ich nun die 7-Gipfel-Wanderung verlassen und war jetzt auf dem obersten Weg zur Spitzmeilenhütte.<br />Hier gab es viele Murmeltiere, aber leider waren sie sehr scheu. Sonst gäbe es hier ein schönes Foto mit einem Murmeltier und dem Spitzmeilen."
+      },
+      {
+        "photos": [
+          {
+            "name": "028",
+            "alt": "Blümchen mit Bergsee",
+            "date": "2025-06-09T11:45:14.000+02:00",
+            "width": 1628,
+            "height": 1080
+          },
+          {
+            "name": "029",
+            "alt": "Einfacher Wanderweg",
+            "date": "2025-06-09T11:46:55.000+02:00",
+            "width": 1920,
+            "height": 990
+          },
+          {
+            "name": "030",
+            "alt": "Hochebene Fursch",
+            "date": "2025-06-09T11:54:42.000+02:00",
+            "width": 1920,
+            "height": 802
+          }
+        ],
+        "text": "Der obere Weg zur Spitzmeilenhütte erreichte dann den mittleren Weg. Dieser ist viel begangen und deshalb auch breiter. Er führte nun sehr schön über die flache Hochebene von Fursch mit vielen kleinen Seen."
+      },
+      {
+        "photos": [
+          {
+            "name": "031",
+            "alt": "Madseeli mit Spitzmeilen",
+            "date": "2025-06-09T12:22:37.000+02:00",
+            "width": 1610,
+            "height": 1080
+          }
+        ],
+        "text": "Vor der Spitzmeilenhütte entschied ich mich wieder für einen Extraabstecher. Diesmal zum Madseeli, der 100 Höhenmeter oberhalb der Hütte liegt. Dieser Aufstieg zerrte langsam an meinen Kräften, aber schließlich erreichte ich um 12:30 den knapp 2200m hohen See unterhalb des Spitzmeilen. Jetzt war es Zeit für eine längere Mittagspause."
+      },
+      {
+        "photos": [
+          {
+            "name": "032",
+            "alt": "Steinmännchen mit Spitzmeilenhütte",
+            "date": "2025-06-09T12:46:12.000+02:00",
+            "width": 1888,
+            "height": 1080
+          }
+        ],
+        "text": "Vom Madseeli ging es schön an einem Bach entlang hinab zur Spitzmeilenhütte, die hier erstmals links vom Steinmännchen auftauchte."
+      },
+      {
+        "photos": [
+          {
+            "name": "033",
+            "alt": "Bach mit Spitzmeilenhütte",
+            "date": "2025-06-09T12:52:43.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Ich entschied nicht ganz zur Hütte zu gehen, um mir 20 Höhenmeter zu sparen. Stattdessen querte ich den Bach im roten Gestein hier."
+      },
+      {
+        "photos": [
+          {
+            "name": "034",
+            "alt": "Wanderung Spitzmeilenhütte",
+            "date": "2025-06-09T12:55:04.000+02:00",
+            "width": 1920,
+            "height": 890
+          }
+        ],
+        "text": "Noch einmal der Blick zur Spitzmeilenhütte."
+      },
+      {
+        "photos": [
+          {
+            "name": "035",
+            "alt": "Tiefblick in Schilstal",
+            "date": "2025-06-09T12:57:09.000+02:00",
+            "width": 1920,
+            "height": 991
+          }
+        ],
+        "text": "Die Spitzmeilenhütte liegt steil oberhalb des Schilstals, von dem aus ich mal eine <a href='/alpine/flumserberg/20211002' target='_blank'>Wanderung zum Spitzmeilen</a> unternommen hatte."
+      },
+      {
+        "photos": [
+          {
+            "name": "036",
+            "alt": "Berghütte an Felskante",
+            "date": "2025-06-09T12:58:04.000+02:00",
+            "width": 1702,
+            "height": 1080
+          }
+        ],
+        "text": "Blick zurück zur Spitzmeilenhütte und der Abbruchkante zum Schilstal."
+      },
+      {
+        "photos": [
+          {
+            "name": "037",
+            "alt": "Schneeschmelze",
+            "date": "2025-06-09T13:05:05.000+02:00",
+            "width": 1530,
+            "height": 1080
+          }
+        ],
+        "text": "Überall plätscherte das Wasser durch den roten Fels. Hier direkt aus einem Schneefeld heraus."
+      },
+      {
+        "photos": [
+          {
+            "name": "038",
+            "alt": "Bergbach an Alp Fursch",
+            "date": "2025-06-09T13:36:06.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Für den Rückweg entschied ich mich über die Alp Fursch zu gehen, denn dies ist der direkteste Weg. Von der Spitzmeilenhütte ging es knapp 300 Höhenmeter dort hin hinab. Die Alp Fursch durchquert zwei rauschende Bäche. Es gibt dort auch eine kleine Einkehrmöglichkeit."
+      },
+      {
+        "photos": [
+          {
+            "name": "039",
+            "alt": "Fahrweg zur Alp Fursch",
+            "date": "2025-06-09T13:42:17.000+02:00",
+            "width": 1730,
+            "height": 1080
+          }
+        ],
+        "text": "Ab der Alp Fursch war ich nun auf einem Fahrweg unterwegs. Hier der Blick zurück. Der Nachteil von diesem direktem Weg war, dass es nun wieder etwas bergauf ging... und es war inzwischen recht warm."
+      },
+      {
+        "photos": [
+          {
+            "name": "040",
+            "alt": "Skilift Plattis im Sommer",
+            "date": "2025-06-09T14:00:03.000+02:00",
+            "width": 1920,
+            "height": 963
+          }
+        ],
+        "text": "Der Fahrweg geht zur Alp Panüöl. Dort bin ich aber nicht ganz hin, sondern hier beim Skilift Plattis abgebogen. Wieder der Blick zurück. Denn ich wollte nicht über die Prodalp zurücklaufen, sondern schöner über den Prodkamm. Der Nachteil dieser Variante: es standen wieder knapp 200 Höhenmeter Aufstieg an. Deshalb machte ihr hier erst mal noch eine Pause im Gras."
+      },
+      {
+        "photos": [
+          {
+            "name": "041",
+            "alt": "Wanderweg Panüöl",
+            "date": "2025-06-09T14:19:29.000+02:00",
+            "width": 1869,
+            "height": 1080
+          }
+        ],
+        "text": "Die Alp Panüöl querte ich hier oberhalb."
+      },
+      {
+        "photos": [
+          {
+            "name": "042",
+            "alt": "Aufstieg Maschgenlücke",
+            "date": "2025-06-09T14:28:56.000+02:00",
+            "width": 1920,
+            "height": 901
+          },
+          {
+            "name": "043",
+            "alt": "Gasthaus Maschgenlücke",
+            "date": "2025-06-09T14:32:46.000+02:00",
+            "width": 1746,
+            "height": 1080
+          }
+        ],
+        "text": "Der Aufstieg zur Maschgenlücke (zwischen Maschgenkamm und Prodkamm) war dann doch schneller erledigt als befürchtet.<br />Im Hintergrund ist der Maschgenkamm zu sehen, wo ich meine Wanderung begonnen hatte. Man könnte natürlich von hier auch die paar Meter hinaufsteigen und dann mit der Bahn wieder runter fahren..."
+      },
+      {
+        "photos": [
+          {
+            "name": "044",
+            "alt": "Alpenfloraweg Flumserberg",
+            "date": "2025-06-09T14:39:05.000+02:00",
+            "width": 1920,
+            "height": 712
+          },
+          {
+            "name": "045",
+            "alt": "Panoramaweg Prodkamm",
+            "date": "2025-06-09T14:40:10.000+02:00",
+            "width": 1920,
+            "height": 950
+          },
+          {
+            "name": "046",
+            "alt": "Wanderweg Maschgenkamm - Prodkamm",
+            "date": "2025-06-09T14:44:37.000+02:00",
+            "width": 1920,
+            "height": 813
+          }
+        ],
+        "text": "Ich lief stattdessen den schön angelegten Alpenfloraweg zum Prodkamm weiter. Hier waren natürlich jetzt einige Spaziergänger unterwegs."
+      },
+      {
+        "photos": [
+          {
+            "name": "047",
+            "alt": "Prodkamm im Sommer",
+            "date": "2025-06-09T14:49:31.000+02:00",
+            "width": 1920,
+            "height": 677
+          }
+        ],
+        "text": "Recht schnell erreichte ich den Prodkamm gegen 15:00. Am Prodkamm sind im Sommer viele Downhill-Biker unterwegs, denn es gibt einige schön angelegt Strecken."
+      },
+      {
+        "photos": [
+          {
+            "name": "048",
+            "alt": "Aussicht Walensee mit Churfirsten",
+            "date": "2025-06-09T15:01:11.000+02:00",
+            "width": 1920,
+            "height": 1017
+          }
+        ],
+        "text": "Aussicht vom Prodkamm hinab zum Walensee und den Churfirsten. Von nun an ging es für mich aber endlich nur noch runter."
+      },
+      {
+        "photos": [
+          {
+            "name": "049",
+            "alt": "Windmessungsmast Flumserberg",
+            "date": "2025-06-09T15:14:00.000+02:00",
+            "width": 1759,
+            "height": 1080
+          }
+        ],
+        "text": "Überraschend schlecht ausgezeichnet führt der Wanderweg vom Prodkamm nach Chrüz über die Skipiste hinab. Der hohe Mast ist ein Windmessungsmast, weil dort eine Windkraftanlage geplant ist."
+      },
+      {
+        "photos": [
+          {
+            "name": "050",
+            "alt": "Spazierweg Chrüz",
+            "date": "2025-06-09T15:40:24.000+02:00",
+            "width": 1587,
+            "height": 1080
+          }
+        ],
+        "text": "Nach einer halben Stunde Abstieg vom Prodkamm erreichte ich Chrüz. Von hier aus ging es nur noch flach über die Wiesen zurück nach Tannenboden. Deshalb höchste Zeit auf die Sandalen zu wechseln."
+      },
+      {
+        "photos": [
+          {
+            "name": "051",
+            "alt": "Rodelbahn Floomzer",
+            "date": "2025-06-09T15:54:04.000+02:00",
+            "width": 1448,
+            "height": 1080
+          }
+        ],
+        "text": "Die Sommerrodenbahn Floomzer war seltsamerweise nicht in Betrieb. Nach der langen Schlange an der Bergstation bei Chrüz zu deuten gab es vermutlich einen Defekt."
+      },
+      {
+        "photos": [
+          {
+            "name": "052",
+            "alt": "Flumserberg Tannenboden",
+            "date": "2025-06-09T16:01:02.000+02:00",
+            "width": 1753,
+            "height": 1080
+          }
+        ],
+        "text": "Den (nun vollen) Parkplatz bei Tannenboden erreichte ich schließlich kurz nach 16:00 und damit beendete ich meine Wanderung."
+      }
+    ],
+    "outro": "Fazit: Viele Teile der Wanderung kannte ich bereits, aber die schöne Hochfläche oberhalb von Fursch war neu für mich. Die 900 Meter Aufstieg der Runde waren zwar nicht sehr viele, aber über den ganzen Tag verteilt schon anstrengend. Auch die 20km und 1500m Abstieg gingen in die Beine. Es gibt aber viele Möglichkeiten die Wanderung kürzer oder einfacherer zu gestalten.<br />Schade war, dass die Sicht an diesem Tag nicht klarer war, sonst war das Wetter aber perfekt."
+  }
+]
