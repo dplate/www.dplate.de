@@ -7,7 +7,14 @@
     "detailMap": "swiss",
     "shortTitle": "Alvier",
     "title": "Palfries - Alvier",
-    "movie": "OkVusaBq5Lw",
+    "title3d": {
+      "offsetY": 1,
+      "fontSize": 8.5,
+      "align": "right",
+      "width": 1920,
+      "height": 417
+    },
+    "movie": "2K547dnWXao",
     "intro": "Nach einem August, bei dem in den Bergen eher suboptimales Wetter war, ermöglichte dieser erste September-Sonntag endlich wieder eine Tour. <br />\nAls Ziel wählte ich den Alvier: ein 2300m hoher Gipfel, der zwischen Rheintal und Walensee liegt.",
     "landmarks": [
       {
@@ -119,7 +126,7 @@
           }
         ],
         "videos": [],
-        "text": "Weiter geht es über sehr schöne Wiesen Richtung Berghaus Palfries, welches ich aber oberhalb umgangen habe. Neben der Straße ist das Berghaus auch über eine Seilbahn vom Tal aus erreichbar. Mehr Infos <a href=\"https://www.seilbahn-palfries.ch/\" onclick=\"this.target='_blank';\">hier</a>."
+        "text": "Weiter geht es über sehr schöne Wiesen Richtung Berghaus Palfries, welches ich aber oberhalb umgangen habe. Neben der Straße ist das Berghaus auch über eine Seilbahn vom Tal aus erreichbar. <span data-silent>Mehr Infos <a href=\"https://www.seilbahn-palfries.ch/\" onclick=\"this.target='_blank';\">hier</a>.</span>"
       },
       {
         "photos": [
@@ -216,7 +223,7 @@
         "photos": [
           {
             "name": "017",
-            "alt": "Sepentinen mit Walensee",
+            "alt": "Serpentinen mit Walensee",
             "date": "2014-09-07T10:23:15.000+02:00",
             "width": 720,
             "height": 1080
@@ -619,7 +626,7 @@
           }
         ],
         "videos": [],
-        "text": "Bonusmaterial: Mein nagelneues Auto auf der Abfahrt in Tal. 😃"
+        "text": "Zwischenhalt bei der Abfahrt ins Tal. 😃"
       }
     ],
     "outro": "Fazit: Der Alvier ist ein klasse Gipfel mit (zumindest bei solch einem Wetter) super Tiefblick. Die Wanderung ist nicht besonders lang, aber trotzdem recht anspruchsvoll. Überrascht hat mich, wie wenig begangen die Wege waren."

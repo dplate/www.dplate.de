@@ -34,7 +34,8 @@ const createSound = (audioContext, audioBuffer) => {
         gainNode.gain.value = gain;
       }
     },
-    isPlaying: () => Boolean(source)
+    isPlaying: () => Boolean(source),
+    getDuration: () => audioBuffer.duration,
   };
   sound.play = (restart = false) => {
     if (!source || (restart && sound.stop())) {
@@ -58,8 +59,11 @@ const setupAudio = () => {
   const sounds = [];
 
   const audio = {
-    loadInstanced: async (name) => {
-      const response = await fetch('/assets/sounds/' + name + '.mp3');
+    loadInstanced: async (path) => {
+      const response = await fetch(path);
+      if (!response.ok) {
+        return null;
+      }
       const buffer = await response.arrayBuffer();
       const audioBuffer = await audioContext.decodeAudioData(buffer);
       return {
@@ -71,8 +75,11 @@ const setupAudio = () => {
       };
     }
   };
-  audio.load = async (name) => {
-    const instanced = await audio.loadInstanced(name);
+  audio.load = async (path) => {
+    const instanced = await audio.loadInstanced(path);
+    if (!instanced) {
+      return null;
+    }
     return instanced.addInstance();
   };
 

@@ -1,7 +1,6 @@
 import PropTypes from 'prop-types';
 import { useRef } from 'react';
 import { useEffect, useState, useMemo } from 'react';
-import setupAudio from '../../utils/setupAudio';
 
 const MINIMAL_STEP_NOISE_TIME = 10 * 60 * 1000;
 
@@ -301,7 +300,7 @@ const playEnvironmentSounds = (height, sounds) => {
   });
 };
 
-const Soundtrack = ({ phaseName, track, time }) => {
+const Soundtrack = ({ audio, phaseName, track, time }) => {
   const timestamp = new Date(time).getTime();
 
   const [sounds, setSounds] = useState(null);
@@ -316,27 +315,26 @@ const Soundtrack = ({ phaseName, track, time }) => {
   useEffect(() => {
     (async () => {
       if (phaseName === 'introScroll' && !sounds) {
-        const audio = setupAudio();
         const sounds = {
-          arrival: await audio.load('arrival'),
-          departure: await audio.load('departure'),
-          photo: await audio.load('photo'),
-          stepsForest: await audio.load('stepsForest'),
-          stepsGrass: await audio.load('stepsGrass'),
-          stepsConcrete: await audio.load('stepsConcrete'),
-          stepsGravel: await audio.load('stepsGravel'),
-          stepsRock: await audio.load('stepsRock'),
-          stepsFineGravel: await audio.load('stepsFineGravel')
+          arrival: await audio.load('/assets/sounds/arrival.mp3'),
+          departure: await audio.load('/assets/sounds/departure.mp3'),
+          photo: await audio.load('/assets/sounds/photo.mp3'),
+          stepsForest: await audio.load('/assets/sounds/stepsForest.mp3'),
+          stepsGrass: await audio.load('/assets/sounds/stepsGrass.mp3'),
+          stepsConcrete: await audio.load('/assets/sounds/stepsConcrete.mp3'),
+          stepsGravel: await audio.load('/assets/sounds/stepsGravel.mp3'),
+          stepsRock: await audio.load('/assets/sounds/stepsRock.mp3'),
+          stepsFineGravel: await audio.load('/assets/sounds/stepsFineGravel.mp3')
         };
         await Promise.all(
           environmentNoises.map(async (environmentNoise) => {
-            sounds[environmentNoise.name] = await audio.loadInstanced(environmentNoise.name);
+            sounds[environmentNoise.name] = await audio.loadInstanced(`/assets/sounds/${environmentNoise.name}.mp3`);
           })
         );
         setSounds(sounds);
       }
     })();
-  }, [phaseName, sounds]);
+  }, [audio, phaseName, sounds]);
 
   const stepNoises = useMemo(() => {
     if (sounds) {

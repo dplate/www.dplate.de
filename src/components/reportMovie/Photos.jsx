@@ -2,8 +2,6 @@ import React, { Fragment } from 'react';
 import PropTypes from 'prop-types';
 import styled from 'styled-components';
 
-const Landmark = styled.div``;
-
 const Photo = styled.img.attrs(({ opacity }) => ({
   style: { opacity }
 }))`
@@ -51,26 +49,18 @@ const renderPhoto = (reportPath, visiblePhotoName, photo, index) => {
   );
 };
 
-const Landmarks = ({ landmarks, reportPath, visiblePhotoName }) =>
-  landmarks.map((landmark, index) => (
-    <Landmark key={index} className="landmark">
-      {landmark.photos.map((photo, photoIndex) => renderPhoto(reportPath, visiblePhotoName, photo, photoIndex))}
-    </Landmark>
-  ));
+const Photos = ({ photos, reportPath, visiblePhotoName }) =>
+  photos.map((photo, photoIndex) => renderPhoto(reportPath, visiblePhotoName, photo, photoIndex));
 
-Landmarks.propTypes = {
-  landmarks: PropTypes.arrayOf(
+Photos.propTypes = {
+  photos: PropTypes.arrayOf(
     PropTypes.shape({
-      photos: PropTypes.arrayOf(
-        PropTypes.shape({
-          name: PropTypes.string.isRequired,
-          alt: PropTypes.string
-        })
-      ).isRequired
+      name: PropTypes.string.isRequired,
+      alt: PropTypes.string
     })
   ).isRequired,
   reportPath: PropTypes.string.isRequired,
   visiblePhotoName: PropTypes.string
 };
 
-export default Landmarks;
+export default Photos;

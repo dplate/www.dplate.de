@@ -3,7 +3,7 @@ import { graphql } from 'gatsby';
 import styled from 'styled-components';
 import formatDate from '../utils/formatDate.js';
 import AnimatedTitle from '../components/AnimatedTitle.jsx';
-import Landmarks from '../components/reportMovie/Landmarks.jsx';
+import Photos from '../components/reportMovie/Photos.jsx';
 import Logo from '../components/reportMovie/Logo.jsx';
 import Curtain from '../components/reportMovie/Curtain.jsx';
 import HeightGraph from '../components/reportMovie/HeightGraph.jsx';
@@ -11,6 +11,7 @@ import YoutubeMetadata from '../components/reportMovie/YoutubeMetadata.jsx';
 import Soundtrack from '../components/reportMovie/Soundtrack.jsx';
 import loadTrack from '../utils/loadTrack.js';
 import Summary from '../components/reportMovie/Summary.jsx';
+import setupAudio from '../utils/setupAudio';
 const Map = React.lazy(() => import('../components/Map.jsx'));
 
 const Movie = styled.div`
@@ -20,54 +21,53 @@ const Movie = styled.div`
   color: white;
 `;
 
-const photoDuration = 5000;
+const minPhotoDuration = 5;
+
+const loadVoiceOver = async (audio, reportPath, name) => {
+  const path = `/voiceOver${reportPath}/${name}.ogg`;
+  return await audio.load(path);
+};
 
 const getReportPath = (destination, date) => {
   return '/' + destination + '/' + date.substring(1);
 };
 
-const findNextPhoto = (landmarks, currentPhoto) => {
-  for (let landmarkIndex = 0; landmarkIndex < landmarks.length; landmarkIndex++) {
-    const photos = landmarks[landmarkIndex].photos;
-    for (let photoIndex = 0; photoIndex < photos.length; photoIndex++) {
-      if (photos[photoIndex] === currentPhoto) {
-        if (photos[photoIndex + 1]) {
-          return photos[photoIndex + 1];
-        } else if (landmarks[landmarkIndex + 1]) {
-          return landmarks[landmarkIndex + 1].photos[0];
-        }
-      }
-    }
-  }
-  return undefined;
+const findNextPhoto = (photos, currentPhoto) => {
+  return photos[photos.indexOf(currentPhoto) + 1];
 };
 
-const nextPhase = (phase, setPhase, nextPhoto, setNextPhoto, landmarks) => {
+const nextPhase = async (audio, reportPath, phase, setPhase, nextPhoto, setNextPhoto, photos) => {
   switch (phase.name) {
     case 'loading':
       setPhase({ name: 'intro', forDuration: null });
       break;
     case 'intro':
-      setPhase({ name: 'introScroll', forDuration: 5000 });
+      const voiceOver = await loadVoiceOver(audio, reportPath, 'intro');
+      voiceOver && voiceOver.play();
+      setPhase({ name: 'introScroll', forDuration: Math.max(5, voiceOver ? voiceOver.getDuration() : 0) });
       break;
     case 'introScroll':
       setPhase({ name: 'map', forDuration: null });
-      setNextPhoto(landmarks[0].photos[0]);
+      setNextPhoto(photos[0]);
       break;
     case 'map':
       if (nextPhoto) {
-        setPhase({ name: 'photo', forDuration: photoDuration });
+        nextPhoto.voiceOver && nextPhoto.voiceOver.play();
+        setPhase({ name: 'photo', forDuration: nextPhoto.duration });
       } else {
+        const voiceOver = await loadVoiceOver(audio, reportPath, 'outro');
+        voiceOver && voiceOver.play();
         setPhase({ name: 'outro', forDuration: null });
       }
       break;
     case 'photo':
-      const newNextPhoto = findNextPhoto(landmarks, nextPhoto);
+      const newNextPhoto = findNextPhoto(photos, nextPhoto);
       setNextPhoto(newNextPhoto);
       if (nextPhoto.date !== newNextPhoto?.date) {
         setPhase({ name: 'map', forDuration: null });
       } else {
-        setPhase({ name: 'photo', forDuration: photoDuration });
+        nextPhoto.voiceOver && nextPhoto.voiceOver.play();
+        setPhase({ name: 'photo', forDuration: nextPhoto.duration });
       }
       break;
     default:
@@ -93,41 +93,56 @@ const getTargetTime = (phase, nextPhoto) => {
   }
 };
 
+const preparePhotos = async (audio, reportPath, landmarks) => {
+  const photos = [];
+  for (const [landmarkIndex, landmark] of landmarks.entries()) {
+    const validPhotos = landmark.photos.filter((photo) => photo.date);
+    if (validPhotos.length > 0) {
+      const voiceOver = await loadVoiceOver(audio, reportPath, String('0' + (landmarkIndex + 1)).slice(-2));
+      const enhancedPhotos = validPhotos.map((photo, photoIndex) => ({
+        ...photo,
+        voiceOver: photoIndex === 0 ? voiceOver  : null,
+        duration: Math.max(minPhotoDuration, voiceOver ? voiceOver.getDuration() / validPhotos.length : 0),
+      }));
+      photos.push(...enhancedPhotos);
+    }
+  }
+  return photos;
+};
+
 const ReportMovie = ({ data: { reportJson } }) => {
   const { destination, date, timeShift, detailMap, hideSwissTopo, type, title, shortTitle, title3d } = reportJson;
   const reportPath = getReportPath(destination, date);
 
   const [track, setTrack] = useState(null);
+  const [audio, setAudio] = useState(null);
+  const [photos, setPhotos] = useState(null);
   const [phase, setPhase] = useState({ name: 'loading', forDuration: null });
   const [nextPhoto, setNextPhoto] = useState(undefined);
   const [time, setTime] = useState(null);
 
-  useEffect(() => {
-    loadTrack(reportPath).then(setTrack);
-  }, [reportPath]);
-
-  const landmarks = useMemo(
-    () =>
-      reportJson.landmarks
-        .map((landmark) => ({
-          ...landmark,
-          photos: landmark.photos.filter((photo) => photo.date)
-        }))
-        .filter((landmark) => {
-          return landmark.photos.length > 0;
-        }),
-    [reportJson]
+  useEffect(
+    () => {
+      loadTrack(reportPath).then(setTrack);
+      const newAudio = setupAudio();
+      setAudio(newAudio);
+      preparePhotos(newAudio, reportPath, reportJson.landmarks).then(setPhotos);
+    },
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+    []
   );
 
   const callNextPhase = useCallback(() => {
-    nextPhase(phase, setPhase, nextPhoto, setNextPhoto, landmarks);
-  }, [phase, setPhase, nextPhoto, setNextPhoto, landmarks]);
+    if (track && photos) {
+      nextPhase(audio, reportPath, phase, setPhase, nextPhoto, setNextPhoto, photos);
+    }
+  }, [audio, reportPath, phase, setPhase, nextPhoto, setNextPhoto, track, photos]);
 
   useEffect(() => {
     if (phase.forDuration) {
       const timeout = window.setTimeout(() => {
         callNextPhase();
-      }, phase.forDuration);
+      }, phase.forDuration * 1000);
       return () => {
         window.clearTimeout(timeout);
       };
@@ -135,51 +150,56 @@ const ReportMovie = ({ data: { reportJson } }) => {
   }, [phase, callNextPhase]);
 
   const timeIndependentComponents = useMemo(
-    () => (
-      <>
-        <Curtain closed={phase.name === 'loading' || phase.name === 'intro' || phase.name === 'outro'} />
-        {phase.name !== 'loading' && (
-          <Logo
-            introActive={phase.name === 'loading' || phase.name === 'intro'}
-            outroActive={phase.name === 'outro'}
-            onClick={phase.name === 'intro' ? callNextPhase : null}
+    () => {
+      if (!track || !photos) {
+        return null;
+      }
+      return (
+        <>
+          <Curtain closed={phase.name === 'loading' || phase.name === 'intro' || phase.name === 'outro'} />
+          {phase.name !== 'loading' && (
+            <Logo
+              introActive={phase.name === 'intro'}
+              outroActive={phase.name === 'outro'}
+              onClick={phase.name === 'intro' ? callNextPhase : null}
+            />
+          )}
+          <AnimatedTitle
+            reportPath={reportPath}
+            title={title + ' ' + formatDate(date)}
+            title3d={title3d}
+            visible={phase.name === 'loading' || phase.name === 'intro'}
           />
-        )}
-        <AnimatedTitle
-          reportPath={reportPath}
-          title={title + ' ' + formatDate(date)}
-          title3d={title3d}
-          visible={phase.name === 'loading' || phase.name === 'intro'}
-        />
-        <Summary visible={phase.name === 'outro'} track={track} />
-        <Suspense fallback={null}>
-          <Map
-            track={track}
-            wishTime={getTargetTime(phase, nextPhoto)}
-            timeShift={timeShift}
-            detailMap={detailMap}
-            hideSwissTopo={hideSwissTopo}
-            winter={type !== 'hike'}
-            onWishTimeReached={callNextPhase}
-            onTimeChanged={setTime}
-            size="fullscreen"
+          <Summary visible={phase.name === 'outro'} track={track} />
+          <Suspense fallback={null}>
+            <Map
+              track={track}
+              wishTime={getTargetTime(phase, nextPhoto)}
+              timeShift={timeShift}
+              detailMap={detailMap}
+              hideSwissTopo={hideSwissTopo}
+              winter={type !== 'hike'}
+              onWishTimeReached={callNextPhase}
+              onTimeChanged={setTime}
+              size="fullscreen"
+            />
+          </Suspense>
+          <Photos
+            photos={photos}
+            reportPath={reportPath}
+            visiblePhotoName={phase.name === 'photo' ? nextPhoto.name : null}
           />
-        </Suspense>
-        <Landmarks
-          landmarks={landmarks}
-          reportPath={reportPath}
-          visiblePhotoName={phase.name === 'photo' ? nextPhoto.name : null}
-        />
-        <YoutubeMetadata
-          date={date}
-          title={title}
-          shortTitle={shortTitle}
-          reportPath={reportPath}
-          phaseName={phase.name}
-          nextPhoto={nextPhoto}
-        />
-      </>
-    ),
+          <YoutubeMetadata
+            date={date}
+            title={title}
+            shortTitle={shortTitle}
+            reportPath={reportPath}
+            phaseName={phase.name}
+            nextPhoto={nextPhoto}
+          />
+        </>
+      )
+    },
     [
       date,
       detailMap,
@@ -190,7 +210,7 @@ const ReportMovie = ({ data: { reportJson } }) => {
       title3d,
       type,
       track,
-      landmarks,
+      photos,
       reportPath,
       phase,
       nextPhoto,
@@ -202,7 +222,7 @@ const ReportMovie = ({ data: { reportJson } }) => {
     <Movie id="movie">
       {timeIndependentComponents}
       {track && <HeightGraph visible={phase.name === 'map'} track={track} time={time} />}
-      {track && <Soundtrack phaseName={phase.name} track={track} time={time} />}
+      {track && <Soundtrack audio={audio} phaseName={phase.name} track={track} time={time} />}
     </Movie>
   );
 };

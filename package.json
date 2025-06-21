@@ -1,4 +1,5 @@
 {
+  "type": "commonjs",
   "scripts": {
     "develop": "gatsby develop",
     "build": "gatsby build",
@@ -28,6 +29,7 @@
     "util": "0.12.5"
   },
   "devDependencies": {
+    "@google-cloud/text-to-speech": "6.1.0",
     "copy-webpack-plugin": "12.0.2",
     "gm": "1.25.0",
     "image-size": "1.2.0",
