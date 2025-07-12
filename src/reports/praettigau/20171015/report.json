@@ -7,7 +7,14 @@
     "detailMap": "swiss",
     "shortTitle": "Drusentor",
     "title": "St. Antönien - Drusentor",
-    "movie": "a_2l88N0jfY",
+    "title3d": {
+      "offsetY": 0,
+      "fontSize": 6.5,
+      "align": "center",
+      "width": 1920,
+      "height": 489
+    },
+    "movie": "LrwMGkmE1eY",
     "intro": "Da es endlich mal stabiles Hochdruckwetter gab, konnte ich eine Wanderung in den Bergen unternehmen. Anfang Oktober schneite es aber weit herunter und recht ergiebig, so dass es auf Nordhängen oberhalb von 2000m noch viel Schnee gab. Deshalb entschied ich mich für eine Tour über die sonnigen Südhänge unterhalb der Sulzfluh.",
     "landmarks": [
       {
@@ -125,7 +132,7 @@
             "height": 1344
           }
         ],
-        "text": "Auf den Wiesen wimmelte es von zirpenden Grashüpfern, die bei jedem Schritt davonsprungen."
+        "text": "Auf den Wiesen wimmelte es von zirpenden Grashüpfern, die bei jedem Schritt davon sprangen."
       },
       {
         "photos": [
@@ -137,7 +144,7 @@
             "height": 802
           }
         ],
-        "text": "Hochfläche erreicht. Links die Sulzfluh und rechts die Schijenflue. Später führte mein Weg zuerst zur linken Flanke der Sulzfluh, um dann direkt an der Vorderseite rüber zur Schijenflue zu wechseln. Zum Abschluss durch das Tal rechts zurück nach St. Antönien. Zuerst machte ich aber noch einen kleinen Abstecher zum Carschinasee."
+        "text": "Die Hochfläche war erreicht. Links die Sulzfluh und rechts die Schijenflue. Später führte mein Weg zuerst zur linken Flanke der Sulzfluh, um dann direkt an der Vorderseite rüber zur Schijenflue zu wechseln. Zum Abschluss durch das Tal rechts zurück nach St. Antönien. Zuerst machte ich aber noch einen kleinen Abstecher zum Carschinasee."
       },
       {
         "photos": [
@@ -199,7 +206,7 @@
             "height": 666
           }
         ],
-        "text": "Der Weg führte nun ohne große Höhenunterschiede den Hang entlang. Alles sehr harmlos und damit war auch der zum Teil noch vorhandene Schnee kein Problem."
+        "text": "Der Weg führte nun ohne große Höhenunterschiede den Hang entlang. Es war alles sehr harmlos und damit war auch der zum Teil noch vorhandene Schnee kein Problem."
       },
       {
         "photos": [
@@ -223,7 +230,7 @@
             "height": 998
           }
         ],
-        "text": "Da mein Tagesziel aber das Drusentor (bzw. Drusator) war, passierte ich zunächst nur die Carschinahütte. Hier begegnete ich nun den ersten anderen Wanderen des Tages, die zur Hütte von Partnun aufgestiegen waren."
+        "text": "Da mein Tagesziel aber das Drusentor (bzw. Drusator) war, passierte ich zunächst nur die Carschinahütte. Hier begegnete ich nun den ersten anderen Wanderern des Tages, die zur Hütte von Partnun aufgestiegen waren."
       },
       {
         "photos": [
@@ -235,7 +242,7 @@
             "height": 869
           }
         ],
-        "text": "Ich machte eine Pause auf der benachtbarten Carschinafurgga, von der Wege in alle möglichen Richtungen führen. Inzwischen war ich schon gut 3h unterwegs und hatte 800 Höhenmeter überwunden."
+        "text": "Ich machte eine Pause auf der benachbarten Carschinafurgga, von der Wege in alle möglichen Richtungen führen. Inzwischen war ich schon gut 3 Stunden unterwegs und hatte 800 Höhenmeter überwunden."
       },
       {
         "photos": [
@@ -259,7 +266,7 @@
             "height": 675
           }
         ],
-        "text": "Zum Drusentor ging es nun an der Westflange der Sulzfluh entlang. Hier der Blick ins Drusatal. Links der Schafberg und rechts die sehr felsige Drusenfluh. Gut kann man die Schneeunterschiede in dieser Jahrezeit zwischen Nord- und Südhängen sehen. Für die Planung von Wanderungen im Herbst ziemlich wichtig."
+        "text": "Zum Drusentor ging es nun an der Westflanke der Sulzfluh entlang. Hier der Blick ins Drusatal. Links der Schafberg und rechts die sehr felsige Drusenfluh. Gut kann man die Schneeunterschiede in dieser Jahreszeit zwischen Nord- und Südhängen sehen. Für die Planung von Wanderungen im Herbst ziemlich wichtig."
       },
       {
         "photos": [
@@ -283,7 +290,7 @@
             "height": 625
           }
         ],
-        "text": "Noch führte der Weg recht eben das Talende entlang."
+        "text": "Noch führte der Weg recht eben das Ende des Tals entlang."
       },
       {
         "photos": [
@@ -295,7 +302,7 @@
             "height": 1280
           }
         ],
-        "text": "Da hat sich der Wanderwegweiseraufsteller wohl einen Scherz erlaubt und den Wegweiser oben auf einen Fels plaziert. Vielleicht hilft das aber auch, wenn es im Frühjahr hier oben noch viel Schnee haben sollte."
+        "text": "Da hat sich der Wanderwegweiser-Aufsteller wohl einen Scherz erlaubt und den Wegweiser oben auf einen Fels platziert. Vielleicht hilft das aber auch, wenn es im Frühjahr hier oben noch viel Schnee haben sollte."
       },
       {
         "photos": [
@@ -319,7 +326,7 @@
             "height": 1153
           }
         ],
-        "text": "Die Drusenfluh besteht auf bizarren Felsformationen, die der ganzen Landschaft ein etwas mystisches Aussehen geben."
+        "text": "Die Drusenfluh besteht aus bizarren Felsformationen, die der ganzen Landschaft ein etwas mystisches Aussehen geben."
       },
       {
         "photos": [
@@ -331,7 +338,7 @@
             "height": 1280
           }
         ],
-        "text": "Mehr Schnee als auf diesem Bild hatte ich auf der ganzen Wanderung nicht. Da er zu dem auch noch weich war, war er kein Hinderniss."
+        "text": "Mehr Schnee als auf diesem Bild hatte ich auf der ganzen Wanderung nicht. Da er zu dem auch noch weich war, war er kein Hindernis."
       },
       {
         "photos": [
@@ -367,7 +374,7 @@
             "height": 913
           }
         ],
-        "text": "Panorama vom Drusentor nach Österreich ins Montafon. Nicht sichtbar die Lindauerhütte, die mit eine guten Stunde Abstieg von hier erreichbar wäre. Auf der Nordseite des Drusentors deutlich mehr Schnee - ein Wanderer der von dort kam, musste stapfen."
+        "text": "Panorama vom Drusentor nach Österreich ins Montafon. Nicht sichtbar die Lindauerhütte, die mit eine guten Stunde Abstieg von hier erreichbar wäre. Auf der Nordseite des Drusentors war deutlich mehr Schnee - ein Wanderer der von dort kam, musste stapfen."
       },
       {
         "photos": [
@@ -482,7 +489,7 @@
             "height": 1125
           }
         ],
-        "text": "Bevor das Talende erreicht war, ging ich auf steilem Weg direkt bergab zum 1900m hohen Partnunsee, hier rechts. Links ist wieder die Schijenflue zu sehen."
+        "text": "Bevor das Ende des Tals erreicht war, ging ich auf steilem Weg direkt bergab zum 1900m hohen Partnunsee, hier rechts. Links ist wieder die Schijenflue zu sehen."
       },
       {
         "photos": [

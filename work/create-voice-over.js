@@ -3,16 +3,20 @@ const jsonfile = require('jsonfile');
 const fs = require('fs');
 
 const projectPath = 'C:/Users/Roger/web/Dp3';
-const destination = 'alpstein';
-const reportDate = '20250705';
+const destination = 'praettigau';
+const reportDate = '20171015';
 
 const client = new textToSpeech.TextToSpeechClient();
 
 const pronunciations = [
-  /*{
-    regex: /(alvier)/ig,
-    ipa: 'alˈfiːɐ̯'
-  }*/
+  {
+    regex: /(carschina)/ig,
+    ipa: 'ˌkaˈʃiːna'
+  },
+  {
+    regex: /(schijen)/ig,
+    ipa: 'ʃiːjɛŋ'
+  }
 ];
 
 const generateAudio = async (rawText, audioFile) => {
