@@ -3,8 +3,8 @@ const jsonfile = require('jsonfile');
 const fs = require('fs');
 
 const projectPath = 'C:/Users/Roger/web/Dp3';
-const destination = 'davos';
-const reportDate = '20190811';
+const destination = 'toggenburg';
+const reportDate = '20160813';
 
 const client = new textToSpeech.TextToSpeechClient();
 
@@ -28,6 +28,22 @@ const pronunciations = [
   {
     regex: /(vereina)/ig,
     ipa: 'ˈvɛˈʁaɪna'
+  },
+  {
+    regex: /(espel)/ig,
+    ipa: 'ˈɛzpɛl'
+  },
+  {
+    regex: /(chäserrugg)/ig,
+    ipa: 'ˈχɛɛzərʊk'
+  },
+  {
+    regex: /(hinterruggs)/ig,
+    ipa: 'hɪntərʊks'
+  },
+  {
+    regex: /[^>](hinterrugg)/ig,
+    ipa: 'hɪntərʊk'
   }
 ];
 
@@ -61,6 +77,7 @@ const generateAudio = async (rawText, audioFile) => {
   text = text.replaceAll(';)', '');
   text = text.replaceAll(';-)', '');
   text = text.replaceAll('😃', '');
+  text = text.replaceAll('😉', '');
 
   console.log(audioFile, text, 'synthesizing...');
   const request = {

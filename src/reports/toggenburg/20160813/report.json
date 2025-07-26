@@ -7,7 +7,14 @@
     "detailMap": "swiss",
     "shortTitle": "Hinterrugg",
     "title": "Schwendiseen - Hinterrugg",
-    "movie": "Q-e4oLebFGI",
+    "title3d": {
+      "align": "center",
+      "offsetY": -1,
+      "fontSize": 9,
+      "width": 1920,
+      "height": 562
+    },
+    "movie": "XQEDUCjsUBQ",
     "intro": "Bei schönstem Wetter fuhr ich diesen Samstag zu den Schwendiseen, die auf halber Höhe zwischen dem Skigebiet von Wildhaus und Iltios liegen. Dort kann man für 1CHF pro Stunde sein Auto abstellen. Um 7:45 lief ich auf 1160m Höhe los Richtung Iltios.",
     "landmarks": [
       {
@@ -21,7 +28,7 @@
           }
         ],
         "videos": [],
-        "text": "Zuerst ging auf asphaltierter Straße bergauf. Hier vorbei an der Talstation der neuen Gondelbahn Espel-Stöfeli-Chäserrugg."
+        "text": "Zuerst ging es auf asphaltierter Straße bergauf. Hier vorbei an der Talstation der neuen Gondelbahn bei Espel."
       },
       {
         "photos": [
@@ -86,7 +93,7 @@
           }
         ],
         "videos": [],
-        "text": "Der Grat war zunächst recht schmal und felsig. Zum Teil halfen die Hände auf dem etwas rutschigen Fels. Runter ist wahrscheinlich nicht so angenehm."
+        "text": "Der Grat war zunächst recht schmal und felsig. Zum Teil halfen die Hände auf dem etwas rutschigen Fels. Runter ist es wahrscheinlich nicht so angenehm."
       },
       {
         "photos": [
@@ -216,7 +223,7 @@
           }
         ],
         "videos": [],
-        "text": "Noch mehr Blumen auf dem nun deutlich flacher werdenden Rückens."
+        "text": "Noch mehr Blumen auf dem nun deutlich flacher werdenden Rücken."
       },
       {
         "photos": [
@@ -268,7 +275,7 @@
           }
         ],
         "videos": [],
-        "text": "Oben! Ein Gipfelkreuz gibt es auf dem höchsten (2306m) der Churfirsten seltsamerweise nicht, deshalb muss als Beweis der Wegweiser auf dem Gipfel erhalten. Für die knapp 1200m Aufstieg habe ich ziemlich genau 3h Stunden gebraucht und die gesamte Zeit bin ich keinem anderen Menschen begegnet. Ab hier änderte sich das aber."
+        "text": "Oben! Ein Gipfelkreuz gibt es auf dem mit 2306m höchsten Gipfel der Churfirsten seltsamerweise nicht, deshalb muss als Beweis der Wegweiser erhalten. Für die knapp 1200m Aufstieg habe ich ziemlich genau 3 Stunden gebraucht und die gesamte Zeit bin ich keinem anderen Menschen begegnet. Ab hier änderte sich das aber."
       },
       {
         "photos": [
@@ -294,7 +301,7 @@
           }
         ],
         "videos": [],
-        "text": "Tele zu dem weißen Gipfel des Tödi. Rechts der Mürtschenstock und in der Mitte das Murggtal (Siehe meine anderen Berichte dieses Jahr). Links (ziemlich unscheinbar) ist auch der Leist vom Skigebiet Flumserberg zu sehen."
+        "text": "Tele zu dem weißen Gipfel des Tödi. Rechts der Mürtschenstock und in der Mitte das Murggtal <span data-silent>(Siehe meine anderen Berichte dieses Jahr)</span>. Links (ziemlich unscheinbar) ist auch der Leist vom Skigebiet Flumserberg zu sehen."
       },
       {
         "photos": [
@@ -366,7 +373,7 @@
           }
         ],
         "videos": [],
-        "text": "Nun ging es vom Hinterrugg hinüber zum benachbarten Chäserrugg. Die Bergstation ist schon riesig, die Terasse hat aber unverständlicherweise nur sehr wenige Plätze."
+        "text": "Nun ging es vom Hinterrugg hinüber zum benachbarten Chäserrugg. Die Bergstation ist schon riesig, die Terrasse hat aber unverständlicherweise nur sehr wenige Plätze."
       },
       {
         "photos": [
@@ -425,7 +432,7 @@
           }
         ],
         "videos": [],
-        "text": "Vor dem Gamserrugg passierte ich einen weiteren Sattel. Da ich noch recht viel Zeit hatte, entschloß ich mich für einen Umweg rechts um den Gamserrugg herum. Der Weg führte dabei auf dem Geologischen Rundweg."
+        "text": "Vor dem Gamserrugg passierte ich einen weiteren Sattel. Da ich noch recht viel Zeit hatte, entschloss ich mich für einen Umweg rechts um den Gamserrugg herum. Der Weg führte dabei auf dem Geologischen Rundweg."
       },
       {
         "photos": [
@@ -464,7 +471,7 @@
           }
         ],
         "videos": [],
-        "text": "Dann entschied ich mich für einen weitere sehr schönen Umweg, den Inggadells-Rundweg. Dieser führte durch typisches Karstgebiet am Rand eines absoluten Naturschutzgebiets, das nicht betreten werden darf."
+        "text": "Dann entschied ich mich für einen weiteren sehr schönen Umweg, den Inggadells-Rundweg. Dieser führte durch typisches Karstgebiet am Rand eines Naturschutzgebiets, das nicht betreten werden darf."
       },
       {
         "photos": [
@@ -594,7 +601,7 @@
           }
         ],
         "videos": [],
-        "text": "Den eigentlich Klangweg verließ ich aber schnell wieder und ging direkt hinunter zu den Schwendiseen und damit zum Startpunkt meiner Wanderung. Das Auto erreichte ich um 15:00, also war ich rund 8h Stunden unterwegs. <br />\nNatürlich sprang ich noch in den See und schwomm einige Runden im frischen Nass."
+        "text": "Den eigentlichen Klangweg verließ ich aber schnell wieder und ging direkt hinunter zu den Schwendiseen und damit zum Startpunkt meiner Wanderung. Das Auto erreichte ich um 15 Uhr, also war ich rund 8 Stunden unterwegs.<br />\nNatürlich sprang ich noch in den See und schwamm einige Runden im frischen Nass."
       },
       {
         "photos": [
