@@ -3,8 +3,8 @@ const jsonfile = require('jsonfile');
 const fs = require('fs');
 
 const projectPath = 'C:/Users/Roger/web/Dp3';
-const destination = 'toggenburg';
-const reportDate = '20160813';
+const destination = 'alpstein';
+const reportDate = '20131019';
 
 const client = new textToSpeech.TextToSpeechClient();
 
@@ -44,6 +44,22 @@ const pronunciations = [
   {
     regex: /[^>](hinterrugg)/ig,
     ipa: 'hɪntərʊk'
+  },
+  {
+    regex: /(sämtisersee)/ig,
+    ipa: 'ˈzɛmtɪzɐˌzee'
+  },
+  {
+    regex: /(fälensee)/ig,
+    ipa: 'ˈfɛɛlənˌzee'
+  },
+  {
+    regex: /(brülisau)/ig,
+    ipa: 'ˈbrylɪs.aʊ'
+  },
+  {
+    regex: /(kamor)/ig,
+    ipa: 'ˈkaamor'
   }
 ];
 

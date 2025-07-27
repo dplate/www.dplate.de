@@ -8,13 +8,14 @@
     "shortTitle": "Hoher Kasten",
     "title": "Hoher Kasten - Geologischer Wanderweg",
     "title3d": {
-      "offsetY": 8.5,
-      "fontSize": 3.5,
+      "align": "center",
+      "offsetY": 1,
+      "fontSize": 7,
       "width": 1920,
       "height": 618
     },
-    "movie": "dDODXbEn5Q4",
-    "intro": "Zum Leidwesen der Skigebiete (denen nun total die Grundlage für den Winter fehlt) schmolz der Schnee der letzte Woche recht schnell dahin. Das ermöglichte mir aber, die letzte große Tour in diesem Herbst zu unternehmen - am Hohen Kasten im Alpstein.<br />Um 7:45 Ankuft auf dem Parkplatz der Seilbahn Alp Sigel kurz hinter Brülisau. Anschließend steiler Aufstieg auf einem schmalen Pfad nach Steig (von 900m auf 1300m).",
+    "movie": "D5rGUbh2nFs",
+    "intro": "Zum Leidwesen der Skigebiete (denen nun total die Grundlage für den Winter fehlt) schmolz der Schnee der letzte Woche recht schnell dahin. Das ermöglichte mir aber, die letzte große Tour in diesem Herbst zu unternehmen - am Hohen Kasten im Alpstein.<br />Um 7:45 Ankunft auf dem Parkplatz der Seilbahn Alp Sigel kurz hinter Brülisau. Anschließend steiler Aufstieg auf einem schmalen Pfad nach Steig (von 900m auf 1300m).",
     "landmarks": [
       {
         "photos": [
@@ -27,7 +28,7 @@
           }
         ],
         "videos": [],
-        "text": "Nach dem dunklen Wald wurde es auf nun etwas heller und auf dem benachbarten Hügeln ging die Sonne auf."
+        "text": "Nach dem dunklen Wald wurde es nun etwas heller und auf dem benachbarten Hügeln ging die Sonne auf."
       },
       {
         "photos": [
@@ -79,7 +80,7 @@
           }
         ],
         "videos": [],
-        "text": "... und anschließend auf einem Feldweg weiter. &quot;Piste frisch präpariert, aber ruppig&quot;."
+        "text": "... und anschließend auf einem Feldweg weiter. <span data-silent>&quot;Piste frisch präpariert, aber ruppig&quot;.</span>"
       },
       {
         "photos": [
@@ -112,7 +113,7 @@
           }
         ],
         "videos": [],
-        "text": "Am Ende des Tals ging es links 200 Höhenmeter steil unterhalb einer Felswand hinauf..."
+        "text": "Am Ende des Tals ging es links 200 Höhenmeter steil unterhalb einer Felswand hinauf ..."
       },
       {
         "photos": [
@@ -132,7 +133,7 @@
           }
         ],
         "videos": [],
-        "text": "....zum Fälensee."
+        "text": "... zum Fälensee."
       },
       {
         "photos": [
@@ -171,7 +172,7 @@
           }
         ],
         "videos": [],
-        "text": "Danach ging es weitere 200m hinauf zur Saxerlücke. Endlich in der Sonne und den Tiefblick ins Rheintal genießen."
+        "text": "Danach ging es weitere 200m hinauf zur Saxerlücke. Endlich war ich in der Sonne und konnte den Tiefblick ins Rheintal genießen."
       },
       {
         "photos": [
@@ -190,7 +191,7 @@
         "photos": [
           {
             "name": "015",
-            "alt": "Blick Hinab auf Bollenwees",
+            "alt": "Blick hinab auf Bollenwees",
             "date": "2013-10-19T10:41:50.000+02:00",
             "width": 1620,
             "height": 1080
@@ -210,7 +211,7 @@
           }
         ],
         "videos": [],
-        "text": "Anschließend ging es gleich noch mal 200m steil auf dem Grat hinauf."
+        "text": "Anschließend ging es gleich noch mal 200m steil auf den Grat hinauf."
       },
       {
         "photos": [
@@ -282,7 +283,7 @@
           }
         ],
         "videos": [],
-        "text": "Dann tauchte im Rücken der Gipfel des Säntis (2500m) auf, umsäumt von ähnlich steilen Felsen wie die Kreuberge."
+        "text": "Dann tauchte im Rücken der Gipfel des Säntis (2500m) auf, umsäumt von ähnlich steilen Felsen wie die Kreuzberge."
       },
       {
         "photos": [
@@ -308,7 +309,7 @@
           }
         ],
         "videos": [],
-        "text": "Und ja, es ist Herbst. 😃"
+        "text": "Und ja, es war Herbst. 😃"
       },
       {
         "photos": [
@@ -347,7 +348,7 @@
           },
           {
             "name": "028",
-            "alt": "In Fels Geschlagener Weg",
+            "alt": "In Fels geschlagener Weg",
             "date": "2013-10-19T11:47:23.000+02:00",
             "width": 1620,
             "height": 1080
@@ -361,7 +362,7 @@
           },
           {
             "name": "030",
-            "alt": "Säntis mit Dunklem Vordergrund",
+            "alt": "Säntis mit dunklem Vordergrund",
             "date": "2013-10-19T11:54:38.000+02:00",
             "width": 1563,
             "height": 1080
@@ -395,7 +396,7 @@
           }
         ],
         "videos": [],
-        "text": "Ankunft am Gasthaus Staubern, kleine Rast nebenan im Gras."
+        "text": "Ankunft am Gasthaus Staubern, Zeit für eine kleine Rast nebenan im Gras."
       },
       {
         "photos": [
@@ -447,7 +448,7 @@
         "photos": [
           {
             "name": "039",
-            "alt": "Tal mit Verschneitem Säntis",
+            "alt": "Tal mit verschneitem Säntis",
             "date": "2013-10-19T12:53:44.000+02:00",
             "width": 1620,
             "height": 1080
@@ -526,7 +527,7 @@
           }
         ],
         "videos": [],
-        "text": "Miniaturfoto muss auch mal sein."
+        "text": "Ein Miniaturfoto musste auch mal sein."
       },
       {
         "photos": [
@@ -578,7 +579,7 @@
           }
         ],
         "videos": [],
-        "text": "Laaangweilig. 😉"
+        "text": "Der immer ähnliche Blick wurde nicht langweilig. 😉"
       },
       {
         "photos": [
@@ -617,7 +618,7 @@
           }
         ],
         "videos": [],
-        "text": "LSAP Hoher Kasten. Wobei ein richtiges Skigebiet war es nie."
+        "text": "Das aufgegebene Skigebiet des Hohen Kasten. Wobei ein richtiges Skigebiet war es nie."
       },
       {
         "photos": [
@@ -630,7 +631,7 @@
           }
         ],
         "videos": [],
-        "text": "Alpendohle vor Rhein."
+        "text": "Eine Alpendohle vor dem Rhein."
       },
       {
         "photos": [
@@ -643,20 +644,20 @@
           }
         ],
         "videos": [],
-        "text": "Blick ins Flachland. Der Nebel hatte sich inzwischen aufgelöst."
+        "text": "Der Blick ins Flachland. Der Nebel hatte sich inzwischen aufgelöst."
       },
       {
         "photos": [
           {
             "name": "058",
-            "alt": "Drehrestaurant Hoher Kasten.",
+            "alt": "Drehrestaurant Hoher Kasten",
             "date": "2013-10-19T14:49:30.000+02:00",
             "width": 1620,
             "height": 1080
           }
         ],
         "videos": [],
-        "text": "Neben dem recht neuen Drehrestaurant auf dem Gipfel. Ich habe aber auf der Terrasse des Selbstbedienungsrestaurants gespeist. Inzwischen war es sehr windig, so dass ich erstmals an diesem Tag die Jacke über das T-Shirt streifen musste."
+        "text": "Nun neben dem recht neuen Drehrestaurant auf dem Gipfel. Ich habe aber auf der Terrasse des Selbstbedienungsrestaurants gespeist. Inzwischen war es sehr windig, so dass ich erstmals an diesem Tag die Jacke über das T-Shirt streifen musste."
       },
       {
         "photos": [
@@ -695,7 +696,7 @@
           }
         ],
         "videos": [],
-        "text": "Der Hohe Kasten vom Kamor aus gesehen. &quot;Wer hat den längsten?&quot;"
+        "text": "Der Hohe Kasten vom Kamor aus gesehen. <span data-silent>&quot;Wer hat den längsten?&quot;</span>"
       },
       {
         "photos": [
@@ -721,14 +722,14 @@
           },
           {
             "name": "066",
-            "alt": "Berggasthaus Ruhesitz",
+            "alt": "Berggasthaus Ruhsitz",
             "date": "2013-10-19T16:59:14.000+02:00",
             "width": 1920,
             "height": 1013
           }
         ],
         "videos": [],
-        "text": "Nach der Hälfte des Abstieg Trinkpause am Berggasthaus Ruhesitz. Nun extrem stürmisch, so dass das Besteck von den Tischen wehte - Haus der fliegenden Messer."
+        "text": "Nach der Hälfte des Abstieg Trinkpause am Berggasthaus Ruhsitz. Nun extrem stürmisch, so dass das Besteck von den Tischen wehte<span data-silent> - Haus der fliegenden Messer</span>."
       },
       {
         "photos": [
@@ -779,7 +780,7 @@
           },
           {
             "name": "track2",
-            "alt": "Höhenprofil Geologiscer Wanderweg",
+            "alt": "Höhenprofil Geologischer Wanderweg",
             "width": 1024,
             "height": 325
           }
