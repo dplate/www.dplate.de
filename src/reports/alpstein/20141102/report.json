@@ -7,8 +7,15 @@
     "detailMap": "swiss",
     "shortTitle": "Kronberg",
     "title": "Jakobsbad - Kronberg",
-    "movie": "xn-41drBl94",
-    "intro": "2. November und immer noch (oder besser wieder) sommerliche Temperaturen. In den Bergen aber oberhalb 1800m trotzdem zuviel Schnee zum Wandern. Deshalb entschied ich mich zu einer Fahrt zum Kronberg im Appenzeller Land, um eine letzte Tour vor dem richtigen Start der Skisaison zu unternehmen.<br />\nNach der Fahrt durch überwiegend dichten Nebel (endlich mal Nebelschlussleuchte erlaubt), kam ich bei strahlendem Sonnenschein an der Talstation der Kronbergbahn in Jakobsbad an. Parkplatz war (um kurz vor 9:00) noch ziemlich leer.",
+    "title3d": {
+      "align": "center",
+      "offsetY": 3,
+      "fontSize": 9,
+      "width": 1920,
+      "height": 519
+    },
+    "movie": "w7drrXSyFhg",
+    "intro": "Es war der 2. November und es gab immer noch sommerliche Temperaturen. In den Bergen gab es aber oberhalb 1800m trotzdem zuviel Schnee zum Wandern. Deshalb entschied ich mich zu einer Fahrt zum Kronberg im Appenzeller Land, um eine letzte Tour vor dem richtigen Start der Skisaison zu unternehmen.<br />\nNach der Fahrt durch überwiegend dichten Nebel (endlich mal die Nebelschlussleuchte erlaubt), kam ich bei strahlendem Sonnenschein an der Talstation der Kronbergbahn in Jakobsbad an. Der Parkplatz war um kurz vor 9:00 noch ziemlich leer.",
     "landmarks": [
       {
         "photos": [
@@ -99,7 +106,7 @@
           }
         ],
         "videos": [],
-        "text": "Der Grat vom Kronberg ist erreicht und der Säntis, der sich hinter dem Kronberg versteckt hatte, wird sichtbar."
+        "text": "Der Grat vom Kronberg hatte ich hier erreicht und der Säntis, der sich hinter dem Kronberg versteckt hatte, wurde sichtbar."
       },
       {
         "photos": [
@@ -119,7 +126,7 @@
           }
         ],
         "videos": [],
-        "text": "Nach einer guten Stunde und 500m Aufstieg ist das Gasthaus Scheidegg auf 1300m erreicht. Ab hier wurde es dann deutlich belebter, da viele den Abstieg vom Kronberg machten."
+        "text": "Nach einer guten Stunde und 500m Aufstieg hatte ich das Gasthaus Scheidegg auf 1300m erreicht. Ab hier wurde es dann deutlich belebter, da viele den Abstieg vom Kronberg machten."
       },
       {
         "photos": [
@@ -132,7 +139,7 @@
           }
         ],
         "videos": [],
-        "text": "Ab der Scheidegg geht es auf dem breiten Rücken des Kronbergs weiter, vorbei an der schön gelegenden Jakobskapelle."
+        "text": "Ab der Scheidegg ging es auf dem breiten Rücken des Kronbergs weiter, vorbei an der schön gelegenen Jakobskapelle."
       },
       {
         "photos": [
@@ -145,7 +152,7 @@
           }
         ],
         "videos": [],
-        "text": "Blick zurück, alles sehr harmlos."
+        "text": "Blick zurück, es ist alles sehr harmlos hier."
       },
       {
         "photos": [
@@ -158,7 +165,7 @@
           }
         ],
         "videos": [],
-        "text": "Und nach vorne Richtung Bergstation, die gerade eine Ladung Wanderer ausgespuckt hatte."
+        "text": "Und nach vorne Richtung Bergstation, die gerade eine weitere Ladung Wanderer ausgespuckt hatte."
       },
       {
         "photos": [
@@ -171,7 +178,7 @@
           }
         ],
         "videos": [],
-        "text": "Laaaaange Bank auf dem Grat."
+        "text": "Eine lange Bank auf dem Grat."
       },
       {
         "photos": [
@@ -184,7 +191,7 @@
           }
         ],
         "videos": [],
-        "text": "Gipfel nach 2h Aufstieg auf 1660m erreicht. Neben den sonnensuchenden Spaziergängern waren auch einige Paraglider unterwegs."
+        "text": "Den Gipfel hatte ich nach 2h Aufstieg auf 1660m erreicht. Neben den sonnensuchenden Spaziergängern waren auch einige Paraglider unterwegs."
       },
       {
         "photos": [
@@ -197,7 +204,7 @@
           }
         ],
         "videos": [],
-        "text": "Blick auf das Nebelmeer rund um den Bodensee."
+        "text": "Der Blick auf das Nebelmeer rund um den Bodensee."
       },
       {
         "photos": [
@@ -210,7 +217,7 @@
           }
         ],
         "videos": [],
-        "text": "Wegweiser an der Bergstation. Im Hintergrund der alles überragende Säntis."
+        "text": "Ein Wegweiser an der Bergstation. Im Hintergrund der alles überragende Säntis."
       },
       {
         "photos": [
@@ -223,7 +230,7 @@
           }
         ],
         "videos": [],
-        "text": "Ich hab mich dann ziemlich schnell an den Abstieg gemacht, zuerst Richtung Säntis. Die Paraglider starteten ebenfalls in diese Richtung, um dann aber schnell rechts herum abzubiegen."
+        "text": "Ich hatte mich dann ziemlich schnell an den Abstieg gemacht, zuerst Richtung Säntis. Die Paraglider starteten ebenfalls in diese Richtung, um dann aber schnell rechts herum abzubiegen."
       },
       {
         "photos": [
@@ -236,7 +243,7 @@
           }
         ],
         "videos": [],
-        "text": "So auch ich, weiterhin immer auf dem Grat lang."
+        "text": "So bog auch ich nach rechts ab, weiterhin immer auf dem Grat lang."
       },
       {
         "photos": [
@@ -249,7 +256,7 @@
           }
         ],
         "videos": [],
-        "text": "Vorschau auf den weiteren Weg, es ging eigentlich immer entlang dieses Höhenzugs."
+        "text": "Die Vorschau auf den weiteren Weg. Es ging eigentlich immer entlang dieses Höhenzugs."
       },
       {
         "photos": [
@@ -295,7 +302,7 @@
           }
         ],
         "videos": [],
-        "text": "Hier ebenfalls ein ziemlich schöne Aussicht, so dass ich erst mal eine längere Mittagspause (inzwischen 12:20) einlegte."
+        "text": "Hier ebenfalls eine ziemlich schöne Aussicht, so dass ich erst mal eine längere Mittagspause einlegte. Es war inzwischen 12:20."
       },
       {
         "photos": [
@@ -308,7 +315,7 @@
           }
         ],
         "videos": [],
-        "text": "Ahhh, typisch November..."
+        "text": "Ja, typisch November in den Bergen..."
       },
       {
         "photos": [
@@ -334,7 +341,7 @@
           }
         ],
         "videos": [],
-        "text": "Anschließend geht es deutlich steiler bergab, um den Bergrücken des Lauftegg zu erreichen. Im Hintergrund der kleine Ort Urnäsch."
+        "text": "Anschließend ging es deutlich steiler bergab, um den Bergrücken des Lauftegg zu erreichen. Im Hintergrund befindet sich der kleine Ort Urnäsch."
       },
       {
         "photos": [
@@ -347,7 +354,7 @@
           }
         ],
         "videos": [],
-        "text": "Rücken auf 1200m erreicht, nun war ich endgültig aus dem steileren Gelände raus."
+        "text": "Nun hatte ich den Rücken des Laufteggs auf 1200m erreicht und nun war ich endgültig aus dem steileren Gelände raus."
       },
       {
         "photos": [
@@ -360,7 +367,7 @@
           }
         ],
         "videos": [],
-        "text": "Zoom auf Gross Eugst auf der anderen Talseite."
+        "text": "Tele auf Gross Eugst auf der anderen Talseite."
       },
       {
         "photos": [
@@ -393,7 +400,7 @@
           }
         ],
         "videos": [],
-        "text": "Ab jetzt wieder hauptsächlich Fahrweg, weiterhin immer auf dem Grat lang."
+        "text": "Ab jetzt war es wieder hauptsächlich Fahrweg - weiterhin immer auf dem Grat lang."
       },
       {
         "photos": [
@@ -406,7 +413,7 @@
           }
         ],
         "videos": [],
-        "text": "Da es sich langsam abzeichnete, dass ich zu früh am Auto sein würde, eine weitere gemütliche Pause bei Zimmermanns - Lauftegg. Hier ist fast der gesamte Weg sichtbar. Von links gings hinauf auf den Kronberg, dann über den kleine Pass auf die rechten Höhen und anschließend zum Standpunkt."
+        "text": "Da es sich langsam abzeichnete, dass ich zu früh am Auto sein würde, war Zeit für eine weitere gemütliche Pause bei Zimmermanns - Lauftegg. Hier ist fast der gesamte Weg sichtbar. Von links gings hinauf auf den Kronberg, dann über den kleinen Pass auf die rechten Höhen und anschließend zum aktuellen Standpunkt."
       },
       {
         "photos": [
@@ -432,14 +439,14 @@
         "photos": [
           {
             "name": "035",
-            "alt": "Kondenzstreifen vor abgestorbenem Baum",
+            "alt": "Kondensstreifen vor abgestorbenem Baum",
             "date": "2014-11-02T14:01:29.000+01:00",
             "width": 1673,
             "height": 1080
           }
         ],
         "videos": [],
-        "text": "Die Wolken und Kondenzstreifen hatten es mir irgendwie angetan."
+        "text": "Die Wolken und Kondensstreifen hatten es mir irgendwie angetan."
       },
       {
         "photos": [
@@ -452,7 +459,7 @@
           }
         ],
         "videos": [],
-        "text": "An der Bergstation des (eingestellten) Skilift Lauftegg. Im Hintergrund der Ort Gonten."
+        "text": "An der Bergstation des eingestellten Skilift Lauftegg. Im Hintergrund der Ort Gonten."
       },
       {
         "photos": [
@@ -465,7 +472,7 @@
           }
         ],
         "videos": [],
-        "text": "Ab hier wird es wieder steiler und man verlässt den Fahrweg."
+        "text": "Ab hier wurde es wieder steiler und ich verließ den Fahrweg."
       },
       {
         "photos": [
@@ -478,7 +485,7 @@
           }
         ],
         "videos": [],
-        "text": "Steile Trasse des Schlepplifts Lauftegg. Da sind die Kinder früher im Skikurs regelmäßig rausgeflogen..."
+        "text": "Die steile Trasse des ehemaligen Schlepplifts Lauftegg. Da sind die Kinder früher im Skikurs regelmäßig rausgeflogen..."
       },
       {
         "photos": [
@@ -491,7 +498,7 @@
           }
         ],
         "videos": [],
-        "text": "Für Schlepplift-Nostalgiker noch ein weiteres Bild des Schlepplifts und Gonten."
+        "text": "Für Skilift-Nostalgiker hier noch ein weiteres Bild des Schlepplifts und Gonten."
       },
       {
         "photos": [
@@ -504,7 +511,7 @@
           }
         ],
         "videos": [],
-        "text": "Inzwischen ordentlich Rummel an der Talstation in Jakobsbad. Die Abkehr der Bergbahnen vom Skibetrieb dürfte sich ausgezahlt haben."
+        "text": "Inzwischen war ordentlich Rummel an der Talstation in Jakobsbad. Die Abkehr der Bergbahnen vom Skibetrieb dürfte sich ausgezahlt haben."
       },
       {
         "photos": [
@@ -543,7 +550,7 @@
           }
         ],
         "videos": [],
-        "text": "Talstation um 14:30 erreicht. Neben der Seilbahn gibt es dort inzwischen:<br />\n- eine Sommerrodelbahn (sehr lange Warteschlange)<br />\n- ein Hochseilpark<br />\n- ein Abenteuerspielplatz<br />\n- ein modernes (aber zu kleines) Restaurant."
+        "text": "Die Talstation hatte ich um 14:30 erreicht. Neben der Seilbahn gibt es dort inzwischen eine Sommerrodelbahn mit langer Warteschlange, ein Hochseilpark, ein Abenteuerspielplatz und ein modernes, kleines Restaurant."
       },
       {
         "photos": [
@@ -556,7 +563,7 @@
           }
         ],
         "videos": [],
-        "text": "Wanderkarte. Etwas übertrieben, denn von dem Standort dürfte nur ein Bruchteil erreichbar sein."
+        "text": "Wanderkarte. Etwas übertrieben, denn von diesem Standort dürfte nur ein Bruchteil erreichbar sein."
       },
       {
         "photos": [
@@ -577,6 +584,6 @@
         "text": "Gelaufene Strecke. 15km und 1100m rauf + runter in 5:30h."
       }
     ],
-    "outro": "Fazit: Schöne, einfache Runde bei bestem Wetter. Zum Teil etwas überlaufen und zu gut ausgebaut.<br />\nJetzt sind aber die Winterreifen drauf und die Skier beim Schleifen, d.h. bald Schluss mit Wandern."
+    "outro": "Fazit: Schöne, einfache Runde bei bestem Wetter. Zum Teil aber etwas überlaufen und zu gut ausgebaut.<br />\n<span data-silent>Jetzt sind aber die Winterreifen drauf und die Skier beim Schleifen, d.h. bald Schluss mit Wandern.</span>"
   }
 ]
