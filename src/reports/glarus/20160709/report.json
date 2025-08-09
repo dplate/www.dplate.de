@@ -8,8 +8,15 @@
     "timeShift": 0,
     "shortTitle": "Murgseen",
     "title": "Murgseen",
-    "movie": "sYcRu3gsA-8",
-    "intro": "Ein wenig verzögert startete auch meine Wandersaison. Letztes Wochenende ging es dafür zu den Murgseen oberhalb des Walensees. Den Startpunkt der relative bekannten Rundtour erreicht man über eine kostenplichtige Straße von Murg aus. Die Maut (inkl. Parkgebühr) beträgt 10CHF, die man in Münzen dabei haben sollte. Die einspurige Straße führt in vielen Serpentinen das Tal bis auf 1100m hinauf. Ich parkte um 8:00 auf dem unteren der beiden Parkplätze, der für die Rundtour besser geeignet ist, da man sonst entweder am Anfang bergab oder am Ende bergauf steigen müsste (beides seltsam beim Wandern). Ich entschied mich die Tour entgegen des Uhrzeigersinns zu unternehmen.",
+    "title3d": {
+      "offsetY": 6,
+      "fontSize": 9,
+      "align": "center",
+      "width": 1920,
+      "height": 584
+    },
+    "movie": "TukIn0MgC4s",
+    "intro": "Ein wenig verzögert startete auch meine Wandersaison. Letztes Wochenende ging es dafür zu den Murgseen oberhalb des Walensees. Den Startpunkt der relativ bekannten Rundtour erreicht man über eine kostenpflichtige Straße von Murg aus. Die Maut (inkl. Parkgebühr) betrug 10CHF, die ich in Münzen bezahlen musste. Die einspurige Straße führt in vielen Serpentinen das Tal bis auf 1100m hinauf. Ich parkte um 8:00 auf dem unteren der beiden Parkplätze, der für die Rundtour besser geeignet ist, da man sonst entweder am Anfang bergab oder am Ende bergauf steigen müsste (beides seltsam beim Wandern). Ich entschied mich die Tour entgegen des Uhrzeigersinns zu unternehmen.",
     "landmarks": [
       {
         "photos": [
@@ -42,7 +49,7 @@
           }
         ],
         "videos": [],
-        "text": "Der Weg führt steil, aber schön, durch den total vermoosten Wald den Hang hinauf."
+        "text": "Der Weg führte steil, aber schön, durch den total vermoosten Wald den Hang hinauf."
       },
       {
         "photos": [
@@ -55,7 +62,7 @@
           }
         ],
         "videos": [],
-        "text": "Schon etwas weiter oben der Blick das Tal hinab. Im Hintergrund die Churfirsten hinter dem Walensee (nicht der kleine Teich vorne 😉)."
+        "text": "Schon etwas weiter oben der Blick das Tal hinab. Im Hintergrund die Churfirsten hinter dem Walensee <span data-silent>(nicht der kleine Teich vorne 😉)</span>."
       },
       {
         "photos": [
@@ -68,7 +75,7 @@
           }
         ],
         "videos": [],
-        "text": "Nach etwa 45min Aufstieg erreichte ich ein Hochtal. Diesen Aufstieg überbrücken die oben gelegenen Alpen mittels einer Transportseilbahn."
+        "text": "Nach etwa 45 min Aufstieg erreichte ich ein Hochtal. Diesen Aufstieg überbrücken die oben gelegenen Alpen mittels einer Transportseilbahn."
       },
       {
         "photos": [
@@ -209,7 +216,7 @@
           }
         ],
         "videos": [],
-        "text": "Am Ende des Tal ging es über den Bach nach links. Danach wurde es steiler, da es nun darum ging die Murgseefurggel zu überwinden. Einen Pass der dieses Tal mit dem Haupttal verbindet."
+        "text": "Am Ende des Tals ging es über den Bach nach links. Danach wurde es steiler, da es nun darum ging die Murgseefurggel zu überwinden. Einen Pass der dieses Tal mit dem Haupttal verbindet."
       },
       {
         "photos": [
@@ -368,7 +375,7 @@
           }
         ],
         "videos": [],
-        "text": "Planzen am Wegrand."
+        "text": "Pflanzen am Wegrand."
       },
       {
         "photos": [
@@ -439,6 +446,6 @@
         "text": "Wie man sieht war es eine sehr gleichmäßige Tour. Die erste Hälfte immer bergauf und die zweite Hälfte immer bergab. Mit Pausen war ich 6h unterwegs, wobei ich mir ziemlich viel Zeit gelassen habe."
       }
     ],
-    "outro": "Fazit: Landschaftlich sehr schöne Wanderung. Das Wetter hätte es sonniger sein können, denn Wasser zum Abkühlen hätte es wahrlich genug gehabt. Der Weg ist auch immer ungefährlich, kann man also auch gut mit Kindern bzw. mit weniger Bergerfahrenen machen."
+    "outro": "Fazit: Landschaftlich sehr schöne Wanderung. Das Wetter hätte sonniger sein können, denn Wasser zum Abkühlen hätte es wahrlich genug gehabt. Der Weg ist auch immer ungefährlich, kann man also auch gut mit Kindern bzw. mit weniger Berg-Erfahrenen machen."
   }
 ]
