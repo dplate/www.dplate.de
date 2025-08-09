@@ -3,8 +3,8 @@ const jsonfile = require('jsonfile');
 const fs = require('fs');
 
 const projectPath = 'C:/Users/Roger/web/Dp3';
-const destination = 'glarus';
-const reportDate = '20160709';
+const destination = 'alpstein';
+const reportDate = '20140622';
 
 const client = new textToSpeech.TextToSpeechClient();
 
@@ -60,6 +60,10 @@ const pronunciations = [
   {
     regex: /(kamor)/ig,
     ipa: 'ˈkaamor'
+  },
+  {
+    regex: /(schäflers)/ig,
+    ipa: 'ʃɛɛflərs'
   }
 ];
 

@@ -5,10 +5,17 @@
     "type": "hike",
     "track": true,
     "detailMap": "swiss",
-    "shortTitle": "Seealpsee",
-    "title": "Umrundung Seealpsee",
-    "movie": "JxyK92ywbRs",
-    "intro": "Nachdem ich im letzten Herbst bereits eine bekannte Wanderung am Hohen Kasten im Alpsteingebiet unternommen hatte (<a href=\"/alpine/alpstein/20131019\">Bericht</a>), machte ich mich diesen Sonntag zu einer weiteren populären Tour in diesem Gebirgsmassivs auf - rund um den Seealpsee.<br />\nDa ich mir gerne Zeit beim Wandern lasse, war ich bereits um 7:30 am Gratisparkplatz in Wasserauen angekommen. Während auf der Fahrt fast niemand unterwegs war, waren überraschenderweise die Parkflächen bereits halb belegt (wahrscheinlich viele Mehrtageswanderer).",
+    "shortTitle": "Schäfler",
+    "title": "Schäfler - Mesmer - Meglisalp",
+    "title3d": {
+      "align": "right",
+      "offsetY": 3,
+      "fontSize": 6.5,
+      "width": 1920,
+      "height": 486
+    },
+    "movie": "16knndXtjP0",
+    "intro": "Nachdem ich im letzten Herbst bereits eine bekannte Wanderung am Hohen Kasten im Alpsteingebiet unternommen hatte <span data-silent>(<a href=\"/alpine/alpstein/20131019\">Bericht</a>)</span>, machte ich mich diesen Sonntag zu einer weiteren Tour in diesem Gebirgsmassiv auf, die mich rund um den Seealpsee führte.<br />\nDa ich mir gerne Zeit beim Wandern lasse, war ich bereits um halb acht am Parkplatz in Wasserauen angekommen. Während auf der Fahrt fast niemand unterwegs war, waren überraschenderweise die Parkflächen bereits halb belegt - wahrscheinlich von vielen Mehrtageswanderer.",
     "landmarks": [
       {
         "photos": [
@@ -34,13 +41,13 @@
           }
         ],
         "videos": [],
-        "text": "Zu Beginn führt der Weg über viele Stufen im Wald hinauf. Zwischendurch ging's auch mal entlang an dieser Wiese, so dass der Blick hinüber zum Hohen Kasten frei wurde."
+        "text": "Zu Beginn führt der Weg über viele Stufen im Wald hinauf. Zwischendurch ging's auch mal entlang dieser Wiese, so dass der Blick hinüber zum Hohen Kasten frei wurde."
       },
       {
         "photos": [
           {
             "name": "003",
-            "alt": "Blick aus Dunklem Wald zur Ebenalp",
+            "alt": "Blick aus dunklem Wald zur Ebenalp",
             "date": "2014-06-22T08:14:48.000+02:00",
             "width": 1620,
             "height": 1080
@@ -73,7 +80,7 @@
           }
         ],
         "videos": [],
-        "text": "Nochmal Blick zurück auf den Hohen Kasten und die Trasse dessen Seilbahn."
+        "text": "Nochmal der Blick zurück auf den Hohen Kasten und die Trasse dessen Seilbahn."
       },
       {
         "photos": [
@@ -125,7 +132,7 @@
           }
         ],
         "videos": [],
-        "text": "Und da fuhr sie schon wieder..."
+        "text": "Und da fuhr die Seilbahn schon wieder..."
       },
       {
         "photos": [
@@ -151,7 +158,7 @@
           }
         ],
         "videos": [],
-        "text": "An der Felswand angekommen."
+        "text": "Nun war ich an der Felswand angekommen."
       },
       {
         "photos": [
@@ -171,7 +178,7 @@
           }
         ],
         "videos": [],
-        "text": "Unter der überhängenden Felswand kauert fotogen das Restaurant Äscher, eines der bekanntesten Motive."
+        "text": "Unter der überhängenden Felswand kauert fotogen das Restaurant Äscher, eines der bekanntesten Motive im Alpstein."
       },
       {
         "photos": [
@@ -184,7 +191,7 @@
           }
         ],
         "videos": [],
-        "text": "Danach ging es auf gut ausgebautem Weg in der Felswand weiter vorbei an der kleinen Grottenkapelle Wildkirchli."
+        "text": "Danach ging es auf gut ausgebautem Weg in der Felswand weiter, vorbei an der kleinen Grottenkapelle Wildkirchli."
       },
       {
         "photos": [
@@ -230,7 +237,7 @@
           }
         ],
         "videos": [],
-        "text": "... und man kommt oberhalb der Felswand wieder hinaus."
+        "text": "... und ich kam oberhalb der Felswand wieder hinaus."
       },
       {
         "photos": [
@@ -269,7 +276,7 @@
           }
         ],
         "videos": [],
-        "text": "Hier links im Bild ist er bereits zu sehen."
+        "text": "Hier links im Bild ist der Schäfler bereits zu sehen."
       },
       {
         "photos": [
@@ -308,7 +315,7 @@
           }
         ],
         "videos": [],
-        "text": "Blick auf den weiteren Weg. Dieser Abschnitt war gut besucht, da der Schäfler das Ziel vieler Seilbahnauffahrer ist."
+        "text": "Hier der Blick auf den weiteren Weg. Dieser Abschnitt war gut besucht, da der Schäfler das Ziel vieler Seilbahnauffahrer ist."
       },
       {
         "photos": [
@@ -334,7 +341,7 @@
           }
         ],
         "videos": [],
-        "text": "Vorbei an der Bergstation des höchsten Schlepplifts des Skigebiets Ebenalp... es gibt allerdings auch nur zwei Schlepplifte."
+        "text": "Vorbei an der Bergstation des höchsten Schlepplifts des Skigebiets Ebenalp. Es gibt allerdings auch nur zwei Schlepplifte."
       },
       {
         "photos": [
@@ -347,7 +354,7 @@
           }
         ],
         "videos": [],
-        "text": "Oben an der Kante des Schäflers angekommen, der nach Norden hin steil abfällt. Die Kuh genießt den Ausblick zum Kronberg."
+        "text": "Nun war ich oben an der Kante des Schäflers angekommen, der nach Norden hin steil abfällt. Die Kuh genoss den Ausblick zum Kronberg."
       },
       {
         "photos": [
@@ -360,7 +367,7 @@
           }
         ],
         "videos": [],
-        "text": "Und auch die Alpendohle profitiert vom steilen Abbruch."
+        "text": "Und auch die Alpendohle profitierte vom steilen Abbruch."
       },
       {
         "photos": [
@@ -373,7 +380,7 @@
           }
         ],
         "videos": [],
-        "text": "Puh, fast geschafft (10:30). Die Gaststätte wird von einer Transportseilbahn vom Norden her versorgt. Dort führt auch ein Weg hinab, der aber nur etwas für hart gesottene ist."
+        "text": "Puh, um 10:30 hatte ich es fast geschafft. Die Gaststätte wird von einer Transportseilbahn vom Norden her versorgt. Dort führt auch ein Weg hinab, der aber nur etwas für hart gesottene ist."
       },
       {
         "photos": [
@@ -393,7 +400,7 @@
           }
         ],
         "videos": [],
-        "text": "Blick vom Gipfel des Schäflers auf den weiteren Verlauf des Wegs. *brrr* - ganz schön respekteinflösend. Im Hintergrund der Säntis mit der markanten Antenne."
+        "text": "Blick vom Gipfel des Schäflers auf den weiteren Verlauf des Wegs, <span data-silent>*brrr* -</span> ganz schön Respekt einflößend. Im Hintergrund der Säntis mit der markanten Antenne."
       },
       {
         "photos": [
@@ -406,7 +413,7 @@
           }
         ],
         "videos": [],
-        "text": "Gaststätte vom Gipfel aus aufgenommen."
+        "text": "Die Gaststätte vom Gipfel aus aufgenommen."
       },
       {
         "photos": [
@@ -446,7 +453,7 @@
           }
         ],
         "videos": [],
-        "text": "Dann gelangt man über eine alte Treppe auf die Südseite, wo es ebenfalls nicht gerade flach Richtung Seealpsee abfällt (auf 2D-Fotos einfach nicht einzufangen)."
+        "text": "Dann gelangt man über eine alte Treppe auf die Südseite, wo es ebenfalls nicht gerade flach Richtung Seealpsee abfällt <span data-silent>(auf 2D-Fotos einfach nicht einzufangen)</span>."
       },
       {
         "photos": [
@@ -459,7 +466,7 @@
           }
         ],
         "videos": [],
-        "text": "Und über eine neue Treppe weiter zum eigentlichen Hangweg."
+        "text": "Und weiter ging es über eine neue Treppe zum eigentlichen Hangweg."
       },
       {
         "photos": [
@@ -472,7 +479,7 @@
           }
         ],
         "videos": [],
-        "text": "Anschließend ist der Weg alles andere als harmlos, ich war froh, dass dort ein psychologisch wichtiges Drahtseil vorhanden war."
+        "text": "Auch anschließend ist der Weg alles andere als harmlos und ich war froh, dass dort ein psychologisch wichtiges Drahtseil vorhanden ist."
       },
       {
         "photos": [
@@ -485,7 +492,7 @@
           }
         ],
         "videos": [],
-        "text": "Blick nach vorne auf den weiteren Weg."
+        "text": "Der Blick nach vorne auf den weiteren Weg."
       },
       {
         "photos": [
@@ -498,7 +505,7 @@
           }
         ],
         "videos": [],
-        "text": "Und nochmal zurück zum Schäfler."
+        "text": "Und der Blick zurück zum Schäfler."
       },
       {
         "photos": [
@@ -511,7 +518,7 @@
           }
         ],
         "videos": [],
-        "text": "Dann wurde es etwas flacher, wieder der Blick zurück zum Schäfler und dem Seealpsee."
+        "text": "Dann wurde es etwas flacher und wieder der Blick zurück zum Schäfler und dem Seealpsee."
       },
       {
         "photos": [
@@ -524,7 +531,7 @@
           }
         ],
         "videos": [],
-        "text": "Weiter geht's zu einer Scharte, an der man gut Pause machen kann."
+        "text": "Weiter ging es zu einer Scharte, an der ich eine schöne Pause machen konnte."
       },
       {
         "photos": [
@@ -537,7 +544,7 @@
           }
         ],
         "videos": [],
-        "text": "So auch ich. Auf der anderen Seite der Scharte ist das nächste Ziel sichtbar, das Restaurant Mesmer (der kleine braune Fleck in der Mitte im Tal)."
+        "text": "Auf der anderen Seite der Scharte war das nächste Ziel sichtbar, das Restaurant Mesmer (der kleine braune Fleck in der Mitte des Tals)."
       },
       {
         "photos": [
@@ -576,7 +583,7 @@
           }
         ],
         "videos": [],
-        "text": "Anschließend ging es aber auch leider für mich wieder bergauf. Aber der Blick zurück entschädigt. Links ist übrigens die Scharte zu sehen, durch die ich gekommen war."
+        "text": "Anschließend ging es aber auch leider für mich wieder bergauf, aber der Blick zurück entschädigte. Links ist übrigens die Scharte zu sehen, durch die ich gekommen war."
       },
       {
         "photos": [
@@ -602,7 +609,7 @@
           }
         ],
         "videos": [],
-        "text": "Blick vom Gasthaus zum Säntis (2500m), für den zur Zeit aber noch zu viel Schnee liegt.<br />\nDa es noch recht früh war (12:30) beschloss ich von hier aus links zur Ageteplatte aufzusteigen. Von unten konnte ich unmöglich ausmachen, wie dort ein Weg hinaufführen soll."
+        "text": "Blick vom Gasthaus zum Säntis (2500m), für den aber noch zu viel Schnee lag.<br />\nDa es noch recht früh war (12:30) beschloss ich von hier aus links zur Ageteplatte aufzusteigen. Von unten konnte ich unmöglich ausmachen, wie dort ein Weg hinaufführen soll."
       },
       {
         "photos": [
@@ -615,7 +622,7 @@
           }
         ],
         "videos": [],
-        "text": "Zuerst führt der Weg nur steil über ein Wiese hinauf, bis man die Felswand erreicht. Ab dort muss man etwas kraxeln, der Weg ist dort aber durchgängig mit Drahtseil abgesichert. Abwärts würde ich es aber nicht empfehlen."
+        "text": "Zuerst führte der Weg nur steil über eine Wiese hinauf, bis ich die Felswand erreichte. Ab dort musste ich etwas kraxeln, aber der Weg ist dort durchgängig mit Drahtseil abgesichert. Abwärts würde ich es aber nicht empfehlen."
       },
       {
         "photos": [
@@ -628,7 +635,7 @@
           }
         ],
         "videos": [],
-        "text": "Kaum Möglichkeiten den Fotoapparat heraus zu kramen. Hier schon fast oben, direkt an den überhängenden Felswänden."
+        "text": "Ich hatte kaum Möglichkeiten den Fotoapparat heraus zu kramen. Hier war ich schon fast oben, direkt an den überhängenden Felswänden."
       },
       {
         "photos": [
@@ -641,7 +648,7 @@
           }
         ],
         "videos": [],
-        "text": "Belohnung Gipfelerlebnis. Auf der Südseite fast durchgängig Wiese, so dass man oben recht angenehm pausieren kann."
+        "text": "Als Belohnung gab es eine Art Gipfelerlebnis. Auf der Südseite ist fast durchgängig Wiese, so dass man oben recht angenehm pausieren kann."
       },
       {
         "photos": [
@@ -661,7 +668,7 @@
           }
         ],
         "videos": [],
-        "text": "Blick auf das nächste Ziel unten im Tal, die Meglisalp. Der Weg recht entspannend, mal nicht direkt an einem Abgrund. 😉"
+        "text": "Blick auf das nächste Ziel unten im Tal, die Meglisalp. Der Weg war hier recht entspannend, endlich mal nicht direkt an einem Abgrund. 😉"
       },
       {
         "photos": [
@@ -687,7 +694,7 @@
           }
         ],
         "videos": [],
-        "text": "Noch vor der Meglisalp Blick auf den Seealpsee. Links der Schäfler."
+        "text": "Noch vor der Meglisalp der Blick auf den Seealpsee. Links befindet sich der Schäfler."
       },
       {
         "photos": [
@@ -700,7 +707,7 @@
           }
         ],
         "videos": [],
-        "text": "Ankunft auf der Meglisalp (14:20). Jetzt zog es vom Säntis etwas zu, was aber auf Grund der hohen Temperaturen sehr angenehm war."
+        "text": "Ich kam auf der Meglisalp um 14:20 an. Jetzt zog es vom Säntis etwas zu, was aber auf Grund der hohen Temperaturen sehr angenehm war."
       },
       {
         "photos": [
@@ -726,7 +733,7 @@
           }
         ],
         "videos": [],
-        "text": "An der kleinen Kirche fand ein Openair-Gottesdienst statt, an dem richtig viele teilnahmen. Für mich dient so etwas aber nur als Fotomotiv."
+        "text": "An der kleinen Kirche fand ein Openair-Gottesdienst statt, an dem richtig Viele teilnahmen. Für mich diente es aber nur als Fotomotiv."
       },
       {
         "photos": [
@@ -739,7 +746,7 @@
           }
         ],
         "videos": [],
-        "text": "Von der Meglisalp führt ein breiterer Weg weiter, aber Waren erreichen die Alp nur per Transportseilbahn vom Seealpsee her.<br />\nRechts übrigens die Ageteplatte."
+        "text": "Von der Meglisalp führt ein breiterer Weg weiter, aber Waren erreichen die Alp nur per Transportseilbahn vom Seealpsee her.<br />\nRechts ist übrigens die Ageteplatte zu sehen."
       },
       {
         "photos": [
@@ -772,7 +779,7 @@
           }
         ],
         "videos": [],
-        "text": "Ganz schön steil, ausgesetzt und viele, viele Stufen."
+        "text": "Es war ganz schön steil, ausgesetzt und es gab viele, viele Stufen."
       },
       {
         "photos": [
@@ -792,7 +799,7 @@
           }
         ],
         "videos": [],
-        "text": "Ziemlich erschöpft endlich am Ufer des Seealpsee. Badehose an und rein ins kalte Nass. Erst schmerzten die Füße, aber dann habe ich mit Genuss die Salzkrusten vom Körper abgewaschen. Nach ein paar Zügen wurde es dann aber doch etwas zu frisch. 😉"
+        "text": "Ziemlich erschöpft war ich nun endlich am Ufer des Seealpsees. Ich zog die Badehose an und ging rein ins kalte Nass. Erst schmerzten die Füße, aber dann hatte ich mit Genuss die Salzkrusten vom Körper abgewaschen. Nach ein paar Zügen wurde es dann aber doch etwas zu frisch. 😉"
       },
       {
         "photos": [
@@ -805,7 +812,7 @@
           }
         ],
         "videos": [],
-        "text": "Um 16:30 ging's dann weiter auf viel begangenem Weg entlang des Seealpsees, wo auch fleißig am Ufer gegrillt wurde. Ganz hinten im Tal unterhalb des Schneefelds ist übrigens das Gasthaus Mesmer."
+        "text": "Um 16:30 ging's dann weiter auf viel begangenem Weg entlang des Seealpsees, wo auch fleißig am Ufer gegrillt wurde. Ganz hinten im Tal unterhalb des Schneefelds ist übrigens das Gasthaus Mesmer zu sehen."
       },
       {
         "photos": [
@@ -818,7 +825,7 @@
           }
         ],
         "videos": [],
-        "text": "Dann hat man die Wahl, ob man die (für Autos gesperrte) Fahrstraße durch die Schlucht absteigen will oder lieber den Wanderweg etwas oberhalb nimmt. Ich bin natürlich den Wanderweg gegangen, der mich dann aber doch ziemlich geschlaucht hat, da es wieder gefühlt tausende Treppenstufen bergab ging."
+        "text": "Dann hat man die Wahl, ob man die (für Autos gesperrte) Fahrstraße durch die Schlucht absteigen will oder lieber den Wanderweg etwas oberhalb nimmt. Ich war natürlich den Wanderweg gegangen, der mich dann aber doch ziemlich geschlaucht hatte. Denn es ging wieder gefühlt tausende Treppenstufen bergab."
       },
       {
         "photos": [
@@ -852,6 +859,6 @@
         "text": "Gelaufene Strecke. Addiert 1800 Höhenmeter auf 20km Strecke bei rund 7.5h Gehzeit + 2h Pausen."
       }
     ],
-    "outro": "Fazit: Sehr schöner Rundweg - schwindelfrei sollte man aber auf jeden Fall sein, da die Wege ziemlich extrem sind. Verkürzen kann man die Tour zum Einen mit einer Auffahrt zur Ebenalp, zum Anderen kann man auch schon von der Mesmer-Hütte zum Seealpsee absteigen. Wer allergisch auf andere Wanderer reagiert sollte lieber einen Werktag wählen, da am Wochenende immer recht viel los ist. Ich empfand es aber nicht als störend."
+    "outro": "Fazit: Sehr schöner Rundweg - schwindelfrei sollte man aber auf jeden Fall sein, da die Wege ziemlich ausgesetzt sind. Verkürzen kann man die Tour zum einen mit einer Auffahrt zur Ebenalp, zum anderen kann man auch schon von der Mesmer-Hütte zum Seealpsee absteigen. Wer allergisch auf andere Wanderer reagiert sollte lieber einen Werktag wählen, da am Wochenende immer recht viel los ist. Ich empfand es aber nicht als störend."
   }
 ]
