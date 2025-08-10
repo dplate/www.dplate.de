@@ -4,11 +4,19 @@
     "date": "d20161029",
     "type": "hike",
     "track": true,
+    "timeShift": -120,
     "detailMap": "swiss",
     "shortTitle": "Fulhorn",
     "title": "Brambrüesch - Fulhorn",
-    "movie": "e3RZrDIeF9o",
-    "intro": "So langsam geht die Wandersaison zu Ende. Da aber letztes Wochenende noch einmal sonniges Wetter in der Höhe angesagt war, ging es für mich für diese Jahreszeit noch mal recht weit hinauf - zum 2500m hohen Fulhorn zwischen Lenzerheide und Chur.<br />\nAls Ausgangspunkt wählte ich den kleinen Skiort Brambrüesch, der mit einer Seilbahn von Chur aus erreichbar ist. Da ich aber auch gerne Bergstraßen fahre, bin ich die einspurige Straße hinaufgekurvt und stellte mein Auto auf dem großen Parkplatz um 8:40 auf 1600m Höhe ab. Normalerweise kostet es dort Parkgebühren, aber außerhalb der Saison war der Automat zugehängt... ich war in dem Moment auch das einzige Auto.",
+    "title3d": {
+      "offsetY": 3,
+      "fontSize": 8,
+      "align": "center",
+      "width": 1920,
+      "height": 512
+    },
+    "movie": "aGe0EwSQ5CY",
+    "intro": "So langsam ging die Wandersaison zu Ende. Da aber das Wochenende noch einmal sonniges Wetter in der Höhe angesagt war, ging es für mich für diese Jahreszeit noch mal recht weit hinauf - zum 2500m hohen Fulhorn zwischen Lenzerheide und Chur.<br />\nAls Ausgangspunkt wählte ich den kleinen Skiort Brambrüesch, der mit einer Seilbahn von Chur aus erreichbar ist. Da ich aber auch gerne Bergstraßen fahre, bin ich die einspurige Straße hinauf gekurvt und stellte mein Auto auf dem großen Parkplatz um 8:40 auf 1600m Höhe ab. Normalerweise kostet es dort Parkgebühren, aber außerhalb der Saison war der Automat zugehängt... ich war in dem Moment auch das einzige Auto.",
     "landmarks": [
       {
         "photos": [
@@ -34,7 +42,7 @@
           }
         ],
         "videos": [],
-        "text": "An dieser Stelle verließ ich dann die breiten Weg und es ging auf normalem Wanderweg weiter. Hier der Blick nach Osten (unschwer am Sonnenstand zu erkennen). Hinten das Tal nach Arosa."
+        "text": "An dieser Stelle verließ ich dann den breiten Weg und es ging auf normalem Wanderweg weiter. Hier der Blick nach Osten (unschwer am Sonnenstand zu erkennen). Hinten ist das Tal nach Arosa zu sehen."
       },
       {
         "photos": [
@@ -47,7 +55,7 @@
           }
         ],
         "videos": [],
-        "text": "So sah der einfache Weg hier aus (Sicht zurück)."
+        "text": "So sah der einfache Weg hier aus (hier die Sicht zurück)."
       },
       {
         "photos": [
@@ -60,7 +68,7 @@
           }
         ],
         "videos": [],
-        "text": "Ebenfalls beim Blick konnte ich diese schöne Wolkenformation über der Calanda auf der anderen Seite des Rheintals sehen."
+        "text": "Ebenfalls beim Blick zurück konnte ich diese schöne Wolkenformation über der Calanda auf der anderen Seite des Rheintals sehen."
       },
       {
         "photos": [
@@ -106,7 +114,7 @@
           }
         ],
         "videos": [],
-        "text": "Inzwischen war ich schon fast in Höhe Churwaldens. Vom Weg nach Pradaschier zweigte ich aber nun nach rechts ab."
+        "text": "Inzwischen war ich schon fast in Höhe von Churwalden. Vom Weg nach Pradaschier zweigte ich aber nun nach rechts ab."
       },
       {
         "photos": [
@@ -119,7 +127,7 @@
           }
         ],
         "videos": [],
-        "text": "Und nun es ging über Plastikrohre steil bergauf."
+        "text": "Und nun ging es über Plastikrohre steil bergauf."
       },
       {
         "photos": [
@@ -132,7 +140,7 @@
           }
         ],
         "videos": [],
-        "text": "Blick das Rheintal hinab. Hinten ist der Naafkopf zu sehen, das Ziel meiner <a href=\"/alpine/malbun/20161016\">letzten Wanderung</a> in Liechtenstein. Leider zogen nun unangekündigt einige Wolkenfelder auf - zum Glück hielten sie sich aber nicht lange."
+        "text": "Blick das Rheintal hinab. Hinten ist der Naafkopf zu sehen, das Ziel meiner <a href=\"/alpine/malbun/20161016\">letzten Wanderung</a> in Liechtenstein war. Leider zogen nun unangekündigt einige Wolkenfelder auf - zum Glück hielten sie sich aber nicht lange."
       },
       {
         "photos": [
@@ -178,7 +186,7 @@
           }
         ],
         "videos": [],
-        "text": "Hier war nun das Ziel - das Fulhorn - zu sehen. Die Nordseite war bis auf 2300m hinab schneebedeckt - was mir doch etwas Sorgen bereitete, da ich den Berg noch nie bestiegen hatte."
+        "text": "Hier war nun das Ziel, das Fulhorn, zu sehen. Die Nordseite war bis auf 2300m hinab schneebedeckt - was mir doch etwas Sorgen bereitete, da ich den Berg noch nie bestiegen hatte."
       },
       {
         "photos": [
@@ -230,7 +238,7 @@
           }
         ],
         "videos": [],
-        "text": "Steiler Blick hinab nach Churwalden. Das Geröll war hier nicht gerade sympatisch und der Weg recht wenig ausgetreten."
+        "text": "Steiler Blick hinab nach Churwalden. Das Geröll war hier nicht gerade sympathisch und der Weg war recht wenig ausgetreten."
       },
       {
         "photos": [
@@ -269,7 +277,7 @@
           }
         ],
         "videos": [],
-        "text": "Blick zurück während des Aufstiegs. Rechts das Tal geht durch die Viamala zum St. Bernadino."
+        "text": "Blick zurück während des Aufstiegs. Rechts das Tal geht durch die Via Mala zum St. Bernardino."
       },
       {
         "photos": [
@@ -282,7 +290,7 @@
           }
         ],
         "videos": [],
-        "text": "Um 12:30 kam ich auf dem 2530m hohen Gipfel an, auf dem politisch korrekt kein Kreuz steht. 😉"
+        "text": "Um 12:30 kam ich auf dem 2530m hohen Gipfel an<span data-silent>, auf dem politisch korrekt kein Kreuz steht</span>. 😉"
       },
       {
         "photos": [
@@ -295,7 +303,7 @@
           }
         ],
         "videos": [],
-        "text": "Blick nach Norden und meinem bevorstehenden Abstieg."
+        "text": "Blick nach Norden und auf meinen bevorstehenden Abstieg."
       },
       {
         "photos": [
@@ -321,7 +329,7 @@
           }
         ],
         "videos": [],
-        "text": "Tele zum 1300m tieferen Scheid/Purz, zwei kleine Orte oberhalb des Rheintals."
+        "text": "Tele zum 1300m tieferen Scheid und Purz, zwei kleine Orte oberhalb des Rheintals."
       },
       {
         "photos": [
@@ -347,7 +355,7 @@
           }
         ],
         "videos": [],
-        "text": "Tele zum Fulenberg, Stätzerhorn und rechts Piz Danis."
+        "text": "Tele zum Fulenberg, Stätzerhorn und rechts dem Piz Danis."
       },
       {
         "photos": [
@@ -360,7 +368,7 @@
           }
         ],
         "videos": [],
-        "text": "Nun machte ich mich an den Abstieg auf dem Nordgrat. Kein Schnee, aber trotzdem auf Grund des rutschigen Gestein nicht ganz einfach."
+        "text": "Nun machte ich mich an den Abstieg auf dem Nordgrat. Es gab kein Schnee, es war aber trotzdem auf Grund des rutschigen Gesteins nicht ganz einfach."
       },
       {
         "photos": [
@@ -373,7 +381,7 @@
           }
         ],
         "videos": [],
-        "text": "Und so ging es links runter."
+        "text": "Und so weit ging es links runter."
       },
       {
         "photos": [
@@ -438,7 +446,7 @@
           }
         ],
         "videos": [],
-        "text": "Ich erreichte nun wieder den flachen Bergrücken... und so sah das Gelände dort großflächig aus. Man konnte sich aussuchen, ob man mit großen Schritten von Buckel zu Buck ging oder lieber durch die &quot;Täler&quot; und sich die Beine an den Blaubeerbüschen kratzt."
+        "text": "Ich erreichte nun wieder den flachen Bergrücken und so sah das Gelände dort großflächig aus. Man konnte sich aussuchen, ob man mit großen Schritten von Buckel zu Buckel ging oder lieber durch die Täler und sich die Beine an den Blaubeerbüschen kratzte."
       },
       {
         "photos": [
@@ -464,7 +472,7 @@
           }
         ],
         "videos": [],
-        "text": "Ich entschied mich für einen kleinen weglosen Abstecher zum Windegga - der Berg sagt vielleicht manchen was. 😉<br />\nBlick von dort wieder hinab nach Churwalden."
+        "text": "Ich entschied mich für einen kleinen weglosen Abstecher zum Windegga. Der Berg sagt vielleicht manchen was. 😉<br />\nBlick von dort wieder hinab nach Churwalden."
       },
       {
         "photos": [
@@ -477,7 +485,7 @@
           }
         ],
         "videos": [],
-        "text": "Und die Bergstation des Schlepplifts Windegga."
+        "text": "Und hier ist die Bergstation des Schlepplifts Windegga zu sehen."
       },
       {
         "photos": [
@@ -490,7 +498,7 @@
           }
         ],
         "videos": [],
-        "text": "Vorschau auf den nun anstehenden weiteren Weg. Die Fläche sieht zwar sehr genüsslich aus, war aber auf Grund des bereits beschriebenen Untergrunds war es mühsam."
+        "text": "Vorschau auf den nun anstehenden weiteren Weg. Die Fläche sieht zwar sehr genüsslich aus, war aber auf Grund des bereits beschriebenen Untergrunds mühsam."
       },
       {
         "photos": [
@@ -524,7 +532,7 @@
           }
         ],
         "videos": [],
-        "text": "Auf halbem Weg ein paar kleinere Seen, da natürlich wieder für Fotos herhalten mussten."
+        "text": "Auf halbem Weg ein paar kleinere Seen, die natürlich wieder für Fotos herhalten mussten."
       },
       {
         "photos": [
@@ -537,7 +545,7 @@
           }
         ],
         "videos": [],
-        "text": "Blick zurück zum Fulhorn... und ja, der Weg hatte meistens diese Konsistenz. Deshalb bin ich fast durchgehend durch die Buckel nebendran gegangen."
+        "text": "Blick zurück zum Fulhorn... und ja, der Weg hatte meistens diese Konsistenz. Deshalb bin ich fast durchgehend über die Buckel nebendran gegangen."
       },
       {
         "photos": [
@@ -589,7 +597,7 @@
           }
         ],
         "videos": [],
-        "text": "Kurz hinter dem Dreibündenstein kam ich um 15:00 zum Furggabüel, dem Ende des Bergrückens und zum höchsten Punkt des Skigebiets Brambrüesch. Dort machte ich noch einmal in der warmen Sonne eine Pause und genoss die Aussicht nach Westen Richtung Disentis/Sedrun."
+        "text": "Kurz hinter dem Dreibündenstein kam ich um 15:00 zum Furggabüel, dem Ende des Bergrückens und zum höchsten Punkt des Skigebiets Brambrüesch. Dort machte ich noch einmal eine Pause in der warmen Sonne und genoss die Aussicht nach Westen Richtung Disentis."
       },
       {
         "photos": [
@@ -615,7 +623,7 @@
           }
         ],
         "videos": [],
-        "text": "Inspektion der Schuhe. Kein Wunder, dass es so rutschig war - denn das Profil war komlett mit Schlamm gefüllt. Aber Reinigen hätte auch keine Sinn gemacht."
+        "text": "Inspektion der Schuhe. Kein Wunder, dass es so rutschig war, denn das Profil war komplett mit Schlamm gefüllt. Aber reinigen hätte auch keinen Sinn gemacht."
       },
       {
         "photos": [
@@ -688,7 +696,7 @@
           }
         ],
         "videos": [],
-        "text": "Am Schluss ging es dann entlang des langen Schlepplift Hühnerköpfe im Schatten berab zum Parkplatz in Brambrüesch, den ich um 16:30 erreichte."
+        "text": "Am Schluss ging es dann entlang des langen Schlepplift Hühnerköpfe im Schatten bergab zum Parkplatz in Brambrüesch, den ich um 16:30 erreichte."
       },
       {
         "photos": [

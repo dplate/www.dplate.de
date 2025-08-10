@@ -3,8 +3,8 @@ const jsonfile = require('jsonfile');
 const fs = require('fs');
 
 const projectPath = 'C:/Users/Roger/web/Dp3';
-const destination = 'alpstein';
-const reportDate = '20140622';
+const destination = 'lenzerheide';
+const reportDate = '20161029';
 
 const client = new textToSpeech.TextToSpeechClient();
 
@@ -64,6 +64,10 @@ const pronunciations = [
   {
     regex: /(schäflers)/ig,
     ipa: 'ʃɛɛflərs'
+  },
+  {
+    regex: /(windegga)/ig,
+    ipa: 'ˈvɪnd.ɛɛga.'
   }
 ];
 
@@ -81,7 +85,7 @@ const generateAudio = async (rawText, audioFile) => {
     .replaceAll("'", '');
 
   // Help to pronounce all words correctly
-  for (const { regex, ipa} of pronunciations) {
+  for (const { regex, ipa } of pronunciations) {
     text = text.replace(regex, `<phoneme alphabet="ipa" ph="${ipa}">$1</phoneme>`)
   }
 
