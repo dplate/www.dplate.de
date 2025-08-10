@@ -179,6 +179,7 @@ const ReportMovie = ({ data: { reportJson } }) => {
               detailMap={detailMap}
               hideSwissTopo={hideSwissTopo}
               winter={type !== 'hike'}
+              flyInSeconds={phase.name === 'introScroll' ? phase.forDuration : null }
               onWishTimeReached={callNextPhase}
               onTimeChanged={setTime}
               size="fullscreen"

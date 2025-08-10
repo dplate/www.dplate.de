@@ -13,6 +13,7 @@ import {
   Color,
   createWorldTerrainAsync,
   Credit,
+  EasingFunction,
   Ellipsoid,
   EllipsoidGeodesic,
   Entity,
@@ -80,6 +81,8 @@ const CesiumContainer = styled.div`
     display: none;
   }
 `;
+
+const cameraDistance = 500;
 
 const extractTrackData = (track) => {
   const trackData = {
@@ -297,7 +300,19 @@ const turnToWinter = (scene) => {
   }
 };
 
-const findOptimalCameraHeight = (viewer, hikerPosition) => {
+const getHikerPositionAtTime = (viewer, hiker, time) => {
+  const hikerPosition = hiker.entity.position.getValue(time);
+  const hikerCart = Cartographic.fromCartesian(hikerPosition);
+  const hikerHeight = viewer.scene.globe.getHeight(hikerCart) || hikerCart.height;
+  Cartesian3.fromRadians(hikerCart.longitude, hikerCart.latitude, hikerHeight, Ellipsoid.default, hikerPosition);
+  Cartographic.fromCartesian(hikerPosition, Ellipsoid.default, hikerCart);
+  return {
+    hikerPosition,
+    hikerCart
+  };
+}
+
+const findOptimalCameraHeight = (viewer, hikerPosition ) => {
   const cameraPos = viewer.camera.positionCartographic;
   let optimalHeight = 0;
   for (let distanceFactor = 0.0; distanceFactor < 0.95; distanceFactor += 0.1) {
@@ -337,18 +352,14 @@ const updateCamera = (viewer, hiker, smooth = true) => {
     return;
   }
 
-  const newLookAtPosition = hiker.entity.position.getValue(calculateMovedTime(viewer, smooth ? 60 : 0));
-  const newLookAtCart = Cartographic.fromCartesian(newLookAtPosition);
-  const newLookAtHeight = viewer.scene.globe.getHeight(newLookAtCart) || newLookAtCart.height;
-  Cartesian3.fromRadians(newLookAtCart.longitude, newLookAtCart.latitude, newLookAtHeight, Ellipsoid.default, newLookAtPosition);
-  Cartographic.fromCartesian(newLookAtPosition, Ellipsoid.default, newLookAtCart);
+  const { hikerPosition: newLookAtPosition, hikerCart: newLookAtCart } =
+    getHikerPositionAtTime(viewer, hiker, calculateMovedTime(viewer, smooth ? 60 : 0));
 
   let newHeading = viewer.camera.heading;
   let newTilt = CesiumMath.toDegrees(viewer.camera.pitch);
   if (viewer.clock.shouldAnimate) {
     const futureTime = calculateMovedTime(viewer, 20 * 60, true);
-    const futureHikerPosition = hiker.entity.position.getValue(futureTime);
-    const futureCart = Cartographic.fromCartesian(futureHikerPosition);
+    const { hikerCart: futureCart } = getHikerPositionAtTime(viewer, hiker, futureTime);
     const geodesic = new EllipsoidGeodesic(newLookAtCart, futureCart);
     let necessaryHeadingChange = geodesic.startHeading - viewer.camera.heading;
     if (necessaryHeadingChange > Math.PI) {
@@ -371,7 +382,7 @@ const updateCamera = (viewer, hiker, smooth = true) => {
   const newPitch = CesiumMath.toRadians(newTilt);
 
   const previousCameraPosition = viewer.camera.positionWC.clone();
-  viewer.camera.lookAt(newLookAtPosition, new HeadingPitchRange(newHeading, newPitch, 500));
+  viewer.camera.lookAt(newLookAtPosition, new HeadingPitchRange(newHeading, newPitch, cameraDistance));
   if (smooth && viewer.clock.shouldAnimate) {
     const smoothCameraPosition = new Cartesian3();
     Cartesian3.lerp(previousCameraPosition, viewer.camera.positionWC, 0.1, smoothCameraPosition);
@@ -518,8 +529,22 @@ const prepareStart = async (trackData, viewer, hiker, targetTime, onAnimationSta
   return viewer.clock;
 };
 
+const startFlyIn = (viewer, hiker, flyInSeconds) => {
+  const { hikerPosition } = getHikerPositionAtTime(viewer, hiker, viewer.clock.startTime);
+  viewer.camera.lookAt(hikerPosition, new HeadingPitchRange(0, -Math.PI, cameraDistance));
+  const destination = viewer.camera.positionWC.clone();
+  viewer.camera.lookAt(hikerPosition, new HeadingPitchRange(0, -Math.PI, 50000));
+
+  viewer.camera.flyTo({
+    duration: flyInSeconds,
+    destination,
+    maximumHeight: 0,
+    easingFunction: EasingFunction.QUADRATIC_OUT
+  });
+};
+
 const Map = (props) => {
-  const { track, wishTime, timeShift, onWishTimeReached, onTimeChanged } = props;
+  const { track, wishTime, timeShift, flyInSeconds, onWishTimeReached, onTimeChanged } = props;
 
   const [mapStatus, setMapStatus] = useState('wait');
   const [viewer, setViewer] = useState(null);
@@ -575,7 +600,7 @@ const Map = (props) => {
   }, [clock, wishTime, timeShift, onAnimationStarted]);
 
   useEffect(() => {
-    if (clock) {
+    if (clock && !flyInSeconds) {
       const onTick = () => {
         try {
           tickChanged(viewer, hiker, targetTime, onAnimationStopped);
@@ -589,7 +614,13 @@ const Map = (props) => {
       clock.onTick.addEventListener(onTick);
       return () => clock.onTick.removeEventListener(onTick);
     }
-  }, [onAnimationStopped, onTimeChanged, viewer, hiker, targetTime, clock]);
+  }, [onAnimationStopped, onTimeChanged, viewer, hiker, targetTime, clock, flyInSeconds]);
+
+  useEffect(() => {
+    if (flyInSeconds) {
+      startFlyIn(viewer, hiker, flyInSeconds);
+    }
+  }, [viewer, hiker, flyInSeconds]);
 
   return (
     <div>
@@ -621,6 +652,7 @@ Map.propTypes = {
   detailMap: PropTypes.string,
   hideSwissTopo: PropTypes.bool,
   winter: PropTypes.bool,
+  flyInSeconds: PropTypes.number,
   onClick: PropTypes.func,
   onWishTimeReached: PropTypes.func,
   onTimeChanged: PropTypes.func
