@@ -7,8 +7,15 @@
     "detailMap": "swiss",
     "shortTitle": "Lisengrat",
     "title": "Wildhaus - Lisengrat",
-    "movie": "lL7ZuVKbjBA",
-    "intro": "Ohne große Vorplanung entschloss ich mich diesen Samstag eine Wanderung im Alpstein zu unternehmen. Der ursprünglich grobe Plan war von Wildhaus auf den Rotsteinpass zu laufen, dann hinüber zur Zwinglipasshütte und wieder runter nach Wildhaus.<br />\nNoch im Dunklen ging es mit dem Auto los und um kurf vor halb acht erreichte ich den Parkplatz der kleinen Gondelbahn Gamplüt. Da diese Bahn aber nur knapp 300 Höhenmeter überwindet und zu dem erst ab 8:30 fahren würde, verzichtete ich.",
+    "title3d": {
+      "align": "left",
+      "offsetY": 0,
+      "fontSize": 8.2,
+      "width": 1920,
+      "height": 482
+    },
+    "movie": "eJE7RJtdqB4",
+    "intro": "Ohne große Vorplanung entschloss ich mich diesen Samstag eine Wanderung im Alpstein zu unternehmen. Der ursprüngliche, grobe Plan war von Wildhaus auf den Rotsteinpass zu laufen, dann hinüber zur Zwinglipasshütte und wieder runter nach Wildhaus.<br />\nNoch im Dunklen ging es mit dem Auto los und um kurz vor halb acht erreichte ich den Parkplatz der kleinen Gondelbahn Gamplüt. Da diese Bahn aber nur knapp 300 Höhenmeter überwindet und zu dem erst ab 8:30 fahren würde, verzichtete ich.",
     "landmarks": [
       {
         "photos": [
@@ -47,7 +54,7 @@
           }
         ],
         "videos": [],
-        "text": "Von Gamplüt ging es dann auf einem Fahrweg leicht berab. Immer etwas traurig, unnötig Höhenmeter zu verlieren..."
+        "text": "Von Gamplüt ging es dann auf einem Fahrweg leicht bergab. Es ist immer etwas traurig, unnötig Höhenmeter zu verlieren..."
       },
       {
         "photos": [
@@ -60,7 +67,7 @@
           }
         ],
         "videos": [],
-        "text": "Dann ging es aber wieder von der Straße runter und der Weg führte (quer zum Hang) hinüber ins Tal, das zu Rotsteinpass geht. Zum ersten Mal tauchte hier der markante Säntisgipfel auf. Bis dort hin sind es aber mehr als 4h Aufstieg."
+        "text": "Dann ging es aber wieder von der Straße runter und der Weg führte (quer zum Hang) hinüber ins Tal, das zum Rotsteinpass geht. Zum ersten Mal tauchte hier der markante Säntisgipfel auf. Bis dort hin sind es aber mehr als 4h Aufstieg."
       },
       {
         "photos": [
@@ -86,7 +93,7 @@
           }
         ],
         "videos": [],
-        "text": "Vorbei am 1700m hohen Gasthaus Schafboden. Neben dem Pferd gab es dort noch Schweine und Ziegen - aber keine Schafe.<br />\nSchon 2h Stunden unterweg und 700 Höhenmeter geschafft."
+        "text": "Vorbei ging es am 1700m hohen Gasthaus Schafboden. Neben dem Pferd gab es dort noch Schweine und Ziegen - aber keine Schafe.<br />\nIch war schon 2 Stunden unterwegs und hatte 700 Höhenmeter geschafft."
       },
       {
         "photos": [
@@ -99,7 +106,7 @@
           }
         ],
         "videos": [],
-        "text": "Etwas verführt vom optimistischen Wegweiser mit 1:10h zum Säntis entschied ich mich vom schattigen Talweg abzuzweigen und statt dessen den Direktaufstieg Richtung Säntis zu nehmen. Dieser Weg führt zuerst steil den Grashang hinauf."
+        "text": "Etwas verführt vom optimistischen Wegweiser mit einer Stunde und zehn Minuten zum Säntis, entschied ich mich vom schattigen Talweg abzuzweigen und statt dessen den Direktaufstieg in Richtung Säntis zu nehmen. Dieser Weg führt zuerst steil den Grashang hinauf."
       },
       {
         "photos": [
@@ -112,7 +119,7 @@
           }
         ],
         "videos": [],
-        "text": "Der Weg war zum Teil ziemlich ausgesetzt und auch nicht übermäßig gesichert. Aber die Aussicht wurde schnell lohnend."
+        "text": "Der Weg war zum Teil ziemlich ausgesetzt und auch nicht übermäßig gesichert, aber die Aussicht wurde schnell lohnend."
       },
       {
         "photos": [
@@ -164,7 +171,7 @@
           }
         ],
         "videos": [],
-        "text": "So ging es bergauf. Eine ganz schöne Kraxelei. Mumeltiere und Gämsen wurden von mir aufgeschreckt und flüchteten vor der Kamera durch's steile Gelände."
+        "text": "So ging es bergauf. Es war eine ganz schöne Kraxelei. Murmeltiere und Gämsen wurden von mir aufgeschreckt und flüchteten vor der Kamera durch das steile Gelände."
       },
       {
         "photos": [
@@ -177,7 +184,7 @@
           }
         ],
         "videos": [],
-        "text": "Der Weg: wie man sieht auch nicht übermäßig begangen."
+        "text": "Der Weg: wie man sieht war er auch nicht übermäßig begangen."
       },
       {
         "photos": [
@@ -210,7 +217,7 @@
           }
         ],
         "videos": [],
-        "text": "Fast oben. Blick hinab auf den bewältigten Aufstieg. Abwärts würde ich ihn nicht gerne machen."
+        "text": "Hier war ich fast oben. Blick hinab auf den bewältigten Aufstieg. Abwärts würde ich ihn aber nicht gerne machen."
       },
       {
         "photos": [
@@ -223,7 +230,7 @@
           }
         ],
         "videos": [],
-        "text": "Nach viel Gekeuche und Geschwitze erreichte ich den Lisengrat vom <a href=\"/alpine/alpstein/20160911\">Säntis</a>. Nun wären es noch 20min bis zum zugebauten 2500m hohen Gipfel. Aber darauf verzichtete ich - ich hatte noch einiges Andere vor."
+        "text": "Nach viel Gekeuche und Geschwitze erreichte ich den Lisengrat beim <a href=\"/alpine/alpstein/20160911\">Säntis</a>. Nun wären es noch 20min bis zum zugebauten 2500m hohen Gipfel. Aber darauf verzichtete ich, denn ich hatte noch einiges Andere vor."
       },
       {
         "photos": [
@@ -301,7 +308,7 @@
           }
         ],
         "videos": [],
-        "text": "Und immer weiter mitten durch eine Felswand."
+        "text": "Und immer weiter ging es mitten durch eine Felswand."
       },
       {
         "photos": [
@@ -353,7 +360,7 @@
           }
         ],
         "videos": [],
-        "text": "Und noch mal, weil's so unglaublich ist."
+        "text": "Und noch mal der selbe Blick, weil es so unglaublich ist."
       },
       {
         "photos": [
@@ -405,7 +412,7 @@
           }
         ],
         "videos": [],
-        "text": "Ankunft am Rotsteinpass gegen 12:00."
+        "text": "Am Rotsteinpass kam ich gegen 12:00 an."
       },
       {
         "photos": [
@@ -418,7 +425,7 @@
           }
         ],
         "videos": [],
-        "text": "Aber bevor ich mich daran machte, gab's erst mal ein erfrischendes Getränk auf der Terasse der Hütte. Hier der Blick hinab Richtung Appenzell."
+        "text": "Aber bevor ich weiter ging, gab es erst mal ein erfrischendes Getränk auf der Terrasse der Hütte. Hier der Blick hinab Richtung Appenzell."
       },
       {
         "photos": [
@@ -457,7 +464,7 @@
           }
         ],
         "videos": [],
-        "text": "Und weiter... ein Höhepunkt nach dem anderen."
+        "text": "Und weiter ging es... ein Höhepunkt nach dem anderen."
       },
       {
         "photos": [
@@ -470,7 +477,7 @@
           }
         ],
         "videos": [],
-        "text": "Blick hinab zum Rotsteinpass."
+        "text": "Der Blick hinab zum Rotsteinpass."
       },
       {
         "photos": [
@@ -496,7 +503,7 @@
           }
         ],
         "videos": [],
-        "text": "Fast geschafft. Blick hinab. Es gab nicht viele Möglichkeiten, die Kamera herauszukramen."
+        "text": "Hier hatte ich es fast geschafft. Der Blick hinab. Es gab nicht viele Möglichkeiten, die Kamera herauszukramen."
       },
       {
         "photos": [
@@ -509,7 +516,7 @@
           }
         ],
         "videos": [],
-        "text": "Und Blick hinüber zum Lisengrat und Säntis."
+        "text": "Und der Blick hinüber zum Lisengrat und Säntis."
       },
       {
         "photos": [
@@ -522,7 +529,7 @@
           }
         ],
         "videos": [],
-        "text": "Grat erreicht. 😃 Auf der anderen Seite ist er zwar nicht so steil, aber auch nicht gerade flach. Der Grat führt zum Schafberg und auf diesem Grat führt auch ein Weg dorthin. Dieser ist aber ein schlechter gesicherter Blau/Weißer... nichts für mich."
+        "text": "Hier hatte ich den Grat erreicht. 😃 Auf der anderen Seite ist er zwar nicht so steil, aber auch nicht gerade flach. Der Grat führt zum Schafberg und auf diesem Grat führt auch ein Weg dorthin. Dieser ist aber ein schlechter gesicherter blau/weiß markierter Weg... nichts für mich."
       },
       {
         "photos": [
@@ -548,7 +555,7 @@
           }
         ],
         "videos": [],
-        "text": "Bereits beim Abstieg: der Altmann von der Seite aus betrachtet. Ein sehr krasser Gipfel, auf dem auch einige Kletterer unterwegs waren."
+        "text": "Hier bereits beim Abstieg: der Altmann von der Seite aus betrachtet. Ein sehr krasser Gipfel, auf dem auch einige Kletterer unterwegs waren."
       },
       {
         "photos": [
@@ -574,7 +581,7 @@
           }
         ],
         "videos": [],
-        "text": "Bis hin zur Zwinglipasshütte. Ich machte aber nur nebenan im Gras eine Pause."
+        "text": "Bis hin zur Zwinglipasshütte. Ich machte aber nur nebenan im Gras eine weitere Pause."
       },
       {
         "photos": [
@@ -587,7 +594,7 @@
           }
         ],
         "videos": [],
-        "text": "Blick zurück auf den Abstieg.<br />\nDa es erst um 13:30 war, entschied ich mich nicht den direkt Abstieg zu machen, sondern weiter auf dem Bergrücken zum Mutschensattel. Dieser Umweg bedeutete gut 1.5h zusätzlich."
+        "text": "Der Blick zurück auf den Abstieg.<br />\nDa es erst um 13:30 war, entschied ich mich, nicht den direkt Abstieg zu machen, sondern weiter auf dem Bergrücken zum Mutschensattel zu gehen. Dieser Umweg bedeutete gut 1.5h zusätzlich."
       },
       {
         "photos": [
@@ -613,7 +620,7 @@
           }
         ],
         "videos": [],
-        "text": "Blick vom Zwinglipass runter zum Fälensee, an dessen Ende das große Berggasthaus Bollenwees liegt. Im Hintergrund wieder der <a href=\"/alpine/alpstein/20131019\">Hohe Kasten</a>."
+        "text": "Der Blick vom Zwinglipass runter zum Fälensee, an dessen Ende das große Berggasthaus Bollenwees liegt. Im Hintergrund wieder der <a href=\"/alpine/alpstein/20131019\">Hohe Kasten</a>."
       },
       {
         "photos": [
@@ -626,7 +633,7 @@
           }
         ],
         "videos": [],
-        "text": "Hier kann man den weiteren Verlauf des Wegs sehen. Praktisch immer auf dem Grat lang."
+        "text": "Hier kann man den weiteren Verlauf des Wegs sehen. Praktisch immer auf dem Rücken lang."
       },
       {
         "photos": [
@@ -639,7 +646,7 @@
           }
         ],
         "videos": [],
-        "text": "Blick zurück zum Altmann. Links davon war ich durchgekommen."
+        "text": "Der Blick zurück zum Altmann. Links davon war ich durchgekommen."
       },
       {
         "photos": [
@@ -659,7 +666,7 @@
           }
         ],
         "videos": [],
-        "text": "Und so harmlos sah es oben auf dem Rücken aus. Erst Blick zurück und dann nach vorne."
+        "text": "Und so harmlos sah es oben auf dem Rücken aus. Erst der Blick zurück und dann nach vorne."
       },
       {
         "photos": [
@@ -744,7 +751,7 @@
           }
         ],
         "videos": [],
-        "text": "Blick vom Gipfel Richtung Altmann."
+        "text": "Der Blick vom Gipfel Richtung Altmann."
       },
       {
         "photos": [
@@ -790,7 +797,7 @@
           }
         ],
         "videos": [],
-        "text": "Lila Blumenwiesen und lila Käfer. Leider ist er mir immer wieder aus dem Fokus gekrabelt."
+        "text": "Lila Blumenwiesen und lila Käfer. Leider ist er mir immer wieder aus dem Fokus gekrabbelt."
       },
       {
         "photos": [
@@ -868,7 +875,7 @@
           }
         ],
         "videos": [],
-        "text": "Am Schluss noch durch ein total vermoostes Bachbett... leider - wie alle an diesem Tag - ausgetrocknet."
+        "text": "Am Schluss noch durch ein total vermoostes Bachbett. Leider - wie alle an diesem Tag - ausgetrocknet."
       },
       {
         "photos": [
