@@ -4,11 +4,19 @@
     "date": "d20161016",
     "type": "hike",
     "track": true,
+    "timeShift": -120,
     "detailMap": "swiss",
     "shortTitle": "Naafkopf",
     "title": "Malbun - Naafkopf",
-    "movie": "8OeM4oTtB4A",
-    "intro": "Da letzten Sonntag noch mal richtig gutes Wetter vorhergesagt war und auch der Neuschnee der Wochen zuvor schnell wieder geschmolzen war, machte ich mich auf eine Wanderung nach Malbun auf.<br />\nVor Neun erreichte ich den noch leeren großen Gratisparkplatz vor Malbun (dem einzigen Skiort von Liechtenstein). Knapp über dem Gefrierpunkt startete ich meine Wanderung mit kurzer Hose und dünner Jacke auf 1600m Seehöhe.",
+    "title3d": {
+      "offsetY": 0,
+      "fontSize": 9,
+      "align": "center",
+      "width": 1920,
+      "height": 506
+    },
+    "movie": "-p8ZHrVn24Q",
+    "intro": "Da an diesem Oktobersonntag noch mal richtig gutes Wetter vorhergesagt war, und auch der Neuschnee der Wochen zuvor schnell wieder geschmolzen war, machte ich mich auf eine Wanderung nach Malbun auf.<br />\nVor Neun erreichte ich den noch leeren großen Gratisparkplatz vor Malbun (dem einzigen Skiort von Liechtenstein). Knapp über dem Gefrierpunkt startete ich meine Wanderung mit kurzer Hose und dünner Jacke auf 1600m Seehöhe.",
     "landmarks": [
       {
         "photos": [
@@ -59,6 +67,13 @@
       {
         "photos": [
           {
+            "name": "006",
+            "alt": "Gratweg Sareis",
+            "date": "2016-10-16T09:53:29.000+02:00",
+            "width": 1920,
+            "height": 1280
+          },
+          {
             "name": "007",
             "alt": "Nenzinger Himmel",
             "date": "2016-10-16T09:59:24.000+02:00",
@@ -67,20 +82,7 @@
           }
         ],
         "videos": [],
-        "text": "Dann erreichte ich schließlich den 2000m hohen Grat. Bei einer ersten kleinen Pause genoß ich die warmen Sonnenstrahlen - die Jacke wurde weggepackt.<br />\nAuf der anderen Seite des Grats geht es bergab zum Nenzinger Himmel, ein ziemlich einsames Tal zwischen Malbun und Brandnertal."
-      },
-      {
-        "photos": [
-          {
-            "name": "006",
-            "alt": "Gratweg Sareis",
-            "date": "2016-10-16T09:53:29.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Für mich ging es nun auf dem Grat weiter. Mein nächstes Etappenziel war der Berg rechts, der 2360m hohe Augstenberg."
+        "text": "Dann erreichte ich schließlich den 2000m hohen Grat. Mein nächstes Etappenziel war der Berg rechts, der 2360m hohe Augstenberg. Bei einer ersten kleinen Pause genoss ich die warmen Sonnenstrahlen - die Jacke wurde weggepackt.<br />\nAuf der anderen Seite des Grats geht es bergab zum Nenzinger Himmel, ein ziemlich einsames Tal zwischen Malbun und Brandnertal."
       },
       {
         "photos": [
@@ -106,7 +108,7 @@
           }
         ],
         "videos": [],
-        "text": "Der Gipfel (links) sah schon nah aus, es war aber schon noch ein Stück."
+        "text": "Der Gipfel (hier links) sah schon nah aus, es war aber schon noch ein Stück."
       },
       {
         "photos": [
@@ -145,7 +147,7 @@
           }
         ],
         "videos": [],
-        "text": "Blick zurück während des Aufstiegs. Die Herbstfarben in den Alpen gefallen mir einfach. 😃"
+        "text": "Der Blick zurück während des Aufstiegs. Die Herbstfarben in den Alpen gefallen mir einfach. 😃"
       },
       {
         "photos": [
@@ -158,7 +160,7 @@
           }
         ],
         "videos": [],
-        "text": "Gipfel erreicht um 10:30. Blick hier wieder Richtung Rheintal."
+        "text": "Den Gipfel erreichte ich um 10:30. Blick hier wieder Richtung Rheintal."
       },
       {
         "photos": [
@@ -210,7 +212,7 @@
           }
         ],
         "videos": [],
-        "text": "Blick zurück zum von dieser Seite flachen Augstenberg."
+        "text": "Der Blick zurück zum von dieser Seite flachen Augstenberg."
       },
       {
         "photos": [
@@ -275,7 +277,7 @@
           }
         ],
         "videos": [],
-        "text": "Der Weg führte hauptsächlich am flacheren Osthang hinauf, aber manchmal ging es auch auf den Grat. Hier Blick zurück zur Pfälzerhütte."
+        "text": "Der Weg führte hauptsächlich am flacheren Osthang hinauf, aber manchmal ging es auch auf den Grat. Hier der Blick zurück zur Pfälzerhütte."
       },
       {
         "photos": [
@@ -301,7 +303,7 @@
           }
         ],
         "videos": [],
-        "text": "Nach einigem Geschnaufe und Gekeuche erreichte ich schließlich den Grat nach Süden und eine völlig neue Aussicht ergab sich. Rechts ist das Churer-Rheintal zu sehen und links das Prätigau Richtung Davos."
+        "text": "Nach einigem Geschnaufe und Gekeuche erreichte ich schließlich den Grat nach Süden und eine völlig neue Aussicht ergab sich. Rechts ist das Rheintal von Chur zu sehen und links das Prättigau, das nach Davos führt."
       },
       {
         "photos": [
@@ -327,7 +329,7 @@
           }
         ],
         "videos": [],
-        "text": "Ächz, geschafft. Um 12:30 erreichte ich den Gipfel. Hier musste ich dann doch die Jacke überziehen, denn es wehte eine kühle Brise.<br />\nHier das Panorama nach Süden. Rechts der fast gleich hohe Falknis, der nur von der Rückseite bestiegen werden kann."
+        "text": "<span data-silent>Ächz, geschafft.</span> Um 12:30 erreichte ich den Gipfel. Hier musste ich dann doch die Jacke überziehen, denn es wehte eine kühle Brise.<br />\nHier ist das Panorama nach Süden zu sehen. Rechts der fast gleich hohe Falknis, der nur von der Rückseite bestiegen werden kann."
       },
       {
         "photos": [
@@ -392,7 +394,7 @@
           }
         ],
         "videos": [],
-        "text": "Und Richtung Süden der 3400m hohe Piz Kesch und in der Mitte der 4000m hohe Piz Bernina."
+        "text": "Und in Richtung Süden der 3400m hohe Piz Kesch und in der Mitte der 4000m hohe Piz Bernina."
       },
       {
         "photos": [
@@ -405,7 +407,7 @@
           }
         ],
         "videos": [],
-        "text": "Nach einer Brotzeit ging ich dann wieder los. Bis zur Pfälzerhütte auf dem Hinweg. Beim steilen ersten Abstieg musste ich aufpassen, keine Steine loszutreten und damit entgegenkommende Wanderer zu gefährden."
+        "text": "Nach einer Brotzeit ging ich dann wieder los. Bis zur Pfälzerhütte auf dem Hin-Weg. Beim steilen ersten Abstieg musste ich aufpassen, keine Steine loszutreten und damit entgegenkommende Wanderer zu gefährden."
       },
       {
         "photos": [
@@ -418,7 +420,7 @@
           }
         ],
         "videos": [],
-        "text": "Einer der wenigen Stellen, wo der Weg mal etwas flacher ist."
+        "text": "Dies ist einer der wenigen Stellen, wo der Weg mal etwas flacher ist."
       },
       {
         "photos": [
@@ -431,7 +433,7 @@
           }
         ],
         "videos": [],
-        "text": "Silberdistel am Wegrand."
+        "text": "Eine Silberdistel am Wegrand."
       },
       {
         "photos": [
@@ -444,7 +446,7 @@
           }
         ],
         "videos": [],
-        "text": "An der nun belebteren Pfälzerhütte ging ich wieder vorbei, aber diesmal auf der (bei Montainbikern beliebten) Zufahrtsstraße links herum um den Augstenberg. Blick zurück."
+        "text": "An der nun belebteren Pfälzerhütte ging ich wieder vorbei, aber diesmal auf der bei Montainbikern beliebten Zufahrtsstraße links herum um den Augstenberg. Hier der Blick zurück."
       },
       {
         "photos": [
@@ -457,7 +459,7 @@
           }
         ],
         "videos": [],
-        "text": "Von dieser Seite sah der zuvor bestiegende Naafkopf schon recht beeindruckend aus."
+        "text": "Von dieser Seite sah der zuvor erklommene Naafkopf schon recht beeindruckend aus."
       },
       {
         "photos": [
@@ -470,7 +472,7 @@
           }
         ],
         "videos": [],
-        "text": "Zum Glück ging es nur bis zu dieser 1900m hohen Alp auf der Straße bergab. Von dort dann auf Wanderweg wieder bergauf."
+        "text": "Zum Glück ging es nur bis zu dieser 1900m hohen Alp auf der Straße bergab. Von dort ging es dann auf einem Wanderweg wieder bergauf."
       },
       {
         "photos": [
@@ -483,7 +485,7 @@
           }
         ],
         "videos": [],
-        "text": "Und hier bin ich auch schon, Blick zurück zur Straße."
+        "text": "Und hier bin ich dort auch schon. Der Blick zurück zur Straße."
       },
       {
         "photos": [
@@ -496,7 +498,7 @@
           }
         ],
         "videos": [],
-        "text": "Der Weg war nun recht harmlos, aber bei solch einem Wetter ein Genuß."
+        "text": "Der Weg war nun recht harmlos, aber bei solch einem Wetter ein Genuss."
       },
       {
         "photos": [
@@ -549,7 +551,7 @@
           }
         ],
         "videos": [],
-        "text": "Ahh, Herbst. 😃"
+        "text": "Herrlich, schönster Herbst. 😃"
       },
       {
         "photos": [
