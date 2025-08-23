@@ -2,8 +2,8 @@ import React, { useEffect, useState, useMemo } from 'react';
 import PropTypes from 'prop-types';
 import styled from 'styled-components';
 
-const Container = styled.div.attrs(({ opacity }) => ({
-  style: { opacity }
+const Container = styled.div.attrs(({ $opacity }) => ({
+  style: { opacity: $opacity }
 }))`
   position: fixed;
   bottom: 3vh;
@@ -18,8 +18,8 @@ const Container = styled.div.attrs(({ opacity }) => ({
   box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.3);
 `;
 
-const HeightLabel = styled.div.attrs(({ y }) => ({
-  style: { top: `calc(${y} * 100%)` }
+const HeightLabel = styled.div.attrs(({ $y }) => ({
+  style: { top: `calc(${$y} * 100%)` }
 }))`
   position: absolute;
   color: black;
@@ -29,8 +29,8 @@ const HeightLabel = styled.div.attrs(({ y }) => ({
   font-size: 1.2vw;
 `;
 
-const DistanceLabel = styled.div.attrs(({ x }) => ({
-  style: { left: `calc(${x} * 100%)` }
+const DistanceLabel = styled.div.attrs(({ $x }) => ({
+  style: { left: `calc(${$x} * 100%)` }
 }))`
   position: absolute;
   color: black;
@@ -41,9 +41,9 @@ const DistanceLabel = styled.div.attrs(({ x }) => ({
   line-height: 1.4;
 `;
 
-const CurrentPointContainer = styled.div.attrs(({ x = 0, y = 0 }) => ({
+const CurrentPointContainer = styled.div.attrs(({ $x = 0, $y = 0 }) => ({
   style: {
-    transform: `translate(${x * 100}%, ${y * 100}%)`
+    transform: `translate(${$x * 100}%, ${$y * 100}%)`
   }
 }))`
   position: absolute;
@@ -53,9 +53,9 @@ const CurrentPointContainer = styled.div.attrs(({ x = 0, y = 0 }) => ({
   right: 0;
 `;
 
-const CurrentHeightLine = styled.div.attrs(({ x }) => ({
+const CurrentHeightLine = styled.div.attrs(({ $x }) => ({
   style: {
-    right: `${100 - x * 100}%`
+    right: `${100 - $x * 100}%`
   }
 }))`
   position: absolute;
@@ -79,9 +79,9 @@ const CurrentHeightLabel = styled.div`
   text-align: right;
 `;
 
-const CurrentDistanceLine = styled.div.attrs(({ y }) => ({
+const CurrentDistanceLine = styled.div.attrs(({ $y }) => ({
   style: {
-    top: `${y * 100}%`
+    top: `${$y * 100}%`
   }
 }))`
   position: absolute;
@@ -289,7 +289,7 @@ const renderHeightLabels = (trackData, gap) => {
     }
     const y = heightToGraph(trackData, height);
     elements.push(
-      <HeightLabel key={`main_${height}_height_label`} y={y}>
+      <HeightLabel key={`main_${height}_height_label`} $y={y}>
         {formatHeight(height)}
       </HeightLabel>
     );
@@ -302,7 +302,7 @@ const renderDistanceLabels = (trackData, gap) => {
   for (let distance = 0; distance < trackData.maxDistance; distance += gap) {
     const x = distanceToGraph(trackData, distance);
     elements.push(
-      <DistanceLabel key={`main_${distance}_distance_label`} x={x}>
+      <DistanceLabel key={`main_${distance}_distance_label`} $x={x}>
         {formatDistance(distance)}
       </DistanceLabel>
     );
@@ -315,19 +315,19 @@ const CurrentPoint = ({ trackData, currentPoint }) => {
   const y = heightToGraph(trackData, currentPoint.height);
   return (
     <>
-      <CurrentPointContainer y={y}>
-        <CurrentHeightLine x={x} />
+      <CurrentPointContainer $y={y}>
+        <CurrentHeightLine $x={x} />
       </CurrentPointContainer>
-      <CurrentPointContainer y={y}>
+      <CurrentPointContainer $y={y}>
         <CurrentHeightLabel>{formatHeight(currentPoint.height)}</CurrentHeightLabel>
       </CurrentPointContainer>
-      <CurrentPointContainer x={x}>
-        <CurrentDistanceLine y={y} />
+      <CurrentPointContainer $x={x}>
+        <CurrentDistanceLine $y={y} />
       </CurrentPointContainer>
-      <CurrentPointContainer x={x}>
+      <CurrentPointContainer $x={x}>
         <CurrentDistanceLabel>{formatDistance(currentPoint.distance)}</CurrentDistanceLabel>
       </CurrentPointContainer>
-      <CurrentPointContainer x={x} y={y}>
+      <CurrentPointContainer $x={x} $y={y}>
         <CurrentDot />
       </CurrentPointContainer>
     </>
@@ -371,7 +371,7 @@ const HeightGraph = (props) => {
   }
 
   return (
-    <Container opacity={props.visible ? 0.9 : 0.0}>
+    <Container $opacity={props.visible ? 0.9 : 0.0}>
       <Graph trackData={trackData} />
       {[
         ...renderHeightLabels(trackData, trackData.heightGaps.main),

@@ -2,8 +2,8 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import styled from 'styled-components';
 
-const CurtainContainer = styled.div.attrs(({ opacity }) => ({
-  style: { opacity }
+const CurtainContainer = styled.div.attrs(({ $opacity }) => ({
+  style: { opacity: $opacity }
 }))`
   position: fixed;
   width: 100%;
@@ -14,7 +14,7 @@ const CurtainContainer = styled.div.attrs(({ opacity }) => ({
 `;
 
 const Curtain = ({ closed }) => {
-  return <CurtainContainer opacity={closed ? 1 : 0} />;
+  return <CurtainContainer $opacity={closed ? 1 : 0} />;
 };
 
 Curtain.propTypes = {

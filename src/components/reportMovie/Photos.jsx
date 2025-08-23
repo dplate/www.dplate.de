@@ -2,8 +2,8 @@ import React, { Fragment } from 'react';
 import PropTypes from 'prop-types';
 import styled from 'styled-components';
 
-const Photo = styled.img.attrs(({ opacity }) => ({
-  style: { opacity }
+const Photo = styled.img.attrs(({ $opacity }) => ({
+  style: { opacity: $opacity }
 }))`
   position: fixed;
   display: block;
@@ -18,9 +18,9 @@ const Photo = styled.img.attrs(({ opacity }) => ({
   transition: opacity 1s ease-in-out;
 `;
 
-const Label = styled.div.attrs(({ offsetY }) => ({
+const Label = styled.div.attrs(({ $offsetY }) => ({
   style: {
-    top: `calc(100% - ${offsetY}px)`
+    top: `calc(100% - ${$offsetY}px)`
   }
 }))`
   position: fixed;
@@ -43,8 +43,8 @@ const renderPhoto = (reportPath, visiblePhotoName, photo, index) => {
   const offsetY = isShown ? 100 : -100;
   return (
     <Fragment key={index}>
-      <Photo id={fileName} src={photoPath} alt={photo.alt} opacity={opacity} />
-      <Label offsetY={offsetY}>{photo.alt}</Label>
+      <Photo id={fileName} src={photoPath} alt={photo.alt} $opacity={opacity} />
+      <Label $offsetY={offsetY}>{photo.alt}</Label>
     </Fragment>
   );
 };

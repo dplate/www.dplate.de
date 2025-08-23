@@ -2,8 +2,8 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import styled from 'styled-components';
 
-const SummaryContainer = styled.div.attrs(({ opacity }) => ({
-  style: { opacity }
+const SummaryContainer = styled.div.attrs(({ $opacity }) => ({
+  style: { opacity: $opacity },
 }))`
   position: absolute;
   z-index: 6;
@@ -83,7 +83,7 @@ const Summary = ({ visible, track }) => {
     return null;
   }
   return (
-    <SummaryContainer opacity={visible ? 1 : 0}>
+    <SummaryContainer $opacity={visible ? 1 : 0}>
       <Duration>
         <ValueLeft>{formatDuration(track.maxWalkDuration)}</ValueLeft> Gehzeit
         <br />
