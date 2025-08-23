@@ -7,8 +7,15 @@
     "detailMap": "swiss",
     "shortTitle": "Schwägalp",
     "title": "Hochalp - Schwägalp",
-    "movie": "a91KZTHG_ts",
-    "intro": "Die Auswahl an Wanderzielen wurde auf Grund der Schneefälle geringer. Deshalb entschied ich mich für diese Wanderung auf die Schwägalp, die 1500 Höhenmeter nur knapp überschreitet.<br />\nBei frostigen Temperaturen stellte ich mein Auto um 8:00 in Steinfluh an der Schwägalp-Passstraße ab. Da der Aufstieg zur Hochalp beim Restaurant Rossfall beginnt, musste ich erst ein Stück wieder im Tal bergab laufen. Zum Glück aber nicht direkt an der Straße, sondern auf schön angelegtem Weg auf der anderen Flussseite.<br />\nAb dort ging es dann auf rustikaler Fahrstraße sehr steil direkt den Hang hinauf. Mit jedem Meter wurde es spürbar wärmer und ich konnte schnell die Jacke verstauen. Für den Rest das Tages waren kurze Hose und T-Shirt angesagt.",
+    "title3d": {
+      "align": "left",
+      "offsetY": 4,
+      "fontSize": 6,
+      "width": 1920,
+      "height": 367
+    },
+    "movie": "BmRj2yJMBe8",
+    "intro": "Die Auswahl an Wanderzielen wurde auf Grund der Schneefälle geringer. Deshalb entschied ich mich für diese Wanderung auf die Schwägalp, die 1500 Höhenmeter nur knapp überschreitet.<br />\nBei frostigen Temperaturen stellte ich mein Auto um 8:00 in Steinfluh an der Schwägalp-Passstraße ab. Da der Aufstieg zur Hochalp beim Restaurant Rossfall beginnt, musste ich erst ein Stück wieder im Tal bergab laufen. Zum Glück aber nicht direkt an der Straße, sondern auf schön angelegtem Weg auf der anderen Flussseite.<br />\nAb dort ging es dann auf rustikaler Fahrstraße sehr steil direkt den Hang hinauf.",
     "landmarks": [
       {
         "photos": [
@@ -21,7 +28,7 @@
           }
         ],
         "videos": [],
-        "text": "Nach etwas Aufstieg wurde der kleine Ort Urnäsch sichtbar, teils noch von Nebel und Qualm aus den Schornsteinen verhüllt."
+        "text": " Mit jedem Meter wurde es spürbar wärmer und ich konnte schnell die Jacke verstauen. Für den Rest das Tages waren kurze Hose und T-Shirt angesagt. Nach etwas Aufstieg wurde der kleine Ort Urnäsch sichtbar, teils noch von Nebel und Qualm aus den Schornsteinen verhüllt."
       },
       {
         "photos": [
@@ -34,7 +41,7 @@
           }
         ],
         "videos": [],
-        "text": "Bei mir war immer noch Schatten. Blick zurück ins Tal."
+        "text": "Bei mir war immer noch Schatten. Der Blick zurück ins Tal."
       },
       {
         "photos": [
@@ -47,7 +54,7 @@
           }
         ],
         "videos": [],
-        "text": "Dann aber erreichte ich die ersten Sonnenstrahlen an der Alp Faltig. Dort endet der Fahrweg und es ging auf normalem Wanderweg weiter. Hiermit war auch schon über die Hälfte der benötigten Höhenmeter geschafft."
+        "text": "Dann aber erreichte ich die ersten Sonnenstrahlen an der Alp Faltig. Dort endete der Fahrweg und es ging auf normalem Wanderweg weiter. Hiermit hatte ich auch schon über die Hälfte der benötigten Höhenmeter geschafft."
       },
       {
         "photos": [
@@ -60,7 +67,7 @@
           }
         ],
         "videos": [],
-        "text": "Ankunft auf dem Grat und Blick hinab auf der anderen Seite ins Necke(!)rtal. Eigentlich müsste ich nun nach links auf dem Grat laufen, um zur Schwägalp zu kommen. Aber da ich die Hochalp noch erreichen wollte, ging es für mich erst nach rechts hinauf."
+        "text": "Ankunft auf dem Grat und Blick hinab auf der anderen Seite ins Neckertal. Eigentlich müsste ich nun nach links auf dem Grat weiterlaufen, um zur Schwägalp zu kommen. Aber da ich die Hochalp noch erreichen wollte, ging es für mich erst nach rechts hinauf."
       },
       {
         "photos": [
@@ -99,7 +106,7 @@
           }
         ],
         "videos": [],
-        "text": "Die Gaststätte auf der Hochalp. Den Abstecher dort hin habe ich mir gespart."
+        "text": "Hier die Gaststätte auf der Hochalp. Den Abstecher dort hin hatte ich mir gespart."
       },
       {
         "photos": [
@@ -112,7 +119,7 @@
           }
         ],
         "videos": [],
-        "text": "Blick zu den verschneiten Churfirsten, die hinter dem Alpstein auftauchten."
+        "text": "Der Blick zu den verschneiten Churfirsten, die hinter dem Alpstein auftauchten."
       },
       {
         "photos": [
@@ -151,7 +158,7 @@
           }
         ],
         "videos": [],
-        "text": "Blick ins herbstliche Tal."
+        "text": "Der Blick in das herbstliche Tal."
       },
       {
         "photos": [
@@ -190,7 +197,7 @@
           }
         ],
         "videos": [],
-        "text": "Ankunft um 10:30 auf dem Spicher, Blick zurück zu einer der wagemutigen Alpen. Die Armut musste früher schon sehr groß gewesen sein, wenn es sich lohnte eine solche Wiese zu bewirtschaften. Jetzt wird dies nur noch wegen Subventionen gemacht."
+        "text": "Ich kam um 10:30 auf dem Spicher an, der Blick zurück zu einer der wagemutigen Alpen. Die Armut musste früher schon sehr groß gewesen sein, wenn es sich lohnte eine solche Wiese zu bewirtschaften. Jetzt wird dies nur noch wegen Subventionen gemacht."
       },
       {
         "photos": [
@@ -203,7 +210,7 @@
           }
         ],
         "videos": [],
-        "text": "Und Blick in die andere Richtung zum Säntis."
+        "text": "Und der Blick in die andere Richtung zum Säntis."
       },
       {
         "photos": [
@@ -229,13 +236,13 @@
           }
         ],
         "videos": [],
-        "text": "Und natürlich auch nach Westen. Rechts ist die Hochalp zu sehen. Wirkte sehr nah, aber es war trotzdem eine Stunde Wegstrecke. Links die Alp Spicher. Rechts/unten der Beweis, dass ich auch wirklich da war. 😉<br />\nIch machte dann erst mal eine längere Pause und genoß die warme Sonne im Gras. Dort traf ich auch die ersten anderen Wanderer, die von der Schwägalp her eintrafen."
+        "text": "Und natürlich auch nach Westen. Rechts ist die Hochalp zu sehen. Wirkte sehr nah, aber sie war trotzdem eine Stunde Wegstrecke entfernt. Links die Alp Spicher. Rechts/unten der Beweis, dass ich auch wirklich da war. 😉<br />\nIch machte dann erst mal eine längere Pause und genoss die warme Sonne im Gras. Dort traf ich auch die ersten anderen Wanderer, die von der Schwägalp her eintrafen."
       },
       {
         "photos": [
           {
             "name": "018",
-            "alt": "Serpentinen der Schägalp Passstraße",
+            "alt": "Serpentinen der Schwägalp Passstraße",
             "date": "2015-10-24T10:59:34.000+02:00",
             "width": 1875,
             "height": 1080
@@ -255,7 +262,7 @@
           }
         ],
         "videos": [],
-        "text": "Nach dem Spicher führt der Weg meistens durch sumpfigen Wald."
+        "text": "Nach dem Spicher führte der Weg meistens durch sumpfigen Wald."
       },
       {
         "photos": [
@@ -268,7 +275,7 @@
           }
         ],
         "videos": [],
-        "text": "Obwohl zum Teil mit Brettern ausgebaut, empfehle ich hier dringend wasserdichte Schuhe."
+        "text": "Obwohl er zum Teil mit Brettern ausgebaut war, empfehle ich hier dringend wasserdichte Schuhe."
       },
       {
         "photos": [
@@ -301,7 +308,7 @@
           }
         ],
         "videos": [],
-        "text": "Und viele Pilze im Wald."
+        "text": "Und es gab viele Pilze im Wald."
       },
       {
         "photos": [
@@ -321,7 +328,7 @@
           }
         ],
         "videos": [],
-        "text": "Nach etwas Strecke auf asphaltiertem Waldweg kam ich schließlich um 12:00 auf der Passhöhe der Schwägalp an. Inzwischen war es richtig mollig warm, um nicht zu sagen schwül und drückend."
+        "text": "Um 12:00 kam ich schließlich auf der Passhöhe der Schwägalp an. Inzwischen war es richtig mollig warm, um nicht zu sagen schwül und drückend."
       },
       {
         "photos": [
@@ -334,7 +341,7 @@
           }
         ],
         "videos": [],
-        "text": "Ab dort ging ich auf dem schön angelegtem &quot;NaturErlebnispark&quot;-Weg weiter hinauf Richtung Schwägalp. Dieser Weg führt mitten durch den großen Felssturz.<br />\nIm Hintergrund ist die Chammhalde zu sehen."
+        "text": "Ab dort ging ich auf dem schön angelegtem &quot;NaturErlebnispark&quot;-Weg weiter hinauf Richtung Schwägalp. Dieser Weg führte mich mitten durch einen großen Felssturz.<br />\nIm Hintergrund ist die Chammhalde zu sehen."
       },
       {
         "photos": [
@@ -360,7 +367,7 @@
           }
         ],
         "videos": [],
-        "text": "Sehr schöne Landschaft.<br />\nDort kürzte ich etwas ab und ging quer über die Wiese zur alten Passstraße: Einer gesperrten, asphaltierten und einspurigen Straße, die mich wieder zu meinem Auto hinab führen sollte."
+        "text": "Es ist eine sehr schöne Landschaft dort.<br />\nHier kürzte ich etwas ab und ging quer über die Wiese zur alten Passstraße: Einer gesperrten, asphaltierten und einspurigen Straße, die mich wieder zu meinem Auto hinab führen sollte."
       },
       {
         "photos": [
@@ -373,7 +380,7 @@
           }
         ],
         "videos": [],
-        "text": "Ab der Mitte kann man aber von dieser Straße abzweigen und eine schönere Variante über die Alp Aueli nehmen.<br />\nIm Hintergrund der überwanderte Grat vom Vormittag: Rechts die Hochalp, links der Spicher."
+        "text": "Ab der Mitte kann man aber von dieser Straße abzweigen und eine schönere Variante über die Alp Aueli nehmen.<br />\nIm Hintergrund der überwanderte Grat vom Vormittag: Rechts ist die Hochalp zu sehen, links der Spicher."
       },
       {
         "photos": [
@@ -386,7 +393,7 @@
           }
         ],
         "videos": [],
-        "text": "Letzter Blick zurück zum Säntis. Auch auf dieser Alp keine Kühe mehr, was das Wandern in dieser Jahreszeit schon angenehmer macht."
+        "text": "Letzter Blick zurück zum Säntis. Auch auf dieser Alp gab es keine Kühe mehr, was das Wandern in dieser Jahreszeit schon angenehmer macht."
       },
       {
         "photos": [
@@ -399,7 +406,7 @@
           }
         ],
         "videos": [],
-        "text": "Am Schluß dann wieder auf der alten Passtraße. Hier kurz vor dem Ziel, das ich um 14:00 erreichte. Am Auto dann fast 20°."
+        "text": "Am Schluss dann wieder auf der alten Passstraße. Hier war ich kurz vor dem Ziel, das ich um 14:00 erreichte. Am Auto waren es dann fast 20°."
       },
       {
         "photos": [
@@ -420,6 +427,6 @@
         "text": "Zurückgelegte Strecke. 1100 Höhenmeter auf 18km in 6h. Gut zu erkennen der steile Aufstieg zu Beginn."
       }
     ],
-    "outro": "Fazit: Abwechslungsreiche Wanderung. Nicht zu lang und absolut harmlos. Von der Spannung her wäre sie andersherum sinnvoller, aber von der Sonnenausbeute war es so schon gut. Alternativ kann man auch von Urnäsch über den Grat zur Schwägalp laufen (bzw. anders herum) und für die andere Wegstrecke den Postbus nehmen."
+    "outro": "Fazit: Abwechslungsreiche Wanderung. Nicht zu lang und absolut harmlos. Von der Spannung her wäre sie andersherum sinnvoller, aber von der Sonnenausbeute war es so schon gut. Alternativ kann man auch von Urnäsch über den Grat zur Schwägalp laufen (bzw. anders herum) und für den jeweiligen Rückweg den Postbus nehmen."
   }
 ]
