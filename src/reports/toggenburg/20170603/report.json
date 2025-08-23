@@ -5,10 +5,17 @@
     "type": "hike",
     "track": true,
     "detailMap": "swiss",
-    "shortTitle": "Krummenau-Speer",
+    "shortTitle": "Speer",
     "title": "Krummenau - Speer",
-    "movie": "weXPrK8NSQw",
-    "intro": "Für die erste Wanderung dieser Saison entschied ich mich für den Speer. Da der Aufstieg von Süden her erfolgt,\n      kann man ihn trotz einer Höhe von fast 2000m schon recht früh im Jahr machen.<br />\n      Vor zwei Jahren habe die <a href=\"/alpine/speer/20150606\">Wanderung auf den Speer von Amden</a> aus gemacht,\n      diesmal wählte ich als Startpunkt den Ort Krummenau im Toggenburg.<br />\n      Mein Auto stellte ich um 8:15 auf dem großen Parkplatz (gratis) ab und ging den kurzen Weg zur Talstation der\n      Sesselbahn Wolzenalp. Die Bergfahrt kostete 9 CHF und erfolgte pünktlich um 8:30.",
+    "title3d": {
+      "align": "left",
+      "offsetY": 1,
+      "fontSize": 10,
+      "width": 1920,
+      "height": 559
+    },
+    "movie": "7tAywsdwVj4",
+    "intro": "Für die erste Wanderung der Saison 2017 entschied ich mich für den Speer. Da der Aufstieg von Süden her erfolgte,\n      kann man diese Wanderung trotz einer Höhe von fast 2000m schon recht früh im Jahr machen.<br />\n      Vor zwei Jahren hatte ich die <a href=\"/alpine/speer/20150606\">Wanderung auf den Speer von Amden</a> aus gemacht,\n      diesmal wählte ich als Startpunkt den Ort Krummenau im Toggenburg.<br />\n      Mein Auto stellte ich um 8:15 auf dem großen Parkplatz (gratis) ab und ging den kurzen Weg zur Talstation der\n      Sesselbahn Wolzenalp. Die Bergfahrt kostete 9 CHF und erfolgte pünktlich um 8:30.",
     "landmarks": [
       {
         "photos": [
@@ -28,7 +35,7 @@
           }
         ],
         "videos": [],
-        "text": "Aussicht aus der gemütlich fahrenden Bahn, die vom 700m hohen Krummenau zum 1100m hohen Rietbach führt. Es war\n      bereits trotz der frühen Stunde ziemlich warm."
+        "text": "Die Aussicht aus der gemütlich fahrenden Bahn, die vom 700m hohen Krummenau zum 1100m hohen Rietbach führt. Es war\n      bereits trotz der frühen Stunde ziemlich warm."
       },
       {
         "photos": [
@@ -41,7 +48,7 @@
           }
         ],
         "videos": [],
-        "text": "Ankunft in Rietbach. Hier ist auch schon das Ziel der Wanderung zu sehen, der 2000m hohe Speer. Der Aufstieg\n      erfolgt über den Grat, der hier links zu sehen ist."
+        "text": "Ankunft in Rietbach. Hier war auch schon das Ziel der Wanderung zu sehen, der 2000m hohe Speer. Der Aufstieg\n      erfolgte über den Grat, der hier links zu sehen ist."
       },
       {
         "photos": [
@@ -67,7 +74,7 @@
           }
         ],
         "videos": [],
-        "text": "Ab der Wolzenalp beginnt der Aufstieg auf den Grat. Zum Teil auf Fahrwegen, zum Teil über Wiesen."
+        "text": "Ab der Wolzenalp begann der Aufstieg auf den Grat. Zum Teil auf Fahrwegen, zum Teil über Wiesen."
       },
       {
         "photos": [
@@ -80,7 +87,7 @@
           }
         ],
         "videos": [],
-        "text": "Dabei folgt der Aufstieg immer grob der Trasse des Skilifts Wolzenalp."
+        "text": "Dabei folgte der Aufstieg immer grob der Trasse des Skilifts Wolzenalp."
       },
       {
         "photos": [
@@ -93,7 +100,7 @@
           }
         ],
         "videos": [],
-        "text": "Blick zurück während des anstrengenden Aufstiegs nach Rietbach und dem Moor."
+        "text": "Blick zurück während des anstrengenden Aufstiegs auf Rietbach und dem Moor."
       },
       {
         "photos": [
@@ -106,7 +113,7 @@
           }
         ],
         "videos": [],
-        "text": "An der 1500m hohen Bergstation des Skilifts ist der größte Aufstieg vorerst geschafft."
+        "text": "An der 1500m hohen Bergstation des Skilifts war der größte Aufstieg vorerst geschafft."
       },
       {
         "photos": [
@@ -119,7 +126,7 @@
           }
         ],
         "videos": [],
-        "text": "Der Weg ist immer gut markiert und auch viel begangen, ich war aber völlig alleine unterwegs.\n      An diesem Fels ist das typische Nagelfluh-Gestein zu sehen - und der Speer ist der höchste Berg der Alpen aus\n      diesem (nicht sehr stabilen) Material."
+        "text": "Der Weg war immer gut markiert und ist auch viel begangen, ich war aber noch völlig alleine unterwegs.\n      An diesem Fels ist das typische Nagelfluh-Gestein zu sehen - und der Speer ist der höchste Berg der Alpen aus\n      diesem, nicht sehr stabilen, Material."
       },
       {
         "photos": [
@@ -145,7 +152,7 @@
           }
         ],
         "videos": [],
-        "text": "Und hier der schönste Abschnitt auf dem Grat, auch alles sehr harmlos."
+        "text": "Und hier war der schönste Abschnitt auf dem Grat. Es ist auch alles sehr harmlos."
       },
       {
         "photos": [
@@ -158,7 +165,7 @@
           }
         ],
         "videos": [],
-        "text": "Blick hinab nach Norden. Links ist der Tanzboden und im Tal Ebnat-Kappel und Wattwil zu sehen."
+        "text": "Der Blick hinab nach Norden. Links ist der Tanzboden und im Tal Ebnat-Kappel und Wattwil zu sehen."
       },
       {
         "photos": [
@@ -184,7 +191,7 @@
           }
         ],
         "videos": [],
-        "text": "Ankunft an der Alp Bütz, bzw. dem Bützalpsattel. Bis hier musste ich nach dem Aufstieg auf den Speer wieder\n      zurück.<br />\n      Bis zum Gipfel sind es ab hier noch 1:15h."
+        "text": "Ankunft an der Alp Bütz, bzw. dem Bützalpsattel. Bis hier musste ich nach dem Aufstieg auf den Speer wieder\n      zurück.<br />\n      Bis zum Gipfel waren es ab hier noch eine Stunde und 15 Minuten."
       },
       {
         "photos": [
@@ -197,7 +204,7 @@
           }
         ],
         "videos": [],
-        "text": "Tele zum Speer. Von Rechts auf dem Grat führt auch ein Klettersteig hinauf... nichts für mich.<br />\n      Obwohl es erst 10:30 war, waren bereits andere Wanderer auf dem Gipfel zu sehen."
+        "text": "Ein Tele zum Speer. Von Rechts auf dem Grat führt auch ein Klettersteig hinauf... nichts für mich.<br />\n      Obwohl es erst 10:30 war, waren bereits andere Wanderer auf dem Gipfel zu sehen."
       },
       {
         "photos": [
@@ -223,7 +230,7 @@
           }
         ],
         "videos": [],
-        "text": "Anschließend führt der Weg quer über eine steile Wiese."
+        "text": "Anschließend führte mich der Weg quer über eine steile Wiese."
       },
       {
         "photos": [
@@ -236,7 +243,7 @@
           }
         ],
         "videos": [],
-        "text": "Blick zurück. Im Hintergrund ist der Alpstein mit <a href=\"/alpine/alpstein/20160911\">Säntis</a> und\n      <a href=\"/alpine/alpstein/20150912\">Altmann</a> zu sehen."
+        "text": "Der Blick zurück. Im Hintergrund ist der Alpstein mit <a href=\"/alpine/alpstein/20160911\">Säntis</a> und\n      <a href=\"/alpine/alpstein/20150912\">Altmann</a> zu sehen."
       },
       {
         "photos": [
@@ -262,7 +269,7 @@
           }
         ],
         "videos": [],
-        "text": "Während dem Aufstieg Blick zurück auf die gequerte steile Wiese."
+        "text": "Während dem Aufstieg fiel der Blick zurück auf die gequerte steile Wiese."
       },
       {
         "photos": [
@@ -334,7 +341,7 @@
           }
         ],
         "videos": [],
-        "text": "Puh, Gipfel uim 12:00 erreicht. Blick wieder Richtung Glarus und dem äußersten Ende des Walensees."
+        "text": "Puh, der Gipfel erreichte ich um 12:00. Der Blick wieder Richtung Glarus und dem äußersten Ende des Walensees."
       },
       {
         "photos": [
@@ -347,7 +354,7 @@
           }
         ],
         "videos": [],
-        "text": "Panorama Richtung Nord/West. Hinten ist der Zürichsee zu sehen."
+        "text": "Das Panorama Richtung Nord/West. Hinten ist der Zürichsee zu sehen."
       },
       {
         "photos": [
@@ -360,7 +367,7 @@
           }
         ],
         "videos": [],
-        "text": "Wegweiser auf dem Gipfel des Speers. Bis zu den nächsten Orten sind es mindestens 2:45h Abstieg."
+        "text": "Der Wegweiser auf dem Gipfel des Speers. Bis zu den nächsten Orten waren es mindestens 2 Stunden und 45 Minuten Abstieg."
       },
       {
         "photos": [
@@ -425,7 +432,7 @@
           }
         ],
         "videos": [],
-        "text": "Der Versuch aus einem eigentlich misslungendes Fotos vom Säntis noch etwas rauszuholen."
+        "text": "Der Versuch aus einem eigentlich misslungenem Foto des Säntis noch etwas rauszuholen."
       },
       {
         "photos": [
@@ -438,7 +445,7 @@
           }
         ],
         "videos": [],
-        "text": "Nach einer Vesperpause nun auf gleichem Weg wieder hinunter. Wie man sieht ist der gesamte Südhang des Speers\n      mit den Serpentinen des Wanderwegs belegt."
+        "text": "Nach einer Vesperpause ging es nun auf gleichem Weg wieder hinunter. Wie man sieht ist der gesamte Südhang des Speers\n      mit den Serpentinen des Wanderwegs belegt."
       },
       {
         "photos": [
@@ -464,7 +471,7 @@
           }
         ],
         "videos": [],
-        "text": "Auch hier noch viele Blumen am Wegesrand."
+        "text": "Auch hier waren viele Blumen am Wegesrand."
       },
       {
         "photos": [
@@ -477,7 +484,7 @@
           }
         ],
         "videos": [],
-        "text": "Und natürlich musste ich auch wieder die Leiterli hinunter, wobei runter immer schwieriger ist."
+        "text": "Und natürlich musste ich auch wieder die Leiterli hinunter, wobei es runter immer schwieriger ist."
       },
       {
         "photos": [
@@ -490,7 +497,7 @@
           }
         ],
         "videos": [],
-        "text": "Am Bützalpsattel verließ ich schließlich den Hinweg und bog nach rechts in das Ijental ab.<br />\n      Gleich zu Beginn des Tals befindet sich die bewirtschaftete Alp Hengst. Trotz der Hitze und der knapper\n      werdenden Getränke im Rucksack verzichtete ich auf eine Pause (war ein Fehler)."
+        "text": "Am Bützalpsattel verließ ich schließlich den Hinweg und bog nach rechts in das Ijental ab.<br />\n      Gleich zu Beginn des Tals befindet sich die bewirtschaftete Alp Hengst. Trotz der Hitze und der knapper\n      werdenden Getränke im Rucksack verzichtete ich auf eine Pause, was ein Fehler war."
       },
       {
         "photos": [
@@ -542,7 +549,7 @@
           }
         ],
         "videos": [],
-        "text": "Pause an einem kleinem Stausee eines Wasserkraftwerks - unschön umzingelt von Zäunen und Verbotsschildern. Zum\n      Füßeabkühlen hat es aber gerreicht."
+        "text": "Pause an einem kleinen Stausee eines Wasserkraftwerks - unschön umzingelt von Zäunen und Verbotsschildern. Zum\n      Füße abkühlen hatte es aber gereicht."
       },
       {
         "photos": [
@@ -555,7 +562,7 @@
           }
         ],
         "videos": [],
-        "text": "Anschließend biegt der Weg nach links in eine kleine Schlucht ab, der Schatten tat gut...<br />\n      Danach stieg ich über Weiden hinab zur Thur. Evt. hätte man auch schräg direkt Richtung Krummenau\n      gehen können, aber nach Experimenten war mir nach der bereits langen Tour nicht mehr zumute."
+        "text": "Anschließend biegt der Weg nach links in eine kleine Schlucht ab, der Schatten tat gut...<br />\n      Danach stieg ich über Weiden hinab zur Thur. Eventuell hätte man auch schräg direkt Richtung Krummenau\n      gehen können, aber nach Experimenten war mir nach der bereits langen Tour nicht mehr zumute."
       },
       {
         "photos": [
@@ -581,7 +588,7 @@
           }
         ],
         "videos": [],
-        "text": "Ab dort ging es auf dem flachen Thurweg immer entlang des Fluß nach Krummenau... allerdings noch eine lange\n      Stunde. Das hatte ich etwas unterschätzt. Ankunft schießlich um 17:00 in Krummenau."
+        "text": "Ab dort ging es auf dem flachen Thurweg immer entlang des Fluß zurück nach Krummenau... allerdings noch eine lange\n      Stunde. Das hatte ich etwas unterschätzt. Ankunft schließlich um 17:00 in Krummenau."
       },
       {
         "photos": [
@@ -600,13 +607,8 @@
         ],
         "videos": [],
         "text": "Zurückgelegte Strecke. 1100m hoch und 1500m runter auf 20km bei 8h Wanderzeit (inkl. Pausen)."
-      },
-      {
-        "photos": [],
-        "videos": ["RPaoFnFSpms"],
-        "text": "Google Earth Zusammenfassung der Wanderung."
       }
     ],
-    "outro": "Fazit: An sich schöne Wanderung ohne Tiefpunkte. Nur es war an dem Tag etwas zu schwül für eine solch lange Tour."
+    "outro": "Fazit: An sich schöne Wanderung ohne Tiefpunkte. Nur es war an diesem Tag etwas zu schwül für eine solch lange Tour."
   }
 ]

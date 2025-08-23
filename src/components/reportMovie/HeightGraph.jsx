@@ -96,7 +96,7 @@ const CurrentDistanceLabel = styled.div`
   position: absolute;
   bottom: 3%;
   left: 0;
-  padding: 0 0.6% 0% 0.6%;
+  padding: 0 0.6% 0 0.6%;
   transform: translate(-50%, 0);
   background-color: darkred;
   font-size: 2.1vh;
