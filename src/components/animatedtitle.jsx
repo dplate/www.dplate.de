@@ -4,8 +4,8 @@ import PropTypes from 'prop-types';
 import styled from 'styled-components';
 import { animated, useSpring } from 'react-spring';
 
-const Container = styled.div.attrs(({ movePercent }) => ({
-  style: { transform: `translate(0, -${movePercent}%)` }
+const Container = styled.div.attrs(({ $movePercent }) => ({
+  style: { transform: `translate(0, -${$movePercent}%)` }
 }))`
   position: fixed;
   top: 0;
@@ -21,7 +21,7 @@ const Container = styled.div.attrs(({ movePercent }) => ({
 
 const MovingTitle = ({ movePercent, reportPath, title, title3d }) => {
   return (
-    <Container movePercent={movePercent}>
+    <Container $movePercent={movePercent}>
       {title3d ? (
         <Title3D
           reportPath={reportPath}
