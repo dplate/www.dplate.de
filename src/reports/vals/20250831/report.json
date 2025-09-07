@@ -1,0 +1,800 @@
+[
+  {
+    "destination": "vals",
+    "date": "d20250831",
+    "type": "hike",
+    "track": true,
+    "detailMap": "swiss",
+    "shortTitle": "Furggelti",
+    "title": "Zervreila - Furggelti - Länta",
+    "title3d": {
+      "offsetY": 2,
+      "fontSize": 9,
+      "align": "right",
+      "width": 1920,
+      "height": 557
+    },
+    "movie": "QuVGxcQ6jNw",
+    "intro": "Die noch langen Tage am Ende des Augusts musste ich nutzen und ich machte an diesem Sonntag eine lange Wanderung über die Furggelti zur Länta-Hütte, die sich in einem einsamen Tal hinter Vals in Graubünden befindet.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Einspuriger Tunnel",
+            "date": "2025-08-31T08:26:58.000+02:00",
+            "width": 1920,
+            "height": 937
+          },
+          {
+            "name": "002",
+            "alt": "Zervreilasee Straße",
+            "date": "2025-08-31T08:38:46.000+02:00",
+            "width": 1920,
+            "height": 1015
+          },
+          {
+            "name": "003",
+            "alt": "Parkplatz Zervreila",
+            "date": "2025-08-31T08:44:45.000+02:00",
+            "width": 1820,
+            "height": 1080
+          }
+        ],
+        "text": "Die Autofahrt zum Startpunkt der Wanderung ist bereits ein Abenteuer. Unter anderem ging es durch einen langen einspurigen Tunnel mit Ampelsteuerung.<br />Am Restaurant Zervreila gibt es einen großen Parkplatz, aber ich fuhr auf der schmalen Straße noch etwas weiter zu einem weiteren Wanderparkplatz an der Kapelle Zervreila."
+      },
+      {
+        "photos": [
+          {
+            "name": "004",
+            "alt": "Spazierweg Zervreila",
+            "date": "2025-08-31T08:51:28.000+02:00",
+            "width": 729,
+            "height": 1080
+          },
+          {
+            "name": "005",
+            "alt": "Zervreilasee",
+            "date": "2025-08-31T08:58:38.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Um 8:45 wanderte ich schließlich los. Der Parkplatz befindet sich 150m oberhalb des Sees auf knapp 2000 Metern. Die Wanderung begann mit einem Abstieg entlang des Sees auf einem gesperrten Fahrweg. Das geschah noch im kalten Schatten, aber das Zervreilahorn war bereits zu sehen. Im Laufe des Tages wollte ich um diesen tollen Gipfel herumlaufen."
+      },
+      {
+        "photos": [
+          {
+            "name": "006",
+            "alt": "Bunter Wasserfall",
+            "date": "2025-08-31T09:07:23.000+02:00",
+            "width": 1469,
+            "height": 1080
+          }
+        ],
+        "text": "Am Tag zuvor hatte es viel geregnet und oberhalb von 2500m auch geschneit. Folglich strömte überall das Wasser hinab und bildete hier sogar einen Wasserfall, der in der Morgensonne in Regenbogenfarben leuchtete."
+      },
+      {
+        "photos": [
+          {
+            "name": "007",
+            "alt": "Glänzende Felswand",
+            "date": "2025-08-31T09:15:38.000+02:00",
+            "width": 1742,
+            "height": 1080
+          },
+          {
+            "name": "008",
+            "alt": "Wanderzeiten Zervreila",
+            "date": "2025-08-31T09:18:53.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Nach rund einer halben Stunde am See entlang erreichte ich die Abzweigung zur Furggelti. Hier startete praktisch meine Rundwanderung. Später sollte ich hier wieder auf meinen Hinweg treffen."
+      },
+      {
+        "photos": [
+          {
+            "name": "009",
+            "alt": "Zervreila Stausee",
+            "date": "2025-08-31T09:43:57.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Der Weg startete gleich ziemlich flott den Hang hinauf. Hier der Blick zurück auf den Zervreila Stausee."
+      },
+      {
+        "photos": [
+          {
+            "name": "010",
+            "alt": "Bergweg mit Zervreilahorn",
+            "date": "2025-08-31T09:46:11.000+02:00",
+            "width": 1920,
+            "height": 986
+          },
+          {
+            "name": "011",
+            "alt": "Bergbach mit Zervreilahorn",
+            "date": "2025-08-31T09:54:11.000+02:00",
+            "width": 1616,
+            "height": 1080
+          }
+        ],
+        "text": "Der Bergweg ging meist direkt auf das Zervreilahorn zu. Nicht ohne Grund wird es auch das Matterhorn Graubündens genannt."
+      },
+      {
+        "photos": [
+          {
+            "name": "012",
+            "alt": "Wanderweg durch Blaubeeren",
+            "date": "2025-08-31T10:12:28.000+02:00",
+            "width": 1755,
+            "height": 1080
+          }
+        ],
+        "text": "Die ganze Landschaft war mit Blaubeeren bewachsen und der Weg war schön angelegt. Es ging aber stetig, durchaus anstrengend, bergauf."
+      },
+      {
+        "photos": [
+          {
+            "name": "013",
+            "alt": "Rundwanderung Vals",
+            "date": "2025-08-31T10:13:54.000+02:00",
+            "width": 1575,
+            "height": 1080
+          }
+        ],
+        "text": "Immer wieder überquerte der Weg rauschende Bäche und das einzig menschengemachte war hier diese Mauer."
+      },
+      {
+        "photos": [
+          {
+            "name": "014",
+            "alt": "Furggelti-Weg",
+            "date": "2025-08-31T10:28:28.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Ich befand mich auf dem Furggelti-Weg, den es erst seit 2001 gibt."
+      },
+      {
+        "photos": [
+          {
+            "name": "015",
+            "alt": "Moorbeere mit Wassertropfen",
+            "date": "2025-08-31T10:33:02.000+02:00",
+            "width": 821,
+            "height": 1080
+          }
+        ],
+        "text": "Auf dieser Moorbeere hatten sich noch ein paar Wassertropfen gehalten."
+      },
+      {
+        "photos": [
+          {
+            "name": "016",
+            "alt": "Wanderweg Furggelti",
+            "date": "2025-08-31T10:38:07.000+02:00",
+            "width": 1734,
+            "height": 1080
+          }
+        ],
+        "text": "Hier in der Bildmitte ist die Furggelti zu sehen, über die ich hinüber wollte. Die weite Landschaft bietet keinerlei Anhaltspunkte über die Entfernungen. Tipp: Es war noch weiter und höher, als es hier schon aussah. ;)"
+      },
+      {
+        "photos": [
+          {
+            "name": "017",
+            "alt": "Wanderung Graubünden",
+            "date": "2025-08-31T10:44:44.000+02:00",
+            "width": 1920,
+            "height": 1076
+          }
+        ],
+        "text": "Hier ging es auf einen kleinen Felsabsatz hinauf, ansonsten waren es bis hier reine Wiesenwege."
+      },
+      {
+        "photos": [
+          {
+            "name": "018",
+            "alt": "Trittstein im Bach",
+            "date": "2025-08-31T11:00:43.000+02:00",
+            "width": 807,
+            "height": 1080
+          },
+          {
+            "name": "019",
+            "alt": "Bach mit Frunthorn",
+            "date": "2025-08-31T11:01:35.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "020",
+            "alt": "Hochfläche mit Bächen",
+            "date": "2025-08-31T11:05:30.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Dann führte der Weg überraschend über eine sumpfige Hochebene und mal wieder musste ein Bach überquert werden."
+      },
+       {
+        "photos": [
+          {
+            "name": "021",
+            "alt": "Aufstieg am Wasser",
+            "date": "2025-08-31T11:13:28.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Dann wurde die Vegetation auf Grund der Höhe weniger und es ging in das große Geröllfeld unterhalb der Furggelti. Hier floß ein Bach direkt über den Felsen am Weg hinab. Vermutlich gibt es hier an normalen Tagen nicht so viel Wasser. Bei mir rauschte den ganzen Tag immer irgendwo ein Bach vorbei."
+      },
+      {
+        "photos": [
+          {
+            "name": "022",
+            "alt": "Weg durch Fels",
+            "date": "2025-08-31T11:28:26.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "023",
+            "alt": "Bergweg durch Geröllfeld",
+            "date": "2025-08-31T11:29:14.000+02:00",
+            "width": 1920,
+            "height": 642
+          },
+          {
+            "name": "024",
+            "alt": "Felsplatten",
+            "date": "2025-08-31T11:41:20.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Der Weg durch das Geröllfeld war gut angelegt und einfach. Durch die Höhe und die konstante Steigung war es aber trotzdem ordentlich anstrengend. Zum Glück waren die Temperaturen angenehm."
+      },
+      {
+        "photos": [
+          {
+            "name": "025",
+            "alt": "Furggelti",
+            "date": "2025-08-31T11:44:43.000+02:00",
+            "width": 1735,
+            "height": 1080
+          }
+        ],
+        "text": "Um 11:45, also nach 3h vom Parkplatz, erreichte ich das 2700m hohe Furggelti."
+      },
+      {
+        "photos": [
+          {
+            "name": "026",
+            "alt": "Aussicht Furggelti",
+            "date": "2025-08-31T11:45:17.000+02:00",
+            "width": 1920,
+            "height": 796
+          }
+        ],
+        "text": "Oben ist der Pass total flach. Hier der Blick zurück auf die erledigte Arbeit bis hier hin."
+      },
+      {
+        "photos": [
+          {
+            "name": "027",
+            "alt": "Wegweiser Furggelti",
+            "date": "2025-08-31T11:45:59.000+02:00",
+            "width": 1891,
+            "height": 1080
+          }
+        ],
+        "text": "Der Wegweiser auf dem Furggelti mit Gipfelbuch - auch wenn es kein Gipfel ist."
+      },
+      {
+        "photos": [
+          {
+            "name": "028",
+            "alt": "Schattenwanderer",
+            "date": "2025-08-31T11:47:33.000+02:00",
+            "width": 760,
+            "height": 1080
+          }
+        ],
+        "text": "Abgesehen von diesem Schattenwanderer war ich auf der Wanderung bis hier hin völlig alleine unterwegs. Nur in der Entfernung hatte ich zwei andere Menschen gesehen, die aber zum Klettern am Zervreilahorn abgebogen waren."
+      },
+      {
+        "photos": [
+          {
+            "name": "029",
+            "alt": "Plateau auf Furggelti",
+            "date": "2025-08-31T11:48:20.000+02:00",
+            "width": 1920,
+            "height": 823
+          }
+        ],
+        "text": "Sogar einen kleinen See gab es oben auf der Furggelti."
+      },
+      {
+        "photos": [
+          {
+            "name": "030",
+            "alt": "Panorama Furggelti",
+            "date": "2025-08-31T11:50:46.000+02:00",
+            "width": 1920,
+            "height": 974
+          }
+        ],
+        "text": "Da der Pass so flach ist, musste ich mich entscheiden, in welche Richtung ich bei meiner Mittagspause schauen wollte. Ich entschied mich auf der steilen Westseite hinabzuschauen, wo ich auch danach runterlaufen wollte."
+      },
+      {
+        "photos": [
+          {
+            "name": "031",
+            "alt": "Wollgras mit Schnee",
+            "date": "2025-08-31T12:08:34.000+02:00",
+            "width": 1576,
+            "height": 1080
+          }
+        ],
+        "text": "Wollgras an einem der Tümpel auf der Furggelti."
+      },
+      {
+        "photos": [
+          {
+            "name": "032",
+            "alt": "Abstieg ins Nichts",
+            "date": "2025-08-31T12:09:08.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Nach 20min Pause machte ich mich dann an den Abstieg. Der Weg führte zuerst durch dieses Tal ins Nichts."
+      },
+      {
+        "photos": [
+          {
+            "name": "033",
+            "alt": "Steiler Weg an Felswand",
+            "date": "2025-08-31T12:15:56.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Hier der Blick zurück nach dem ersten steilen Abstieg vom Pass. Das sieht auf dem Foto harmloser aus, als es war."
+      },
+      {
+        "photos": [
+          {
+            "name": "034",
+            "alt": "Abstieg Furggelti",
+            "date": "2025-08-31T12:19:52.000+02:00",
+            "width": 1920,
+            "height": 750
+          }
+        ],
+        "text": "Hier hatte ich dann aber dieses steile Stück schon geschafft und es wurde erst mal etwas einfacher - über die Hochfläche unten links ging es nun weiter."
+      },
+      {
+        "photos": [
+          {
+            "name": "035",
+            "alt": "Wollgras mit Granit",
+            "date": "2025-08-31T12:34:48.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Hier gab es wieder sehr viel Wollgras, das immer schön in der Sonne leuchtet."
+      },
+      {
+        "photos": [
+          {
+            "name": "036",
+            "alt": "Mäander in den Bergen",
+            "date": "2025-08-31T12:38:04.000+02:00",
+            "width": 1901,
+            "height": 1080
+          },
+          {
+            "name": "037",
+            "alt": "Flussüberquerung",
+            "date": "2025-08-31T12:39:41.000+02:00",
+            "width": 1752,
+            "height": 1080
+          }
+        ],
+        "text": "Dann ging es zu diesem Bach, den ich wieder über Trittsteine überquerte."
+      },
+      {
+        "photos": [
+          {
+            "name": "038",
+            "alt": "Blick zur Furggelti",
+            "date": "2025-08-31T12:44:56.000+02:00",
+            "width": 1920,
+            "height": 1058
+          }
+        ],
+        "text": "Hier der Blick zurück zur Furggelti. Der Weg führte links des Geröllfelds hier hinab."
+      },
+      {
+        "photos": [
+          {
+            "name": "039",
+            "alt": "Schneebedeckte Gipfel",
+            "date": "2025-08-31T12:52:26.000+02:00",
+            "width": 1920,
+            "height": 880
+          }
+        ],
+        "text": "Dann folgte der schönste Abschnitt des Abstiegs, denn die schneebedeckten Gipfel am Ende des Länta Tals tauchten auf (und es war auch mal nicht so steil)."
+      },
+      {
+        "photos": [
+          {
+            "name": "040",
+            "alt": "Pizzo Cassinello",
+            "date": "2025-08-31T12:58:54.000+02:00",
+            "width": 1920,
+            "height": 800
+          }
+        ],
+        "text": "Auf dem Abstieg zu einer weiteren Hochebene mit Seen. Im Hintergrund der 3100m hohe Pizzo Cassinello."
+      },
+      {
+        "photos": [
+          {
+            "name": "041",
+            "alt": "Wanderweg mit Adula Rheinwaldhorn",
+            "date": "2025-08-31T13:00:44.000+02:00",
+            "width": 1742,
+            "height": 1080
+          },
+          {
+            "name": "042",
+            "alt": "Panoramaweg",
+            "date": "2025-08-31T13:05:44.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Und wieder ging es auf das vergletscherte Adula Rheinwaldhorn zu. Rechts ging es hier übrigens sehr steil in das Tal hinab... und dort musste ich noch runter."
+      },
+      {
+        "photos": [
+          {
+            "name": "043",
+            "alt": "Steiler Weg mit Länta Hütte",
+            "date": "2025-08-31T13:31:33.000+02:00",
+            "width": 885,
+            "height": 1080
+          }
+        ],
+        "text": "Und der Abstieg ins Tal war auch genau so steil, wie ich es schon anhand der Karte befürchtet hatte. In zu kleinen Serpentinen ging es nun fast durchgehend direkt auf den Abgrund zu. Hier tauchte auch mein nächstes Ziel auf, die noch 400m tiefer liegende Länta Hütte."
+      },
+      {
+        "photos": [
+          {
+            "name": "044",
+            "alt": "Schwierigkeit Furggelti",
+            "date": "2025-08-31T13:43:28.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Der Weg hier hinunter war anspruchsvoll zu gehen, deshalb ging ich vorsichtig und ließ mir Zeit. Auf den Fotos ist das nicht einzufangen."
+      },
+      {
+        "photos": [
+          {
+            "name": "045",
+            "alt": "Wasserfall",
+            "date": "2025-08-31T13:48:33.000+02:00",
+            "width": 738,
+            "height": 1080
+          }
+        ],
+        "text": "Am Schluß ging es entlang dieses Wasserfalls runter. Hier machte ich eine kleine Zwischenpause."
+      },
+      {
+        "photos": [
+          {
+            "name": "046",
+            "alt": "Länta mit Piz Scharboda",
+            "date": "2025-08-31T13:54:06.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Der Blick das wilde Länta Tal hinab, durch das der Valser Rhein fließt. Ich freute mich schon auf den bald folgenden entspannten Weg dieses Tal hinab."
+      },
+      {
+        "photos": [
+          {
+            "name": "047",
+            "alt": "Weg an Wasserfall",
+            "date": "2025-08-31T13:58:30.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Der gefühlt senkrechte Blick zurück hinauf auf meinen Abstieg."
+      },
+      {
+        "photos": [
+          {
+            "name": "048",
+            "alt": "Ursprüngliches Tal",
+            "date": "2025-08-31T14:01:37.000+02:00",
+            "width": 1829,
+            "height": 1080
+          }
+        ],
+        "text": "Noch ein Foto vom Tal. Die Länta Hütte links im Bild kam langsam näher."
+      },
+      {
+        "photos": [
+          {
+            "name": "049",
+            "alt": "Murmeltier",
+            "date": "2025-08-31T14:08:53.000+02:00",
+            "width": 1658,
+            "height": 1080
+          }
+        ],
+        "text": "Hier hatte ich es dann fast geschafft. Unten am Fluss ist die Brücke zu sehen. Und wer genau hinschaut, kann rechts unten ein neugieriges Murmeltier entdeckten, von denen es hier jede Menge gab."
+      },
+      {
+        "photos": [
+          {
+            "name": "050",
+            "alt": "Abenteuerliche Brücke",
+            "date": "2025-08-31T14:16:02.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Die Brücke über den Bach kann man durchaus als originell beschreiben."
+      },
+      {
+        "photos": [
+          {
+            "name": "051",
+            "alt": "Valser Rhein",
+            "date": "2025-08-31T14:17:31.000+02:00",
+            "width": 720,
+            "height": 1080
+          }
+        ],
+        "text": "Blick von der Brücke das Tal hinauf."
+      },
+      {
+        "photos": [
+          {
+            "name": "052",
+            "alt": "Länta Hütte",
+            "date": "2025-08-31T14:20:39.000+02:00",
+            "width": 1920,
+            "height": 892
+          }
+        ],
+        "text": "Und hier die Länta Hütte.<br />Für die 700m Abstieg vom Furggelti hatte ich über 2h gebraucht, es war nun 14:15. Hier begegnete ich dann auch den ersten zwei anderen Wanderern des Tages. Aber Dichtestress kommt auch hier definitiv nicht auf."
+      },
+      {
+        "photos": [
+          {
+            "name": "053",
+            "alt": "Strandnähe",
+            "date": "2025-08-31T14:21:44.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "In die bewirtschaftete Hütte war ich nicht eingekehrt, aber ich lief an deren Privatstrand vorbei."
+      },
+      {
+        "photos": [
+          {
+            "name": "054",
+            "alt": "Wanderweg Länta Hütte",
+            "date": "2025-08-31T14:23:43.000+02:00",
+            "width": 1712,
+            "height": 1080
+          }
+        ],
+        "text": "Blick zurück. Rechts, lawinengeschützt im Fels, die Länta Hütte."
+      },
+      {
+        "photos": [
+          {
+            "name": "055",
+            "alt": "Wasserfälle",
+            "date": "2025-08-31T14:43:34.000+02:00",
+            "width": 1803,
+            "height": 1080
+          },
+          {
+            "name": "056",
+            "alt": "Schönes Alpental",
+            "date": "2025-08-31T15:10:31.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Wie erhofft war der Weg das Tal hinab sehr entspannend und wunderschön. Von den steilen Hängen fielen Wasserfälle hinab und der Fluss fließt völlig frei durch sein gerölliges Flußbett. Außerdem war das Wetter perfekt mit einem leichten kühlenden Wind."
+      },
+      {
+        "photos": [
+          {
+            "name": "057",
+            "alt": "Alte Steinhäuser",
+            "date": "2025-08-31T15:13:40.000+02:00",
+            "width": 1920,
+            "height": 1026
+          },
+          {
+            "name": "058",
+            "alt": "Lampertsch Alp",
+            "date": "2025-08-31T15:18:13.000+02:00",
+            "width": 1920,
+            "height": 871
+          }
+        ],
+        "text": "Nach einer Stunde durch das einsame Tal erreichte ich die Lampertsch Alp. Diese besteht aus ein paar alten Steinhäusern und ist ebenfalls bewirtschaftet. Ich denke es gibt einige, die von Zervreila nur hier hin gehen, was eine einfache Wanderung ist."
+      },
+      {
+        "photos": [
+          {
+            "name": "059",
+            "alt": "Wanderweg Lampertsch Alp",
+            "date": "2025-08-31T15:26:53.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Hier wieder der Blick zurück. Der Weg wurde nun schon fast ein Fahrweg."
+      },
+      {
+        "photos": [
+          {
+            "name": "060",
+            "alt": "Hängebrücke",
+            "date": "2025-08-31T15:27:30.000+02:00",
+            "width": 1598,
+            "height": 1080
+          }
+        ],
+        "text": "Erst dachte ich, ich müsste über diese abenteuerliche Hängebrücke. Aber der Wanderweg blieb zunächst auf dieser Flussseite."
+      },
+      {
+        "photos": [
+          {
+            "name": "061",
+            "alt": "Wanderung Vals",
+            "date": "2025-08-31T15:44:55.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Der Fluss schnitt sich nun etwas ein und der Weg ging nun etwas mehr bergab. Hier der Blick zurück."
+      },
+      {
+        "photos": [
+          {
+            "name": "062",
+            "alt": "Rauschender Bach durch Felsen",
+            "date": "2025-08-31T15:48:06.000+02:00",
+            "width": 791,
+            "height": 1080
+          }
+        ],
+        "text": "Über den Fluss ging es dann tatsächlich ohne Brücke, denn der Weg nutzte dafür große Felsen, die in den Fluss gefallen waren. Das Wasser selbst floss darunter."
+      },
+      {
+        "photos": [
+          {
+            "name": "063",
+            "alt": "Spazierweg Zervreilasee",
+            "date": "2025-08-31T16:05:51.000+02:00",
+            "width": 1839,
+            "height": 1080
+          }
+        ],
+        "text": "Nach der Überquerung des Flusses erreichte ich die Fahrstraße entlang des Stausees um 16:00. Ich packte die schweren Bergschuhe weg und ging nun in Sandalen weiter."
+      },
+      {
+        "photos": [
+          {
+            "name": "064",
+            "alt": "Weg am See",
+            "date": "2025-08-31T16:16:40.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "065",
+            "alt": "Blauer See mit gelbem Gras",
+            "date": "2025-08-31T16:25:18.000+02:00",
+            "width": 1784,
+            "height": 1080
+          }
+        ],
+        "text": "Einfach und bei sehr schönem Licht ging ich nun oberhalb des Sees weiter und erreichte die Abzweigung vom Morgen. 7h hatte ich für die Runde gebraucht."
+      },
+      {
+        "photos": [
+          {
+            "name": "066",
+            "alt": "Brücke über See",
+            "date": "2025-08-31T16:26:48.000+02:00",
+            "width": 1090,
+            "height": 1080
+          },
+          {
+            "name": "067",
+            "alt": "Canaltal",
+            "date": "2025-08-31T16:32:21.000+02:00",
+            "width": 1866,
+            "height": 1080
+          }
+        ],
+        "text": "Die Brücke über den See hatte ich am Morgen nicht fotografiert, dahinter befindet sich das Canaltal."
+      },
+      {
+        "photos": [
+          {
+            "name": "068",
+            "alt": "Zervreila",
+            "date": "2025-08-31T16:48:50.000+02:00",
+            "width": 1920,
+            "height": 938
+          }
+        ],
+        "text": "Nun musste ich natürlich noch die 150m zum Parkplatz aufsteigen. Die Landschaft und das Wetter waren auch weiterhin toll, aber mir reichte es langsam."
+      },
+      {
+        "photos": [
+          {
+            "name": "069",
+            "alt": "Kleine Holzhütte",
+            "date": "2025-08-31T16:57:20.000+02:00",
+            "width": 1759,
+            "height": 1080
+          }
+        ],
+        "text": "Vorbei noch an einer kleinen Holzhütte, die ich am Morgen im Schatten ignoriert hatte."
+      },
+      {
+        "photos": [
+          {
+            "name": "070",
+            "alt": "Einfacher Weg",
+            "date": "2025-08-31T17:04:46.000+02:00",
+            "width": 1920,
+            "height": 997
+          }
+        ],
+        "text": "Hier hatte ich es dann fast geschafft, denn es tauchte die Staumauer auf."
+      },
+      {
+        "photos": [
+          {
+            "name": "071",
+            "alt": "Zervreila Chappeli",
+            "date": "2025-08-31T17:13:30.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Gegen 17:15 erreichte ich die kleine Kapelle am Parkplatz. Noch etwas Zeit für eine letzte Pause vor der langen Rückfahrt und einen letzten Blick auf das Zervreilahorn."
+      }
+    ],
+    "outro": "Fazit: Eine durchaus anspruchsvolle, lange und anstrengende Wanderung. Der Abstieg war mir etwas zu steil und wäre im Aufstieg angenehmer gewesen. Dann wandert man aber erstmal knapp 3h bis der Aufstieg anfängt. Oder man legt eine Übernachtung in der Länta-Hütte ein.<br />Die total einsame Landschaft ist aber uneingeschränkt empfehlenswert, besonders das Zervreilahorn und das Länta Tal sind sehr schön."
+  }
+]

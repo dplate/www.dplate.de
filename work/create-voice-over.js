@@ -3,8 +3,8 @@ const jsonfile = require('jsonfile');
 const fs = require('fs');
 
 const projectPath = 'C:/Users/Roger/web/Dp3';
-const destination = 'gotthard';
-const reportDate = '20250824';
+const destination = 'vals';
+const reportDate = '20250831';
 
 const client = new textToSpeech.TextToSpeechClient();
 
@@ -80,6 +80,14 @@ const pronunciations = [
   {
     regex: /(hinweg)/ig,
     ipa: 'ˈhɪnvek'
+  },
+  {
+    regex: /(zervrei)/ig,
+    ipa: 'tsɛrˈfraɪ̯'
+  },
+  {
+    regex: /(canal)/ig,
+    ipa: 'kanal'
   }
 ];
 
@@ -102,7 +110,7 @@ const generateAudio = async (rawText, audioFile) => {
   }
 
   // Make sure height is pronounced as units always
-  text = text.replace(/(\d+)m[^\w]/g, `$1 Meter`);
+  text = text.replace(/(\d+)m([^\w])/g, `$1 Meter$2`);
 
   // Make sure time is pronounced as units always
   text = text.replace(/(\d+)h/g, `$1 Stunden`);
