@@ -7,8 +7,15 @@
     "detailMap": "swiss",
     "shortTitle": "Wagenlücke",
     "title": "Wasserauen - Wagenlücke",
-    "movie": "aKlZ4mKYWu0",
-    "intro": "An diesem Samstag habe ich mich dran gemacht, ein paar weitere Lücken im Alpstein zu füllen und mir die Wagenlücke als Ziel ausgesucht. Die Wagenlücke ist ein Pass unterhalb des Säntis, der am besten von Wasserauen bei Appenzell zu erreichen ist.",
+    "title3d": {
+      "align": "right",
+      "offsetY": 0,
+      "fontSize": 8.5,
+      "width": 1920,
+      "height": 559
+    },
+    "movie": "4_4tUDa4_Qc",
+    "intro": "An diesem Samstag hatte ich mich daran gemacht, ein paar weitere Lücken im Alpstein zu füllen und mir die Wagenlücke als Ziel ausgesucht. Die Wagenlücke ist ein Pass unterhalb des Säntis, der am besten von Wasserauen bei Appenzell zu erreichen ist.",
     "landmarks": [
       {
         "photos": [
@@ -21,7 +28,7 @@
           }
         ],
         "videos": [],
-        "text": "Um 7:40 erreichte ich den schon ziemlich gut gefüllten Parkplatz an der Talstation den Ebenalpseilbahn auf 870m. Das waren aber nicht alles Tagesgäste, sondern auch viele, die auf Mehrtagstouren im Alpstein waren.<br />\nIch entschloss mich für den Aufstieg über Schrennen, weshalb ich (wie hier sichtbar) Richtung Süden den Hang hochstieg."
+        "text": "Um 7:40 erreichte ich den schon ziemlich gut gefüllten Parkplatz an der Talstation der Ebenalpseilbahn auf 870m. Das waren aber nicht alles Tagesgäste, sondern auch viele, die auf Mehrtagstouren im Alpstein waren.<br />\nIch entschloss mich für den Aufstieg über die Schrennen, weshalb ich (wie hier sichtbar) Richtung Süden den Hang hochstieg."
       },
       {
         "photos": [
@@ -54,7 +61,7 @@
           }
         ],
         "videos": [],
-        "text": "Der Blick auf die andere Seite des Tals wurde möglich. Hier ist die Gaststätte Äscher zu sehen, die unterhalb einer hohen Felswand kauert. Weiter rechts kann man das Wildkirchli und den Höhleneingang hinauf zur Ebenalp erahnen."
+        "text": "Hier wurde der Blick auf die andere Seite des Tals möglich. Dort war die Gaststätte Äscher zu sehen, die unterhalb einer hohen Felswand kauert. Weiter rechts kann man das Wildkirchli und den Höhleneingang hinauf zur Ebenalp erahnen."
       },
       {
         "photos": [
@@ -114,7 +121,7 @@
           }
         ],
         "videos": [],
-        "text": "Hier erreichte ich schließlich die Schrennen. Eine auf 1500m Höhe gelegenen Grashang. Ober und unterhalb einer jeweils 300m hohe Felswand.<br />\nIm Hintergrund ist nun bereits der Säntis sichtbar und rechts unten der Seealpsee."
+        "text": "Hier erreichte ich schließlich die Schrennen. Einer auf 1500m Höhe gelegener Grashang. Ober- und unterhalb einer jeweils 300m hohen Felswand.<br />\nIm Hintergrund war nun bereits der Säntis sichtbar und rechts unten der Seealpsee."
       },
       {
         "photos": [
@@ -147,7 +154,7 @@
           }
         ],
         "videos": [],
-        "text": "Vorbei geht es am weit unterhalb liegendem Seealpsee. Das ganze ist schon ziemlich spektakulär, aber der Weg über die Schrennen ist breit und gut gesichert."
+        "text": "Vorbei ging es am weit unterhalb liegendem Seealpsee. Das ganze ist schon ziemlich spektakulär, aber der Weg über die Schrennen ist breit und gut gesichert."
       },
       {
         "photos": [
@@ -174,7 +181,7 @@
           }
         ],
         "videos": [],
-        "text": "Da es nun flach weiterging, erreichte ich recht zügig die Meglisalp. Ein wunderbar gelegene Siedlung, bestehend aus einer Kirche, einem Gasthaus und ein paar Bauernhäusern. Für mich eine der schönsten Stellen des Alpsteins.<br />\nVersorgt werden die Häuser über eine Transportseilbahn vom Seealpsee aus."
+        "text": "Da es nun flach weiterging, erreichte ich recht zügig die Meglisalp. Eine wunderbar gelegene Siedlung, bestehend aus einer Kirche, einem Gasthaus und ein paar Bauernhäusern. Für mich eine der schönsten Stellen des Alpsteins.<br />\nVersorgt werden die Häuser über eine Transportseilbahn vom Seealpsee aus."
       },
       {
         "photos": [
@@ -187,7 +194,7 @@
           }
         ],
         "videos": [],
-        "text": "Mit dem geruhsamen flachem Weg war es nun aber vorbei und es ging den schrägen Felshang auf der Rückseite der Meglisalp hinauf."
+        "text": "Mit dem geruhsamen flachen Weg war es nun aber vorbei und es ging den schrägen Felshang auf der Rückseite der Meglisalp hinauf."
       },
       {
         "photos": [
@@ -200,7 +207,7 @@
           }
         ],
         "videos": [],
-        "text": "Wie immer wenn anstrengend wird, nehmen bei mir die Makroaufnahmen zu. Erstens fällt einem die Umgebung mehr auf wenn man langsamer läuft, zweitens braucht es Ausreden um stehen zu bleiben. 😉"
+        "text": "Wie immer wenn es anstrengend wird, nehmen bei mir die Makroaufnahmen zu. Erstens fällt einem die Umgebung mehr auf wenn man langsamer läuft, zweitens braucht es Ausreden um Stehen zu bleiben. 😉"
       },
       {
         "photos": [
@@ -272,7 +279,7 @@
           }
         ],
         "videos": [],
-        "text": "Noch einmal der Blick zurück"
+        "text": "Hier noch einmal der Blick zurück"
       },
       {
         "photos": [
@@ -285,7 +292,7 @@
           }
         ],
         "videos": [],
-        "text": "Schließlich erreichte ich um 12:00 die 2075m hohe Wagenlücke (links im BIld). Dort gibt es auch eine kleine (nicht öffentliche) Hütte."
+        "text": "Schließlich erreichte ich um 12:00 die 2075m hohe Wagenlücke (links im Bild). Dort gibt es auch eine kleine (nicht öffentliche) Hütte."
       },
       {
         "photos": [
@@ -298,13 +305,13 @@
           }
         ],
         "videos": [],
-        "text": "Der Gipfel des Säntis ist zum Greifen nah, aber es wären noch 500 Höhenmeter und 1 1/4h Aufstieg. Da ich dieses Jahr vernünftig bin, verzichtete ich."
+        "text": "Der Gipfel des Säntis war zum Greifen nah, aber es wären noch 500 Höhenmeter und 1 1/4h Aufstieg. Da ich in dem Jahr vernünftig war, verzichtete ich."
       },
       {
         "photos": [
           {
             "name": "028",
-            "alt": "Alte Zahnrad Säntisbahn",
+            "alt": "Alte Zahnrad-Säntisbahn",
             "date": "2016-07-30T11:31:20.000+02:00",
             "width": 1920,
             "height": 1280
@@ -318,7 +325,7 @@
           }
         ],
         "videos": [],
-        "text": "Für die Bahnliebhaber unter euch habe ich die Informationstafel über die Anfang des 20. Jahrhundert geplante Säntisbahn fotografiert. Ein sehr interessantes Projekt, was mir aber auch ziemlich Aufwändig erscheint."
+        "text": "Für die Bahnliebhaber unter euch habe ich die Informationstafel über die Anfang des 20. Jahrhundert geplante Säntisbahn fotografiert. Ein sehr interessantes Projekt, was mir aber auch ziemlich aufwändig erscheint."
       },
       {
         "photos": [
@@ -357,7 +364,7 @@
           }
         ],
         "videos": [],
-        "text": "Am Talgrund angekommen geht es zu erst recht harmlos bergab Richtung Gasthaus Mesmer."
+        "text": "Am Talgrund angekommen ging es zuerst recht harmlos bergab Richtung Gasthaus Mesmer."
       },
       {
         "photos": [
@@ -390,7 +397,7 @@
           }
         ],
         "videos": [],
-        "text": "Dann folgte aber unversehens der steilste Part der Wanderung. Eine felsige Steilstufe mitten im Tal musste überwunden. Der Weg ist zum Teil in den Fels geschlagen und mit Drahseil gesichert - wenn man einigermaßen Bergfest ist, ist es aber gut machbar."
+        "text": "Dann folgte aber unversehens der steilste Teil der Wanderung. Eine felsige Steilstufe mitten im Tal musste überwunden werden. Der Weg ist zum Teil in den Fels geschlagen und mit Drahtseil gesichert - wenn man einigermaßen bergfest ist, ist es aber gut machbar."
       },
       {
         "photos": [
@@ -469,7 +476,7 @@
           }
         ],
         "videos": [],
-        "text": "Aber auch der Abstieg war nicht unanstrengend, aber ich erreichte doch recht flott den See."
+        "text": "Aber auch der Abstieg war anstrengend, dennoch erreichte ich recht flott den See."
       },
       {
         "photos": [
@@ -536,6 +543,6 @@
         "text": "Wanderstrecke im Überblick."
       }
     ],
-    "outro": "Fazit: Zwar wieder kein Gipfel auf der Tour, aber der Ausblick ist im Alpstein eigentlich immer toll. Der Weg ist nicht besonders anspruchsvoll und für jeden Alpinwanderer gut zu machen.<br />\nAlternativ kann man auch auf den Säntis rauf und mit der Seilbahn runter (danach mit Postbus und Bahn zurück nach Wasserauen). Dann verpasst man aber den Seealpsee, der sich an diesem heißen Tag ganz besonders gelohnt hat. 😉"
+    "outro": "Fazit: Zwar kein Gipfel auf der Tour, aber der Ausblick ist im Alpstein eigentlich immer toll. Der Weg ist nicht besonders anspruchsvoll und für jeden Bergwanderer gut zu machen.<br />\nAlternativ kann man auch auf den Säntis rauf und mit der Seilbahn runter (danach mit Postbus und Bahn zurück nach Wasserauen). Dann verpasst man aber den Seealpsee, der sich an diesem heißen Tag ganz besonders gelohnt hat. 😉"
   }
 ]
