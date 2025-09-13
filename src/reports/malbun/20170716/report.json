@@ -7,8 +7,15 @@
     "detailMap": "swiss",
     "shortTitle": "Rappenstein",
     "title": "Steg - Rappenstein",
-    "movie": "qOReIM7Bhyc",
-    "intro": "Nachdem ich bereits im Vorjahr eine Wanderung in Liechtenstein unternahm (siehe <a href='/alpine/malbun/20161016'>Naafkopf</a>), machte ich mich am letzten Sonntag wieder dort hin auf. Diesmal um den Rappenstein zu besteigen.<br />Ich parkte mein Auto um 8:00 auf dem (gratis) Parkplatz am Stausee in Steg, welcher sich nach dem Tunnel auf dem Weg nach Malbun befindet.",
+    "title3d": {
+      "offsetY": 0,
+      "fontSize": 9,
+      "align": "left",
+      "width": 1920,
+      "height": 529
+    },
+    "movie": "0obFZyyR21s",
+    "intro": "Nachdem ich bereits im Vorjahr eine Wanderung in Liechtenstein zum <a href='/alpine/malbun/20161016'>Naafkopf</a>  unternommen hatte, machte ich mich an diesem Sonntag wieder dort hin auf. Diesmal um den Rappenstein zu besteigen.<br />Ich parkte mein Auto um 8:00 auf dem Gratis-Parkplatz am Stausee in Steg, welcher sich nach dem Tunnel auf dem Weg nach Malbun befindet.",
     "landmarks": [
       {
         "photos": [
@@ -63,7 +70,7 @@
             "height": 1280
           }
         ],
-        "text": "Auf eben dieser Straße musste ich die letzten Meter bis zum alten Tunnel zurücklegen. Ich ging aber nicht hindurch, sondern verließ den Asphalt Richtung Grat. Ab sofort ging es auch in die richtige Richtung."
+        "text": "Auf eben dieser Straße musste ich die letzten Meter bis zum alten Tunnel zurücklegen. Ich ging aber nicht hindurch, sondern verließ den Asphalt Richtung Grat. Ab hier ging es auch in die richtige Richtung."
       },
       {
         "photos": [
@@ -135,7 +142,7 @@
             "height": 1419
           }
         ],
-        "text": "Ziemlich unvermittelt wurde der Pfad aber ungemütlich, denn er führte auf der steilen Rheintalseite um einen Felsen herum. Sicherung war zwar teilweise vorhanden, ist aber wahrscheinlich bei Nässe trotzdem nicht ganz ohne. Das Ausflug auf die schroffe Westseite des Grat war aber auch schnell wieder vorbei."
+        "text": "Ziemlich unvermittelt wurde der Pfad aber ungemütlich, denn er führte auf der steilen Rheintalseite um einen Felsen herum. Sicherung war zwar teilweise vorhanden, ist aber wahrscheinlich bei Nässe trotzdem nicht ganz ohne. Der Ausflug auf die schroffe Westseite des Grat war aber auch schnell wieder vorbei."
       },
       {
         "photos": [
@@ -264,7 +271,7 @@
             "height": 1115
           }
         ],
-        "text": "Die erste Wegkreuzung seit Sücka. Ich kam vom Grat, der hier in der Mitte zu sehen ist und folge weiter dem Wegweiser zum Rappensteinsattel. Ich war schon 2:30h unterwegs und zum Sattel sind es noch 50min."
+        "text": "Hier die erste Wegkreuzung seit Sücka. Ich kam vom Grat, der hier in der Mitte zu sehen ist und folgte weiter dem Wegweiser zum Rappensteinsattel. Ich war schon 2 Stunden und 30 Minuten unterwegs und zum Sattel waren es noch 50 Minuten."
       },
       {
         "photos": [
@@ -276,7 +283,7 @@
             "height": 1287
           }
         ],
-        "text": "Nach dem Pass mit dem Wegweister ging es wieder auf die steile Rheintalseite des Grats um eine Felsnase herum... abgesichert mit Drahtseil."
+        "text": "Nach dem Pass mit dem Wegweiser ging es wieder auf die steile Rheintalseite des Grats um eine Felsnase herum... abgesichert mit Drahtseil."
       },
       {
         "photos": [
@@ -300,7 +307,7 @@
             "height": 648
           }
         ],
-        "text": "Der nächste Abschnitt des Wegs war nun (kurz) deutlich erholsamer und führte über Wiesen Richtung Goldlochspitz. Hier begegnete ich nun auch den ersten anderen Wanderern"
+        "text": "Der nächste Abschnitt des Wegs war nun kurz deutlich erholsamer und führte über Wiesen Richtung Goldlochspitz. Hier begegnete ich nun auch den ersten anderen Wanderern"
       },
       {
         "photos": [
@@ -324,7 +331,7 @@
             "height": 1125
           }
         ],
-        "text": "Immer noch beim anstengendem Aufstieg. Hier der Blick zurück ins Rheintal."
+        "text": "Immer noch beim anstrengenden Aufstieg. Hier der Blick zurück ins Rheintal."
       },
       {
         "photos": [
@@ -372,7 +379,7 @@
             "height": 1280
           }
         ],
-        "text": "Nach dem schon ziemlich unangenehmen Abstieg von der Goldlochspitz (schmal, steil, ohne Serpentinen) kam der nach meiner Meinung stressigste Abschnitt der gesamten Wanderung: dieser schmale Grat links und rechts steil abfallend. Schwindelfreie werden wahrscheinlich locker rüberspazieren... aber da ich es nicht 100% bin, habe ich nur auf meine Füße geschaut und versucht die Abgründe links und rechts zu ignorieren. ;)"
+        "text": "Nach dem schon ziemlich unangenehmen Abstieg von der Goldlochspitz (schmal, steil, ohne Serpentinen) kam der nach meiner Meinung stressigste Abschnitt der gesamten Wanderung: dieser schmale Grat links und rechts steil abfallend. Schwindelfreie werden wahrscheinlich locker drüber spazieren... aber da ich es nicht 100% bin, habe ich nur auf meine Füße geschaut und versucht die Abgründe links und rechts zu ignorieren. ;)"
       },
       {
         "photos": [
@@ -384,7 +391,7 @@
             "height": 1189
           }
         ],
-        "text": "Ersten Grat und Felsen überwunden ging es noch weiter so zum Rappensteinsattel (wenn auch nicht mehr ganz so ausgesetzt)."
+        "text": "Nachdem der erste Grat und Felsen überwunden waren, ging es noch weiter so zum Rappensteinsattel (wenn auch nicht mehr ganz so ausgesetzt)."
       },
       {
         "photos": [
@@ -396,7 +403,7 @@
             "height": 892
           }
         ],
-        "text": "Blick zurück zur Goldlochspitz. Hier sieht man auch wie schmal der Weg war (da passen keine zwei Schuhe nebeneinander) und auch der steile Abstieg von der Goldlochspitz ist zu sehen."
+        "text": "Blick zurück zur Goldlochspitz. Hier sieht man auch wie schmal der Weg war (da passten keine zwei Schuhe nebeneinander) und auch der steile Abstieg von der Goldlochspitz ist zu sehen."
       },
       {
         "photos": [
@@ -408,7 +415,7 @@
             "height": 1261
           }
         ],
-        "text": "Puh, Rappensteinsattel erreicht. Bis hier her werde ich auch wieder zurücklaufen, denn der letzte Aufstieg zum Rappenstein ist eine Sackgasse. Hier erreicht auch der Hauptweg zum Rappenstein den Grat, somit war der Weg nun deutlich besser ausgebaut und es waren auch mehr andere Wanderer unterwegs."
+        "text": "Puh, Rappensteinsattel erreicht. Bis hier her werde ich auch wieder zurücklaufen, denn der letzte Aufstieg zum Rappenstein ist eine Sackgasse. Hier erreichte auch der Hauptweg zum Rappenstein den Grat, somit war der Weg nun deutlich besser ausgebaut und es waren auch mehr andere Wanderer unterwegs."
       },
       {
         "photos": [
@@ -444,7 +451,7 @@
             "height": 528
           }
         ],
-        "text": "Nach insgesamt 4h Stunden Schinderei hatte ich nun den 2200m hohen Gipfel des Rappenstein erreicht. Hier wieder der Blick entlang des Grats des Aufstiegs."
+        "text": "Nach insgesamt 4 Stunden Schinderei hatte ich nun den 2200m hohen Gipfel des Rappenstein erreicht. Hier wieder der Blick entlang des Grats des Aufstiegs."
       },
       {
         "photos": [
@@ -468,7 +475,7 @@
             "height": 779
           }
         ],
-        "text": "Weitwinkelaufnahme hinunter zum Rheintal."
+        "text": "Eine Weitwinkelaufnahme hinunter zum Rheintal."
       },
       {
         "photos": [
@@ -480,7 +487,7 @@
             "height": 1280
           }
         ],
-        "text": "Miniaturaufnahme von Obersäss/Gapfahl, das ich gleich auf meinem Abstieg passieren werde."
+        "text": "Eine Miniaturaufnahme von Obersäss/Gapfahl, das ich gleich auf meinem Abstieg passieren werde."
       },
       {
         "photos": [
@@ -528,7 +535,7 @@
             "height": 1280
           }
         ],
-        "text": "Nach ausgiebiger Pause und Genuß der schönen Aussicht, machte ich mich auf den Abstieg. Bis zum Rappensteinsattel auf gleichem Weg."
+        "text": "Nach ausgiebiger Pause und Genuss der schönen Aussicht, machte ich mich auf den Abstieg. Bis zum Rappensteinsattel auf gleichem Weg."
       },
       {
         "photos": [
@@ -564,7 +571,7 @@
             "height": 782
           }
         ],
-        "text": "Ab Obersäss wurde es aber dann sogar zu einfach, den der Abstieg erfolgt von dort auf einer ziemlich flachen Fahrstraße. Im Hintergrund links der Rappenstein und rechts die Goldlochspitz."
+        "text": "Ab Obersäss wurde es aber dann sogar zu einfach, den der Abstieg erfolgte von dort auf einer ziemlich flachen Fahrstraße. Im Hintergrund links der Rappenstein und rechts die Goldlochspitz."
       },
       {
         "photos": [
@@ -588,7 +595,7 @@
             "height": 994
           }
         ],
-        "text": "Weiter auf der Straße. Schade, dass es durch diese schöne Landschaft keinen richtigen Wanderweg gibt."
+        "text": "Weiter auf der Straße. Schade, dass es durch diese schöne Landschaft keinen richtigen Wanderweg gab."
       },
       {
         "photos": [
@@ -600,7 +607,7 @@
             "height": 1048
           }
         ],
-        "text": "Die flachen ausuferenden Serpentinen nervten etwas, so dass ich sie zum Teil querfeldein abkürzte."
+        "text": "Die flachen und ausufernden Serpentinen nervten etwas, so dass ich sie zum Teil querfeld-ein abkürzte."
       },
       {
         "photos": [
@@ -619,7 +626,7 @@
             "height": 1313
           }
         ],
-        "text": "Vorbei an der malerischen Alp Waldboda."
+        "text": "Vorbei ging es an der malerischen Alp Waldboda."
       },
       {
         "photos": [
@@ -643,7 +650,7 @@
             "height": 748
           }
         ],
-        "text": "Immer noch auf der Straße kam ich zur Alp/Restaurant Valüna. Beliebtes Spazierziel von Steg aus."
+        "text": "Immer noch auf der Straße kam ich zur Alp und Restaurant Valüna. Ein beliebtes Spazierziel von Steg aus."
       },
       {
         "photos": [
@@ -655,7 +662,7 @@
             "height": 846
           }
         ],
-        "text": "Ab Valüna kann man zum Glück den Fahrweg verlassen und kann schön auf der Trasse der Langlaufloipe weiterlaufen. Die Loipe führt im Winter von Steg nach Valüna."
+        "text": "Ab Valüna konnte ich zum Glück den Fahrweg verlassen und lief schön auf der Trasse der Langlaufloipe weiter. Die Loipe führt im Winter von Steg nach Valüna."
       },
       {
         "photos": [
@@ -674,7 +681,7 @@
             "height": 1104
           }
         ],
-        "text": "Sehr schöner Spazierweg entlang des Valünerbachs... wenn auch gut begangen (habe die Fotoszeitpunkte gut gewählt)."
+        "text": "Sehr schöner Spazierweg entlang des Valünerbachs... wenn auch gut begangen (ich hatte die Fotozeitpunkte geschickt gewählt)."
       },
       {
         "photos": [
@@ -686,7 +693,7 @@
             "height": 841
           }
         ],
-        "text": "Nach einer Stunde von Valüna erreicht ich schließlich den gestauten Gänglesee, an dem ich mein Auto abgestellt hatte."
+        "text": "Nach einer Stunde von Valüna aus, erreichte ich schließlich den gestauten Gänglesee, an dem ich mein Auto abgestellt hatte."
       },
       {
         "photos": [
@@ -698,7 +705,7 @@
             "height": 1280
           }
         ],
-        "text": "Blick von der Brücke auf den größeren Stausee unterhalb, im Hintergrund die Häuser von Steg."
+        "text": "Blick von der Brücke auf den größeren Stausee unterhalb. Im Hintergrund die Häuser von Steg."
       },
       {
         "photos": [
@@ -713,6 +720,6 @@
         "text": "Ebenfalls von der Brücke der Blick über den Gänglesee auf das durchwanderte Tal von Valüna.<br />Am Auto war ich dann schließlich um 15:15."
       }
     ],
-    "outro": "Fazit: Schöne Landschaften, beeindruckender Gipfel und spektakuläre Aussichten. Aber der Weg auf dem Grat war mir zum Teil zu schlecht gesichert und die längeren Abschnitte auf Fahrstraßen sind auch auf der negativen Seite zu nennen. Insgesamt war ich 8h Stunden unterwegs und rund 1300 Höhenmeter mussten auf 16km überwunden werden."
+    "outro": "Fazit: Schöne Landschaften, beeindruckender Gipfel und spektakuläre Aussichten. Aber der Weg auf dem Grat war mir zum Teil zu schlecht gesichert und die längeren Abschnitte auf Fahrstraßen sind auch auf der negativen Seite zu nennen. Insgesamt war ich 8 Stunden unterwegs und rund 1300 Höhenmeter mussten auf 16km überwunden werden."
   }
 ]
