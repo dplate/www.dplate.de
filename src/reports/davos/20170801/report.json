@@ -7,8 +7,15 @@
     "detailMap": "swiss",
     "shortTitle": "Schwarzhorn",
     "title": "Flüela - Schwarzhorn",
-    "movie": "cI_mhbjVn0c",
-    "intro": "Der schneearme Winter und warme Frühling haben den meisten Schnee in den Alpen dieses Jahr schon sehr früh weggeschmolzen. Um der Hitze zu entgehen habe ich mir deshalb am Schweizer Nationalfeiertag eine Wanderung auf das 3100m hohe Schwarzhorn direkt neben dem Flüelapass vorgenommen.<br />Für Graubünden war eine heißer Sommertag mit Föhnsturm angesagt. Dieser machte sich bereits bei der Anfahrt im Rheintal mit 29° um 6:30 bemerkbar! Bei angenehmeren 14° stellte ich mein Auto um 7:30 an Flüelapassstraße an der Haltestelle \"Abzweigung Schwarzhorn\" auf 2300m ab.",
+    "title3d": {
+      "offsetY": 2,
+      "fontSize": 9,
+      "align": "center",
+      "width": 1920,
+      "height": 565
+    },
+    "movie": "wudbjYNg3XA",
+    "intro": "Der schneearme Winter und warme Frühling hatte den meisten Schnee in den Alpen in diesem Jahr schon sehr früh weggeschmolzen. Um der Hitze zu entgehen hatte ich mir deshalb am Schweizer Nationalfeiertag eine Wanderung auf das 3100m hohe Schwarzhorn direkt neben dem Flüelapass vorgenommen.<br />Für Graubünden war ein heißer Sommertag mit Föhnsturm angesagt. Dieser machte sich bereits bei der Anfahrt im Rheintal mit 29° um 6:30 bemerkbar! Bei angenehmeren 14° stellte ich mein Auto um 7:30 an der Flüelapassstraße (Haltestelle \"Abzweigung Schwarzhorn\") auf 2300m ab.",
     "landmarks": [
       {
         "photos": [
@@ -20,7 +27,7 @@
             "height": 911
           }
         ],
-        "text": "Ich wählte als Hinweg den direkten Aufstieg auf das Schwarzhorn. Zuerst ging es am Hang neben der Straße zu einem seitlichem Hochtal bergauf, das sich Radönt nennt.<br />Überraschenderweise kamen mir viele Wanderer trotz der frühen Stunde entgegen. Wie sich herausstellte waren sie zum Sonnenaufgang auf dem Schwarzhorn gewesen."
+        "text": "Ich wählte als Hinweg den direkten Aufstieg auf das Schwarzhorn. Zuerst ging es am Hang neben der Straße zu einem seitlichem Hochtal bergauf, das sich Radönt nennt.<br />Überraschenderweise kamen mir viele Wanderer trotz der frühen Stunde entgegen. Wie sich herausstellte, waren sie zum Sonnenaufgang auf dem Schwarzhorn gewesen."
       },
       {
         "photos": [
@@ -32,7 +39,7 @@
             "height": 890
           }
         ],
-        "text": "Das Hochtal Radönt war schnell erreicht und der Weg führt gleichmäßig ansteigend an dessen Rand hinauf. Das nächste Ziel war der Grat, der hier durch das kleine Schneefeld markiert ist."
+        "text": "Das Hochtal Radönt war schnell erreicht und der Weg führte gleichmäßig ansteigend an dessen Rand hinauf. Das nächste Ziel war der Grat, der hier durch das kleine Schneefeld markiert ist."
       },
       {
         "photos": [
@@ -56,7 +63,7 @@
             "height": 1280
           }
         ],
-        "text": "Am Ende des Hochtals ging es in (flachen) Serpentinen die letzten Grashänge hinauf."
+        "text": "Am Ende des Hochtals ging es in flachen Serpentinen die letzten Grashänge hinauf."
       },
       {
         "photos": [
@@ -68,7 +75,7 @@
             "height": 725
           }
         ],
-        "text": "Erster richtiger Blick zum Schwarzhorn (rechts). Zuerst ging es aber zum Pass links, um dann über den Grat aufzusteigen."
+        "text": "Hier der erste richtige Blick zum Schwarzhorn (rechts). Zuerst ging es aber zum Pass links, um dann über den Grat aufzusteigen."
       },
       {
         "photos": [
@@ -92,7 +99,7 @@
             "height": 1280
           }
         ],
-        "text": "Noch 80m unterhalb des Passes befindet sich eine Abzweigung Richtung Fuorcla Radönt, wohin ich nach dem Abstieg vom Schwarzhorn abbiegen werde. D.h. bis hier musste ich wieder auf gleichem Weg zurück."
+        "text": "Noch 80m unterhalb des Passes befindet sich eine Abzweigung Richtung Fuorcla Radönt, wohin ich nach dem Abstieg vom Schwarzhorn abbiegen wollte. Das heißt, bis hier musste ich wieder auf gleichem Weg zurück."
       },
       {
         "photos": [
@@ -104,7 +111,7 @@
             "height": 672
           }
         ],
-        "text": "Den fast 2900m hohen Pass Schwarzhornfurgga erreichte ich bereits gegen 9:00. Hier wehte ein stürmischer Wind, so dass ich eine Jacke über das T-Shirt zog und etwas unterhalb windgeschützt die erste Pause machte.<br />Der Blick geht hier nach Westen in das Dischmatal (1000m tiefer)."
+        "text": "Den fast 2900m hohen Pass Schwarzhornfurgga erreichte ich bereits gegen 9:00. Hier wehte ein stürmischer Wind, so dass ich eine Jacke über das T-Shirt zog und etwas unterhalb windgeschützt die erste Pause machte.<br />Der Blick ging hier nach Westen in das Dischmatal (1000m tiefer)."
       },
       {
         "photos": [
@@ -140,7 +147,7 @@
             "height": 836
           }
         ],
-        "text": "Danach wird es dann aber wieder flacher und der Weg führt sehr gut ausgebaut über ein Geröllfeld. Hier der Blick zurück."
+        "text": "Danach wurde es dann aber wieder flacher und der Weg führte sehr gut ausgebaut über ein Geröllfeld. Hier der Blick zurück."
       },
       {
         "photos": [
@@ -152,7 +159,7 @@
             "height": 1280
           }
         ],
-        "text": "Und so überraschend harmlos und breit war der Grat. Der Weg ist auch recht flach angelegt, so dass man ohne große Anstrengung voran kommt."
+        "text": "Und so überraschend harmlos und breit war der Grat. Der Weg ist auch recht flach angelegt, so dass ich ohne große Anstrengung voran kam."
       },
       {
         "photos": [
@@ -164,7 +171,7 @@
             "height": 1280
           }
         ],
-        "text": "Auf beiden Seiten des Grats geht es aber durchaus weit und steil bergab, hier noch einmal der Blick zum Dischmatal."
+        "text": "Auf beiden Seiten des Grats ging es aber durchaus weit und steil bergab, hier noch einmal der Blick zum Dischmatal."
       },
       {
         "photos": [
@@ -176,7 +183,7 @@
             "height": 1175
           }
         ],
-        "text": "Und auf der anderen Seite den Flüelapass hinab ins dunstige Unterengadin."
+        "text": "Und der BLick auf der anderen Seite, den Flüelapass hinab ins dunstige Unterengadin."
       },
       {
         "photos": [
@@ -200,7 +207,7 @@
             "height": 775
           }
         ],
-        "text": "Fast oben das Panorama nach Süden. Jetzt tauchte der Grialetschgletscher hinter dem dunklen Piz Radönt auf. Der wird später noch relevant."
+        "text": "Fast oben hier das Panorama nach Süden. Jetzt tauchte der Grialetschgletscher hinter dem dunklen Piz Radönt auf. Der wird später noch relevant."
       },
       {
         "photos": [
@@ -231,7 +238,7 @@
             "height": 1079
           }
         ],
-        "text": "Blick vom Schwarzhorn nach Davos. Dahinter das Weißhorn."
+        "text": "Der Blick vom Schwarzhorn nach Davos. Dahinter das Weißhorn."
       },
       {
         "photos": [
@@ -293,7 +300,7 @@
             "height": 1042
           }
         ],
-        "text": "Nach einer Pause machte mich schon bald wieder auf den Abstieg auf dem gleichen Weg. Hier der steile Blick runter ins Dischmatal zur Alp Dürrboden, die im Sommer mit Auto und Bus erreichbar und auch als Ausgangspunkt für Wanderungen geeignet ist. "
+        "text": "Nach einer Pause machte ich mich schon bald wieder auf den Abstieg auf dem gleichen Weg. Hier der steile Blick runter ins Dischmatal zur Alp Dürrboden, die im Sommer mit Auto und Bus erreichbar und auch als Ausgangspunkt für Wanderungen geeignet ist. "
       },
       {
         "photos": [
@@ -365,7 +372,7 @@
             "height": 480
           }
         ],
-        "text": "Panorama am See. Links das Schwarzhorn und in der Mitte würde es zum Flüelapass hinab gehen."
+        "text": "Panorama am See. Links ist das Schwarzhorn und in der Mitte würde es zum Flüelapass hinab gehen."
       },
       {
         "photos": [
@@ -401,7 +408,7 @@
             "height": 1265
           }
         ],
-        "text": "Piz Radönt, auf den kein Weg führt."
+        "text": "Der Piz Radönt, auf den kein Weg führt."
       },
       {
         "photos": [
@@ -413,7 +420,7 @@
             "height": 543
           }
         ],
-        "text": "Etwas unterhalb der Fuorcla Radönt erreichte ich den Hauptweg vom Flüelapass zur Fuorcla Radönt. Von hier direkt zur Passtraße wäre es auch nur rund 1h."
+        "text": "Etwas unterhalb der Fuorcla Radönt erreichte ich den Hauptweg vom Flüelapass zur Fuorcla Radönt. Von hier direkt zur Passstraße wäre es auch nur rund eine Stunde."
       },
       {
         "photos": [
@@ -437,7 +444,7 @@
             "height": 671
           }
         ],
-        "text": "Blick von der Fuorcla Radönt zum Grialetschgletscher. Die Grialetschhütte befindet sich ganz rechts. D.h. für mich ging es nun immer rechts am Hang entlang."
+        "text": "Blick von der Fuorcla Radönt zum Grialetschgletscher. Die Grialetschhütte befindet sich ganz rechts. Das heißt für mich ging es nun immer rechts am Hang entlang."
       },
       {
         "photos": [
@@ -580,7 +587,7 @@
             "height": 794
           }
         ],
-        "text": "Grialetschhütte. Ich verzichtete auf eine Einkehr, da ich noch genug Getränke mit mir rumschleppte. Die Hütte ist von Dürrboden im Dischmatal einfach und schnell in einer guten Stunde zu erreichen.<br />Ich erreichte sie um 12:00."
+        "text": "Die Grialetschhütte. Ich verzichtete auf eine Einkehr, da ich noch genug Getränke mit mir rumschleppte. Die Hütte ist von Dürrboden im Dischmatal einfach und schnell in einer guten Stunde zu erreichen.<br />Ich erreichte sie um 12:00."
       },
       {
         "photos": [
@@ -611,7 +618,7 @@
             "height": 869
           }
         ],
-        "text": "Ich ging nun parallel zum Hinweg wieder am Hang zurück, nur rund 200m tiefer. Hier der Blick zurück. Dieser weg war nun wieder deutlich besser ausgebaut und einfach zu gehen."
+        "text": "Ich ging nun parallel zum Hinweg wieder am Hang zurück, nur rund 200m tiefer. Hier der Blick zurück. Dieser Weg war nun wieder deutlich besser ausgebaut und einfach zu gehen."
       },
       {
         "photos": [
@@ -623,7 +630,7 @@
             "height": 891
           }
         ],
-        "text": "Schöner Wanderweg entlang des Hangs. Es ging aber auch immer etwas hoch und runter."
+        "text": "Es war ein schöner Wanderweg entlang des Hangs. Es ging aber auch immer etwas hoch und runter."
       },
       {
         "photos": [
@@ -635,7 +642,7 @@
             "height": 1280
           }
         ],
-        "text": "Unterhalb der Fuorcla Radönt erreicht man eine Abzweigung, man könnte also auch von hier zum Pass gelangen. Von oben her hatte ich gar keinen Wegweiser hier runter gesehen."
+        "text": "Unterhalb der Fuorcla Radönt erreichte ich eine Abzweigung, man könnte also auch von hier zum Pass gelangen. Von oben her hatte ich gar keinen Wegweiser hier runter gesehen."
       },
       {
         "photos": [
@@ -709,7 +716,7 @@
             "height": 1304
           }
         ],
-        "text": "Außerdem gab es dort einen kleine See, der zur Pause und (trotz Riesenkaulquappen) zum Abkühlen der Füße einlud."
+        "text": "Außerdem gab es dort einen kleinen See, der zur Pause und (trotz Riesenkaulquappen) zum Abkühlen der Füße einlud."
       },
       {
         "photos": [
@@ -728,7 +735,7 @@
             "height": 671
           }
         ],
-        "text": "Direkt nach dem See verlässt man das Grialetschtal und es ging über eine Wiese samt kleinem Bach bergab. Es war sehr angenehm über das weiche Gras runterzulaufen."
+        "text": "Direkt nach dem See verließ ich das Grialetschtal und es ging über eine Wiese samt kleinem Bach bergab. Es war sehr angenehm über das weiche Gras runterzulaufen."
       },
       {
         "photos": [
@@ -740,7 +747,7 @@
             "height": 788
           }
         ],
-        "text": "Blick vom Grashang hinunter zur Passstraße. Links das Schwarzhorn (das von hier doch wieder schwarz war). Ich musste leider etwas weiter absteigen, als mein Auto parkte. Wenn ich gewusst hätte, dass ich die größere Runde laufe, hätte ich eher etwas tiefer geparkt."
+        "text": "Der Blick vom Grashang hinunter zur Passstraße. Links das Schwarzhorn (das von hier doch wieder schwarz war). Ich musste leider etwas weiter absteigen, als mein Auto parkte. Wenn ich gewusst hätte, dass ich die größere Runde laufen würde, hätte ich etwas tiefer geparkt."
       },
       {
         "photos": [
@@ -764,7 +771,7 @@
             "height": 1280
           }
         ],
-        "text": "Und dieser Wasserfall aus dem Radönt war der Grund, warum der Weg unnötig weit nach unten führen musste."
+        "text": "Und dieser Wasserfall aus dem Radönt war der Grund, warum der Weg so weit nach unten führen musste."
       },
       {
         "photos": [
@@ -779,6 +786,6 @@
         "text": "Das letzte Stück ging es dann entlang der Straße wieder bergauf. Von der kleinen Grasnase in der Mitte des Bilds kam ich herunter.<br />Das Auto erreichte ich um 15:00, auf der Rückfahrt im Rheintal dann 37° bei starkem Föhnsturm."
       }
     ],
-    "outro": "Fazit: Das Schwarzhorn ist ein sehr einfacherer Gipfel und für jeden Wanderer, der gerne mal einen 3000er erklimmen will, kein Problem. Nur das Schwarzhorn lastet einen aber nur bedingt aus und die Zusatzrunde über die Grialetschhütte ist schon deutlich weiter. Abgesehen vom Kraxeln über die Felsstürze war es aber alles einfach zu gehen.<br />Und die Landschaft soweit oben ist auf jeden Fall beeindruckend. Es gibt aber nur wenige Wochen im Jahr, wo einerseits das Wetter stabil genug ist und auf 3000m kein Schnee liegt.<br />Ich habe für die 16km und 1300 Höhenmeter mit Pausen 7,5h gebraucht."
+    "outro": "Fazit: Das Schwarzhorn ist ein sehr einfacher Gipfel und für jeden Wanderer, der gerne mal einen 3000er erklimmen will, kein Problem. Nur das Schwarzhorn lastet einen aber nur bedingt aus und die Zusatzrunde über die Grialetschhütte ist schon deutlich weiter. Abgesehen vom Kraxeln über die Felsstürze war es aber alles einfach zu gehen.<br />Und die Landschaft soweit oben ist auf jeden Fall beeindruckend. Es gibt aber nur wenige Wochen im Jahr, wo einerseits das Wetter stabil genug ist und auf 3000m kein Schnee liegt.<br />Ich habe für die 16km und 1300 Höhenmeter mit Pausen 7,5h gebraucht."
   }
 ]
