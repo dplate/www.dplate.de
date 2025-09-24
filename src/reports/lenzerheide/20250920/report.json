@@ -1,0 +1,543 @@
+[
+  {
+    "destination": "lenzerheide",
+    "date": "d20250920",
+    "type": "hike",
+    "track": true,
+    "detailMap": "swiss",
+    "shortTitle": "Valbellahorn",
+    "title": "Arosa - Valbellahorn",
+    "title3d": {
+      "offsetY": 2,
+      "fontSize": 9,
+      "align": "left",
+      "width": 1920,
+      "height": 481
+    },
+    "movie": "2zpmnsz3SgY",
+    "intro": "Ein warmer Septembersamstag war vorhergesagt und ich wollte noch mal eine hohe Wanderung unternehmen, bevor der erste Schnee kommen sollte. Ich entschied mich für eine Tour von Arosa auf das 2760m hohe Valbellahorn.<br />Nach der kurvigen Fahrt nach Arosa stellte ich mein Auto auf dem Gratis-Parkplatz an der Kläranlage bei Isel ab.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Fahrweg am Bachbett",
+            "date": "2025-09-20T08:42:00.000+02:00",
+            "width": 1920,
+            "height": 1054
+          }
+        ],
+        "text": "Kurz nach 8:30 ging ich dann auf dem breiten Spazierweg entlang des Welschtobelbachs los. Schon war das Ziel der Wanderung zu sehen: der Berg ganz hinten in der Mitte ist das Valbellahorn."
+      },
+      {
+        "photos": [
+          {
+            "name": "002",
+            "alt": "Holzbrücke über Welschtobelbach",
+            "date": "2025-09-20T08:54:08.000+02:00",
+            "width": 749,
+            "height": 1080
+          }
+        ],
+        "text": "Bei dieser Holzbrücke überquerte ich den Bach. Im felsigen grünen Steilhang hier im Bild führte der weitere Weg hinauf."
+      },
+      {
+        "photos": [
+          {
+            "name": "003",
+            "alt": "Bergweg am Welschtobelbach",
+            "date": "2025-09-20T08:55:51.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Zuerst ging es aber noch etwas am Bachbett weiter, nur ab hier auf einem Bergweg."
+      },
+      {
+        "photos": [
+          {
+            "name": "004",
+            "alt": "Aufstieg über Schuttkegel",
+            "date": "2025-09-20T09:13:40.000+02:00",
+            "width": 1685,
+            "height": 1080
+          }
+        ],
+        "text": "Dann begann der Aufstieg den noch schattigen Hang hinauf. In vielen kleinen Serpentinen ging es gut ausgebaut auf einem Schuttkegel weiter. Mit jedem Höhenmeter wurde es wärmer, und das nicht nur wegen der Anstrengung, sondern weil nur unten im Tal die Kälte lag.<br />Hier der Blick zurück, im Hintergrund ist Arosa zu sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "005",
+            "alt": "Wandern in der Morgensonne",
+            "date": "2025-09-20T09:30:21.000+02:00",
+            "width": 1535,
+            "height": 1080
+          },
+          {
+            "name": "006",
+            "alt": "Aussichtsbank Arosa",
+            "date": "2025-09-20T09:31:42.000+02:00",
+            "width": 1920,
+            "height": 1063
+          }
+        ],
+        "text": "Nach dem ersten Steilstück erreichte ich diese kleine Wiese und die ersten Sonnenstrahlen begrüßten mich.<br />Der Blick zurück nach Arosa war etwas ernüchternd, weil es nicht danach aussah, als hätte ich schon viele Höhenmeter geschafft. In der Realität waren es aber schon 400."
+      },
+      {
+        "photos": [
+          {
+            "name": "007",
+            "alt": "Herbstwiese",
+            "date": "2025-09-20T09:37:07.000+02:00",
+            "width": 1700,
+            "height": 1080
+          }
+        ],
+        "text": "Blick auf den weiteren Verlauf - die nächsten zwei Steilstufen warteten schon."
+      },
+      {
+        "photos": [
+          {
+            "name": "008",
+            "alt": "Alteinbach",
+            "date": "2025-09-20T09:54:17.000+02:00",
+            "width": 906,
+            "height": 1080
+          }
+        ],
+        "text": "Nachdem ich den Alteinbach mittels einer Brücke überquert hatte, ging es an diesem kleinen Wasserfall recht steil und anstrengend hinauf. Es war aber weiterhin harmlos."
+      },
+      {
+        "photos": [
+          {
+            "name": "009",
+            "alt": "Wegweiser mit Valbellahorn",
+            "date": "2025-09-20T10:12:07.000+02:00",
+            "width": 1790,
+            "height": 1080
+          }
+        ],
+        "text": "Dann erreichte ich um 10:15 die Hochebene des Alteinsees auf 2250m Höhe. Das Valbellahorn im Hintergrund sah von hier immer noch ziemlich hoch aus..."
+      },
+      {
+        "photos": [
+          {
+            "name": "010",
+            "alt": "Hochfläche Alteinsee",
+            "date": "2025-09-20T10:26:33.000+02:00",
+            "width": 1920,
+            "height": 848
+          }
+        ],
+        "text": "Am Alteinsee ging ich erst mal nur vorbei und lief direkt weiter zur Alteiner Fürggli. Der Weg war nun flacher und weniger mühsam. Bis zum Pass waren auch nur rund 200 weitere Höhenmeter zu überwinden."
+      },
+      {
+        "photos": [
+          {
+            "name": "011",
+            "alt": "Valbellahorn",
+            "date": "2025-09-20T10:31:18.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Blick zur Seite zum Valbellahorn, wobei der richtige Gipfel hier nicht mehr zu sehen war. Der Aufstieg erfolgte auch zum Glück von der Rückseite."
+      },
+      {
+        "photos": [
+          {
+            "name": "012",
+            "alt": "Wegweiser Alteiner Fürggli",
+            "date": "2025-09-20T10:45:08.000+02:00",
+            "width": 837,
+            "height": 1080
+          }
+        ],
+        "text": "Um 10:45 erreichte ich die Alteiner Fürggli auf knapp 2500m. Laut Wegweiser war es nun noch eine Stunde bis zum Gipfel."
+      },
+      {
+        "photos": [
+          {
+            "name": "013",
+            "alt": "Bergweg mit Berninagruppe",
+            "date": "2025-09-20T10:46:51.000+02:00",
+            "width": 1920,
+            "height": 999
+          }
+        ],
+        "text": "Auf der Rückseite ist die Landschaft geprägt von weiten flachen Weiden. Ganz hinten konnte ich nun die schneebedeckte Berninagruppe sehen, rechts den näheren Piz Ela."
+      },
+      {
+        "photos": [
+          {
+            "name": "014",
+            "alt": "Altein",
+            "date": "2025-09-20T10:53:23.000+02:00",
+            "width": 1920,
+            "height": 594
+          }
+        ],
+        "text": "Und so flach, harmlos und einsam war die Gegend dort oben."
+      },
+      {
+        "photos": [
+          {
+            "name": "015",
+            "alt": "Wanderung Valbellahorn",
+            "date": "2025-09-20T10:56:50.000+02:00",
+            "width": 1616,
+            "height": 1080
+          }
+        ],
+        "text": "Ich verließ aber schon bald wieder die flachen Wege und der Pfad zum Gipfel stieg wieder an. Das Valbellahorn ist die kleine Felsnase links. In älteren Wanderberichten wird die Schwierigkeit erwähnt, den richtigen Weg zu finden. Das ist aber kein Problem mehr, da es inzwischen ein offizieller Bergweg mit Wegzeichen ist."
+      },
+      {
+        "photos": [
+          {
+            "name": "016",
+            "alt": "Aufstieg über Geröll",
+            "date": "2025-09-20T11:28:51.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Durch die Höhe und die schon zurückgelegten Höhenmeter wurde ich beim Aufstieg immer langsamer. Der Weg blieb aber einfach und war auch nicht besonders steil.<br />Hier war ich dann auch schon fast oben."
+      },
+      {
+        "photos": [
+          {
+            "name": "017",
+            "alt": "Sandhubel",
+            "date": "2025-09-20T11:29:42.000+02:00",
+            "width": 1920,
+            "height": 936
+          }
+        ],
+        "text": "Auch ausgesetzt war der Weg nie, nur hier ging es kurz auf den Grat und ich konnte hinüber zum benachbarten Sandhubel schauen. Diesen gleich hohen Gipfel hatte ich mir erst ausgeguckt. Die Wanderzeit dort hinauf wäre ziemlich identisch gewesen."
+      },
+      {
+        "photos": [
+          {
+            "name": "018",
+            "alt": "Schwierigkeit Valbellahorn",
+            "date": "2025-09-20T11:32:17.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Zum Schluss wurde es etwas steiler, aber die Hände brauchte ich nicht. Nur wehte hier nun sehr böig der Fön, der mich manchmal aus dem Gleichgewicht brachte."
+      },
+      {
+        "photos": [
+          {
+            "name": "019",
+            "alt": "Aussicht Valbellahorn",
+            "date": "2025-09-20T11:33:45.000+02:00",
+            "width": 1646,
+            "height": 1080
+          },
+          {
+            "name": "020",
+            "alt": "Davos Wiesen",
+            "date": "2025-09-20T11:41:54.000+02:00",
+            "width": 1910,
+            "height": 1080
+          }
+        ],
+        "text": "Kurz nach 11:30 erreichte ich nach ziemlich genau 3h Aufstieg das Valbellahorn. Für meine Verhältnisse hatte ich die 1100 Höhenmeter recht flott geschafft, was wohl an den einfachen Wegen lag.<br />Hier der Blick hinab nach Davos Wiesen, von wo man ebenfalls das Valbellahorn mit einem ähnlichen Zeitaufwand besteigen kann. Rechts darüber liegt die Wiesner Alp."
+      },
+      {
+        "photos": [
+          {
+            "name": "021",
+            "alt": "Panorama Valbellahorn",
+            "date": "2025-09-20T11:42:00.000+02:00",
+            "width": 1920,
+            "height": 761
+          }
+        ],
+        "text": "Panorama in Richtung des Aufstiegs. Die Bergkette links führt zum Weisshorn von Davos Parsenn. Dank des Föns war die Sicht praktisch unbegrenzt."
+      },
+      {
+        "photos": [
+          {
+            "name": "022",
+            "alt": "Blick zum Sandhubel",
+            "date": "2025-09-20T11:48:06.000+02:00",
+            "width": 1920,
+            "height": 781
+          }
+        ],
+        "text": "Blick in die andere Richtung nach Westen zum farbenfrohen Sandhubel."
+      },
+      {
+        "photos": [
+          {
+            "name": "023",
+            "alt": "Gipfelkreuz Valbellahorn",
+            "date": "2025-09-20T11:50:30.000+02:00",
+            "width": 1920,
+            "height": 704
+          }
+        ],
+        "text": "Und hier ist das Gipfelkreuz des Valbellahorns zu sehen. Viel Platz zum Pause machen gab es dort oben nicht, aber Menschenmassen wird man hier wohl auch nie antreffen. Mir waren beim gesamten Aufstieg nur zwei Wanderer begegnet, die mir entgegen kamen."
+      },
+      {
+        "photos": [
+          {
+            "name": "024",
+            "alt": "Fön Wetter",
+            "date": "2025-09-20T11:51:21.000+02:00",
+            "width": 1920,
+            "height": 926
+          }
+        ],
+        "text": "Blick die Steilkante hinab. In der Mitte ist Arosa zu sehen, rechts das Alteiner Fürggli."
+      },
+      {
+        "photos": [
+          {
+            "name": "025",
+            "alt": "Gebirgskette Davos",
+            "date": "2025-09-20T11:51:44.000+02:00",
+            "width": 1469,
+            "height": 1080
+          }
+        ],
+        "text": "Hier noch einmal Richtung Alteiner Fürggli. Über diese graue Geröllfläche war ich hier hinauf gelaufen."
+      },
+      {
+        "photos": [
+          {
+            "name": "026",
+            "alt": "Steinmännchen mit Arosa",
+            "date": "2025-09-20T11:52:56.000+02:00",
+            "width": 1616,
+            "height": 1080
+          }
+        ],
+        "text": "Und noch mal der Blick nach Arosa. Gut zu sehen das breite weiße Bachbett, wo ich am Morgen entlang gewandert war. Hinten links kann man das Arosa Weisshorn finden."
+      },
+      {
+        "photos": [
+          {
+            "name": "027",
+            "alt": "Bergweg Valbellahorn",
+            "date": "2025-09-20T11:58:47.000+02:00",
+            "width": 1616,
+            "height": 1080
+          }
+        ],
+        "text": "Nach 20min im Sturm machte ich mich auf den Abstieg. Trotz des Winds und der Höhe war es ziemlich warm, so dass ich nicht mal eine Jacke über das T-Shirt ziehen musste.<br />Der gesamte Rückweg verlief auf dem gleichen Weg, ich baute nur ab und zu kleine Abstecher ein."
+      },
+      {
+        "photos": [
+          {
+            "name": "028",
+            "alt": "Altein Hütte",
+            "date": "2025-09-20T12:25:00.000+02:00",
+            "width": 1640,
+            "height": 1080
+          }
+        ],
+        "text": "Nach nicht mal 30min war ich schon wieder vom Gipfel runter und machte eine Pause an einer kleinen Hütte. Ob diese in der Hauptsaison bewirtschaftet oder nur privat ist, weiß ich nicht.<br />Hier der Blick zurück zum Gipfel."
+      },
+      {
+        "photos": [
+          {
+            "name": "029",
+            "alt": "Strel",
+            "date": "2025-09-20T12:30:44.000+02:00",
+            "width": 1616,
+            "height": 1080
+          }
+        ],
+        "text": "Dann ging es weiter und ich erreichte wieder das Alteiner Fürggli. Auf der anderen Seite des Passes erhebt sich der Strel, auf den aber kein Weg hinaufführt."
+      },
+      {
+        "photos": [
+          {
+            "name": "030",
+            "alt": "Wanderung Alteinfurgga",
+            "date": "2025-09-20T12:43:00.000+02:00",
+            "width": 1920,
+            "height": 1039
+          },
+          {
+            "name": "031",
+            "alt": "Alteinsee",
+            "date": "2025-09-20T12:59:32.000+02:00",
+            "width": 1920,
+            "height": 697
+          }
+        ],
+        "text": "Schön und einfach ging es hinab zum Alteinsee, den ich um 13:00 erreichte. Dort waren nun auch ein paar andere Wanderer, die den Blick über den See genossen."
+      },
+      {
+        "photos": [
+          {
+            "name": "032",
+            "alt": "Glitzerndes Wasser",
+            "date": "2025-09-20T13:17:08.000+02:00",
+            "width": 937,
+            "height": 1080
+          }
+        ],
+        "text": "Zügig wehte der warme Wind über den See und erzeugte ein schönes Glitzern. Im Hintergrund übrigens das Valbellahorn."
+      },
+      {
+        "photos": [
+          {
+            "name": "033",
+            "alt": "Alteinsee mit Altein Fürggli",
+            "date": "2025-09-20T13:24:01.000+02:00",
+            "width": 1920,
+            "height": 1040
+          }
+        ],
+        "text": "Ich ging dann noch weglos um den See herum. Zum Baden ist er wohl nicht tief genug, auch sonst ist er nicht sehr spektakulär. Die Landschaft drum herum ist aber toll: hier der Blick zurück zum Alteiner Fürggli und dem Strel."
+      },
+      {
+        "photos": [
+          {
+            "name": "034",
+            "alt": "Wanderweg Alteinsee",
+            "date": "2025-09-20T13:35:40.000+02:00",
+            "width": 1720,
+            "height": 1080
+          }
+        ],
+        "text": "Dann machte ich mich aber auf den weiteren Abstieg. Nun nicht mehr im Schatten, sondern komplett in der Sonne."
+      },
+      {
+        "photos": [
+          {
+            "name": "035",
+            "alt": "Wanderung Arosa",
+            "date": "2025-09-20T13:40:25.000+02:00",
+            "width": 1920,
+            "height": 949
+          }
+        ],
+        "text": "Besonders auf diesem Steilstück mussten die entgegenkommenden Wanderer schwitzen. Es waren auch zwei Mountainbiker dabei, die ihre Räder hinauf trugen..."
+      },
+      {
+        "photos": [
+          {
+            "name": "036",
+            "alt": "Schiesshorn",
+            "date": "2025-09-20T13:50:40.000+02:00",
+            "width": 1920,
+            "height": 1052
+          }
+        ],
+        "text": "Hier ist die Brücke über den Alteinbach zu sehen. Dahinter das Schiesshorn, auf das man ebenfalls wandern könnte. Es hat sicher auch eine schöne Aussicht."
+      },
+      {
+        "photos": [
+          {
+            "name": "037",
+            "alt": "Herbstwanderung",
+            "date": "2025-09-20T13:56:58.000+02:00",
+            "width": 1920,
+            "height": 900
+          }
+        ],
+        "text": "Das letzte Flachstück vor dem untersten Steilhang. Das windige Wetter war super, wenn auch etwas unnatürlich warm."
+      },
+      {
+        "photos": [
+          {
+            "name": "038",
+            "alt": "Serpentinenweg",
+            "date": "2025-09-20T14:03:39.000+02:00",
+            "width": 1529,
+            "height": 1080
+          }
+        ],
+        "text": "Und hier befand ich mich auf den vielen Serpentinen hinab zum Welschtobel. Ungefähr bei der Hälfte zweigte ich aber noch einmal von meinem Weg ab, denn beim Aufstieg hatte ich noch eine Sehenswürdigkeit ausgelassen."
+      },
+      {
+        "photos": [
+          {
+            "name": "039",
+            "alt": "Aussichtspunkt Alteiner Wasserfall",
+            "date": "2025-09-20T14:17:19.000+02:00",
+            "width": 1626,
+            "height": 1080
+          },
+          {
+            "name": "040",
+            "alt": "Alteiner Wasserfall",
+            "date": "2025-09-20T14:19:34.000+02:00",
+            "width": 848,
+            "height": 1080
+          }
+        ],
+        "text": "Man kann nämlich noch einen 10 Minuten Abstecher zum Alteiner Wasserfall machen. Dieser war beeindruckender als ich erwartet hatte, denn der Bach hatte an diesem Tag nicht gerade sehr viel Wasser."
+      },
+      {
+        "photos": [
+          {
+            "name": "041",
+            "alt": "Steiler Weg zum Wasserfall",
+            "date": "2025-09-20T14:26:16.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Obwohl der Wasserfall von Arosa schnell zu erreichen ist, ist der Abstecher vom Hauptweg zum Aussichtspunkt ziemlich steil. Ich würde fast sagen, es war das Schwierigste von meinem ganzen Wandertag. Soll heißen: Man sollte da nur mit vernünftigen Schuhen hin."
+      },
+      {
+        "photos": [
+          {
+            "name": "042",
+            "alt": "Wildes Flussbett",
+            "date": "2025-09-20T14:43:22.000+02:00",
+            "width": 1560,
+            "height": 1080
+          }
+        ],
+        "text": "Und hier bin ich nun wieder unten bei den gerölligen Bachbetten vom Altein- und Welschtobelbach. Hinten konnte ich hier den gerade besuchten Wasserfall sehen, der mir am Morgen gar nicht aufgefallen war."
+      },
+      {
+        "photos": [
+          {
+            "name": "043",
+            "alt": "Pfad durch lichten Kieferwald",
+            "date": "2025-09-20T15:07:35.000+02:00",
+            "width": 1765,
+            "height": 1080
+          }
+        ],
+        "text": "Zurück zum Parkplatz ging ich auf der anderen Flussseite. Meine Karte hatte recht und es gab dort einen kleinen Pfad durch den lichten Kiefernwald. Auch gibt es dort unzählige Grillstellen, von denen aber trotz des tollen Wetters keine in Benutzung war."
+      },
+      {
+        "photos": [
+          {
+            "name": "044",
+            "alt": "Welschtobelbach",
+            "date": "2025-09-20T15:13:11.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Ähnlicher Blick wie am Morgen das Bett des Welschtobelbachs hinauf. Hinten ein letzter Blick auf das Valbellahorn."
+      },
+      {
+        "photos": [
+          {
+            "name": "045",
+            "alt": "Hängebrücke Arosa Isel",
+            "date": "2025-09-20T15:15:27.000+02:00",
+            "width": 1869,
+            "height": 1080
+          }
+        ],
+        "text": "Und so kam ich hier am Parkplatz über den Bach. Die Hängebrücke lud zum Wippen ein.<br />Das Auto erreichte ich um 15:20."
+      }
+    ],
+    "outro": "Fazit: Obwohl der Hin- und Rückweg identisch war, war die Wanderung nie langweilig. Der Weg war immer schön und nicht zu schwierig. Mit wilden Bächen, Wasserfällen, dem See und einem aussichtsreichen Gipfel waren praktisch alle Punkte einer tollen Wanderung erfüllt. Das Wetter hat natürlich auch geholfen. Mit 1100m Auf- und Abstieg ist es aber auch keine Wanderung für jeden - Abkürzungen gibt es nicht."
+  }
+]
