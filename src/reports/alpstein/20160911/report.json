@@ -8,8 +8,15 @@
     "timeShift": -120,
     "shortTitle": "Säntis",
     "title": "Ebenalp - Säntis",
-    "movie": "sjw8L4WBV24",
-    "intro": "Obwohl meine Wanderungen dieses Jahr etwas arg Ostschweiz/Alpstein-Lastig sind, zog es mich letzten Sonntag für eine lange Tagestour wieder in dieses Gebiet, für die mir bisher das Vertrauen fehlte. Da es sich praktisch um ein Alpstein-BestOf handelt, habe ich in diesem Bericht immer wieder ein paar alte Berichte von mir verlinkt.<br />\nUm etwas Spielraum zu haben, parkte ich mein Auto bereits im 7:00 in Wasserauen. Obwohl die erste Bahnfahrt auf die Ebenalp erst um 7:30 stattfinden sollte, fuhr sie netterweise aber schon um 7:15. Die 700m Schummelei auf die 1500m hohe Ebenalp kostete 20CHF.",
+    "title3d": {
+      "align": "right",
+      "offsetY": 2,
+      "fontSize": 8.7,
+      "width": 1920,
+      "height": 521
+    },
+    "movie": "z1zdkqXpH2Y",
+    "intro": "Obwohl meine Wanderungen in diesem Jahr schon etwas arg Ostschweiz/Alpstein lastig waren, zog es mich am einem Sonntag für eine lange Tagestour wieder in dieses Gebiet, für die mir bisher das Vertrauen gefehlt hatte. <span data-silent>Da es sich praktisch um ein Alpstein-BestOf handelt, habe ich in diesem Bericht immer wieder ein paar alte Berichte von mir verlinkt.</span><br />\nUm etwas Spielraum zu haben, parkte ich mein Auto bereits im 7:00 in Wasserauen. Obwohl die erste Bahnfahrt auf die Ebenalp erst um 7:30 stattfinden sollte, fuhr sie netterweise aber schon um 7:15. Die 700m Schummelei auf die 1500m hohe Ebenalp kostete 20CHF.",
     "landmarks": [
       {
         "photos": [
@@ -19,17 +26,10 @@
             "date": "2016-09-11T07:33:15.000+02:00",
             "width": 1920,
             "height": 1280
-          },
-          {
-            "name": "003",
-            "alt": "Sonnenstrahlen durch Dunkle Wolken",
-            "date": "2016-09-11T08:04:24.000+02:00",
-            "width": 1920,
-            "height": 1280
           }
         ],
         "videos": [],
-        "text": "Bei stimmungsvollem Sonnenaufgang hinter dem <a href=\"/alpine/alpstein/20131019\">Hohen Kasten</a> ging es schließlich zu Fuß los. Obwohl die Wettervorhersage zumindest für den Vormittag Sonne prophezeit hatte, waren leider schon einige Wolken unterwegs."
+        "text": "Bei stimmungsvollem Sonnenaufgang hinter dem <a href=\"/alpine/alpstein/20131019\">Hohen Kasten</a> ging es schließlich zu Fuß los."
       },
       {
         "photos": [
@@ -42,7 +42,20 @@
           }
         ],
         "videos": [],
-        "text": "Das erste Etappenziel war der 1900m hohe Schäfler, auf dessen Gipfel ein Gasthaus trohnt. Der Weg dort hin ist (wenn auch nicht so früh morgens) viel begangen und deshalb auch breit und ausgebaut. Ich kam also zügig voran."
+        "text": "Das erste Etappenziel war der 1900m hohe Schäfler, auf dessen Gipfel ein Gasthaus thront. Der Weg dort hin ist (wenn auch nicht so früh morgens) viel begangen und deshalb auch breit und ausgebaut. Ich kam also zügig voran."
+      },
+      {
+        "photos": [
+          {
+            "name": "003",
+            "alt": "Sonnenstrahlen durch dunkle Wolken",
+            "date": "2016-09-11T08:04:24.000+02:00",
+            "width": 1920,
+            "height": 1280
+          }
+        ],
+        "videos": [],
+        "text": "Obwohl die Wettervorhersage zumindest für den Vormittag Sonne prophezeit hatte, waren leider schon einige Wolken unterwegs."
       },
       {
         "photos": [
@@ -81,7 +94,7 @@
           }
         ],
         "videos": [],
-        "text": "Nachdem der Grat zum Gipfel erreicht war, konnte ich Richtung Norden den <a href=\"/alpine/alpstein/20131013\">Kronberg</a> sehen. Die große Quellwolke so früh am Morgen gefiehl mir zu dem Zeitpunkt gar nicht."
+        "text": "Nachdem der Grat zum Gipfel erreicht war, konnte ich Richtung Norden den <a href=\"/alpine/alpstein/20131013\">Kronberg</a> sehen. Die große Quellwolke so früh am Morgen gefiel mir zu dem Zeitpunkt gar nicht."
       },
       {
         "photos": [
@@ -173,7 +186,7 @@
           }
         ],
         "videos": [],
-        "text": "Von diesem sanft absteigendem Weg zur Mesmergastätte zweigte ich aber ungefähr auf der Hälfte nach rechts ab. Nun ging es hinauf zum Lötzisälplisattel, einem Übergang auf die Nordseite des Säntismassivs."
+        "text": "Von diesem sanft absteigendem Weg zur Mesmer-Gastätte zweigte ich aber ungefähr auf der Hälfte nach rechts ab. Nun ging es hinauf zum Lötzisälplisattel, einem Übergang auf die Nordseite des Säntismassivs."
       },
       {
         "photos": [
@@ -199,7 +212,7 @@
           }
         ],
         "videos": [],
-        "text": "Blick zurück auf den Lötzisälpisattel (ich wollte dieses Wort jetzt unbedingt noch mal tippen 😉). Dahinter ist der Altenalptürm zu sehen. Alles so um die 2000m hoch."
+        "text": "Blick zurück auf den Lötzisälpisattel <span data-silent>(ich wollte dieses Wort jetzt unbedingt noch mal tippen 😉)</span>. Dahinter sind die Altenalptürme zu sehen. Alles so um die 2000m hoch."
       },
       {
         "photos": [
@@ -212,7 +225,7 @@
           }
         ],
         "videos": [],
-        "text": "Von den steilen Felsgraten wurde ich von Gämsen beobachtet, die auch fleißig Steine lostraten."
+        "text": "Von den steilen Felsgraten wurde ich von Gämsen beobachtet, die auch fleißig Steine los traten."
       },
       {
         "photos": [
@@ -264,7 +277,7 @@
           }
         ],
         "videos": [],
-        "text": "Schnell war ich direkt unterhalb des Gipfels... aber es ist ziemlich offensichtlich, dass noch einige Höhenmeter überwunden werden mussten - 300 um genau zu sein."
+        "text": "Schnell war ich direkt unterhalb des Gipfels... aber es ist ziemlich offensichtlich, dass noch einige Höhenmeter überwunden werden mussten. 300 um genau zu sein."
       },
       {
         "photos": [
@@ -277,7 +290,7 @@
           }
         ],
         "videos": [],
-        "text": "Um diese Jahrszeit gibt es nur noch ein paar harmlose Schneefelder zu überqueren, die vor den letzten Anstiegen noch mal für etwas Erfrischung sorgten."
+        "text": "Um diese Jahreszeit gibt es nur noch ein paar harmlose Schneefelder zu überqueren, die vor dem letzten Anstieg noch mal für etwas Erfrischung sorgten."
       },
       {
         "photos": [
@@ -297,7 +310,7 @@
           }
         ],
         "videos": [],
-        "text": "Zuerst der sehr steile Aufstieg zum Grat. Dort war gerade ein großes Getümmel, da nun auch die viele Wanderer von oben kamen, die nur den Abstieg vom Säntis machten."
+        "text": "Zuerst der sehr steile Aufstieg zum Grat. Dort war gerade ein großes Getümmel, da nun auch die vielen Wanderer von oben kamen, die nur den Abstieg vom Säntis machten."
       },
       {
         "photos": [
@@ -310,7 +323,7 @@
           }
         ],
         "videos": [],
-        "text": "Grat (und damit den <a href=\"/alpine/alpstein/20140801\">Hauptaufstieg von der Schwägälp</a>) erreicht. Erst mal brauchte ich eine Pause um neue Kräfte für den letzten Aufstieg zu mobilisieren."
+        "text": "Jetzt hatte ich den Grat (und damit den <a href=\"/alpine/alpstein/20140801\">Hauptaufstieg von der Schwägalp</a>) erreicht. Erst mal brauchte ich eine Pause um neue Kräfte für den letzten Aufstieg zu mobilisieren."
       },
       {
         "photos": [
@@ -323,7 +336,7 @@
           }
         ],
         "videos": [],
-        "text": "Dieser führt über die berüchtigte Himmelsleiter - die aber so gut abgesichert ist, dass sie kein größeres Problem ist. Nur mangelnde Ausdauer macht sich nun deutlich bemerkbar. 😉"
+        "text": "Dieser führt über die berüchtigte Himmelsleiter - die aber so gut abgesichert ist, dass sie kein größeres Problem ist. Nur mangelnde Ausdauer machte sich nun deutlich bemerkbar. 😉"
       },
       {
         "photos": [
@@ -349,7 +362,7 @@
           }
         ],
         "videos": [],
-        "text": "Für mich ging es nun zum Rotsteinpass. Hier in einem der Zugangsstollen zu den Wanderwegen."
+        "text": "Für mich ging es nun zum Rotsteinpass. Hier in dem Zugangsstollen zu den Wanderwegen."
       },
       {
         "photos": [
@@ -362,7 +375,7 @@
           }
         ],
         "videos": [],
-        "text": "Vom Säntis zum Rotsteinpass führt der Weg über den <a href=\"/alpine/alpstein/20150912\">Lisengrat</a>. Der Einstieg wirkte auf Grund der Wolken etwas beunruhigend. Wer Bilder von diesem beeindruckenden Grat bei schönerem Wetter sehen will, klicke auf den Link."
+        "text": "Vom Säntis zum Rotsteinpass führt der Weg über den <a href=\"/alpine/alpstein/20150912\">Lisengrat</a>. Der Einstieg wirkte auf Grund der Wolken etwas beunruhigend. <span data-silent>Wer Bilder von diesem beeindruckenden Grat bei schönerem Wetter sehen will, klicke auf den Link.</span>"
       },
       {
         "photos": [
@@ -388,7 +401,7 @@
           }
         ],
         "videos": [],
-        "text": "Schon ein Stück weg vom Gipfel, der nun (natürlich) wolkenfrei war."
+        "text": "Hier schon ein Stück entfernt vom Gipfel, der nun (natürlich) wolkenfrei war."
       },
       {
         "photos": [
@@ -461,7 +474,7 @@
           }
         ],
         "videos": [],
-        "text": "Noch einmal der Blick zurück zum Säntis (jetzt ohne Wolke). Entlang dieses Grats führt ein anderer Weg von der Meglisalp zum Säntis (der harmloste Auf- und Abstieg von allen). Ganz rechts die <a href=\"/alpine/alpstein/20160730\">Wagenlücke</a>."
+        "text": "Noch einmal der Blick zurück zum Säntis (jetzt ohne Wolke). Entlang dieses Grats führt ein anderer Weg von der Meglisalp zum Säntis (der harmloseste Auf- und Abstieg von allen). Ganz rechts die <a href=\"/alpine/alpstein/20160730\">Wagenlücke</a>."
       },
       {
         "photos": [
@@ -474,7 +487,7 @@
           }
         ],
         "videos": [],
-        "text": "Blick hinab zur Meglisalp. Nach dem Rotsteinpass mein nächstes Ziel. Links der Pass ist die <a href=\"/alpine/alpstein/20140622\">Ageteplatte</a>."
+        "text": "Blick hinab zur Meglisalp. Nach dem Rotsteinpass war das mein nächstes Ziel. Links der Pass ist die <a href=\"/alpine/alpstein/20140622\">Ageteplatte</a>."
       },
       {
         "photos": [
@@ -513,7 +526,7 @@
           }
         ],
         "videos": [],
-        "text": "Der Weg war nun deutlich  lockerer, so dass ich recht schnell voran kam. Hier der Blick zurück."
+        "text": "Der Weg war nun deutlich einfacher, so dass ich schnell voran kam. Hier der Blick zurück."
       },
       {
         "photos": [
@@ -533,7 +546,7 @@
           }
         ],
         "videos": [],
-        "text": "Folglich kam ich auch zügig zu den ersten höher gelegenen Alpen der Meglisalp."
+        "text": "Folglich kam ich auch zügig zu den ersten höher gelegenen Hütten der Meglisalp."
       },
       {
         "photos": [
@@ -546,7 +559,7 @@
           }
         ],
         "videos": [],
-        "text": "Die eigentliche Meglisalp erreichte ich um 14:30. Da meine Trinkvorräte im Rucksack gefährlich rar wurden, kehrte ich dort ein und genoss ein kaltes Getränk auf der Terasse. Außerdem verflog nun meine Anspannung, da der restliche Weg bekannt und überschaubar war."
+        "text": "Die eigentliche Meglisalp erreichte ich um 14:30. Da meine Trinkvorräte im Rucksack gefährlich rar wurden, kehrte ich dort ein und genoss ein kaltes Getränk auf der Terrasse. Außerdem verflog nun meine Anspannung, da der restliche Weg bekannt und überschaubar war."
       },
       {
         "photos": [
@@ -559,7 +572,7 @@
           }
         ],
         "videos": [],
-        "text": "Nun schon auf dem weiteren Weg weg von der Meglisalp."
+        "text": "Nun war ich schon auf dem weiteren Weg nach der Meglisalp."
       },
       {
         "photos": [
@@ -572,7 +585,7 @@
           }
         ],
         "videos": [],
-        "text": "Der Blick fiel nun auf den Schäfler auf der anderen Talseite. Es kam mir wie eine Ewigkeit vor, dort gewesen zu sein... dabei war es nur gut 6h her."
+        "text": "Der Blick fiel nun auf den Schäfler auf der anderen Talseite. Es kam mir wie eine Ewigkeit vor, dort gewesen zu sein... dabei war es nur gut 6 Stunden her."
       },
       {
         "photos": [
@@ -632,7 +645,7 @@
           }
         ],
         "videos": [],
-        "text": "Nach den Schrennen erreichte ich Großhütten und damit einen der Hauptwege vom See nach Wasserauen. Wie man sieht herrschte dort Rushhour."
+        "text": "Nach den Schrennen erreichte ich Großhütten und damit einen der Hauptwege vom See nach Wasserauen. Wie man sieht herrschte dort Rush-Hour."
       },
       {
         "photos": [
@@ -658,7 +671,7 @@
           }
         ],
         "videos": [],
-        "text": "Nach einem Abstieg durch den Wald erreichte ich schließlich den (ziemlich vollen) Parkplatz um 17:00. Dieser Abstieg hat nun nicht mehr besonders viel Spaß gemacht... dafür war ich nun einfach zu müde."
+        "text": "Nach einem Abstieg durch den Wald erreichte ich schließlich den ziemlich vollen Parkplatz um 17:00. Dieser Abstieg hatte nun nicht mehr besonders viel Spaß gemacht... dafür war ich einfach zu müde."
       },
       {
         "photos": [
@@ -689,7 +702,7 @@
           }
         ],
         "videos": [],
-        "text": "Zurückgelegte Strecke. Gar nicht mal soviele Kilometer, aber die Wege darf man auch nicht mit lockeren Wanderwegen vergleichen. 😉"
+        "text": "Zurückgelegte Strecke. Gar nicht mal so viele Kilometer, aber die Wege darf man auch nicht mit lockeren Wanderwegen vergleichen. 😉"
       }
     ],
     "outro": "Fazit: &quot;Geschafft&quot; ist der richtige Ausdruck. Wenn man so etwas lange vor hat, ist es schön, wenn man es in die Tat umgesetzt hat. Ich musste mich aber schon ziemlich ranhalten: was ok war, da ich viele Abschnitte schon kannte. Ansonsten sollte man lieber nur Teile von der Tour erwandern und diese dafür mehr genießen. Denn Gründe dafür gibt es genug. 😃<br />\nEs gibt übrigens auch vier Übernachtungsmöglichkeiten auf der Strecke. 😉"
