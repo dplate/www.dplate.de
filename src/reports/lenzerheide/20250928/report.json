@@ -1,0 +1,695 @@
+[
+  {
+    "destination": "lenzerheide",
+    "date": "d20250928",
+    "type": "hike",
+    "track": true,
+    "detailMap": "swiss",
+    "shortTitle": "Strelapass",
+    "title": "Langwies - Strelapass",
+    "title3d": {
+      "offsetY": 2,
+      "fontSize": 9,
+      "align": "right",
+      "width": 1920,
+      "height": 468
+    },
+    "movie": "9X9aUoMJXtY",
+    "intro": "Nach dem ich am Wochenende zuvor bereits eine Wanderung von <a href='/alpine/lenzerheide/20250920' target='_blank'>Arosa auf das Valbellahorn</a> unternommen hatte, zog es mich wieder in diese Gegend. Diesmal wollte ich von Langwies zum Strelapass laufen, der Arosa mit Davos verbindet.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Straße Langwies - Arosa",
+            "date": "2025-09-28T08:21:35.000+02:00",
+            "width": 1571,
+            "height": 1080
+          }
+        ],
+        "text": "Gegen 8:15 stellte ich bei frostiger Temperatur mein Auto auf dem großen Gratis-Parkplatz hinter Langwies ab. Erst musste ich ein kleines Stück auf der Straße nach Arosa laufen, aber hier bog ich dann auf schmierigem Weg in den Wald ab. "
+      },
+      {
+        "photos": [
+          {
+            "name": "002",
+            "alt": "Langwies",
+            "date": "2025-09-28T08:25:13.000+02:00",
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "text": "Blick auf Langwies auf der anderen Talseite"
+      },
+      {
+        "photos": [
+          {
+            "name": "003",
+            "alt": "Langwieser Viadukt",
+            "date": "2025-09-28T08:53:34.000+02:00",
+            "width": 1920,
+            "height": 1071
+          }
+        ],
+        "text": "Etwas öde ging es auf einfachem Wanderweg in einigen Serpentinen im noch schattigen Wald hinauf. Hier der erste richtige Blick das Tal Schanfigg hinab, das von Chur nach Arosa führt.<br />Unten im Tal das Langwieser Viadukt der Eisenbahnstrecke nach Arosa."
+      },
+      {
+        "photos": [
+          {
+            "name": "004",
+            "alt": "Lichtung",
+            "date": "2025-09-28T08:54:00.000+02:00",
+            "width": 1669,
+            "height": 1080
+          },
+          {
+            "name": "005",
+            "alt": "Feldweg bei Sonnenaufgang",
+            "date": "2025-09-28T08:54:43.000+02:00",
+            "width": 1920,
+            "height": 752
+          },
+          {
+            "name": "006",
+            "alt": "Rongg",
+            "date": "2025-09-28T08:58:02.000+02:00",
+            "width": 1920,
+            "height": 808
+          }
+        ],
+        "text": "Nach 300m Aufstieg erreichte ich die Lichtung Rongg und die Morgensonne schien gerade über die Berge."
+      },
+      {
+        "photos": [
+          {
+            "name": "007",
+            "alt": "Blick zum Arosa Rothorn",
+            "date": "2025-09-28T09:05:42.000+02:00",
+            "width": 1744,
+            "height": 1080
+          }
+        ],
+        "text": "Bevor ich wieder meinen Aufstieg im Schatten fortsetzte, hier der Blick zum fast 3000m hohen Arosa Rothorn."
+      },
+      {
+        "photos": [
+          {
+            "name": "008",
+            "alt": "Bartflechten",
+            "date": "2025-09-28T09:12:39.000+02:00",
+            "width": 1395,
+            "height": 1080
+          },
+          {
+            "name": "009",
+            "alt": "Kleine Pilze",
+            "date": "2025-09-28T09:15:50.000+02:00",
+            "width": 1775,
+            "height": 1080
+          }
+        ],
+        "text": "Der nun folgende Weg durch einen lichten Wald auf einem Grat war ganz nett, aber leider noch ohne Sonne. Dafür konnte ich aber die Flechten in den Bäumen und die zahlreichen Pilze am Boden würdigen."
+      },
+      {
+        "photos": [
+          {
+            "name": "010",
+            "alt": "Sonnenstrahlen im Lärchenwald",
+            "date": "2025-09-28T09:21:58.000+02:00",
+            "width": 1601,
+            "height": 1080
+          },
+          {
+            "name": "011",
+            "alt": "Lärche mit Schnee",
+            "date": "2025-09-28T09:26:02.000+02:00",
+            "width": 1694,
+            "height": 1080
+          }
+        ],
+        "text": "Nach weiteren 300 Metern Aufstieg erreichte ich die schönen Lärchen bei Janetsch Boden."
+      },
+      {
+        "photos": [
+          {
+            "name": "012",
+            "alt": "Janetsch Boden",
+            "date": "2025-09-28T09:31:28.000+02:00",
+            "width": 749,
+            "height": 1080
+          }
+        ],
+        "text": "Die Alp Janetsch Boden war ebenfalls schon für den Winter verlassen, so das ich keine Hunde zu befürchten hatte."
+      },
+      {
+        "photos": [
+          {
+            "name": "013",
+            "alt": "Arosa",
+            "date": "2025-09-28T09:35:20.000+02:00",
+            "width": 1920,
+            "height": 1027
+          }
+        ],
+        "text": "Nun hatte ich die Waldgrenze erreicht und konnte hinüber nach Arosa schauen."
+      },
+      {
+        "photos": [
+          {
+            "name": "014",
+            "alt": "Langer Schatten",
+            "date": "2025-09-28T09:37:19.000+02:00",
+            "width": 1657,
+            "height": 1080
+          },
+          {
+            "name": "015",
+            "alt": "Wegspur durch gefrorenes Gras",
+            "date": "2025-09-28T09:42:49.000+02:00",
+            "width": 762,
+            "height": 1080
+          }
+        ],
+        "text": "Nun folgte der Weg einer Fahrspur im Gras, auf dem der Neuschnee der Nacht lustigerweise nicht liegengeblieben war."
+      },
+      {
+        "photos": [
+          {
+            "name": "016",
+            "alt": "Walsersiedlung Medergen",
+            "date": "2025-09-28T09:46:43.000+02:00",
+            "width": 1593,
+            "height": 1080
+          },
+          {
+            "name": "017",
+            "alt": "Medergen",
+            "date": "2025-09-28T09:49:13.000+02:00",
+            "width": 1750,
+            "height": 1080
+          },
+          {
+            "name": "018",
+            "alt": "Restaurant Alpenrose",
+            "date": "2025-09-28T09:50:51.000+02:00",
+            "width": 1552,
+            "height": 1080
+          }
+        ],
+        "text": "Nach insgesamt 1,5h Aufstieg erreichte ich die alte Walsersiedlung Medergen auf 2000m Höhe. Der kleine Ort ist nur noch im Sommer bewohnt, aber die urige Gaststätte Alpenrose hatte noch geöffnet."
+      },
+      {
+        "photos": [
+          {
+            "name": "019",
+            "alt": "Walserhäuser",
+            "date": "2025-09-28T09:52:20.000+02:00",
+            "width": 1920,
+            "height": 1061
+          }
+        ],
+        "text": "Blick über die Walserhäuser Richtung Arosa."
+      },
+      {
+        "photos": [
+          {
+            "name": "020",
+            "alt": "Wanderung Medergen",
+            "date": "2025-09-28T09:57:03.000+02:00",
+            "width": 1920,
+            "height": 746
+          },
+          {
+            "name": "021",
+            "alt": "Mederger Alp",
+            "date": "2025-09-28T10:09:10.000+02:00",
+            "width": 1920,
+            "height": 983
+          },
+          {
+            "name": "022",
+            "alt": "Wanderweg bei Neuschnee",
+            "date": "2025-09-28T10:10:02.000+02:00",
+            "width": 1738,
+            "height": 1080
+          }
+        ],
+        "text": "Nun hatte ich erst mal keinen Aufstieg mehr und der Weg ging sehr schön den Hang entlang. Die verschneiten Blaubeersträucher raschelten, als sie sich in der Morgensonne von den 2cm Neuschnee befreiten. Auch hier war der Pfad schneefrei geblieben."
+      },
+      {
+        "photos": [
+          {
+            "name": "023",
+            "alt": "Chüpfenflue",
+            "date": "2025-09-28T10:12:14.000+02:00",
+            "width": 1920,
+            "height": 953
+          }
+        ],
+        "text": "Dann bog ich ins Tal Sapün ab und der weitere Weg wurde sichtbar. Ich hatte vor um den hohen Berg in der Mitte herum zu wandern. Zu erst über die Lätschüelfurgga rechts, dann auf der Rückseite um den Berg herum. Anschließend über den Strelapass links und durch das Tal hinab zurück nach Langwies."
+      },
+      {
+        "photos": [
+          {
+            "name": "024",
+            "alt": "Schmitta",
+            "date": "2025-09-28T10:13:47.000+02:00",
+            "width": 1643,
+            "height": 1080
+          }
+        ],
+        "text": "Tiefblick hinab zu den Häusern von Sapün. Dem Schnee auf den sonnigen Hochflächen konnte ich beim Schmelzen zusehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "025",
+            "alt": "Felsriegel",
+            "date": "2025-09-28T10:38:23.000+02:00",
+            "width": 1920,
+            "height": 916
+          }
+        ],
+        "text": "Das Tal zum Lätschüelfurgga wird durch diesen beeindruckenden Felsriegel begrenzt. Mein Wanderweg wird diesen durch die kleine Rinne rechts durchqueren, dem Tritt."
+      },
+      {
+        "photos": [
+          {
+            "name": "026",
+            "alt": "Verschneiter Weg",
+            "date": "2025-09-28T10:49:08.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Um zum Tritt zu kommen, ging der Weg erst den ziemlich steilen Hang entlang. Der Wanderweg ist aber breit und der wenige Neuschnee war nicht rutschig."
+      },
+      {
+        "photos": [
+          {
+            "name": "027",
+            "alt": "Tritt",
+            "date": "2025-09-28T10:53:41.000+02:00",
+            "width": 1647,
+            "height": 1080
+          }
+        ],
+        "text": "Dann wurde der Tritt sichtbar, eine lange Treppe, die dort für den Wanderweg gebaut wurde. Drei andere Wanderer waren vor mir unterwegs und machten sich gerade auf den Aufstieg."
+      },
+      {
+        "photos": [
+          {
+            "name": "028",
+            "alt": "Treppe Tritt",
+            "date": "2025-09-28T10:55:48.000+02:00",
+            "width": 720,
+            "height": 1080
+          },
+          {
+            "name": "029",
+            "alt": "Treppe mit Drahtseil",
+            "date": "2025-09-28T11:02:12.000+02:00",
+            "width": 754,
+            "height": 1080
+          },
+          {
+            "name": "030",
+            "alt": "Lange Treppe",
+            "date": "2025-09-28T11:02:49.000+02:00",
+            "width": 1410,
+            "height": 1080
+          },
+          {
+            "name": "031",
+            "alt": "Wanderweg Tritt",
+            "date": "2025-09-28T11:04:33.000+02:00",
+            "width": 1920,
+            "height": 1056
+          }
+        ],
+        "text": "Die Metalltreppe ist ziemlich steil, bietet aber ein Drahtseil zum Festhalten. Nur war dieses eisig gefroren und mit Schnee bedeckt, so dass ich es nur ab und zu verwendete. Beim Runtergehen ist es aber sicher beruhigend. Insgesamt überwindet man mit diesen Treppen rund 50 Höhenmeter durch den Fels. Ein tolles Erlebnis."
+      },
+      {
+        "photos": [
+          {
+            "name": "032",
+            "alt": "Septemberschnee",
+            "date": "2025-09-28T11:08:56.000+02:00",
+            "width": 1738,
+            "height": 1080
+          }
+        ],
+        "text": "Oberhalb des Tritts ist die Landschaft total harmlos. Durch den Neuschnee wirkte es sehr winterlich, die Sonne heizte aber ordentlich ein."
+      },
+      {
+        "photos": [
+          {
+            "name": "033",
+            "alt": "Mederger Flue",
+            "date": "2025-09-28T11:20:11.000+02:00",
+            "width": 1920,
+            "height": 849
+          }
+        ],
+        "text": "Einfach ging es nun weiter ansteigend zum Pass hinauf. Hier der Blick zurück."
+      },
+      {
+        "photos": [
+          {
+            "name": "034",
+            "alt": "Lätschüelfurgga",
+            "date": "2025-09-28T11:35:03.000+02:00",
+            "width": 1817,
+            "height": 1080
+          },
+          {
+            "name": "035",
+            "alt": "Panorama Davos",
+            "date": "2025-09-28T11:52:19.000+02:00",
+            "width": 1920,
+            "height": 592
+          }
+        ],
+        "text": "Auf dem Lätschüelfurgga kam ich gegen 11:30 an. Mit 2400m hatte ich jetzt meinen höchsten Punkt erreicht, gut 1000m Aufstieg von Langwies.<br />An diesem Pass war ich auch auf einer früheren <a href='/alpine/davos/20151010' target='_blank'>Wanderung von der Schatzalp zum Chörbschhorn</a> vorbeigekommen. Das war vor 10 Jahren und schon damals hatte ich überlegt, wie wohl der Weg von Langwies über den Tritt hinauf aussehen würde."
+      },
+      {
+        "photos": [
+          {
+            "name": "036",
+            "alt": "Blick ins Sertigtal",
+            "date": "2025-09-28T12:01:02.000+02:00",
+            "width": 1671,
+            "height": 1080
+          },
+          {
+            "name": "037",
+            "alt": "Wanderweg Davos",
+            "date": "2025-09-28T12:04:00.000+02:00",
+            "width": 1920,
+            "height": 866
+          },
+          {
+            "name": "038",
+            "alt": "Panoramaweg",
+            "date": "2025-09-28T12:04:35.000+02:00",
+            "width": 1616,
+            "height": 1080
+          },
+          {
+            "name": "039",
+            "alt": "Wanderung Schatzalp",
+            "date": "2025-09-28T12:10:04.000+02:00",
+            "width": 1920,
+            "height": 853
+          }
+        ],
+        "text": "Nach einer ersten richtigen Pause im Gras (davor war auf Grund des Schnees keine richtige Sitzgelegenheit), ging ich nun den schönen Panoramaweg oberhalb von Davos entlang. Dieser ist auch bei Mountainbikern beliebt und hat praktisch keine Steigungen."
+      },
+      {
+        "photos": [
+          {
+            "name": "040",
+            "alt": "Wandergebiet Schatzalp",
+            "date": "2025-09-28T12:12:33.000+02:00",
+            "width": 1920,
+            "height": 814
+          }
+        ],
+        "text": "Dann ging der Weg um eine Nase herum und ich konnte auf die altertümlichen Liftanlagen des Skigebiets der Schatzalp blicken."
+      },
+      {
+        "photos": [
+          {
+            "name": "041",
+            "alt": "Strelasee",
+            "date": "2025-09-28T12:15:42.000+02:00",
+            "width": 1920,
+            "height": 741
+          }
+        ],
+        "text": "Vorbei ging es auch noch am kleinen Strelasee, viel los war auch hier nicht."
+      },
+      {
+        "photos": [
+          {
+            "name": "042",
+            "alt": "Bergwanderung Strela",
+            "date": "2025-09-28T12:28:34.000+02:00",
+            "width": 1740,
+            "height": 1080
+          }
+        ],
+        "text": "Damit die Bergweg Kennzeichnung auch gerechtfertigt ist, ging es dann mal kurz durch den Fels. Aber ansonsten ist dieser Höhenweg sehr einfach."
+      },
+      {
+        "photos": [
+          {
+            "name": "043",
+            "alt": "Berghaus Strelapass",
+            "date": "2025-09-28T12:37:43.000+02:00",
+            "width": 1813,
+            "height": 1080
+          }
+        ],
+        "text": "Gegen 12:30 erreichte ich schließlich den Strelapass auf 2350 Metern Höhe. Es hatte geöffnet und dort waren auch einige Gäste. Es kann einfach auf einem Panoramaweg von der Parsennbahn Mittelstation erreicht werden. An Wanderwegen mangelt es hier sicher nicht."
+      },
+      {
+        "photos": [
+          {
+            "name": "044",
+            "alt": "Aussicht Strelapass",
+            "date": "2025-09-28T12:39:34.000+02:00",
+            "width": 1920,
+            "height": 775
+          }
+        ],
+        "text": "Blick vom Pass hinab nach Langwies."
+      },
+      {
+        "photos": [
+          {
+            "name": "045",
+            "alt": "Weissfluh",
+            "date": "2025-09-28T12:52:28.000+02:00",
+            "width": 1920,
+            "height": 1054
+          }
+        ],
+        "text": "Über den Abstieg vom Strelapass hatte ich mir davor Gedanken gemacht, weil er aus der Entfernung sehr weiß aussah und ich nicht wusste, wie steil er ist. Aber er war nicht sehr steil und der Weg selbst war sogar schneefrei. Hier im Hintergrund ist der Weissfluh Gipfel des Skigebiets Parsenn zu sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "046",
+            "alt": "Mini-Brunnen",
+            "date": "2025-09-28T12:55:07.000+02:00",
+            "width": 1858,
+            "height": 1080
+          }
+        ],
+        "text": "Ein lustiger Brunnen beim Abstieg. Er ist vermutlich nur zur Erfrischung für Aufsteigende gedacht, denn einen so kleinen Brunnen hatte ich noch nie gesehen. Er war nur rund 40cm lang."
+      },
+      {
+        "photos": [
+          {
+            "name": "047",
+            "alt": "Wanderweg über Holzbrücke",
+            "date": "2025-09-28T13:06:59.000+02:00",
+            "width": 1444,
+            "height": 1080
+          }
+        ],
+        "text": "In nur rund 20 Minuten hatte ich den Abstieg schon geschafft, das war deutlich schneller als gedacht."
+      },
+      {
+        "photos": [
+          {
+            "name": "048",
+            "alt": "Wanderung Strelapass",
+            "date": "2025-09-28T13:16:34.000+02:00",
+            "width": 1764,
+            "height": 1080
+          }
+        ],
+        "text": "Nun ging der Weg sehr schön durch das Tal an einem rauschenden Bach hinab. Hier der Blick zurück, rechts der Strelapass."
+      },
+      {
+        "photos": [
+          {
+            "name": "049",
+            "alt": "Herbstwanderung",
+            "date": "2025-09-28T13:33:28.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "050",
+            "alt": "Lärchen im Geröll",
+            "date": "2025-09-28T13:39:03.000+02:00",
+            "width": 1704,
+            "height": 1080
+          },
+          {
+            "name": "051",
+            "alt": "Haupter Tälli",
+            "date": "2025-09-28T13:41:24.000+02:00",
+            "width": 1828,
+            "height": 1080
+          }
+        ],
+        "text": "Nach einer Weile erreichte ich eine Alp-Straße und es ging wieder etwas zügiger bergab. Die Lärchen im Geröllbett des Flusses wären sicher im goldenen Oktober auch sehr fotogen."
+      },
+      {
+        "photos": [
+          {
+            "name": "052",
+            "alt": "Berghaus Heimeli",
+            "date": "2025-09-28T13:43:42.000+02:00",
+            "width": 1639,
+            "height": 1080
+          },
+          {
+            "name": "053",
+            "alt": "Restaurant Heimeli",
+            "date": "2025-09-28T13:46:12.000+02:00",
+            "width": 1579,
+            "height": 1080
+          }
+        ],
+        "text": "Dann erreichte ich das nett gestaltete Berghaus Heimeli, was das Ziel einiger Wanderer war. Das Gasthaus ist auch im Winter geöffnet und auf einem Winterwanderweg von Langwies aus erreichbar."
+      },
+      {
+        "photos": [
+          {
+            "name": "054",
+            "alt": "Hühner mit Schubkarre",
+            "date": "2025-09-28T13:51:23.000+02:00",
+            "width": 1920,
+            "height": 1058
+          }
+        ],
+        "text": "Vorbei ging es an Bauernhöfen, hier mit glücklichen Hühnern."
+      },
+      {
+        "photos": [
+          {
+            "name": "055",
+            "alt": "Parkplatz Chüpfen",
+            "date": "2025-09-28T13:53:38.000+02:00",
+            "width": 1920,
+            "height": 1060
+          }
+        ],
+        "text": "Etwas weiter unten kam ich zum Parkplatz Chüpfen. Bis hier könnte man mit Fahrgenehmigung fahren. Wenn man hier startet, dann kann man diese Rundwanderung um 2 Stunden verkürzen. Nur an Medergen würde man dann nicht vorbeikommen."
+      },
+      {
+        "photos": [
+          {
+            "name": "056",
+            "alt": "Fahrweg Sapün",
+            "date": "2025-09-28T13:58:50.000+02:00",
+            "width": 1920,
+            "height": 917
+          },
+          {
+            "name": "057",
+            "alt": "Dorf Sapün",
+            "date": "2025-09-28T14:02:36.000+02:00",
+            "width": 1579,
+            "height": 1080
+          },
+          {
+            "name": "058",
+            "alt": "Walsersiedlung Sapün",
+            "date": "2025-09-28T14:03:56.000+02:00",
+            "width": 1564,
+            "height": 1080
+          },
+          {
+            "name": "059",
+            "alt": "Bergdorf",
+            "date": "2025-09-28T14:04:43.000+02:00",
+            "width": 1571,
+            "height": 1080
+          }
+        ],
+        "text": "Weiter auf dem Schotterweg erreichte ich recht bald das Dorf Sapün, das wie Medergen eine Walsersiedlung ist und aus vielen alten Holzhäusern besteht. Alles war sehr idyllisch hier, was auch an dem schönem Wetter lag."
+      },
+      {
+        "photos": [
+          {
+            "name": "060",
+            "alt": "Flockenblume mit Fliege",
+            "date": "2025-09-28T14:09:42.000+02:00",
+            "width": 1553,
+            "height": 1080
+          }
+        ],
+        "text": "Eine Flockenblume mit Fliege am Wegrand. Ende September gibt es nicht mehr viele Blumen, so dass sie gleich fotografiert werden musste."
+      },
+      {
+        "photos": [
+          {
+            "name": "061",
+            "alt": "Wanderweg Sapün",
+            "date": "2025-09-28T14:11:31.000+02:00",
+            "width": 1687,
+            "height": 1080
+          }
+        ],
+        "text": "Nach dem Dorf verlässt der Wanderweg die Straße und es ging auf einem Grasweg oberhalb des Fahrwegs weiter. Hier der Blick zurück, hinten links der Strelapass."
+      },
+      {
+        "photos": [
+          {
+            "name": "062",
+            "alt": "Wiesenweg",
+            "date": "2025-09-28T14:28:28.000+02:00",
+            "width": 1487,
+            "height": 1080
+          },
+          {
+            "name": "063",
+            "alt": "Fahrstraße Sapün",
+            "date": "2025-09-28T14:29:21.000+02:00",
+            "width": 1857,
+            "height": 1080
+          },
+          {
+            "name": "064",
+            "alt": "Bergweg durch Wald",
+            "date": "2025-09-28T14:32:37.000+02:00",
+            "width": 1712,
+            "height": 1080
+          }
+        ],
+        "text": "Der Weg war schön angelegt und umging die Schlucht, durch die die Straße führt, oberhalb."
+      },
+      {
+        "photos": [
+          {
+            "name": "065",
+            "alt": "Herbstwiese",
+            "date": "2025-09-28T14:46:05.000+02:00",
+            "width": 1676,
+            "height": 1080
+          }
+        ],
+        "text": "Die Straße erreicht der Weg dann über einen Abstieg auf einer Wiese, die ich für eine letzte Pause nutzte."
+      },
+      {
+        "photos": [
+          {
+            "name": "066",
+            "alt": "Holzbrücke Sapünersteg",
+            "date": "2025-09-28T14:57:01.000+02:00",
+            "width": 1920,
+            "height": 1029
+          }
+        ],
+        "text": "Zurück zum Parkplatz in Langwies ging es dann wieder auf dem Fahrweg. Straßenverkehr gibt es dort aber praktisch nicht. Einzige Sehenswürdigkeit war hier die Holzbrücke, die aber inzwischen optional ist.<br />Kurz nach 15:00 erreichte ich dann mein Auto und beendete die Wanderung."
+      }
+    ],
+    "outro": "Fazit: Die Wanderung war abwechslungsreicher und schöner als erwartet. Eine schöne Mischung aus den urigen Siedlungen auf Arosa-Seite, den Panoramen oberhalb von Davos und etwas Nervenkitzel mit der Treppe und dem Schnee. Nur der Aufstieg zu Beginn im schattigen Wald war etwas langweilig."
+  }
+]

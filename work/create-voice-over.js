@@ -3,8 +3,8 @@ const jsonfile = require('jsonfile');
 const fs = require('fs');
 
 const projectPath = 'C:/Users/Roger/web/Dp3';
-const destination = 'alpstein';
-const reportDate = '20160911';
+const destination = 'lenzerheide';
+const reportDate = '20250928';
 
 const client = new textToSpeech.TextToSpeechClient();
 
@@ -96,6 +96,14 @@ const pronunciations = [
   {
     regex: /(dischmatal)/ig,
     ipa: 'ˈdɪʃmaˌtaːl'
+  },
+  {
+    regex: /(walser)/ig,
+    ipa: 'ˈval.zɐ'
+  },
+  {
+    regex: /(sapün)/ig,
+    ipa: 'saˈpyn'
   }
 ];
 
