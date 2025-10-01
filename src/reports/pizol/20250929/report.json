@@ -1,0 +1,513 @@
+[
+  {
+    "destination": "pizol",
+    "date": "d20250929",
+    "type": "hike",
+    "track": true,
+    "detailMap": "swiss",
+    "shortTitle": "5-Seen-Wanderung",
+    "title": "Pizol - 5-Seen-Wanderung",
+    "title3d": {
+      "offsetY": 3,
+      "fontSize": 8.5,
+      "align": "center",
+      "width": 1920,
+      "height": 578
+    },
+    "movie": "7ore91Nm5i0",
+    "intro": "Einen meiner Urlaubstage wollte ich nutzen, um eine Wanderung zu unternehmen, die an Wochenenden häufig überlaufen ist: Die 5-Seen-Wanderung am Pizol.<br />Gegen 8:00 stellte ich mein Auto auf dem großen und leeren Parkplatz in Wangs im Rheintal ab, der 6 CHF kostet. Das notwendige Seilbahn-Ticket kostete weitere 54 CHF (27 CHF mit Halbtax). Nach den ganzen Investitionen ging es für mich um 8:15 mit einer der ersten Gondeln los.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Wangs",
+            "date": "2025-09-29T08:20:35.000+02:00",
+            "width": 1920,
+            "height": 1067
+          }
+        ],
+        "text": "Blick zurück auf Wangs. Noch war es sehr bewölkt, ich hoffte aber, dass ich schnell über den Nebel kommen würde, da eine Obergrenze zwischen 1500 und 2000 Metern angesagt war."
+      },
+      {
+        "photos": [
+          {
+            "name": "002",
+            "alt": "Sesselbahn Gaffia",
+            "date": "2025-09-29T08:38:58.000+02:00",
+            "width": 1920,
+            "height": 1038
+          }
+        ],
+        "text": "Ab Furt ging es in der Sesselbahn Gaffia weiter, noch war kein Ende der Wolken in Sicht."
+      },
+      {
+        "photos": [
+          {
+            "name": "003",
+            "alt": "Sesselbahn Pizolhütte",
+            "date": "2025-09-29T08:54:03.000+02:00",
+            "width": 1920,
+            "height": 1076
+          }
+        ],
+        "text": "Eigentlich wollte ich die 5-Seen-Wanderung andersherum als üblich laufen (mehr bergauf als bergab), aber da in Gaffia es noch so nebelig war, beschloss ich mit der nächsten Sesselbahn weiter hinauf zur Pizolhütte zu fahren.<br />Und tatsächlich riss während der Fahrt der Nebel auf."
+      },
+      {
+        "photos": [
+          {
+            "name": "004",
+            "alt": "Wolken am See",
+            "date": "2025-09-29T09:00:24.000+02:00",
+            "width": 1920,
+            "height": 836
+          },
+          {
+            "name": "005",
+            "alt": "Speichersee Pizol",
+            "date": "2025-09-29T09:01:00.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Gegen 9:00 war ich schließlich oben an der Pizolhütte auf 2200m Höhe und ich begann meine Wanderung.<br />Der erste See ist eigentlich der Wangser See, dieser liegt aber ein Stück in der falschen Richtung und war auch noch im Nebel. Deshalb ging ich nur um den neu gebauten Schneekanonen-Speichersee direkt neben der Pizol-Hütte. Ich denke das zählt auch als erster See."
+      },
+      {
+        "photos": [
+          {
+            "name": "006",
+            "alt": "Wanderweg Wildsee",
+            "date": "2025-09-29T09:23:17.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Dann ging es aber richtig los und ich folgte dem Weg zum zweiten See, dem Wildsee. Dafür musste ich zuerst zur Wildseeluggen aufsteigen, ein 2500m hoher Pass."
+      },
+      {
+        "photos": [
+          {
+            "name": "007",
+            "alt": "Wanderweg an Nebelgrenze",
+            "date": "2025-09-29T09:38:29.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "008",
+            "alt": "Wolken im Tal",
+            "date": "2025-09-29T09:49:52.000+02:00",
+            "width": 1920,
+            "height": 1048
+          }
+        ],
+        "text": "Der Weg hinauf war gut ausgebaut und war nicht zu steil. Er führte meist am Rand eines Geröllfelds über einen Wiesenhang rund 300m rauf."
+      },
+      {
+        "photos": [
+          {
+            "name": "009",
+            "alt": "Wanderweg Wildseeluggen",
+            "date": "2025-09-29T09:50:44.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Nach 45min erreichte ich die Wildseeluggen."
+      },
+      {
+        "photos": [
+          {
+            "name": "010",
+            "alt": "Schesaplana",
+            "date": "2025-09-29T09:53:12.000+02:00",
+            "width": 1920,
+            "height": 1013
+          }
+        ],
+        "text": "Tatsächlich hatte ich erst jetzt die Nebelobergrenze wirklich erreicht und ich konnte über die Wolken hinweg zur <a href='/alpine/brandnertal/20150829' target='_blank'>Schesaplana</a> schauen."
+      },
+      {
+        "photos": [
+          {
+            "name": "011",
+            "alt": "Wildseeluggen",
+            "date": "2025-09-29T09:55:27.000+02:00",
+            "width": 1764,
+            "height": 1080
+          },
+          {
+            "name": "012",
+            "alt": "Wildsee",
+            "date": "2025-09-29T09:56:42.000+02:00",
+            "width": 1920,
+            "height": 962
+          }
+        ],
+        "text": "Direkt hinter der Wildseeluggen liegt der Wildsee, eingebettet von felsigen Gipfeln. Zum Ufer des Sees kommt man aber nicht.<br />Hier links ist der 2800m hohe Gipfel des Pizols zu sehen, auf den ein blauer Weg führt."
+      },
+      {
+        "photos": [
+          {
+            "name": "013",
+            "alt": "Bergweg Wildsee",
+            "date": "2025-09-29T09:58:14.000+02:00",
+            "width": 1703,
+            "height": 1080
+          },
+          {
+            "name": "014",
+            "alt": "Wildsee mit Schnee",
+            "date": "2025-09-29T10:04:24.000+02:00",
+            "width": 1920,
+            "height": 778
+          }
+        ],
+        "text": "Der Wanderweg führte oberhalb des Sees vorbei, ich machte allerdings noch einen kleinen Abstecher, um eine Pause auf einer schneefreien Felsplatte zu machen.<br />Das Blau des Sees leuchtete dank des Neuschnees noch etwas schöner."
+      },
+      {
+        "photos": [
+          {
+            "name": "015",
+            "alt": "Eisiger Weg",
+            "date": "2025-09-29T10:29:49.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Direkt unterhalb des Wildsees liegt auch schon der dritte See, der Schottensee. Dort hin geht es einen steilen Hang 150m hinab. Der Weg ist eigentlich harmlos und nicht zu steil angelegt, aber er bestand an diesem Tag an unangenehm eisigem Schnee, der am Tag zuvor wahrscheinlich weich war und von Wanderern schön festgetreten wurde. Nicht immer gab es griffige Felsen oder Neuschnee zum Ausweichen, so dass ich dort runter etwas länger brauchte. "
+      },
+      {
+        "photos": [
+          {
+            "name": "016",
+            "alt": "Schottensee",
+            "date": "2025-09-29T10:51:03.000+02:00",
+            "width": 1710,
+            "height": 1080
+          },
+          {
+            "name": "017",
+            "alt": "Bergsee",
+            "date": "2025-09-29T10:56:52.000+02:00",
+            "width": 1920,
+            "height": 921
+          }
+        ],
+        "text": "Um 10:45 erreichte ich dann den Schottensee und suchte mir wieder einen sonnigen Platz. Hier der Blick zurück bei der Pause im Gras. Den Schneehang in der Bildmitte war ich herunter gekommen und ich konnte nun nachfolgende Wanderer beobachten, die sich etwas geschickter als ich anstellten."
+      },
+      {
+        "photos": [
+          {
+            "name": "018",
+            "alt": "Weisstannental",
+            "date": "2025-09-29T10:58:28.000+02:00",
+            "width": 1920,
+            "height": 588
+          }
+        ],
+        "text": "Von der gleichen Stelle der Blick hinab ins Weisstannental. Mein weiterer Weg sollte nun rechts den Grashang hinauf führen."
+      },
+      {
+        "photos": [
+          {
+            "name": "019",
+            "alt": "Rundwanderung Pizol",
+            "date": "2025-09-29T11:09:02.000+02:00",
+            "width": 1920,
+            "height": 789
+          }
+        ],
+        "text": "Auf dem Weg zum Grashang noch einmal der Blick zurück. Neben dem Schottensee gibt es dort noch zwei weitere kleine Seen, die aber nicht zählen."
+      },
+      {
+        "photos": [
+          {
+            "name": "020",
+            "alt": "Weg an steilem Grashang",
+            "date": "2025-09-29T11:17:59.000+02:00",
+            "width": 1920,
+            "height": 1065
+          },
+          {
+            "name": "021",
+            "alt": "Wanderweg mit Serpentine",
+            "date": "2025-09-29T11:19:15.000+02:00",
+            "width": 1787,
+            "height": 1080
+          }
+        ],
+        "text": "Der Aufstieg den sonnigen Grashang hinauf war durch aus anstrengend und ich konnte wieder meine Jacke wegpacken. In mehreren Serpentinen ging es wieder 150m hinauf."
+      },
+      {
+        "photos": [
+          {
+            "name": "022",
+            "alt": "Piz Sardona",
+            "date": "2025-09-29T11:32:18.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Blick das Weisstannental hinauf zum Piz Sardona. Die Sicht war sehr gut und hier gab es auch nur ein paar fotogene Wolkenreste."
+      },
+      {
+        "photos": [
+          {
+            "name": "023",
+            "alt": "Schwarzchopf",
+            "date": "2025-09-29T11:35:41.000+02:00",
+            "width": 1920,
+            "height": 674
+          }
+        ],
+        "text": "Um 11:30 erreichte ich den 2500m hohen Schwarzchopf. Mit den vielen Wolken drumherum kam ich mir auch wirklich sehr hoch vor."
+      },
+      {
+        "photos": [
+          {
+            "name": "024",
+            "alt": "Schwarzsee",
+            "date": "2025-09-29T11:45:22.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Vom Schwarzchopf ging es auch gleich wieder in vielen Kurven gut 100m hinab zum vierten See, dem Schwarzsee. Da hier kein Schnee lag, problemlos."
+      },
+      {
+        "photos": [
+          {
+            "name": "025",
+            "alt": "Klarer Bergsee",
+            "date": "2025-09-29T12:04:56.000+02:00",
+            "width": 1920,
+            "height": 728
+          }
+        ],
+        "text": "Am Ufer des Schwarzsees machte ich pünktlich um 12:00 meine Mittagspause."
+      },
+      {
+        "photos": [
+          {
+            "name": "026",
+            "alt": "Reflexionen im See",
+            "date": "2025-09-29T12:10:44.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "027",
+            "alt": "Dunkler See",
+            "date": "2025-09-29T12:14:35.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Noch zwei weitere Impressionen vom Schwarzsee, der aus manchen Blickrichtungen durchaus seinem Namen gerecht wurde."
+      },
+      {
+        "photos": [
+          {
+            "name": "028",
+            "alt": "Wanderung Schwarzsee",
+            "date": "2025-09-29T12:24:40.000+02:00",
+            "width": 1920,
+            "height": 741
+          }
+        ],
+        "text": "Nach dem Schwarzsee folgte wieder 100m Aufstieg. Hier der Blick zurück. Rechts der Schwarzchopf."
+      },
+      {
+        "photos": [
+          {
+            "name": "029",
+            "alt": "Wolken an Grat",
+            "date": "2025-09-29T12:28:01.000+02:00",
+            "width": 1920,
+            "height": 856
+          }
+        ],
+        "text": "Am Grat der Schwarzseehörner brandeten von Osten her die Wolken."
+      },
+      {
+        "photos": [
+          {
+            "name": "030",
+            "alt": "Steinmännchen",
+            "date": "2025-09-29T12:30:34.000+02:00",
+            "width": 1920,
+            "height": 1065
+          },
+          {
+            "name": "031",
+            "alt": "Tibet-Fahnen",
+            "date": "2025-09-29T12:32:25.000+02:00",
+            "width": 1616,
+            "height": 1080
+          }
+        ],
+        "text": "Um 12:30 kam ich auf der Hochfläche des Rossstalls an, auf dem unzählige Steinmännchen aufgebaut sind. Es gibt hier Diskussionen, wie das mit dem Landschaftsschutz zusammenpasst, aber es lässt sich ohnehin nicht vermeiden und sorgt für schöne Fotomotive."
+      },
+      {
+        "photos": [
+          {
+            "name": "032",
+            "alt": "Nebelkante",
+            "date": "2025-09-29T12:34:02.000+02:00",
+            "width": 1920,
+            "height": 718
+          }
+        ],
+        "text": "Ich bin dann noch zu einem Aussichtspunkt abgebogen, aber auf Grund der Wolken konnte ich dort auch nicht mehr sehen. Deshalb hier nur der Blick zurück zu den Steinmännchen."
+      },
+      {
+        "photos": [
+          {
+            "name": "033",
+            "alt": "Weg über Bergrücken",
+            "date": "2025-09-29T12:48:19.000+02:00",
+            "width": 1779,
+            "height": 1080
+          },
+          {
+            "name": "034",
+            "alt": "Nebelfetzen",
+            "date": "2025-09-29T12:56:35.000+02:00",
+            "width": 1920,
+            "height": 1045
+          }
+        ],
+        "text": "Von den Steinmännchen ging es schön den breiten Grasrücken hinab. Eigentlich hat man dort auch eine schönen Tiefblick ins Tal."
+      },
+      {
+        "photos": [
+          {
+            "name": "035",
+            "alt": "Gamidaurspitz",
+            "date": "2025-09-29T13:07:55.000+02:00",
+            "width": 1713,
+            "height": 1080
+          }
+        ],
+        "text": "Nach dem Abstieg machte ich noch einen weiteren Abstecher auf die 2300m hohe Gamidaurspitz. Das ist aber nur noch ein sehr kleiner Abstecher, denn der Wanderweg geht dort nun direkt vorbei, da der ursprüngliche Weg abgerutscht ist."
+      },
+      {
+        "photos": [
+          {
+            "name": "036",
+            "alt": "Aussicht Gamidaurspitz",
+            "date": "2025-09-29T13:14:39.000+02:00",
+            "width": 1920,
+            "height": 851
+          }
+        ],
+        "text": "Ich wartete auf dem schönen Gipfel etwas, aber mehr als auf diesem Bild rissen die Wolken leider nicht auf."
+      },
+      {
+        "photos": [
+          {
+            "name": "037",
+            "alt": "Bergweg am Fels",
+            "date": "2025-09-29T13:19:30.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "038",
+            "alt": "Gratweg mit Wolken",
+            "date": "2025-09-29T13:24:36.000+02:00",
+            "width": 1920,
+            "height": 980
+          }
+        ],
+        "text": "Dann gab ich auf und ging den neu angelegten Weg hinab von der Gamidaurspitz. Der Weg ging dabei ein Stück auf einem luftigen Grat, wo man nicht zu viel Höhenangst haben sollte. Bei mir war aber eh kein Tiefblick möglich."
+      },
+      {
+        "photos": [
+          {
+            "name": "039",
+            "alt": "Weg durch Steine",
+            "date": "2025-09-29T13:29:00.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Einfach ging der Weg dann weiter. Irgendwo hier hätte ich auch nach Garmil abbiegen und bis nach Furt absteigen können. Eventuell wäre es dort hinab sonniger gewesen. Aber dann hätte ich den fünften See verpasst, was bei einer 5-Seen-Wanderung ja nicht sinnvoll gewesen wäre."
+      },
+      {
+        "photos": [
+          {
+            "name": "040",
+            "alt": "Baschalvasee",
+            "date": "2025-09-29T13:34:26.000+02:00",
+            "width": 1920,
+            "height": 842
+          }
+        ],
+        "text": "Nach gut 100m Abstieg erreichte ich den fünften See, den Baschalvasee. Dieser See ist im Vergleich zu den anderen großen Seen eigentlich kaum erwähnenswert."
+      },
+      {
+        "photos": [
+          {
+            "name": "041",
+            "alt": "Mystische Felsen",
+            "date": "2025-09-29T13:53:00.000+02:00",
+            "width": 1920,
+            "height": 990
+          }
+        ],
+        "text": "Vom Baschalvasee ging es nur noch den Hang hinab zurück nach Gaffia. Dabei war es leider total nebelig und von der schön zerklüfteten Landschaft war nicht viel zu sehen. Durch den Nebel konnte ich schon die Sesselbahn klappern hören."
+      },
+      {
+        "photos": [
+          {
+            "name": "042",
+            "alt": "Wanderweg durch Felsen",
+            "date": "2025-09-29T14:10:44.000+02:00",
+            "width": 1676,
+            "height": 1080
+          }
+        ],
+        "text": "Kurz vorm Ziel ging es hier auch noch mal gut ausgebaut durch Felsen hindurch."
+      },
+      {
+        "photos": [
+          {
+            "name": "043",
+            "alt": "Berghütte Alp Gaffia",
+            "date": "2025-09-29T14:16:55.000+02:00",
+            "width": 1920,
+            "height": 919
+          }
+        ],
+        "text": "Gegen 14:30 erreichte ich die Bergstation der Sesselbahn. Dort befindet sich auch eine kleine Gaststätte und man könnte Karts ausleihen, um statt mit der Sesselbahn den Fahrweg herunter zu fahren. Beides habe ich nicht genutzt."
+      },
+      {
+        "photos": [
+          {
+            "name": "044",
+            "alt": "Talfahrt mit Sesselbahn",
+            "date": "2025-09-29T14:27:53.000+02:00",
+            "width": 1686,
+            "height": 1080
+          }
+        ],
+        "text": "Ich nutzte stattdessen mein bezahltes Ticket und fuhr mit der Sesselbahn hinab und verließ auch bald die herum wabernden Wolken."
+      },
+      {
+        "photos": [
+          {
+            "name": "045",
+            "alt": "Gondelbahn Wangs",
+            "date": "2025-09-29T14:45:08.000+02:00",
+            "width": 1818,
+            "height": 1080
+          }
+        ],
+        "text": "Und von Furt ging es natürlich auch mit der Gondelbahn wieder zurück nach Wangs. Mein Auto erreichte ich um 15:00 bei Sonnenschein."
+      }
+    ],
+    "outro": "Fazit: Die 5-Seen-Wanderung am Pizol ist nicht ohne Grund so beliebt, gibt es doch auf einer recht überschaubaren Strecke viel zu sehen. An diesem Montag war nicht viel los, was an Wochenenden anders sein kann. Das Ticket ist allerdings nicht gerade günstig und dass sich der Nebel kaum auflöste, hatte ich auch nicht erwartet."
+  }
+]

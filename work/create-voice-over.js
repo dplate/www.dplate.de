@@ -3,8 +3,8 @@ const jsonfile = require('jsonfile');
 const fs = require('fs');
 
 const projectPath = 'C:/Users/Roger/web/Dp3';
-const destination = 'lenzerheide';
-const reportDate = '20250928';
+const destination = 'pizol';
+const reportDate = '20250929';
 
 const client = new textToSpeech.TextToSpeechClient();
 
@@ -20,10 +20,6 @@ const pronunciations = [
   {
     regex: /(pischa)/ig,
     ipa: 'pɪʃaː'
-  },
-  {
-    regex: /(piz)/ig,
-    ipa: 'pɪts'
   },
   {
     regex: /(vereina)/ig,
