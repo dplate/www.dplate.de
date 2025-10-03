@@ -49,24 +49,15 @@ const parseGpxRaw = (gpxRaw) => {
 };
 
 const getSpeeds = (timestamp, track) => {
-  const pointMinuteBefore = track.points.find((point) => point.timestamp > timestamp - 60 * 1000);
-  const pointMinuteLater = track.points.findLast((point) => point.timestamp < timestamp + 60 * 1000);
-  if (pointMinuteBefore && pointMinuteLater) {
-    const distance = pointMinuteLater.distance - pointMinuteBefore.distance;
-    const climb = pointMinuteLater.height - pointMinuteBefore.height;
-    const duration = pointMinuteLater.timestamp - pointMinuteBefore.timestamp;
-    if (duration < 60 * 1000) {
-      return {
-        distanceSpeed: 0.0,
-        climbSpeed: 0.0
-      };
-    }
-    return {
-      distanceSpeed: (distance / duration) * 1000,
-      climbSpeed: (climb / duration) * 1000
-    };
-  }
-  return 1.0;
+  const pointMinuteBefore = track.points.findLast((point) => point.timestamp < timestamp - 45 * 1000) || track.points[0];
+  const pointMinuteLater = track.points.find((point) => point.timestamp > timestamp + 45 * 1000) || track.points[track.points.length - 1];
+  const distance = pointMinuteLater.distance - pointMinuteBefore.distance;
+  const climb = pointMinuteLater.height - pointMinuteBefore.height;
+  const duration = pointMinuteLater.timestamp - pointMinuteBefore.timestamp;
+  return {
+    distanceSpeed: (distance / duration) * 1000,
+    climbSpeed: (climb / duration) * 1000
+  };
 };
 
 const getAction = (speed, climbSpeed) => {
