@@ -263,3 +263,4 @@ https://www.dplate.de/alpine/vals/20250831
 https://www.dplate.de/alpine/lenzerheide/20250920
 https://www.dplate.de/alpine/lenzerheide/20250928
 https://www.dplate.de/alpine/pizol/20250929
+https://www.dplate.de/alpine/laax/20251002
