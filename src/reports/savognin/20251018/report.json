@@ -1,0 +1,614 @@
+[
+  {
+    "destination": "savognin",
+    "date": "d20251018",
+    "type": "hike",
+    "track": true,
+    "detailMap": "swiss",
+    "shortTitle": "Ziteil",
+    "title": "Obermutten - Ziteil",
+    "title3d": {
+      "offsetY": 1,
+      "fontSize": 9,
+      "align": "left",
+      "width": 1920,
+      "height": 430
+    },
+    "movie": "pb_TOrPntr8",
+    "intro": "Ende Oktober werden die Lärchen in den Alpen gelb und leuchten bei sonnigem Wetter. Deshalb suchte ich mir für diesen Schönwetter-Samstag eine Wanderung bei Savognin, wo es viele dieser Bäume gibt.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Straße Obermutten",
+            "date": "2025-10-18T08:25:09.000+02:00",
+            "width": 1767,
+            "height": 1080
+          },
+          {
+            "name": "002",
+            "alt": "Parkplatz Obermutten",
+            "date": "2025-10-18T08:36:30.000+02:00",
+            "width": 1920,
+            "height": 843
+          }
+        ],
+        "text": "Der Start meiner Wanderung wollte ich im 1850m hohen Obermutten beginnen. Dort führt eine einspurige und am Ende ungepflasterte Straße in vielen Serpentinen hinauf. In der Morgensonne stellte ich mein Auto um 8:30 auf dem Gratis-Parkplatz vor dem kleinen Ort ab."
+      },
+      {
+        "photos": [
+          {
+            "name": "003",
+            "alt": "Sonnenaufgang Obermutten",
+            "date": "2025-10-18T08:41:45.000+02:00",
+            "width": 1920,
+            "height": 799
+          },
+          {
+            "name": "004",
+            "alt": "Spazierweg Obermutten",
+            "date": "2025-10-18T08:43:06.000+02:00",
+            "width": 1920,
+            "height": 1002
+          }
+        ],
+        "text": "Nach der Durchquerung des Orts ging es einem Fahrweg flach ansteigend nach Süden."
+      },
+      {
+        "photos": [
+          {
+            "name": "005",
+            "alt": "Obermutten im Herbst",
+            "date": "2025-10-18T08:48:30.000+02:00",
+            "width": 1920,
+            "height": 810
+          }
+        ],
+        "text": "Am Ende der Wiesen wurde der Weg dann steiler und ich hatte einen schönen Blick zurück auf Obermutten."
+      },
+      {
+        "photos": [
+          {
+            "name": "006",
+            "alt": "Waldweg durch goldene Lärchen",
+            "date": "2025-10-18T08:52:57.000+02:00",
+            "width": 1836,
+            "height": 1080
+          }
+        ],
+        "text": "Schon hier hatte ich mein Tagesziel, die golden leuchtenden Lärchen, erreicht. Hier stand auch die erste Entscheidung an, wie herum ich die Wanderung machen sollte: zuerst unten am Hang entlang oder zuerst über die Gipfel. Ich entschied mich für den Hangweg, da dieser eventuell am Nachmittag im Schatten liegen würde."
+      },
+      {
+        "photos": [
+          {
+            "name": "007",
+            "alt": "Herbstwanderung",
+            "date": "2025-10-18T09:08:17.000+02:00",
+            "width": 1920,
+            "height": 965
+          }
+        ],
+        "text": "Schnell endete der Fahrweg und es ging auf einem Bergweg ohne große Steigungen weiter. Hier der Blick zurück auf eine kleine Hütte."
+      },
+      {
+        "photos": [
+          {
+            "name": "008",
+            "alt": "Farbiger Herbst",
+            "date": "2025-10-18T09:11:29.000+02:00",
+            "width": 1920,
+            "height": 992
+          },
+          {
+            "name": "009",
+            "alt": "Weg durch Lärchenwald",
+            "date": "2025-10-18T09:14:45.000+02:00",
+            "width": 1920,
+            "height": 985
+          }
+        ],
+        "text": "Wunderschön strahlten die Bäume in der flachen Sonne auf meinem weiteren Weg den Hang entlang."
+      },
+      {
+        "photos": [
+          {
+            "name": "010",
+            "alt": "Eiszapfen am Fels",
+            "date": "2025-10-18T09:30:47.000+02:00",
+            "width": 1502,
+            "height": 1080
+          }
+        ],
+        "text": "Nach einer Bachüberquerung kam ich dann aber in den Schatten des Gegenhangs. Dort war es deutlich sichtbar, dass es eigentlich ziemlich frostig war, denn das Wasser war gefroren."
+      },
+      {
+        "photos": [
+          {
+            "name": "011",
+            "alt": "Hangweg im Schatten",
+            "date": "2025-10-18T09:39:36.000+02:00",
+            "width": 1784,
+            "height": 1080
+          }
+        ],
+        "text": "Leider ohne Sonne ging es dann leicht absteigend nach Nordost."
+      },
+      {
+        "photos": [
+          {
+            "name": "012",
+            "alt": "Lärchen",
+            "date": "2025-10-18T09:51:28.000+02:00",
+            "width": 1920,
+            "height": 894
+          },
+          {
+            "name": "013",
+            "alt": "Alphüttenbeiz Tigia Alp Stierva",
+            "date": "2025-10-18T09:54:40.000+02:00",
+            "width": 1805,
+            "height": 1080
+          }
+        ],
+        "text": "Schnell erreichte ich aber das Ende des Schattenhangs und damit die Alp Stierva, die aber nicht mehr bewirtschaftet war.<br />Eigentlich wollte ich den Hang weiter bis nach Munter laufen. Da dies aber gut 150m Abstieg und einiges an Fahrstraßen bedeutete, entschied ich mich hier anders und stieg stattdessen auf dem Grat nach oben."
+      },
+      {
+        "photos": [
+          {
+            "name": "014",
+            "alt": "Hochmoor im Herbst",
+            "date": "2025-10-18T10:01:48.000+02:00",
+            "width": 1920,
+            "height": 802
+          },
+          {
+            "name": "015",
+            "alt": "Lenzerheide",
+            "date": "2025-10-18T10:06:45.000+02:00",
+            "width": 1920,
+            "height": 906
+          }
+        ],
+        "text": "Am Anfang des Grats ging es schön entlang dieses Hochmoors. Hier fiel dann auch der Blick zurück und es war das Tal von <a href='/alpine/lenzerheide' target='_blank'>Lenzerheide</a> zu sehen. Links davon der Piz Scalottas und rechts das Rothorn."
+      },
+      {
+        "photos": [
+          {
+            "name": "016",
+            "alt": "Surses",
+            "date": "2025-10-18T10:08:59.000+02:00",
+            "width": 1920,
+            "height": 912
+          }
+        ],
+        "text": "Und bei diesem Blick das Tal Richtung Savognin hinauf machte ich meine erste Pause nach 1,5h. Das Ziel meiner Wanderung befand sich an dem Pass rechts im Bild. Etwas bedauerte ich schon hier meine Entscheidung, nicht unten durch den schönen Wald weitergelaufen zu sein."
+      },
+      {
+        "photos": [
+          {
+            "name": "017",
+            "alt": "Aussichtsbank",
+            "date": "2025-10-18T10:23:43.000+02:00",
+            "width": 1920,
+            "height": 883
+          }
+        ],
+        "text": "Auf dem Grat hatte ich stattdessen noch die Aussicht zurück nach Obermutten. Hier kann man auch schön die Serpentinenstraße dort hinauf erkennen."
+      },
+      {
+        "photos": [
+          {
+            "name": "018",
+            "alt": "Grasbuckellandschaft",
+            "date": "2025-10-18T10:27:56.000+02:00",
+            "width": 904,
+            "height": 1080
+          }
+        ],
+        "text": "Der Grat war hier noch sehr breit und es ging über diese vielen Grasbuckel hinauf. Der Weg war nicht viel begangen und häufig nur durch das nächste Wegzeichen zu finden."
+      },
+      {
+        "photos": [
+          {
+            "name": "019",
+            "alt": "Gratweg im Herbst",
+            "date": "2025-10-18T10:36:23.000+02:00",
+            "width": 1903,
+            "height": 1080
+          }
+        ],
+        "text": "Dann bildete sich aber doch ein richtiger Grat heraus. Hier der Blick zurück."
+      },
+      {
+        "photos": [
+          {
+            "name": "020",
+            "alt": "Piz Mitgel",
+            "date": "2025-10-18T10:44:28.000+02:00",
+            "width": 1920,
+            "height": 988
+          }
+        ],
+        "text": "Und wieder der Blick Richtung Savognin. Das hohe Massiv ist der Piz Mitgel und das Tinzenhorn, wo mich mal eine <a href='/alpine/savognin/20181009' target='_blank>Wanderung zum Orgelpass</s> vorbei führte."
+      },
+      {
+        "photos": [
+          {
+            "name": "021",
+            "alt": "Graswanderung",
+            "date": "2025-10-18T10:50:23.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Schön und harmlos ging der Weg weiter. Ab hier stieg er dann steiler an und es wurde das erste mal an diesem Tag anstrengend. Wieder der Blick zurück."
+      },
+      {
+        "photos": [
+          {
+            "name": "022",
+            "alt": "Grüner Bergsee",
+            "date": "2025-10-18T11:05:28.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Oberhalb dieses grünen Bergsees erreichte ich um 11:00 den Hauptgrat, auf dem auch mein Rückweg gehen würde. Von der Alp Stierva waren es 400m Aufstieg gewesen."
+      },
+      {
+        "photos": [
+          {
+            "name": "023",
+            "alt": "Gratweg zur Ziteil",
+            "date": "2025-10-18T11:07:45.000+02:00",
+            "width": 1774,
+            "height": 1080
+          }
+        ],
+        "text": "Auf dem nun breiter ausgetretenem Weg ging es zuerst noch weiter auf dem Grat."
+      },
+      {
+        "photos": [
+          {
+            "name": "024",
+            "alt": "Vereister Weg",
+            "date": "2025-10-18T11:26:00.000+02:00",
+            "width": 720,
+            "height": 1080
+          }
+        ],
+        "text": "Anschließend bog der Weg nach links ab und nach etwas Abstieg wieder am Hang entlang. Man musste etwas aufpassen, da manchmal Wasser über den Weg geflossen und gefroren war. Ansonsten war der Weg aber weiterhin einfach."
+      },
+      {
+        "photos": [
+          {
+            "name": "025",
+            "alt": "Felssturz Brienz",
+            "date": "2025-10-18T11:44:47.000+02:00",
+            "width": 1849,
+            "height": 1080
+          }
+        ],
+        "text": "Tele hinüber zum Felssturz von Brienz, weshalb der Ort dort nun schon eine Weile evakuiert ist."
+      },
+      {
+        "photos": [
+          {
+            "name": "026",
+            "alt": "Piz Toissa",
+            "date": "2025-10-18T11:44:49.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Der Hangweg zog sich nun etwas und war nicht besonders spannend. Da ich nicht den unteren Hinweg gegangen war, wusste ich auch, dass ich ihn zweimal gehen musste."
+      },
+      {
+        "photos": [
+          {
+            "name": "027",
+            "alt": "Furcletta",
+            "date": "2025-10-18T11:58:53.000+02:00",
+            "width": 1920,
+            "height": 718
+          }
+        ],
+        "text": "Um 12:00 erreichte ich aber den Pass Furcletta und nun war es nicht mehr weit bis zur Ziteil."
+      },
+      {
+        "photos": [
+          {
+            "name": "028",
+            "alt": "Wanderung Ziteil",
+            "date": "2025-10-18T12:08:38.000+02:00",
+            "width": 1920,
+            "height": 678
+          },
+          {
+            "name": "029",
+            "alt": "Wallfahrtskirche Ziteil",
+            "date": "2025-10-18T12:11:02.000+02:00",
+            "width": 1920,
+            "height": 1068
+          },
+          {
+            "name": "030",
+            "alt": "Säulengang",
+            "date": "2025-10-18T12:12:00.000+02:00",
+            "width": 1872,
+            "height": 1080
+          }
+        ],
+        "text": "Und 10 Minuten später war ich am Ziel meiner Wanderung, der Wallfahrtskirche Ziteil. Diese auf über 2400m liegende Kirche wurde gebaut, da dort im 16. Jahrhundert Maria erschienen sein soll. Das jetzige Bauwerk stammt aus den 1960ern. Da sie nur in den Sommermonaten geöffnet ist, war nun im Oktober alles verbarrikadiert und außer meiner Mittagspause konnte ich dort nicht wirklich viel machen oder sehen. Hier traf ich auch ein paar andere Wanderer und Mountainbiker, da die Kirche auch über einen Fahrweg einfacherer von Munter erreichbar ist."
+      },
+      {
+        "photos": [
+          {
+            "name": "031",
+            "alt": "Bergweg durch Felsen im Gras",
+            "date": "2025-10-18T12:29:46.000+02:00",
+            "width": 1920,
+            "height": 776
+          }
+        ],
+        "text": "Gegen 12:30 machte ich mich dann auf meinen Rückweg, der nun für eine gute Stunde dem Hinweg glich. Zuerst wieder zur Furcletta."
+      },
+      {
+        "photos": [
+          {
+            "name": "032",
+            "alt": "Hangweg",
+            "date": "2025-10-18T12:44:17.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Und den langen Hangweg entlang, der nur selten so interessant wie hier war."
+      },
+      {
+        "photos": [
+          {
+            "name": "033",
+            "alt": "Gipfelkreuz Feil",
+            "date": "2025-10-18T13:25:52.000+02:00",
+            "width": 1920,
+            "height": 1008
+          }
+        ],
+        "text": "Den Hangweg beendete ich im Gipfelkreuz Feil nach knapp 80m Aufstieg auf 2500m Höhe. Dies war auch der höchste Punkt meiner Wanderung."
+      },
+      {
+        "photos": [
+          {
+            "name": "034",
+            "alt": "Piz Beverin",
+            "date": "2025-10-18T13:27:19.000+02:00",
+            "width": 1920,
+            "height": 818
+          }
+        ],
+        "text": "Da ich nun wieder auf dem Grat war, konnte ich auch auf der anderen Seite in das Tal des San Bernardino Passes hinabschauen. Auf der anderen Seite befindet sich der fast 3000m hohe <a href='/alpine/lenzerheide/20231001' target='_blank'>Piz Beverin</a>, den ich zwei Jahre zuvor bestiegen hatte."
+      },
+      {
+        "photos": [
+          {
+            "name": "035",
+            "alt": "Wanderwegweiser",
+            "date": "2025-10-18T13:39:41.000+02:00",
+            "width": 1920,
+            "height": 785
+          }
+        ],
+        "text": "Um 13:40 erreichte ich den Punkt, wo ich vormittags von rechts kommend auf den Hauptweg gestoßen war. Mein weiterer Weg ging nun links immer auf dem Grat lang weiter."
+      },
+      {
+        "photos": [
+          {
+            "name": "036",
+            "alt": "Grasberge",
+            "date": "2025-10-18T13:58:27.000+02:00",
+            "width": 1920,
+            "height": 692
+          }
+        ],
+        "text": "Hier ist der weitere Verlauf des Wegs sichtbar. Während der offizielle Wanderweg rechts an der kleinen Hütte am Muttnerhorn vorbei führt, entschied ich mich noch oben rüber zu gehen. Dort gibt es zwar keinen ausgezeichneten Weg, aber es war ein deutlicher Pfad erkennbar und es liefen dort auch ein paar andere Wanderer."
+      },
+      {
+        "photos": [
+          {
+            "name": "037",
+            "alt": "Wanderweg Muttnerhorn",
+            "date": "2025-10-18T14:18:13.000+02:00",
+            "width": 1920,
+            "height": 764
+          }
+        ],
+        "text": "Der Weg war einfach zu finden, denn es ging praktisch immer am Zaun entlang. Wenn im Sommer hier noch das Vieh weidet, ist es vermutlich etwas komplizierter."
+      },
+      {
+        "photos": [
+          {
+            "name": "038",
+            "alt": "Lärchenwald",
+            "date": "2025-10-18T14:28:03.000+02:00",
+            "width": 1920,
+            "height": 1020
+          }
+        ],
+        "text": "Blick hinab zu dem nun sonnigen Hang, den ich am Morgen im Schatten entlang gewandert war. Über den Grat hinten war danach mein Aufstieg erfolgt."
+      },
+      {
+        "photos": [
+          {
+            "name": "039",
+            "alt": "Obermutten Gratweg",
+            "date": "2025-10-18T14:28:12.000+02:00",
+            "width": 1708,
+            "height": 1080
+          }
+        ],
+        "text": "Und hier ist der gesamte harmlose Grat zu sehen, den ich in der letzten Stunde überquert hatte. Der weiße Berg hinten ist der fast 3000m hohe Piz Curvér."
+      },
+      {
+        "photos": [
+          {
+            "name": "040",
+            "alt": "Aussicht Muttenhorn",
+            "date": "2025-10-18T14:30:56.000+02:00",
+            "width": 1920,
+            "height": 807
+          }
+        ],
+        "text": "Den Gipfel des Muttenhorns (auch Muttner Hora genannt) hatte ich um 14:30 erreicht. Von dem 2400m hohen Gipfel waren es jetzt noch rund 550m Abstieg nach Obermutten."
+      },
+      {
+        "photos": [
+          {
+            "name": "041",
+            "alt": "Wanderung Muttner Hora",
+            "date": "2025-10-18T14:56:47.000+02:00",
+            "width": 1920,
+            "height": 1000
+          }
+        ],
+        "text": "Nach einer Pause ging es in vielen steilen Serpentinen den Grashang zur Muttner Alp hinab. Eigentlich nicht schwierig, aber der auftauende Frostboden war nun etwas schmierig.<br />Hinten links ist wieder der Piz Beverin zu sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "042",
+            "alt": "Herbstwanderung Muttner Alp",
+            "date": "2025-10-18T15:20:34.000+02:00",
+            "width": 1847,
+            "height": 1080
+          }
+        ],
+        "text": "An der Muttner Alp passte ich nicht auf und folgte ohne großes Nachdenken dem Wegweiser nach Obermutten. Ich wunderte mich zwar, dass es noch eine Stunde sein sollte, aber der Weg sah einladend aus. Den Weg, den ich eigentlich gehen wollte, wäre nach rechts auf dem Alpweg gegangen und hätte vermutlich nur 30 Minuten gedauert."
+      },
+      {
+        "photos": [
+          {
+            "name": "043",
+            "alt": "Wanderweg Muttnerhorn",
+            "date": "2025-10-18T15:22:08.000+02:00",
+            "width": 1888,
+            "height": 1080
+          }
+        ],
+        "text": "Durch eine mit Felsen geschmückte Landschaft ging es nun sehr schön bergab. Im Blick zurück war das Muttnerhorn zu sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "044",
+            "alt": "Obermutten mit Lärchen",
+            "date": "2025-10-18T15:24:44.000+02:00",
+            "width": 1705,
+            "height": 1080
+          }
+        ],
+        "text": "Und auch Obermutten war bereits zu sehen. Da der Weg aber immer mehr in die falsche Richtung abbog, wurde mir langsam klar, dass ich nicht auf dem geplanten Weg war."
+      },
+      {
+        "photos": [
+          {
+            "name": "045",
+            "alt": "Weg über Herbstwiese",
+            "date": "2025-10-18T15:30:53.000+02:00",
+            "width": 1721,
+            "height": 1080
+          },
+          {
+            "name": "046",
+            "alt": "Gefrorenes Gras",
+            "date": "2025-10-18T15:31:40.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Der Abstieg war aber so schön, dass ich es nicht lange bereute. Wie man sieht, hat das Raureif im Schatten den ganzen Tag überstanden. Der Unterschied zwischen gefühlter und wirklicher Temperatur war sehr groß."
+      },
+      {
+        "photos": [
+          {
+            "name": "047",
+            "alt": "Felsenlandschaft",
+            "date": "2025-10-18T15:37:59.000+02:00",
+            "width": 1694,
+            "height": 1080
+          }
+        ],
+        "text": "Der Grund, warum der Weg einen Umweg machen musste war, dass der Hang hier durch mehrere Felswände unterbrochen ist, die umgangen werden mussten. Oberhalb dieser Felswand war ich an der Muttner Alp vorbei gelaufen."
+      },
+      {
+        "photos": [
+          {
+            "name": "048",
+            "alt": "Samest Sura",
+            "date": "2025-10-18T15:44:57.000+02:00",
+            "width": 1606,
+            "height": 1080
+          }
+        ],
+        "text": "Um 15:45 erreichte ich die abgelegene Alp Samest Sura. Der Wegweiser mit 35 Minuten nach Obermutten demoralisierte mich etwas. Langsam hatte ich keine Lust mehr und nun war ich auch noch tiefer als mein Ziel. Das heißt ich hatte jetzt noch knapp 50 Meter Aufstieg vor mir."
+      },
+      {
+        "photos": [
+          {
+            "name": "049",
+            "alt": "Grillstelle im Fels",
+            "date": "2025-10-18T15:48:47.000+02:00",
+            "width": 1791,
+            "height": 1080
+          }
+        ],
+        "text": "Vorbei ging es an dieser originellen Grillstelle in einer Felsnische mit selbstgebauten Holzstühlen."
+      },
+      {
+        "photos": [
+          {
+            "name": "050",
+            "alt": "Blick aus schattigem Wald",
+            "date": "2025-10-18T15:50:51.000+02:00",
+            "width": 1798,
+            "height": 1080
+          },
+          {
+            "name": "051",
+            "alt": "Weg an steilem Hang",
+            "date": "2025-10-18T15:54:05.000+02:00",
+            "width": 1920,
+            "height": 1072
+          }
+        ],
+        "text": "Recht aufwändig gebaut querte der Wanderweg nun im Schatten den steilen, ungemütlichen Hang."
+      },
+      {
+        "photos": [
+          {
+            "name": "052",
+            "alt": "Herbstpanorama",
+            "date": "2025-10-18T16:08:35.000+02:00",
+            "width": 1920,
+            "height": 836
+          }
+        ],
+        "text": "Dann erreichte ich aber die Wiesen oberhalb von Obermutten und meinen Hinweg. Zeit für eine letzte Pause um die Sonnenstrahlen zu genießen und die müden Beine baumeln zu lassen."
+      },
+      {
+        "photos": [
+          {
+            "name": "053",
+            "alt": "Holzkirche Obermutten",
+            "date": "2025-10-18T16:17:49.000+02:00",
+            "width": 1920,
+            "height": 905
+          }
+        ],
+        "text": "Obermutten erreichte ich dann um 16:15. Dort befindet sich die höchstgelegene Holzkirche Europas, die 1718 erbaut wurde. Auch ein kleines Dorfmuseum und ein Gasthaus bietet der Ort. Nichts davon habe ich besucht."
+      }
+    ],
+    "outro": "Fazit: Zwischen Obermutten und der Ziteil ist die Landschaft sehr harmlos und eignet sich für schöne Höhenwanderungen mit wenig Aufstieg. Meine etwas planlose Wanderung war mit über 20km etwas arg lang. Man könnte aber z.B. den langen Abstecher zur Ziteil auslassen und nur bis zum Gipfelkreuz Feil laufen. Und ich hätte vermutlich lieber unten durch die Lärchen zur Ziteil laufen und statt dessen das Muttnerhorn auslassen sollen. Trotzdem war es eine lohnende Herbstwanderung bei schönstem Wetter."
+  }
+]
