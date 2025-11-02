@@ -1,0 +1,460 @@
+[
+  {
+    "destination": "alviergruppe",
+    "date": "d20251101",
+    "type": "hike",
+    "track": true,
+    "detailMap": "swiss",
+    "shortTitle": "Gonzen",
+    "title": "Schnapsgrotzen - Gonzen - Tschugga",
+    "title3d": {
+      "offsetY": 5,
+      "fontSize": 5.5,
+      "align": "left",
+      "width": 1920,
+      "height": 498
+    },
+    "movie": "XtQR2k2Mru0",
+    "intro": "In den letzten zwei Wochen gab es schon einiges an Schnee in den Bergen. Trotzdem wollte ich das einigermaßen schöne Wetter am Samstag nutzen und wählte eine Wanderung am Rheintal, wo der Föhn den Schnee schon weit hinauf geschmolzen hatte. Da ich trotzdem unter 2000m bleiben wollte, wählte ich den gut 1800m hohen Gonzen oberhalb von Sargans als Ziel.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Parkplatz Schnapsgrotzen",
+            "date": "2025-11-01T08:16:13.000+01:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "002",
+            "alt": "Aussichtspunkt Schnapsgrotzen",
+            "date": "2025-11-01T08:16:21.000+01:00",
+            "width": 1517,
+            "height": 1080
+          }
+        ],
+        "text": "Nach der Fahrt durch das nebelige Rheintal bog ich auf die schmale Straße nach Palfries ab. Eigentlich wollte ich auf dem letzten Gratis-Parkplatz parken, aber dieser war von Baumstämmen belegt. Deshalb fuhr ich 200m weiter hinauf und parkte auf dem P3 Schnapsgrotzen auf gut 1200m Höhe. Sämtliche Parkplätze Richtung Palfries kosten pauschal 10CHF.<br />Direkt am Parkplatz befindet sich schon ein kleiner Aussichtspunkt, bei dem man das Rheintal hinaufschauen kann. Um 8:15 begann ich mit meiner Wanderung."
+      },
+      {
+        "photos": [
+          {
+            "name": "003",
+            "alt": "Flussverbauungen",
+            "date": "2025-11-01T08:25:28.000+01:00",
+            "width": 696,
+            "height": 1080
+          }
+        ],
+        "text": "Ich ging zuerst auf gleicher Höhe den Hang entlang durch den Wald. Vorbei an dieser aufwändig gebauten Flussverbauung."
+      },
+      {
+        "photos": [
+          {
+            "name": "004",
+            "alt": "Panoramaweg am Morgen",
+            "date": "2025-11-01T08:29:40.000+01:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "005",
+            "alt": "Haus Frohsinn",
+            "date": "2025-11-01T08:31:52.000+01:00",
+            "width": 1678,
+            "height": 1080
+          }
+        ],
+        "text": "Schon nach 15min verließ ich aber den Wald und kam zum Haus Frohsinn. Dort endete auch der Fahrweg und es ging erstmal auf einem Wanderweg weiter."
+      },
+      {
+        "photos": [
+          {
+            "name": "006",
+            "alt": "Blick zum Falknis",
+            "date": "2025-11-01T08:34:51.000+01:00",
+            "width": 1920,
+            "height": 820
+          }
+        ],
+        "text": "Schon hier hatte ich eine schöne Aussicht über das Rheintal, auf dessen anderen Seite sich der 2500m hohe <a href='/alpine/praettigau/20180908' target='_blank'>Falknis</a> befindet. Leider gab es den ganzen Tag hohe Schleierwolken, die das Licht etwas trübten."
+      },
+      {
+        "photos": [
+          {
+            "name": "007",
+            "alt": "Hängebrücke",
+            "date": "2025-11-01T08:36:11.000+01:00",
+            "width": 1774,
+            "height": 1080
+          },
+          {
+            "name": "008",
+            "alt": "Brücke Lochbach",
+            "date": "2025-11-01T08:38:01.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Dann kam ich zur ersten Sehenswürdigkeit des Tages, die 2018 gebaute Hängebrücke über den Lochbach. Diese wippte recht spaßig beim Drübergehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "009",
+            "alt": "Rheintal mit Nebel",
+            "date": "2025-11-01T08:47:12.000+01:00",
+            "width": 1920,
+            "height": 507
+          },
+          {
+            "name": "010",
+            "alt": "Steiler Grasweg",
+            "date": "2025-11-01T08:55:20.000+01:00",
+            "width": 1268,
+            "height": 1080
+          }
+        ],
+        "text": "Anschließend verpasste ich eine Abzweigung, weshalb ich rund 30 zusätzliche Meter mehr diese steile Wiese hinauf wandern musste. Aber bei diesem Blick macht man das ja gerne."
+      },
+      {
+        "photos": [
+          {
+            "name": "011",
+            "alt": "Burg Gutenberg im Nebel",
+            "date": "2025-11-01T08:57:46.000+01:00",
+            "width": 1920,
+            "height": 986
+          }
+        ],
+        "text": "Im Rheintal waberten die Nebelschwaden - auch um die Burg Gutenberg in Liechtenstein. Hier hätte ich ein Teleobjektiv gut gebrauchen können, denn das sah toll aus."
+      },
+      {
+        "photos": [
+          {
+            "name": "012",
+            "alt": "Aussicht Berggasthaus Gonzen",
+            "date": "2025-11-01T09:20:08.000+01:00",
+            "width": 1777,
+            "height": 1080
+          },
+          {
+            "name": "013",
+            "alt": "Restaurant Gonzen",
+            "date": "2025-11-01T09:22:03.000+01:00",
+            "width": 1920,
+            "height": 1029
+          }
+        ],
+        "text": "Nach gut 200m steilem Aufstieg erreichte ich das neu gebaute Gasthaus Gonzen, bei dem aber noch keine Gäste waren. Bei diesem Aussichtsrestaurant könnte man auch mit dem Auto parken."
+      },
+      {
+        "photos": [
+          {
+            "name": "014",
+            "alt": "Straße Gasthaus Gonzen",
+            "date": "2025-11-01T09:22:41.000+01:00",
+            "width": 1920,
+            "height": 940
+          }
+        ],
+        "text": "Und auf dieser Zufahrtsstraße ging es auch nun für mich ein kleines Stück in die falsche Richtung weiter. Im Hintergrund der 2300m hohe Gauschla, auf den kein Wanderweg führt."
+      },
+      {
+        "photos": [
+          {
+            "name": "015",
+            "alt": "Blick zum Pizol",
+            "date": "2025-11-01T09:51:37.000+01:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "016",
+            "alt": "Rheintal Panorama",
+            "date": "2025-11-01T09:54:36.000+01:00",
+            "width": 1920,
+            "height": 816
+          }
+        ],
+        "text": "An der Alp Rieterhütten verließ ich den offiziellen Wanderweg zum Gonzen und lief stattdessen auf einem flachen Fahrweg den Hang weiter zur Abbruchkante. Denn ich hatte mir für den Aufstieg zum Gipfel einen alternativen Weg ausgesucht, auf dem ich mich jetzt schon befand."
+      },
+      {
+        "photos": [
+          {
+            "name": "017",
+            "alt": "Felswand",
+            "date": "2025-11-01T09:56:27.000+01:00",
+            "width": 720,
+            "height": 1080
+          }
+        ],
+        "text": "Hier hatte ich dann auch den ersten Tiefblick nach Mels und Wangs. Auf der anderen Talseite der schneebedeckte <a href='https://www.dplate.de/alpine/pizol' target='_blank'>Pizol</a>."
+      },
+      {
+        "photos": [
+          {
+            "name": "018",
+            "alt": "Schmaler Bergweg",
+            "date": "2025-11-01T10:03:27.000+01:00",
+            "width": 1714,
+            "height": 1080
+          },
+          {
+            "name": "019",
+            "alt": "Weg durch Lawinenverbauungen",
+            "date": "2025-11-01T10:09:38.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Obwohl der Weg nicht offiziell gekennzeichnet ist, scheint er viel begangen zu sein. Er geht in vielen nicht steilen Serpentinen durch die Lawinenverbauungen des abschüssigen Hangs. Trotzdem der schwierigste Teil des Tages, was aber mehr über die einfachen restlichen Wege aussagt."
+      },
+      {
+        "photos": [
+          {
+            "name": "020",
+            "alt": "Matschweg",
+            "date": "2025-11-01T10:17:46.000+01:00",
+            "width": 720,
+            "height": 1080
+          }
+        ],
+        "text": "Nach gut 200m Aufstieg auf diesem Weg erreichte ich den Hauptweg und offensichtlich die Matschgrenze. Denn so sah der Weg dort nun aus, vermutlich weil dort der Schnee gerade geschmolzen war. Der restliche Aufstieg zum Gonzen war also recht glitschig."
+      },
+      {
+        "photos": [
+          {
+            "name": "021",
+            "alt": "Rheintal Wanderung",
+            "date": "2025-11-01T10:21:08.000+01:00",
+            "width": 1920,
+            "height": 787
+          }
+        ],
+        "text": "Also zur Ablenkung lieber der schönere Blick auf das tiefer werdende Rheintal."
+      },
+      {
+        "photos": [
+          {
+            "name": "022",
+            "alt": "Wanderweg Gonzen",
+            "date": "2025-11-01T10:22:43.000+01:00",
+            "width": 1674,
+            "height": 1080
+          },
+          {
+            "name": "023",
+            "alt": "Wanderung Gonzen",
+            "date": "2025-11-01T10:24:11.000+01:00",
+            "width": 1703,
+            "height": 1080
+          }
+        ],
+        "text": "Ganz am Schluss wurde der Weg dann trocken und es ging auf dem kurzen Grat zum Gipfelkreuz des Gonzen, das ich bereits um 10:30 erreicht hatte."
+      },
+      {
+        "photos": [
+          {
+            "name": "024",
+            "alt": "Panorama Gonzen",
+            "date": "2025-11-01T10:24:41.000+01:00",
+            "width": 1920,
+            "height": 662
+          }
+        ],
+        "text": "Die tolle Aussicht auf dem Gonzen konnte ich ganz alleine genießen. Es wehte hier allerdings stürmisch der Föhn, so dass ich dann doch die Jacke anziehen musste."
+      },
+      {
+        "photos": [
+          {
+            "name": "025",
+            "alt": "Sargans von oben",
+            "date": "2025-11-01T10:25:10.000+01:00",
+            "width": 1892,
+            "height": 1080
+          },
+          {
+            "name": "026",
+            "alt": "Mels von oben",
+            "date": "2025-11-01T10:26:14.000+01:00",
+            "width": 1616,
+            "height": 1080
+          }
+        ],
+        "text": "Der respekteinflößende Tiefblick auf die 1300m tieferen Orte Sargans und Mels."
+      },
+      {
+        "photos": [
+          {
+            "name": "027",
+            "alt": "Aussicht Gonzen",
+            "date": "2025-11-01T10:28:26.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Und der Blick Richtung Walensee. Der Grasberg rechts ist der Tschugga, den ich mir genau in diesem Moment als zusätzliches Tagesziel vorgenommen hatte."
+      },
+      {
+        "photos": [
+          {
+            "name": "028",
+            "alt": "Weisstannental",
+            "date": "2025-11-01T10:37:25.000+01:00",
+            "width": 1805,
+            "height": 1080
+          }
+        ],
+        "text": "Blick das <a href='/alpine/pizol/20201114' target='_blank'>Weisstannental</a> hinauf."
+      },
+      {
+        "photos": [
+          {
+            "name": "029",
+            "alt": "Rhein",
+            "date": "2025-11-01T10:39:00.000+01:00",
+            "width": 1372,
+            "height": 1080
+          }
+        ],
+        "text": "Und die Aussicht den Rhein hinauf Richtung Graubünden. Dann machte ich mich auch schon wieder auf den Abstieg vom Gonzen. Da ich noch Grödeln im Rucksack hatte, zog ich sie nun über die Schuhe. Sie sind zwar für Schnee gedacht, machten sich aber auch erstaunlich gut um den Abstieg im Matsch zu vereinfachen."
+      },
+      {
+        "photos": [
+          {
+            "name": "030",
+            "alt": "Wanderung im November",
+            "date": "2025-11-01T10:47:45.000+01:00",
+            "width": 1920,
+            "height": 1013
+          }
+        ],
+        "text": "Nach 15min hatte ich den schlammigen Abstieg auch schon hinter mir und konnte hier den Blick das immer noch neblige Rheintal hinab genießen."
+      },
+      {
+        "photos": [
+          {
+            "name": "031",
+            "alt": "Alp Folla",
+            "date": "2025-11-01T11:00:08.000+01:00",
+            "width": 913,
+            "height": 1080
+          }
+        ],
+        "text": "Der offizielle Wanderweg biegt bei dieser Alp nach rechts ab. Da keine Tiere mehr auf den Wiesen sind, wollte ich einfach gerade aus direkt auf den Tschugga laufen. Dort kamen mir auch ein paar andere Wanderer entgegen."
+      },
+      {
+        "photos": [
+          {
+            "name": "032",
+            "alt": "Gonzen",
+            "date": "2025-11-01T11:21:08.000+01:00",
+            "width": 1920,
+            "height": 958
+          }
+        ],
+        "text": "Und hier hatte ich den anstrengenden Aufstieg auch schon fast geschafft. Beim Verschnaufen der Blick zurück zur Alp. Rechts der Gonzen. Insgesamt waren es auf den Tschugga 200m Extraaufstieg, also konnte ich damit die verpassten 200m vom Anfang der Wanderung ausgleichen."
+      },
+      {
+        "photos": [
+          {
+            "name": "033",
+            "alt": "Tschugga",
+            "date": "2025-11-01T11:32:07.000+01:00",
+            "width": 1920,
+            "height": 990
+          }
+        ],
+        "text": "Gegen 11:30 erreichte ich bereits den knapp 1900m hohen Gipfel des Tschugga. Auf diesen führt seltsamerweise gar kein offizieller Weg, er ist aber sehr einfach von Palfries aus erreichbar. So waren dort auch ein paar andere Wanderer oben."
+      },
+      {
+        "photos": [
+          {
+            "name": "034",
+            "alt": "Aussicht Tschugga",
+            "date": "2025-11-01T11:34:48.000+01:00",
+            "width": 1760,
+            "height": 1080
+          }
+        ],
+        "text": "Vom Tschugga hatte ich einen schönen Blick zum Walensee und den Churfirsten. Zeit für meine Mittagspause im böigen Wind."
+      },
+      {
+        "photos": [
+          {
+            "name": "035",
+            "alt": "Flache Wiese",
+            "date": "2025-11-01T11:58:13.000+01:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "036",
+            "alt": "Wanderung Palfries",
+            "date": "2025-11-01T12:02:18.000+01:00",
+            "width": 986,
+            "height": 1080
+          }
+        ],
+        "text": "Während der Tschugga wie der Gonzen nach Süden eine sehr steile Felswand hat, besteht der Tschugga nach Norden aus einer flachen Wiese, die ich nun an diesem Zaun entlang hinablief. Unterhalb des Gauschla befindet sich noch ein Parkplatz an der Straße nach Palfries, das hier links zu sehen ist. Statt mit dem Auto kann man nach Palfries auch mit einer kleinen Seilbahn von Ragnatsch hoch fahren."
+      },
+      {
+        "photos": [
+          {
+            "name": "037",
+            "alt": "Straße Palfries",
+            "date": "2025-11-01T12:15:26.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Und besagte Straße musste ich nun eine Serpentine hinablaufen. Autos waren aber nur wenige unterwegs, aber einige E-Mountainbiker fuhren hier hinauf."
+      },
+      {
+        "photos": [
+          {
+            "name": "038",
+            "alt": "Lärchen mit felsigen Bergen",
+            "date": "2025-11-01T12:24:13.000+01:00",
+            "width": 1920,
+            "height": 977
+          }
+        ],
+        "text": "Dann bog der Wanderweg aber ab und kürzte von nun an die langen Kurven der Straße ab. Hier gab es auch ein paar Lärchen, nur leider schien die Sonne nun immer weniger durch die Wolken."
+      },
+      {
+        "photos": [
+          {
+            "name": "039",
+            "alt": "Knorpelige Bäume",
+            "date": "2025-11-01T12:41:22.000+01:00",
+            "width": 1666,
+            "height": 1080
+          },
+          {
+            "name": "040",
+            "alt": "Baum mit Bauch",
+            "date": "2025-11-01T12:44:27.000+01:00",
+            "width": 720,
+            "height": 1080
+          }
+        ],
+        "text": "Der Weg hinab gefiel mir gut, nicht zu steil durch den lichten Wald. Zum Fotografieren gab es aber eher wenig, nur diese unförmigen Bäume."
+      },
+      {
+        "photos": [
+          {
+            "name": "041",
+            "alt": "Herbstlaub auf Weg",
+            "date": "2025-11-01T13:10:29.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Am Schluss ging es dann auf dem alten mit Steinen gepflasterten Alpweg, die man aber auf Grund des vielen Laubs nicht sehen konnte.<br />Um 13:15 erreichte ich bereits mein Auto und beendete meine Wanderung."
+      }
+    ],
+    "outro": "Fazit: Eine kürzere, aber schöne Novemberwanderung. Wirklich schwierig oder besonders anstrengend war es nicht. Es gibt dort sehr viele Wege und alles ist recht nah beieinander, man kann also auch andere Varianten machen. Die Aussicht auf den beiden Gipfeln war toll. Man darf sich aber nicht davon stören lassen, dass man sich nie mehr als 30 Minuten vom nächsten Parklatz befindet."
+  }
+]
