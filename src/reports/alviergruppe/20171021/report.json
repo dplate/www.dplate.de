@@ -7,7 +7,14 @@
     "detailMap": "swiss",
     "shortTitle": "Margelchopf",
     "title": "Berghaus Malbun - Margelchopf",
-    "movie": "Sqgt6EOsnJM",
+    "title3d": {
+      "offsetY": 3,
+      "fontSize": 8.2,
+      "align": "left",
+      "width": 1920,
+      "height": 590
+    },
+    "movie": "U5MlsvWSYJI",
     "intro": "Obwohl sich das Hoch an diesem Wochenende verabschieden sollte, bin ich am Samstag noch einmal in die Berge um die warmen Temperaturen auszunutzen. Mein eigentlicher Plan vom Berghaus Malbun auf den 2300m hohen Alvier zu wandern vertagte ich auf Grund von Restschnee und nahm mir stattdessen den 2160m hohen Margelchopf vor.",
     "landmarks": [
       {
@@ -21,7 +28,7 @@
           }
         ],
         "videos": [],
-        "text": "Als guter Ausgangspunkt für Wanderungen in der Alviergruppe dient das 1300m hoch gelegene Berghaus Malbun (nicht zu verwechseln mit dem Ort Malbun in Liechtenstein auf der anderen Seite des Rheintals). Das Berghaus ist über eine kleine Straße von Buchs aus erreichbar. Der große Parkplatz kostet 5€ or 6CHF, wobei 4CHF davon als Gutschein für das Restaurant verwendet werden können.<br />Ich startete meine Wanderung um 8:20."
+        "text": "Als guter Ausgangspunkt für Wanderungen in der Alviergruppe dient das 1300m hoch gelegene Berghaus Malbun (nicht zu verwechseln mit dem Ort Malbun in Liechtenstein auf der anderen Seite des Rheintals). Das Berghaus ist über eine kleine Straße von Buchs aus erreichbar. Der große Parkplatz kostete 5€ or 6CHF, wobei 4CHF davon als Gutschein für das Restaurant verwendet werden konnten.<br />Ich startete meine Wanderung um 8:20."
       },
       {
         "photos": [
@@ -34,7 +41,7 @@
           }
         ],
         "videos": [],
-        "text": "Ich entschied mich die Margelchopf-Rundwanderung gegen den Uhrzeigersinn zu machen. Etwas ungünstieg musste ich dafür erst rund 150m ins Ivelspustal absteigen. Aber ich dachte: besser am Anfang der Wanderung absteigen, als am Ende noch einen Aufstieg zu haben. Der Abstieg ins Tal führt gut ausgebaut hauptsächlich durch Wald, nur manchmal konnte man wie hier ins Rheintal blicken. Wie man sieht war das Wetter noch nicht so toll."
+        "text": "Ich entschied mich die Margelchopf-Rundwanderung gegen den Uhrzeigersinn zu machen. Etwas ungünstig musste ich dafür erst rund 150m ins Ivelspustal absteigen. Aber ich dachte: besser am Anfang der Wanderung absteigen, als am Ende noch einen Aufstieg zu haben. Der Abstieg ins Tal führt gut ausgebaut hauptsächlich durch Wald, nur manchmal konnte man wie hier ins Rheintal blicken. Wie man sieht war das Wetter noch nicht so toll."
       },
       {
         "photos": [
@@ -99,7 +106,7 @@
           }
         ],
         "videos": [],
-        "text": "Und schon vorbei an der ersten Hütte, der Alp Wisli. Ab hier wurde der Weg sehr unbegangen und er war nur durch vereinzelten Wegmarkierungen zu finden. Da es aber ohnehin nur eine Richtung gab (nämlich nach oben), ist das kein großes Problem."
+        "text": "Und schon vorbei an der ersten Hütte, der Alp Wisli. Ab hier wurde der Weg sehr wenig begangen und er war nur durch vereinzelten Wegmarkierungen zu finden. Da es aber ohnehin nur eine Richtung gab (nämlich nach oben), ist das kein großes Problem."
       },
       {
         "photos": [
@@ -112,7 +119,7 @@
           }
         ],
         "videos": [],
-        "text": "Blick nach oben über die Wiesen von Gamernei. Im Hintergrund wieder der Margelchopf. Der Abstieg wird nachher über den Grat links führen."
+        "text": "Blick nach oben über die Wiesen von Gampernei. Im Hintergrund wieder der Margelchopf. Der Abstieg wird nachher über den Grat links führen."
       },
       {
         "photos": [
@@ -125,7 +132,7 @@
           }
         ],
         "videos": [],
-        "text": "Vorbei ging es auch an der Skihütte Gampernei (Büza). Trotz des bewölktem Himmel war es schwül und der Aufstieg war ziemlich anstrengend."
+        "text": "Vorbei ging es auch an der Skihütte Gampernei <span data-silent>(Büza)</span>. Trotz des bewölktem Himmel war es schwül und der Aufstieg war ziemlich anstrengend."
       },
       {
         "photos": [
@@ -144,14 +151,14 @@
         "photos": [
           {
             "name": "011",
-            "alt": "Gamperney Rheintal",
+            "alt": "Gampernei Rheintal",
             "date": "2017-10-21T09:46:04.000+02:00",
             "width": 1920,
             "height": 576
           }
         ],
         "videos": [],
-        "text": "Blick über die Skihütte Gampernei hinab in Rheintal."
+        "text": "Blick über die Skihütte Gampernei hinab ins Rheintal."
       },
       {
         "photos": [
@@ -184,7 +191,7 @@
           }
         ],
         "videos": [],
-        "text": "Hier verließ ich den (ohnehin kaum erkennbaren) Weg und ging direkt den Grat zum Chapf hinauf. Der offizielle Weg geht hier etwas links vorbei."
+        "text": "Hier verließ ich den ohnehin kaum erkennbaren Weg und ging direkt den Grat zum Chapf hinauf. Der offizielle Weg geht hier etwas links vorbei."
       },
       {
         "photos": [
@@ -236,7 +243,7 @@
           }
         ],
         "videos": [],
-        "text": "Brrr, ganz schön steil."
+        "text": "Ganz schön steil."
       },
       {
         "photos": [
@@ -262,7 +269,7 @@
           }
         ],
         "videos": [],
-        "text": "Den Chapf hatte ich schließlich zm 10:45 erreicht. Ziemlich erschöpft machte ich nun meine erste längere Pause. Nun konnte ich auch auf der anderen Seite hinunterschauen. Im Hintergrund der Gamsberg, links der Margelchopf und unten im Tal die Alp Isisizsess (wer denkt sich diese Namen aus...).<br />Der Aufstieg auf den Margelchopf wird später von der anderen Seite erfolgen. Leider kann man nicht einfach daran vorbei dort hin gelangen, sondern ich musste zuerst zur Alp absteigen, um dann durch das Tal wieder hochzuwandern... besser noch etwas ausruhen."
+        "text": "Den Chapf hatte ich schließlich um 10:45 erreicht. Ziemlich erschöpft machte ich nun meine erste längere Pause. Nun konnte ich auch auf der anderen Seite hinunterschauen. Im Hintergrund der Gamsberg, links der Margelchopf und unten im Tal die Alp Isisizsess (wer denkt sich diese Namen aus...).<br />Der Aufstieg auf den Margelchopf wird später von der anderen Seite erfolgen. Leider kann man nicht einfach daran vorbei dort hin gelangen, sondern ich musste zuerst zur Alp absteigen, um dann durch das Tal wieder hochzuwandern... besser noch etwas ausruhen."
       },
       {
         "photos": [
@@ -301,7 +308,7 @@
           }
         ],
         "videos": [],
-        "text": "Nun aber Schluß mit Pause und den sehr steilen Abstieg hinab vom Chapf zur Alp Isisizsess. Der Grashang war sehr abschüssig, aber der Weg war ok."
+        "text": "Nun aber Schluss mit Pause und den sehr steilen Abstieg hinab vom Chapf zur Alp Isisizsess. Der Grashang war sehr abschüssig, aber der Weg war ok."
       },
       {
         "photos": [
@@ -321,7 +328,7 @@
           }
         ],
         "videos": [],
-        "text": "Ankunft an der Alp Isisizsess. Fast 200m Höhe verloren, die nun wieder aufgeholt werden mussten. Wahrscheinlich hätte man auch etwas oberhalb den Hang queren könnten, dort war eine Spur zu erkennen."
+        "text": "Ankunft an der Alp Isisizsess. Fast 200m Höhe verloren, die nun wieder aufgeholt werden mussten. Wahrscheinlich hätte man auch etwas oberhalb den Hang queren können, dort war eine Spur zu erkennen."
       },
       {
         "photos": [
@@ -412,7 +419,7 @@
           }
         ],
         "videos": [],
-        "text": "Erste Steilstufe der Wegs. Hier noch ohne Dratseil, aber schon ordentlich steil. Das Gestein ist aber fest und griffig, so dass ich mit Händen und Füssen gut hinauf kam."
+        "text": "Erste Steilstufe des Wegs. Hier noch ohne Drahtseil, aber schon ordentlich steil. Das Gestein ist aber fest und griffig, so dass ich mit Händen und Füßen gut hinauf kam."
       },
       {
         "photos": [
@@ -451,7 +458,7 @@
           }
         ],
         "videos": [],
-        "text": "Bei der zweiten Steilstufe hilf ein (dringend benötiges) Drahtseil. Auf dem Photo sieht es nicht so steil aus, aber es war gefühlt senkrecht."
+        "text": "Bei der zweiten Steilstufe hilft ein dringend benötigtes Drahtseil. Auf dem Photo sieht es nicht so steil aus, aber es war gefühlt senkrecht."
       },
       {
         "photos": [
@@ -516,7 +523,7 @@
           }
         ],
         "videos": [],
-        "text": "Nach dem steilen Aufstieg ist der Gipfel des Margelchopfs überraschend flach, groß und entspannend.<br />Und pünklich zum Höhenpunkt meiner Wanderung wurde das Wetter richtig gut."
+        "text": "Nach dem steilen Aufstieg ist der Gipfel des Margelchopfs überraschend flach, groß und entspannend.<br />Und pünktlich zum Höhepunkt meiner Wanderung wurde das Wetter richtig gut."
       },
       {
         "photos": [
@@ -542,7 +549,7 @@
           }
         ],
         "videos": [],
-        "text": "Blick über den Gipfel des Margelchopf von der anderen Seite aus."
+        "text": "Blick über den Gipfel des Margelchopfs von der anderen Seite aus."
       },
       {
         "photos": [
@@ -555,7 +562,7 @@
           }
         ],
         "videos": [],
-        "text": "Toller Blick Richtung Chässerrugg."
+        "text": "Toller Blick Richtung Chäserrugg."
       },
       {
         "photos": [
@@ -679,7 +686,7 @@
           }
         ],
         "videos": [],
-        "text": "Je tiefer ich kam, desto zivilisierte wurde die Landschaft. Hier ging es schon zeitweise auf einem Feldweg entlang. Im Hintergrund der begradigte Rhein und ganz hinten der Bodensee."
+        "text": "Je tiefer ich kam, desto zivilisierter wurde die Landschaft. Hier ging es schon zeitweise auf einem Feldweg entlang. Im Hintergrund der begradigte Rhein und ganz hinten der Bodensee."
       },
       {
         "photos": [

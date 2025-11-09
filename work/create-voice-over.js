@@ -4,11 +4,27 @@ const fs = require('fs');
 
 const projectPath = 'C:/Users/Roger/web/Dp3';
 const destination = 'alviergruppe';
-const reportDate = '20251101';
+const reportDate = '20171021';
 
 const client = new textToSpeech.TextToSpeechClient();
 
 const pronunciations = [
+  {
+    regex: /(isizer)/ig,
+    ipa: 'ˈiːsɪtsɐ'
+  },
+  {
+    regex: /(chapf)/ig,
+    ipa: 'xapf'
+  },
+  {
+    regex: /(chopfs)/ig,
+    ipa: 'kɔpfs'
+  },
+  {
+    regex: /(chopf)/ig,
+    ipa: 'kɔpf'
+  },
   {
     regex: /(carschina)/ig,
     ipa: 'ˌkaˈʃiːna'
