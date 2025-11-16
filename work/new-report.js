@@ -6,9 +6,9 @@ const sizeOf = require('image-size');
 const { DateTime } = require('luxon');
 
 const projectPath = 'C:/Users/Roger/web/Dp3';
-const sourcePath = 'D:/Bilder/2025/20251101_gonzen';
-const destination = 'alviergruppe';
-const reportDate = '20251101';
+const sourcePath = 'D:/Bilder/2025/20251114_itonskopf';
+const destination = 'montafon';
+const reportDate = '20251114';
 
 const newPhoto = async (sourcePhoto, targetPhotosPath, index) => {
   const photoNumber = (index + 1).toLocaleString('en-US', {

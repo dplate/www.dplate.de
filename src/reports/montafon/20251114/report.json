@@ -1,0 +1,611 @@
+[
+  {
+    "destination": "montafon",
+    "date": "d20251114",
+    "type": "hike",
+    "track": true,
+    "detailMap": null,
+    "shortTitle": "Itonskopf",
+    "title": "Bartholomäberg - Itonskopf",
+    "title3d": {
+      "offsetY": 3,
+      "fontSize": 7,
+      "align": "right",
+      "width": 1920,
+      "height": 543
+    },
+    "movie": "P6TdRPv2oYU",
+    "intro": "Die letzten warmen Tage des Novembers mussten für eine Wanderung genutzt werden. Ich entschied mich am Freitag nach Bartholomäberg im Montafon auf 1100m Höhe zu fahren, um die Bergkette oberhalb zu erkunden.<br />Gegen 9:00 stellte ich mein Auto auf dem 6€ teuren Parkplatz an der Kirche ab und folgte zunächst dem Wegweiser zum historischen Bergwerk.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Blick auf Zimba",
+            "date": "2025-11-14T09:14:30.000+01:00",
+            "width": 1920,
+            "height": 938
+          },
+          {
+            "name": "002",
+            "alt": "Parkplatz Bartholomäberg",
+            "date": "2025-11-14T09:15:50.000+01:00",
+            "width": 1645,
+            "height": 1080
+          }
+        ],
+        "text": "Zuerst ging es auf einer ziemlich befahrenen einspurigen Straße in ein paar Serpentinen den Hang hinauf. Es war mit 14° bereits sehr mild, aber leider brachte der warme Südwind auch einiges an Saharastaub, so dass es den ganzen Tag nie richtig sonnig wurde und die Sicht ziemlich diesig war."
+      },
+      {
+        "photos": [
+          {
+            "name": "003",
+            "alt": "Bergwerk Silbertal",
+            "date": "2025-11-14T09:34:45.000+01:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "004",
+            "alt": "Historisches Bergwerk Bartholomäberg",
+            "date": "2025-11-14T09:35:20.000+01:00",
+            "width": 720,
+            "height": 1080
+          }
+        ],
+        "text": "Nach rund einer halben Stunde erreichte ich das historische Bergwerk von Bartholomäberg. In dieser Gegend wurde schon seit der Römerzeit nach verschiedenen Erzen gegraben. Mit Voranmeldung kann man es besichtigen, ich schaute es mir aber nur kurz von außen an. "
+      },
+      {
+        "photos": [
+          {
+            "name": "005",
+            "alt": "Wanderweg Fritzensee",
+            "date": "2025-11-14T09:41:04.000+01:00",
+            "width": 1920,
+            "height": 963
+          }
+        ],
+        "text": "Nach dem Bergwerk ging der Wanderweg schöner über Wiesen weiter hinauf Richtung Fritzensee."
+      },
+      {
+        "photos": [
+          {
+            "name": "006",
+            "alt": "Fritzensee",
+            "date": "2025-11-14T09:48:35.000+01:00",
+            "width": 1896,
+            "height": 1080
+          }
+        ],
+        "text": "Schnell kam ich dann am kleinen Fritzensee auf 1500m Höhe an. Von hier kann man auf verschiedenen Wegen weiter gehen. Ich entschied mich, auf gleicher Höhe Richtung Osten weiter zu laufen, da dort auf der Karte noch zwei weitere Seen eingezeichnet waren."
+      },
+      {
+        "photos": [
+          {
+            "name": "007",
+            "alt": "Wegkreuz mit Bank",
+            "date": "2025-11-14T10:03:03.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Der Weg führt nun zunächst eine Weile auf einer Fahrstraße auf einem kleinen Absatz im Hang entlang. Da kam ich auf jeden Fall schnell voran."
+      },
+      {
+        "photos": [
+          {
+            "name": "008",
+            "alt": "Fulasee",
+            "date": "2025-11-14T10:08:44.000+01:00",
+            "width": 1920,
+            "height": 1008
+          }
+        ],
+        "text": "Der mittlere See war der nicht besonders ansehnliche Fulasee."
+      },
+      {
+        "photos": [
+          {
+            "name": "009",
+            "alt": "Alp mit Hochjoch",
+            "date": "2025-11-14T10:13:48.000+01:00",
+            "width": 908,
+            "height": 1080
+          },
+          {
+            "name": "010",
+            "alt": "Torasee",
+            "date": "2025-11-14T10:21:33.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Dann wurde der Hang immer steiler, der Blick fiel hinüber zum 2500m hohen Hochjoch und dem zugehörigen Skigebiet. Kurz danach erreichte ich den Torasee, der jetzt auch nicht gerade ein besonderes Highlight war. Aber die Landschaft drumherum hatte durchaus ihre Reize."
+      },
+      {
+        "photos": [
+          {
+            "name": "011",
+            "alt": "Wanderweg an steilem Hang",
+            "date": "2025-11-14T10:36:37.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Um 10:30 verließ ich dann endgültig das mit Fahrstraßen durchzogene Gebiet und es ging auf einem schönem Bergweg den steilen Hang hinauf."
+      },
+      {
+        "photos": [
+          {
+            "name": "012",
+            "alt": "Bergweg mit Kristberg",
+            "date": "2025-11-14T10:53:28.000+01:00",
+            "width": 1796,
+            "height": 1080
+          }
+        ],
+        "text": "Beim durchaus anstrengendem Aufstieg der Blick zurück. Hinten ist der Kristberg und dahinter das Skigebiet Sonnenkopf im Dunst zu erahnen."
+      },
+      {
+        "photos": [
+          {
+            "name": "013",
+            "alt": "Hochfläche Obere Wies",
+            "date": "2025-11-14T11:13:40.000+01:00",
+            "width": 1920,
+            "height": 780
+          }
+        ],
+        "text": "Dann erreichte ich die breite Wiese auf dem Höhenzug, der zwischen dem Silbertal im Montafon und dem Klostertal liegt. Ich entschied mich, noch einen kurzen Abstecher in die falsche Richtung zur Obere Wies zu machen, hier im Hintergrund."
+      },
+      {
+        "photos": [
+          {
+            "name": "014",
+            "alt": "Korallen-Riff-Knospe",
+            "date": "2025-11-14T11:18:06.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Dort befindet sich ein versteinertes Korallenriff. Für mich als Laie sah es nach normalen Kalkfelsen aus, aber vermutlich könnte man da auch ein paar Versteinerungen entdecken."
+      },
+      {
+        "photos": [
+          {
+            "name": "015",
+            "alt": "Obere Wies",
+            "date": "2025-11-14T11:19:18.000+01:00",
+            "width": 1920,
+            "height": 956
+          }
+        ],
+        "text": "Am Kreuz an der Obere Wies machte ich eine kleine Trinkpause. Rechts-hinten war auch schon das nächste Ziel zu sehen, der 2080m hohe Alpilakopf - noch 200m weiterer Aufstieg."
+      },
+      {
+        "photos": [
+          {
+            "name": "016",
+            "alt": "Wanderung Alpilakopf",
+            "date": "2025-11-14T11:29:24.000+01:00",
+            "width": 1920,
+            "height": 770
+          },
+          {
+            "name": "017",
+            "alt": "Spuren im Schnee",
+            "date": "2025-11-14T11:30:39.000+01:00",
+            "width": 720,
+            "height": 1080
+          }
+        ],
+        "text": "Und nun befand ich mich auch schon mitten im ziemlich steilen Aufstieg. Dort gab es auch noch etwas Restschnee, der aber zum Glück nicht gefroren, sondern griffig weich war. Runter wäre es aber vermutlich trotzdem rutschig gewesen."
+      },
+      {
+        "photos": [
+          {
+            "name": "018",
+            "alt": "Silbertal",
+            "date": "2025-11-14T11:45:01.000+01:00",
+            "width": 1920,
+            "height": 974
+          }
+        ],
+        "text": "Der Aufstieg schlauchte mich ziemlich, deshalb hatte ich lieber noch mal die trübe Aussicht zurück ins Silbertal (rechts) und Klostertal (links) genossen."
+      },
+      {
+        "photos": [
+          {
+            "name": "019",
+            "alt": "Wanderweg Itonskopf",
+            "date": "2025-11-14T11:50:35.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Dann tauchte das erste mal der Itonskopf auf, das Hauptziel meiner Wanderung. Wenn man den Alpilakopf auslassen würde (warum auch immer), würde man den hier sichtbaren Hangweg weiterlaufen."
+      },
+      {
+        "photos": [
+          {
+            "name": "020",
+            "alt": "Gipfel Alpilakopf",
+            "date": "2025-11-14T11:54:37.000+01:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "021",
+            "alt": "Aussicht Alpilakopf",
+            "date": "2025-11-14T11:56:06.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Den Gipfel des Alpilakopf erreichte ich dann kurz danach auf einem einfachen Grasweg um 12:00. Das Gipfelkreuz dort ist ziemlich rudimentär, aber der Berg bietet eine schöne Aussicht."
+      },
+      {
+        "photos": [
+          {
+            "name": "022",
+            "alt": "Sonntagskopf",
+            "date": "2025-11-14T11:57:48.000+01:00",
+            "width": 1802,
+            "height": 1080
+          }
+        ],
+        "text": "In der anderen Richtung war links wieder der Itonskopf und rechts der weglose Sonntagskopf zu sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "023",
+            "alt": "Klostertal",
+            "date": "2025-11-14T11:58:13.000+01:00",
+            "width": 1920,
+            "height": 1072
+          }
+        ],
+        "text": "Blick das Klostertal hinauf Richtung Arlberg. Das Bild ist stark nachbearbeitet, damit man überhaupt was erkennen kann."
+      },
+      {
+        "photos": [
+          {
+            "name": "024",
+            "alt": "Gratweg Itonskopf",
+            "date": "2025-11-14T12:02:06.000+01:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "025",
+            "alt": "Bergwanderung Montafon",
+            "date": "2025-11-14T12:04:32.000+01:00",
+            "width": 720,
+            "height": 1080
+          }
+        ],
+        "text": "Über den harmlosen Gratweg ging ich nun hinüber zum Itonskopf, auf den es aber zum Glück von der Rückseite hinaufgeht."
+      },
+      {
+        "photos": [
+          {
+            "name": "026",
+            "alt": "Hangweg",
+            "date": "2025-11-14T12:08:38.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Einfach ging es unterhalb der Felswand um den Itonskopf herum."
+      },
+      {
+        "photos": [
+          {
+            "name": "027",
+            "alt": "Schild Alpiner Steig",
+            "date": "2025-11-14T12:12:09.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Dann erreichte ich den Punkt, wo der kurze Abstecher auf den Gipfel abzweigt. Ein Schild warnt dort vor den Gefahren."
+      },
+      {
+        "photos": [
+          {
+            "name": "028",
+            "alt": "Schwierigkeit Itonskopf",
+            "date": "2025-11-14T12:13:55.000+01:00",
+            "width": 911,
+            "height": 1080
+          },
+          {
+            "name": "029",
+            "alt": "Weg mit Stufen",
+            "date": "2025-11-14T12:15:16.000+01:00",
+            "width": 889,
+            "height": 1080
+          },
+          {
+            "name": "030",
+            "alt": "Alpiner Steig Itonskopf",
+            "date": "2025-11-14T12:16:52.000+01:00",
+            "width": 856,
+            "height": 1080
+          }
+        ],
+        "text": "Der kurze Weg durch den Fels hinauf auf den Gipfel wurde ziemlich gut gesichert und ausgebaut. Nur das durchgängig vorhandene Drahtseil wurde bereits für den Winter abgehängt und war damit keine große Hilfe mehr. Im nahen Alpstein wäre das eher ein rot-weiß markierter Weg."
+      },
+      {
+        "photos": [
+          {
+            "name": "031",
+            "alt": "Gipfelkreuz Itonskopf",
+            "date": "2025-11-14T12:19:18.000+01:00",
+            "width": 1920,
+            "height": 964
+          }
+        ],
+        "text": "Den 2090m hohen Gipfel des Itonskopf erreichte ich um 12:20. Hier wehte ein starker Wind und es war nicht sehr gemütlich. Deshalb verzichtete ich hier auf meine Mittagspause und hielt mich nur kurz auf."
+      },
+      {
+        "photos": [
+          {
+            "name": "032",
+            "alt": "Alpendohle",
+            "date": "2025-11-14T12:19:32.000+01:00",
+            "width": 1920,
+            "height": 1036
+          }
+        ],
+        "text": "Nur eine Alpendohle leistete mir Gesellschaft, bisher war ich noch keinen anderen Wanderern an diesem Werktag begegnet."
+      },
+      {
+        "photos": [
+          {
+            "name": "033",
+            "alt": "Alpilakopf",
+            "date": "2025-11-14T12:21:59.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Blick zurück zum zuvor besuchten Alpilakopf."
+      },
+      {
+        "photos": [
+          {
+            "name": "034",
+            "alt": "Weg durch Fels",
+            "date": "2025-11-14T12:28:04.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Dann machte ich mich auf den Abstieg. Hier zu sehen der schwierigste Abschnitt."
+      },
+      {
+        "photos": [
+          {
+            "name": "035",
+            "alt": "Leichte Kraxelei",
+            "date": "2025-11-14T12:39:56.000+01:00",
+            "width": 851,
+            "height": 1080
+          },
+          {
+            "name": "036",
+            "alt": "Rundwanderung Itonskopf",
+            "date": "2025-11-14T12:41:26.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Zurück auf dem Hauptweg war ich dann doch überrascht, als auch mein weiterer Weg zum Wannaköpfle blau-weiß markiert war. Dass anscheinend nur wegen diesem kurzen Stück über Fels. Das war nun wirklich nicht schwierig oder besonders gefährlich.<br />Hier der Blick zurück, im Hintergrund der Itonskopf."
+      },
+      {
+        "photos": [
+          {
+            "name": "037",
+            "alt": "Restschnee",
+            "date": "2025-11-14T12:47:31.000+01:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "038",
+            "alt": "Weg durch Latschenkiefer",
+            "date": "2025-11-14T13:00:02.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Der weitere Weg zum Wannaköpfle gefiel mir gut, da dieser schön durch Latschenkiefern hindurch führt. Dabei verpasste ich eine inoffizielle Abkürzung zum Gipfel. Aber da es alles keine großen Entfernungen sind, machte es keinen großen Unterschied. Außerdem kamen mir nun endlich andere Wanderer entgegen."
+      },
+      {
+        "photos": [
+          {
+            "name": "039",
+            "alt": "Aussicht Wannaköpfle",
+            "date": "2025-11-14T13:07:45.000+01:00",
+            "width": 1714,
+            "height": 1080
+          },
+          {
+            "name": "040",
+            "alt": "Panorama Wannaköpfle",
+            "date": "2025-11-14T13:07:50.000+01:00",
+            "width": 1920,
+            "height": 802
+          }
+        ],
+        "text": "Den 2030m hohen Gipfel des Wannaköpfle erreichte ich kurz nach 13:00. Wo genau auf diesem Buckel der Gipfel ist, war nicht einfach auszumachen, denn es gibt dort kein Kreuz oder Schild. Dieser einfache Berg kann auch im Winter mit Schneeschuhen begangen werden.<br />Hier machte ich nun endlich etwas windgeschützt meine Mittagspause."
+      },
+      {
+        "photos": [
+          {
+            "name": "041",
+            "alt": "Wanderweg Wannaköpfle",
+            "date": "2025-11-14T13:31:44.000+01:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Sehr schön ging der Weg dann über Wiesen vom Wannaköpfle hinab."
+      },
+      {
+        "photos": [
+          {
+            "name": "042",
+            "alt": "Monteneu",
+            "date": "2025-11-14T13:38:55.000+01:00",
+            "width": 1885,
+            "height": 1080
+          }
+        ],
+        "text": "Nach 150m Abstieg erreichte ich den Aussichtspunkt Monteneu. Im Hintergrund konnte ich die <a href='/alpine/praettigau/20241102' target='_blank'>Sulzfluh</a> auf der anderen Seite des Tals erahnen."
+      },
+      {
+        "photos": [
+          {
+            "name": "043",
+            "alt": "Jagdhütte",
+            "date": "2025-11-14T13:58:54.000+01:00",
+            "width": 1824,
+            "height": 1080
+          }
+        ],
+        "text": "Weiter schön ging es hinab zur sogenannten Jagdhütte. Überall hier gibt es Abzweigungen Richtung Fritzensee, wo man die Wanderung auch abkürzen könnte. Ich folgte aber dem Wegweiser zum Rellseck."
+      },
+      {
+        "photos": [
+          {
+            "name": "044",
+            "alt": "Silberdistel",
+            "date": "2025-11-14T14:01:41.000+01:00",
+            "width": 1127,
+            "height": 1080
+          }
+        ],
+        "text": "Die Blumen werden im November etwas rar, deshalb hier nur ein Foto einer Silberdistel."
+      },
+      {
+        "photos": [
+          {
+            "name": "045",
+            "alt": "Weg an Waldrand",
+            "date": "2025-11-14T14:07:51.000+01:00",
+            "width": 1920,
+            "height": 1063
+          }
+        ],
+        "text": "Einfach ging es weiter ohne störende Fahrwege bergab."
+      },
+      {
+        "photos": [
+          {
+            "name": "046",
+            "alt": "Gasthaus Rellseck",
+            "date": "2025-11-14T14:18:46.000+01:00",
+            "width": 1803,
+            "height": 1080
+          }
+        ],
+        "text": "Dann erreichte ich das Rellseck um 14:20, das vor allem wegen seinem Gasthaus ein Ziel im Sommer und Winter ist. Jetzt im November war es allerdings geschlossen."
+      },
+      {
+        "photos": [
+          {
+            "name": "047",
+            "alt": "Rellseck",
+            "date": "2025-11-14T14:20:39.000+01:00",
+            "width": 1920,
+            "height": 843
+          },
+          {
+            "name": "048",
+            "alt": "Johanneskapelle Rellseck",
+            "date": "2025-11-14T14:25:22.000+01:00",
+            "width": 1920,
+            "height": 1006
+          }
+        ],
+        "text": "Neben dem Gasthof gibt es dort noch die hübsche Johanneskapelle mit normalerweise schöner Aussicht Richtung Rheintal."
+      },
+      {
+        "photos": [
+          {
+            "name": "049",
+            "alt": "Aussicht Rellseck",
+            "date": "2025-11-14T14:27:19.000+01:00",
+            "width": 1920,
+            "height": 713
+          }
+        ],
+        "text": "Von Rellseck hätte ich nun auf der Zufahrtsstraße zurück nach Bartholomäberg laufen können. Ich fand aber auf der Karte noch eine Alternative unterhalb, auf der ich mich nun bereits befand."
+      },
+      {
+        "photos": [
+          {
+            "name": "050",
+            "alt": "Glockenblume",
+            "date": "2025-11-14T14:38:35.000+01:00",
+            "width": 775,
+            "height": 1080
+          }
+        ],
+        "text": "Und da entdeckte ich tatsächlich noch eine richtige Blüte am Wegrand."
+      },
+      {
+        "photos": [
+          {
+            "name": "051",
+            "alt": "Wanderweg Rellseck",
+            "date": "2025-11-14T14:44:02.000+01:00",
+            "width": 1745,
+            "height": 1080
+          }
+        ],
+        "text": "Nach einem zügigen Abstieg auf einem Wanderweg durch den Wald kam ich hier an dem oberen Rand von Weiden heraus. Im Tal waren die Speicherseen bei Vandans zu sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "052",
+            "alt": "Alte Scheune mit Tanne",
+            "date": "2025-11-14T14:49:34.000+01:00",
+            "width": 1820,
+            "height": 1080
+          }
+        ],
+        "text": "Ganz hübsch ging es nun weiter an einzelnen Scheunen vorbei hinab."
+      },
+      {
+        "photos": [
+          {
+            "name": "053",
+            "alt": "Bartholomäberg",
+            "date": "2025-11-14T15:05:55.000+01:00",
+            "width": 1920,
+            "height": 921
+          }
+        ],
+        "text": "Gegen 15:00 kam ich aber auf eine Asphaltstraße und es ging ohne weitere Steigung den Hang entlang zurück nach Bartholomäberg."
+      },
+      {
+        "photos": [
+          {
+            "name": "054",
+            "alt": "Wallfahrtskirche Bartholomäberg",
+            "date": "2025-11-14T15:17:20.000+01:00",
+            "width": 1350,
+            "height": 1080
+          }
+        ],
+        "text": "Die Kirche und meinen Parkplatz erreichte ich um 15:15 und damit beendete ich meine Wanderung bei unnatürlichen warmen 18°."
+      }
+    ],
+    "outro": "Fazit: Der Itonskopf bietet etwas einfache Kraxelei und die Wege rund um das Wannaköpfle fand ich schön. Beim Aufstieg ließen sich die vielen Fahrwege leider nicht vermeiden. Der Saharasand hatte die Sicht und Stimmung leider auch etwas getrübt."
+  }
+]
