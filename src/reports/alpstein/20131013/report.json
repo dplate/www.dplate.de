@@ -2,13 +2,20 @@
   {
     "destination": "alpstein",
     "date": "d20131013",
-    "type": "hike",
+    "type": "winterHike",
     "track": true,
     "detailMap": "swiss",
     "shortTitle": "Kronberg",
     "title": "Schwägalp - Kronberg",
-    "movie": "zxMHNBC2iPY",
-    "intro": "Nach 1 1/2 Monaten Nebel und/oder Regen am Bodensee musste ich die Sonne diesen Sonntag so richtig genießen. Richtig hoch hinaus ging es auf Grund des Neuschnees nicht, deshalb habe ich mich für die Schwägalp am Säntis entschieden, um etwas den Winter zu spüren.",
+    "title3d": {
+      "align": "right",
+      "offsetY": 1,
+      "fontSize": 9,
+      "width": 1920,
+      "height": 579
+    },
+    "movie": "6BOa2R3lefc",
+    "intro": "Nach über einem Monat Nebel und Regen am Bodensee wollte ich die Sonne an diesem Sonntag so richtig genießen. Richtig hoch hinaus ging es auf Grund des Neuschnees nicht, deshalb habe ich mich für die Schwägalp am Säntis entschieden, auch um etwas den Winter zu spüren.",
     "landmarks": [
       {
         "photos": [
@@ -47,7 +54,7 @@
           }
         ],
         "videos": [],
-        "text": "Oben (1300m) angekommen lag ca. 10-15cm leicht angefrorener Schnee. Ich folgte dem schon gut ausgetrampelten Weg Richtung Chammhalde, einem großen Schuttkegel."
+        "text": "Oben auf 1300 Metern angekommen lag ca. 10-15cm leicht angefrorener Schnee. Ich folgte dem schon gut ausgetretenen Weg Richtung Chammhalde, einem großen Schuttkegel."
       },
       {
         "photos": [
@@ -158,7 +165,7 @@
           }
         ],
         "videos": [],
-        "text": "Und nochmal Richtung Osten. Diesmal ist der Hohe Kasten sichtbar (Mitte), der noch auf meiner Liste für dieses Jahr steht."
+        "text": "Und nochmal Richtung Osten. Diesmal ist der Hohe Kasten sichtbar (Mitte), der noch auf meiner Liste für dieses Jahr stand."
       },
       {
         "photos": [
@@ -204,7 +211,7 @@
           }
         ],
         "videos": [],
-        "text": "Und jetzt war ich ganz oben (1700m). Endlich ist die Aussicht nach Norden ins Flachland möglich. Im vorderen Bereich ist das Appenzeller Land und ganz hinten (dank guter Sicht) ist auch der Bodensee sichtbar.<br />\n<span data-silent>Hochauflösendes Panorama (300MPixel). Am besten mit GoogleEarth anschauen:<br />\n<a href=\"https://www.gigapan.com/gigapans/142406.kml\" onclick=\"this.target='_blank';\">https://www.gigapan.com/gigapans/142406.kml</a></span>"
+        "text": "Und jetzt war ich ganz oben (1700m). Endlich ist die Aussicht nach Norden ins Flachland möglich. Im vorderen Bereich ist das Appenzeller Land und ganz hinten (dank guter Sicht) ist auch der Bodensee sichtbar.<br />\n<span data-silent>Hochauflösendes Panorama (300MPixel). Am besten mit GoogleEarth anschauen:<br /><a href=\"https://www.gigapan.com/gigapans/142406.kml\" onclick=\"this.target='_blank';\">https://www.gigapan.com/gigapans/142406.kml</a></span>"
       },
       {
         "photos": [

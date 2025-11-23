@@ -4,34 +4,44 @@
     "date": "d20140927",
     "type": "hike",
     "track": true,
-    "detailMap": "austria",
+    "detailMap": null,
     "shortTitle": "Bödele",
     "title": "Bödele - Fohramoos",
-    "movie": "9tqSmvoeL9s",
-    "intro": "Erst Mittags ging es am letzten Samstag los zu einem Spaziergang auf dem Bödele, dem Hausberg Dornbirns oberhalb des Rheintals.<br />\nBei schönstem und warmem Herbstwetter Ankunft auf den großen Parkplätzen entlang der Passstraße des Bödeles.",
+    "title3d": {
+      "align": "right",
+      "offsetY": 1,
+      "fontSize": 10,
+      "width": 1920,
+      "height": 552
+    },
+    "movie": "3LfWzWuec_I",
+    "intro": "Erst Mittags ging es am Samstag los zu einem Spaziergang auf dem Bödele, dem Hausberg Dornbirns oberhalb des Rheintals.<br />\nBei schönstem und warmem Herbstwetter Ankunft auf den großen Parkplätzen entlang der Passstraße des Bödeles.",
     "landmarks": [
       {
         "photos": [
           {
             "name": "002",
+            "alt": "Moorsee",
             "date": "2014-09-27T13:27:45.000+02:00",
             "width": 1776,
             "height": 1080
           }
         ],
         "videos": [],
-        "text": "Zuerst ging es auf eine Runde durch das Fohramoos, einem großen Moor unter Naturschutz mit Wald und einzelnen Wiesen. Zuerst ging es um einen (aufgestauten) Moorsee mit tiefschwarzem Wasser und tollen Spiegelungen."
+        "text": "Zuerst ging es auf eine Runde durch das Fohramoos, einem großen Moor unter Naturschutz mit Wald und einzelnen Wiesen. Am Anfang ging es um einen (aufgestauten) Moorsee mit tiefschwarzem Wasser und tollen Spiegelungen."
       },
       {
         "photos": [
           {
             "name": "004",
+            "alt": "Fohramoos",
             "date": "2014-09-27T14:03:29.000+02:00",
             "width": 1620,
             "height": 1080
           },
           {
             "name": "006",
+            "alt": "Moorwiese",
             "date": "2014-09-27T14:05:00.000+02:00",
             "width": 1620,
             "height": 1080
@@ -44,12 +54,14 @@
         "photos": [
           {
             "name": "009",
+            "alt": "Holzsteg",
             "date": "2014-09-27T14:11:09.000+02:00",
             "width": 720,
             "height": 1080
           },
           {
             "name": "011",
+            "alt": "Moorweg",
             "date": "2014-09-27T14:12:37.000+02:00",
             "width": 1620,
             "height": 1080
@@ -62,18 +74,21 @@
         "photos": [
           {
             "name": "012",
+            "alt": "Herbstgras",
             "date": "2014-09-27T14:12:45.000+02:00",
             "width": 1701,
             "height": 1080
           },
           {
             "name": "013",
+            "alt": "Steg durch Moor",
             "date": "2014-09-27T14:13:01.000+02:00",
             "width": 720,
             "height": 1080
           },
           {
             "name": "014",
+            "alt": "Leuchtendes Gras",
             "date": "2014-09-27T14:13:45.000+02:00",
             "width": 1620,
             "height": 1080
@@ -86,12 +101,14 @@
         "photos": [
           {
             "name": "015",
+            "alt": "Wurzeln",
             "date": "2014-09-27T14:14:56.000+02:00",
             "width": 720,
             "height": 1080
           },
           {
             "name": "016",
+            "alt": "Wurzeln mit Moos",
             "date": "2014-09-27T14:15:50.000+02:00",
             "width": 1620,
             "height": 1080
@@ -104,54 +121,59 @@
         "photos": [
           {
             "name": "018",
+            "alt": "Moos mit Wasser",
             "date": "2014-09-27T14:28:55.000+02:00",
             "width": 1920,
             "height": 1074
           }
         ],
         "videos": [],
-        "text": "Und natürlich viel Wasser."
+        "text": "Und natürlich gab es auch viel Wasser."
       },
       {
         "photos": [
           {
             "name": "021",
+            "alt": "Ferienhäuser",
             "date": "2014-09-27T14:53:29.000+02:00",
             "width": 1920,
             "height": 772
           }
         ],
         "videos": [],
-        "text": "Nach dem Moor geht es entlang des Skigebiets und durch weitere Ferienhäuser zurück zur Straße.<br />\nDort dann eine gemütliche Mittagspause auf der Terrasse des Berghof Fetz."
+        "text": "Nach dem Moor ging es entlang des Skigebiets und durch weitere Ferienhäuser zurück zur Straße.<br />\nDort dann eine gemütliche Mittagspause auf der Terrasse des Berghof Fetz."
       },
       {
         "photos": [
           {
             "name": "023",
+            "alt": "Bödele",
             "date": "2014-09-27T16:20:31.000+02:00",
             "width": 1620,
             "height": 1080
           }
         ],
         "videos": [],
-        "text": "Nach der Pause ging es dann zu einer weiteren Runde auf der anderen Seite der Straße. Zuerst ging es auf schmalem Steg durch ein weiteres Moor über den eigentlichen (etwas tiefer liegendem) Pass."
+        "text": "Nach der Pause ging es dann zu einer weiteren Runde auf der anderen Seite der Straße. Zuerst ging es auf schmalem Steg durch ein weiteres Moor über den etwas tiefer liegendem eigentlichen Pass."
       },
       {
         "photos": [
           {
             "name": "025",
+            "alt": "Geißkopf",
             "date": "2014-09-27T16:54:16.000+02:00",
             "width": 1620,
             "height": 1080
           }
         ],
         "videos": [],
-        "text": "Und danach hoch auf einer kleinen Straße und das letzte Stück über eine Weide auf den kleinen Gipfel des Geißkopf. Aussicht gibts dort leider nur Richtung Bregenzerwald (die kleine Spitze ist z.B. die Mittagsspitze von Damüls). Der Blick zum Bodensee ist versperrt durch viele Tannen."
+        "text": "Und danach hoch auf einer kleinen Straße und das letzte Stück über eine Weide auf den kleinen Gipfel des Geißkopfs. Aussicht gibts dort leider nur Richtung Bregenzerwald (die kleine Spitze ist z.B. die Mittagsspitze von Damüls). Der Blick zum Bodensee ist versperrt durch viele Tannen."
       },
       {
         "photos": [
           {
             "name": "026",
+            "alt": "Abendstimmung",
             "date": "2014-09-27T16:54:49.000+02:00",
             "width": 1920,
             "height": 888
