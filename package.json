@@ -10,33 +10,31 @@
     "assert": "2.0.0",
     "babel-plugin-styled-components": "2.1.4",
     "browserify-zlib": "0.2.0",
-    "cesium": "1.126.0",
-    "gatsby": "5.14.1",
-    "gatsby-plugin-google-gtag": "5.14.0",
-    "gatsby-plugin-styled-components": "6.14.0",
-    "gatsby-source-filesystem": "5.14.0",
-    "gatsby-transformer-json": "5.14.0",
+    "cesium": "1.136.0",
+    "gatsby": "5.15.0",
+    "gatsby-plugin-google-gtag": "5.15.0",
+    "gatsby-plugin-styled-components": "6.15.0",
+    "gatsby-source-filesystem": "5.15.0",
+    "gatsby-transformer-json": "5.15.0",
     "https-browserify": "1.0.0",
     "prop-types": "15.8.1",
     "react": "18.3.1",
     "react-dom": "18.3.1",
     "react-intersection-observer": "9.15.1",
-    "react-spring": "9.7.5",
+    "react-spring": "10.0.3",
     "stream-browserify": "3.0.0",
     "stream-http": "3.2.0",
     "styled-components": "6.1.15",
-    "url": "0.11.4",
     "util": "0.12.5"
   },
   "devDependencies": {
     "@google-cloud/text-to-speech": "6.1.0",
-    "copy-webpack-plugin": "12.0.2",
-    "gm": "1.25.0",
-    "image-size": "1.2.0",
+    "copy-webpack-plugin": "13.0.1",
+    "image-size": "1.2.1",
     "jpeg-exif": "1.1.4",
     "jsonfile": "6.1.0",
     "luxon": "3.5.0",
-    "prettier": "3.4.2",
+    "prettier": "3.7.4",
     "strip-pragma-loader": "1.0.1",
     "tinify": "1.7.1",
     "webpack": "5.97.1"
@@ -44,6 +42,7 @@
   "overrides": {
     "react-server-dom-webpack@0.0.0-experimental-c8b778b7f-20220825": {
       "react": "^18.0.0"
-    }
+    },
+    "uri-js": "npm:uri-js-replace"
   }
 }
