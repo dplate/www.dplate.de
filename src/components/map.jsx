@@ -210,15 +210,15 @@ const createTrackEntity = (positions, winter) => {
 };
 
 const loadHiker = () => {
-  return ['front', 'back', 'left', 'right'].reduce((hiker, orientation) => {
-    hiker[orientation] = new BillboardGraphics({
-      image: '/assets/hiker-' + orientation + '.svg',
-      heightReference: HeightReference.CLAMP_TO_GROUND,
-      verticalOrigin: VerticalOrigin.BOTTOM,
-      depthTestAgainstTerrain: 0
-    });
-    return hiker;
-  }, {});
+  return ['back', 'back-left', 'left', 'front-left', 'front', 'front-right', 'right', 'back-right'].map(
+    (orientation) =>
+      new BillboardGraphics({
+        image: '/assets/hiker-' + orientation + '.png',
+        heightReference: HeightReference.CLAMP_TO_GROUND,
+        verticalOrigin: VerticalOrigin.BOTTOM,
+        depthTestAgainstTerrain: 0
+      })
+  );
 };
 
 const createHiker = (entities, sampledPosition) => {
@@ -430,15 +430,8 @@ const updateHiker = (viewer, hiker) => {
   const cameraHeading = viewer.camera.heading;
   const viewAngle = (cameraHeading - hikerHeading + 2 * Math.PI) % (2 * Math.PI);
 
-  if (viewAngle >= 0.25 * Math.PI && viewAngle < 0.75 * Math.PI) {
-    entity.billboard = hiker.left;
-  } else if (viewAngle >= 0.75 * Math.PI && viewAngle < 1.25 * Math.PI) {
-    entity.billboard = hiker.front;
-  } else if (viewAngle >= 1.25 * Math.PI && viewAngle < 1.75 * Math.PI) {
-    entity.billboard = hiker.right;
-  } else {
-    entity.billboard = hiker.back;
-  }
+  const slice = (2 * Math.PI) / hiker.length;
+  entity.billboard = hiker[Math.floor((viewAngle + slice / 2) / slice) % hiker.length];
 };
 
 const tickChanged = (viewer, hiker, targetTime, onAnimationStopped) => {
