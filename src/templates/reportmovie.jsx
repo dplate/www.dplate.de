@@ -101,8 +101,8 @@ const preparePhotos = async (audio, reportPath, landmarks) => {
       const voiceOver = await loadVoiceOver(audio, reportPath, String('0' + (landmarkIndex + 1)).slice(-2));
       const enhancedPhotos = validPhotos.map((photo, photoIndex) => ({
         ...photo,
-        voiceOver: photoIndex === 0 ? voiceOver  : null,
-        duration: Math.max(minPhotoDuration, voiceOver ? voiceOver.getDuration() / validPhotos.length : 0),
+        voiceOver: photoIndex === 0 ? voiceOver : null,
+        duration: Math.max(minPhotoDuration, voiceOver ? voiceOver.getDuration() / validPhotos.length : 0)
       }));
       photos.push(...enhancedPhotos);
     }

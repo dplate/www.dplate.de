@@ -1,7 +1,10 @@
 import { css } from 'styled-components';
 
 const shadowStyle = css`
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 1), 0 1px 5px 0 rgba(0, 0, 0, 1), 0 3px 1px -2px rgba(0, 0, 0, 1);
+  box-shadow:
+    0 4px 4px 0 rgba(0, 0, 0, 1),
+    0 1px 5px 0 rgba(0, 0, 0, 1),
+    0 3px 1px -2px rgba(0, 0, 0, 1);
 `;
 
 export const cardStyle = css`

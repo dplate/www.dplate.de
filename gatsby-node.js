@@ -8,20 +8,18 @@ exports.createPages = ({ actions, graphql }) => {
   const reports = new Promise((resolve, reject) => {
     const reportTemplate = path.resolve(`src/templates/Report.jsx`);
     resolve(
-      graphql(
-        `
-          {
-            allReportJson(limit: 1000) {
-              edges {
-                node {
-                  destination
-                  date
-                }
+      graphql(`
+        {
+          allReportJson(limit: 1000) {
+            edges {
+              node {
+                destination
+                date
               }
             }
           }
-        `
-      ).then((result) => {
+        }
+      `).then((result) => {
         if (result.errors) {
           reject(result.errors);
         }
@@ -44,20 +42,18 @@ exports.createPages = ({ actions, graphql }) => {
   const reportMovies = new Promise((resolve, reject) => {
     const reportMovieTemplate = path.resolve(`src/templates/ReportMovie.jsx`);
     resolve(
-      graphql(
-        `
-          {
-            allReportJson(filter: { track: { eq: true } }, limit: 1000) {
-              edges {
-                node {
-                  destination
-                  date
-                }
+      graphql(`
+        {
+          allReportJson(filter: { track: { eq: true } }, limit: 1000) {
+            edges {
+              node {
+                destination
+                date
               }
             }
           }
-        `
-      ).then((result) => {
+        }
+      `).then((result) => {
         if (result.errors) {
           reject(result.errors);
         }
@@ -80,19 +76,17 @@ exports.createPages = ({ actions, graphql }) => {
   const destinations = new Promise((resolve, reject) => {
     const destinationTemplate = path.resolve(`src/templates/Destination.jsx`);
     resolve(
-      graphql(
-        `
-          {
-            allDestinationJson(limit: 1000) {
-              edges {
-                node {
-                  destination
-                }
+      graphql(`
+        {
+          allDestinationJson(limit: 1000) {
+            edges {
+              node {
+                destination
               }
             }
           }
-        `
-      ).then((result) => {
+        }
+      `).then((result) => {
         if (result.errors) {
           reject(result.errors);
         }

@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import styled from 'styled-components';
 
 const SummaryContainer = styled.div.attrs(({ $opacity }) => ({
-  style: { opacity: $opacity },
+  style: { opacity: $opacity }
 }))`
   position: absolute;
   z-index: 6;

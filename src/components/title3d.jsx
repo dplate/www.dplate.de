@@ -32,7 +32,7 @@ const Foreground = styled.img`
   height: auto;
 `;
 
-const Title3D = ({ reportPath, title, offsetY, fontSize, width, height, align = "left", scrollTrigger }) => {
+const Title3D = ({ reportPath, title, offsetY, fontSize, width, height, align = 'left', scrollTrigger }) => {
   const containerRef = useRef(null);
 
   const [currentYOffset, setCurrentYOffset] = useState(0);
@@ -59,11 +59,15 @@ const Title3D = ({ reportPath, title, offsetY, fontSize, width, height, align = 
   }
   const yMovement = currentYOffset > 0 ? 0 : -currentYOffset;
   return (
-    <Wrapper id="title3d" ref={containerRef} style={{
-      textAlign: align,
-      maxWidth: '1920px',
-      containerType: 'inline-size'
-    }}>
+    <Wrapper
+      id="title3d"
+      ref={containerRef}
+      style={{
+        textAlign: align,
+        maxWidth: '1920px',
+        containerType: 'inline-size'
+      }}
+    >
       <Background
         src={'/photos' + reportPath + '/' + backgroundFile}
         style={{ top: yMovement / 2 + 'px' }}

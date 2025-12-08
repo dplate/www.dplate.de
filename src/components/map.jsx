@@ -144,13 +144,10 @@ const createTerrainProvider = async (hideSwissTopo) => {
       requestVertexNormals: true
     });
   }
-  const provider = await CesiumTerrainProvider.fromUrl(
-    'https://3d.geo.admin.ch/ch.swisstopo.terrain.3d/v1',
-    {
-      requestVertexNormals: false,
-      credit: new Credit('geodata © swisstopo', true)
-    }
-  );
+  const provider = await CesiumTerrainProvider.fromUrl('https://3d.geo.admin.ch/ch.swisstopo.terrain.3d/v1', {
+    requestVertexNormals: false,
+    credit: new Credit('geodata © swisstopo', true)
+  });
   return catchInvalidSwissTopoTiles(provider);
 };
 
@@ -247,18 +244,16 @@ const createHdRectangle = (positions) => {
 const createBaseLayerProvider = (reduceDetail) => {
   const useBing = true;
   if (useBing) {
-    return IonImageryProvider.fromAssetId(2)
+    return IonImageryProvider.fromAssetId(2);
   }
 
-  return ArcGisMapServerImageryProvider.fromBasemapType(
-    ArcGisBaseMapType.SATELLITE,
-    {
-      // Token expires at 2026-06-07, must be recreated at https://location.arcgis.com/credentials/ (user "Alpinfunk")
-      token: 'AAPTxy8BH1VEsoebNVZXo8HurPOoBL7NDOOfQux77KRsFQLW5AIXa29VzxmYezCd6K346tLQF_ykj8y8PrOsV0JrpDzDF8_fIBQpnI3R4oFlqY73fyJiuCO3Qfqard2CnE5spi7IVFosqPbSgARw7T7cyx584x68DIpC9SHg4F3R3ny5MW6HOISQ5ATR8Og5wv1jjzOE8dXpvuxZjbOksm3gUmpysCQTWrEfGs2EP_T2JuA.AT1_L5fYNUnV'
-    }
-  ).then(provider => {
+  return ArcGisMapServerImageryProvider.fromBasemapType(ArcGisBaseMapType.SATELLITE, {
+    // Token expires at 2026-06-07, must be recreated at https://location.arcgis.com/credentials/ (user "Alpinfunk")
+    token:
+      'AAPTxy8BH1VEsoebNVZXo8HurPOoBL7NDOOfQux77KRsFQLW5AIXa29VzxmYezCd6K346tLQF_ykj8y8PrOsV0JrpDzDF8_fIBQpnI3R4oFlqY73fyJiuCO3Qfqard2CnE5spi7IVFosqPbSgARw7T7cyx584x68DIpC9SHg4F3R3ny5MW6HOISQ5ATR8Og5wv1jjzOE8dXpvuxZjbOksm3gUmpysCQTWrEfGs2EP_T2JuA.AT1_L5fYNUnV'
+  }).then((provider) => {
     if (reduceDetail) {
-      provider._maximumLevel = 13
+      provider._maximumLevel = 13;
     }
     return provider;
   });
@@ -310,9 +305,9 @@ const getHikerPositionAtTime = (viewer, hiker, time) => {
     hikerPosition,
     hikerCart
   };
-}
+};
 
-const findOptimalCameraHeight = (viewer, hikerPosition ) => {
+const findOptimalCameraHeight = (viewer, hikerPosition) => {
   const cameraPos = viewer.camera.positionCartographic;
   let optimalHeight = 0;
   for (let distanceFactor = 0.0; distanceFactor < 0.95; distanceFactor += 0.1) {
@@ -352,8 +347,11 @@ const updateCamera = (viewer, hiker, smooth = true) => {
     return;
   }
 
-  const { hikerPosition: newLookAtPosition, hikerCart: newLookAtCart } =
-    getHikerPositionAtTime(viewer, hiker, calculateMovedTime(viewer, smooth ? 60 : 0));
+  const { hikerPosition: newLookAtPosition, hikerCart: newLookAtCart } = getHikerPositionAtTime(
+    viewer,
+    hiker,
+    calculateMovedTime(viewer, smooth ? 60 : 0)
+  );
 
   let newHeading = viewer.camera.heading;
   let newTilt = CesiumMath.toDegrees(viewer.camera.pitch);

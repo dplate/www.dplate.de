@@ -26,9 +26,9 @@ const PageSchiffbruch = (props) => {
   const [playLink, setPlayLink] = useState('https://schiffbruch.dplate.de');
   useEffect(() => {
     if (/android/i.test(window.navigator.userAgent)) {
-      setPlayLink('https://play.google.com/store/apps/details?id=de.dplate.schiffbruch')
+      setPlayLink('https://play.google.com/store/apps/details?id=de.dplate.schiffbruch');
     }
-  }, [])
+  }, []);
 
   return (
     <Layout location={props.location}>
@@ -41,26 +41,36 @@ const PageSchiffbruch = (props) => {
             Ziel ist die Insel zu verlassen. Es ist ein Genremix aus Aufbau, Strategie und Adventure.
           </p>
         </Card>
-        <a href={playLink} aria-label="Spielen"><Picture src="/screenshots/schiffbruch.jpg" /></a>
+        <a href={playLink} aria-label="Spielen">
+          <Picture src="/screenshots/schiffbruch.jpg" />
+        </a>
         <Card>
           <h2>Neuauflage zum 25. Jubiläum</h2>
           <p>
-            Damit das Spiel auch weiterhin spielbar ist, habe ich das Originalspiel von 1999 im Jahr 2023 von C++ auf 
-            Javascript migriert.<br />
-            Es bietet dieselbe Pixelgrafik und Sounds. Die Benutzeroberfläche wurde leicht angepasst, damit sie auch auf 
-            Handys und Tablets funktioniert. Außerdem skaliert das Spiel nun auf beliebige Bildschirmgrößen.<br />Weiter wurden 
-            kleine Verbesserungen am Spiel und Bugfixes vorgenommen.
+            Damit das Spiel auch weiterhin spielbar ist, habe ich das Originalspiel von 1999 im Jahr 2023 von C++ auf
+            Javascript migriert.
+            <br />
+            Es bietet dieselbe Pixelgrafik und Sounds. Die Benutzeroberfläche wurde leicht angepasst, damit sie auch auf
+            Handys und Tablets funktioniert. Außerdem skaliert das Spiel nun auf beliebige Bildschirmgrößen.
+            <br />
+            Weiter wurden kleine Verbesserungen am Spiel und Bugfixes vorgenommen.
           </p>
           <ul>
-            <li><a href="https://schiffbruch.dplate.de">Direkt im Browser spielen</a></li>
-            <li><a href="https://play.google.com/store/apps/details?id=de.dplate.schiffbruch">Als App in Android installieren</a></li>
+            <li>
+              <a href="https://schiffbruch.dplate.de">Direkt im Browser spielen</a>
+            </li>
+            <li>
+              <a href="https://play.google.com/store/apps/details?id=de.dplate.schiffbruch">
+                Als App in Android installieren
+              </a>
+            </li>
           </ul>
         </Card>
         <Card>
           <h2>Weitere Links</h2>
           <h3>iOS Port von Johannes Tscholl</h3>
           <p>
-              <a href="https://itunes.apple.com/de/app/schiffbruch/id1034225507?mt=8">Apple App Store</a>
+            <a href="https://itunes.apple.com/de/app/schiffbruch/id1034225507?mt=8">Apple App Store</a>
           </p>
           <h3>Javascript source code</h3>
           <p>
@@ -121,7 +131,8 @@ const PageSchiffbruch = (props) => {
           <h3>c't (12,2000)</h3>
           <p>
             "Schiffbruch ist eine Überlebenssimulation, sozusagen 'Die Sims' auf einer einsamen Insel. [...] Der Reiz
-            liegt in der Erkundung der Insel und dem Herstellen neuer Werkzeuge, Behausungen und Gerätschaften. [...]"{' '}
+            liegt in der Erkundung der Insel und dem Herstellen neuer Werkzeuge, Behausungen und Gerätschaften.
+            [...]"{' '}
           </p>
         </Card>
         <Card>

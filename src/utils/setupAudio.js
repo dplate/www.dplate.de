@@ -35,7 +35,7 @@ const createSound = (audioContext, audioBuffer) => {
       }
     },
     isPlaying: () => Boolean(source),
-    getDuration: () => audioBuffer.duration,
+    getDuration: () => audioBuffer.duration
   };
   sound.play = (restart = false) => {
     if (!source || (restart && sound.stop())) {

@@ -10,123 +10,123 @@ const client = new textToSpeech.TextToSpeechClient();
 
 const pronunciations = [
   {
-    regex: /(isizer)/ig,
+    regex: /(isizer)/gi,
     ipa: 'ˈiːsɪtsɐ'
   },
   {
-    regex: /(chapf)/ig,
+    regex: /(chapf)/gi,
     ipa: 'xapf'
   },
   {
-    regex: /(chopfs)/ig,
+    regex: /(chopfs)/gi,
     ipa: 'kɔpfs'
   },
   {
-    regex: /(chopf)/ig,
+    regex: /(chopf)/gi,
     ipa: 'kɔpf'
   },
   {
-    regex: /(carschina)/ig,
+    regex: /(carschina)/gi,
     ipa: 'ˌkaˈʃiːna'
   },
   {
-    regex: /(schijen)/ig,
+    regex: /(schijen)/gi,
     ipa: 'ʃiːjɛŋ'
   },
   {
-    regex: /(pischa)/ig,
+    regex: /(pischa)/gi,
     ipa: 'pɪʃaː'
   },
   {
-    regex: /(vereina)/ig,
+    regex: /(vereina)/gi,
     ipa: 'ˈvɛˈʁaɪna'
   },
   {
-    regex: /(espel)/ig,
+    regex: /(espel)/gi,
     ipa: 'ˈɛzpɛl'
   },
   {
-    regex: /(chäserrugg)/ig,
+    regex: /(chäserrugg)/gi,
     ipa: 'ˈχɛɛzərʊk'
   },
   {
-    regex: /(hinterruggs)/ig,
+    regex: /(hinterruggs)/gi,
     ipa: 'hɪntərʊks'
   },
   {
-    regex: /[^>](hinterrugg)/ig,
+    regex: /[^>](hinterrugg)/gi,
     ipa: 'hɪntərʊk'
   },
   {
-    regex: /(sämtisersee)/ig,
+    regex: /(sämtisersee)/gi,
     ipa: 'ˈzɛmtɪzɐˌzee'
   },
   {
-    regex: /(fälensee)/ig,
+    regex: /(fälensee)/gi,
     ipa: 'ˈfɛɛlənˌzee'
   },
   {
-    regex: /(brülisau)/ig,
+    regex: /(brülisau)/gi,
     ipa: 'ˈbrylɪs.aʊ'
   },
   {
-    regex: /(kamor)/ig,
+    regex: /(kamor)/gi,
     ipa: 'ˈkaamor'
   },
   {
-    regex: /(schäflers)/ig,
+    regex: /(schäflers)/gi,
     ipa: 'ʃɛɛflərs'
   },
   {
-    regex: /(windegga)/ig,
+    regex: /(windegga)/gi,
     ipa: 'ˈvɪnd.ɛɛga.'
   },
   {
-    regex: /(mutschen)/ig,
+    regex: /(mutschen)/gi,
     ipa: 'ˈmʊtʃn̩'
   },
   {
-    regex: /(spicher)/ig,
+    regex: /(spicher)/gi,
     ipa: 'ˈʃpiːçɐ'
   },
   {
-    regex: /(hinweg)/ig,
+    regex: /(hinweg)/gi,
     ipa: 'ˈhɪnvek'
   },
   {
-    regex: /(zervrei)/ig,
+    regex: /(zervrei)/gi,
     ipa: 'tsɛrˈfraɪ̯'
   },
   {
-    regex: /(canal)/ig,
+    regex: /(canal)/gi,
     ipa: 'kanal'
   },
   {
-    regex: /(rappenstein)/ig,
+    regex: /(rappenstein)/gi,
     ipa: 'ˈʁapn̩ʃtaɪn'
   },
   {
-    regex: /(dischmatal)/ig,
+    regex: /(dischmatal)/gi,
     ipa: 'ˈdɪʃmaˌtaːl'
   },
   {
-    regex: /(walser)/ig,
+    regex: /(walser)/gi,
     ipa: 'ˈval.zɐ'
   },
   {
-    regex: /(sapün)/ig,
+    regex: /(sapün)/gi,
     ipa: 'saˈpyn'
   },
   {
-    regex: /(cassons)/ig,
+    regex: /(cassons)/gi,
     ipa: 'kaˈsɔns'
   },
   {
-    regex: /(brienz)/ig,
+    regex: /(brienz)/gi,
     ipa: 'briːənts'
   },
   {
-    regex: /(gauschla)/ig,
+    regex: /(gauschla)/gi,
     ipa: 'gauʃla'
   }
 ];
@@ -141,12 +141,11 @@ const generateAudio = async (rawText, audioFile) => {
   let text = rawText.replace(/(<span data-silent>.*?<\/span>)/gm, '');
 
   // Remove html tags and replace remaining xml characters
-  text = text.replace(/<\/?[^>]+(>|$)/g, '')
-    .replaceAll("'", '');
+  text = text.replace(/<\/?[^>]+(>|$)/g, '').replaceAll("'", '');
 
   // Help to pronounce all words correctly
   for (const { regex, ipa } of pronunciations) {
-    text = text.replace(regex, `<phoneme alphabet="ipa" ph="${ipa}">$1</phoneme>`)
+    text = text.replace(regex, `<phoneme alphabet="ipa" ph="${ipa}">$1</phoneme>`);
   }
 
   // Make sure height is pronounced as units always
@@ -172,7 +171,7 @@ const generateAudio = async (rawText, audioFile) => {
     },
     audioConfig: {
       audioEncoding: 'OGG_OPUS'
-    },
+    }
   };
   const [response] = await client.synthesizeSpeech(request);
   fs.writeFileSync(audioFile, response.audioContent, 'binary');
@@ -200,4 +199,3 @@ const createVoiceOver = async () => {
 };
 
 createVoiceOver().catch(console.log);
-

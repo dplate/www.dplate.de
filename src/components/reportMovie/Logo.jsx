@@ -14,7 +14,10 @@ const LogoContainer = styled.img.attrs(({ $width, $top, $left }) => ({
   z-index: 6;
   filter: invert(100%) sepia(0%) saturate(7444%) hue-rotate(88deg) brightness(123%) contrast(111%)
     drop-shadow(0 0 4px black);
-  transition: width 5s ease-in-out, top 5s ease-in-out, left 5s ease-in-out;
+  transition:
+    width 5s ease-in-out,
+    top 5s ease-in-out,
+    left 5s ease-in-out;
 `;
 
 const Logo = ({ introActive, outroActive, onClick }) => {
