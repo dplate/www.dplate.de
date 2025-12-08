@@ -108,13 +108,27 @@ const buildPageTitle = (title, type) => {
   return `⛷ ${title} Skigebiet`;
 };
 
-const buildPageDescription = (title, type, date) => {
+const buildPageDescription = (destinationName, title, type, date) => {
+  const monthNumber = date.substring(5, 7);
+  const months = [
+    'Januar',
+    'Februar',
+    'März',
+    'April',
+    'Mai',
+    'Juni',
+    'Juli',
+    'August',
+    'September',
+    'Oktober',
+    'November',
+    'Dezember'
+  ];
+  const monthName = months[parseInt(monthNumber, 10) - 1];
   if (type === 'hike' || type === 'winterHike') {
-    return `⛰ Wandern ${title} vom ${formatDate(date)} mit vielen Fotos, ausführlicher Wegbeschreibung und Wanderkarte`;
+    return `${destinationName} Wanderung: ${title} im ${monthName} mit Fotos, Wegbeschreibung und Wanderkarte`;
   }
-  return `⛷ Skigebiet ${title} am ${formatDate(
-    date
-  )} mit vielen Fotos, Pistenplan und Beschreibung der Abfahrten/Schneeverhältnisse`;
+  return `Skigebiet ${title} im ${monthName} mit Fotos, Pistenplan, Schneeverhältnissen und Beschreibung der Abfahrten`;
 };
 
 class Report extends React.Component {
@@ -159,13 +173,13 @@ class Report extends React.Component {
   scrollHandler() {
     const images = document.querySelectorAll('.landmark img');
     if (images.length > 0) {
-      if (window.pageYOffset < images[0].offsetTop) {
+      if (window.scrollY < images[0].offsetTop) {
         this.setState({ time: 'start' });
         this.changeHash();
         return;
       }
 
-      if (window.pageYOffset > images[images.length - 1].offsetTop + 500) {
+      if (window.scrollY > images[images.length - 1].offsetTop + 500) {
         this.setState({ time: 'end' });
         this.changeHash();
         return;
@@ -175,7 +189,7 @@ class Report extends React.Component {
       let id = null;
       let minDistance = Number.MAX_SAFE_INTEGER;
       images.forEach((image) => {
-        const distance = Math.abs(window.pageYOffset - image.offsetTop);
+        const distance = Math.abs(window.scrollY - image.offsetTop);
         if (distance < minDistance) {
           minDistance = distance;
           time = image.getAttribute('data-date');
@@ -353,55 +367,87 @@ class Report extends React.Component {
   }
 }
 
-const createStructuredData = (reportJson) => {
-  const { destination, date, type, title, landmarks } = reportJson;
+export const Head = (props) => {
+  const { destination, date, type, shortTitle, title, movie, landmarks } = props.data.reportJson;
+  const { name: destinationName } = props.data.destinationJson;
   const pageTitle = buildPageTitle(title, type);
+  const pageDescription = buildPageDescription(destinationName, title, type, date);
   const reportPath = getReportPath(destination, date);
-  const allPhotos = landmarks.reduce((photos, landmark) => [...photos, ...landmark.photos], []);
-  const selectedPhotos = new Set();
-  selectedPhotos.add(allPhotos[Math.round(allPhotos.length * 0.3)]);
-  selectedPhotos.add(allPhotos[Math.round(allPhotos.length * 0.5)]);
-  selectedPhotos.add(allPhotos[Math.round(allPhotos.length * 0.7)]);
-  const photoUrls = [...selectedPhotos].map((photo) => {
+  const pageUrl = `https://www.dplate.de/alpine${reportPath}`;
+
+  const allLandscapePhotos = landmarks
+    .reduce((photos, landmark) => [...photos, ...landmark.photos], [])
+    .filter((photo) => photo.width > photo.height);
+  const selectedPhotos = [
+    allLandscapePhotos[Math.round(allLandscapePhotos.length * 0.5)],
+    allLandscapePhotos[Math.round(allLandscapePhotos.length * 0.3)],
+    allLandscapePhotos[Math.round(allLandscapePhotos.length * 0.7)]
+  ];
+  const photoUrls = selectedPhotos.map((photo) => {
     const fileName = photo.alt ? photo.alt.split(' ').join('-').toLowerCase() + '_' + photo.name : photo.name;
     return 'https://www.dplate.de/photos' + reportPath + '/' + fileName + '.jpg';
   });
-  const fallbackDate = date.substring(1, 5) + '-' + date.substring(5, 7) + '-' + date.substring(7, 9);
-  const photoDate = allPhotos[Math.round(allPhotos.length * 0.5)]?.date;
 
-  return JSON.stringify({
-    '@context': 'https://schema.org',
-    '@type': 'Article',
-    headline: pageTitle,
-    image: photoUrls,
-    datePublished: photoDate || fallbackDate,
-    author: [
-      {
-        '@type': 'Organization',
-        name: 'AlpinFunk',
-        url: 'https://www.dplate.de'
-      }
-    ]
-  });
-};
+  const datePublished =
+    selectedPhotos[0].date || date.substring(1, 5) + '-' + date.substring(5, 7) + '-' + date.substring(7, 9);
 
-export const Head = (props) => {
-  const { destination, date, type, title, title3d, movie } = props.data.reportJson;
-  const pageTitle = buildPageTitle(title, type);
-  const reportPath = getReportPath(destination, date);
+  const hike = type === 'hike' || type === 'winterHike';
+
   return (
     <>
       <title>{pageTitle}</title>
-      <script type="application/ld+json">{createStructuredData(props.data.reportJson)}</script>
-      <meta name="description" property="og:description" content={buildPageDescription(title, type, date)} />
+      <link rel="canonical" href={pageUrl} />
+      <meta name="description" content={pageDescription} />
       <meta property="og:title" content={pageTitle} />
+      <meta property="og:description" content={pageDescription} />
       <meta property="og:type" content="article" />
-      <meta property="og:url" content={`https://www.dplate.de/alpine${reportPath}`} />
-      <meta name="robots" content="max-image-preview:large" />
-      {title3d && <meta property="og:image" content={`https://www.dplate.de/photos${reportPath}/title.jpg`} />}
+      <meta property="og:url" content={pageUrl} />
+      <meta property="og:locale" content="de_DE" />
+      <meta property="og:site_name" content="AlpinFunk" />
+      <meta property="og:image" content={photoUrls[0]} />
+      <meta property="og:image:width" content={selectedPhotos[0].width} />
+      <meta property="og:image:height" content={selectedPhotos[0].height} />
       {movie && <meta property="og:video" content={`https://youtu.be/${movie}`} />}
-      {movie && <meta property="og:video:height" content="1920" />}
-      {movie && <meta property="og:video:width" content="1080" />}
+      {movie && <meta property="og:video:width" content="1920" />}
+      {movie && <meta property="og:video:height" content="1080" />}
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta name="twitter:title" content={pageTitle} />
+      <meta name="twitter:description" content={pageDescription} />
+      <meta name="twitter:image" content={photoUrls[0]} />
+      <script type="application/ld+json">
+        {JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'Article',
+          headline: pageTitle,
+          description: pageDescription,
+          image: photoUrls,
+          datePublished,
+          dateModified: datePublished,
+          author: {
+            '@type': 'Person',
+            name: 'Dirk Plate'
+          },
+          publisher: {
+            '@type': 'Organization',
+            name: 'AlpinFunk',
+            url: 'https://www.dplate.de',
+            logo: {
+              '@type': 'ImageObject',
+              url: 'https://www.dplate.de/assets/alpinfunk.png'
+            }
+          },
+          mainEntityOfPage: pageUrl,
+          articleSection: `${hike ? 'Wandern' : 'Skifahren'}, ${destinationName}`,
+          keywords:
+            `${shortTitle},${destinationName},Alpen,` +
+            `${
+              hike
+                ? 'Wanderung,Wandern,Bergsteigen,Wegbeschreibung,Rundweg,Weg,Bergweg'
+                : 'Skifahren,Pisten,Schneebedingungen,Pistenbeschreibung,Abfahrten'
+            },` +
+            'Bilder,Fotos,GPX,Track,Karte,3D,AlpinFunk,Reise,Urlaub,Beschreibung'
+        })}
+      </script>
     </>
   );
 };
@@ -418,6 +464,7 @@ export const pageQuery = graphql`
       timeShift
       detailMap
       hideSwissTopo
+      shortTitle
       title
       title3d {
         offsetY
@@ -440,6 +487,9 @@ export const pageQuery = graphql`
         text
       }
       outro
+    }
+    destinationJson(destination: { eq: $destination }) {
+      name
     }
   }
 `;

@@ -110,8 +110,9 @@ const preparePhotos = async (audio, reportPath, landmarks) => {
   return photos;
 };
 
-const ReportMovie = ({ data: { reportJson } }) => {
+const ReportMovie = ({ data: { reportJson, destinationJson } }) => {
   const { destination, date, timeShift, detailMap, hideSwissTopo, type, title, shortTitle, title3d } = reportJson;
+  const { name: destinationName } = destinationJson;
   const reportPath = getReportPath(destination, date);
 
   const [track, setTrack] = useState(null);
@@ -149,75 +150,74 @@ const ReportMovie = ({ data: { reportJson } }) => {
     }
   }, [phase, callNextPhase]);
 
-  const timeIndependentComponents = useMemo(
-    () => {
-      if (!track || !photos) {
-        return null;
-      }
-      return (
-        <>
-          <Curtain closed={phase.name === 'loading' || phase.name === 'intro' || phase.name === 'outro'} />
-          {phase.name !== 'loading' && (
-            <Logo
-              introActive={phase.name === 'intro'}
-              outroActive={phase.name === 'outro'}
-              onClick={phase.name === 'intro' ? callNextPhase : null}
-            />
-          )}
-          <AnimatedTitle
-            reportPath={reportPath}
-            title={title + ' ' + formatDate(date)}
-            title3d={title3d}
-            visible={phase.name === 'loading' || phase.name === 'intro'}
+  const timeIndependentComponents = useMemo(() => {
+    if (!track || !photos) {
+      return null;
+    }
+    return (
+      <>
+        <Curtain closed={phase.name === 'loading' || phase.name === 'intro' || phase.name === 'outro'} />
+        {phase.name !== 'loading' && (
+          <Logo
+            introActive={phase.name === 'intro'}
+            outroActive={phase.name === 'outro'}
+            onClick={phase.name === 'intro' ? callNextPhase : null}
           />
-          <Summary visible={phase.name === 'outro'} track={track} />
-          <Suspense fallback={null}>
-            <Map
-              track={track}
-              wishTime={getTargetTime(phase, nextPhoto)}
-              timeShift={timeShift}
-              detailMap={detailMap}
-              hideSwissTopo={hideSwissTopo}
-              winter={type !== 'hike'}
-              flyInSeconds={phase.name === 'introScroll' ? phase.forDuration : null }
-              onWishTimeReached={callNextPhase}
-              onTimeChanged={setTime}
-              size="fullscreen"
-            />
-          </Suspense>
-          <Photos
-            photos={photos}
-            reportPath={reportPath}
-            visiblePhotoName={phase.name === 'photo' ? nextPhoto.name : null}
+        )}
+        <AnimatedTitle
+          reportPath={reportPath}
+          title={title + ' ' + formatDate(date)}
+          title3d={title3d}
+          visible={phase.name === 'loading' || phase.name === 'intro'}
+        />
+        <Summary visible={phase.name === 'outro'} track={track} />
+        <Suspense fallback={null}>
+          <Map
+            track={track}
+            wishTime={getTargetTime(phase, nextPhoto)}
+            timeShift={timeShift}
+            detailMap={detailMap}
+            hideSwissTopo={hideSwissTopo}
+            winter={type !== 'hike'}
+            flyInSeconds={phase.name === 'introScroll' ? phase.forDuration : null}
+            onWishTimeReached={callNextPhase}
+            onTimeChanged={setTime}
+            size="fullscreen"
           />
-          <YoutubeMetadata
-            date={date}
-            title={title}
-            shortTitle={shortTitle}
-            reportPath={reportPath}
-            phaseName={phase.name}
-            nextPhoto={nextPhoto}
-          />
-        </>
-      )
-    },
-    [
-      date,
-      detailMap,
-      hideSwissTopo,
-      shortTitle,
-      timeShift,
-      title,
-      title3d,
-      type,
-      track,
-      photos,
-      reportPath,
-      phase,
-      nextPhoto,
-      callNextPhase
-    ]
-  );
+        </Suspense>
+        <Photos
+          photos={photos}
+          reportPath={reportPath}
+          visiblePhotoName={phase.name === 'photo' ? nextPhoto.name : null}
+        />
+        <YoutubeMetadata
+          date={date}
+          destinationName={destinationName}
+          title={title}
+          shortTitle={shortTitle}
+          reportPath={reportPath}
+          phaseName={phase.name}
+          nextPhoto={nextPhoto}
+        />
+      </>
+    );
+  }, [
+    date,
+    detailMap,
+    hideSwissTopo,
+    shortTitle,
+    timeShift,
+    destinationName,
+    title,
+    title3d,
+    type,
+    track,
+    photos,
+    reportPath,
+    phase,
+    nextPhoto,
+    callNextPhase
+  ]);
 
   return (
     <Movie id="movie">
@@ -267,6 +267,9 @@ export const pageQuery = graphql`
           date
         }
       }
+    }
+    destinationJson(destination: { eq: $destination }) {
+      name
     }
   }
 `;

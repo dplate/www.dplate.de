@@ -2,47 +2,35 @@ import { useEffect, useRef } from 'react';
 import PropTypes from 'prop-types';
 import formatDate from '../../utils/formatDate.js';
 
-const outputMetadata = (date, title, shortTitle, reportPath) => {
+const outputMetadata = (date, destinationName, title, shortTitle, reportPath) => {
   console.log('metadata', {
     title: `⛰ ${title} Wanderung`,
-    description:
-      'Wanderkarte und Bilder des Wegs ' +
-      title +
-      ' vom ' +
-      formatDate(date) +
-      '.\n' +
-      'Der ausführliche Bericht dieser Wanderung und der Download der GPX-Datei sind hier zu finden:\n' +
-      'https://www.dplate.de/alpine' +
-      reportPath +
-      '\n' +
-      '\n' +
-      'Inhalt:\n' +
-      'TODO: INSERT SECTIONS HERE\n' +
-      '\n' +
-      '\n' +
-      'Map engine:\n' +
-      '- Cesium\n' +
-      '\n' +
-      'Data Attributions:\n' +
-      '- © Microsoft Corporation\n' +
-      '- © Maxar\n' +
-      '- ©CNES Distribution Airbus DS\n' +
-      '- Bing Imagery\n' +
-      '- Esri\n' +
-      '- USDA\n' +
-      '- USGS AeroGRID\n' +
-      '- IGN\n' +
-      '- GIS User Community\n' +
-      '- Earthstar Geographics SIO\n' +
-      '- geodata © swisstopo\n' +
-      '- basemap.at\n' +
-      '- freesound.org',
-    tags:
-      title +
-      ',' +
-      shortTitle +
-      ',Wanderung,Wandern,Alpen,Bilder,Fotos,GPX,Track,Karte,3D,AlpinFunk,Bergsteigen,' +
-      'Reise,Urlaub,Beschreibung,Wegbeschreibung,dplate,Rundweg,Weg,Bergweg',
+    description: `${destinationName} Wanderung: Beschreibung, Bilder und Karte des Wegs ${title} vom ${formatDate(date)}.
+Der Bericht dieser Wanderung und der Download der GPX-Datei sind hier zu finden:
+https://www.dplate.de/alpine${reportPath}
+
+Inhalt:
+TODO: INSERT SECTIONS HERE
+
+
+Map engine:
+- Cesium
+
+Data Attributions:
+- © Microsoft Corporation
+- © Maxar
+- © CNES Distribution Airbus DS
+- Bing Imagery
+- Esri
+- USDA
+- USGS AeroGRID
+- IGN
+- GIS User Community
+- Earthstar Geographics SIO
+- geodata © swisstopo
+- basemap.at
+- freesound.org`,
+    tags: `${destinationName},${shortTitle},Wanderung,Wandern,Alpen,Bilder,Fotos,GPX,Track,Karte,3D,AlpinFunk,Bergsteigen,Reise,Urlaub,Beschreibung,Wegbeschreibung,dplate,Rundweg,Weg,Bergweg`,
     date: formatDate(date),
     location: shortTitle,
     category: 'Reisen und Events',
@@ -88,11 +76,11 @@ const outputSections = (sections) => {
   );
 };
 
-const YoutubeMetadata = ({ date, title, shortTitle, reportPath, phaseName, nextPhoto }) => {
+const YoutubeMetadata = ({ date, destinationName, title, shortTitle, reportPath, phaseName, nextPhoto }) => {
   const sectionsRef = useRef([]);
 
   useEffect(() => {
-    outputMetadata(date, title, shortTitle, reportPath);
+    outputMetadata(date, destinationName, title, shortTitle, reportPath);
   }, []); // eslint-disable-line react-hooks/exhaustive-deps
 
   useEffect(() => {
@@ -119,6 +107,7 @@ const YoutubeMetadata = ({ date, title, shortTitle, reportPath, phaseName, nextP
 
 YoutubeMetadata.propTypes = {
   date: PropTypes.string.isRequired,
+  destinationName: PropTypes.string.isRequired,
   title: PropTypes.string.isRequired,
   shortTitle: PropTypes.string.isRequired,
   reportPath: PropTypes.string.isRequired,
