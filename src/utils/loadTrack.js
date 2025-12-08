@@ -15,8 +15,8 @@ const parseGpxRaw = (gpxRaw) => {
   Array.prototype.slice.call(doc.getElementsByTagName('trkpt')).forEach((trackPoint) => {
     const longitude = parseFloat(trackPoint.getAttribute('lon'));
     const latitude = parseFloat(trackPoint.getAttribute('lat'));
-    const position = Cartesian3.fromDegrees(longitude, latitude, 0);
     const height = parseFloat(trackPoint.getElementsByTagName('ele')[0].textContent);
+    const position = Cartesian3.fromDegrees(longitude, latitude, height);
     const isoTime = trackPoint.getElementsByTagName('time')[0].textContent;
     const time = JulianDate.fromIso8601(isoTime);
     const timestamp = new Date(Date.parse(isoTime)).getTime();

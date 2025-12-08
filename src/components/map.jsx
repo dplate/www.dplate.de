@@ -317,10 +317,12 @@ const findOptimalCameraHeight = (viewer, hikerPosition) => {
       hikerPosition.height * distanceFactor + cameraPos.height * (1.0 - distanceFactor)
     );
     const terrainHeight = viewer.scene.globe.getHeight(samplePos);
-    optimalHeight = Math.max(
-      optimalHeight,
-      hikerPosition.height + (terrainHeight - hikerPosition.height) / (1.0 - distanceFactor)
-    );
+    if (terrainHeight) {
+      optimalHeight = Math.max(
+        optimalHeight,
+        hikerPosition.height + (terrainHeight - hikerPosition.height) / (1.0 - distanceFactor)
+      );
+    }
   }
   return optimalHeight + 150;
 };
