@@ -425,7 +425,8 @@ export const Head = (props) => {
           dateModified: dateModified || datePublishedWithFallback,
           author: {
             '@type': 'Person',
-            name: 'Dirk Plate'
+            name: 'Dirk Plate',
+            url: 'https://www.dplate.de'
           },
           publisher: {
             '@type': 'Organization',

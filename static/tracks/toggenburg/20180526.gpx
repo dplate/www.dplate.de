@@ -16120,22 +16120,22 @@
         <hdop>12</hdop>
       </trkpt>
       <trkpt lat="47.1933072" lon="9.2837322">
-        <ele>1546.37</ele>
+        <ele>893.37</ele>
         <time>2018-05-26T11:04:40Z</time>
         <hdop>16</hdop>
       </trkpt>
       <trkpt lat="47.1933072" lon="9.2837324">
-        <ele>1494.37</ele>
+        <ele>893.37</ele>
         <time>2018-05-26T11:04:45Z</time>
         <hdop>35</hdop>
       </trkpt>
       <trkpt lat="47.1933072" lon="9.2837328">
-        <ele>1204.37</ele>
+        <ele>893.37</ele>
         <time>2018-05-26T11:05:08Z</time>
         <hdop>49</hdop>
       </trkpt>
       <trkpt lat="47.1933069" lon="9.2837348">
-        <ele>999.37</ele>
+        <ele>893.37</ele>
         <time>2018-05-26T11:06:01Z</time>
         <hdop>48</hdop>
       </trkpt>

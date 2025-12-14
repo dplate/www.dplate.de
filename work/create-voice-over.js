@@ -4,11 +4,15 @@ const fs = require('fs');
 
 const projectPath = 'C:/Users/Roger/web/Dp3';
 const destination = 'toggenburg';
-const reportDate = '20171104';
+const reportDate = '20180526';
 
 const client = new textToSpeech.TextToSpeechClient();
 
 const pronunciations = [
+  {
+    regex: /(selun)/gi,
+    ipa: 'selun'
+  },
   {
     regex: /(isizer)/gi,
     ipa: 'ˈiːsɪtsɐ'
