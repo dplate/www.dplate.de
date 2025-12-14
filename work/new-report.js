@@ -74,12 +74,15 @@ const createLandmarks = async () => {
 const newReport = async () => {
   const reportPath = projectPath + '/src/reports/' + destination + '/' + reportDate;
   const reportFile = reportPath + '/report.json';
+  const datePublished = DateTime.now().setZone("Europe/Berlin").toISO({ suppressMilliseconds: true });
   if (fs.existsSync(reportFile)) {
     console.log(reportFile, 'exists');
   } else {
     const report = {
       destination,
       date: 'd' + reportDate,
+      datePublished,
+      dateModified: datePublished,
       type: 'hike',
       track: true,
       detailMap: 'swiss',

@@ -2,13 +2,22 @@
   {
     "destination": "toggenburg",
     "date": "d20171104",
+    "datePublished": "2017-11-05T12:00:00+01:00",
+    "dateModified": "2025-12-14T15:00:00+01:00",
     "type": "hike",
     "track": true,
     "detailMap": "swiss",
     "shortTitle": "Schnebelhorn",
     "title": "Libingen - Schnebelhorn",
-    "movie": "A-XVAiNNlgE",
-    "intro": "Inzwischen liegt in den höheren Bergen Schnee, deshalb wählte ich für diesen milden Novembersamstag eine Wanderungen in den niedrigeren Voralpen. Das Auto stellte ich vor dem kleinem Ort Libingen ab, um auf einem Grat den Ort zu umrunden. Das knapp 1300m hohe Schnebelhorn ist dabei nur einer der vielen überwanderten Gipfel.",
+    "title3d": {
+      "align": "left",
+      "offsetY": 0,
+      "fontSize": 6.5,
+      "width": 1920,
+      "height": 377
+    },
+    "movie": "bKxiPJOFUXw",
+    "intro": "Inzwischen liegt in den höheren Bergen Schnee, deshalb wählte ich für diesen milden Novembersamstag eine Wanderung in den niedrigeren Voralpen. Das Auto stellte ich vor dem kleinen Ort Libingen ab, um auf einem langen Grat den Ort zu umrunden. Das knapp 1300m hohe Schnebelhorn war dabei nur einer der vielen überwanderten Gipfel.",
     "landmarks": [
       {
         "photos": [
@@ -28,7 +37,7 @@
           }
         ],
         "videos": [],
-        "text": "Vom 780m hohen Wanderparkplatz vor Libingen ging es zuerst auf einer kleinen Fahrstraße den Hang Richtung Grat hinauf. Noch wurde die Sonne durch eine hohe Wolkendecke verdeckt und durch die recht frühe Stunde (8:30) sah alles noch etwas flau aus."
+        "text": "Vom 780m hohen Wanderparkplatz vor Libingen ging es zuerst auf einer kleinen Fahrstraße den Hang Richtung Grat hinauf. Noch wurde die Sonne durch eine hohe Wolkendecke verdeckt und durch die recht frühe Stunde, es war 8:30, sah alles noch etwas flau aus."
       },
       {
         "photos": [
@@ -41,7 +50,7 @@
           }
         ],
         "videos": [],
-        "text": "Wegkreuz neben der Straße. Ansonsten bin ich nur zwei Einheimischen begegnet, die mich mit ihren Autos überholt haben. Die Straße ist aber öffentlich und führt bis zum Restaurant Unterstein auf 960m."
+        "text": "Ein Wegkreuz neben der Straße. Ansonsten bin ich nur zwei Einheimischen begegnet, die mich mit ihren Autos überholten. Die Straße ist aber öffentlich und führt bis zum Restaurant Unterstein auf 960m."
       },
       {
         "photos": [
@@ -54,7 +63,7 @@
           }
         ],
         "videos": [],
-        "text": "Nach Unterstein (hier links) hört die Asphaltstraße auf und der Weg wird steiler. Im Hintergrund ist der Grat zu sehen, den ich im Laufe dieses Tages entlanglaufen werde."
+        "text": "Nach Unterstein (hier links) hört die Asphaltstraße auf und der Weg wird steiler. Im Hintergrund ist der Grat zu sehen, den ich im Laufe des Tages entlanglaufen würde."
       },
       {
         "photos": [
@@ -67,7 +76,7 @@
           }
         ],
         "videos": [],
-        "text": "Nach Unterstein folgt logischerweise Oberstein, das bereits oben auf dem Grat liegt. Nun folgte ich dem Wegweiser Schnebelhorn, was mein erstes richtige Ziel war."
+        "text": "Nach Unterstein folgt logischerweise Oberstein, das bereits oben auf dem Grat liegt. Nun folgte ich dem Wegweiser Schnebelhorn, was mein erstes richtiges Ziel war."
       },
       {
         "photos": [
@@ -106,7 +115,7 @@
           }
         ],
         "videos": [],
-        "text": "Den Wald verlässt man schnell wieder. Hier der Blick zurück beim Aufstieg zum ersten Gipfel - den Steinweid. Bei dieser Wanderung ist zu beachten, dass der offizielle Weg meist um die Gipfel herumführt um Höhe zu sparen. Wenn man jeden Gipfel mitnehmen will (wie ich an diesem Tag), muss man einfach den Wanderweg verlassen."
+        "text": "Den Wald verließ ich schnell wieder. Hier der Blick zurück beim Aufstieg zum ersten Gipfel - den Steinweid. Bei dieser Wanderung ist zu beachten, dass der offizielle Weg meist um die Gipfel herumführt um Höhe zu sparen. Wenn man jeden Gipfel mitnehmen will (wie ich an diesem Tag), muss man den Wanderweg verlassen."
       },
       {
         "photos": [
@@ -119,7 +128,7 @@
           }
         ],
         "videos": [],
-        "text": "Blick zurück auf den Gipfel des Steinweids. Im Hintergrund lugt auch der Säntis hervor."
+        "text": "Blick zurück auf den Gipfel des Steinweids. Im Hintergrund lugt der Säntis hervor."
       },
       {
         "photos": [
@@ -223,7 +232,7 @@
           }
         ],
         "videos": [],
-        "text": "Nach einer kurzen Vesperpause hier bereits auf dem Abstieg vom Schnebelhorn. Links den Grat bin ich hinauf gelaufen. Im Tal rechts liegt Libingen."
+        "text": "Nach einer kurzen Vesperpause war ich hier bereits auf dem Abstieg vom Schnebelhorn. Links den Grat war ich hinauf gelaufen. Im Tal rechts liegt Libingen."
       },
       {
         "photos": [
@@ -262,7 +271,7 @@
           }
         ],
         "videos": [],
-        "text": "Hier habe ich bereits den Wanderweg verlassen und laufe auf kleinem Weg hinauf auf die Schindelberghöchi. Blick zurück zum Schnebelhorn."
+        "text": "Hier habe ich bereits den Wanderweg verlassen und laufe auf kleinem Weg hinauf auf die Schindelberghöchi. Der Blick zurück zum Schnebelhorn."
       },
       {
         "photos": [
@@ -295,7 +304,7 @@
           }
         ],
         "videos": [],
-        "text": "Und so schön ging der Weg auf dem Grat von der Schindelberghöchi zum Schindelegg weiter. Das Verlassen des Hauptwanderwegs hat sich hier auf jeden Fall gelohnt."
+        "text": "Und so schön ging der Weg auf dem Grat von der Schindelberghöchi zum Schindelegg weiter. Das Verlassen des Hauptwanderwegs hatte sich hier auf jeden Fall gelohnt."
       },
       {
         "photos": [
@@ -360,7 +369,7 @@
           }
         ],
         "videos": [],
-        "text": "Beim Abstieg vom Rossegg der steilste Abschnitt der gesamten Wanderung. Aber nur sehr kurz und nicht wirklich gefährlich. Man könnte zu dem das ganze auch auf einem Fahrweg umgehen."
+        "text": "Beim Abstieg vom Rossegg der steilste Abschnitt der gesamten Wanderung. Aber nur sehr kurz und nicht wirklich gefährlich. Man könnte zudem das ganze auch auf einem Fahrweg umgehen."
       },
       {
         "photos": [
@@ -373,7 +382,7 @@
           }
         ],
         "videos": [],
-        "text": "Schrub, Schrub, Schrub, überquerte mich ein etwas altmodisch aussehender Helikopter."
+        "text": "Schrubb, Schrubb, Schrubb, überquerte mich ein etwas altmodisch aussehender Helikopter."
       },
       {
         "photos": [
@@ -438,7 +447,7 @@
           }
         ],
         "videos": [],
-        "text": "Ich bin dann mal nicht weiter auf dem Grat, sondern zum Wanderweg abgestiegen, um auf dieser schönen Aussichtsbank eine Pause zu machen."
+        "text": "Ich bin dann mal nicht weiter auf dem Grat gelaufen, sondern bin zum Wanderweg abgestiegen, um auf dieser schönen Aussichtsbank eine Pause zu machen."
       },
       {
         "photos": [
@@ -451,7 +460,7 @@
           }
         ],
         "videos": [],
-        "text": "Und weiter gehts. Blick zurück zur Habrütispitz."
+        "text": "Und weiter gings. Blick zurück zur Habrütispitz."
       },
       {
         "photos": [
@@ -471,7 +480,7 @@
           }
         ],
         "videos": [],
-        "text": "Nun geht der Weg durch den Wald auf das Chrüzegg. Der Weg führt dabei mitten lustig durch viele Nagelfluhbrocken, die (laut Tafel) auf dem rutschigen Grund sich den Berg hinabbewegen und dabei auseinanderbrechen."
+        "text": "Nun ging der Weg durch den Wald auf das Chrüzegg. Der Pfad führt dabei lustig mitten durch viele Nagelfluhbrocken, die laut Schautafel auf dem rutschigen Grund sich den Berg hinabbewegen und dabei auseinanderbrechen."
       },
       {
         "photos": [
@@ -484,7 +493,7 @@
           }
         ],
         "videos": [],
-        "text": "Nach dem Wald ist es nur noch ein kurzes Stück zum 1300m hohen Chrüzegg. Während mir die ganze Zeit vielleicht nur fünf andere Wanderer begegneten, wurde es nun deutlich belebter."
+        "text": "Nach dem Wald war es nur noch ein kurzes Stück zum 1300m hohen Chrüzegg. Während mir die ganze Zeit vielleicht nur fünf andere Wanderer begegneten, wurde es nun deutlich belebter."
       },
       {
         "photos": [
@@ -497,7 +506,7 @@
           }
         ],
         "videos": [],
-        "text": "Blick vom Chrüzegg auf den weiteren Verlauf des Wegs. Das Gasthaus Chrüzegg versteckt sich noch hinter den Tannen in der Bildmitte."
+        "text": "Blick vom Chrüzegg auf den weiteren Verlauf des Wegs. Das Gasthaus Chrüzegg versteckte sich noch hinter den Tannen in der Bildmitte."
       },
       {
         "photos": [
@@ -523,7 +532,7 @@
           }
         ],
         "videos": [],
-        "text": "Puh, der Wegweiser auf dem Chrüzegg bietet fast zuviele Informationen. An Wanderwegen mangelt es in dieser Gegend auf jeden Fall nicht. Inzwischen war es 12:00."
+        "text": "Puh, der Wegweiser auf dem Chrüzegg bietet fast zu viele Informationen. An Wanderwegen mangelt es in dieser Gegend auf jeden Fall nicht. Inzwischen war es 12:00."
       },
       {
         "photos": [
@@ -536,7 +545,7 @@
           }
         ],
         "videos": [],
-        "text": "Ich verließ mal wieder den Wanderweg und ging auf den benachbarten namenlosen (?) Gipfel. Blick zurück zum Chrüzegg. über den rechten Grat führte mein Weg."
+        "text": "Ich verließ mal wieder den Wanderweg und ging auf den benachbarten namenlosen Gipfel. Blick zurück zum Chrüzegg. über den rechten Grat führte mein Weg."
       },
       {
         "photos": [
@@ -621,7 +630,7 @@
           }
         ],
         "videos": [],
-        "text": "Danach ging es weiter zu den Wiesen von Älpli, auf denen dekorativ ebenfalls einige Nagelfuhfelsen veteilt sind. Im Hintergrund ist wieder der Grat vom Morgen zu sehen."
+        "text": "Danach ging es weiter zu den Wiesen von Älpli, auf denen dekorativ ebenfalls einige Nagelfuhfelsen verteilt sind. Im Hintergrund ist wieder der Grat vom Morgen zu sehen."
       },
       {
         "photos": [
@@ -634,7 +643,7 @@
           }
         ],
         "videos": [],
-        "text": "Ohne weiteren Aufstieg war ich nun auf der Chellenspitz, der elfte und letzte Gipfel meiner Grattour. Schöne Aussicht von hier Richtung Säntis (rechts)."
+        "text": "Ohne weiteren Aufstieg war ich nun auf der Chellenspitz, der elfte und letzte Gipfel meiner Gratwanderung. Schöne Aussicht von hier Richtung Säntis (rechts)."
       },
       {
         "photos": [
@@ -673,7 +682,7 @@
           }
         ],
         "videos": [],
-        "text": "Denn danach ging es recht steil in einem Wald bergab. Der Weg war hier aber gut abgesichert."
+        "text": "Danach ging es recht steil in einem Wald bergab. Der Weg war hier aber gut abgesichert."
       },
       {
         "photos": [
@@ -693,7 +702,7 @@
           }
         ],
         "videos": [],
-        "text": "Nach den Wald ging es steil über Wiesen Richtung Libingen. Bei feuchterem Wetter dürften der Weg ziemlich rutschig sein."
+        "text": "Nach den Wald ging es steil über Wiesen Richtung Libingen. Bei feuchterem Wetter dürfte der Weg ziemlich rutschig sein."
       },
       {
         "photos": [
@@ -706,7 +715,7 @@
           }
         ],
         "videos": [],
-        "text": "Wenn ein Fotos nichts wurde muss es halt verfremdet werden..."
+        "text": "Wenn ein Foto nichts wurde muss es halt verfremdet werden..."
       },
       {
         "photos": [
@@ -719,7 +728,7 @@
           }
         ],
         "videos": [],
-        "text": "Nach Libingen kommt man nicht direkt, zuerst muss man durch eine Schlucht. Weiterhin steil ging es hier hinunter."
+        "text": "Nach Libingen kam ich nicht direkt, sondern zuerst musste ich durch eine Schlucht. Weiterhin steil ging es hier hinunter."
       },
       {
         "photos": [
@@ -746,7 +755,7 @@
           }
         ],
         "videos": [],
-        "text": "Impressionen auf der Schlucht bei Libingen. Danach ging es natürlich wieder bergauf."
+        "text": "Impressionen aus der Schlucht bei Libingen. Danach ging es natürlich wieder bergauf."
       },
       {
         "photos": [
@@ -778,6 +787,6 @@
         "text": "Der Streckenverlauf. 1300 Höhenmeter auf 16km. Wie man sieht ist man meist zwischen 1100m und 1300m unterwegs."
       }
     ],
-    "outro": "Fazit: Überraschend abwechslungsreiche Gratwanderung mit immer neuen Ausblicken. Wenn man sich an die ausgezeichneten Wege hält spart man einige Höhenmeter, aber es entgeht einem auch ein paar schöne Abschnitte. Die Wanderung ist insgesamt einfach, aber trotzdem nicht unanstrengend. Man kann die Runde aber auch an mehreren Stellen abbrechen, wenn man keine Lust mehr hat."
+    "outro": "Fazit: Überraschend abwechslungsreiche Gratwanderung mit immer neuen Ausblicken. Wenn man sich an die ausgezeichneten Wege hält spart man einige Höhenmeter, aber es entgehen einem auch ein paar schöne Abschnitte. Die Wanderung ist insgesamt einfach, aber trotzdem nicht unanstrengend. Man könnte die Runde aber auch an mehreren Stellen abbrechen, wenn man keine Lust mehr hätte."
   }
 ]

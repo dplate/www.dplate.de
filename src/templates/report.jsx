@@ -368,7 +368,7 @@ class Report extends React.Component {
 }
 
 export const Head = (props) => {
-  const { destination, date, type, shortTitle, title, movie, landmarks } = props.data.reportJson;
+  const { destination, date, datePublished, dateModified, type, shortTitle, title, movie, landmarks } = props.data.reportJson;
   const { name: destinationName } = props.data.destinationJson;
   const pageTitle = buildPageTitle(title, type);
   const pageDescription = buildPageDescription(destinationName, title, type, date);
@@ -388,8 +388,8 @@ export const Head = (props) => {
     return 'https://www.dplate.de/photos' + reportPath + '/' + fileName + '.jpg';
   });
 
-  const datePublished =
-    selectedPhotos[0].date || date.substring(1, 5) + '-' + date.substring(5, 7) + '-' + date.substring(7, 9);
+  const datePublishedWithFallback =
+    datePublished || selectedPhotos[0].date || date.substring(1, 5) + '-' + date.substring(5, 7) + '-' + date.substring(7, 9);
 
   const hike = type === 'hike' || type === 'winterHike';
 
@@ -421,8 +421,8 @@ export const Head = (props) => {
           headline: pageTitle,
           description: pageDescription,
           image: photoUrls,
-          datePublished,
-          dateModified: datePublished,
+          datePublished: datePublishedWithFallback,
+          dateModified: dateModified || datePublishedWithFallback,
           author: {
             '@type': 'Person',
             name: 'Dirk Plate'
@@ -459,6 +459,8 @@ export const pageQuery = graphql`
     reportJson(destination: { eq: $destination }, date: { eq: $date }) {
       destination
       date
+      datePublished
+      dateModified
       type
       track
       timeShift
