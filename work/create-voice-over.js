@@ -3,8 +3,8 @@ const jsonfile = require('jsonfile');
 const fs = require('fs');
 
 const projectPath = 'C:/Users/Roger/web/Dp3';
-const destination = 'laterns';
-const reportDate = '20251226';
+const destination = 'alpstein';
+const reportDate = '20260101';
 
 const client = new textToSpeech.TextToSpeechClient();
 
