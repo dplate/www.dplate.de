@@ -2,6 +2,8 @@
   {
     "destination": "vierwaldstaettersee",
     "date": "d20180826",
+    "datePublished": "2018-08-27T12:00:00.000+02:00",
+    "dateModified": "2026-01-04T13:00:00.000+01:00",
     "type": "hike",
     "track": true,
     "detailMap": "swiss",
@@ -14,7 +16,7 @@
       "width": 1920,
       "height": 459
     },
-    "movie": "dU_lt879Ww0",
+    "movie": "_9TFBBzQ23M",
     "intro": "Schon länger stand auf meiner ToDo-Liste eine Wanderung auf den Pilatus. Dabei gab es zwei Schwierigkeiten: Erstens war es gar nicht so leicht eine Rundwanderung am Pilatus zu finden und zweitens muss ich dorthin an Zürich vorbeifahren - und das geht praktisch nur an einem Sonntag staufrei.<br />Am letzten Sonntag schließlich hatte ich mir eine Runde ausgeguckt und auch das Wetter sollte einigermaßen passen.",
     "landmarks": [
       {
@@ -28,7 +30,7 @@
           }
         ],
         "videos": [],
-        "text": "Ich startete meine Wanderung auf dem Parkplatz Gantersei im Eigenthal, das ich um 8:00 erreichte (Parkgebühr 5CHF). Das Eigenthal ist ein 1000m hoch gelegenes Tal nordwestlich unterhalb des Pilatus. Noch war es (für August) mit 7° sehr frisch und es waberten auch ein paar Wolkenfetzen um den Pilatus (hier im Hintergrund)."
+        "text": "Ich startete meine Wanderung auf dem Parkplatz Gantersei im Eigenthal, das ich um 8:00 erreichte, Parkgebühr 5CHF. Das Eigenthal ist ein 1000m hoch gelegenes Tal nordwestlich unterhalb des Pilatus. Noch war es für August mit 7° sehr frisch und es waberten auch ein paar Wolkenfetzen um den Pilatus (hier im Hintergrund)."
       },
       {
         "photos": [
@@ -126,7 +128,7 @@
           }
         ],
         "videos": [],
-        "text": "Nun ging es unterhalb der Felswand am Hang entlang, um die Weiden der Oberalp zu erreichen. Damit wurde es (zumindest kurz) etwas flacher und die ersten Sonnenstrahlen des Tages erreichten mich.<br />Allerdings waren die Weg hier nach dem Regen des Vortags sehr feucht und schmierig und ich konnte auch kein trockenes Plätzchen für eine Pause finden."
+        "text": "Nun ging es unterhalb der Felswand am Hang entlang, um die Weiden der Oberalp zu erreichen. Damit wurde es (zumindest kurz) etwas flacher und die ersten Sonnenstrahlen des Tages erreichten mich.<br />Allerdings waren die Wege hier nach dem Regen des Vortags sehr feucht und schmierig und ich konnte auch kein trockenes Plätzchen für eine Pause finden."
       },
       {
         "photos": [
@@ -224,7 +226,7 @@
           }
         ],
         "videos": [],
-        "text": "Nach dem Aufstieg über den Grat erreichte ich den 2000m hohen Grasrücken des Widderfelds - ein von dieser Seite aus sehr flacher Gipfel.<br />Zum eigentlich Gipfel müsste man aber rund 15min vom Weg abzweigen, auf Grund der nicht vorhandenen Sicht sparte ich mir diesen Abstecher."
+        "text": "Nach dem Aufstieg über den Grat erreichte ich den 2000m hohen Grasrücken des Widderfelds - ein von dieser Seite aus sehr flacher Gipfel.<br />Zum eigentlichen Gipfel müsste man aber rund 15min vom Weg abzweigen, auf Grund der nicht vorhandenen Sicht sparte ich mir diesen Abstecher."
       },
       {
         "photos": [
@@ -264,7 +266,7 @@
           }
         ],
         "videos": [],
-        "text": "Nun folgte der schwierigste Teil der Wanderung: über eine steile Felsnase ging es steil bergab. Zum Glück gab es die Kette zum festhalten, aber runter war es trotzdem ziemlich knifflig.<br />Der Nebel sorgte zumindest dafür, dass ich dazu nicht auch noch vom Abgrund abgelenkt wurde."
+        "text": "Nun folgte der schwierigste Teil der Wanderung: über eine steile Felsnase ging es steil bergab. Zum Glück gab es die Kette zum Festhalten, aber runter war es trotzdem ziemlich knifflig.<br />Der Nebel sorgte zumindest dafür, dass ich dazu nicht auch noch vom Abgrund abgelenkt wurde."
       },
       {
         "photos": [
@@ -371,7 +373,7 @@
           }
         ],
         "videos": [],
-        "text": "Nun rissen von Süden her die Wolken auf und es präsentierte sich der weitere Verlauf des Wegs. Es ging nun weiter immer am Grat entlang hinauf zum Tomlishorn, zum Teil noch mit Ketten gesichtert."
+        "text": "Nun rissen von Süden her die Wolken auf und es präsentierte sich der weitere Verlauf des Wegs. Es ging nun weiter immer am Grat entlang hinauf zum Tomlishorn, zum Teil noch mit Ketten gesichert."
       },
       {
         "photos": [
@@ -475,7 +477,7 @@
           }
         ],
         "videos": [],
-        "text": "Bis zum Pilatus waren es nun noch 40min... das aber auf perfekt ausgebautem und gesicherten Weg. Anders würden die unzähligen Touristen (wo von viele ganz offensichtlich das erste mal auf einem Berg standen) auch nicht zum Tomlishorn kommen."
+        "text": "Bis zum Pilatus waren es nun noch 40 Minuten... das aber auf perfekt ausgebautem und gesicherten Weg. Anders würden die unzähligen Touristen (wo von viele ganz offensichtlich das erste mal auf einem Berg standen) auch nicht zum Tomlishorn kommen."
       },
       {
         "photos": [
@@ -501,7 +503,7 @@
           }
         ],
         "videos": [],
-        "text": "Fast etwas dressiert wirkte diese Gämse, die als Fotomotiv direkt neben dem Panoramaweg posierte."
+        "text": "Fast etwas gestellt wirkte diese Gämse, die als Fotomotiv direkt neben dem Panoramaweg posierte."
       },
       {
         "photos": [
@@ -652,7 +654,7 @@
           }
         ],
         "videos": [],
-        "text": "Tele zum Tomlishorn. Der Wolken an der Nordwand hatten so auch ihren Reiz."
+        "text": "Tele zum Tomlishorn. Die Wolken an der Nordwand hatten so auch ihren Reiz."
       },
       {
         "photos": [
@@ -730,7 +732,7 @@
           }
         ],
         "videos": [],
-        "text": "Und so schnell kann sich alles ändern. Nachdem ich ein paar Meter den Wanderweg hinterlief, waren alle Wolken verschwunden und dieser schöne Blick öffnete sich.<br />Der Weg geht den steilen Nordhang in vielen Serpentinen hinunter. Zum Teil auch nicht ganz einfach, aber viel begangen... besonders aufwärts.<br />In der Mitte ist hier übrigens das Eigenthal vom Morgen zu sehen, d.h. das Ziel war hier schon im Blick (allerdings noch 1000m tiefer)."
+        "text": "Und so schnell kann sich alles ändern. Nachdem ich ein paar Meter den Wanderweg herunter lief, waren alle Wolken verschwunden und dieser schöne Blick öffnete sich.<br />Der Weg geht den steilen Nordhang in vielen Serpentinen hinunter. Zum Teil auch nicht ganz einfach, aber viel begangen... besonders aufwärts.<br />In der Mitte ist hier übrigens das Eigenthal vom Morgen zu sehen, d.h. das Ziel war hier schon im Blick (allerdings noch 1000m tiefer)."
       },
       {
         "photos": [
@@ -783,7 +785,7 @@
           }
         ],
         "videos": [],
-        "text": "Ich machte stattdessen eine Pause auf der Wiese, genoß den Blick auf den Vierwaldstättersee bei nun bestem Wetter und beobachtete die Seilbahn 'Dragon Ride', die den Pilatus von Norden her erschließt.<br />Diese Bahn hätte ich auch nehmen können, wenn ich nicht mehr genug Kraft (und Lust) für den ganzen Abstieg gehabt hätte. Diese hätte mir bis zur Mittelstation Fräkmüntegg 700 Höhenmeter abgenommen und 18CHF gekostet - wie ihr seht hatte ich mich schon gut vorbereitet."
+        "text": "Ich machte stattdessen eine Pause auf der Wiese, genoss den Blick auf den Vierwaldstättersee bei nun bestem Wetter und beobachtete die Seilbahn 'Dragon Ride', die den Pilatus von Norden her erschließt.<br />Diese Bahn hätte ich auch nehmen können, wenn ich nicht mehr genug Kraft (und Lust) für den ganzen Abstieg gehabt hätte. Diese hätte mir bis zur Mittelstation Fräkmüntegg 700 Höhenmeter abgenommen und 18CHF gekostet - wie ihr seht hatte ich mich schon gut vorbereitet."
       },
       {
         "photos": [
@@ -822,7 +824,7 @@
           }
         ],
         "videos": [],
-        "text": "Der Weg steuerte nun schnurstracks auf einen weiteren Steilhang zu. Ich konnte nicht erahnen, wie es wohl weiter gehen würde.<br />Dafür was das Wetter nun wirklich perfekt: Sonnenschein, leichter Wind und angenehme Temperatur."
+        "text": "Der Weg steuerte nun schnurstracks auf einen weiteren Steilhang zu. Ich konnte nicht erahnen, wie es wohl weiter gehen würde.<br />Dafür war das Wetter nun wirklich perfekt: Sonnenschein, leichter Wind und angenehme Temperatur."
       },
       {
         "photos": [
@@ -997,6 +999,6 @@
         "text": "Den Parkplatz Gantersei erreichte ich um 17:45. Nun war der gesamte Pilatus wolkenfrei und ich konnte den ganzen Grat studieren, den ich am Vormittag überwunden hatte: Zuerst vom Felsen rechts (Widderfeld), hinüber zum Grasgrat und weiter zum Tomlishorn (genau in der Mitte). Danach noch auf der Rückseite weiter zum Pilatus (ganz links)."
       }
     ],
-    "outro": "Fazit: Mein Vorhaben mal eine Wanderung am Pilatus zu machen hat sich voll erfüllt, auch wenn die Aussicht am Vormittag besser hätte sein können. Für die gewählte Rundwanderung mit über 1600 Höhenmeter rauf+runter und 20km Länge habe ich fast 10h gebraucht (mit Pausen). Ich würde sie aber eher andersherum empfehlen, da man dann die technisch schwierigen Stellen jeweils bergauf überwinden kann. Auch kann man sich mit der Seilbahn 700m Höhenmeter ersparen."
+    "outro": "Fazit: Mein Vorhaben mal eine Wanderung am Pilatus zu machen hat sich voll erfüllt, auch wenn die Aussicht am Vormittag besser hätte sein können. Für die gewählte Rundwanderung mit über 1600 Höhenmeter rauf+runter und 20km Länge habe ich mit Pausen fast 10h gebraucht. Ich würde sie aber eher andersherum empfehlen, da man dann die technisch schwierigen Stellen jeweils bergauf überwinden kann. Auch kann man sich mit der Seilbahn 700 Höhenmeter ersparen."
   }
 ]

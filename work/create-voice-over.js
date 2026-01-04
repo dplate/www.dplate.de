@@ -3,12 +3,16 @@ const jsonfile = require('jsonfile');
 const fs = require('fs');
 
 const projectPath = 'C:/Users/Roger/web/Dp3';
-const destination = 'alpstein';
-const reportDate = '20260101';
+const destination = 'vierwaldstaettersee';
+const reportDate = '20180826';
 
 const client = new textToSpeech.TextToSpeechClient();
 
 const pronunciations = [
+  {
+    regex: /(titlis)/gi,
+    ipa: 'ˈtiːtlɪs'
+  },
   {
     regex: /(selun)/gi,
     ipa: 'selun'
