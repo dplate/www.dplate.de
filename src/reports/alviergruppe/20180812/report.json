@@ -2,8 +2,11 @@
   {
     "destination": "alviergruppe",
     "date": "d20180812",
+    "datePublished": "2018-08-13T12:00:00.000+02:00",
+    "dateModified": "2026-01-10T14:00:00.000+01:00",
     "type": "hike",
     "track": true,
+    "timeShift": -90,
     "detailMap": "swiss",
     "shortTitle": "Alvier",
     "title": "Berghaus Malbun - Alvier",
@@ -13,8 +16,8 @@
       "width": 1920,
       "height": 475
     },
-    "movie": "Ke1RZ85-7ls",
-    "intro": "Nachdem die Hitze der letzten Wochen (und damit die Gewitter in den Bergen) endlich vorbei war, ging es an diesem Sonntag wieder in die Berge.<br />Mein letzter Besuch des 2300m hohen Alviers lag bereits vier Jahre zurück, so dass ich diesen als Ziel wählte. Diesmal allerdings nicht von Süden (Palfries), sondern von Norden (Berghaus Malbun) her.",
+    "movie": "0jM9XNevkJg",
+    "intro": "Nachdem die Hitze der letzten Wochen (und damit die Gewitter in den Bergen) endlich vorbei war, ging es an diesem Sonntag wieder in die Berge.<br />Mein letzter Besuch des 2300m hohen Alviers lag bereits vier Jahre zurück, so dass ich diesen als Ziel wählte. Diesmal allerdings nicht von Süden (Palfries), sondern von Norden, dem Berghaus Malbun, aus.",
     "landmarks": [
       {
         "photos": [
@@ -47,7 +50,7 @@
           }
         ],
         "videos": [],
-        "text": "Das Auto kann man auf dem Parkplatz des Berghaus Malbun (Hotel, Restaurant und Skilift) abstellen. Die Tagesgebühr kostet 6CHF, wobei 4CHF davon als Gutschein für das Restaurant verwendet werden können.<br />Genau um 8:00 ging es dann für mich zu Fuß los. Vom Berghaus Malbun aus kann man entweder zum nahen Margelchopf laufen oder zum weiter entfernten Alvier.<br />Der direkte Weg zm Alvier bedeutet allerdings zuerst mindestens 1h auf einem Fahrweg, den man auch noch am Schluß wieder zurücklaufen muss. Ich hatte mir deshalb einen alternativen Hinweg Richtung Margelchopf ausgesucht - also ging es nun nach rechts."
+        "text": "Das Auto kann man auf dem Parkplatz des Berghaus Malbun <span data-silent>(Hotel, Restaurant und Skilift)</span> abstellen. Die Tagesgebühr kostete 6CHF, wobei 4CHF davon als Gutschein für das Restaurant verwendet werden konnten.<br />Genau um 8:00 ging es dann für mich zu Fuß los. Vom Berghaus Malbun aus kann man entweder zum nahen Margelchopf laufen oder zum weiter entfernten Alvier.<br />Der direkte Weg zum Alvier bedeutet allerdings zuerst mindestens eine Stunde auf einem Fahrweg, den man auch noch am Schluss wieder zurücklaufen muss. Ich hatte mir deshalb einen alternativen Hinweg Richtung Margelchopf ausgesucht - also ging es nun nach rechts."
       },
       {
         "photos": [
@@ -197,7 +200,7 @@
           }
         ],
         "videos": [],
-        "text": "Noch befinde ich mich aber auf dem Normalweg zum Margelchopf (links). Rechts der umwanderte Buckel Hanenspil."
+        "text": "Noch befinde ich mich aber auf dem Normalweg zum Margelchopf (links). Rechts der um-wanderte Buckel Hanenspil."
       },
       {
         "photos": [
@@ -236,7 +239,7 @@
           }
         ],
         "videos": [],
-        "text": "Nun erreichte ich aber den für mich wichtigen Wegweiser auf 1900m. Rechts der <a href='/alpine/alviergruppe/20171021'>Weg zum Margelchopf</a>, den ich letzten Herbst bestiegen hatte, und links mein Weg Richtung Alvier.<br />Wie man sieht ist der Weg zum Margelchopf viel begangen, während auf meinem nun folgdenden Weg nur die Wegzeichen zu erkennbar sind."
+        "text": "Nun erreichte ich aber den für mich wichtigen Wegweiser auf 1900m. Rechts der <a href='/alpine/alviergruppe/20171021'>Weg zum Margelchopf</a>, den ich letzten Herbst bestiegen hatte, und links mein Weg Richtung Alvier.<br />Wie man sieht ist der Weg zum Margelchopf viel begangen, während auf meinem nun folgenden Weg nur die Wegzeichen erkennbar waren."
       },
       {
         "photos": [
@@ -262,7 +265,7 @@
           }
         ],
         "videos": [],
-        "text": "Vorbei an einem kleinen See, in dem sich der Margelchopf spiegelt. Hier kann man links auch gut den Isisizgrat sehen. Über diesen Grat führt der (steile) Weg auf den Margelchopf."
+        "text": "Vorbei an einem kleinen See, in dem sich der Margelchopf spiegelte. Hier kann man links auch gut den Isisizgrat sehen. Über diesen Grat führt der steile Weg auf den Margelchopf."
       },
       {
         "photos": [
@@ -288,7 +291,7 @@
           }
         ],
         "videos": [],
-        "text": "Wie angekündigt erreichte ich nun einen kleinen Pass auf 2000m. Der vorerst höchste Punkt meiner Wanderung. Nun war ich 1:20h unterwegs. Von dort kann man ebenfalls eben zum Isisizgrat zurücklaufen. Eine recht interessante Variante zum Normalweg."
+        "text": "Wie angekündigt erreichte ich nun einen kleinen Pass auf 2000m. Der vorerst höchste Punkt meiner Wanderung. Nun war ich 1 Stunde und 20 Minuten unterwegs. Von dort kann man ebenfalls eben zum Isisizgrat zurücklaufen. Eine recht interessante Variante zum Normalweg."
       },
       {
         "photos": [
@@ -314,7 +317,7 @@
           }
         ],
         "videos": [],
-        "text": "Blick zu den dunstig blauen Bergen von Liechtenstein (die Fernsicht war an diesem Tag nicht berauschend). Rechts vorne weideten Kühe auf einem kleinen ausgesetzten Felsplateau... verrückt."
+        "text": "Blick zu den dunstig blauen Bergen von Liechtenstein, die Fernsicht war an diesem Tag nicht berauschend. Rechts vorne weideten Kühe auf einem kleinen ausgesetzten Felsplateau... verrückt."
       },
       {
         "photos": [
@@ -340,7 +343,7 @@
           }
         ],
         "videos": [],
-        "text": "Der Weg war besonders am Anfang nicht ganz ohne, aber runter ist man natürlich trotzdem immer sehr schnell. Hier bin ich nun also an dieser Alp: im Hintergrund der Pass, durch den ich gekommen war."
+        "text": "Der Weg war besonders am Anfang nicht ganz ohne, aber runter ist man natürlich trotzdem immer sehr schnell. Hier bin ich nun also an dieser Alp: im Hintergrund der Pass, über den ich gekommen war."
       },
       {
         "photos": [
@@ -366,7 +369,7 @@
           }
         ],
         "videos": [],
-        "text": "Dann steigt der Weg wieder langsam an. Vorbei an der Alp Obersäss (ja, sie heißt genau gleich wie die andere Alp). Hier der Blick zurück. Links ist der störende Felsriegel zu sehen."
+        "text": "Dann stieg der Weg wieder langsam an. Vorbei an der Alp Obersäss (ja, sie heißt genau gleich wie die andere Alp). Hier der Blick zurück. Links ist der störende Felsriegel zu sehen."
       },
       {
         "photos": [
@@ -392,7 +395,7 @@
           }
         ],
         "videos": [],
-        "text": "Etwas entäuscht folgte ich stattdessen dem Weg auf selber Höhe weiter zum Barbielergrat, der hier zu sehen ist. Von links kamen nun einige Wanderer hinzu, die den normalen Weg vom Berghaus Malbun gewählt hatten."
+        "text": "Etwas enttäuscht folgte ich stattdessen dem Weg auf selber Höhe weiter zum Barbielergrat, der hier zu sehen ist. Von links kamen nun einige Wanderer hinzu, die den normalen Weg vom Berghaus Malbun gewählt hatten."
       },
       {
         "photos": [
@@ -418,7 +421,7 @@
           }
         ],
         "videos": [],
-        "text": "Nach den ersten (von unzähligen) Serpentinen der Blick zurück zum Barbielergrat und der Spitze des Chopf."
+        "text": "Nach den ersten von unzähligen Serpentinen der Blick zurück zum Barbielergrat und der Spitze des Chopf."
       },
       {
         "photos": [
@@ -484,7 +487,7 @@
           }
         ],
         "videos": [],
-        "text": "Und der Blick hinab nach Süden. Rechts sind die Wiesen von Palfries zu sehen, links der Gauschla und die Girenspitz. Der Weg von Palfries kommend ist der schnellste Aufstieg auf den Alvier. Diesen habe ich hier beschrieben: <a href='/alpine/alviergruppe/20140907'>Wanderung Palfries - Alvier</a>."
+        "text": "Und der Blick hinab nach Süden. Rechts sind die Wiesen von Palfries zu sehen, links der Gauschla und die Girenspitz. Der Weg von Palfries kommend ist der schnellste Aufstieg auf den Alvier. <span data-silent>Diesen habe ich hier beschrieben: <a href='/alpine/alviergruppe/20140907'>Wanderung Palfries - Alvier</a>.</span>"
       },
       {
         "photos": [
@@ -504,7 +507,7 @@
           }
         ],
         "videos": [],
-        "text": "Über einen Grat kann man vom eigentlich Gipfel noch bis zur Felskante vorlaufen, um die Felswand hinunter nach Palfries zu schauen.<br />Ganz an die Kante habe ich mich aber nicht getraut und stattdessen eine windgeschützte Pause auf der Wiese eingelegt."
+        "text": "Über einen Grat kann man vom eigentlichen Gipfel noch bis zur Felskante vorlaufen, um die Felswand hinunter nach Palfries zu schauen.<br />Ganz an die Kante habe ich mich aber nicht getraut und stattdessen eine windgeschützte Pause auf der Wiese eingelegt."
       },
       {
         "photos": [
@@ -556,7 +559,7 @@
           }
         ],
         "videos": [],
-        "text": "Von meinem Pausenplatz aus konnte ich gut den Wanderweg einsehen, den ich eigentlich auf den Alvier hochlaufen wollte und verpasste. Auch vom Gipfel aus war dieser nicht gekennzeichnet. Aber es liefen dort soviele hinab, so dass auch ich beschloss ihn zu gehen. Kaum ist man ein paar Meter abgestiegen, ist der Weg auch normal markiert."
+        "text": "Von meinem Pausenplatz aus konnte ich gut den Wanderweg einsehen, den ich eigentlich auf den Alvier hochlaufen wollte und verpasste. Auch vom Gipfel aus war dieser nicht gekennzeichnet. Aber es liefen dort so viele hinab, so dass auch ich beschloss ihn zu gehen. Kaum ist man ein paar Meter abgestiegen, ist der Weg auch normal markiert."
       },
       {
         "photos": [
@@ -655,7 +658,7 @@
           }
         ],
         "videos": [],
-        "text": "Schließlich kam ich wieder auf den Wanderpfad von meinem Hinweg und ich war natürlich neugierig, wo (und warum) ich die Abzweigung verpasst hatte. Wie sich herausstellte, waren alle Wegzeichen übermalt worden. Und auch dieser Wegweiser zum Alvier ist unkenntlich gemacht worden. Warum weiß ich nicht, denn der Weg kam mir eigentlich gut in Schuß vor und es waren auch viele Wanderer dort unterwegs."
+        "text": "Schließlich kam ich wieder auf den Wanderpfad von meinem Hinweg und ich war natürlich neugierig, wo (und warum) ich die Abzweigung verpasst hatte. Wie sich herausstellte, waren alle Wegzeichen übermalt worden. Und auch dieser Wegweiser zum Alvier ist unkenntlich gemacht worden. Warum weiß ich nicht, denn der Weg kam mir eigentlich gut in Schuss vor und es waren auch viele Wanderer dort unterwegs."
       },
       {
         "photos": [
@@ -668,7 +671,7 @@
           }
         ],
         "videos": [],
-        "text": "Blick auf gut sichtbaren Felsschichtungen der Nordseite des Chopf.<br />Bis nach Obersäss folgte ich nun meinem Hinweg. Dann zweigte ich aber ab, um den Hauptweg zum Alvier zu erreichen."
+        "text": "Blick auf die gut sichtbaren Felsschichtungen der Nordseite des Chopf.<br />Bis nach Obersäss folgte ich nun meinem Hinweg. Dann zweigte ich aber ab, um den Hauptweg zum Alvier zu erreichen."
       },
       {
         "photos": [
@@ -681,7 +684,7 @@
           }
         ],
         "videos": [],
-        "text": "Beim Abstieg von Obersäss kreuzt man mehrfach die Serpentinen deren Zufahrtsstraße. Da die Sonneneinstahlung sehr intensiv war, freute ich mich auf diesen Schattenplatz an der Straße und machte eine längere Pause... Schatten gibt's da oben nämlich fast gar nicht."
+        "text": "Beim Abstieg von Obersäss kreuzt man mehrfach die Serpentinen deren Zufahrtsstraße. Da die Sonneneinstrahlung sehr intensiv war, freute ich mich auf diesen Schattenplatz an der Straße und machte eine längere Pause... Schatten gibt's da oben nämlich fast gar nicht."
       },
       {
         "photos": [
@@ -694,7 +697,7 @@
           }
         ],
         "videos": [],
-        "text": "Und dann kamm ich auch noch an zwei kleinen Bergbächen vorbei, die sogar Wasser führten. Dort erfrischte ich mich mit dem kalten Naß, was aber beide Male nicht lange vorhielt.<br />Außerdem wechselte ich nun von meinen schwer gewordenen Bergschuhen auf meine mitgenommenen Sandalen, da der Weg nun einfach wurde. Nun war es bereits 15:00."
+        "text": "Und dann kam ich auch noch an zwei kleinen Bergbächen vorbei, die sogar Wasser führten. Dort erfrischte ich mich mit dem kalten Naß, was aber beide Male nicht lange vorhielt.<br />Außerdem wechselte ich nun von meinen schwer gewordenen Bergschuhen auf meine mitgenommenen Sandalen, da der Weg nun einfach wurde. Nun war es bereits 15:00."
       },
       {
         "photos": [
@@ -727,7 +730,7 @@
           }
         ],
         "videos": [],
-        "text": "Angenehem schattig und flach absteigend führt der Weg den Hang entlang."
+        "text": "Angenehm schattig und flach absteigend führte der Weg den Hang entlang."
       },
       {
         "photos": [
@@ -740,7 +743,7 @@
           },
           {
             "name": "061",
-            "alt": "Panoramaweg Berghaus Malbung",
+            "alt": "Panoramaweg Berghaus Malbun",
             "date": "2018-08-12T15:36:07.000+02:00",
             "width": 1920,
             "height": 1191
@@ -760,7 +763,7 @@
           }
         ],
         "videos": [],
-        "text": "Dann tauchte endlich das Berghaus Malbun hinter eine Kurve auf. :)"
+        "text": "Dann tauchte endlich das Berghaus Malbun hinter einer Kurve auf. :)"
       },
       {
         "photos": [

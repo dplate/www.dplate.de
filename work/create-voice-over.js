@@ -3,12 +3,20 @@ const jsonfile = require('jsonfile');
 const fs = require('fs');
 
 const projectPath = 'C:/Users/Roger/web/Dp3';
-const destination = 'vierwaldstaettersee';
-const reportDate = '20180826';
+const destination = 'alviergruppe';
+const reportDate = '20180812';
 
 const client = new textToSpeech.TextToSpeechClient();
 
 const pronunciations = [
+  {
+    regex: /(girenspitz)/gi,
+    ipa: 'ˈɡiːrənˌʃpɪts'
+  },
+  {
+    regex: /(buchs)/gi,
+    ipa: 'bʊks'
+  },
   {
     regex: /(titlis)/gi,
     ipa: 'ˈtiːtlɪs'
@@ -160,6 +168,7 @@ const generateAudio = async (rawText, audioFile) => {
   text = text.replace(/(\d+)m([^\w])/g, `$1 Meter$2`);
 
   // Make sure time is pronounced as units always
+  text = text.replace(/1h/g, `eine Stunde`);
   text = text.replace(/(\d+)h/g, `$1 Stunden`);
 
   // Replace smilies
