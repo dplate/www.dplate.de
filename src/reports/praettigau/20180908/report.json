@@ -2,9 +2,11 @@
   {
     "destination": "praettigau",
     "date": "d20180908",
+    "datePublished": "2018-09-09T12:00:00.000+02:00",
+    "dateModified": "2026-01-11T13:00:00.000+01:00",
     "type": "hike",
     "track": true,
-    "timeShift": -60,
+    "timeShift": -120,
     "detailMap": "swiss",
     "shortTitle": "Falknis",
     "title": "Älplibahn - Falknis",
@@ -14,8 +16,8 @@
       "width": 1920,
       "height": 438
     },
-    "movie": "pYlR_xLQzyI",
-    "intro": "Bei meinen Wanderungen auf den Naafkopf und den Rappenstein in Liechtenstein fiel der Blick immer zum 2560m hohen Falknis. Von Liechtenstein aus lässt er sich auf normalem Bergweg nicht besteigen, sondern nur von Süden aus. Aber auch von dort ist es nicht einfach, einen geeineten Ausgangspunkt zu finden. Zum Glück gibt es die kleine Älplibahn, die von Malans (im 600m hohen Rheintal) aus bis auf fast 1800m hinauffährt und damit den Falknis an einem Tag erwanderbar macht.",
+    "movie": "dnABbPdqiMA",
+    "intro": "Bei meinen Wanderungen auf den Naafkopf und den Rappenstein in Liechtenstein fiel der Blick immer zum 2560m hohen Falknis. Von Liechtenstein aus lässt er sich auf normalem Bergweg nicht besteigen, sondern nur von Süden aus. Aber auch von dort ist es nicht einfach, einen geeigneten Ausgangspunkt zu finden. Zum Glück gibt es die kleine Älplibahn, die von Malans im 600m hohen Rheintal bis auf fast 1800m hinauffährt und damit den Falknis an einem Tag erwanderbar macht.",
     "landmarks": [
       {
         "photos": [
@@ -58,7 +60,7 @@
             "height": 1156
           }
         ],
-        "text": "Die Bergstation (und das kleine Restaurant) befindet sich mitten im bewaldeten Hang. Daran kann man erkennen, dass die Bahn ursprünglich während des 2. Weltkriegs für das Militär gebaut wurde und nicht für touristische Zwecke."
+        "text": "Die Bergstation und das kleine Restaurant befinden sich mitten im bewaldeten Hang. Daran kann man erkennen, dass die Bahn ursprünglich während des Zweiten Weltkriegs für das Militär gebaut wurde und nicht für touristische Zwecke."
       },
       {
         "photos": [
@@ -108,7 +110,7 @@
             "height": 755
           }
         ],
-        "text": "Auf einem Fahrweg ging es nun an der Vorderalp vorbei und dann anschließend in einer Serpentine den Grashang hinauf. Der Blick viel dabei zurück auf die ersten Sonnenstrahlen des Tages hinter dem Vilan (dem Berg in der Mitte)."
+        "text": "Auf einem Fahrweg ging es nun an der Vorderalp vorbei und dann anschließend in einer Serpentine den Grashang hinauf. Der Blick fiel dabei zurück auf die ersten Sonnenstrahlen des Tages hinter dem Vilan (dem Berg in der Mitte)."
       },
       {
         "photos": [
@@ -206,7 +208,7 @@
             "height": 716
           }
         ],
-        "text": "Blick das einsame Fläscher Tal hinauf. Links das umwanderte Glegghorn und hinten/rechts der Gipfel des Falknis.<br />Bis zu dem Pass in der Mitte des Bilds ging es nun in diesem Tal hinauf. Inzwischen war es 9:30, ich war also 1,5h bis hier unterwegs."
+        "text": "Blick das einsame Fläscher Tal hinauf. Links das um-wanderte Glegghorn und hinten/rechts der Gipfel des Falknis.<br />Bis zu dem Pass in der Mitte des Bilds ging es nun in diesem Tal hinauf. Inzwischen war es 9:30, ich war also 1,5h bis hier unterwegs."
       },
       {
         "photos": [
@@ -225,7 +227,7 @@
             "height": 1020
           }
         ],
-        "text": "Über einen sehr matschigen Weg erreichte ich schnell den zweiten See, den Mittler See. Da kein Wind war, konnte ich diese perfekte Reflexion fotografieren. :) Ich war dort übrigens völlig alleine - während der gesamten Wanderung war mir noch niemand begegnet. Ich machte nun erstmal eine erste Pause."
+        "text": "Über einen sehr matschigen Weg erreichte ich schnell den zweiten See, den Mittler See. Da kein Wind war, konnte ich diese perfekte Reflexion fotografieren. :) Ich war dort übrigens völlig alleine - während der gesamten Wanderung war mir noch niemand begegnet. Ich machte nun eine erste Pause."
       },
       {
         "photos": [
@@ -299,7 +301,7 @@
             "height": 836
           }
         ],
-        "text": "Schließlich erreichte ich den Pass am Ende des Tals, das Fläscher Fürggli. Auf der anderen Seite geht es steil bergab ins Rheintal, trotzdem kommt von dort ein blau/weißer Weg von der Enderlinhütte hinauf. Sah von hier oben aber nicht sehr einladend aus.<br />Nun war ich 2,5h unterwegs und zum Gipfel des Falknis war noch eine Stunde angegeben. Etwas überraschend, denn das Gipfelkreuz sah schon verführerisch nah aus. Aber es fehlten auch noch 300 Höhenmeter."
+        "text": "Schließlich erreichte ich den Pass am Ende des Tals, das Fläscher Fürggli. Auf der anderen Seite geht es steil bergab ins Rheintal, trotzdem kommt von dort ein blau-weißer Weg von der Enderlinhütte hinauf. Sah von hier oben aber nicht sehr einladend aus.<br />Nun war ich 2,5h unterwegs und zum Gipfel des Falknis war noch eine Stunde angegeben. Etwas überraschend, denn das Gipfelkreuz sah schon verführerisch nah aus. Aber es fehlten auch noch 300 Höhenmeter."
       },
       {
         "photos": [
@@ -330,7 +332,7 @@
             "height": 700
           }
         ],
-        "text": "Ab dem Fläscher Fürggli biegt der Weg nach rechts ab und geht nun (mehr oder weniger) auf dem breiten Grat hinauf zum Falknis. Hier der Blick zurück zum Fläscher Fürggli, dem Schwarzhorn (vorne) und dem bereits bekannten Glegghorn (hinten)."
+        "text": "Ab dem Fläscher Fürggli biegt der Weg nach rechts ab und geht nun mehr oder weniger auf dem breiten Grat hinauf zum Falknis. Hier der Blick zurück zum Fläscher Fürggli, dem Schwarzhorn (vorne) und dem bereits bekannten Glegghorn (hinten)."
       },
       {
         "photos": [
@@ -361,7 +363,7 @@
             "height": 1183
           }
         ],
-        "text": "Das Gipfelkreuz kam nur sehr langsam näher. Das letzte Stück wurde es dann geröllig."
+        "text": "Das Gipfelkreuz kam nur sehr langsam näher. Das letzte Stück wurde dann geröllig."
       },
       {
         "photos": [
@@ -373,7 +375,7 @@
             "height": 557
           }
         ],
-        "text": "Immer noch nicht ganz oben konnte ich aber schon das erste Mal nach Norden in das Rheintal herabblicken. Auf dieser Seite fällt der Falknis steil bergab, dafür ist der Blick um so beeindruckender. In der Bildmitte übrigens der vor einem Monat bestiegene <a href='/alpine/alviergruppe/20180812'>Alvier</a>."
+        "text": "Immer noch nicht ganz oben konnte ich aber schon das erste Mal nach Norden in das Rheintal herabblicken. Auf dieser Seite fällt der Falknis steil bergab, dafür ist der Blick um so beeindruckender. In der Bildmitte übrigens der <span data-silent>vor einem Monat bestiegene</span> <a href='/alpine/alviergruppe/20180812'>Alvier</a>."
       },
       {
         "photos": [
@@ -397,7 +399,7 @@
             "height": 1035
           }
         ],
-        "text": "Um 11:15 hatte ich dann den Gipfel des 2560m hohen Falknis erreicht. Angsteinflösend der extreme Blick hinab ins 1500m hohe Lawena Tal unterhalb der Nordflanke."
+        "text": "Um 11:15 hatte ich dann den Gipfel des 2560m hohen Falknis erreicht. Angsteinflößend der extreme Blick hinab ins 1500m hohe Lawena Tal unterhalb der Nordflanke."
       },
       {
         "photos": [
@@ -409,7 +411,7 @@
             "height": 694
           }
         ],
-        "text": "Nach Osten ist es nicht so steil, aber die Aussicht war trotzdem wunderbar. Hier kann man gut das Fläscher Tal sehen, durch das ich hinaufgekommen war. Rechts wirkte das Glegghorn nun ziemlich mickrig. Links die Grauspitz. "
+        "text": "Nach Osten ist es nicht so steil, aber die Aussicht war trotzdem wunderbar. Hier kann man gut das Fläscher Tal sehen, durch das ich hinaufgekommen war. Rechts wirkte das Glegghorn nun ziemlich mickrig. Links die Grauspitz."
       },
       {
         "photos": [
@@ -457,7 +459,7 @@
             "height": 610
           }
         ],
-        "text": "Blick über Lawena hinweg zum <a href='/alpine/malbun/20170716'>Rappenstein</a> in der Bildmitte. Immer wieder interessant bekannte Gipfel von einem völlig anderen Blickwinkel aus zu sehen."
+        "text": "Blick über Lawena zum <a href='/alpine/malbun/20170716'>Rappenstein</a> in der Bildmitte. Immer wieder interessant bekannte Gipfel von einem völlig anderen Blickwinkel aus zu sehen."
       },
       {
         "photos": [
@@ -517,7 +519,7 @@
             "height": 935
           }
         ],
-        "text": "Um 11:30 machte ich mich nach den vielen Fotos schon wieder auf den Abstieg - nun mit Jacke, da nun ein doch etwas kühler Wind aufkam. Hier der Blick an der Grauspitz vorbei zur <a href='/alpine/brandnertal/20150829'>Schesaplana</a>."
+        "text": "Um 11:30 machte ich mich nach den vielen Fotos schon wieder auf den Abstieg - nun mit Jacke, da nun ein etwas kühler Wind aufkam. Hier der Blick an der Grauspitz vorbei zur <a href='/alpine/brandnertal/20150829'>Schesaplana</a>."
       },
       {
         "photos": [
@@ -560,7 +562,7 @@
             "height": 913
           }
         ],
-        "text": "Etwas unterhalb des Gipfel zweigt der Blau/Weiße Weg ins Lawena Tal ab. Wie der genau aber um den Falknis herumführt, konnte ich von hier nicht sehen."
+        "text": "Etwas unterhalb des Gipfel zweigt der Blau-Weiße Weg ins Lawena Tal ab. Wie der genau aber um den Falknis herumführt, konnte ich von hier nicht sehen."
       },
       {
         "photos": [
@@ -758,7 +760,7 @@
             "height": 1274
           }
         ],
-        "text": "Die Landschaft dort oben mit den Grashügeln war prinzipiell sehr schön, aber der Weg war zum Teil sehr schlammig und und nicht immer konnte man die Drecklöcher über das Gras umgehen."
+        "text": "Die Landschaft dort oben mit den Grashügeln war prinzipiell sehr schön, aber der Weg war zum Teil sehr schlammig und nicht immer konnte man die Drecklöcher über das Gras umgehen."
       },
       {
         "photos": [
@@ -801,7 +803,7 @@
             "height": 1140
           }
         ],
-        "text": "Schnell erreichte ich den Panoramweg der Älplibahn, nun war es nur noch ein paar Minuten bis zur Bergstation."
+        "text": "Schnell erreichte ich den Panoramaweg der Älplibahn, nun war es nur noch ein paar Minuten bis zur Bergstation."
       },
       {
         "photos": [
@@ -813,7 +815,7 @@
             "height": 1304
           }
         ],
-        "text": "Schlußendlich war ich um 15:30 an der Bergstation der Älpibahn. Obwohl ich mir auf dem Rückweg viel Zeit gelassen hatte, also eine Stunde zu früh. Ich fragte nach, ob ich schon früher hinunterfahren konnte, aber bis 16:15 war alles ausgebucht. Also setzte ich mich auf eine Bank und genoß einfach die schöne Aussicht und das perfekte Wetter."
+        "text": "Schlussendlich war ich um 15:30 an der Bergstation der Älpibahn. Obwohl ich mir auf dem Rückweg viel Zeit gelassen hatte, also eine Stunde zu früh. Ich fragte nach, ob ich schon früher hinunterfahren konnte, aber bis 16:15 war alles ausgebucht. Also setzte ich mich auf eine Bank und genoss einfach die schöne Aussicht und das perfekte Wetter."
       },
       {
         "photos": [
@@ -852,6 +854,6 @@
         "text": "Um 16:30 war ich dann am Auto. Hier noch einmal der Blick die Trasse der Älplibahn hinauf."
       }
     ],
-    "outro": "Fazit: Der Falknis ist ein lohnendes Ziel einer Wanderung. Der Weg ist relativ einfach, die Seen schön und die Aussicht super, aber acht Stunden sollte man für die Tour schon einplanen. Ich war 7,5h unterwegs, um die 18km und ca. 1200 Höhenmeter zurückzulegen. Etwas nervig empfinde ich die (verständliche) Reservierung der Älplibahn, hat man dadurch doch beim Wandern Termine einzuhalten..."
+    "outro": "Fazit: Der Falknis ist ein lohnendes Ziel einer Wanderung. Der Weg ist relativ einfach, die Seen schön und die Aussicht super, aber acht Stunden sollte man für die Tour schon einplanen. Ich war 7,5h unterwegs, um die 18km und ca. 1200 Höhenmeter zurückzulegen. Etwas nervig empfinde ich die verständliche Reservierung der Älplibahn, hat man dadurch doch beim Wandern Termine einzuhalten..."
   }
 ]

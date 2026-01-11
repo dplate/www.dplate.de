@@ -3,8 +3,8 @@ const jsonfile = require('jsonfile');
 const fs = require('fs');
 
 const projectPath = 'C:/Users/Roger/web/Dp3';
-const destination = 'alviergruppe';
-const reportDate = '20180812';
+const destination = 'praettigau';
+const reportDate = '20180908';
 
 const client = new textToSpeech.TextToSpeechClient();
 
