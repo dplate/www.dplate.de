@@ -2,8 +2,11 @@
   {
     "destination": "alpstein",
     "date": "d20180916",
+    "datePublished": "2018-09-17T12:00:00.000+02:00",
+    "dateModified": "2026-01-17T17:00:00.000+01:00",
     "type": "hike",
     "track": true,
+    "timeShift": -120,
     "detailMap": "swiss",
     "shortTitle": "Silberplatten",
     "title": "Laui - Silberplatten",
@@ -14,8 +17,8 @@
       "width": 1920,
       "height": 544
     },
-    "movie": "LpqwJH8l4ZU",
-    "intro": "An diesem Sonntag nahm ich mir die Silberplatten vor, einem 2160m hohen Gipfel des Alpsteins in der Nähe des Säntis. Während ich östlich des Säntis schon einige Wanderungen im Alpstein unternommen hatte, ist die Westseite für mich ziemliches Neuland.<br />Als Ausgangspunkt wählte ich den Parkplatz Laui oberhalb des Orts Unterwasser.",
+    "movie": "FhwXYxqD7yY",
+    "intro": "An diesem Sonntag nahm ich mir die Silberplatten vor, einem 2160m hohen Gipfel des Alpsteins in der Nähe des Säntis. Während ich östlich des Säntis schon einige Wanderungen im Alpstein unternommen hatte, war die Westseite für mich ziemliches Neuland.<br />Als Ausgangspunkt wählte ich den Parkplatz Laui oberhalb des Orts Unterwasser.",
     "landmarks": [
       {
         "photos": [
@@ -28,7 +31,7 @@
           }
         ],
         "videos": [],
-        "text": "Den 1070m hohen Parkplatz Laui erreichte ich nach der Zufahrt über die einspurige Straße gegen 8:00. Noch war er ziemlich leer und nur ein paar Wohnmobile parkten dort. Die Parkgebühr beträgt 5CHF."
+        "text": "Den 1070m hohen Parkplatz Laui erreichte ich nach der Zufahrt über die einspurige Straße gegen 8:00. Noch war er ziemlich leer und nur ein paar Wohnmobile parkten dort. Die Parkgebühr betrug 5CHF."
       },
       {
         "photos": [
@@ -41,7 +44,7 @@
           }
         ],
         "videos": [],
-        "text": "Der Parkplatz befindet sich am Rand von Alpli: flache Weiden mit Fluß. Während bei mir noch Schatten war, strahlte der Säntis bereits in der Sonne. Ich ging allerdings nicht den Hauptweg weiter in diese Richtung, sondern zweigte hier nach links ab."
+        "text": "Der Parkplatz befindet sich am Rand von Alpli: flache Weiden mit Fluss. Während bei mir noch Schatten war, strahlte der Säntis bereits in der Sonne. Ich ging allerdings nicht den Hauptweg weiter in diese Richtung, sondern zweigte hier nach links ab."
       },
       {
         "photos": [
@@ -61,7 +64,7 @@
           }
         ],
         "videos": [],
-        "text": "Nach dem ich zwei übermütige Hunde und eine Kuhherde überwunden hatte, bin ich nun am Ende der Ebene angelangt. Abgesehen davon ist die Landschaft hier sehr lieblich.<br />Hier der Blick zurück - im Hintergrund die markanten Churfirsten."
+        "text": "Nach dem ich zwei übermütige Hunde und eine Kuhherde überwunden hatte, war ich nun am Ende der Ebene angelangt. Abgesehen davon ist die Landschaft hier sehr lieblich.<br />Hier der Blick zurück - im Hintergrund die markanten Churfirsten."
       },
       {
         "photos": [
@@ -81,7 +84,7 @@
           }
         ],
         "videos": [],
-        "text": "Nach den ersten 200m Aufstieg auf eine Alpstraße erreichten mich schließlich die ersten Strahlen der Sonne, die über Gamplüt aufging.<br />Aber auch im Schatten war es für September bereits ziemlich warm."
+        "text": "Nach den ersten 200m Aufstieg auf eine Alp-Straße erreichten mich schließlich die ersten Strahlen der Sonne, die über Gamplüt aufging.<br />Aber auch im Schatten war es für September bereits ziemlich warm."
       },
       {
         "photos": [
@@ -121,7 +124,7 @@
           }
         ],
         "videos": [],
-        "text": "Ziemlich zügig ging es bergauf, so dass ich nun schon 1400m erreicht hatte. Inzwischen war ich 50min unterwegs."
+        "text": "Ziemlich zügig ging es bergauf, so dass ich nun schon die Höhe von 1400m erreicht hatte. Inzwischen war ich 50 Minuten unterwegs."
       },
       {
         "photos": [
@@ -193,7 +196,7 @@
           }
         ],
         "videos": [],
-        "text": "Kurz nach Schrenit durchquert der Weg diese witzigen Steinformationen. Diese wurden von der Natur so geformt, aber sehen aber wie Panzersperren aus."
+        "text": "Kurz nach Schrenit durchquerte der Weg diese witzigen Steinformationen. Diese wurden von der Natur so geformt, sahen aber wie Panzersperren aus."
       },
       {
         "photos": [
@@ -206,7 +209,7 @@
           }
         ],
         "videos": [],
-        "text": "Dann erreichte ich diesen ausgeprägten Talkessel, an dessen oberen Ende mein erstes Etappenziel lag: Lauchwis."
+        "text": "Dann erreichte ich diesen ausgeprägten Talkessel, an dessen oberen Ende mein erstes Etappenziel lag: die Lauchwis."
       },
       {
         "photos": [
@@ -219,7 +222,7 @@
           }
         ],
         "videos": [],
-        "text": "Nach unschwierigem Aufstieg erreichte ich nun den Grat am Ende des Talkessels und damit Lauchwis. Hier der Blick zurück. Rechts der Gams Chopf und links der Stoss.<br />Nun war ich zwei Stunden unterweg und hatte 800 Höhenmeter überwunden... also erst mal eine Pause."
+        "text": "Nach unschwierigem Aufstieg erreichte ich nun den Grat am Ende des Talkessels und damit Lauchwis. Hier der Blick zurück. Rechts der Gams Chopf und links der Stoss.<br />Nun war ich zwei Stunden unterwegs und hatte 800 Höhenmeter überwunden... also erst mal eine Pause."
       },
       {
         "photos": [
@@ -239,7 +242,7 @@
           }
         ],
         "videos": [],
-        "text": "Die Lauchwis in eine große Wiese auf dem Grat zwischen Schwägalp und Toggenburg. Nach Norden fällt sie ziemlich steil ab. Jetzt mit den schönen Herbstfarben und der noch tiefen Sonne war sie ein schöner Anblick. Über diese Wiese ging es nun noch 200m weiter hinauf."
+        "text": "Die Lauchwis ist eine große Wiese auf dem Grat zwischen Schwägalp und Toggenburg. Nach Norden fällt sie ziemlich steil ab. Jetzt mit den schönen Herbstfarben und der noch tiefen Sonne war sie ein schöner Anblick. Über diese Wiese ging es nun noch 200m weiter hinauf."
       },
       {
         "photos": [
@@ -285,7 +288,7 @@
           }
         ],
         "videos": [],
-        "text": "Nach dem ich das obere Ende von Lauchwis erreicht hatte, gönnte ich mir noch einmal eine Pause im hohen Gras und genoß den Blick zurück. Durch das Tal links kam ich hinauf."
+        "text": "Nach dem ich das obere Ende von Lauchwis erreicht hatte, gönnte ich mir noch einmal eine Pause im hohen Gras und genoss den Blick zurück. Durch das Tal links kam ich hinauf."
       },
       {
         "photos": [
@@ -305,7 +308,7 @@
           }
         ],
         "videos": [],
-        "text": "Dann kam der (zumindest für mich) schwierigste Teil der Wanderung. Denn von Lauchwis aus muss man an der Nordseite des Stoss zum Stosssattel queren. Eigentlich ist der Weg nicht schwierig, aber es geht halt an der Seite ziemlich weit hinab. Und das meine Schuhe von der Schmiere der Lauchwis zugekleistert waren, hat mir auch nicht gerade mehr Selbstvertrauen gegeben."
+        "text": "Dann kam der, zumindest für mich, schwierigste Teil der Wanderung. Denn von Lauchwis aus muss man an der Nordseite des Stoss zum Stosssattel queren. Eigentlich ist der Weg nicht schwierig, aber es geht halt an der Seite ziemlich weit hinab. Und das meine Schuhe von der Schmiere der Lauchwis zugekleistert waren, hat mir auch nicht gerade mehr Selbstvertrauen gegeben."
       },
       {
         "photos": [
@@ -332,7 +335,7 @@
           }
         ],
         "videos": [],
-        "text": "Nach dem ich den kurzen Hang überwunden hatte, bin ich nun auf dem 2040m hohen Stossstattel. Die eigentliche Silberplatten war noch immer nicht zu sehen, befindet sich aber bereits ziemlich unmittelbar hinter dem eindrucksvollen Felsen. Um dort hinzukommen, musste ich nun leider rund 100m auf der Südseite absteigen, um ein paar Felswände zu umgehen."
+        "text": "Nach dem ich den kurzen Hang überwunden hatte, bin ich nun auf dem 2040m hohen Stosssattel. Die eigentliche Silberplatten war noch immer nicht zu sehen, befindet sich aber bereits ziemlich unmittelbar hinter dem eindrucksvollen Felsen. Um dort hin zu kommen, musste ich nun leider rund 100m auf der Südseite absteigen, um ein paar Felswände zu umgehen."
       },
       {
         "photos": [
@@ -345,7 +348,7 @@
           }
         ],
         "videos": [],
-        "text": "Der Abstieg ist ziemlich steil, war aber gut zu gehen. Auch meine Schuhe säuberten sich nun langsam auf den Steinen."
+        "text": "Der Abstieg war ziemlich steil, aber gut zu gehen. Auch meine Schuhe säuberten sich nun langsam auf den Steinen."
       },
       {
         "photos": [
@@ -358,7 +361,7 @@
           }
         ],
         "videos": [],
-        "text": "Nach dem Abstieg geht über dieses Geröllfeld Richtung Säntis. Links ist nun auch die Silberplatten zu sehen, der Weg führt aber nur von der Rückseite hinauf."
+        "text": "Nach dem Abstieg ging es über dieses Geröllfeld Richtung Säntis. Links ist nun auch die Silberplatten zu sehen, der Weg führt aber nur von der Rückseite hinauf."
       },
       {
         "photos": [
@@ -410,7 +413,7 @@
           }
         ],
         "videos": [],
-        "text": "Der eigentlich Wanderweg führt nur an der Silberplatten vorbei, aber der Aufstieg auf den Gipfel ist trotzdem viel begangen. Ich zweigte einfach vom markierten Weg ab und ging den gut sichtbaren Weg weiter hinauf bis zum schmalen Grat unterhalb der Silberplatten.<br />Hier kann man nun auch gut erkennen, warum die Silberplatten so heißt. Nach Norden hin besteht sie nämlich aus einer glatten weißen Felsplatte, durch die sie auch von weitem klar erkennbar ist.<br />Der Weg zum Gipfel geht unterhalb der Platte nach rechts und dann in dem erkennbar dunklen Bruch bergauf."
+        "text": "Der eigentliche Wanderweg führt nur an der Silberplatten vorbei, aber der Aufstieg auf den Gipfel ist trotzdem viel begangen. Ich zweigte einfach vom markierten Weg ab und ging den gut sichtbaren Weg weiter hinauf bis zum schmalen Grat unterhalb der Silberplatten.<br />Hier kann man nun auch gut erkennen, warum die Silberplatten so heißt. Nach Norden hin besteht sie nämlich aus einer glatten weißen Felsplatte, durch die sie auch von weitem klar erkennbar ist.<br />Der Weg zum Gipfel geht unterhalb der Platte nach rechts und dann in dem erkennbar dunklen Bruch bergauf."
       },
       {
         "photos": [
@@ -423,7 +426,7 @@
           }
         ],
         "videos": [],
-        "text": "Hier bin ich nun bereits schon fast oben. Der Weg ist nicht schwierig, aber die Hände braucht man schon ab und zu. Inbesondere darf man sich nicht zu sehr von dem steilen Blick hinab zur Schwägalp ablenken lassen. Zum Teil sind auch noch alte Wanderwegzeichen zu erkennen - warum der Weg aufgegeben wurde, weiß ich nicht. Für mich sah es so aus, als ob fast alle vorbeikommenden Wanderer trotzdem den Abstecher auf den Gipfel unternahmen."
+        "text": "Hier bin ich nun bereits schon fast oben. Der Weg ist nicht schwierig, aber die Hände braucht man schon ab und zu. Insbesondere darf man sich nicht zu sehr von dem steilen Blick hinab zur Schwägalp ablenken lassen. Zum Teil sind auch noch alte Wanderwegzeichen zu erkennen - warum der Weg aufgegeben wurde, weiß ich nicht. Für mich sah es so aus, als ob fast alle vorbeikommenden Wanderer trotzdem den Abstecher auf den Gipfel unternahmen."
       },
       {
         "photos": [
@@ -475,7 +478,7 @@
           }
         ],
         "videos": [],
-        "text": "Tele hinüber zum <a href='/alpine/alpstein/20141102'>Kronberg</a>, der von hier oben ziemlich flach aussieht. Die Sicht war an diesem Tag leider nicht so gut, sonst hätte man locker bis zum Bodensee schauen können."
+        "text": "Tele hinüber zum <a href='/alpine/alpstein/20141102'>Kronberg</a>, der von hier oben ziemlich flach aussah. Die Sicht war an diesem Tag leider nicht so gut, sonst hätte man locker bis zum Bodensee schauen können."
       },
       {
         "photos": [
@@ -514,7 +517,7 @@
           }
         ],
         "videos": [],
-        "text": "Der folgende Weg entlang der steilen Grasgipfel war ziemlich einfach. Nur an manchen Stellen (wie hier) war der Hang abgerutscht - aber dank des Drahtseils und den Metalltritten kam ich ohne Probleme rüber."
+        "text": "Der folgende Weg entlang der steilen Grasgipfel war ziemlich einfach. Nur an manchen Stellen wie hier war der Hang abgerutscht - aber dank des Drahtseils und den Metalltritten kam ich ohne Probleme rüber."
       },
       {
         "photos": [
@@ -554,7 +557,7 @@
           }
         ],
         "videos": [],
-        "text": "Dann erreichte ich eine kleine Wiese mit Blumen und Steinmännchen. Irgendwie wirkte diese 'Parkanlage' deplatziert für mich, aber fotogen ist es natürlich schon. :)"
+        "text": "Dann erreichte ich eine kleine Wiese mit Blumen und Steinmännchen. Irgendwie wirkte diese 'Parkanlage' deplatziert für mich, aber fotogen war es natürlich schon. :)"
       },
       {
         "photos": [
@@ -672,7 +675,7 @@
           }
         ],
         "videos": [],
-        "text": "Über die Steinflächen hinweg der Blick zurück: Links der Stosssattel und in der Mitte die Silberplatten. Wie schon geschrieben: die ist immer leicht zu erkennen."
+        "text": "Über die Steinflächen weg der Blick zurück: Links der Stosssattel und in der Mitte die Silberplatten. Wie schon geschrieben: die ist immer leicht zu erkennen."
       },
       {
         "photos": [
@@ -685,7 +688,7 @@
           }
         ],
         "videos": [],
-        "text": "Auch abseits der bekannte Gipfel gibt es im Alpstein viel zu sehen, hier z.B. der Gir mit seinen deutlich sichtbaren Schichtungen."
+        "text": "Auch abseits der bekannten Gipfel gibt es im Alpstein viel zu sehen, hier z.B. der Gir mit seinen deutlich sichtbaren Schichtungen."
       },
       {
         "photos": [
@@ -803,7 +806,7 @@
           }
         ],
         "videos": [],
-        "text": "Bevor man den Talboden von Thurwis (hier rechts) erreicht, quert der Weg das Tal oberhalb. War ganz angenehm, dass es mal nicht runter ging."
+        "text": "Bevor man den Talboden von Thurwis (hier rechts) erreicht, quert der Weg das Tal oberhalb. Das war ganz angenehm, dass es mal nicht runter ging."
       },
       {
         "photos": [
@@ -816,7 +819,7 @@
           }
         ],
         "videos": [],
-        "text": "Dann erreichte ich den viel begangenen <a href='/alpine/alpstein/20150912'>Wanderweg auf den Rotsteinpass</a>, der auf dieser niedrigen Höhe aber hauptsächlich auf der Fahrstraße geht."
+        "text": "Dann erreichte ich den viel begangenen <a href='/alpine/alpstein/20150912'>Wanderweg auf den Rotsteinpass</a>, der auf dieser niedrigen Höhe aber hauptsächlich auf einer Fahrstraße geht."
       },
       {
         "photos": [
@@ -829,7 +832,7 @@
           }
         ],
         "videos": [],
-        "text": "Der nun 45min dauerende Abstieg die Straße hinab fand ich etwas öde, auch war das Wetter nun eher grau. Einzige Sehenswürdigkeit: diese total moosige Mauer."
+        "text": "Der nun 45min dauernde Abstieg die Straße hinab fand ich etwas öde, auch war das Wetter nun eher grau. Einzige Sehenswürdigkeit: diese total moosige Mauer."
       },
       {
         "photos": [
@@ -865,6 +868,6 @@
         "text": "Am Parkplatz Laui war nun richtig was los. Auch der kleine Grillimbiss, Grillplatz und der Spielplatz waren gut besetzt.<br />Mein Auto erreichte ich um 15:30."
       }
     ],
-    "outro": "Fazit: Eine eher unbekannte Rundwanderung im Alpstein, die aber viel Sehenswertes bietet. Für den unausgeschilderten Aufstieg auf die Silberplatten braucht man etwas Mut, wird aber durch eine schöne Aussicht belohnt. Ansonsten ist der Weg bis auf das kleine Stück beim Stosssattel nicht zu schwierig. Mit 1300 Höhenmeter und über 7h Länge ist es aber auch keine kleine Wanderung."
+    "outro": "Fazit: Eine eher unbekannte Rundwanderung im Alpstein, die aber viel Sehenswertes bietet. Für den unausgeschilderten Aufstieg auf die Silberplatten braucht man etwas Mut, wird aber durch eine schöne Aussicht belohnt. Ansonsten ist der Weg bis auf das kleine Stück beim Stosssattel nicht zu schwierig. Mit 1300 Höhenmeter und über 7h Länge war es aber auch keine kleine Wanderung."
   }
 ]
