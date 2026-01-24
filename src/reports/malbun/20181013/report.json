@@ -2,6 +2,8 @@
   {
     "destination": "malbun",
     "date": "d20181013",
+    "datePublished": "2018-10-14T12:00:00.000+02:00",
+    "dateModified": "2026-01-24T16:00:00.000+01:00",
     "type": "hike",
     "track": true,
     "detailMap": "swiss",
@@ -13,7 +15,7 @@
       "width": 1920,
       "height": 484
     },
-    "movie": "fI_hbCuRf3c",
+    "movie": "WIIG4OJ8zkQ",
     "intro": "An diesem Samstag galt es eine große Lücke in meinen Wanderzielen zu schließen: Ich wollte den bekannten Fürstensteig in Liechtenstein machen.<br />Als Start wählte ich den bereits 1500m hohen Parkplatz in Gaflei oberhalb des Rheintals. Das Parken ist dort gratis, aber es sind nicht sehr viele Plätze verfügbar. Da ich aber bereits um 7:45 dort ankam, war es für mich kein Problem.",
     "landmarks": [
       {
@@ -62,7 +64,7 @@
             "height": 1280
           }
         ],
-        "text": "Sobald das Schild passiert wurde, geht es gleich spektakulär los. Der Weg ist meistens knapp 1m breit und wurde in den Fels geschlagen. Auf der linken Seite geht es steil rund 1200 Höhenmeter bis in Rheintal hinab."
+        "text": "Sobald das Schild passiert wurde, geht es gleich spektakulär los. Der Weg ist meistens knapp 1m breit und wurde in den Fels geschlagen. Auf der linken Seite geht es steil rund 1200 Höhenmeter bis ins Rheintal hinab."
       },
       {
         "photos": [
@@ -74,7 +76,7 @@
             "height": 1193
           }
         ],
-        "text": "Nur an wenigen Stellen ist der Weg so gut abgesichert, wie hier an diesem Aussichtspunkt. Aber es handelt sich ingesamt um einen normalen Bergweg, es sind also keine besonderen Sicherungen notwendig - nur etwas schwindelfrei sollte man natürlich sein."
+        "text": "Nur an wenigen Stellen ist der Weg so gut abgesichert, wie hier an diesem Aussichtspunkt. Aber es handelt sich insgesamt um einen normalen Bergweg, es sind also keine besonderen Sicherungen notwendig - nur etwas schwindelfrei sollte man natürlich sein."
       },
       {
         "photos": [
@@ -86,7 +88,7 @@
             "height": 1280
           }
         ],
-        "text": "Nach den ersten umwanderten Felsnasen der Blick zurück. Unten kann man meinen Startpunkt Gaflei sehen."
+        "text": "Nach den ersten um-wanderten Felsnasen der Blick zurück. Unten kann man meinen Startpunkt Gaflei sehen."
       },
       {
         "photos": [
@@ -141,7 +143,7 @@
             "height": 1083
           }
         ],
-        "text": "Hier das ausgesetzteste und schmalste Stück des Fürstensteigs. Alles gut machbar, aber hier musste ich schon mit Bedacht gehen."
+        "text": "Hier das am stärksten ausgesetzte und schmalste Stück des Fürstensteigs. Alles gut machbar, aber hier musste ich schon mit Bedacht gehen."
       },
       {
         "photos": [
@@ -165,7 +167,7 @@
             "height": 1280
           }
         ],
-        "text": "Hier kann man erahnen, welchen Wartungsaufwand dieser Weg hat. Mittig vorne kann man (freistehend) die Reste einer betonierten Treppenstufe sehen. Der Weg drumherum ist komplett weggerutscht und ein Ersatz wurde links in den Fels geschlagen. Lang wird aber auch das nichts halten."
+        "text": "Hier kann man erahnen, welchen Wartungsaufwand dieser Weg hat. Mittig vorne kann man freistehend die Reste einer betonierten Treppenstufe sehen. Der Weg drumherum ist komplett weggerutscht und ein Ersatz wurde links in den Fels geschlagen. Lang wird aber auch das nicht halten."
       },
       {
         "photos": [
@@ -227,7 +229,7 @@
             "height": 809
           }
         ],
-        "text": "Dann schließlich erreichte ich den Gafleisattel am Ende des Fürstensteigs. Für den Steig hatte ich 45min gebraucht: Ich habe mir aber auch viel Zeit gelassen, denn der war das Hauptziel meiner Wanderung."
+        "text": "Dann schließlich erreichte ich den Gafleisattel am Ende des Fürstensteigs. Für den Steig hatte ich 45min gebraucht: Ich habe mir aber auch viel Zeit gelassen, denn er war das Hauptziel meiner Wanderung."
       },
       {
         "photos": [
@@ -287,7 +289,7 @@
             "height": 560
           }
         ],
-        "text": "Der eigentliche Wanderweg führt an der Gafleispitz nur vorbei. Da ich kein konkretes Ziel mehr hatte, gönnte ich mir den kleinen (unbezeichneten) Abstecher auf diesen Gipfel und legte meine erste längere Pause ein. Immer noch sehr steil geht es auf der Westseite des Grats runter ins Rheintal. Rechts ist der <a href='/alpine/alpstein'>Alpstein</a> und links die <a href='/alpine/alviergruppe'>Alviergruppe</a> zu sehen."
+        "text": "Der eigentliche Wanderweg führt an der Gafleispitz nur vorbei. Da ich kein konkretes Ziel mehr hatte, gönnte ich mir den kleinen nicht bezeichneten Abstecher auf diesen Gipfel und legte meine erste längere Pause ein. Immer noch sehr steil geht es auf der Westseite des Grats runter ins Rheintal. Rechts ist der <a href='/alpine/alpstein'>Alpstein</a> und links die <a href='/alpine/alviergruppe'>Alviergruppe</a> zu sehen."
       },
       {
         "photos": [
@@ -299,7 +301,7 @@
             "height": 1280
           }
         ],
-        "text": "Blick während der Pause zurück zum Gafleisattel (Bildmitte). Rechts durch den Fels führte der Fürstensteig. Beim Rückweg werde ich vom Gafleisattel nach links hochsteigen und die Alpspitz hinter dem Gafleisattel mitnehmem."
+        "text": "Blick während der Pause zurück zum Gafleisattel (Bildmitte). Rechts durch den Fels führte der Fürstensteig. Beim Rückweg werde ich vom Gafleisattel nach links hochsteigen und die Alpspitz hinter dem Gafleisattel mitnehmen."
       },
       {
         "photos": [
@@ -347,7 +349,7 @@
             "height": 884
           }
         ],
-        "text": "Kurz unterhalb des Gipfels des Kuegrats steht überraschend diese spektakuläre Aussichtbank."
+        "text": "Kurz unterhalb des Gipfels des Kuegrats steht überraschend diese spektakuläre Aussichtsbank."
       },
       {
         "photos": [
@@ -359,7 +361,7 @@
             "height": 877
           }
         ],
-        "text": "Den Gipfel des Kuegrat erreichte ich um 10:00, und war damit erst gut 2h unterwegs. Da der weitere Weg auf den Garsellikopf (rechts) sehr interessant aussah, beschloss ich noch dort hin zu laufen - auch wenn ich dafür knapp 100m runter und wieder hoch musste."
+        "text": "Den Gipfel des Kuegrats erreichte ich um 10:00, und war damit erst gut 2h unterwegs. Da der weitere Weg auf den Garsellikopf (rechts) sehr interessant aussah, beschloss ich noch dort hin zu laufen - auch wenn ich dafür knapp 100m runter und wieder hoch musste."
       },
       {
         "photos": [
@@ -433,7 +435,7 @@
             "height": 758
           }
         ],
-        "text": "Um 10:30 war ich dann auf dem (schmalen) Gipfel des Garsellikopf angelangt. Hier der Blick den weiteren Grat entlang zu den Drei Schwestern. Hier beschloss ich nun Schluss zu machen und umzudrehen."
+        "text": "Um 10:30 war ich dann auf dem schmalen Gipfel des Garsellikopf angelangt. Hier der Blick den weiteren Grat entlang zu den Drei Schwestern. Hier beschloss ich nun Schluss zu machen und umzudrehen."
       },
       {
         "photos": [
@@ -476,7 +478,7 @@
             "height": 1280
           }
         ],
-        "text": "Und dann steil durch den Fels hinunter. Jetzt kamen mir einige entgegen, so dass ich häufiger warten musste, bis die schmalen Wegabschnitte frei waren."
+        "text": "Und dann steil durch den Fels hinunter. Jetzt kamen mir einige entgegen, so dass ich häufiger warten musste, bis die schmalen Weg-Abschnitte frei waren."
       },
       {
         "photos": [
@@ -545,7 +547,7 @@
             "height": 1208
           }
         ],
-        "text": "Da der Weg zum Gafleisattel nun leicht berab ging, war ich dort sehr zügig unterwegs. Es kamen mir immer mehr Wanderer entgegen - je später, desto unprofessioneller waren sie ausgerüstet: es scheinen doch viele den Fürstensteig in Turnschuhen zu machen."
+        "text": "Da der Weg zum Gafleisattel nun leicht bergab ging, war ich dort sehr zügig unterwegs. Es kamen mir immer mehr Wanderer entgegen - je später, desto unprofessioneller waren sie ausgerüstet: es scheinen doch viele den Fürstensteig in Turnschuhen zu machen."
       },
       {
         "photos": [
@@ -576,7 +578,7 @@
             "height": 1280
           }
         ],
-        "text": "Erst oberhalb des Schotters im festen Fels wird der Weg breit und gut ausgebaut. Den Grat überscheitet man über den kleinen Pass Chemi."
+        "text": "Erst oberhalb des Schotters im festen Fels wird der Weg breit und gut ausgebaut. Den Grat überschreitet man über den kleinen Pass Chemi."
       },
       {
         "photos": [
@@ -660,7 +662,7 @@
             "height": 1235
           }
         ],
-        "text": "Ankunft am Bargällasattel noch vor 13:00. Dort in der Nähe befindet sich der Mittelpunkt von Liechtenstein und man kann sich mit diesem Schild fotogafieren. Mir ist nicht ganz klar, was daran so besonders ist. ;)<br />Vom Bärgällasattel hätte ich in einer halben Stunde zum Parkplatz in Gaflei absteigen können. Da es aber noch früh war und das Wetter so schön, beschloß ich noch einen Extraumweg einzubauen."
+        "text": "Ankunft am Bargällasattel noch vor 13:00. Dort in der Nähe befindet sich der Mittelpunkt von Liechtenstein und man kann sich mit diesem Schild fotografieren. Mir ist nicht ganz klar, was daran so besonders ist. ;)<br />Vom Bargällasattel hätte ich in einer halben Stunde zum Parkplatz in Gaflei absteigen können. Da es aber noch früh war und das Wetter so schön, beschloss ich noch einen Extraumweg einzubauen."
       },
       {
         "photos": [
@@ -758,7 +760,7 @@
             "height": 1254
           }
         ],
-        "text": "Ungewöhnliche, aber gutmütige, Rinder versperrten mir den Weg bei Silum."
+        "text": "Ungewöhnliche aber gutmütige Rinder versperrten mir den Weg bei Silum."
       },
       {
         "photos": [
@@ -770,7 +772,7 @@
             "height": 798
           }
         ],
-        "text": "Idylisch und harmlos ging es auch nach Silum weiter. Hier der Blick zurück."
+        "text": "Idyllisch und harmlos ging es auch nach Silum weiter. Hier der Blick zurück."
       },
       {
         "photos": [

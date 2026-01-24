@@ -3,12 +3,28 @@ const jsonfile = require('jsonfile');
 const fs = require('fs');
 
 const projectPath = 'C:/Users/Roger/web/Dp3';
-const destination = 'savognin';
-const reportDate = '20181009';
+const destination = 'malbun';
+const reportDate = '20181013';
 
 const client = new textToSpeech.TextToSpeechClient();
 
 const pronunciations = [
+  {
+    regex: /(garselli)/gi,
+    ipa: 'gaːʁzəlɪ'
+  },
+  {
+    regex: /(kuegrats)/gi,
+    ipa: 'kygrats'
+  },
+  {
+    regex: /[^>](kuegrat)/gi,
+    ipa: 'kygrat'
+  },
+  {
+    regex: /(gaflei)/gi,
+    ipa: 'gaːflaɪ'
+  },
   {
     regex: /(girenspitz)/gi,
     ipa: 'ˈɡiːrənˌʃpɪts'
