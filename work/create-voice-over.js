@@ -3,8 +3,8 @@ const jsonfile = require('jsonfile');
 const fs = require('fs');
 
 const projectPath = 'C:/Users/Roger/web/Dp3';
-const destination = 'alpstein';
-const reportDate = '20180916';
+const destination = 'savognin';
+const reportDate = '20181009';
 
 const client = new textToSpeech.TextToSpeechClient();
 
@@ -157,7 +157,7 @@ const generateAudio = async (rawText, audioFile) => {
   let text = rawText.replace(/(<span data-silent>.*?<\/span>)/gm, '');
 
   // Remove html tags and replace remaining xml characters
-  text = text.replace(/<\/?[^>]+(>|$)/g, '').replaceAll("'", '');
+  text = text.replace(/<\/?[^>]+(>|$)/g, ' ').replaceAll("'", '');
 
   // Help to pronounce all words correctly
   for (const { regex, ipa } of pronunciations) {
