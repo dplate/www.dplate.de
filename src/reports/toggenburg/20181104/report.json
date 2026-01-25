@@ -2,6 +2,8 @@
   {
     "destination": "toggenburg",
     "date": "d20181104",
+    "datePublished": "2018-11-05T12:00:00.000+01:00",
+    "dateModified": "2026-01-25T14:00:00.000+01:00",
     "type": "hike",
     "track": true,
     "detailMap": "swiss",
@@ -14,8 +16,8 @@
       "width": 1920,
       "height": 381
     },
-    "movie": "HHb9gd98ZoE",
-    "intro": "Nachdem es in der Vorwoche in den Alpen (besonders südlich) schon eingen Neuschnee gab, suchte ich mir als Ziel an diesem Novembersonntag eine Wanderung unter 2000m im Toggenburg heraus.<br />Ursprünglich hatte ich vor, vom 840m hohen Stein nur auf den 1780m hohen Stockberg zu wandern. Deshalb stellte ich mein Auto gegen 8:00 auf einen der vielen Gratisparkplätzen ab und lief den Südhang dem Wegweiser zum Stockberg nach.",
+    "movie": "53lQh8iRWD8",
+    "intro": "Nachdem es in der Vorwoche in den Alpen (besonders südlich) schon einigen Neuschnee gab, suchte ich mir als Ziel an diesem Novembersonntag eine Wanderung unter 2000m im Toggenburg heraus.<br />Ursprünglich hatte ich vor, vom 840m hohen Stein nur auf den 1780m hohen Stockberg zu wandern. Deshalb stellte ich mein Auto gegen 8:00 auf einen der vielen Gratisparkplätzen in Stein ab und lief den Südhang dem Wegweiser zum Stockberg nach.",
     "landmarks": [
       {
         "photos": [
@@ -48,7 +50,7 @@
           }
         ],
         "videos": [],
-        "text": "Ich zweigte vom direkten Aufstieg (den ich als Abstieg vor hatte) ab und ging stattdessen auf rund 1000m Höhe den Hang entlang Richtung Nesslau. Dabei immer genau an der Nebelgrenze und mit dem Blick über das Tal hinweg zu den Bauernhöfen auf der anderen Seite."
+        "text": "Ich zweigte vom direkten Aufstieg (den ich als Abstieg vor hatte) ab und ging stattdessen auf rund 1000m Höhe den Hang entlang Richtung Nesslau. Dabei immer genau an der Nebelgrenze und mit dem Blick über das Tal zu den Bauernhöfen auf der anderen Seite."
       },
       {
         "photos": [
@@ -95,7 +97,7 @@
           }
         ],
         "videos": [],
-        "text": "Dann hörte die Straße auf und ein kleiner Weg führt durch eine felsige Rippe im Hang hindurch. Der Weg war aber auch hier sehr breit."
+        "text": "Dann hörte die Straße auf und ein kleiner Weg führte durch eine felsige Rippe im Hang hindurch. Der Weg war aber auch hier sehr breit."
       },
       {
         "photos": [
@@ -161,7 +163,7 @@
           }
         ],
         "videos": [],
-        "text": "Nachdem ich die Straße verlassen hatte, passierte ich die Alp Stockneregg (hier unten zu stehen) und ging nun gerade den Grat des Stockbergs hinauf. Hier am Startpunkt für Paraglider, die dort mit dem Auto recht nah herankommen (mit gekaufter Fahrgenehmigung möglich). An diesem Tag waren aber keine hier, denn der Föhn wehte hier recht stark."
+        "text": "Nachdem ich die Straße verlassen hatte, passierte ich die Alp Stockneregg (hier unten zu sehen) und ging nun gerade den Grat des Stockbergs hinauf. Hier war ich am Startpunkt für Paraglider, die dort mit dem Auto recht nah herankommen (das ist mit gekaufter Fahrgenehmigung möglich). An diesem Tag waren aber keine hier, denn der Föhn wehte hier recht stark."
       },
       {
         "photos": [
@@ -174,7 +176,7 @@
           }
         ],
         "videos": [],
-        "text": "Der Weg über den Grasgrat auf den Stockberg ist einfach und nicht all zu steil. Hier kann man bereits den Gipfel erkennen."
+        "text": "Der Weg über den Grasgrat auf den Stockberg war einfach und nicht all zu steil. Hier kann man bereits den Gipfel erkennen."
       },
       {
         "photos": [
@@ -312,7 +314,7 @@
           }
         ],
         "videos": [],
-        "text": "Vom Risipass wären es jetzt nur 1:45h zurück nach Stein gewesen, so dass ich schon gegen 12:00 zurück am Auto gewesen wäre. Also plante ich um und nahm mir noch die auf der anderen Seite des Risipass liegende Neuenalpspitz (1816m) vor. Da ich noch viel Zeit und Lust hatte, aber nicht auf dem direkten Weg vom Risipass, sondern zuerst Richtung Windenpass nach Osten.<br />Hier der Blick beim neuerlichen Aufstieg zurück zum Risipass und dem dahinterliegenden Stockberg."
+        "text": "Vom Risipass wären es jetzt nur 1 Stunde und 45 Minuten zurück nach Stein gewesen, so dass ich schon gegen 12:00 zurück am Auto gewesen wäre. Also plante ich um und nahm mir noch die auf der anderen Seite des Risipass liegende 1816m hohe Neuenalpspitz vor. Da ich noch viel Zeit und Lust hatte, aber nicht auf dem direkten Weg vom Risipass, sondern zuerst Richtung Windenpass nach Osten.<br />Hier der Blick beim neuerlichen Aufstieg zurück zum Risipass und dem dahinterliegenden Stockberg."
       },
       {
         "photos": [
@@ -344,14 +346,14 @@
         "photos": [
           {
             "name": "030",
-            "alt": "Aufstieg Gemeinewies",
+            "alt": "Aufstieg Alplispitz",
             "date": "2018-11-04T12:20:35.000+01:00",
             "width": 1920,
             "height": 1280
           }
         ],
         "videos": [],
-        "text": "Dann ging es noch steiler über ein Geröllfeld hinauf zum Grat oberhalb Gemeinewies. Irgendwie hat dieser 1816m hohe Nachbargipfel der Neuenalpspitz keinen Namen."
+        "text": "Dann ging es noch steiler über ein Geröllfeld hinauf zur 1816m hohen Alplispitz."
       },
       {
         "photos": [
@@ -370,7 +372,7 @@
         "photos": [
           {
             "name": "032",
-            "alt": "Namenloser Gipfel",
+            "alt": "Alplispitz",
             "date": "2018-11-04T12:25:33.000+01:00",
             "width": 1920,
             "height": 810
@@ -384,20 +386,20 @@
           }
         ],
         "videos": [],
-        "text": "Den namenlosen Gipfel mit schweizer Metalfahne erreichte ich gegen 12:30. Sehr schöner Blick zurück zum Alpstein."
+        "text": "Die Alplispitz mit schweizer Metallfahne erreichte ich gegen 12:30. Dort gab es einen sehr schönen Blick zurück zum Alpstein."
       },
       {
         "photos": [
           {
             "name": "034",
-            "alt": "Gemeinewies",
+            "alt": "Gmeinenwis",
             "date": "2018-11-04T12:30:05.000+01:00",
             "width": 1920,
             "height": 734
           }
         ],
         "videos": [],
-        "text": "Vom Gipfel kann man den weiteren Verlauf des Wegs einsehen. Erst auf dem Grat entlang der Gemeinewies bis zum kleinen Pass. Dann weiter auf dem dann felsigen Grat zur Neuenalpspitz. Da keine großen Höhenunterschiede mehr im Spiel waren, erwartete ich eigentlich von hier schnell die Neuenalpspitz zu erreichen."
+        "text": "Vom Gipfel kann man den weiteren Verlauf des Wegs einsehen. Erst auf dem Grat entlang der Gmeinenwis bis zum kleinen Pass. Dann weiter auf dem dann felsigen Grat zur Neuenalpspitz. Da keine großen Höhenunterschiede mehr im Spiel waren, erwartete ich eigentlich von hier schnell die Neuenalpspitz zu erreichen."
       },
       {
         "photos": [
@@ -410,7 +412,7 @@
           }
         ],
         "videos": [],
-        "text": "Blick zurück zum namenlosen Gipfel und link davon Alpli, wo ich hergekommen war."
+        "text": "Blick zurück zur Alplispitz und links davon Alpli, wo ich hergekommen war."
       },
       {
         "photos": [
@@ -430,7 +432,7 @@
           }
         ],
         "videos": [],
-        "text": "Den kleinen Pass zwischen Risipass und Gmeinenwis (schreibweise ist nicht eindeutig) erreichte ich tatsächlich sehr zügig in 10min. Um so überraschter war ich von der Zeitangabe von 45min bis zur Neuenalpspitz."
+        "text": "Den kleinen Pass zwischen Risipass und Gmeinenwis erreichte ich tatsächlich sehr zügig in 10 Minuten. Um so überraschter war ich von der Zeitangabe von 45 Minuten bis zur Neuenalpspitz."
       },
       {
         "photos": [
@@ -450,7 +452,7 @@
           }
         ],
         "videos": [],
-        "text": "Schnell wurde aber klar, warum man so viel Zeit für die kurze Strecke einplanen muss. Der Weg führt fast immer genau auf dem felsigen Grat entlang. Dabei müssen einige Felsen überklettert werden, wobei es nur sehr wenig Sicherungen oder Hilfen gibt. Meine Hände waren dabei ständig mit festhalten beschäftigt und ich musste mich ordentlich konzentrieren."
+        "text": "Schnell wurde aber klar, warum man so viel Zeit für die kurze Strecke einplanen muss. Der Weg führte fast immer genau auf dem felsigen Grat entlang. Dabei müssen einige Felsen überklettert werden, wobei es nur sehr wenige Sicherungen oder Hilfen gibt. Meine Hände waren dabei ständig mit festhalten beschäftigt und ich musste mich ordentlich konzentrieren."
       },
       {
         "photos": [
@@ -497,7 +499,7 @@
           }
         ],
         "videos": [],
-        "text": "Ich habe dann tatsächlich die 45min für den Grat gebraucht und war dann doch ziemlich erleichtert. Der Schluss hinauf auf dem Gipfel ist dann zwar steil, aber zum Glück weniger ausgesetzt, so dass ich dann wieder etwas die tolle Aussicht zum Gräppelensee und dem Alpstein genießen konnte."
+        "text": "Ich habe dann tatsächlich die 45 Minuten für den Grat gebraucht und war dann doch ziemlich erleichtert. Der Schluss hinauf auf dem Gipfel ist dann zwar steil, aber zum Glück weniger ausgesetzt, so dass ich dann wieder etwas die tolle Aussicht zum Gräppelensee und dem Alpstein genießen konnte."
       },
       {
         "photos": [
@@ -524,7 +526,7 @@
           }
         ],
         "videos": [],
-        "text": "Um 13:30 gönnte ich mir dann eine Pause auf dem (gipfelkreuzlosen) Gipfel der Neuenalpspitz. Richtung Westen geht es sehr steil hinab und oben ist auch sonst nicht viel Platz. Zum Glück war ich alleine dort oben."
+        "text": "Um 13:30 gönnte ich mir dann eine Pause auf dem gipfelkreuzlosen Gipfel der Neuenalpspitz. Richtung Westen geht es sehr steil hinab und oben ist auch sonst nicht viel Platz. Zum Glück war ich alleine dort oben."
       },
       {
         "photos": [
@@ -564,7 +566,7 @@
           }
         ],
         "videos": [],
-        "text": "Der (verträglichere) Hauptweg auf die Neuenalpspitze führt von Süden hinauf. Diesen ging ich nun hinunter, wobei das erste Stück direkt unter dem Gipfel auch ziemlich steil ist."
+        "text": "Der verträglichere Hauptweg auf die Neuenalpspitze führt von Süden hinauf. Diesen ging ich nun hinunter, wobei das erste Stück direkt unter dem Gipfel auch ziemlich steil war."
       },
       {
         "photos": [
@@ -577,7 +579,7 @@
           }
         ],
         "videos": [],
-        "text": "Dann wurde der Weg aber schnell harmloser und führte sehr schön weiter immer am Grat entlang dieser Wiesen nach unten."
+        "text": "Dann wurde der Weg aber schnell harmloser und führte sehr schön weiter immer am Grat entlang diese Wiesen nach unten."
       },
       {
         "photos": [
@@ -675,7 +677,7 @@
           }
         ],
         "videos": [],
-        "text": "Der Weg verlässt den Grat und man wird vorbei an der Alp Hoor geführt. Den hier hinauführenden Fahrweg verlässt man aber sofort wieder."
+        "text": "Der Weg verlässt den Grat und man wird vorbei an der Alp Hoor geführt. Den hier hinaufführenden Fahrweg verlässt man aber sofort wieder."
       },
       {
         "photos": [
@@ -765,6 +767,6 @@
         "text": "Ankunft mit den letzten Sonnenstrahlen um 15:30 in Stein."
       }
     ],
-    "outro": "Fazit: Aus der leichten Halbtageswanderung auf den Stockberg entwickelte sich eine (fast zu) spannende Bergtour auf die Neuenalpspitz. Die insgesamt drei Gipfel mit den Abstiegen zwischendrin waren doch ziemlich anstrengend, auch wenn es 'nur' 17km und 1500 Höhenmeter waren. Wer Kletterei mag, sollte über die Neuenalpspitz gehen - allen anderen empfehle ich den einfachen Stockberg, der eine ebenso schöne Aussicht hat."
+    "outro": "Fazit: Aus der leichten Halbtageswanderung auf den Stockberg entwickelte sich eine fast zu spannende Bergtour auf die Neuenalpspitz. Die insgesamt drei Gipfel mit den Abstiegen zwischendrin waren doch ziemlich anstrengend, auch wenn es nur 17km und 1500 Höhenmeter waren. Wer Kletterei mag, sollte über die Neuenalpspitz gehen - allen anderen empfehle ich den einfachen Stockberg, der eine ebenso schöne Aussicht hat."
   }
 ]
