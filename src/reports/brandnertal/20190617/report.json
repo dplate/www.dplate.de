@@ -2,9 +2,11 @@
   {
     "destination": "brandnertal",
     "date": "d20190617",
+    "datePublished": "2019-16-18T12:00:00.000+02:00",
+    "dateModified": "2026-02-08T12:00:00.000+01:00",
     "type": "hike",
     "track": true,
-    "detailMap": "austria",
+    "detailMap": null,
     "shortTitle": "Natursprünge-Weg",
     "title": "Brandnertal Natursprünge-Weg",
     "title3d": {
@@ -14,8 +16,8 @@
       "width": 1920,
       "height": 500
     },
-    "movie": "CQdbzBo1XkI",
-    "intro": "Nachdem der viele Schnee in den Alpen nun (zumindest unter 2000m) weg ist, ging es an diesem Montag auf eine kleine Panoramawanderung ins Brandnertal. Um 10:30 stellten wir das Auto auf dem Gratisparkplatz mitten in Brand ab und kauften die Tageskarte für die Bergbahnen für 23€ pro Person. Da wir insgesamt drei Bahnfahrten vor hatten, war die Tageskarte bereits das günstigste Angebot.",
+    "movie": "a3VOJRJZDWM",
+    "intro": "Nachdem der viele Schnee in den Alpen (zumindest unter 2000m) weg war, ging es an einem Montag auf eine kleine Panoramawanderung ins Brandnertal. Um 10:30 stellten wir das Auto auf dem Gratisparkplatz mitten in Brand ab und kauften die Tageskarte für die Bergbahnen für 23€ pro Person. Da wir insgesamt drei Bahnfahrten vor hatten, war die Tageskarte bereits das günstigste Angebot.",
     "landmarks": [
       {
         "photos": [
@@ -27,7 +29,7 @@
             "height": 848
           }
         ],
-        "text": "Die ersten 400 Höhenmeter auf 1390m ging schnell es mit der Dorfbahn hinauf. Von dort ging es dann zu Fuß erst auf angelegtem Wanderweg hinauf. Hier der Blick zurück auf die Bergstation der Dorfbahn auf Parpfienz. An diesem Tag war es windstill und warm."
+        "text": "Die ersten 400 Höhenmeter auf 1390m ging es schnell mit der Dorfbahn hinauf. Von dort ging es dann zu Fuß erst auf einem Wanderweg los. Hier der Blick zurück auf die Bergstation der Dorfbahn auf Parpfienz. An diesem Tag war es windstill und warm."
       },
       {
         "photos": [
@@ -39,7 +41,7 @@
             "height": 1090
           }
         ],
-        "text": "Am Anfang geht der Weg etwas zügiger zu der kleinen Hochfläche bei der Inneren Parfienzalpe hinauf. Aber da es sich um einen kinderwagengängigen Weg handelt ist alles sehr harmlos."
+        "text": "Am Anfang ging der Weg etwas zügiger zu der kleinen Hochfläche bei der Inneren Parfienzalpe hinauf. Aber da es sich um einen kinderwagentauglichen Weg handelt, ist alles sehr harmlos."
       },
       {
         "photos": [
@@ -58,7 +60,7 @@
             "height": 899
           }
         ],
-        "text": "Schnell war der kleine Stausee etwas unterhalb der Inneren Pafienzalpe erreicht, um den auch ein angelegter Barfußweg führt. Auch eine Grillstelle gibt es dort, aber leider ist er (typisch Schneekanonensee) nicht zum Baden geeignet.<br />An der Inneren Parfienzalpe gibt es eine kleine Alpwirtschaft, aber an dieser gingen wir nur vorbei."
+        "text": "Schnell war der kleine Stausee etwas unterhalb der Inneren Parfienzalpe erreicht, um den auch ein angelegter Barfußweg führt. Auch eine Grillstelle gibt es dort, aber leider ist er, typisch für Schneekanonenseen, nicht zum Baden geeignet.<br />An der Inneren Parfienzalpe gibt es eine kleine Alpwirtschaft, aber an dieser gingen wir nur vorbei."
       },
       {
         "photos": [
@@ -70,7 +72,7 @@
             "height": 720
           }
         ],
-        "text": "Nach der Alp ist das Ende des Tals erreicht und ab nun ging es auf breiten Feldweg weiter. Hier hatten wir bereits den Schliefwaldbach überquert. Entlang des Natursprünge-Weg gibt es viele Stationen für Kinder, wo die Natur der Alpen erklärt werden."
+        "text": "Nach der Alp ist das Ende des Tals erreicht und ab nun ging es auf einem breiten Feldweg weiter. Hier hatten wir bereits den Schliefwaldbach überquert. Entlang des Natursprünge-Weg gibt es viele Stationen für Kinder, wo die Natur der Alpen erklärt werden."
       },
       {
         "photos": [
@@ -106,7 +108,7 @@
             "height": 874
           }
         ],
-        "text": "Hinter uns war nun die Bergstation der Gulmabahn zusehen, die aber im Sommer nicht in Betrieb war. Dort wurden nur gerade Revisionsarbeiten durchgeführt."
+        "text": "Hinter uns war nun die Bergstation der Gulmabahn zusehen, die aber im Sommer nicht in Betrieb ist. Dort wurden nur gerade Revisionsarbeiten durchgeführt."
       },
       {
         "photos": [
@@ -161,7 +163,7 @@
             "height": 793
           }
         ],
-        "text": "Bei diesem Blick zurück kann man ein Großteil des bisherigen Wegs sehen. Links die Bergstation der Dorfbahn / Talstationd der Panoramabahn, in der Mitte der Stausee der Inneren Parfienzalpe und recht der Feldweg.<br />Im Hintergrund ist nun links die Staumauer des Lünersees zu sehen und in der Mitte die fast 3000m hohe <a target='_blank' href='/alpine/brandnertal/20150829'>Schesaplana</a>, die ich vor vier Jahren mal bestiegen hatte."
+        "text": "Bei diesem Blick zurück kann man ein Großteil des bisherigen Wegs sehen. Links die Bergstation der Dorfbahn / Talstation der Panoramabahn, in der Mitte der Stausee der Inneren Parfienzalpe und rechts der Feldweg.<br />Im Hintergrund ist nun links die Staumauer des Lünersees zu sehen und in der Mitte die fast 3000m hohe <a target='_blank' href='/alpine/brandnertal/20150829'>Schesaplana</a>, die ich vier Jahre zuvor mal bestiegen hatte."
       },
       {
         "photos": [
@@ -192,7 +194,7 @@
             "height": 1280
           }
         ],
-        "text": "Noch vor dem Parfienzsattel geht es an der idylischen Vorderen Parfienzalpe oberhalb vorbei. Noch vor drei Monaten sah es hier übrigens so aus: <a href='https://500px.com/photo/299666485/vordere-parfienzalpe-by-dirk-plate' target='_blank'>Vordere Parfienzalpe im Winter</a>."
+        "text": "Noch vor dem Parfienzsattel ging es an der idyllischen Vorderen Parfienzalpe oberhalb vorbei. <span data-silent>Noch vor drei Monaten sah es hier übrigens so aus: <a href='https://500px.com/photo/299666485/vordere-parfienzalpe-by-dirk-plate' target='_blank'>Vordere Parfienzalpe im Winter</a>.</span>"
       },
       {
         "photos": [
@@ -240,7 +242,7 @@
             "height": 610
           }
         ],
-        "text": "Ankunft auf dem 1680m hohen Burtschasattel um 14:00, dem Ziel unserer Wanderung. Dort befindet sich die Bergstation der Panoramabahn und die Gaststätte Frööd, bei der wir dann auf der Terasse die Wanderung beendeten."
+        "text": "Ankunft auf dem 1680m hohen Burtschasattel um 14:00, dem Ziel unserer Wanderung. Dort befindet sich die Bergstation der Panoramabahn und die Gaststätte Frööd, bei der wir dann auf der Terrasse die Wanderung beendeten."
       },
       {
         "photos": [
