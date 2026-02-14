@@ -396,13 +396,30 @@ const updateCamera = (viewer, hiker, smooth = true) => {
   }
 };
 
-const updateSpeed = (viewer, targetTime, onAnimationStopped) => {
+const updateSpeed = (viewer, hiker, targetTime, onAnimationStopped) => {
   if (!targetTime.current) {
     return;
   }
   const timeDifference = JulianDate.secondsDifference(targetTime.current, viewer.clock.currentTime);
-  let targetMultiplier = timeDifference * 2;
-  targetMultiplier = Math.max(Math.min(targetMultiplier, 100), -100);
+
+  const now = viewer.clock.currentTime;
+  const future = new JulianDate();
+  JulianDate.addSeconds(now, 10, future);
+  const currentPos = hiker.entity.position.getValue(now);
+  const futurePos = hiker.entity.position.getValue(future);
+
+  let speed = 1;
+  if (currentPos && futurePos) {
+    const distance = Cartesian3.distance(currentPos, futurePos);
+    speed = distance / 10;
+  }
+
+  const minSpeed = 0.2;
+  const speedFactor = speed < minSpeed ? Math.min(20, minSpeed / Math.max(speed, 0.01)) : 1;
+
+  let targetMultiplier = timeDifference * 2 * speedFactor;
+  const maxMultiplier = speedFactor * 100;
+  targetMultiplier = Math.max(Math.min(targetMultiplier, maxMultiplier), -maxMultiplier);
   viewer.clock.multiplier = targetMultiplier;
   if (Math.abs(targetMultiplier) < 20 || Math.abs(timeDifference) <= 10) {
     if (viewer.clock.shouldAnimate) {
@@ -436,7 +453,7 @@ const updateHiker = (viewer, hiker) => {
 
 const tickChanged = (viewer, hiker, targetTime, onAnimationStopped) => {
   updateCamera(viewer, hiker);
-  updateSpeed(viewer, targetTime, onAnimationStopped);
+  updateSpeed(viewer, hiker, targetTime, onAnimationStopped);
   updateHiker(viewer, hiker);
 };
 
