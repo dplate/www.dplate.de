@@ -15,7 +15,7 @@ const Photo = styled.img.attrs(({ $opacity }) => ({
   left: 50%;
   margin-right: -50%;
   transform: translate(-50%, -50%);
-  transition: opacity 1s ease-in-out;
+  transition: opacity 0.5s ease-in-out;
 `;
 
 const Label = styled.div.attrs(({ $offsetY }) => ({
@@ -32,7 +32,7 @@ const Label = styled.div.attrs(({ $offsetY }) => ({
   transform: translate(-50%, 0);
   font-size: 50px;
   text-shadow: 0 0 4px black;
-  transition: top 2s ease-in-out;
+  transition: top 1.5s ease-in-out;
 `;
 
 const renderPhoto = (reportPath, visiblePhotoName, photo, index) => {
