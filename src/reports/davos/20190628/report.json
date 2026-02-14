@@ -2,8 +2,11 @@
   {
     "destination": "davos",
     "date": "d20190628",
+    "datePublished": "2019-06-28T12:00:00+02:00",
+    "dateModified": "2026-02-14T16:00:00+01:00",
     "type": "hike",
     "track": true,
+    "timeShift": 60,
     "detailMap": "swiss",
     "shortTitle": "Zügenschlucht",
     "title": "Zügenschlucht",
@@ -14,8 +17,8 @@
       "width": 1920,
       "height": 670
     },
-    "movie": "ro68-bfznwQ",
-    "intro": "An diesem Freitag sollten es über 30° werden, so suchten wir als Ziel für eine kleine Wanderung die Zügenschlucht südlich von Davos aus.",
+    "movie": "ohIogRgrTvY",
+    "intro": "An diesem Juni-Freitag sollten es über 30° werden, so suchten wir als Ziel für eine kleine Wanderung die Zügenschlucht südlich von Davos aus.",
     "landmarks": [
       {
         "photos": [
@@ -27,13 +30,13 @@
             "height": 1237
           }
         ],
-        "text": "Das Auto stellten wir am kleinen (und ziemlich verlassenem) Bahnhof Monstein ab. Der eigentliche Ort liegt ein paar hundert Meter oberhalb, so dass es abgesehen von der Straße und einem Brunnen dort nicht viel gibt. Wir hatten vor mit der Bahn die Schlucht hinab zum Bahnhof Wiesen zu fahren und von dort die Schlucht hinauf zu gehen.<br />Nachdem die Fahrkarte am Automaten gelöst war, mussten wir noch eine knappe halbe Stunde auf den stündlich fahrenden Zug warten."
+        "text": "Das Auto stellten wir am kleinen und ziemlich verlassenen Bahnhof Monstein ab. Der eigentliche Ort liegt ein paar hundert Meter oberhalb, so dass es abgesehen von der Straße und einem Brunnen dort nicht viel gibt. Wir hatten vor mit der Bahn die Schlucht hinab zum Bahnhof Wiesen zu fahren und von dort die Schlucht hinauf zu gehen.<br />Nachdem die Fahrkarte am Automaten gelöst war, mussten wir noch eine knappe halbe Stunde auf den stündlich fahrenden Zug warten."
       },
       {
         "photos": [
           {
             "name": "002",
-            "alt": "RhB-Krododil 415",
+            "alt": "RhB-Krokodil 415",
             "date": "2019-06-28T10:35:56.000+02:00",
             "width": 1920,
             "height": 1198
@@ -63,13 +66,13 @@
             "height": 1392
           }
         ],
-        "text": "Highlight der kurzen (4-5km) Fahrt ist die Passage der Brücke beim Bärentritt. Diese nur ca. 5m lange Brücke befindet sich zwischen zwei Tunneln und überquert dabei einen tosenden Wasserfall. Dabei wird man auf den offenen Waggons von der Gischt eingenebelt. Der historische Zug fährt dabei an dieser Stelle extra langsam. :)"
+        "text": "Highlight der kurzen 5km langen Fahrt ist die Passage der Brücke beim Bärentritt. Diese nur ca. 5m lange Brücke befindet sich zwischen zwei Tunneln und überquert dabei einen tosenden Wasserfall. Dabei wurde man auf den offenen Waggons von der Gischt eingenebelt. Der historische Zug fährt dabei an dieser Stelle extra langsam. :)"
       },
       {
         "photos": [
           {
             "name": "005",
-            "alt": "Krododil 415 in Wiesen",
+            "alt": "Krokodil 415 in Wiesen",
             "date": "2019-06-28T10:45:30.000+02:00",
             "width": 1920,
             "height": 1175
@@ -111,7 +114,7 @@
             "height": 1236
           }
         ],
-        "text": "Der erste Abschnitt des Wegs vom Bahnhof Wiesen zum Bärentritt führt auf gut ausgebautem Wanderweg oberhalb der Bahnstrecke. Hier der Blick hinab zur kleinen (aber sehr hohen) Straßenbrücke zum Ort Jenisberg direkt beim Bahnhof Wiesen."
+        "text": "Der erste Abschnitt des Wegs vom Bahnhof Wiesen zum Bärentritt führt auf gut ausgebautem Wanderweg oberhalb der Bahnstrecke. Hier der Blick hinab zur kleinen, aber sehr hohen Straßenbrücke zum Ort Jenisberg direkt beim Bahnhof Wiesen."
       },
       {
         "photos": [
@@ -135,7 +138,7 @@
             "height": 2260
           }
         ],
-        "text": "Tiefblick hinab zum Fluß Landwasser, der diese tiefe Schlucht in den Berg gegraben hat. Während der ganzen Wanderung war das Tosen des Bachs unüberhörbar."
+        "text": "Tiefblick hinab zum Fluss Landwasser, der diese tiefe Schlucht in den Berg gegraben hat. Während der ganzen Wanderung war das Tosen des Bachs unüberhörbar."
       },
       {
         "photos": [
@@ -147,7 +150,7 @@
             "height": 1280
           }
         ],
-        "text": "Und so sah der Wanderweg hier aus. An steileren Abschnitten zusätzlich mit Geländer gesichert, also ungefährlich. Nur bei starkem Regen wird von diesem Weg gewarnt, da es wohl zu Erdrutschen kommen kann."
+        "text": "Und so sah der Wanderweg hier aus. An steileren Abschnitten zusätzlich mit Geländer gesichert, also ungefährlich. Nur bei starkem Regen wird vor diesem Weg gewarnt, da es wohl zu Erdrutschen kommen kann."
       },
       {
         "photos": [
@@ -166,7 +169,7 @@
             "height": 1280
           }
         ],
-        "text": "Etwas oberhalb der Eisenbahnbrücke überquert der Wanderweg den Bach beim Bärentritt, der auf dem Bild zuvor den beindruckenden Wasserfall gebildet hatte."
+        "text": "Etwas oberhalb der Eisenbahnbrücke überquert der Wanderweg den Bach beim Bärentritt, der auf dem Bild zuvor den beeindruckenden Wasserfall gebildet hatte."
       },
       {
         "photos": [
@@ -185,7 +188,7 @@
             "height": 1252
           }
         ],
-        "text": "Ich hatte leider knapp den Zeitpunkt verpasst, als die offenen Wagen des historischen Zugs die Brücke beim Bärentritt passierten, deshalb hier nur Bilder von den (ebenfalls alten) Güterwaggons über dem Wasserfall."
+        "text": "Ich hatte leider knapp den Zeitpunkt verpasst, als die offenen Wagen des historischen Zugs die Brücke beim Bärentritt passierten, deshalb hier nur Bilder von den ebenfalls alten Güterwaggons über dem Wasserfall."
       },
       {
         "photos": [
@@ -209,7 +212,7 @@
             "height": 1127
           }
         ],
-        "text": "Ein letztes Foto am Bärentritt direkt nach unten, wo der Wasserfall auf das Landwasser tritt... inklusive kleinem Regenbogen."
+        "text": "Ein letztes Foto am Bärentritt direkt nach unten, wo der Wasserfall auf das Landwasser trifft... inklusive kleinem Regenbogen."
       },
       {
         "photos": [
@@ -221,7 +224,7 @@
             "height": 1235
           }
         ],
-        "text": "Ab Bärentritt geht der Weg auf der alten Zügenstraße entlang, die aber nur noch für Radfahrer und Fußgänger geöffnet ist. Diese schmale Straße durch die Schlucht wurde innerhalb von nur zwei Jahren 1874 erbaut und war bis 1974 in Betrieb. Heutzutage geht es mit dem Auto deutlich weniger schön durch einen langen Straßentunnel."
+        "text": "Ab Bärentritt geht der Weg auf der alten Zügenstraße entlang, die aber nur noch für Radfahrer und Fußgänger geöffnet ist. Diese schmale Straße durch die Schlucht wurde innerhalb von nur zwei Jahren um 1874 erbaut und war bis 1974 in Betrieb. Heutzutage geht es mit dem Auto deutlich weniger schön durch einen langen Straßentunnel."
       },
       {
         "photos": [
@@ -247,7 +250,7 @@
             "height": 1280
           }
         ],
-        "text": "Es geht auf der Straße durch viele kurz (unbeleuchtete) Tunnel. Angenehm, da in jedem dieser Tunnel ein frischer Wind wehte (ja, es war warm)."
+        "text": "Es geht auf der Straße durch viele kurze, nicht beleuchtete Tunnel. Angenehm, da in jedem dieser Tunnel ein frischer Wind wehte (ja, es war warm)."
       },
       {
         "photos": [
@@ -266,7 +269,7 @@
             "height": 937
           }
         ],
-        "text": "An zwei Stellen war im Winter eine Lawine in die Schlucht abgegangen. Hier die Reste der ersten, die langsam vom Landwasser abgetragen wird. Die Größenverhältnisse sind hier nicht so sichtbar, aber die Schneedicke war dort sicher um die 5m. Auch steckten im Schnee ganze Baumstämme."
+        "text": "An zwei Stellen war im Winter eine Lawine in die Schlucht abgegangen. Hier die Reste der ersten, die langsam vom Landwasser abgetragen wurde. Die Größenverhältnisse sind hier nicht so sichtbar, aber die Schneedicke war dort sicher um die 5m. Auch steckten im Schnee ganze Baumstämme."
       },
       {
         "photos": [
@@ -364,7 +367,7 @@
             "height": 1280
           }
         ],
-        "text": "Anschließend geht die Straße immer direkt unten am Fluss entlang, aber auch weiterhin durch Fels und Tunnel."
+        "text": "Anschließend geht die Straße immer direkt unten am Fluss entlang, aber auch weiterhin durch Fels und Tunneln."
       },
       {
         "photos": [
@@ -376,7 +379,7 @@
             "height": 2165
           }
         ],
-        "text": "Blick den steilen Hang hinauf, wo die Felschichtungen gut erkennbar waren. Ein kleiner Bach hatte sich hier durch die schräg verlaufenen Schichtungen gekämpft."
+        "text": "Blick den steilen Hang hinauf, wo die Felsschichtungen gut erkennbar waren. Ein kleiner Bach hatte sich hier durch die schräg verlaufenen Schichtungen gekämpft."
       },
       {
         "photos": [
@@ -388,7 +391,7 @@
             "height": 1052
           }
         ],
-        "text": "Noch eine längere Pause am strömenden (und eiskalten) Bach. Versuch einer längeren Belichtungsdauer trotz strahlendem Sonnenschein und ohne Graufilter, stattdessen durch die Sonnenbrille."
+        "text": "Noch eine längere Pause am strömenden und eiskalten Bach. Versuch einer längeren Belichtungsdauer trotz strahlendem Sonnenschein und ohne Graufilter, stattdessen durch die Sonnenbrille."
       },
       {
         "photos": [
@@ -407,7 +410,7 @@
             "height": 1253
           }
         ],
-        "text": "Am Ende (eigentlich Anfang) der Schlucht erreicht man wieder die Eisenbahnstrecke und das Tal öffnet sich."
+        "text": "Am Ende (eigentlich ja der Anfang) der Schlucht erreicht man wieder die Eisenbahnstrecke und das Tal öffnet sich."
       },
       {
         "photos": [
@@ -422,6 +425,6 @@
         "text": "Und nach einem kurzen Abschnitt entlang der Hauptstraße war auch wieder der Bahnhof Monstein erreicht, bei dem gerade mal wieder die Bahn ankam."
       }
     ],
-    "outro": "Fazit: Der rund 5km lange Weg ist abwechslungsreich, aber trotzdem einfach zu gehen. Highlight ist die Fahrt mit der historischen Bahn und der Bärentritt. Aber auch sonst sind die steilen Felswände der Schlucht und das tosende Landwasser beeindruckend.<br />Wer es etwas länger will, kann auch die ganze Strecke bis nach Filisur wandern."
+    "outro": "Fazit: Der rund 5km lange Weg ist abwechslungsreich, aber trotzdem einfach zu gehen. Highlight war die Fahrt mit der historischen Bahn und der Bärentritt. Aber auch sonst sind die steilen Felswände der Schlucht und das tosende Landwasser beeindruckend.<br />Wer es etwas länger will, kann auch die ganze Strecke bis nach Filisur wandern."
   }
 ]

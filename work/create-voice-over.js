@@ -3,12 +3,22 @@ const jsonfile = require('jsonfile');
 const fs = require('fs');
 
 const projectPath = 'C:/Users/Roger/web/Dp3';
-const destination = 'brandnertal';
-const reportDate = '20190617';
+const destination = 'davos';
+const reportDate = '20190628';
 
 const client = new textToSpeech.TextToSpeechClient();
 
 const pronunciations = [
+  {
+    regex: /(jenisberg)/gi,
+    xSampa: 'jEnIsbErk'
+
+  },
+  {
+    regex: /(monstein)/gi,
+    xSampa: 'mOnStaIn'
+
+  },
   {
     regex: /(garselli)/gi,
     ipa: 'gaːʁzəlɪ'
@@ -176,8 +186,10 @@ const generateAudio = async (rawText, audioFile) => {
   text = text.replace(/<\/?[^>]+(>|$)/g, ' ').replaceAll("'", '');
 
   // Help to pronounce all words correctly
-  for (const { regex, ipa } of pronunciations) {
-    text = text.replace(regex, `<phoneme alphabet="ipa" ph="${ipa}">$1</phoneme>`);
+  for (const { regex, ipa, xSampa } of pronunciations) {
+    const alphabet = xSampa ? 'x-sampa' : 'ipa';
+    const phoneme = xSampa || ipa;
+    text = text.replace(regex, `<phoneme alphabet="${alphabet}" ph="${phoneme}">$1</phoneme>`);
   }
 
   // Make sure height is pronounced as units always
