@@ -2,6 +2,8 @@
   {
     "destination": "savognin",
     "date": "d20190915",
+    "datePublished": "2019-09-16T12:00:00+02:00",
+    "dateModified": "2026-02-21T14:00:00+01:00",
     "type": "hike",
     "track": true,
     "timeShift": 0,
@@ -15,8 +17,8 @@
       "width": 1920,
       "height": 504
     },
-    "movie": "Tp9IEoBq430",
-    "intro": "Trotz dem kurzen Wintereinbruch vor einer Woche nahm ich mir an diesem Sonntag eine Wanderung in höheren Lagen vor. Ziel war der (eher unscheinbare) 2700m hohe Gipfel 'Uf da Flüe' in der Nähe von Bivio am Julierpass.<br />Nach gut 2h Fahrt stellte ich mein Auto um 8:30 auf dem großen Parkplatz in Bivio ab. Der Parkplatz ist im Sommer gratis und dient im Winter dem kleinen Skigebiet von Bivio als Stellplatz.",
+    "movie": "ZtRS0TJWN4Y",
+    "intro": "Trotz dem kurzen Wintereinbruch eine Woche zuvor nahm ich mir an diesem Sonntag eine Wanderung in höheren Lagen vor. Ziel war der eher unscheinbare 2700m hohe Gipfel 'Uf da Flüe' in der Nähe von Bivio am Julierpass.<br />Nach gut 2h Fahrt stellte ich mein Auto um 8:30 auf dem großen Parkplatz in Bivio ab. Der Parkplatz ist im Sommer gratis und dient im Winter dem kleinen Skigebiet von Bivio als Abstellplatz.",
     "landmarks": [
       {
         "photos": [
@@ -68,7 +70,7 @@
           }
         ],
         "videos": [],
-        "text": "Am Anfang geht es ziemlich zügig bergauf. Das Ziel meiner Wanderung ist hier noch nicht zu sehen, es befindet sich rechts hinter dem Hügel. Mein Aufstieg biegt hier auch nach rechts ab."
+        "text": "Am Anfang ging es ziemlich zügig bergauf. Das Ziel meiner Wanderung ist hier noch nicht zu sehen, es befindet sich rechts hinter dem Hügel. Mein Aufstieg biegt hier auch nach rechts ab."
       },
       {
         "photos": [
@@ -108,7 +110,7 @@
           }
         ],
         "videos": [],
-        "text": "Auf dieser ersten Hochfläche Plang Tguils befinden sich kleine Moore mit netter Vegetation. Und auch die Ausicht auf die benachbarten Berge wurde immer schöner."
+        "text": "Auf dieser ersten Hochfläche Plang Tguils befinden sich kleine Moore mit netter Vegetation. Und auch die Aussicht auf die benachbarten Berge wurde immer schöner."
       },
       {
         "photos": [
@@ -252,7 +254,7 @@
           }
         ],
         "videos": [],
-        "text": "Kurz vor 12:00 erreichte ich schließlich den 2774m hohen Gipfel. Nun öffnete sich der Blick nach Süden.<br />Hier ein Tele über den Malojapass und dem Passo del Muretto hinweg bis nach Italien, genauer bis zum 50km entfernten Monte Torena (nicht dass ich das alles kennen würde, da half mir Peakfinder weiter)."
+        "text": "Kurz vor 12:00 erreichte ich schließlich den 2774m hohen Gipfel. Nun öffnete sich der Blick nach Süden.<br />Hier ein Tele über den Malojapass und dem Passo del Muretto hinweg bis nach Italien, genauer bis zum 50km entfernten Monte Torena <span data-silent>(nicht dass ich das alles kennen würde, da half mir Peakfinder weiter)</span>."
       },
       {
         "photos": [
@@ -265,7 +267,7 @@
           }
         ],
         "videos": [],
-        "text": "Blick in die komplett andere Richtung über den Stallerberg hinweg zum 2800m hohen Pass Fallerfurgga. Den Weg dorthinüber hatte ich als alternative Wanderung überlegt, aber Bedenken wegen zuviel Schnee gehabt (wahrscheinlich unbegründet)."
+        "text": "Blick in die komplett andere Richtung über den Stallerberg zum 2800m hohen Pass Fallerfurgga. Den Weg dort hinüber hatte ich als alternative Wanderung überlegt, aber Bedenken wegen zuviel Schnee gehabt (was wahrscheinlich unbegründet war)."
       },
       {
         "photos": [
@@ -291,7 +293,7 @@
           }
         ],
         "videos": [],
-        "text": "Panorama nach Süd-Ost. Unten ist der See Leg Columban zu sehen, an dem ein kürzere Abstieg nach Bivio (irgendwo links) vorbeigehen würde. Ich hatte aber noch vor um den Berg ganz rechts herum zu gehen."
+        "text": "Panorama nach Süd/Ost. Unten ist der See Leg Columban zu sehen, an dem ein kürzere Abstieg nach Bivio (irgendwo links) vorbeigehen würde. Ich hatte aber noch vor um den Berg ganz rechts herum zu gehen."
       },
       {
         "photos": [
@@ -409,7 +411,7 @@
           }
         ],
         "videos": [],
-        "text": "Natürlich gibt es auch auf diesem Pass wieder einen See und einen Wegweiser. Inzwischen war es 13:20. Zum Septimerpass (aka Pass da Sett) waren es von hier noch 40min, nach Bivio noch 2 1/4h Gehzeit. Erst mal noch eine Pause bei angenehm erfrischenden Lüftchen."
+        "text": "Natürlich gibt es auch auf diesem Pass wieder einen See und einen Wegweiser. Inzwischen war es 13:20. Zum Septimerpass <span data-silent>(aka Pass da Sett)</span> waren es von hier noch 40 Minuten, nach Bivio noch gut 2h Gehzeit. Erst mal noch eine Pause bei angenehm erfrischenden Lüftchen."
       },
       {
         "photos": [
@@ -509,7 +511,7 @@
         "photos": [
           {
             "name": "044",
-            "alt": "St. Colomban",
+            "alt": "St. Columban",
             "date": "2019-09-15T14:19:31.000+02:00",
             "width": 1920,
             "height": 1282
@@ -529,7 +531,7 @@
           }
         ],
         "videos": [],
-        "text": "Natürlich gibt auch auf diesem Pass wieder einen See..."
+        "text": "Natürlich gibt es auch auf diesem Pass wieder einen See..."
       },
       {
         "photos": [
@@ -649,7 +651,7 @@
           }
         ],
         "videos": [],
-        "text": "Schließlich erreichte ich das Ende des Hochtals und die Straße geht etwas steiler die letzen Meter bergab nach Bivio. Im Vordergrund ist einer der Skilifte von Bivio zu sehen."
+        "text": "Schließlich erreichte ich das Ende des Hochtals und die Straße geht etwas steiler die letzten Meter bergab nach Bivio. Im Vordergrund ist einer der Skilifte von Bivio zu sehen."
       },
       {
         "photos": [
@@ -669,9 +671,9 @@
           }
         ],
         "videos": [],
-        "text": "Auf der Passtraße über dem Julier war nun richtig viel Verkehr, der sich in Bivio staute. Etwas abseits der Hauptstraße ist Bivio aber ganz nett.<br />Um 16:45 erreichte ich mein Auto und beendete damit meine Wanderung. Für die Rückfahrt habe ich dank viele Staus dann 3,5h gebraucht. :("
+        "text": "Auf der Passstraße über dem Julier war nun richtig viel Verkehr, der sich in Bivio staute. Etwas abseits der Hauptstraße ist Bivio aber ganz nett.<br />Um 16:45 erreichte ich mein Auto und beendete damit meine Wanderung. Für die Rückfahrt habe ich dank vieler Staus dann 3,5h gebraucht. :("
       }
     ],
-    "outro": "Fazit: Einfache, aber lange Wanderung durch die Berge bei Bivio. Es gab bei dieser Tour nicht DAS Highlight, aber dafür war jeder Abschnitt etwas anders und immer schön. Das lag natürlich auch am super Wetter an diesem Tag.<br />Ingesamt war ich 8h unterwegs, habe 19km zurückgelegt und bin 1200m auf- und wieder abgestiegen."
+    "outro": "Fazit: Einfache, aber lange Wanderung durch die Berge bei Bivio. Es gab bei dieser Tour nicht das EINE Highlight, aber dafür war jeder Abschnitt etwas anders und immer schön. Das lag natürlich auch am super Wetter an diesem Tag.<br />Insgesamt war ich 8h unterwegs, habe 19km zurückgelegt und bin 1200m auf- und wieder abgestiegen."
   }
 ]

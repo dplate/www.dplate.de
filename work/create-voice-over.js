@@ -3,21 +3,27 @@ const jsonfile = require('jsonfile');
 const fs = require('fs');
 
 const projectPath = 'C:/Users/Roger/web/Dp3';
-const destination = 'alpstein';
-const reportDate = '20190801';
+const destination = 'savognin';
+const reportDate = '20190915';
 
 const client = new textToSpeech.TextToSpeechClient();
 
 const pronunciations = [
   {
+    regex: /(Uf da Flüe)/gi,
+    ipa: 'ʊf da flyə'
+  },
+  {
+    regex: /(avers)/gi,
+    ipa: 'aˈvɛrs'
+  },
+  {
     regex: /(jenisberg)/gi,
     xSampa: 'jEnIsbErk'
-
   },
   {
     regex: /(monstein)/gi,
     xSampa: 'mOnStaIn'
-
   },
   {
     regex: /(garselli)/gi,
@@ -203,6 +209,7 @@ const generateAudio = async (rawText, audioFile) => {
   text = text.replaceAll(':)', '');
   text = text.replaceAll(':-)', '');
   text = text.replaceAll(';)', '');
+  text = text.replaceAll(':(', '');
   text = text.replaceAll(';-)', '');
   text = text.replaceAll('😃', '');
   text = text.replaceAll('😉', '');
