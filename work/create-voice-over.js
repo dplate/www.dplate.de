@@ -3,12 +3,24 @@ const jsonfile = require('jsonfile');
 const fs = require('fs');
 
 const projectPath = 'C:/Users/Roger/web/Dp3';
-const destination = 'praettigau';
-const reportDate = '20190921';
+const destination = 'lenzerheide';
+const reportDate = '20191012';
 
 const client = new textToSpeech.TextToSpeechClient();
 
 const pronunciations = [
+  {
+    regex: /(blackter)/gi,
+    ipa: 'ˈblaktɐ'
+  },
+  {
+    regex: /(fideriser)/gi,
+    ipa: 'fiːdəˈʁiːzɐ'
+  },
+  {
+    regex: /(faniner)/gi,
+    ipa: 'faˈniːnɐ'
+  },
   {
     regex: /(partnun)/gi,
     ipa: 'ˈpartnʊn'
