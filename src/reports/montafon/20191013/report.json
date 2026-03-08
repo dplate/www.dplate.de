@@ -2,10 +2,12 @@
   {
     "destination": "montafon",
     "date": "d20191013",
+    "datePublished": "2019-10-14T12:00:00+02:00",
+    "dateModified": "2026-03-08T17:00:00+01:00",
     "type": "hike",
     "track": true,
-    "detailMap": "austria",
-    "hideSwissTopo": true,
+    "detailMap": null,
+    "hideSwissTopo": false,
     "shortTitle": "Kops‑Stausee",
     "title": "Silvretta Hochalpenstraße - Kops‑Stausee",
     "title3d": {
@@ -15,8 +17,8 @@
       "width": 1920,
       "height": 452
     },
-    "movie": "zq0-CMDzKzg",
-    "intro": "An diesem schönen Oktobersonntag ging auf einen Fahrt über die Silvretta Hochalpenstraße um einen Spaziergang um den Kops-Stausee zu unternehmen.",
+    "movie": "7YJpJmSku2w",
+    "intro": "An einem schönen Oktobersonntag ging es auf eine Fahrt über die Silvretta Hochalpenstraße um einen Spaziergang um den Kops-Stausee zu unternehmen.",
     "landmarks": [
       {
         "photos": [
@@ -36,7 +38,7 @@
           }
         ],
         "videos": [],
-        "text": "Nachdem die rund 16€ für das Tagesticket für die Silvretta Hochalpenstraße entrichtet waren, ging es zuerst viele Kehren hinauf und am Vermuntstausee vorbei. Danach ergab sich ein schöner Blick über die herbstliche Landschaft hinauf zum kleinen und großen Litzner (3200m)."
+        "text": "Nachdem die rund 16€ für das Tages-Ticket für die Silvretta Hochalpenstraße entrichtet waren, ging es zuerst viele Kehren hinauf und am Vermuntstausee vorbei. Danach ergab sich ein schöner Blick über die herbstliche Landschaft hinauf zum kleinen und großen Litzner (3200m)."
       },
       {
         "photos": [
@@ -243,7 +245,7 @@
           }
         ],
         "videos": [],
-        "text": "Sechsmal ein ähnlicher Blick beim Weg um den Kops-See. Der markante Berg ist die Versalspitze... vielleicht gehe ich da auch mal rauf."
+        "text": "Sechsmal ein ähnlicher Blick beim Weg um den Kops-See. Der markante Berg ist die Versalspitze... ich nahm mir vor auch dort mal hinauf zu gehen."
       },
       {
         "photos": [
@@ -295,7 +297,7 @@
           }
         ],
         "videos": [],
-        "text": "Blick zurück zum Kopsseelift des Skigebiets Galtür, das sich oberhalb des Stausees befindet. Tolle Eiswolken gab's es noch dazu."
+        "text": "Blick zurück zum Kopsseelift des Skigebiets Galtür, das sich oberhalb des Stausees befindet. Tolle Eiswolken gab es noch dazu."
       },
       {
         "photos": [
@@ -354,7 +356,7 @@
           }
         ],
         "videos": [],
-        "text": "Nun machten wir auch auf der Bielerhöhe einen längern Halt. Hier der Blick von der Staumauer des Silvretta-Stausee hinab zum Alpenvereinshütte Madlenerhaus. Das lag sicher mal schöner als es die Staumauer noch nicht gab."
+        "text": "Nun machten wir auch auf der Bielerhöhe einen längeren Halt. Hier der Blick von der Staumauer des Silvretta-Stausees hinab zur Alpenvereinshütte Madlenerhaus. Das lag sicher mal schöner als es die Staumauer noch nicht gab."
       },
       {
         "photos": [
@@ -374,7 +376,7 @@
           }
         ],
         "videos": [],
-        "text": "Wir sind dann nur noch ein kleines Stück weiter gegangen, der gesamte Rundweg um den See wäre nun zu weit gewesen (7km)."
+        "text": "Wir sind dann nur noch ein kleines Stück weiter gegangen, der gesamte Rundweg um den See wäre nun mit 7 km zu weit gewesen."
       },
       {
         "photos": [
@@ -413,7 +415,7 @@
           }
         ],
         "videos": [],
-        "text": "Danach wieder zurück über die Staumauer, an der sich ein Kletterpark befindet...<br />Dann stand noch Essen auf der Terrasse des Hotels Piz Buin an (ja, immer noch sehr warm)."
+        "text": "Danach wieder zurück über die Staumauer, an der sich ein Kletterpark befindet...<br />Dann stand noch Essen auf der Terrasse des Hotels Piz Buin an (ja, es war immer noch sehr warm)."
       },
       {
         "photos": [
