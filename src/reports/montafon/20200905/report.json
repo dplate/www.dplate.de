@@ -2,9 +2,11 @@
   {
     "destination": "montafon",
     "date": "d20200905",
+    "datePublished": "2020-09-05T12:00:00+02:00",
+    "dateModified": "2026-03-14T15:00:00+01:00",
     "type": "hike",
     "track": true,
-    "detailMap": "austria",
+    "detailMap": null,
     "hideSwissTopo": false,
     "shortTitle": "Litznersattel",
     "title": "Silvretta - Litznersattel",
@@ -15,8 +17,8 @@
       "width": 1920,
       "height": 571
     },
-    "movie": "NoVLbYCRB9s",
-    "intro": "An diesem Samstag wollte ich eine Wanderung im Hochgebirge machen, deshalb suchte ich mir eine Runde von der 2000m hohen Bielerhöhe aus, die durch die Silvretta-Hochalpenstraße mit dem Auto erreicht werden kann.<br />Vor 8:00 fuhr ich die (noch) leere tolle Serpentinenstraße hinauf, nachdem ich die 16,50€ Maut bezahlt hatte.",
+    "movie": "P41fkrkntGg",
+    "intro": "An diesem Samstag wollte ich eine Wanderung im Hochgebirge machen, deshalb suchte ich mir eine Runde von der 2000m hohen Bielerhöhe aus, die durch die Silvretta-Hochalpenstraße mit dem Auto erreicht werden kann.<br />Vor 8:00 fuhr ich die noch leere tolle Serpentinenstraße hinauf, nachdem ich die 16,50€ Maut bezahlt hatte.",
     "landmarks": [
       {
         "photos": [
@@ -121,7 +123,7 @@
           }
         ],
         "videos": [],
-        "text": "Oberhalb des Hangs wurde es etwas flacher und es musste dieser Bach überquert werden. Die Bäche hatte an diesem Tag recht viel Wasser, da es vor eine Woche sehr stark geregnet hatte.<br />Mit ein paar weiten Schritten von Stein zu Stein kam ich aber trockenen Fußes hinüber."
+        "text": "Oberhalb des Hangs wurde es etwas flacher und es musste dieser Bach überquert werden. Die Bäche hatten an diesem Tag recht viel Wasser, da es vor einer Woche sehr stark geregnet hatte.<br />Mit ein paar weiten Schritten von Stein zu Stein kam ich aber trockenen Fußes hinüber."
       },
       {
         "photos": [
@@ -134,7 +136,7 @@
           }
         ],
         "videos": [],
-        "text": "Erste kleine Pause nach gut einer Stunde mit Blick auf den Vermuntstausee. Im Hintergrund ist die <a href='/alpine/montafon/20191026'>Versalspitze</a> zu sehen, auf der ich letztes Jahr war."
+        "text": "Erste kleine Pause nach gut einer Stunde mit Blick auf den Vermuntstausee. Im Hintergrund ist die <a href='/alpine/montafon/20191026'>Versalspitze</a> zu sehen, auf der ich im Jahr zuvor war."
       },
       {
         "photos": [
@@ -160,7 +162,7 @@
         "photos": [
           {
             "name": "013",
-            "alt": "Bergreflektion",
+            "alt": "Bergreflexion",
             "date": "2020-09-05T09:49:49.000+02:00",
             "width": 1920,
             "height": 670
@@ -180,7 +182,7 @@
         "photos": [
           {
             "name": "015",
-            "alt": " Groß Seehorn",
+            "alt": "Groß Seehorn",
             "date": "2020-09-05T09:57:59.000+02:00",
             "width": 1920,
             "height": 1280
@@ -356,7 +358,7 @@
           }
         ],
         "videos": [],
-        "text": "Blick hinab auf den Verlauf des weiteren Wegs. Erstmal geht es durch viel Geröll dieses Tal hinunter.<br />Nun kamen mir doch einige Wanderer entgegen, die auch schon ziemlich kaputt von dem Aufstieg in der heißen Sonne waren."
+        "text": "Blick hinab auf den Verlauf des weiteren Wegs. Erstmal ging es durch viel Geröll dieses Tal hinunter.<br />Nun kamen mir doch einige Wanderer entgegen, die auch schon ziemlich kaputt vom Aufstieg in der heißen Sonne waren."
       },
       {
         "photos": [
@@ -441,7 +443,7 @@
           }
         ],
         "videos": [],
-        "text": "Blick hinauf zu diesen steilen Abschnitten des Wegs. Diese Wanderer gehörten alle zur selben Gruppe, so voll war es bei Weitem nicht."
+        "text": "Blick hinauf zu diesen steilen Abschnitten des Wegs. Diese Wanderer gehörten alle zur selben Gruppe, so voll war es bei weitem nicht."
       },
       {
         "photos": [
@@ -508,7 +510,7 @@
           }
         ],
         "videos": [],
-        "text": "An dieser Stelle hatte ich das Tal schon fast geschafft und ich machte noch eine Pause direkt am Bach. Die Füße wurden abgekühlt und ich wechselte (schon fast traditionell) für die letzten einfachen Kilometer auf meine mitgenommenen Sandalen."
+        "text": "An dieser Stelle hatte ich das Tal schon fast geschafft und ich machte noch eine Pause direkt am Bach. Die Füße wurden abgekühlt und ich wechselte schon fast traditionell für die letzten einfachen Kilometer auf meine mitgenommenen Sandalen."
       },
       {
         "photos": [
@@ -554,7 +556,7 @@
           }
         ],
         "videos": [],
-        "text": "Obwohl noch nicht ganz Herbst ist, werden die Farben im Gebirge schon rötlich. Zusammen mit dem türkischen Wasser des Silvretta Stausees richtig schön. :)"
+        "text": "Obwohl noch nicht ganz Herbst war, wurden die Farben im Gebirge schon rötlich. Zusammen mit dem türkisen Wasser des Silvretta Stausees richtig schön. :)"
       },
       {
         "photos": [
@@ -587,7 +589,7 @@
           }
         ],
         "videos": [],
-        "text": "Auf dem Spazierweg öffnet sich dann noch der Blick in das neben dem Klostertal gelegene Ochsental. An dessen Ende thront der 3300m hohe Piz Buin."
+        "text": "Auf dem Seerundweg öffnete sich dann noch der Blick in das neben dem Klostertal gelegene Ochsental. An dessen Ende thront der 3300m hohe Piz Buin."
       },
       {
         "photos": [
@@ -600,7 +602,7 @@
           }
         ],
         "videos": [],
-        "text": "Am Schluß dann noch über die Staumauer und ich erreichte um 15:30 mein Auto und beendete damit die Wanderung."
+        "text": "Am Schluss dann noch über die Staumauer und ich erreichte um 15:30 mein Auto und beendete damit die Wanderung."
       }
     ],
     "outro": "Fazit: Die Wanderung war anstrengender und anspruchsvoller, als es auf der Karte aussah. Knapp 1000m ging es hoch und runter auf einer Entfernung von gut 14km. Eigentlich nicht viel, aber durch die Höhe und weil ich fast die ganze Zeit über auf den gerölligen Wegen aufpassen musste, ging es trotzdem an die Kondition. Von der Schwierigkeit wäre es besser, die Runde andersherum zu machen. Aber von der Aussicht her war es dagegen so herum toll. :)"

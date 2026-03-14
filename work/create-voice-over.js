@@ -4,7 +4,7 @@ const fs = require('fs');
 
 const projectPath = 'C:/Users/Roger/web/Dp3';
 const destination = 'montafon';
-const reportDate = '20191026';
+const reportDate = '20200905';
 
 const client = new textToSpeech.TextToSpeechClient();
 
