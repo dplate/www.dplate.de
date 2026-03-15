@@ -2,6 +2,8 @@
   {
     "destination": "praettigau",
     "date": "d20200919",
+    "datePublished": "2020-09-20T12:00:00+02:00",
+    "dateModified": "2026-03-15T17:00:00+01:00",
     "type": "hike",
     "track": true,
     "detailMap": "swiss",
@@ -14,8 +16,8 @@
       "width": 1920,
       "height": 607
     },
-    "movie": "_i5vcKvAXKQ",
-    "intro": "Auf der Karte hatte ich nach einem schönen Gipfel mit Wanderweg Ausschau gehalten und dabei die fast 2700m hohe Älpeltispitz nahe Klosters entdeckt. Also fuhr ich an diesem Septembersamstag früh los - auch um den angekündigten Wolken zuvor zu kommen.",
+    "movie": "bL49XUXTNDY",
+    "intro": "Auf der Karte hatte ich nach einem schönen Gipfel mit Wanderweg Ausschau gehalten und dabei die fast 2700m hohe Älpeltispitz nahe Klosters entdeckt. Also fuhr ich an einem Septembersamstag früh los - auch um den angekündigten Wolken zuvor zu kommen.",
     "landmarks": [
       {
         "photos": [
@@ -27,7 +29,7 @@
             "height": 1074
           }
         ],
-        "text": "Den kleinen Gratisparkplatz unterhalb der Sturzbach/Lawinenverbauung des Talbachs in der Nähe des Restaurants Alpenrösli erreichte ich somit schon vor 8:00.<br />Der Parkplatz liegt günstig bereits 200 Höhenmeter oberhalb von Klosters am Hang der Älpeltispitz. Ansonsten müsste man die steile einspurige Straße vom Ort hochlaufen."
+        "text": "Den kleinen Gratisparkplatz unterhalb der <span data-silent>Sturzbach/</span>Lawinenverbauung des Talbachs in der Nähe des Restaurants Alpenrösli erreichte ich somit schon vor 8:00.<br />Der Parkplatz liegt günstig bereits 200 Höhenmeter oberhalb von Klosters am Hang der Älpeltispitz. Ansonsten müsste man noch die steile einspurige Straße vom Ort hochlaufen."
       },
       {
         "photos": [
@@ -148,7 +150,7 @@
             "height": 711
           }
         ],
-        "text": "So ging es nun weiter: Über dieses zugewachsene Geröllfeld (laut Karte ist dies das Älpelti) auf den 2500m hohen Grat in der Mitte. Dann den Grat nach rechts hinauf zur Älpeltispitz (die auf diese Foto ziemlich flach aussieht)."
+        "text": "So ging es nun weiter: Über dieses zugewachsene Geröllfeld (laut Karte ist dies das Älpelti) auf den 2500m hohen Grat in der Mitte. Dann den Grat nach rechts hinauf zur Älpeltispitz (die auf diesem Foto ziemlich flach aussieht)."
       },
       {
         "photos": [
@@ -160,7 +162,7 @@
             "height": 987
           }
         ],
-        "text": "Obwohl es an diesem Tag leider ziemlich dunstig war, eine Teleaufnahme über die vielen Gräte und Täler westlich von Davos."
+        "text": "Obwohl es an diesem Tag leider ziemlich dunstig war, eine Teleaufnahme über die vielen Grate und Täler westlich von Davos."
       },
       {
         "photos": [
@@ -184,7 +186,7 @@
             "height": 559
           }
         ],
-        "text": "Ankunft auf dem Grat und der neue Blick auf die Rückseite. Der Buckel links ist der Chessigrat/Kessigrat, den ich noch auf meinem Rückweg überwinden werde.<br />Eine kurze Pause war nun notwendig, um genug Kraft für die letzten 150m Aufstieg zum Gipfel zu sammeln."
+        "text": "Ankunft auf dem Grat und der neue Blick auf die Rückseite. Der Buckel links ist der <span data-silent>Chessigrat/</span>Kessigrat, den ich noch auf meinem Rückweg überwinden werde.<br />Eine kurze Pause war nun notwendig, um genug Kraft für die letzten 150m Aufstieg zum Gipfel zu sammeln."
       },
       {
         "photos": [
@@ -208,7 +210,7 @@
             "height": 1054
           }
         ],
-        "text": "Während des Aufstieg gibt es tolle Tiefblicke zum 1400m tieferen Klosters."
+        "text": "Während des Aufstiegs gab es tolle Tiefblicke zum 1400m tieferen Klosters."
       },
       {
         "photos": [
@@ -268,7 +270,7 @@
             "height": 607
           }
         ],
-        "text": "Als nächstes der Blick nach Süden nach Davos - unten Klosters. Die angekündigten Wolken waren zwar am Horizont erkennbar, kamen aber nur sehr langsam näher."
+        "text": "Als nächstes der Blick nach Süden Richtung Davos - unten Klosters. Die angekündigten Wolken waren zwar am Horizont erkennbar, kamen aber nur sehr langsam näher."
       },
       {
         "photos": [
@@ -280,7 +282,7 @@
             "height": 622
           }
         ],
-        "text": "Nun aber am eigentlichen Gipfel der Älpeltispitz. Kein richtiges Gipfelkreuz, aber Gipfelbuch und Steinmännchen sind vorhanden."
+        "text": "Nun aber am eigentlichen Gipfel der Älpeltispitz. Kein richtiges Gipfelkreuz, aber ein Gipfelbuch und Steinmännchen sind vorhanden."
       },
       {
         "photos": [
@@ -347,7 +349,7 @@
             "height": 1280
           }
         ],
-        "text": "Dann biegt der Weg nach Norden ab und es geht recht einfach 200 Höhenmeter durch etwas Geröll bergab."
+        "text": "Dann bog der Weg nach Norden ab und es ging recht einfach 200 Höhenmeter durch etwas Geröll bergab."
       },
       {
         "photos": [
@@ -366,7 +368,7 @@
             "height": 701
           }
         ],
-        "text": "Bis zu diesem kleinen namenlosen Bergsee auf 2300m geht es herunter. Dort befindet sich eine Wegkreuzung, bei der man entweder weiter in das Schlappintal absteigen kann oder nach Westen abbiegt, um zur Kessihütte auf den Chessigrat aufzusteigen. Letzteres war mein Weg."
+        "text": "Bis zu diesem kleinen namenlosen Bergsee auf 2300m ging es herunter. Dort befindet sich eine Wegkreuzung, bei der man entweder weiter in das Schlappintal absteigen kann oder nach Westen abbiegt, um zur Kessihütte auf dem Chessigrat aufzusteigen. Letzteres war mein Weg."
       },
       {
         "photos": [
@@ -404,7 +406,7 @@
             "height": 1262
           }
         ],
-        "text": "Ankunft an der 2450m hoch gelegenen unbewirtschafteten Kessihütte um 12:45.<br />Im Winter ist dort wahrscheinlich etwas mehr Betrieb, da sie vom Skiclub Madrisa unterhalten wird."
+        "text": "Ankunft an der 2450m hoch gelegenen nicht bewirtschafteten Kessihütte um 12:45.<br />Im Winter ist dort wahrscheinlich etwas mehr Betrieb, da sie vom Skiclub Madrisa unterhalten wird."
       },
       {
         "photos": [
@@ -428,7 +430,7 @@
             "height": 1130
           }
         ],
-        "text": "Hier kann man die erste Hälfte des nun folgenden Abstiegs erkennen. Erst ziemlich steil von der Hütte zum Grat und anschließend flacher den Grat entlang bis zur Versitspitz (die nur vom Tal aus gesehen, ein Gipfel ist)."
+        "text": "Hier kann man die erste Hälfte des nun folgenden Abstiegs erkennen. Erst ziemlich steil von der Hütte zum Grat und anschließend flacher den Grat entlang bis zur Versitspitz (die nur vom Tal aus gesehen ein Gipfel ist)."
       },
       {
         "photos": [
@@ -526,7 +528,7 @@
             "height": 2492
           }
         ],
-        "text": "Dann wurde mir der Weg (auf jeden Fall für den Abstieg) doch etwas zu steil. Hier der Blick zurück zur steilsten Stelle. Das Fotos bringt es nicht rüber, aber es war schwierig zu gehen und ich war langsam ziemlich kaputt. Auch heizte die Sonne sogar für den Abstieg zuviel ein."
+        "text": "Dann wurde mir der Weg (auf jeden Fall für den Abstieg) doch etwas zu steil. Hier der Blick zurück zur steilsten Stelle. Das Foto bringt es nicht rüber, aber es war schwierig zu gehen und ich war langsam ziemlich kaputt. Auch heizte die Sonne sogar für den Abstieg zuviel ein."
       },
       {
         "photos": [
@@ -538,7 +540,7 @@
             "height": 1068
           }
         ],
-        "text": "Irgendwann tauchte der Weg dann in Wald ein und wurde zumindest etwas flacher. Dort erreichte ich auch die kleine Schutzhütte Carmils auf 1900m Höhe. Eine Bank wartete dort für eine weitere Pause."
+        "text": "Irgendwann tauchte der Weg dann in den Wald ein und wurde zumindest etwas flacher. Dort erreichte ich auch die kleine Schutzhütte Carmils auf 1900m Höhe. Eine Bank wartete dort für eine weitere Pause."
       },
       {
         "photos": [
@@ -595,9 +597,9 @@
             "height": 971
           }
         ],
-        "text": "Nach zwei langen Serpentinen erreichte ich dann die Zivilisation und das Hotel/Restaurant Alpenrösli. Von dort dann nur noch ein paar Meter zum Auto, das ich gegen 15:30 erreichte."
+        "text": "Nach zwei langen Serpentinen erreichte ich dann die Zivilisation und das Hotel/Restaurant Alpenrösli. Von dort waren es dann nur noch ein paar Meter zum Auto, das ich gegen 15:30 erreichte."
       }
     ],
-    "outro": "Fazit: Die Älpeltispitz ist ein aussichtsreicher Gipfel, aber ich hätte die Tour besser andersherum machen sollen. Also über den Chessigrat hinauf, da der Weg dort hinunter schon sehr steil war.<br />Aber ich muss auch sagen, dass mir die gesamte Wanderung etwas zu steil war. Es ging praktisch ununterbrochen steil bergauf, steil bergab oder an steilen Hängen entlang. Etwas mehr erholsame Abschnitte wären nett gewesen. Evt. wäre eine Wanderung von Schlappin aus auf die Älpeltispitz schöner. So waren es 1500 stramme Höhenmeter auf nur 13km... ich habe dafür 7,5h gebraucht."
+    "outro": "Fazit: Die Älpeltispitz ist ein aussichtsreicher Gipfel, aber ich hätte die Tour besser andersherum machen sollen. Also über den Chessigrat hinauf, da der Weg dort hinunter schon sehr steil war.<br />Aber ich muss auch sagen, dass mir die gesamte Wanderung etwas zu steil war. Es ging praktisch ununterbrochen steil bergauf, steil bergab oder an steilen Hängen entlang. Etwas mehr erholsame Abschnitte wären nett gewesen. Eventuell wäre eine Wanderung von Schlappin aus auf die Älpeltispitz schöner. So waren es 1500 stramme Höhenmeter auf nur 13km... ich habe dafür 7,5h gebraucht."
   }
 ]
