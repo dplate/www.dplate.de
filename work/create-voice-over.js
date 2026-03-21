@@ -3,12 +3,16 @@ const jsonfile = require('jsonfile');
 const fs = require('fs');
 
 const projectPath = 'C:/Users/Roger/web/Dp3';
-const destination = 'boedele';
-const reportDate = '20201018';
+const destination = 'alpstein';
+const reportDate = '20201025';
 
 const client = new textToSpeech.TextToSpeechClient();
 
 const pronunciations = [
+  {
+    regex: /(burst)/gi,
+    ipa: 'burst'
+  },
   {
     regex: /(blackter)/gi,
     ipa: 'ˈblaktɐ'

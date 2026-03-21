@@ -2,6 +2,8 @@
   {
     "destination": "alpstein",
     "date": "d20201025",
+    "datePublished": "2020-10-26T12:00:00+01:00",
+    "dateModified": "2026-03-21T16:00:00+01:00",
     "type": "hike",
     "track": true,
     "detailMap": "swiss",
@@ -14,8 +16,8 @@
       "width": 1920,
       "height": 475
     },
-    "movie": "GxrSmKEk0Do",
-    "intro": "Ein (begehbarer) Gipfel fehlte mir bislang im Westen des Alpstein - die 1990m hohe Lütispitz. Inzwischen war der Schnee von Anfang Oktober zumindest auf den Südhängen bis 2000m geschmolzen, so dass es an diesem Herbstsonntag der richtige Zeitpunkt war, diese Lücke zu schließen.<br />Auf die Lütispitz kann man entweder von Norden von der Schwägalpstraße oder von Süden über den Gräppelensee wandern. Ende Oktober wählte ich natürlich die Sonnenseite. Der <a href='/alpine/alpstein/20180916' target='_blank'>Parkplatz in Laui</a> würde sich eigentlich anbieten, aber von dort ist es schwierig eine Runde zu laufen. Ganz von Alt St. Johann teilweise über Straßen hochzulaufen, hatte ich auch keine Lust. Auf der Karte entdeckte ich dann zwei kleine Parkplätze oberhalb von Alt St. Johann. Einer in der Kehre bei Scharten und einer ein Stück weiter bei Burst.<br />Beide bieten nur jeweils für ein paar Autos Platz, da ich aber die Zeitumstellung an diesem Sonntag ignoriert hatte, konnte ich mein Auto problemlos in Scharten um 7:00 (bzw. Sommerzeit 8:00) abstellen.",
+    "movie": "2Cit1HzRWQs",
+    "intro": "Ein begehbarer Gipfel fehlte mir bislang im Westen des Alpsteins - die 1990m hohe Lütispitz. Inzwischen war der Schnee von Anfang Oktober zumindest auf den Südhängen bis 2000m geschmolzen, so dass es an diesem Herbstsonntag der richtige Zeitpunkt war, diese Lücke zu schließen.<br />Auf die Lütispitz kann man entweder von Norden von der Schwägalpstraße oder von Süden über den Gräppelensee wandern. Ende Oktober wählte ich natürlich die Sonnenseite. Der <a href='/alpine/alpstein/20180916' target='_blank'>Parkplatz in Laui</a> würde sich eigentlich anbieten, aber von dort ist es schwierig eine Runde zu laufen. Ganz von Alt St. Johann teilweise über Straßen hochzulaufen, hatte ich keine Lust. Auf der Karte entdeckte ich dann zwei kleine Parkplätze oberhalb von Alt St. Johann. Einer in der Kehre bei Scharten und einer ein Stück weiter bei Burst.<br />Beide bieten nur jeweils für ein paar Autos Platz, da ich aber die Zeitumstellung an diesem Sonntag ignoriert hatte, konnte ich mein Auto problemlos in Scharten um 7:00 (bzw. Sommerzeit 8:00) abstellen.",
     "landmarks": [
       {
         "photos": [
@@ -28,7 +30,7 @@
           }
         ],
         "videos": [],
-        "text": "Der Parkplatz befindet sich genau unterhalb der Mittelbergs, der wiederum Teil eines kleines Grats ist, der sich zwischen dem Tal und dem Gräppelensee befindet. Links und rechts des Mittelbergs kann über Pässe zum See gelangen. Da ich den linken Pass für den Rückweg eingeplant hatte, ging es also jetzt zuerst nach rechts ein Stück die Fahrstraße weiter."
+        "text": "Der Parkplatz befindet sich genau unterhalb des Mittelbergs, der wiederum Teil eines kleinen Grats ist, der sich zwischen dem Tal und dem Gräppelensee befindet. Links und rechts des Mittelbergs kann man über Pässe zum See gelangen. Da ich den linken Pass für den Rückweg eingeplant hatte, ging es also jetzt zuerst nach rechts ein Stück die Fahrstraße weiter."
       },
       {
         "photos": [
@@ -160,7 +162,7 @@
           }
         ],
         "videos": [],
-        "text": "Ich entschied einmal um den See herumzugehen. Dabei Blick auf den Schafberg, der sich im dunklen See spiegelte."
+        "text": "Ich entschied einmal um den See herumzugehen. Dabei der Blick auf den Schafberg, der sich im dunklen See spiegelte."
       },
       {
         "photos": [
@@ -246,7 +248,7 @@
           }
         ],
         "videos": [],
-        "text": "Ankunft am Wegweiser Windenpass. Der eigentliche Pass ist noch ein kleines Stück höher. Wie der Name schon sagt, windete es dort, so dass ich nun doch wieder die Jacke anziehen musste.<br />Der Aufstieg zur Lütispitz dauert von hier noch über eine Stunde. Auf die Lütispitz gibt es nur einen Weg, bis hier her musste ich also anschließen wieder zurück."
+        "text": "Ankunft am Wegweiser Windenpass. Der eigentliche Pass ist noch ein kleines Stück höher. Wie der Name schon sagt, windete es dort, so dass ich nun doch wieder die Jacke anziehen musste.<br />Der Aufstieg zur Lütispitz dauert von hier noch über eine Stunde. Auf die Lütispitz gibt es nur einen Weg, bis hier her musste ich also anschließend wieder zurück."
       },
       {
         "photos": [
@@ -266,7 +268,7 @@
           }
         ],
         "videos": [],
-        "text": "Etwas oberhalb des Wegweisers bin ich dann zur Kante gelaufen und konnte auf der steilen anderen Seite des Windenpass hinunterschauen.<br />Der langezogene Berg hinten ist die <a href='/alpine/alpstein/20151024' target='_blank'>Hochalp</a>. Von dieser Seite führt ein Wanderweg von der Schwägalpstraße auf den Windenpass."
+        "text": "Etwas oberhalb des Wegweisers bin ich dann zur Kante gelaufen und konnte auf der steilen anderen Seite des Windenpass hinunterschauen.<br />Der langgezogene Berg hinten ist die <a href='/alpine/alpstein/20151024' target='_blank'>Hochalp</a>. Von dieser Seite führt ein Wanderweg von der Schwägalpstraße auf den Windenpass."
       },
       {
         "photos": [
@@ -422,7 +424,7 @@
           }
         ],
         "videos": [],
-        "text": "Die Lütispitz hat ein (neues) Gipfelkreuz und wie es sich gehört, auch ein Gipfelbuch."
+        "text": "Die Lütispitz hatte ein neues Gipfelkreuz und wie es sich gehört, auch ein Gipfelbuch."
       },
       {
         "photos": [
@@ -461,7 +463,7 @@
           }
         ],
         "videos": [],
-        "text": "Am Einstieg in das steilste Stück des Wegs. Wie befürchtet war der auftauende Boden sehr rutschig, glitschig und schmierig. Zudem setzte sich der Dreck in dem Profil der Schuhe fest, so dass ich immer eine Hand im Hang haben musste, um nicht hinzufallen. Da ich mir viel Zeit ließ, schaffte ich es aber trotzdem ohne dreckige Hose nach unten."
+        "text": "Am Einstieg in das steilste Stück des Wegs. Wie befürchtet war der auftauende Boden sehr rutschig, glitschig und schmierig. Zudem setzte sich der Dreck im Profil der Schuhe fest, so dass ich immer eine Hand im Hang haben musste, um nicht hinzufallen. Da ich mir viel Zeit ließ, schaffte ich es aber trotzdem ohne dreckige Hose nach unten."
       },
       {
         "photos": [
@@ -481,7 +483,7 @@
           }
         ],
         "videos": [],
-        "text": "Oberhalb des Windenpass hatte ich dann den steilen Wiesenhang verlassen und meine Schuhe säuberten sich wieder.<br />Nun wollte ich nicht durch das Tal links, durch das ich gekommen war, wieder runter, sondern über den Grat in der Bildmitte weiterlaufen. Aber erstmal ganz hinab zum Windenpass, den man hier schön sehen kann."
+        "text": "Oberhalb des Windenpass hatte ich dann den steilen Wiesenhang verlassen und meine Schuhe säuberten sich wieder.<br />Nun wollte ich nicht durch das Tal links, durch das ich gekommen war, wieder runter, sondern über den Grat in der Bildmitte weiterlaufen. Aber erstmal ging es ganz hinab zum Windenpass, den man hier schön sehen kann."
       },
       {
         "photos": [
@@ -541,7 +543,7 @@
           }
         ],
         "videos": [],
-        "text": "Nun raus aus den Latschenkiefer auf die Wiesen der Alp Alpli (wirklich origineller Name). Wieder der Blick zurück zur Lütispitz und dem Säntis. Wer genau hinschaut, kann nun auch andere Wanderer auf dem Gipfel entdecken. Die hatten die Rutschbahn noch vor sich. ;)"
+        "text": "Nun raus aus den Latschenkiefern auf die Wiesen der Alp Alpli (ein wirklich origineller Name). Wieder der Blick zurück zur Lütispitz und dem Säntis. Wer genau hinschaut, kann nun auch andere Wanderer auf dem Gipfel entdecken. Die hatten die Rutschbahn noch vor sich. ;)"
       },
       {
         "photos": [
@@ -568,7 +570,7 @@
           }
         ],
         "videos": [],
-        "text": "Die Alp Alpli liegt sehr schön auf dem Grat und bietet einige fotogene Ansichten. Ich konnte mich hier nicht für ein Bild entscheiden, so müsst ihr über alle drei hinwegscrollen...<br />Jetzt war auch erst mal Zeit für eine weitere Pause, denn nun folgte ein weiterer Aufstieg von 150m zur Alplispitz. Weiterhin schönstes Wetter, aber ich verkroch mich für die Pause trotzdem in eine windgeschützte Kuhle."
+        "text": "Die Alp Alpli liegt sehr schön auf dem Grat und bietet einige fotogene Ansichten. <span data-silent>Ich konnte mich hier nicht für ein Bild entscheiden, so müsst ihr über alle drei hinwegscrollen...</span><br />Jetzt war auch erst mal Zeit für eine weitere Pause, denn nun folgte ein weiterer Aufstieg von 150m zur Alplispitz. Weiterhin schönstes Wetter, aber ich verkroch mich für die Pause trotzdem in eine windgeschützte Kuhle."
       },
       {
         "photos": [
@@ -594,7 +596,7 @@
           }
         ],
         "videos": [],
-        "text": "Die zweite Hälfte des Aufstiegs geht ziemlich anspruchsvoll durch diesen Geröllfeld und an dieser Felswand hinauf. Sieht harmloser aus, als es war... aber ohne glitschigen Boden war mir nun alles recht."
+        "text": "Die zweite Hälfte des Aufstiegs ging ziemlich anspruchsvoll durch dieses Geröllfeld und an dieser Felswand hinauf. Sieht harmloser aus, als es war... aber ohne glitschigen Boden war mir nun alles recht."
       },
       {
         "photos": [
