@@ -2,6 +2,8 @@
   {
     "destination": "alpstein",
     "date": "d20201118",
+    "datePublished": "2020-11-19T12:00:00+01:00",
+    "dateModified": "2026-03-29T18:00:00+01:00",
     "type": "hike",
     "track": true,
     "timeShift": 60,
@@ -15,8 +17,8 @@
       "width": 1920,
       "height": 503
     },
-    "movie": "jmesghYLcuY",
-    "intro": "An diesem Mittwoch wollte ich noch einmal das überaus schöne Novemberwetter nutzen. Da die Nordhänge inzwischen weit hinab weiß waren, suchte ich mir eine nicht zu hohe Wanderung mit Südhängen raus. Meine Wahl viel von Wasserauen auf den Schäfler, Abstieg zum Seealpsee und dann zurück nach Wasserauen. Diese schöne Gegend ist sehr bekannt und an Wochenenden etwas überlaufen, aber werktags und Mitte November sollte es passen.",
+    "movie": "4TUsWAdBj7c",
+    "intro": "An einem Mittwoch wollte ich noch einmal das überaus schöne Novemberwetter nutzen. Da die Nordhänge inzwischen weit hinab weiß waren, suchte ich mir eine nicht zu hohe Wanderung mit Südhängen raus. Meine Wahl viel von Wasserauen auf den Schäfler, Abstieg zum Seealpsee und dann zurück nach Wasserauen. Diese schöne Gegend ist sehr bekannt und an Wochenenden etwas überlaufen, aber werktags und Mitte November sollte es nicht sehr voll sein.",
     "landmarks": [
       {
         "photos": [
@@ -29,7 +31,7 @@
           }
         ],
         "videos": [],
-        "text": "Mein Auto stellte ich bei sehr frostigen Temperaturen um 7:45 auf dem inzwischen kostenpflichtigen Parkplatz in Wasserauen ab. Die Seilbahn zur Ebenalp fuhr erst ab 9:00, aber ich hatte ohnehin den direkten Aufstieg zu Fuß vor.<br />Hier bin ich bereits beim Einstieg in den Waldhang."
+        "text": "Mein Auto stellte ich bei sehr frostigen Temperaturen um 7:45 auf dem kostenpflichtigen Parkplatz in Wasserauen ab. Die Seilbahn zur Ebenalp fuhr erst ab 9:00, aber ich hatte ohnehin den direkten Aufstieg zu Fuß vor.<br />Hier bin ich bereits beim Einstieg in den Waldhang."
       },
       {
         "photos": [
@@ -42,7 +44,7 @@
           }
         ],
         "videos": [],
-        "text": "Wenig interessant ging es nun in einigen Serpentinen rund 300 Höhenmeter im Wald hinauf. Der Weg ist einfach, aber zum Teil mit den Steinen und dem lehmigen Grund rutschig."
+        "text": "Wenig interessant ging es nun in einigen Serpentinen rund 300 Höhenmeter im Wald hinauf. Der Weg ist einfach, aber zum Teil durch die Steine und den lehmigen Grund rutschig."
       },
       {
         "photos": [
@@ -101,7 +103,7 @@
           }
         ],
         "videos": [],
-        "text": "Pünktlich um 9:00 überholte mich dann die erste (vollbesetzte) Bahn auf die Ebenalp. Im Hintergrund der Nebel im Rheintal."
+        "text": "Pünktlich um 9:00 überholte mich dann die erste und vollbesetzte Bahn auf die Ebenalp. Im Hintergrund der Nebel im Rheintal."
       },
       {
         "photos": [
@@ -174,7 +176,7 @@
           }
         ],
         "videos": [],
-        "text": "Toll ging der Weg dann weiter durch die Felswand, vorbei am Wildkirchli zum Höhleneingang. Durch die Höhle ging es dann rauf zur Ebenalp. Hier der Blick aus der Höhle raus zum <a href='/alpine/alpstein/20131019' target='_blank'>Hohen Kasten</a>, links ist ein kleines Museum über die prähistorischen Fünde in der Höhle."
+        "text": "Toll ging der Weg dann weiter durch die Felswand, vorbei am Wildkirchli zu einem Höhleneingang. Durch die Höhle ging es dann rauf zur Ebenalp. Hier der Blick aus der Höhle raus zum <a href='/alpine/alpstein/20131019' target='_blank'>Hohen Kasten</a>, links ist ein kleines Museum über die prähistorischen Funde in der Höhle."
       },
       {
         "photos": [
@@ -201,7 +203,7 @@
           }
         ],
         "videos": [],
-        "text": "Ankunft auf der Ebenalp. Jeweils der Blick zurück ins Tal.<br />Inzwischen war ich 1:40h unterweg, also Zeit für eine erste Pause in der warmen Sonne. Hier kamen mir dann auch die ersten Fahrgäste entgegen, die zum Äscher eilten."
+        "text": "Ankunft auf der Ebenalp. Jeweils der Blick zurück ins Tal.<br />Inzwischen war ich 1 Stunde und 40 Minuten unterwegs, also Zeit für eine erste Pause in der warmen Sonne. Hier kamen mir dann auch die ersten Fahrgäste entgegen, die zum Äscher eilten."
       },
       {
         "photos": [
@@ -261,7 +263,7 @@
           }
         ],
         "videos": [],
-        "text": "Nun hatte ich den Hang des Schäflers erreicht. Blick zurück Richtung Ebenalp und Rheintal. Im Talkessel ist die Bergstation eines der Skilifte der Ebenalp zu sehen."
+        "text": "Nun hatte ich den Hang des Schäflers erreicht. Blick zurück Richtung Ebenalp und Rheintal. Im Talkessel ist die Bergstation einer der Skilifte der Ebenalp zu sehen."
       },
       {
         "photos": [
@@ -274,7 +276,7 @@
           }
         ],
         "videos": [],
-        "text": "Gut ausgebaut und ungefährlich geht der Weg den Grashang des Schäflers hinauf. Von der Ebenalp aus ist es eine kleine Wanderung - für jeden geeignet, der Treppen gehen kann."
+        "text": "Gut ausgebaut und ungefährlich geht der Weg den Grashang des Schäflers hinauf. Von der Ebenalp aus ist es eine kleine Wanderung - für jeden geeignet der Treppen gehen kann."
       },
       {
         "photos": [
@@ -300,7 +302,7 @@
           }
         ],
         "videos": [],
-        "text": "Blick zurück zur Alp Chlus, an der ich links vorbeikam. Der hier sichtbare weg unterhalb des Felsen wird später relevant werden."
+        "text": "Blick zurück zur Alp Chlus, an der ich links vorbeikam. Der hier sichtbare Weg unterhalb des Felsen wird später relevant werden."
       },
       {
         "photos": [
@@ -379,7 +381,7 @@
           }
         ],
         "videos": [],
-        "text": "Und hier nun der Grund, warum ich nicht den eigentlich geplanten Weg weitergegangen bin. Das erste Stück vom Schäfler geht der Wanderweg leider auf der Nordseite um den Gipfel herum. Das dort Schnee sein würde, war mir schon vorher bewusst geworden - aber leider waren auch die Drahtseile für den Winter abmontiert worden. Schweren Herzens siegte die Vernunft und ich entschied, hier nicht weiterzugehen. Wer sich für diesen weiteren Weg interessiert, wird in meinen alten Berichten von der <a href='/alpine/alpstein/20140622#drahtseil-am-sch%C3%A4fler_033' target='_blank'>Umrundung des Seealpsees</a> und von der <a href='/alpine/alpstein/20160911#bergweg-mit-drahtseil-an-abgrund_009' target='_blank'>Wanderung von der Ebenalp zum Säntis</a> fündig."
+        "text": "Und hier nun der Grund, warum ich nicht den eigentlich geplanten Weg weitergegangen bin. Das erste Stück vom Schäfler geht der Wanderweg leider auf der Nordseite um den Gipfel herum. Das dort Schnee sein würde, war mir schon vorher bewusst geworden - aber leider waren auch die Drahtseile für den Winter abmontiert worden. Schweren Herzens siegte die Vernunft und ich entschied, hier nicht weiterzugehen. <span data-silent>Wer sich für diesen weiteren Weg interessiert, wird in meinen alten Berichten von der</span> <a href='/alpine/alpstein/20140622#drahtseil-am-sch%C3%A4fler_033' target='_blank'><span data-silent>Umrundung des Seealpsees</span></a> <span data-silent>und von der</span> <a href='/alpine/alpstein/20160911#bergweg-mit-drahtseil-an-abgrund_009' target='_blank'><span data-silent>Wanderung von der Ebenalp zum Säntis</span></a> <span data-silent>fündig.</span>"
       },
       {
         "photos": [
@@ -412,7 +414,7 @@
           }
         ],
         "videos": [],
-        "text": "Dieser Alternative Weg vom Schäfler zurück Richtung Äscher war ich noch nie gegangen und ich fand ihn wunderbar. Er führt immer direkt unterhalb der Felswand entlang. Schon war die Entäuschung über meinen Abbruch der ursprünglichen Wanderung am Schäfler verflogen. :)"
+        "text": "Diesen alternativen Weg vom Schäfler zurück Richtung Äscher war ich noch nie gegangen und ich fand ihn wunderbar. Er führt immer direkt unterhalb der Felswand entlang. Schon war die Enttäuschung über meinen Abbruch der ursprünglichen Wanderung am Schäfler verflogen. :)"
       },
       {
         "photos": [
@@ -446,7 +448,7 @@
           }
         ],
         "videos": [],
-        "text": "Noch mehr Fotos von diesem tollen Wegabschnitt. Den werde ich sicher in Zukunft noch einmal laufen.<br />Die Sonne knallte nun voll auf diese Felswand und den Grashang unterhalb und es war richtig heiß, so dass ich trotz Abstieg schwitzte... und das Mitte November..."
+        "text": "Noch mehr Fotos von diesem tollen Weg-Abschnitt. Den werde ich sicher in Zukunft noch einmal laufen.<br />Die Sonne knallte nun voll auf diese Felswand und den Grashang unterhalb und es war richtig heiß, so dass ich trotz Abstieg schwitzte... und das Mitte November..."
       },
       {
         "photos": [
@@ -485,7 +487,7 @@
           }
         ],
         "videos": [],
-        "text": "Bei mir gab es dagegen Sonne satt und es ging über diese steile Wiese der Alp Weesen (Blick zurück). Der Weg ist dabei nicht gefährlich, aber auch nicht sehr breit."
+        "text": "Bei mir gab es dagegen Sonne satt und es ging über diese steile Wiese der Alp Weesen (hier der Blick zurück). Der Weg ist dabei nicht gefährlich, aber auch nicht sehr breit."
       },
       {
         "photos": [
@@ -545,7 +547,7 @@
           }
         ],
         "videos": [],
-        "text": "Und dann noch mal steiler in einigen Serpentinen hier hinunter. Hier war der Weg aber immer sehr gut mit Drahtsteil abgesichert, was aber auch notwendig war."
+        "text": "Und dann noch mal steiler in einigen Serpentinen hier hinunter. Hier war der Weg aber immer sehr gut mit Drahtseil abgesichert, was auch notwendig war."
       },
       {
         "photos": [
@@ -584,7 +586,7 @@
           }
         ],
         "videos": [],
-        "text": "Auch ich machte noch mal eine weitere Pause, denn es war absehbar, dass ich bald keine Sonne mehr haben würde.<br />Hier der Blick auf den schattigen Seealpsee und die beiden Gasthäuser (beide geschlossen)."
+        "text": "Auch ich machte noch mal eine weitere Pause, denn es war absehbar, dass ich bald keine Sonne mehr haben würde.<br />Hier der Blick auf den schattigen Seealpsee und die beiden Gasthäuser (beide waren geschlossen)."
       },
       {
         "photos": [
@@ -610,7 +612,7 @@
           }
         ],
         "videos": [],
-        "text": "Blick zurück. Rechts war ich hinuntergekommmen."
+        "text": "Blick zurück. Rechts war ich hinunter gekommen."
       },
       {
         "photos": [
@@ -755,7 +757,7 @@
           }
         ],
         "videos": [],
-        "text": "Nach 150m zügiger Abstieg Ankunft im Tal bei Wasserauen. Es war zum Glück über 0°, so dass die feuchte Straße nicht rutschig war."
+        "text": "Nach 150m zügigem Abstiegs Ankunft im Tal bei Wasserauen. Es war zum Glück über 0°, so dass die feuchte Straße nicht rutschig war."
       },
       {
         "photos": [
