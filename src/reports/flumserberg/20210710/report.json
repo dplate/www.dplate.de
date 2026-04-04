@@ -2,6 +2,8 @@
   {
     "destination": "flumserberg",
     "date": "d20210710",
+    "datePublished": "2021-07-11T12:00:00+02:00",
+    "dateModified": "2026-04-04T15:00:00+02:00",
     "type": "hike",
     "track": true,
     "detailMap": "swiss",
@@ -14,8 +16,8 @@
       "width": 1920,
       "height": 527
     },
-    "movie": "tflxF78FXQw",
-    "intro": "An diesem sommerlichen Samstag ging es auf eine Wanderung vom Maschgenkamm in Flumserberg zum Sächserseeli und am Ende ein Fahrt mit der Sommerrodelbahn Floomzer.<br />Ankunft auf dem großen Parkplatz in Tannenboden um 9:15. Für Bergfahrt mit dem Bergjet auf den Maschgenkamm und die Abfahrt mit der Sommerrodelbahn wurde das Floomzer Heidi Ticket für 34 CHF gekauft.",
+    "movie": "suzFGo3rlBo",
+    "intro": "An diesem sommerlichen Samstag ging es auf eine Wanderung vom Maschgenkamm in Flumserberg zum Sächserseeli und am Ende eine Fahrt mit der Sommerrodelbahn Floomzer.<br />Ankunft auf dem großen Parkplatz in Tannenboden um 9:15. Für die Bergfahrt mit dem Bergjet auf den Maschgenkamm und die Abfahrt mit der Sommerrodelbahn wurde das Floomzer Heidi Ticket für 34 CHF gekauft.",
     "landmarks": [
       {
         "photos": [
@@ -27,7 +29,7 @@
             "height": 868
           }
         ],
-        "text": "Nach der Fahrt auf den Maschgenkamm kann man entweder auf zwei bequemen Spazierwegen links oder rechts um den Ziger zur Zigerfurgglen laufen, oder man wählt wie wir den Weg über den Ziger hinweg. Das ist zwar ein paar Minuten länger und man muss etwas kraxeln, aber dafür hat man auf dem Gratweg schon eine schöne Aussicht."
+        "text": "Nach der Fahrt auf den Maschgenkamm kann man entweder auf zwei bequemen Spazierwegen links oder rechts um den Ziger zur Zigerfurgglen laufen, oder man wählt, wie wir, den Weg über den Ziger hinweg. Das ist zwar ein paar Minuten länger und man muss etwas kraxeln, aber dafür hat man auf dem Gratweg schon eine schöne Aussicht."
       },
       {
         "photos": [
@@ -39,7 +41,7 @@
             "height": 1080
           }
         ],
-        "text": "Am Zigerfurgglen muss man etwas aufpassen, den richtigen der insgesamt 8 (!) Wanderwegen zu erwischen. Wir wählten den oberen Hangweg zum Sächserseeli. Bis dort hin ging es nun immer auf den markanten Spitzmeilen zu."
+        "text": "Am Zigerfurgglen muss man etwas aufpassen, den richtigen der insgesamt 8 Wanderwegen zu erwischen. Wir wählten den oberen Hangweg zum Sächserseeli. Bis dort hin ging es nun immer auf den markanten Spitzmeilen zu."
       },
       {
         "photos": [
@@ -211,7 +213,7 @@
             "height": 862
           }
         ],
-        "text": "Vom Cuncels gibt es einen schönen Blick hinunter zum Walensee und bis zum Zürichsee.<br />Da die Zeit schon langsam knapp wurden (15:00), entschieden wir uns nun für den direkten Abstieg nach Seeben und nicht noch weiter zum Großen Güslen zu laufen."
+        "text": "Vom Cuncels gibt es einen schönen Blick hinunter zum Walensee und bis zum Zürichsee.<br />Da die Zeit schon langsam knapp wurde (15:00), entschieden wir uns nun für den direkten Abstieg nach Seeben und nicht noch weiter zum Großen Güslen zu laufen."
       },
       {
         "photos": [
@@ -235,7 +237,7 @@
             "height": 1080
           }
         ],
-        "text": "Und schon bereits näher am Gasthaus Seebenalp. Um die dahinterliegenden Churfirsten hatten sich nun einige Quellwolken gebildet, bei uns blieb es aber ziemlich sonnig."
+        "text": "Und nun schon bereits näher am Gasthaus Seebenalp. Um die dahinterliegenden Churfirsten hatten sich nun einige Quellwolken gebildet, bei uns blieb es aber ziemlich sonnig."
       },
       {
         "photos": [
@@ -259,7 +261,7 @@
             "height": 921
           }
         ],
-        "text": "Auch auf diesem etwas langweiligem Weg hat man schöne Ausblicke auf den Walensee. Aber schon bald verließen wir den Fahrweg und folgten dem Wegweiser zum Floomzer bzw. Chrüz."
+        "text": "Auch auf diesem etwas langweiligen Weg hat man schöne Ausblicke auf den Walensee. Aber schon bald verließen wir den Fahrweg und folgten dem Wegweiser zum Floomzer bzw. Chrüz."
       },
       {
         "photos": [
@@ -274,6 +276,6 @@
         "text": "Ankunft an der Bergstation der Sommerrodelbahn Floomzer um 16:00. Da diese bis 16:45 in Betrieb ist, hatten wir jetzt doch noch etwas Zeit für ein Eis. Danach dann im Nu mit den Rodeln auf Schienen wieder am Parkplatz in Tannenboden."
       }
     ],
-    "outro": "Landschaftlich schöne Tour ohne große Aufstiege. Ingesamt war die Wegstecke 13km. Die Fahrt mit der Sommerrodelbahn war eine tolle Belohnung am Ende.<br />Im Prinzip war diese Wanderung eine verkürzte Variante der <a href='/alpine/flumserberg/20150726' target='_blank'>7-Gipfel-Tour</a>."
+    "outro": "Landschaftlich schöne Tour ohne große Aufstiege. Insgesamt war die Wegstrecke 13km. Die Fahrt mit der Sommerrodelbahn war eine tolle Belohnung am Ende.<br />Im Prinzip war diese Wanderung eine verkürzte Variante der <a href='/alpine/flumserberg/20150726' target='_blank'>7-Gipfel-Tour</a>."
   }
 ]

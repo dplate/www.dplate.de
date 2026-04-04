@@ -3,12 +3,20 @@ const jsonfile = require('jsonfile');
 const fs = require('fs');
 
 const projectPath = 'C:/Users/Roger/web/Dp3';
-const destination = 'alpstein';
-const reportDate = '20201118';
+const destination = 'flumserberg';
+const reportDate = '20210710';
 
 const client = new textToSpeech.TextToSpeechClient();
 
 const pronunciations = [
+  {
+    regex: /(alpstraße)/gi,
+    ipa: 'ˈalpˌʃtʁaːsə'
+  },
+  {
+    regex: /(cuncels)/gi,
+    ipa: 'ˈkʊntʃɛls'
+  },
   {
     regex: /(chlus)/gi,
     ipa: 'xlus'
