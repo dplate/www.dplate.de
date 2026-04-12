@@ -2,9 +2,11 @@
   {
     "destination": "praettigau",
     "date": "d20210821",
+    "datePublished": "2021-08-22T12:00:00+02:00",
+    "dateModified": "2026-04-12T13:00:00+02:00",
     "type": "hike",
     "track": true,
-    "detailMap": "austria",
+    "detailMap": null,
     "shortTitle": "Tilisunahütte",
     "title": "Partnun - Tilisunahütte",
     "title3d": {
@@ -14,8 +16,8 @@
       "width": 1920,
       "height": 496
     },
-    "movie": "X1Cl9vz2dN0",
-    "intro": "Für diesen August Samstag wurde wieder eine Wanderung im Prättigau geplant. Sie sollte von Partnun über den Plasseggenpass zur Tilisuna-Hütte gehen. Anschließend dann über die Tilisunafürggli und am Partnunsee vorbei zurück zum Parkplatz unterhalb von Partnun.<br />Wir stellten das Auto kurz nach 9:00 auf der letzten Parkmöglichkeit P6 vor Partnun ab. Die Parkgebühren betragen 6 CHF für den ganzen Tag.",
+    "movie": "aMe9HvpcAcU",
+    "intro": "Für diesen August Samstag wurde wieder eine Wanderung im Prättigau geplant. Sie sollte von Partnun über den Plasseggenpass zur Tilisuna-Hütte gehen. Anschließend dann über das Tilisunafürggli und am Partnunsee vorbei zurück zum Parkplatz unterhalb von Partnun.<br />Wir stellten das Auto kurz nach 9:00 auf der letzten Parkmöglichkeit P6 vor Partnun ab. Die Parkgebühren betrugen 6 CHF für den ganzen Tag.",
     "landmarks": [
       {
         "photos": [
@@ -99,7 +101,7 @@
             "height": 815
           }
         ],
-        "text": "Von der Plasseggenhütte geht es wenig ansteigend über die schöne Hochebene Plasseggen weiter zum Plasseggenpass. Hier der Blick zurück."
+        "text": "Von der Plasseggenhütte ging es wenig ansteigend über die schöne Hochebene Plasseggen weiter zum Plasseggenpass. Hier der Blick zurück."
       },
       {
         "photos": [
@@ -111,7 +113,7 @@
             "height": 1080
           }
         ],
-        "text": "Vorbei an einer Wiese mit dem hübschen Scheuchzers Wollgrass."
+        "text": "Vorbei an einer Wiese mit dem hübschen Scheuchzers Wollgras."
       },
       {
         "photos": [
@@ -159,7 +161,7 @@
             "height": 1080
           }
         ],
-        "text": "Auf der anderen Seite des Plasseggenpass mussten wir nun 150m absteigen. Dabei geht es immer entlang des aus weißen Kalkstein bestehenden Bergrückens der Weißplatte (Wiss Platta), die aus dem grünen Gras herausbricht."
+        "text": "Auf der anderen Seite des Plasseggenpass mussten wir nun 150m absteigen. Dabei ging es immer entlang des aus weißen Kalkstein bestehenden Bergrückens der Weißplatte (Wiss Platta), die aus dem grünen Gras herausbricht."
       },
       {
         "photos": [
@@ -171,7 +173,7 @@
             "height": 1080
           }
         ],
-        "text": "Vorbei an einem weiteren kleinen See. Im Hintergrund der Platinakopf."
+        "text": "Vorbei ging es an einem weiteren kleinen See. Im Hintergrund der Platinakopf."
       },
       {
         "photos": [
@@ -183,7 +185,7 @@
             "height": 1080
           }
         ],
-        "text": "Sehr schöner Weg entlang des Felsens."
+        "text": "Es war ein sehr schöner Weg entlang des Felsens."
       },
       {
         "photos": [
@@ -207,7 +209,7 @@
             "height": 1080
           }
         ],
-        "text": "Dann mussten wir einen Felsgrat beim Grubenpass (Gruobenpass) überwinden - also wieder 30m Austieg zu dieser Grenzhütte."
+        "text": "Dann mussten wir einen Felsgrat beim Grubenpass <span data-silent>(Gruobenpass)</span> überwinden - also wieder 30m Aufstieg zu dieser Grenzhütte."
       },
       {
         "photos": [
@@ -231,7 +233,7 @@
             "height": 1025
           }
         ],
-        "text": "Für uns ging es auf der östtereichischen Seite eben weiter. Hier mit Blick auf das Schwarzhorn und eine weitere Zollhütte."
+        "text": "Für uns ging es auf der österreichischen Seite eben weiter. Hier mit Blick auf das Schwarzhorn und eine weitere Zollhütte."
       },
       {
         "photos": [
@@ -267,7 +269,7 @@
             "height": 778
           }
         ],
-        "text": "Die Tilisunahütte erreichen wir gegen 14:00.<br />In der Gaststätte kehrten wir nicht ein und gingen stattdessen weiter - dem Wegweiser zur Tilisunafürggli folgend."
+        "text": "Die Tilisunahütte erreichten wir gegen 14:00.<br />In der Gaststätte kehrten wir nicht ein und gingen stattdessen weiter - dem Wegweiser zur Tilisunafürggli folgend."
       },
       {
         "photos": [
@@ -303,7 +305,7 @@
             "height": 659
           }
         ],
-        "text": "Von der Tilisunafürggli geht es erst steiler durch den hier rechts zu sehenden Fels. Dabei aber ungefährlich und man braucht nur kurz die Hände."
+        "text": "Von der Tilisunafürggli ging es erst steiler durch den hier rechts zu sehenden Fels. Dabei aber ungefährlich und man braucht nur kurz die Hände."
       },
       {
         "photos": [
@@ -315,7 +317,7 @@
             "height": 1080
           }
         ],
-        "text": "Dann geht es sogar wieder etwas ansteigend durch die felsige Landschaft Gruoben. Im Hintergrund ganz links kann man aus ungewohnter Perspektive wieder die Sulzfluh sehen. Der überraschend einfache <a href='/alpine/praettigau/20141012' target='_blank'>Aufstieg auf die Sulzfluh</a> geschieht durch das - sonst nicht sichtbare - Tal rechts daneben."
+        "text": "Dann ging es sogar wieder etwas ansteigend durch die felsige Landschaft Gruoben. Im Hintergrund ganz links kann man aus ungewohnter Perspektive wieder die Sulzfluh sehen. Der überraschend einfache <a href='/alpine/praettigau/20141012' target='_blank'>Aufstieg auf die Sulzfluh</a> geschieht durch das - sonst nicht sichtbare - Tal rechts daneben."
       },
       {
         "photos": [
@@ -341,7 +343,7 @@
             "height": 1080
           }
         ],
-        "text": "Dann taucht auch schon der Partnunsee auf, dem wir uns mit einem kleinen Schlenker und konstantem Abstieg näherten.<br />Am See dann eine schöne Pause mit erfrischendem Wind und einem kurzen, noch erfrischenderen, Bad."
+        "text": "Dann tauchte auch schon der Partnunsee auf, dem wir uns mit einem kleinen Schlenker und konstantem Abstieg näherten.<br />Am See dann eine schöne Pause mit erfrischendem Wind und einem kurzen, noch erfrischenderen, Bad."
       },
       {
         "photos": [
@@ -353,7 +355,7 @@
             "height": 977
           }
         ],
-        "text": "Blick vom 1870m hoch gelegenen Partnunsee zurück zur Tilisunafürggli. Am See kann man auch drei Ruderboote mieten und es gibt auch ein paar Grillplätze mit Feuerholz."
+        "text": "Blick vom 1870m hoch gelegenen Partnunsee zurück zur Tilisunafürggli. Am See kann man drei Ruderboote mieten und es gibt auch ein paar Grillplätze mit Feuerholz."
       },
       {
         "photos": [
@@ -377,7 +379,7 @@
             "height": 1080
           }
         ],
-        "text": "Vorbei ging der Weg dann noch am Berggasthaus Alpenrösli. Wir gönnten uns ein Eis und machten eine weitere Pause am rauschenden Bach. Am Gasthaus könnte man auch ein Trottinet (Tretroller) leihen und damit zum Parkplatz (oder auch bis nach St. Antönien) hinabrollen."
+        "text": "Vorbei ging der Weg dann noch am Berggasthaus Alpenrösli. Wir gönnten uns ein Eis und machten eine weitere Pause am rauschenden Bach. Am Gasthaus könnte man auch ein Trottinet (Tretroller) leihen und damit zum Parkplatz, oder auch bis nach St. Antönien, hinabrollen."
       },
       {
         "photos": [
@@ -392,6 +394,6 @@
         "text": "Das Auto erreichten wir dann gegen 17:30. Hier der Blick zurück nach Partnunstafel. Rechts das Tal ging es am morgen hinauf und durch das Tal links tauchten wir am Nachmittag wieder auf. Wir umrundeten also die Schijenflue und die Wiss Platte, die hier so schön zu sehen sind."
       }
     ],
-    "outro": "Fazit: Schöne Rundwanderung durch immer tolle Landschaft bei perfektem Wanderwetter. Insgesamt waren es 16km Weg mit knapp 900m Auf- und Abstieg. Wir waren 8:30h unterwegs, haben uns aber auch Zeit gelassen und den Tag genossen."
+    "outro": "Fazit: Schöne Rundwanderung durch immer tolle Landschaft bei perfektem Wanderwetter. Insgesamt waren es 16km Weg mit knapp 900m Auf- und Abstieg. Wir waren 8,5h unterwegs, hatten uns aber auch Zeit gelassen und den Tag genossen."
   }
 ]

@@ -4,11 +4,15 @@ const fs = require('fs');
 
 const projectPath = 'C:/Users/Roger/web/Dp3';
 const destination = 'praettigau';
-const reportDate = '20210721';
+const reportDate = '20210821';
 
 const client = new textToSpeech.TextToSpeechClient();
 
 const pronunciations = [
+  {
+    regex: /(alpenrösli)/gi,
+    replace: 'Alpen-röes-li'
+  },
   {
     regex: /(alpstraße)/gi,
     ipa: 'ˈalpˌʃtʁaːsə'
@@ -236,7 +240,10 @@ const generateAudio = async (rawText, audioFile) => {
   text = text.replace(/<\/?[^>]+(>|$)/g, ' ').replaceAll("'", '');
 
   // Help to pronounce all words correctly
-  for (const { regex, ipa, xSampa } of pronunciations) {
+  for (const { regex, ipa, xSampa, replace } of pronunciations) {
+    if (replace) {
+      text = text.replace(regex, replace);
+    }
     const alphabet = xSampa ? 'x-sampa' : 'ipa';
     const phoneme = xSampa || ipa;
     text = text.replace(regex, `<phoneme alphabet="${alphabet}" ph="${phoneme}">$1</phoneme>`);
