@@ -3,12 +3,16 @@ const jsonfile = require('jsonfile');
 const fs = require('fs');
 
 const projectPath = 'C:/Users/Roger/web/Dp3';
-const destination = 'vals';
-const reportDate = '20210907';
+const destination = 'alpstein';
+const reportDate = '20260502';
 
 const client = new textToSpeech.TextToSpeechClient();
 
 const pronunciations = [
+  {
+    regex: /(fähneren)/gi,
+    ipa: 'ˈfɛɛnərən'
+  },
   {
     regex: /(alpenrösli)/gi,
     replace: 'Alpen-röes-li'
@@ -164,6 +168,10 @@ const pronunciations = [
   {
     regex: /(brülisau)/gi,
     ipa: 'ˈbrylɪs.aʊ'
+  },
+  {
+    regex: /(kamors)/gi,
+    ipa: 'ˈkaamors'
   },
   {
     regex: /(kamor)/gi,
