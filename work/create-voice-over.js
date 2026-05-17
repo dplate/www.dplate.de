@@ -3,8 +3,8 @@ const jsonfile = require('jsonfile');
 const fs = require('fs');
 
 const projectPath = 'C:/Users/Roger/web/Dp3';
-const destination = 'toggenburg';
-const reportDate = '20210912';
+const destination = 'lenzerheide';
+const reportDate = '20210918';
 
 const client = new textToSpeech.TextToSpeechClient();
 
@@ -22,7 +22,11 @@ const pronunciations = [
     replace: 'Alpen-röes-li'
   },
   {
-    regex: /(alpstraße)/gi,
+    regex: /(alpstraßen)/gi,
+    ipa: 'ˈalpˌʃtʁaːsən'
+  },
+  {
+    regex: /[^>](alpstraße)/gi,
     ipa: 'ˈalpˌʃtʁaːsə'
   },
   {
