@@ -3,12 +3,36 @@ const jsonfile = require('jsonfile');
 const fs = require('fs');
 
 const projectPath = 'C:/Users/Roger/web/Dp3';
-const destination = 'lenzerheide';
-const reportDate = '20210918';
+const destination = 'flumserberg';
+const reportDate = '20211002';
 
 const client = new textToSpeech.TextToSpeechClient();
 
 const pronunciations = [
+  {
+    regex: /(evt\.)/gi,
+    replace: 'eventuell'
+  },
+  {
+    regex: /(fanstobels)/gi,
+    ipa: 'fanstobəls'
+  },
+  {
+    regex: /(rinderfans)/gi,
+    ipa: 'rɪndərfans'
+  },
+  {
+    regex: /(schaffans)/gi,
+    ipa: 'ʃaffans'
+  },
+  {
+    regex: /(unbegangen)/gi,
+    replace: 'un-begangen'
+  },
+  {
+    regex: /(schilstal)/gi,
+    replace: 'Schils-Tal'
+  },
   {
     regex: /(gamserrugg)/gi,
     ipa: 'ˈɡamsərʊk'
