@@ -2,6 +2,8 @@
   {
     "destination": "davos",
     "date": "d20211009",
+    "datePublished": "2021-10-10T12:00:00+02:00",
+    "dateModified": "2026-05-45T17:00:00+02:00",
     "type": "hike",
     "track": true,
     "detailMap": "swiss",
@@ -14,7 +16,7 @@
       "width": 1920,
       "height": 544
     },
-    "movie": "Na4ucrvOw2Q",
+    "movie": "W5VetH_wQB8",
     "intro": "Obwohl es die letzte Woche schon den ersten Schnee in den Bergen gab, wollte ich bei dem tollen Wetter noch mal ins Hochgebirge zum Wandern. Ich entschloss mich für eine ungefährliche Rundwanderung in der einsamen Landschaft zwischen Davos und Albulapass.<br />Von Bergün aus führt eine einspurige Straße einige Kilometer weit in das Val Tuors. Von dort geht die Tour an der Kesch-Hütte, dem Sertigpass und den Seen Lai da Ravais-ch vorbei.",
     "landmarks": [
       {
@@ -27,7 +29,7 @@
             "height": 1080
           }
         ],
-        "text": "Mein Auto stellte ich kurz vor 9:00 auf dem ausgeschilderten Parkplatz der Kesch-Hütte ab. Ein halben Kilometer weiter gibt es noch eine weitere Parkmöglichkeit, diese ist aber (wie ich feststellen musste) auf 6h beschränkt. Für 12h habe ich am 1. Parkplatz des Tals 5CHF in Münzen bezahlt - alternativ per App, aber dann für 6CHF und 24h.<br />Mein Auto war das zweite auf dem großen Parkplatz und es war hier auf 1760m Höhe richtig frostig. "
+        "text": "Mein Auto stellte ich kurz vor 9:00 auf dem ausgeschilderten Parkplatz der Kesch-Hütte ab. Ein halben Kilometer weiter gibt es noch eine weitere Parkmöglichkeit, diese ist aber (wie ich feststellen musste) auf 6h beschränkt. Für 12h habe ich am 1. Parkplatz des Tals 5CHF in Münzen bezahlt - alternativ per App, aber dann für 6CHF und 24h.<br />Mein Auto war das zweite auf dem großen Parkplatz und es war hier auf 1760m Höhe richtig frostig."
       },
       {
         "photos": [
@@ -99,7 +101,7 @@
             "height": 1015
           }
         ],
-        "text": "Auf rund 2000m verlässt der Weg die Bäume und das steilere Gelände, und es ging nun weniger anstrengend über diese Wiesenlandschaft weiter.<br />Von dort konnte ich nun auch den (schöneren) Weg auf der anderen Talseite sehen... der außerdem schon in der Sonne lag. Der Versuch, meinen Fehler zu korrigieren, misslang: Ich dachte, ich könnte einfach hinüberwechseln, aber ich hatte den Fluß unterschätzt. Selbst der klägliche Versuch mit einigen Steinen eine Überquerung zu schaffen, funktionierte nicht. Ich wollte auch keine nassen Füße bei den kalten Temperaturen riskieren, also bin ich dann doch im Schatten auf der rechten Seite weitergelaufen."
+        "text": "Auf rund 2000m verlässt der Weg die Bäume und das steilere Gelände, und es ging nun weniger anstrengend über diese Wiesenlandschaft weiter.<br />Von dort konnte ich nun auch den schöneren Weg auf der anderen Talseite sehen... der außerdem schon in der Sonne lag. Der Versuch, meinen Fehler zu korrigieren, misslang: Ich dachte, ich könnte einfach hinüberwechseln, aber ich hatte den Fluss unterschätzt. Selbst der klägliche Versuch mit einigen Steinen eine Überquerung zu schaffen, funktionierte nicht. Ich wollte auch keine nassen Füße bei den kalten Temperaturen riskieren, also bin ich dann doch im Schatten auf der rechten Seite weitergelaufen."
       },
       {
         "photos": [
@@ -135,7 +137,7 @@
             "height": 778
           }
         ],
-        "text": "Nun hatte ich endlich die Sonne erreicht und das Tal wurder breiter."
+        "text": "Nun hatte ich endlich die Sonne erreicht und das Tal wurde breiter."
       },
       {
         "photos": [
@@ -202,7 +204,7 @@
             "height": 785
           }
         ],
-        "text": "Bevor es weiterging noch einmal die Kesch-Hütte von nahem. Auf der Terrasse war nur ein einsamer Gast mit einem Kaffee."
+        "text": "Bevor es weiterging noch einmal die Kesch-Hütte von Nahem. Auf der Terrasse war nur ein einsamer Gast mit einem Kaffee."
       },
       {
         "photos": [
@@ -472,7 +474,7 @@
             "height": 1080
           }
         ],
-        "text": "Der schöne Weg das Tal hinab war sehr angenehm zu gehen, da er gleichmäßig absteigend ist und zum Teil sogar mit federndem Gras bewachen ist. Nur das ständige Rauschen des Bachs als einzige Schallquelle nervte dann doch irgendwann..."
+        "text": "Der schöne Weg das Tal hinab war sehr angenehm zu gehen, da er gleichmäßig absteigend ist und zum Teil sogar mit federndem Gras bewachsen ist. Nur das ständige Rauschen des Bachs als einzige Schallquelle nervte dann doch irgendwann..."
       },
       {
         "photos": [
@@ -510,7 +512,7 @@
             "height": 1080
           }
         ],
-        "text": "Mit den herbstlichen Farben der Lärchen (an alle mitlesenden Grundschullehrerinnen: bitte beachtet die korrekte Schreibung) war die Landschaft am Ende des Tals nun wunderschön."
+        "text": "Mit den herbstlichen Farben der Lärchen <span data-silent>(an alle mitlesenden Grundschullehrerinnen: bitte beachtet die korrekte Schreibung)</span> war die Landschaft am Ende des Tals nun wunderschön."
       },
       {
         "photos": [
@@ -572,7 +574,7 @@
             "height": 1080
           }
         ],
-        "text": "Dann musste ich über einen weiteren Fluss. Diesmal der vom Piz Kesch, an dem ich am vormittag entlang aufgestiegen war."
+        "text": "Dann musste ich über einen weiteren Fluss. Diesmal der vom Piz Kesch, an dem ich am Vormittag entlang aufgestiegen war."
       },
       {
         "photos": [
