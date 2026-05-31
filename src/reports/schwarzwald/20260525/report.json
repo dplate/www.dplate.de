@@ -1,0 +1,500 @@
+[
+  {
+    "destination": "schwarzwald",
+    "date": "d20260525",
+    "datePublished": "2026-05-30T15:25:25.768+02:00",
+    "dateModified": "2026-05-30T15:25:25.768+02:00",
+    "type": "hike",
+    "track": true,
+    "detailMap": null,
+    "hideSwissTopo": true,
+    "shortTitle": "Wutachschlucht",
+    "title": "Gauchach- und Wutachschlucht",
+    "title3d": {
+      "offsetY": 0,
+      "fontSize": 9,
+      "align": "right",
+      "width": 1920,
+      "height": 615
+    },
+    "movie": "Zgax6YP0A-M",
+    "intro": "An diesem Pfingstmontag ging es auf eine Wanderung erst durch die Gauchachschlucht hinab und dann die Wutachschlucht hinauf bis zur Schattenmühle.<br />Das Auto stellte ich gegen 8:30 auf dem Wanderparkplatz Posthaus bei Unadingen ab.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Schmale Brücke",
+            "date": "2026-05-25T08:31:14.000+02:00",
+            "width": 1381,
+            "height": 1080
+          }
+        ],
+        "text": "Schon gleich zu Beginn führte der schmale Weg über einige lustige Holzbrücken über die kleine Gauchach."
+      },
+      {
+        "photos": [
+          {
+            "name": "002",
+            "alt": "Hangweg",
+            "date": "2026-05-25T08:42:45.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Und auch schon ein für den Rest der Wanderung so typischen Hangweg fand sich bereits gleich am Anfang."
+      },
+      {
+        "photos": [
+          {
+            "name": "003",
+            "alt": "Guggenmühle",
+            "date": "2026-05-25T08:51:01.000+02:00",
+            "width": 1720,
+            "height": 1080
+          }
+        ],
+        "text": "Vorbei ging es an der ziemlich abgesperrten Guggenmühle, wobei ich hier etwas falsch gelaufen war, denn der eigentliche Weg blieb auf der anderen Talseite."
+      },
+      {
+        "photos": [
+          {
+            "name": "004",
+            "alt": "Zugewucherter Weg",
+            "date": "2026-05-25T09:04:40.000+02:00",
+            "width": 720,
+            "height": 1080
+          }
+        ],
+        "text": "Der Weg zurück zum normalen Wanderweg war sehr wenig benutzt und entsprechend zugewuchert."
+      },
+      {
+        "photos": [
+          {
+            "name": "005",
+            "alt": "Holzsteg",
+            "date": "2026-05-25T09:07:04.000+02:00",
+            "width": 809,
+            "height": 1080
+          }
+        ],
+        "text": "Dann erreichte ich aber wieder den Wanderweg und es ging mit den Holzbrücken weiter."
+      },
+      {
+        "photos": [
+          {
+            "name": "006",
+            "alt": "Gauchach",
+            "date": "2026-05-25T09:11:36.000+02:00",
+            "width": 1617,
+            "height": 1080
+          }
+        ],
+        "text": "An diesem Tag sollte es ziemlich heiß werden, hier im schattigen Tal am Morgen war es aber noch angenehm."
+      },
+      {
+        "photos": [
+          {
+            "name": "007",
+            "alt": "Wiesenpfad",
+            "date": "2026-05-25T09:15:53.000+02:00",
+            "width": 1920,
+            "height": 1073
+          }
+        ],
+        "text": "Meistens ging es durch den Wald, nur manchmal, wie hier, mal über eine kleine Lichtung."
+      },
+      {
+        "photos": [
+          {
+            "name": "008",
+            "alt": "Kalksinterterrassen",
+            "date": "2026-05-25T09:21:56.000+02:00",
+            "width": 1651,
+            "height": 1080
+          }
+        ],
+        "text": "Ein Seitenbach floss hier über Kalksinterterrassen Richtung Gauchach."
+      },
+      {
+        "photos": [
+          {
+            "name": "009",
+            "alt": "Urige Schlucht",
+            "date": "2026-05-25T09:25:18.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Und so urig ging der wenig begangene Weg hier durch die Schlucht."
+      },
+      {
+        "photos": [
+          {
+            "name": "010",
+            "alt": "Urwald",
+            "date": "2026-05-25T09:31:17.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "011",
+            "alt": "Schmaler Weg am Ufer",
+            "date": "2026-05-25T09:33:46.000+02:00",
+            "width": 1901,
+            "height": 1080
+          },
+          {
+            "name": "012",
+            "alt": "Wanderweg Gauchachtal",
+            "date": "2026-05-25T09:35:35.000+02:00",
+            "width": 1750,
+            "height": 1080
+          }
+        ],
+        "text": "Dann wurde die Schlucht langsam immer schmaler und der Wanderweg ging direkt an der Felswand am Bach entlang. Bei Hochwasser wird es hier definitiv schwierig."
+      },
+      {
+        "photos": [
+          {
+            "name": "013",
+            "alt": "Gauchachschlucht",
+            "date": "2026-05-25T09:36:26.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Weiterhin gab es eine schöne Lichtstimmung in der Schlucht."
+      },
+      {
+        "photos": [
+          {
+            "name": "014",
+            "alt": "Gauchachkaskade",
+            "date": "2026-05-25T09:50:15.000+02:00",
+            "width": 1815,
+            "height": 1080
+          }
+        ],
+        "text": "Dann erreichte ich die Gauchachkaskade, wo der Bach mehrere kleine Wasserfälle hat."
+      },
+      {
+        "photos": [
+          {
+            "name": "015",
+            "alt": "Brücke zu Felsenweg",
+            "date": "2026-05-25T09:55:22.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "016",
+            "alt": "Felsenweg",
+            "date": "2026-05-25T09:59:09.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "017",
+            "alt": "Wanderweg Gauchachschlucht",
+            "date": "2026-05-25T10:00:27.000+02:00",
+            "width": 1630,
+            "height": 1080
+          }
+        ],
+        "text": "Nun wurde der Wanderweg breiter und ausgebauter, denn ab hier befand ich mich auf dem Dreischluchten-Rundweg, der durch die Enge-, Gauchach- und Wutachschlucht führt.<br />Schön ging es hier auf einem schmalen Sims durch eine Felswand."
+      },
+      {
+        "photos": [
+          {
+            "name": "018",
+            "alt": "Gasthaus Burgmühle",
+            "date": "2026-05-25T10:08:24.000+02:00",
+            "width": 1713,
+            "height": 1080
+          }
+        ],
+        "text": "Um 10:00 erreichte ich das Gasthaus Burgmühle, noch kamen mir aber nur wenige andere Wanderer entgegen - was sich aber noch ändern sollte."
+      },
+      {
+        "photos": [
+          {
+            "name": "019",
+            "alt": "Wiesen-Kerbel",
+            "date": "2026-05-25T10:15:30.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "020",
+            "alt": "Holzbrücke",
+            "date": "2026-05-25T10:16:00.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "021",
+            "alt": "Idyllischer Weg",
+            "date": "2026-05-25T10:16:28.000+02:00",
+            "width": 1616,
+            "height": 1080
+          }
+        ],
+        "text": "Immer noch ging es idyllisch an der Gauchach sanft weiter bergab."
+      },
+      {
+        "photos": [
+          {
+            "name": "022",
+            "alt": "Kanadiersteg",
+            "date": "2026-05-25T10:40:13.000+02:00",
+            "width": 1472,
+            "height": 1080
+          },
+          {
+            "name": "023",
+            "alt": "Überdachte Brücke",
+            "date": "2026-05-25T10:40:49.000+02:00",
+            "width": 1471,
+            "height": 1080
+          }
+        ],
+        "text": "Um 10:40 erreichte ich den Kanadiersteg, bei dem die Gauchach in die Wutach mündet. Nun befand ich mich also auf dem Weg durch die Wutachschlucht und ich bog nach rechts ab."
+      },
+      {
+        "photos": [
+          {
+            "name": "024",
+            "alt": "Wutach",
+            "date": "2026-05-25T10:46:20.000+02:00",
+            "width": 1920,
+            "height": 852
+          },
+          {
+            "name": "025",
+            "alt": "Muschelkalkfelsen",
+            "date": "2026-05-25T10:50:43.000+02:00",
+            "width": 1755,
+            "height": 1080
+          },
+          {
+            "name": "026",
+            "alt": "Wutachschlucht",
+            "date": "2026-05-25T10:53:36.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "027",
+            "alt": "Felsenweg Wutachschlucht",
+            "date": "2026-05-25T11:03:02.000+02:00",
+            "width": 1767,
+            "height": 1080
+          }
+        ],
+        "text": "Der Weg die Wutachschlucht hinauf war zunächst recht ähnlich wie in der Gauchachschlucht. Nur war das Tal deutlich größer, der Fluss breiter, die Felswände höher und vor allem war es nun richtig voll. Wie sich herausstellte, waren gerade die Bachheimer Pfingstwandertage, bei denen viele Gruppen die Dreischluchten-Wanderung machten und mir nun alle gleichtzeitig hier auf dem schmalen Weg entgegenkamen."
+      },
+      {
+        "photos": [
+          {
+            "name": "028",
+            "alt": "Holzhängebrücke",
+            "date": "2026-05-25T11:28:33.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "An dieser Brücke hatte mich aber der Dreischluchten-Rundweg schon wieder verlassen und so wurde es deutlich leerer, also zumindest nicht mehr störend."
+      },
+      {
+        "photos": [
+          {
+            "name": "029",
+            "alt": "Wanderung Wutach",
+            "date": "2026-05-25T11:34:07.000+02:00",
+            "width": 861,
+            "height": 1080
+          },
+          {
+            "name": "030",
+            "alt": "Metalltreppe",
+            "date": "2026-05-25T11:35:18.000+02:00",
+            "width": 790,
+            "height": 1080
+          }
+        ],
+        "text": "Recht aufwändig angelegt führte der Weg hier durch eine Felswand. Die Sicherungen wirkten schon etwas alt."
+      },
+      {
+        "photos": [
+          {
+            "name": "031",
+            "alt": "Wutach-Versickerung",
+            "date": "2026-05-25T11:56:03.000+02:00",
+            "width": 1772,
+            "height": 1080
+          }
+        ],
+        "text": "Um 12:00 machte ich dann meine erste richtige Pause am Bachbett, wo auch die Wutach-Versickerung beginnt. Ein Teil des Wassers sickert hier in den Untergrund und sprudelt dann bei den Felsen oberhalb des Kanadierstegs wieder zurück in die Wutach."
+      },
+      {
+        "photos": [
+          {
+            "name": "032",
+            "alt": "Naturschutzgebiet Wutachschlucht",
+            "date": "2026-05-25T12:06:08.000+02:00",
+            "width": 1691,
+            "height": 1080
+          },
+          {
+            "name": "033",
+            "alt": "Gesicherter Wanderweg",
+            "date": "2026-05-25T12:18:02.000+02:00",
+            "width": 1920,
+            "height": 1004
+          },
+          {
+            "name": "034",
+            "alt": "Baum an Felsen",
+            "date": "2026-05-25T12:29:40.000+02:00",
+            "width": 1379,
+            "height": 1080
+          },
+          {
+            "name": "035",
+            "alt": "Wanderung Wutach",
+            "date": "2026-05-25T12:34:57.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "036",
+            "alt": "Kalkfelsen",
+            "date": "2026-05-25T12:39:32.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Das Tal wurde nun immer breiter, der Weg ging aber weiterhin entlang der Felsen auf der Südseite (also angenehm im Schatten) entlang. Die Muschelkalkfelsen sind dabei ziemlich bröckelig, bilden aber auf Grund der waagerechten Schichtung für den Wanderweg günstige Absätze."
+      },
+      {
+        "photos": [
+          {
+            "name": "037",
+            "alt": "Blick von oben",
+            "date": "2026-05-25T12:40:23.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Hier ging es nun recht weit über den Fluss hinauf, mehr Aussicht gab es aber an diesem Tag trotzdem nicht."
+      },
+      {
+        "photos": [
+          {
+            "name": "038",
+            "alt": "Tannegger Wasserfall",
+            "date": "2026-05-25T13:08:57.000+02:00",
+            "width": 720,
+            "height": 1080
+          }
+        ],
+        "text": "Dann erreichte ich den Tannegger Wasserfall, der über 15 Meter herabfällt. Wer will kann dort noch hinter den Wasserfall laufen."
+      },
+      {
+        "photos": [
+          {
+            "name": "039",
+            "alt": "Engländerallee",
+            "date": "2026-05-25T13:17:29.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "040",
+            "alt": "Kapelle Bad Boll",
+            "date": "2026-05-25T13:24:45.000+02:00",
+            "width": 1382,
+            "height": 1080
+          },
+          {
+            "name": "041",
+            "alt": "Kapelle im Wald",
+            "date": "2026-05-25T13:26:22.000+02:00",
+            "width": 786,
+            "height": 1080
+          }
+        ],
+        "text": "Nach dem Wasserfall kam ich auf die Engländerallee. Über 100 Jahre gab es hier in der Wutachschlucht den Kurort Bad Boll. Alle Gebäude bis auf die Kapelle wurden aber komplett entfernt, man erkennt aber noch deutlich die menschlichen Spuren in der Landschaft."
+      },
+      {
+        "photos": [
+          {
+            "name": "042",
+            "alt": "Bergsturz Wutach",
+            "date": "2026-05-25T13:43:00.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Nach Bad Boll ging die Wanderung leider auf einer Forststraße weiter und dazu noch auf der Sonnenseite den Hang hinauf. Der Grund ist dieser Felssturz, der den eigentlichen Wanderweg im Tal verschüttet hatte und auch weiterhin instabil ist."
+      },
+      {
+        "photos": [
+          {
+            "name": "043",
+            "alt": "Dietfurtbrücke",
+            "date": "2026-05-25T13:51:03.000+02:00",
+            "width": 1464,
+            "height": 1080
+          }
+        ],
+        "text": "Danach ging es aber wieder hinab zur Wutach, genauer zur Dietfurtbrücke. Diese überquerte ich aber nicht, sondern machte nur dieses Foto. Früher führte über diese Brücke eine Straße, die aber nicht mehr existiert."
+      },
+      {
+        "photos": [
+          {
+            "name": "044",
+            "alt": "Dietfurter Wasserfall",
+            "date": "2026-05-25T13:54:56.000+02:00",
+            "width": 1578,
+            "height": 1080
+          },
+          {
+            "name": "045",
+            "alt": "Schleierwasserfall",
+            "date": "2026-05-25T13:55:15.000+02:00",
+            "width": 795,
+            "height": 1080
+          }
+        ],
+        "text": "Sehr willkommen bei den hohen Temperaturen kam ich nun noch am Dietfurter Wasserfall vorbei, auch Schleierwasserfall genannt. Schön zum anschauen und abkühlen."
+      },
+      {
+        "photos": [
+          {
+            "name": "046",
+            "alt": "Verwunschener Teich",
+            "date": "2026-05-25T14:14:48.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Es folgte noch eine weitere Pause an diesem kleinen Teich im Schatten. Der Rest des Wegs zur Schattenmühle war dann leider nicht mehr besonders interessant und ohne Highlights."
+      },
+      {
+        "photos": [
+          {
+            "name": "047",
+            "alt": "Schattenmühle",
+            "date": "2026-05-25T15:37:06.000+02:00",
+            "width": 1657,
+            "height": 1080
+          }
+        ],
+        "text": "Gegen 15:00 erreichte ich die Schattenmühle, die eine große (und anscheinend beliebte) Ausflugsgaststätte ist. Außerdem befindet sich dort noch eine alte Säge, die man an diesem Tag auch besichtigen konnte.<br />Neben dem Gasthaus ist dort auch noch ein Wanderparkplatz und für mich relevant die Haltestelle vom Wanderbus. Dieser fährt im Sommer an Wochenenden und Feiertagen. Mein Bus zurück zu meinem Auto am Posthaus fuhr um 16:00 (der nächste wäre dann erst um 18:00 gefahren) und kostete 3€."
+      }
+    ],
+    "outro": "Fazit: Lange und abwechslungsreiche Schluchtenwanderung. Der Weg war nicht immer einfach und zum Teil recht rutschig, mit etwas Bergweg-Erfahrung war er aber gut machbar. Höhenmeter gab es nicht viele, man darf aber wegen der Rückfahrt mit dem Bus nicht zu spät loslaufen. Es gibt auch einige kürzere Rundwege, von denen würde ich den Dreischluchtenweg empfehlen - aber evt. nicht gerade am Pfingstwandertag."
+  }
+]

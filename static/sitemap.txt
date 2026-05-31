@@ -18,7 +18,7 @@ https://www.dplate.de/alpine/davos
 https://www.dplate.de/alpine/dolomiten
 https://www.dplate.de/alpine/disentis
 https://www.dplate.de/alpine/ebnit
-https://www.dplate.de/alpine/feldberg
+https://www.dplate.de/alpine/schwarzwald
 https://www.dplate.de/alpine/flumserberg
 https://www.dplate.de/alpine/glarus
 https://www.dplate.de/alpine/gargellen
@@ -170,7 +170,7 @@ https://www.dplate.de/alpine/dolomiten/20180219
 https://www.dplate.de/alpine/dolomiten/20180220
 https://www.dplate.de/alpine/toggenburg/20180308
 https://www.dplate.de/alpine/pizol/20180314
-https://www.dplate.de/alpine/feldberg/20180321
+https://www.dplate.de/alpine/schwarzwald/20180321
 https://www.dplate.de/alpine/laax/20180406
 https://www.dplate.de/alpine/kaunertal/20180506
 https://www.dplate.de/alpine/toggenburg/20180526
@@ -223,7 +223,7 @@ https://www.dplate.de/alpine/malbun/20220809
 https://www.dplate.de/alpine/lenzerheide/20220828
 https://www.dplate.de/alpine/alpstein/20220902
 https://www.dplate.de/alpine/alpstein/20220922
-https://www.dplate.de/alpine/feldberg/20221009
+https://www.dplate.de/alpine/schwarzwald/20221009
 https://www.dplate.de/alpine/montafon/20221016
 https://www.dplate.de/alpine/toggenburg/20221106
 https://www.dplate.de/alpine/ebnit/20221113
@@ -270,3 +270,4 @@ https://www.dplate.de/alpine/montafon/20251114
 https://www.dplate.de/alpine/laterns/20251226
 https://www.dplate.de/alpine/alpstein/20260101
 https://www.dplate.de/alpine/alpstein/20260502
+https://www.dplate.de/alpine/schwarzwald/20260525
