@@ -1,0 +1,545 @@
+[
+  {
+    "destination": "pizol",
+    "date": "d20260613",
+    "datePublished": "2026-06-19T17:26:59.625+02:00",
+    "dateModified": "2026-06-19T17:26:59.625+02:00",
+    "type": "hike",
+    "track": true,
+    "detailMap": "swiss",
+    "shortTitle": "Sardonahütte",
+    "title": "St. Martin - Sardonahütte",
+    "title3d": {
+      "offsetY": 5,
+      "fontSize": 7.5,
+      "align": "center",
+      "width": 1920,
+      "height": 517
+    },
+    "movie": "2cMyRDu3xVs",
+    "intro": "Bisher hatte ich das Calfeisen-Tal nur vom <a href='/alpine/pizol/20220709#gigerwaldsee_037' target='_blank'>Gipfel der Calanda</a> gesehen und so wollte ich an diesem Juni-Samstag dort mal eine Wanderung unternehmen.",
+    "landmarks": [
+      {
+        "photos": [
+          {
+            "name": "001",
+            "alt": "Einspuriger Tunnel",
+            "date": "2026-06-13T07:46:29.000+02:00",
+            "width": 1798,
+            "height": 1080
+          },
+          {
+            "name": "002",
+            "alt": "Anfahrt St. Martin",
+            "date": "2026-06-13T07:48:55.000+02:00",
+            "width": 1649,
+            "height": 1080
+          }
+        ],
+        "text": "Die Fahrt mit dem Auto zum Anfang der Wanderung bei St. Martin war schon ein kleines Abenteuer. Die einspurige Straße entlang des Gigerwald-Stausees ist talaufwärts nur jede volle Stunde für 20min offen. Bis 9:00 gilt diese Einschränkung allerdings noch nicht, so konnte ich sie auch um 7:45 fahren. Und es kam mir auch kein Auto entgegen."
+      },
+      {
+        "photos": [
+          {
+            "name": "003",
+            "alt": "Wanderung St. Martin",
+            "date": "2026-06-13T08:06:56.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "004",
+            "alt": "Kleine Schnecke auf Blatt",
+            "date": "2026-06-13T08:17:48.000+02:00",
+            "width": 1611,
+            "height": 1080
+          }
+        ],
+        "text": "Nach dem ich mein Auto auf dem großen Gratis-Parkplatz vor St. Martin abgestellt hatte, lief ich den Bergweg auf der linken Talseite hinauf. Der Weg war dabei am Anfang von Kühen ziemlich matschig getreten."
+      },
+      {
+        "photos": [
+          {
+            "name": "005",
+            "alt": "Kleiner Wasserfall",
+            "date": "2026-06-13T08:27:17.000+02:00",
+            "width": 720,
+            "height": 1080
+          }
+        ],
+        "text": "Auf dem Weg den bewaldeten Hang entlang gab es immer wieder kleine Bäche zu überqueren."
+      },
+      {
+        "photos": [
+          {
+            "name": "006",
+            "alt": "Blick auf die Tamina",
+            "date": "2026-06-13T08:29:53.000+02:00",
+            "width": 1865,
+            "height": 1080
+          },
+          {
+            "name": "007",
+            "alt": "Tüfwald",
+            "date": "2026-06-13T08:31:35.000+02:00",
+            "width": 1920,
+            "height": 994
+          }
+        ],
+        "text": "Das erste kleine Zwischenziel war die Alp Tüfwald, eine kleine Wiese auf einem Felsen oberhalb der Tamina, die durch das Calfeisen-Tal fließt."
+      },
+      {
+        "photos": [
+          {
+            "name": "008",
+            "alt": "Wasserschleier",
+            "date": "2026-06-13T08:37:04.000+02:00",
+            "width": 720,
+            "height": 1080
+          }
+        ],
+        "text": "Nach der Alp wurde der Weg weniger matschig und besser zu gehen. Und kleine Wasserfälle gab es auch hier noch zu sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "009",
+            "alt": "Holzbrücke",
+            "date": "2026-06-13T08:41:41.000+02:00",
+            "width": 1341,
+            "height": 1080
+          },
+          {
+            "name": "010",
+            "alt": "Schräabach Wasserfall",
+            "date": "2026-06-13T08:44:26.000+02:00",
+            "width": 720,
+            "height": 1080
+          }
+        ],
+        "text": "Beim größeren Schräabach waren keine wasserdichten Schuhe zum Überqueren notwendig, denn dort gab es eine Holzbrücke. Der Bach strömt oberhalb durch eine tolle Schlucht und fällt in einigen Wasserfällen hinab."
+      },
+      {
+        "photos": [
+          {
+            "name": "011",
+            "alt": "Wanderweg an der Tamina",
+            "date": "2026-06-13T08:48:29.000+02:00",
+            "width": 1668,
+            "height": 1080
+          }
+        ],
+        "text": "Bisher ging der Weg immer weit über dem Talgrund, aber hier ging es auch mal kurz direkt an der Tamina entlang."
+      },
+      {
+        "photos": [
+          {
+            "name": "012",
+            "alt": "Wasserfall im Frühlingswald",
+            "date": "2026-06-13T08:55:51.000+02:00",
+            "width": 901,
+            "height": 1080
+          }
+        ],
+        "text": "Vorbei an einem weiteren namenslosen Wasserfall."
+      },
+      {
+        "photos": [
+          {
+            "name": "013",
+            "alt": "Abgerutschter Weg",
+            "date": "2026-06-13T09:00:47.000+02:00",
+            "width": 1421,
+            "height": 1080
+          }
+        ],
+        "text": "Hier war der Wanderweg an einem Nebenfluss abgerutscht. Die gekennzeichnete Umleitung hatte ich übersehen, aber es war auch so nicht schwierig zu bewältigen."
+      },
+      {
+        "photos": [
+          {
+            "name": "014",
+            "alt": "Wanderweg Ebni",
+            "date": "2026-06-13T09:03:17.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "015",
+            "alt": "Tristelhorn",
+            "date": "2026-06-13T09:07:04.000+02:00",
+            "width": 1574,
+            "height": 1080
+          },
+          {
+            "name": "016",
+            "alt": "Wanderung Calfeisen",
+            "date": "2026-06-13T09:08:00.000+02:00",
+            "width": 1842,
+            "height": 1080
+          }
+        ],
+        "text": "Nach einer weiteren Holzbrücke und einem weiteren Wasserfall kam ich an der Alp Vordere Ebni an. Dort hatte ich das erste mal einen Blick den Hang hinauf, den ich bisher entlanggelaufen war. Oberhalb befindet sich das Tristel- und Glaserhorn, beide um die 3000m hoch."
+      },
+      {
+        "photos": [
+          {
+            "name": "017",
+            "alt": "Vordere Ebni",
+            "date": "2026-06-13T09:10:45.000+02:00",
+            "width": 1920,
+            "height": 1020
+          },
+          {
+            "name": "018",
+            "alt": "Pausenbank Calfeisen",
+            "date": "2026-06-13T09:15:17.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Noch vor der Alp musste ich eine weitere Kuhweide überqueren. Die Tiere dort waren ungewohnt aggressiv und sämtliche Kühe kamen plötzlich muhend und stampfend auf mich zu gelaufen. Ich habe mich dann ziemlich zügig hinter dem Zaun in Sicherheit gebracht und dann erst mal auf dieser schönen Bank im Schatten davon erholt."
+      },
+      {
+        "photos": [
+          {
+            "name": "019",
+            "alt": "Wanderweg Piz Sardona",
+            "date": "2026-06-13T09:33:29.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "020",
+            "alt": "Hintere Ebni",
+            "date": "2026-06-13T09:40:37.000+02:00",
+            "width": 1834,
+            "height": 1080
+          }
+        ],
+        "text": "Nach der vorderen Ebni folgte logischerweise die Alp Hintere Ebni. Diese war aber zum Glück noch kuhfrei und so konnte ich den kleinen Zwischenaufstieg über die schöne Wiese genießen, die einen ersten Blick zum Talende und dem Piz Sardona bot, aber auch das Calfeisen Tal hinab."
+      },
+      {
+        "photos": [
+          {
+            "name": "021",
+            "alt": "Bemühte Brücke",
+            "date": "2026-06-13T09:57:44.000+02:00",
+            "width": 1880,
+            "height": 1080
+          }
+        ],
+        "text": "Nach der Alp musste ich einen weiteren Bach überqueren. Die dort plazierte Holzplanke als Überquerungshilfe wirkte etwas verloren."
+      },
+      {
+        "photos": [
+          {
+            "name": "022",
+            "alt": "Wanderweg Sardona",
+            "date": "2026-06-13T10:01:12.000+02:00",
+            "width": 1920,
+            "height": 1028
+          }
+        ],
+        "text": "Direkt anschließend erreichte ich die Weiden der Alp Sardona auf gut 1700m Höhe, hier rechts zu sehen. Bis hier hatte ich zwei Stunden gebraucht und 400 Höhenmeter geschafft. Das waren vermutlich aber deutlich mehr, denn es ging eigentlich die ganze Zeit immer etwas rauf und runter."
+      },
+      {
+        "photos": [
+          {
+            "name": "023",
+            "alt": "Wasserfall Tamina",
+            "date": "2026-06-13T10:46:02.000+02:00",
+            "width": 885,
+            "height": 1080
+          }
+        ],
+        "text": "Von der Alp ging es über einen langen Wiesenhang rund 200 Höhenmeter bis zum Talende hinauf, wo die Tamina in mehreren Wasserfällen hinabfällt. Hier gibt es zwei Wege weiter, entweder rechts vom Bach einen alten Wanderweg oder links den neu angelegten. Der alte Weg sah ziemlich abgerutscht aus, so dass ich mich für den Normalweg entschied."
+      },
+      {
+        "photos": [
+          {
+            "name": "024",
+            "alt": "Wanderung Sardonahütte",
+            "date": "2026-06-13T11:00:47.000+02:00",
+            "width": 1920,
+            "height": 1074
+          }
+        ],
+        "text": "Nun folgte der anstrengendste Teil der Wanderung, den es ging weitere 200m den nun steilen und sonnigen Hang hinauf. Der Weg war aber mit vielen Serpentinen angelegt und es wehte ein erfrischender Wind."
+      },
+      {
+        "photos": [
+          {
+            "name": "025",
+            "alt": "Brücke über Schneefeld",
+            "date": "2026-06-13T11:07:32.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Ich hatte mich schon unten gefragt, wie wohl der Bach überquert werden würde. Hier die Antwort: ein ziemlich neuer Metallsteg überbrückte hier die noch zugeschneite Tamina."
+      },
+      {
+        "photos": [
+          {
+            "name": "026",
+            "alt": "Bergweg Sardonahütte",
+            "date": "2026-06-13T11:17:01.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Nach der Brücke wurde es dann noch mal steil, der Weg war aber weiterhin einfach und gut ausgebaut."
+      },
+      {
+        "photos": [
+          {
+            "name": "027",
+            "alt": "Panorama Sardonahütte",
+            "date": "2026-06-13T11:40:59.000+02:00",
+            "width": 1920,
+            "height": 838
+          }
+        ],
+        "text": "Um 11:30, also nach 3,5 Stunden, erreichte ich das Ziel meiner Wanderung, die 2150m hoch gelegene Sardonahütte. Für dieses Foto bin ich noch ein Stück weiter hinauf gestiegen und habe auf einem kleinen Buckel oberhalb meine Mittagspause gemacht."
+      },
+      {
+        "photos": [
+          {
+            "name": "028",
+            "alt": "Sardonahütte im Calfeisen Tal",
+            "date": "2026-06-13T11:46:54.000+02:00",
+            "width": 1920,
+            "height": 1049
+          }
+        ],
+        "text": "Die Sardonahütte wurde gerade erst vom Hüttenwart für die Sommersaison vorbereitet. Noch lagerten alle vom Helikopter gebrachten Vorräte vor der Hütte und die frisch gewaschenen Bettdecken trockneten auf dem Vordach."
+      },
+      {
+        "photos": [
+          {
+            "name": "029",
+            "alt": "Blume im Bergschuh",
+            "date": "2026-06-13T11:48:15.000+02:00",
+            "width": 786,
+            "height": 1080
+          }
+        ],
+        "text": "Aber diese Dekoration war bereits aufgestellt worden."
+      },
+      {
+        "photos": [
+          {
+            "name": "030",
+            "alt": "Sardonahütte SAC",
+            "date": "2026-06-13T11:48:54.000+02:00",
+            "width": 1381,
+            "height": 1080
+          }
+        ],
+        "text": "Terrasse der um 1900 erbauten Sardonahütte. Mit mir waren nur zwei andere Wanderer dort und ruhten sich auf den Bänken aus."
+      },
+      {
+        "photos": [
+          {
+            "name": "031",
+            "alt": "Wanderung Sardona",
+            "date": "2026-06-13T11:54:04.000+02:00",
+            "width": 815,
+            "height": 1080
+          }
+        ],
+        "text": "Noch vor 12:00 machte ich mich wieder auf den Rückweg. Bis zur Alp Sardona auf dem Hinweg, also auch wieder über die Metallbrücke unterhalb des Trinserhorns."
+      },
+      {
+        "photos": [
+          {
+            "name": "032",
+            "alt": "Sardona",
+            "date": "2026-06-13T12:04:31.000+02:00",
+            "width": 1770,
+            "height": 1080
+          }
+        ],
+        "text": "Blick über den Wiesenhang der Alp Sardona. Diese Wiese ist deutlich weitläufiger, als es auf dem Foto aussieht. Im Hintergrund ist der <a href='/alpine/pizol/20250929' target='_blank'>Pizol</a> zu sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "033",
+            "alt": "Alpenrosen",
+            "date": "2026-06-13T12:39:32.000+02:00",
+            "width": 1808,
+            "height": 1080
+          },
+          {
+            "name": "034",
+            "alt": "Wanderung Alp Sardona",
+            "date": "2026-06-13T12:40:46.000+02:00",
+            "width": 1758,
+            "height": 1080
+          },
+          {
+            "name": "035",
+            "alt": "Idyllische Landschaft",
+            "date": "2026-06-13T12:49:34.000+02:00",
+            "width": 1920,
+            "height": 775
+          }
+        ],
+        "text": "Nach dem Abstieg über die Wiese erreichte ich die idyllisch gelegene Alp Sardona, die direkt an der Tamina liegt und wo man auch einkehren könnte. Dort war nun richtig Betrieb, denn sie ist auch über ein Schottersträßchen erreichbar und war damit Ziel vieler Radfahrer. Genau diese Straße hatte ich mir für meinen Rückweg zum Auto ausgesucht. Es gibt zwar noch einen richtigen Wanderweg rund 200m oberhalb des Tals, aber auf einen weiteren Aufstieg hatte ich keine Lust mehr."
+      },
+       {
+        "photos": [
+          {
+            "name": "036",
+            "alt": "Hang mit Wasserfällen",
+            "date": "2026-06-13T13:00:30.000+02:00",
+            "width": 1701,
+            "height": 1080
+          }
+        ],
+        "text": "Blick von der angenehm schattigen Straße im Wald hinüber zur Talseite meines Aufstiegs, den vielen Wasserfällen und dem Tristelhorn darüber."
+      },
+      {
+        "photos": [
+          {
+            "name": "037",
+            "alt": "Fahrstraße Alp Sardona",
+            "date": "2026-06-13T13:02:12.000+02:00",
+            "width": 1920,
+            "height": 985
+          },
+          {
+            "name": "038",
+            "alt": "Spazierweg St. Martin",
+            "date": "2026-06-13T13:30:30.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Die Straße hatte zu Beginn eine angenehm zu gehende Steigung, womit ich flott vorankam. Einige durchaus interessante Schautafeln erzählen zu dem über die Walser, die im späten Mittelalter als Erstes in diesem Tal lebten."
+      },
+      {
+        "photos": [
+          {
+            "name": "039",
+            "alt": "Calfeisen Tal",
+            "date": "2026-06-13T13:36:06.000+02:00",
+            "width": 1834,
+            "height": 1080
+          }
+        ],
+        "text": "Letzter Blick zurück das Calfeisen Tal hinauf zum Piz Sardona."
+      },
+      {
+        "photos": [
+          {
+            "name": "040",
+            "alt": "Wasserfall",
+            "date": "2026-06-13T13:51:05.000+02:00",
+            "width": 1744,
+            "height": 1080
+          }
+        ],
+        "text": "Ein beeindruckender Wasserfall auf der anderen Talseite, der leider auf Grund der vielen Bäume kaum sichtbar war. Auf dem Hinweg musste ich unterhalb an ihm vorbeigekommen sein, konnte ihn dort aber ebenfalls nicht sehen."
+      },
+      {
+        "photos": [
+          {
+            "name": "041",
+            "alt": "Wildes Tal",
+            "date": "2026-06-13T14:07:21.000+02:00",
+            "width": 1620,
+            "height": 1080
+          }
+        ],
+        "text": "Kurz vor dieser Stelle hatte der Wanderweg einen zusätzlichen Aufstieg, denn der Bergrutsch hier rechts musste oberhalb umgangen werden. Inzwischen war es so warm, dass das nicht mehr so erfreulich war."
+      },
+      {
+        "photos": [
+          {
+            "name": "042",
+            "alt": "Gigerwald-See",
+            "date": "2026-06-13T14:18:46.000+02:00",
+            "width": 1423,
+            "height": 1080
+          }
+        ],
+        "text": "Nach rund 1,5 Stunden Abstieg von der Alp Sardona erreichte ich den Gigerwald-See. Eigentlich hatte ich noch vor links etwas zu einem Aussichtspunkt aufzusteigen, aber auch dafür fehlte mir die Motivation, deshalb hier nur der Blick von der Straße."
+      },
+      {
+        "photos": [
+          {
+            "name": "043",
+            "alt": "Alpwirtschaft Sankt Martin",
+            "date": "2026-06-13T14:27:18.000+02:00",
+            "width": 1803,
+            "height": 1080
+          },
+          {
+            "name": "044",
+            "alt": "Berghotel St. Martin",
+            "date": "2026-06-13T14:27:59.000+02:00",
+            "width": 1920,
+            "height": 871
+          },
+          {
+            "name": "045",
+            "alt": "Walsersiedlung Sankt Martin",
+            "date": "2026-06-13T14:29:48.000+02:00",
+            "width": 1920,
+            "height": 1008
+          },
+          {
+            "name": "046",
+            "alt": "Fasssauna St. Martin",
+            "date": "2026-06-13T14:31:35.000+02:00",
+            "width": 1920,
+            "height": 789
+          }
+        ],
+        "text": "Am Morgen hatte ich die Walsersiedlung Sankt Martin noch rechts liegen gelassen. Jetzt besichtigte ich aber noch diese Häuseransammlung, wobei dies mehr ein Museumsdorf als ein richtiger Ort ist. Neben der Kapelle und dem Restaurant dienen die anderen alten Häuser als Hotelzimmer. Ein kleiner Teich zum Baden und eine Fasssaune ist außerdem noch vorhanden."
+      },
+      {
+        "photos": [
+          {
+            "name": "047",
+            "alt": "Straße Gigerwald-See",
+            "date": "2026-06-13T14:41:19.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "048",
+            "alt": "Abenteuerliche Straße",
+            "date": "2026-06-13T14:42:22.000+02:00",
+            "width": 1699,
+            "height": 1080
+          }
+        ],
+        "text": "Gegen 14:30 beendete ich meine Wanderung passend zur grünen Ampelphase für die Rückfahrt. Da kein Verkehr war, konnte ich trotzdem noch diese zwei Fotopausen während der Fahrt einlegen."
+      },
+      {
+        "photos": [
+          {
+            "name": "049",
+            "alt": "Calanda",
+            "date": "2026-06-13T14:47:49.000+02:00",
+            "width": 1620,
+            "height": 1080
+          },
+          {
+            "name": "050",
+            "alt": "Gigerwald Stausee",
+            "date": "2026-06-13T14:48:04.000+02:00",
+            "width": 1895,
+            "height": 1080
+          }
+        ],
+        "text": "Und noch zwei Fotos von der Staumauer des Gigerwald Stausees, über die die Straße führt. Erst der Blick das Tal hinab zur Calanda und dann den See hinauf Richtung St. Martin."
+      }
+    ],
+    "outro": "Fazit: Eine schöne Wanderung in dem mir völlig unbekanntem Calfeisen Tal. Den Weg alleine bis zur Alp Sardona sollte man auf Grund der Länge nicht unterschätzen, denn schon bis dort ist man zwei Stunden unterwegs. Und erst dann beginnt der eigentliche Aufstieg zur Sardonahütte. Insgesamt war aber alles harmlos und ungefährlich - abgesehen von der einen Kuhherde. Ich werde vermutlich noch einmal an einem Herbsttag dort eine Wanderung machen, um die Höhen am Südhang zu erkunden."
+  }
+]
