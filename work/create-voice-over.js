@@ -4,7 +4,7 @@ const fs = require('fs');
 
 const projectPath = 'C:/Users/Roger/web/Dp3';
 const destination = 'toggenburg';
-const reportDate = '20211120';
+const reportDate = '20220515';
 
 const client = new textToSpeech.TextToSpeechClient();
 
