@@ -3,12 +3,16 @@ const jsonfile = require('jsonfile');
 const fs = require('fs');
 
 const projectPath = 'C:/Users/Roger/web/Dp3';
-const destination = 'toggenburg';
-const reportDate = '20220515';
+const destination = 'lenzerheide';
+const reportDate = '20220625';
 
 const client = new textToSpeech.TextToSpeechClient();
 
 const pronunciations = [
+  {
+    regex: /(wegabschnitt)/gi,
+    replace: 'Weg-Abschnitt'
+  },
   {
     regex: /(oberchamm)/gi,
     replace: 'oberkamm'
