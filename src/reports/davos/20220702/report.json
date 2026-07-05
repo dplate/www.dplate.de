@@ -2,6 +2,8 @@
   {
     "destination": "davos",
     "date": "d20220702",
+    "datePublished": "2022-07-03T12:00:00+02:00",
+    "dateModified": "2026-07-05T15:00:00+02:00",
     "type": "hike",
     "track": true,
     "detailMap": "swiss",
@@ -14,8 +16,8 @@
       "width": 1920,
       "height": 500
     },
-    "movie": "azXKZpwlFvI",
-    "intro": "Dieses Jahr ist der Schnee auch im Hochgebirge Anfang Juli schon komplett weggetaut, so dass wir an diesem Samstag eine Wanderungen machen konnte, die sich ausschließlich zwischen 2000m und 2800m abspielte. Das Auto stellten wir dafür auf der Ostseite der Passhöhe auf einem der vielen Möglichkeiten entlang der Straße ab. Je nachdem wie tief man parkt, desto mehr muss man am Morgen bzw. am Abend den Wanderweg entlang der Straße hochlaufen. Die eigentliche Wanderung geht an der Bushaltestelle Schwarzhorn los.",
+    "movie": "zEVUivu9dos",
+    "intro": "In diesem Jahr war der Schnee auch im Hochgebirge Anfang Juli schon komplett weggetaut, so dass wir an einem Samstag eine Wanderung machen konnten, die sich ausschließlich zwischen 2000m und 2800m abspielte. Das Auto stellten wir dafür auf der Ostseite der Passhöhe auf einem der vielen Möglichkeiten entlang der Straße ab. Je nachdem wie tief man parkt, desto mehr muss man am Morgen bzw. am Abend den Wanderweg entlang der Straße hochlaufen. Die eigentliche Wanderung geht an der Bushaltestelle Schwarzhorn los.",
     "landmarks": [
       {
         "photos": [
@@ -63,7 +65,7 @@
             "height": 1080
           }
         ],
-        "text": "Der ausgezeichnete Weg zur Grialetschhütte geht vom Pass aus nach rechts am Hang entlang. Von einer <a href='/alpine/davos/20170801' target='_blank'>früheren Wanderung</a> wusste ich aber noch, dass er ziemlich anstrengend durch zwei Felsstürze hindurchführt. Wir gingen gingen stattdessen einen alten Weg direkt den Hang hinab - vorbei an diesem kleinen See direkt unterhalb der Fuorcla Radönt."
+        "text": "Der ausgezeichnete Weg zur Grialetschhütte geht vom Pass aus nach rechts am Hang entlang. Von einer <a href='/alpine/davos/20170801' target='_blank'>früheren Wanderung</a> wusste ich aber noch, dass er ziemlich anstrengend durch zwei Felsstürze hindurchführt. Wir gingen stattdessen einen alten Weg direkt den Hang hinab - vorbei an diesem kleinen See direkt unterhalb der Fuorcla Radönt."
       },
       {
         "photos": [
@@ -206,7 +208,7 @@
             "height": 1080
           }
         ],
-        "text": "Einziges Merkmal der Zivilisation im Tal ist die kleine Alp Grialetsch. Dort ist auch die erste Brücke über den Fluss, wir blieben aber auf Westseite."
+        "text": "Einziges Merkmal der Zivilisation im Tal ist die kleine Alp Grialetsch. Dort ist auch die erste Brücke über den Fluss, wir blieben aber auf der Westseite."
       },
       {
         "photos": [
@@ -230,7 +232,7 @@
             "height": 1080
           }
         ],
-        "text": "Pause am rauschenden Fluss um die Füße abkühlen, weil jetzt stand leider zum Schluss der Wanderung noch einmal ein Aufstieg an."
+        "text": "Pause am rauschenden Fluss um die Füße abzukühlen, weil jetzt stand leider zum Schluss der Wanderung noch einmal ein Aufstieg an."
       },
       {
         "photos": [
@@ -264,6 +266,6 @@
         "text": "Nachdem wir die Straße erreicht hatten, mussten wir noch weitere knapp 100m hochlaufen, da wir etwas weiter oben geparkt hatten. Der Weg war aber einfach und schnell erledigt."
       }
     ],
-    "outro": "Fazit: Mit 12km und 700 Höhenmetern eine schöne Wanderung im Hochgebirge. Wer sich etwas mehr beeilt, kann sie auch in 5h schaffen. Etwas ungünstig ist der schwierige Aufstieg noch ganz am Schluß - also entweder etwas Kraft aufsparen oder den Höhenweg von der Grialetschhütte zurücklaufen."
+    "outro": "Fazit: Mit 12km und 700 Höhenmetern eine schöne Wanderung im Hochgebirge. Wer sich etwas mehr beeilt, kann sie auch in 5h schaffen. Etwas ungünstig ist der schwierige Aufstieg noch ganz am Schluss - also entweder etwas Kraft aufsparen oder den Höhenweg von der Grialetschhütte zurücklaufen."
   }
 ]
