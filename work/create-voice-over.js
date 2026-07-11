@@ -3,12 +3,20 @@ const jsonfile = require('jsonfile');
 const fs = require('fs');
 
 const projectPath = 'C:/Users/Roger/web/Dp3';
-const destination = 'davos';
-const reportDate = '20220702';
+const destination = 'pizol';
+const reportDate = '20220709';
 
 const client = new textToSpeech.TextToSpeechClient();
 
 const pronunciations = [
+  {
+    regex: /(mapraggsee)/gi,
+    replace: 'Ma-pragg-see'
+  },
+  {
+    regex: /(vazer)/gi,
+    ipa: 'ˈfaːtsər'
+  },
   {
     regex: /(sarsura)/gi,
     replace: 'Sar-SU-ra'

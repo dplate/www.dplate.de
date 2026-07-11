@@ -2,6 +2,8 @@
   {
     "destination": "pizol",
     "date": "d20220709",
+    "datePublished": "2022-07-10T12:00:00+02:00",
+    "dateModified": "2026-07-11T16:00:00+02:00",
     "type": "hike",
     "track": true,
     "detailMap": "swiss",
@@ -14,8 +16,8 @@
       "width": 1920,
       "height": 452
     },
-    "movie": "mDrhrT16Uo4",
-    "intro": "Auf vielen meiner Wanderungen in Graubünden hatte ich immer wieder die Calanda im Blick, ein Gebirgsmassiv direkt westlich von Chur. Obwohl ein rot/weißer Wanderweg auf den höchsten Gipfel, die Haldensteiner Calanda, führt, hatte ich lange keine (für mich) machbare Tour planen können. Denn vom nächstgelegenen Ort Haldenstein sind es über 2000m Auf- und Abstieg und eine Zwischenübernachtung auf der Calandahütte wollte ich für den Gipfel auch nicht machen.<br />Dann habe ich aber herausgefunden, dass man von Untervaz auf gebührenpflichtiger Alpstraße bis auf 1750m hinauf zur Vazer Alp fahren darf. Von dort sind es dann nur 1100m Aufstieg zum Gipfel und damit gut machbar für eine Tagestour, die ich dann endlich letzten Samstag unternahm.",
+    "movie": "i4DorR8oGGE",
+    "intro": "Auf vielen meiner Wanderungen in Graubünden hatte ich immer wieder die Calanda im Blick, ein Gebirgsmassiv direkt westlich von Chur. Obwohl ein rot-weißer Wanderweg auf den höchsten Gipfel, die Haldensteiner Calanda führt, hatte ich lange keine für mich machbare Tour planen können. Denn vom nächstgelegenen Ort Haldenstein sind es über 2000m Auf- und Abstieg und eine Zwischenübernachtung auf der Calandahütte wollte ich für den Gipfel auch nicht machen.<br />Dann habe ich aber herausgefunden, dass man von Untervaz auf gebührenpflichtiger Alpstraße bis auf 1750m hinauf zur Vazer Alp fahren darf. Von dort sind es dann nur 1100m Aufstieg zum Gipfel und damit gut machbar für eine Tagestour, die ich dann endlich an diesem Samstag unternahm.",
     "landmarks": [
       {
         "photos": [
@@ -99,7 +101,7 @@
             "height": 779
           }
         ],
-        "text": "Nach einer kleine Kuppe konnte ich dann über Chur hinweg (hier nicht sichtbar) nach Südwesten schauen. Das Hochtal, was nach hinten/recht geht, ist die Lenzerheide."
+        "text": "Nach einer kleinen Kuppe konnte ich dann über Chur hinweg (hier nicht sichtbar) nach Südwesten schauen. Das Hochtal, was nach hinten-rechts geht, ist die Lenzerheide."
       },
       {
         "photos": [
@@ -142,7 +144,7 @@
             "height": 1080
           }
         ],
-        "text": "Auf dem nun einfachen Weg der Blick nach links zum Arosa Weisshorn in der Bildmitte. Auf den Bergen rechts davon war ich zwei Wochen zuvor vom kleinen Ort Tschiertschen aus unterwegs: <a href='/alpine/lenzerheide/20220625' target='_blank'>Wanderung Tschiertschen</a>."
+        "text": "Auf dem nun einfachen Weg der Blick nach links zum Arosa Weisshorn in der Bildmitte. Auf den Bergen rechts davon war ich zwei Wochen zuvor vom kleinen Ort Tschiertschen aus unterwegs<span data-silent>: <a href='/alpine/lenzerheide/20220625' target='_blank'>Wanderung Tschiertschen</a></span>."
       },
       {
         "photos": [
@@ -154,7 +156,7 @@
             "height": 1058
           }
         ],
-        "text": "Nach schnelle 1:15h erreichte ich die noch recht verlassene Calandahütte. Hier kann man auch eine weitere Möglichkeit für diese Calanda-Wanderung erkennen: Mit dem E-Mountainbike hinauf zur Calandahütte und dann auf den Gipfel weiter zu Fuß. Das machten im Laufe des Tages einige."
+        "text": "Nach schneller 1 Stunde und 15 Minuten erreichte ich die noch recht verlassene Calandahütte. Hier kann man auch eine weitere Möglichkeit für diese Calanda-Wanderung erkennen: Mit dem E-Mountainbike hinauf zur Calandahütte und dann auf den Gipfel weiter zu Fuß. Das machten im Laufe des Tages einige."
       },
       {
         "photos": [
@@ -281,7 +283,7 @@
             "height": 1080
           }
         ],
-        "text": "Nach 1:30h von der Calandahütte aus erreichte ich den 2700m hohen Gipfelgrat. Dort kommt auch ein blauer Alpinweg vom Taminatal hinzu, deshalb macht der Wegweiser hier Sinn."
+        "text": "Nach einer Stunde und 30 Minuten von der Calandahütte aus erreichte ich den 2700m hohen Gipfelgrat. Dort kommt auch ein blauer Alpinweg vom Taminatal hinzu, deshalb macht der Wegweiser hier Sinn."
       },
       {
         "photos": [
@@ -384,7 +386,7 @@
             "height": 841
           }
         ],
-        "text": "Zeit für eine aussichtsreiche Pause. Der Gipfel bietet zwar nicht viel Platz, aber mit mir waren nur vier andere auf dem Gipfel.<br />Hier der Blick nach Süden. Rechts das Taminatal, das hinten über den Kunkelspass mit dem Rheintal verbunden ist. Links ist der Grat des Aufstiegs zu sehen. Dahinter die Felsberger Calanda, der zweite Gipfel der Calanda."
+        "text": "Zeit für eine aussichtsreiche Pause. Der Gipfel bietet zwar nicht viel Platz, aber mit mir waren nur vier andere auf dem Gipfel.<br />Hier der Blick nach Süden. Rechts das Taminatal, das hinten über den Kunkels-Pass mit dem Rheintal verbunden ist. Links ist der Grat des Aufstiegs zu sehen. Dahinter die Felsberger Calanda, der zweite Gipfel der Calanda."
       },
       {
         "photos": [
@@ -408,13 +410,13 @@
             "height": 1080
           }
         ],
-        "text": "Noch einer der Tiefblick nach Norden ins Taminatal, in dem sich der türkise Mapraggsee befindet. Diese Seite des Gipfels war richtig steil... aber eigentlich ging es in alle Richtungen steil hinab."
+        "text": "Noch einmal der Tiefblick nach Norden ins Taminatal, in dem sich der türkise Mapraggsee befindet. Diese Seite des Gipfels war richtig steil... aber eigentlich ging es in alle Richtungen steil hinab."
       },
       {
         "photos": [
           {
             "name": "035",
-            "alt": "Fernlick Calanda",
+            "alt": "Fernblick Calanda",
             "date": "2022-07-09T11:37:38.000+02:00",
             "width": 1785,
             "height": 1080
@@ -432,7 +434,7 @@
             "height": 1080
           }
         ],
-        "text": "Fehlt eigentlich nur noch Nord/Ost, wo der Grat der Calanda aus schroffem steilen Fels besteht. Hinten links der <a href='/alpine/praettigau/20180908' target='_blank'>Falknis</a>."
+        "text": "Fehlt eigentlich nur noch Nord-Ost, wo der Grat der Calanda aus schroffem steilen Fels besteht. Hinten links der <a href='/alpine/praettigau/20180908' target='_blank'>Falknis</a>."
       },
       {
         "photos": [
@@ -564,7 +566,7 @@
             "height": 669
           }
         ],
-        "text": "Ansonsten war der Umweg nach Süden nicht lohnen, da er auf dem Zufahrtsweg zur Calandahütte hinabging. Aber wenn ich ihn nicht gegangen wäre, hätte ich nicht das Kreuz auf dem grünen Buckel hier rechts entdeckt. Auf der Karte war dieser Punkt mit `Sennenstein` benannt. Obwohl kein Weg dorthin führt, entschloss ich noch einen Abstecher dorthin zu machen."
+        "text": "Ansonsten war der Umweg nach Süden nicht lohnend, da er auf dem Zufahrtsweg zur Calandahütte hinabging. Aber wenn ich ihn nicht gegangen wäre, hätte ich nicht das Kreuz auf dem grünen Buckel hier rechts entdeckt. Auf der Karte war dieser Punkt mit 'Sennenstein' benannt. Obwohl kein Weg hin führt, entschloss ich noch einen Abstecher dorthin zu machen."
       },
       {
         "photos": [
@@ -636,7 +638,7 @@
             "height": 1080
           }
         ],
-        "text": "Nun musste ich ein Stück auf gleichem Weg zurück und auch wieder etwas hochlaufen bis zu diesem Wegweiser. Hier wäre ich eigentlich auf den Weg getroffen, wenn ich normal von der Cladanahütte zurückgelaufen wären.<br />Im Hintergrund wieder die Haldensteiner Calanda."
+        "text": "Nun musste ich ein Stück auf gleichem Weg zurück und auch wieder etwas hochlaufen bis zu diesem Wegweiser. Hier wäre ich eigentlich auf den Weg getroffen, wenn ich normal von der Calandahütte zurückgelaufen wären.<br />Im Hintergrund wieder die Haldensteiner Calanda."
       },
       {
         "photos": [
