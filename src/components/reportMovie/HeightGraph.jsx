@@ -1,119 +1,6 @@
 import React, { useEffect, useState, useMemo } from 'react';
 import PropTypes from 'prop-types';
-import styled from 'styled-components';
-
-const Container = styled.div.attrs(({ $opacity }) => ({
-  style: { opacity: $opacity }
-}))`
-  position: fixed;
-  bottom: 3vh;
-  height: 20vh;
-  width: 75vw;
-  left: 50%;
-  transform: translate(-50%, 0);
-  z-index: 4;
-  transition: opacity 1s ease-in-out;
-  background-color: #ffffee;
-  border-radius: 10px;
-  box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.3);
-`;
-
-const HeightLabel = styled.div.attrs(({ $y }) => ({
-  style: { top: `calc(${$y} * 100%)` }
-}))`
-  position: absolute;
-  color: black;
-  opacity: 0.8;
-  left: 1.3%;
-  transform: translate(0, -50%);
-  font-size: 1.2vw;
-`;
-
-const DistanceLabel = styled.div.attrs(({ $x }) => ({
-  style: { left: `calc(${$x} * 100%)` }
-}))`
-  position: absolute;
-  color: black;
-  opacity: 0.8;
-  bottom: 3%;
-  transform: translate(-50%, 0);
-  font-size: 2.1vh;
-  line-height: 1.4;
-`;
-
-const CurrentPointContainer = styled.div.attrs(({ $x = 0, $y = 0 }) => ({
-  style: {
-    transform: `translate(${$x * 100}%, ${$y * 100}%)`
-  }
-}))`
-  position: absolute;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-`;
-
-const CurrentHeightLine = styled.div.attrs(({ $x }) => ({
-  style: {
-    right: `${100 - $x * 100}%`
-  }
-}))`
-  position: absolute;
-  height: 2px;
-  top: 0;
-  left: 6%;
-  transform: translate(0, -50%);
-  background-color: darkred;
-`;
-
-const CurrentHeightLabel = styled.div`
-  position: absolute;
-  left: 0.7%;
-  top: 0;
-  width: 5.7%;
-  padding: 0 0.6% 0 0;
-  transform: translate(0, -50%);
-  background-color: darkred;
-  font-size: 1.2vw;
-  border-radius: 4px;
-  text-align: right;
-`;
-
-const CurrentDistanceLine = styled.div.attrs(({ $y }) => ({
-  style: {
-    top: `${$y * 100}%`
-  }
-}))`
-  position: absolute;
-  width: 2px;
-  left: 0;
-  bottom: 15%;
-  transform: translate(-50%, 0);
-  background-color: darkred;
-`;
-
-const CurrentDistanceLabel = styled.div`
-  position: absolute;
-  bottom: 3%;
-  left: 0;
-  padding: 0 0.6% 0 0.6%;
-  transform: translate(-50%, 0);
-  background-color: darkred;
-  font-size: 2.1vh;
-  line-height: 1.4;
-  border-radius: 4px;
-`;
-
-const CurrentDot = styled.div`
-  position: absolute;
-  left: 0;
-  top: 0;
-  height: 15px;
-  width: 15px;
-  border-radius: 15px;
-  transform: translate(-50%, -50%);
-  background-color: darkred;
-`;
+import styles from './HeightGraph.module.css';
 
 const flattenHeightSpikes = (points) => {
   return points.map((point, index) => {
@@ -289,9 +176,9 @@ const renderHeightLabels = (trackData, gap) => {
     }
     const y = heightToGraph(trackData, height);
     elements.push(
-      <HeightLabel key={`main_${height}_height_label`} $y={y}>
+      <div key={`main_${height}_height_label`} className={styles.heightLabel} style={{ top: `calc(${y} * 100%)` }}>
         {formatHeight(height)}
-      </HeightLabel>
+      </div>
     );
   }
   return elements;
@@ -302,9 +189,9 @@ const renderDistanceLabels = (trackData, gap) => {
   for (let distance = 0; distance < trackData.maxDistance; distance += gap) {
     const x = distanceToGraph(trackData, distance);
     elements.push(
-      <DistanceLabel key={`main_${distance}_distance_label`} $x={x}>
+      <div key={`main_${distance}_distance_label`} className={styles.distanceLabel} style={{ left: `calc(${x} * 100%)` }}>
         {formatDistance(distance)}
-      </DistanceLabel>
+      </div>
     );
   }
   return elements;
@@ -315,21 +202,21 @@ const CurrentPoint = ({ trackData, currentPoint }) => {
   const y = heightToGraph(trackData, currentPoint.height);
   return (
     <>
-      <CurrentPointContainer $y={y}>
-        <CurrentHeightLine $x={x} />
-      </CurrentPointContainer>
-      <CurrentPointContainer $y={y}>
-        <CurrentHeightLabel>{formatHeight(currentPoint.height)}</CurrentHeightLabel>
-      </CurrentPointContainer>
-      <CurrentPointContainer $x={x}>
-        <CurrentDistanceLine $y={y} />
-      </CurrentPointContainer>
-      <CurrentPointContainer $x={x}>
-        <CurrentDistanceLabel>{formatDistance(currentPoint.distance)}</CurrentDistanceLabel>
-      </CurrentPointContainer>
-      <CurrentPointContainer $x={x} $y={y}>
-        <CurrentDot />
-      </CurrentPointContainer>
+      <div className={styles.currentPointContainer} style={{ transform: `translate(0%, ${y * 100}%)` }}>
+        <div className={styles.currentHeightLine} style={{ right: `${100 - x * 100}%` }} />
+      </div>
+      <div className={styles.currentPointContainer} style={{ transform: `translate(0%, ${y * 100}%)` }}>
+        <div className={styles.currentHeightLabel}>{formatHeight(currentPoint.height)}</div>
+      </div>
+      <div className={styles.currentPointContainer} style={{ transform: `translate(${x * 100}%, 0%)` }}>
+        <div className={styles.currentDistanceLine} style={{ top: `${y * 100}%` }} />
+      </div>
+      <div className={styles.currentPointContainer} style={{ transform: `translate(${x * 100}%, 0%)` }}>
+        <div className={styles.currentDistanceLabel}>{formatDistance(currentPoint.distance)}</div>
+      </div>
+      <div className={styles.currentPointContainer} style={{ transform: `translate(${x * 100}%, ${y * 100}%)` }}>
+        <div className={styles.currentDot} />
+      </div>
     </>
   );
 };
@@ -371,14 +258,14 @@ const HeightGraph = (props) => {
   }
 
   return (
-    <Container $opacity={props.visible ? 0.9 : 0.0}>
+    <div className={styles.container} style={{ opacity: props.visible ? 0.9 : 0.0 }}>
       <Graph trackData={trackData} />
       {[
         ...renderHeightLabels(trackData, trackData.heightGaps.main),
         ...renderDistanceLabels(trackData, trackData.distanceGaps.main)
       ]}
       <CurrentPoint trackData={trackData} currentPoint={currentPoint} />
-    </Container>
+    </div>
   );
 };
 

@@ -1,0 +1,29 @@
+.wrapper {
+  position: relative;
+  overflow: hidden;
+  line-height: 0;
+  margin-bottom: 10px;
+}
+
+.background {
+  position: relative;
+  max-width: 100%;
+  height: auto;
+}
+
+.title {
+  position: absolute;
+  left: 3cqw;
+  right: 3cqw;
+  line-height: initial;
+  text-shadow: 2px 2px 4px #000000;
+  opacity: 0.9;
+}
+
+.foreground {
+  position: absolute;
+  top: 0;
+  left: 0;
+  max-width: 100%;
+  height: auto;
+}

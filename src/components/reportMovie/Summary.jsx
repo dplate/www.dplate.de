@@ -1,60 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import styled from 'styled-components';
+import styles from './Summary.module.css';
 
-const SummaryContainer = styled.div.attrs(({ $opacity }) => ({
-  style: { opacity: $opacity }
-}))`
-  position: absolute;
-  z-index: 6;
-  font-size: 2vw;
-  color: #a0a0a0;
-  line-height: 1.1;
-  transition: opacity 5s ease-in-out;
-`;
-
-const Duration = styled.div`
-  position: fixed;
-  left: 5vw;
-  top: 5vh;
-`;
-
-const Distance = styled.div`
-  position: fixed;
-  right: 5vw;
-  top: 5vh;
-  text-align: right;
-`;
-
-const Height = styled.div`
-  position: fixed;
-  left: 5vw;
-  bottom: 5vh;
-`;
-
-const Time = styled.div`
-  position: fixed;
-  right: 5vw;
-  bottom: 5vh;
-  text-align: right;
-`;
-
-const ValueLeft = styled.span`
-  display: inline-block;
-  width: 14vw;
-  padding-right: 2vw;
-  font-size: 4vw;
-  color: #ffffff;
-  text-align: right;
-`;
-
-const ValueRight = styled.span`
-  display: inline-block;
-  width: 12vw;
-  font-size: 4vw;
-  color: #ffffff;
-  text-align: right;
-`;
 
 const formatDuration = (duration) => {
   const minutes = duration / (60 * 1000);
@@ -83,27 +30,27 @@ const Summary = ({ visible, track }) => {
     return null;
   }
   return (
-    <SummaryContainer $opacity={visible ? 1 : 0}>
-      <Duration>
-        <ValueLeft>{formatDuration(track.maxWalkDuration)}</ValueLeft> Gehzeit
+    <div className={styles.summaryContainer} style={{ opacity: visible ? 1 : 0 }}>
+      <div className={styles.duration}>
+        <span className={styles.valueLeft}>{formatDuration(track.maxWalkDuration)}</span> Gehzeit
         <br />
-      </Duration>
-      <Distance>
-        Gehstrecke <ValueRight>{formatDistance(track.maxWalkDistance)}</ValueRight>
+      </div>
+      <div className={styles.distance}>
+        Gehstrecke <span className={styles.valueRight}>{formatDistance(track.maxWalkDistance)}</span>
         <br />
-      </Distance>
-      <Height>
-        <ValueLeft>{formatHeight(track.maxWalkUp)}</ValueLeft> Aufstieg
+      </div>
+      <div className={styles.height}>
+        <span className={styles.valueLeft}>{formatHeight(track.maxWalkUp)}</span> Aufstieg
         <br />
-        <ValueLeft>{formatHeight(track.maxWalkDown)}</ValueLeft> Abstieg
+        <span className={styles.valueLeft}>{formatHeight(track.maxWalkDown)}</span> Abstieg
         <br />
-      </Height>
-      <Time>
-        Startzeit <ValueRight>{formatTime(track.startTime)}</ValueRight>
+      </div>
+      <div className={styles.time}>
+        Startzeit <span className={styles.valueRight}>{formatTime(track.startTime)}</span>
         <br />
-        Zielzeit <ValueRight>{formatTime(track.stopTime)}</ValueRight>
-      </Time>
-    </SummaryContainer>
+        Zielzeit <span className={styles.valueRight}>{formatTime(track.stopTime)}</span>
+      </div>
+    </div>
   );
 };
 

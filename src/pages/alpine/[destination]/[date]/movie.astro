@@ -1,0 +1,63 @@
+---
+import PageReportMovie from '../../../../components/PageReportMovie.jsx';
+import { getReports, getDestinations } from '../../../../utils/dataLoader.js';
+
+export async function getStaticPaths() {
+  const destinations = getDestinations();
+  const reports = getReports();
+
+  // Filter reports that have tracks (movie only works with tracks)
+  const movieReports = reports.filter((r) => r.track === true);
+
+  return movieReports.map((report) => {
+    const dest = destinations.find((d) => d.destination === report.destination);
+    return {
+      params: {
+        destination: report.destination,
+        date: report.date.substring(1),
+      },
+      props: {
+        reportData: report,
+        destinationData: dest || { name: report.destination },
+      },
+    };
+  });
+}
+
+const { reportData, destinationData } = Astro.props;
+
+const data = {
+  reportJson: reportData,
+  destinationJson: destinationData,
+};
+
+const getReportPath = (destination: string, date: string) => {
+  return '/' + destination + '/' + date.substring(1);
+};
+const reportPath = getReportPath(reportData.destination, reportData.date);
+---
+<html lang="de-de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex" />
+    <link rel="canonical" href={`https://www.dplate.de/alpine${reportPath}`} />
+    <title>{reportData.title} Movie</title>
+    <style is:inline>
+      * {
+        margin: 0;
+        padding: 0;
+      }
+      body {
+        margin: 0;
+        font-family: "Trebuchet MS", Helvetica, sans-serif;
+        line-height: 1.5;
+        background-color: black;
+        overflow: hidden;
+      }
+    </style>
+  </head>
+  <body>
+    <PageReportMovie client:only="react" data={data} />
+  </body>
+</html>

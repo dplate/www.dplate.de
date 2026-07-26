@@ -1,7 +1,6 @@
 import React, { useMemo, useEffect, useRef, useState, useCallback } from 'react';
-import { withPrefix } from 'gatsby';
 import PropTypes from 'prop-types';
-import styled from 'styled-components';
+import styles from './map.module.css';
 import {
   ArcGisBaseMapType,
   ArcGisMapServerImageryProvider,
@@ -37,50 +36,10 @@ import {
   WebMapTileServiceImageryProvider
 } from 'cesium';
 
+window.CESIUM_BASE_URL = '/Cesium/';
+
 Ion.defaultAccessToken =
   'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIwZWE0NjYxMC0yY2Y1LTRmZmItODI1My1iMmRiYTU4NTMyYzEiLCJpZCI6MTgxMSwiYXNzZXRzIjpbMiwxXSwiaWF0IjoxNTMwMjA0NDI1fQ.OnhSNAVYfbQ2mBqo9QXF_-VSo_UIPt2Hw1FgvSID1Nk';
-
-const CesiumContainer = styled.div`
-  position: fixed;
-  z-index: 3;
-  font-size: 8px;
-  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.75);
-  cursor: all-scroll;
-
-  .cesium-credit-logoContainer img {
-    max-width: 5vw;
-  }
-
-  .cesium-viewer-bottom {
-    bottom: 3px !important;
-  }
-
-  &.wait {
-    cursor: wait;
-  }
-
-  &.teaser {
-    right: 5px;
-    bottom: 5px;
-    height: 30vh;
-    width: 30vw;
-  }
-
-  &.fullscreen {
-    left: 0;
-    top: 0;
-    height: 100%;
-    width: 100%;
-
-    .cesium-viewer-bottom {
-      right: 40px;
-    }
-  }
-
-  &.icon {
-    display: none;
-  }
-`;
 
 const cameraDistance = 500;
 
@@ -634,11 +593,11 @@ const Map = (props) => {
 
   return (
     <div>
-      <link href={withPrefix('Cesium/Widgets/widgets.css')} rel="stylesheet" type="text/css" />
-      <CesiumContainer
+      <link href="/Cesium/Widgets/widgets.css" rel="stylesheet" type="text/css" />
+      <div
         id="cesiumContainer"
         key="cesiumContainer"
-        className={props.size + ' ' + mapStatus}
+        className={`${styles.cesiumContainer} ${props.size} ${mapStatus}`}
         onClick={props.onClick}
       />
     </div>

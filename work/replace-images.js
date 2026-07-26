@@ -95,7 +95,7 @@ const replacePhotos = async (destination, date, srcPhotosPath, landmarks) => {
 
   const landmarkPromises = landmarks.map(async (landmark) => {
     const photoPromises = landmark.photos.map(async (photo) => {
-      const oldPhotoPath = './static/photos/' + destination + '/' + date + '/' + photo.name + '.jpg';
+      const oldPhotoPath = './public/photos/' + destination + '/' + date + '/' + photo.name + '.jpg';
       let srcPhotoPath = await compare(oldPhotoPath, srcPhotoPaths);
       let newPhotoName;
       if (srcPhotoPath) {
@@ -104,7 +104,7 @@ const replacePhotos = async (destination, date, srcPhotosPath, landmarks) => {
         newPhotoName = 'track' + trackPhotoCounter++;
         srcPhotoPath = oldPhotoPath;
       }
-      const newPhotoPath = './static/photos/' + destination + '/' + date + '/' + newPhotoName + '.jpg';
+      const newPhotoPath = './public/photos/' + destination + '/' + date + '/' + newPhotoName + '.jpg';
       console.log(srcPhotoPath, newPhotoPath);
       await writeNewPhoto(srcPhotoPath, newPhotoPath);
       return {
@@ -121,7 +121,7 @@ const replacePhotos = async (destination, date, srcPhotosPath, landmarks) => {
 const copyTrack = (destination, date, srcPhotosPath) => {
   const srcTrackFile = srcPhotosPath + '/' + date + '.gpx';
   if (fs.existsSync(srcTrackFile)) {
-    const destTrackPath = './static/tracks/' + destination;
+    const destTrackPath = './public/tracks/' + destination;
     const destTrackFile = destTrackPath + '/' + date + '.gpx';
     try {
       fs.mkdirSync(destTrackPath);

@@ -1,27 +1,15 @@
 import Title3D from './Title3d.jsx';
 import React from 'react';
 import PropTypes from 'prop-types';
-import styled from 'styled-components';
 import { animated, useSpring } from 'react-spring';
-
-const Container = styled.div.attrs(({ $movePercent }) => ({
-  style: { transform: `translate(0, -${$movePercent}%)` }
-}))`
-  position: fixed;
-  top: 0;
-  width: 100vw;
-  z-index: 6;
-
-  > h1 {
-    text-align: center;
-    font-size: 100px;
-    margin: 200px 50px 0 50px;
-  }
-`;
+import styles from './animatedtitle.module.css';
 
 const MovingTitle = ({ movePercent, reportPath, title, title3d }) => {
   return (
-    <Container $movePercent={movePercent}>
+    <animated.div
+      className={styles.container}
+      style={{ transform: movePercent.to((p) => `translate(0, -${p}%)`) }}
+    >
       {title3d ? (
         <Title3D
           reportPath={reportPath}
@@ -36,7 +24,7 @@ const MovingTitle = ({ movePercent, reportPath, title, title3d }) => {
       ) : (
         <h1>{title}</h1>
       )}
-    </Container>
+    </animated.div>
   );
 };
 
@@ -45,8 +33,7 @@ const AnimatedTitle = ({ reportPath, title, title3d, visible = true }) => {
     config: { duration: 5000 },
     movePercent: visible ? 0 : 120
   });
-  const AnimatedTitleContainer = animated(MovingTitle);
-  return <AnimatedTitleContainer movePercent={movePercent} reportPath={reportPath} title={title} title3d={title3d} />;
+  return <MovingTitle movePercent={movePercent} reportPath={reportPath} title={title} title3d={title3d} />;
 };
 
 AnimatedTitle.propTypes = {

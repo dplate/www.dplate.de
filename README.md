@@ -1,4 +1,4 @@
-# www.dplate.de - Website
+(Get-Item test.pack).Length# www.dplate.de - Website
 
 ### Used color scheme
 

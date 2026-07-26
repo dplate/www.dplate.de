@@ -1,6 +1,4 @@
-import { Cartesian3, JulianDate } from 'cesium';
-
-const parseGpxRaw = (gpxRaw) => {
+const parseGpxRaw = (gpxRaw, { Cartesian3, JulianDate }) => {
   const track = {
     startTime: null,
     stopTime: null,
@@ -110,9 +108,10 @@ const interpretTrack = (track) => {
 };
 
 const loadTrack = async (reportPath) => {
+  const cesium = await import('cesium');
   const response = await fetch('/tracks' + reportPath + '.gpx');
   const gpxRaw = await response.text();
-  const track = parseGpxRaw(gpxRaw);
+  const track = parseGpxRaw(gpxRaw, cesium);
   return interpretTrack(track);
 };
 

@@ -1,0 +1,21 @@
+.flexContainer {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-start;
+}
+
+.flexCard {
+  flex-basis: 300px;
+}
+
+.flexCard a {
+  display: block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 300px;
+}
+
+.title {
+  max-width: 664px;
+}

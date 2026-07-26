@@ -1,0 +1,79 @@
+---
+import LayoutReact from '../components/Layout.jsx';
+import { getDestinations, getMenuData, getReports } from '../utils/dataLoader.js';
+
+interface Props {
+  title: string;
+}
+
+const { title } = Astro.props;
+const currentPath = Astro.url.pathname;
+
+const reports = getReports();
+const destinations = getDestinations();
+const menuData = getMenuData(reports, destinations, currentPath);
+---
+<html lang="de-de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="index, follow, max-image-preview:large" />
+    <meta name="language" content="de" />
+    <link rel="icon" href="/favicon.ico" />
+    <link rel="manifest" href="/manifest.json" />
+    <meta name="theme-color" content="#9EC1A3" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="application-name" content="www.dplate.de" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="www.dplate.de" />
+    <link rel="apple-touch-icon" href="/icon-48x48.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="/icon-72x72.png" />
+    <link rel="apple-touch-icon" sizes="96x96" href="/icon-96x96.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="/icon-144x144.png" />
+    <link rel="apple-touch-icon" sizes="192x192" href="/icon-192x192.png" />
+    <meta name="msapplication-TileImage" content="/icon-144x144.png" />
+    <meta name="msapplication-TileColor" content="#9EC1A3" />
+    <meta name="msapplication-tap-highlight" content="no" />
+    <title>{title}</title>
+    <style is:inline>
+      * {
+        margin: 0;
+        padding: 0;
+      }
+      body {
+        margin: 0;
+        font-family: "Trebuchet MS", Helvetica, sans-serif;
+        line-height: 1.5;
+        background-color: #1F363D;
+      }
+    </style>
+    <script is:inline>
+      const googleTagId = 'G-Z27P6YLYRT';
+      const disabled =
+        navigator.doNotTrack === '1' ||
+        window.doNotTrack === '1' ||
+        navigator.msDoNotTrack === '1' ||
+        document.cookie.includes('ga-opt-out=true');
+      if (!disabled) {
+        const s = document.createElement('script');
+        s.async = true;
+        s.src = `https://www.googletagmanager.com/gtag/js?id=${googleTagId}`;
+        document.head.appendChild(s);
+      }
+
+      window.dataLayer = window.dataLayer || [];
+      window.gtag = function () {
+        window.dataLayer.push(arguments);
+      };
+      window.gtag('js', new Date());
+      window.gtag('config', googleTagId, { anonymize_ip: true });
+    </script>
+    <slot name="head" />
+  </head>
+  <body>
+    <LayoutReact client:load menuData={menuData} location={{ pathname: currentPath }}>
+      <slot />
+    </LayoutReact>
+  </body>
+</html>

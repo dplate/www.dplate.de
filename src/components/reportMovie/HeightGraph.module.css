@@ -1,0 +1,94 @@
+.container {
+  position: fixed;
+  bottom: 3vh;
+  height: 20vh;
+  width: 75vw;
+  left: 50%;
+  transform: translate(-50%, 0);
+  z-index: 4;
+  transition: opacity 1s ease-in-out;
+  background-color: #ffffee;
+  border-radius: 10px;
+  box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.3);
+}
+
+.heightLabel {
+  position: absolute;
+  color: black;
+  opacity: 0.8;
+  left: 1.3%;
+  transform: translate(0, -50%);
+  font-size: 1.2vw;
+}
+
+.distanceLabel {
+  position: absolute;
+  color: black;
+  opacity: 0.8;
+  bottom: 3%;
+  transform: translate(-50%, 0);
+  font-size: 2.1vh;
+  line-height: 1.4;
+}
+
+.currentPointContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+.currentHeightLine {
+  position: absolute;
+  height: 2px;
+  top: 0;
+  left: 6%;
+  transform: translate(0, -50%);
+  background-color: darkred;
+}
+
+.currentHeightLabel {
+  position: absolute;
+  left: 0.7%;
+  top: 0;
+  width: 5.7%;
+  padding: 0 0.6% 0 0;
+  transform: translate(0, -50%);
+  background-color: darkred;
+  font-size: 1.2vw;
+  border-radius: 4px;
+  text-align: right;
+}
+
+.currentDistanceLine {
+  position: absolute;
+  width: 2px;
+  left: 0;
+  bottom: 15%;
+  transform: translate(-50%, 0);
+  background-color: darkred;
+}
+
+.currentDistanceLabel {
+  position: absolute;
+  bottom: 3%;
+  left: 0;
+  padding: 0 0.6% 0 0.6%;
+  transform: translate(-50%, 0);
+  background-color: darkred;
+  font-size: 2.1vh;
+  line-height: 1.4;
+  border-radius: 4px;
+}
+
+.currentDot {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 15px;
+  width: 15px;
+  border-radius: 15px;
+  transform: translate(-50%, -50%);
+  background-color: darkred;
+}

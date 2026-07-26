@@ -1,39 +1,6 @@
 import React, { Fragment } from 'react';
 import PropTypes from 'prop-types';
-import styled from 'styled-components';
-
-const Photo = styled.img.attrs(({ $opacity }) => ({
-  style: { opacity: $opacity }
-}))`
-  position: fixed;
-  display: block;
-  box-shadow: 0 0 400px 200px black;
-  z-index: 5;
-  max-width: 100%;
-  max-height: 100%;
-  top: 50%;
-  left: 50%;
-  margin-right: -50%;
-  transform: translate(-50%, -50%);
-  transition: opacity 0.5s ease-in-out;
-`;
-
-const Label = styled.div.attrs(({ $offsetY }) => ({
-  style: {
-    top: `calc(100% - ${$offsetY}px)`
-  }
-}))`
-  position: fixed;
-  display: block;
-  z-index: 6;
-  max-width: 100%;
-  left: 50%;
-  margin-right: -50%;
-  transform: translate(-50%, 0);
-  font-size: 50px;
-  text-shadow: 0 0 4px black;
-  transition: top 1.5s ease-in-out;
-`;
+import styles from './Photos.module.css';
 
 const renderPhoto = (reportPath, visiblePhotoName, photo, index) => {
   const fileName = photo.name;
@@ -43,8 +10,16 @@ const renderPhoto = (reportPath, visiblePhotoName, photo, index) => {
   const offsetY = isShown ? 100 : -100;
   return (
     <Fragment key={index}>
-      <Photo id={fileName} src={photoPath} alt={photo.alt} $opacity={opacity} />
-      <Label $offsetY={offsetY}>{photo.alt}</Label>
+      <img
+        id={fileName}
+        className={styles.photo}
+        src={photoPath}
+        alt={photo.alt}
+        style={{ opacity }}
+      />
+      <div className={styles.label} style={{ top: `calc(100% - ${offsetY}px)` }}>
+        {photo.alt}
+      </div>
     </Fragment>
   );
 };

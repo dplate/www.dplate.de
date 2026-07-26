@@ -1,0 +1,41 @@
+.cesiumContainer {
+  position: fixed;
+  z-index: 3;
+  font-size: 8px;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.75);
+  cursor: all-scroll;
+}
+
+.cesiumContainer :global(.cesium-credit-logoContainer) img {
+  max-width: 5vw;
+}
+
+.cesiumContainer :global(.cesium-viewer-bottom) {
+  bottom: 3px !important;
+}
+
+.cesiumContainer:global(.wait) {
+  cursor: wait;
+}
+
+.cesiumContainer:global(.teaser) {
+  right: 5px;
+  bottom: 5px;
+  height: 30vh;
+  width: 30vw;
+}
+
+.cesiumContainer:global(.fullscreen) {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.cesiumContainer:global(.fullscreen) :global(.cesium-viewer-bottom) {
+  right: 40px;
+}
+
+.cesiumContainer:global(.icon) {
+  display: none;
+}

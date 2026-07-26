@@ -1,0 +1,61 @@
+.background {
+  position: fixed;
+  z-index: 3;
+  top: 0;
+  left: 250px;
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  opacity: 0.5;
+  cursor: pointer;
+}
+
+.menuLayer {
+  position: fixed;
+  display: block;
+  z-index: 3;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 250px;
+  background-color: #9ec1a3;
+  overflow: auto;
+}
+
+.itemList {
+  list-style-type: none;
+  padding-left: 10px;
+}
+
+.itemList li {
+  padding-top: 5px;
+}
+
+.itemList li a {
+  display: block;
+  text-decoration: none;
+  color: black;
+  padding: 5px;
+}
+
+.itemList li a:hover {
+  background-color: #8eb193;
+}
+
+.itemList li > div > div {
+  cursor: pointer;
+  padding: 5px;
+}
+
+.itemList li > div > div:hover {
+  background-color: #8eb193;
+}
+
+.itemList :global(.selected) {
+  font-weight: bold;
+}
+
+.itemDate {
+  font-style: italic;
+  font-size: 12px;
+}

@@ -1,0 +1,141 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import PageReport from '../../../components/PageReport.jsx';
+import { getReports, getDestinations } from '../../../utils/dataLoader.js';
+
+export async function getStaticPaths() {
+  const destinations = getDestinations();
+  const reports = getReports();
+
+  return reports.map((report) => {
+    const dest = destinations.find((d) => d.destination === report.destination);
+    return {
+      params: {
+        destination: report.destination,
+        date: report.date.substring(1),
+      },
+      props: {
+        reportData: report,
+        destinationData: dest || { name: report.destination },
+      },
+    };
+  });
+}
+
+const { reportData, destinationData } = Astro.props;
+
+// Build data structure for PageReport
+const data = {
+  reportJson: reportData,
+  destinationJson: destinationData,
+};
+
+const getReportPath = (destination: string, date: string) => {
+  return '/' + destination + '/' + date.substring(1);
+};
+
+const buildPageTitle = (title: string, type: string) => {
+  if (type === 'hike') {
+    return `⛰ ${title} Wanderung`;
+  }
+  if (type === 'winterHike') {
+    return `⛰ ${title} Winterwanderung`;
+  }
+  return `⛷ ${title} Skigebiet`;
+};
+
+const buildPageDescription = (destinationName: string, title: string, type: string, date: string) => {
+  const monthNumber = date.substring(5, 7);
+  const months = [
+    'Januar', 'Februar', 'März', 'April', 'Mai', 'Juni',
+    'Juli', 'August', 'September', 'Oktober', 'November', 'Dezember'
+  ];
+  const monthName = months[parseInt(monthNumber, 10) - 1];
+  if (type === 'hike' || type === 'winterHike') {
+    return `${destinationName} Wanderung: ${title} im ${monthName} mit Fotos, Wegbeschreibung und Wanderkarte`;
+  }
+  return `Skigebiet ${title} im ${monthName} mit Fotos, Pistenplan, Schneeverhältnissen und Beschreibung der Abfahrten`;
+};
+
+const pageTitle = buildPageTitle(reportData.title, reportData.type);
+const pageDescription = buildPageDescription(destinationData.name, reportData.title, reportData.type, reportData.date);
+const reportPath = getReportPath(reportData.destination, reportData.date);
+const pageUrl = `https://www.dplate.de/alpine${reportPath}`;
+
+const allLandscapePhotos = (reportData.landmarks || [])
+  .reduce((photos: any, landmark: { photos: any; }) => [...photos, ...(landmark.photos || [])], [])
+  .filter((photo: { width: number; height: number; }) => photo.width > photo.height);
+
+const selectedPhotos = allLandscapePhotos.length > 0 ? [
+  allLandscapePhotos[Math.round(allLandscapePhotos.length * 0.5)] || allLandscapePhotos[0],
+  allLandscapePhotos[Math.round(allLandscapePhotos.length * 0.3)] || allLandscapePhotos[0],
+  allLandscapePhotos[Math.round(allLandscapePhotos.length * 0.7)] || allLandscapePhotos[0]
+] : [{ name: 'default', alt: 'default', date: '2020-01-01', width: 800, height: 600 }];
+
+const photoUrls = selectedPhotos.map((photo) => {
+  if (photo.name === 'default') return 'https://www.dplate.de/assets/alpinfunk.png';
+  const fileName = photo.alt ? photo.alt.split(' ').join('-').toLowerCase() + '_' + photo.name : photo.name;
+  return 'https://www.dplate.de/photos' + reportPath + '/' + fileName + '.jpg';
+});
+
+const datePublishedWithFallback =
+  reportData.datePublished || selectedPhotos[0].date || reportData.date.substring(1, 5) + '-' + reportData.date.substring(5, 7) + '-' + reportData.date.substring(7, 9);
+
+const hike = reportData.type === 'hike' || reportData.type === 'winterHike';
+
+const schema = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: pageTitle,
+  description: pageDescription,
+  image: photoUrls,
+  datePublished: datePublishedWithFallback,
+  dateModified: reportData.dateModified || datePublishedWithFallback,
+  author: {
+    '@type': 'Person',
+    name: 'Dirk Plate',
+    url: 'https://www.dplate.de'
+  },
+  publisher: {
+    '@type': 'Organization',
+    name: 'AlpinFunk',
+    url: 'https://www.dplate.de',
+    logo: {
+      '@type': 'ImageObject',
+      url: 'https://www.dplate.de/assets/alpinfunk.png'
+    }
+  },
+  mainEntityOfPage: pageUrl,
+  articleSection: `${hike ? 'Wandern' : 'Skifahren'}, ${destinationData.name}`,
+  keywords:
+    `${reportData.shortTitle},${destinationData.name},Alpen,` +
+    `${
+      hike
+        ? 'Wanderung,Wandern,Bergsteigen,Wegbeschreibung,Rundweg,Weg,Bergweg'
+        : 'Skifahren,Pisten,Schneebedingungen,Pistenbeschreibung,Abfahrten'
+    },` +
+    'Bilder,Fotos,GPX,Track,Karte,3D,AlpinFunk,Reise,Urlaub,Beschreibung'
+};
+---
+<Layout title={pageTitle}>
+  <link rel="canonical" href={pageUrl} slot="head" />
+  <meta name="description" content={pageDescription} slot="head" />
+  <meta property="og:title" content={pageTitle} slot="head" />
+  <meta property="og:description" content={pageDescription} slot="head" />
+  <meta property="og:type" content="article" slot="head" />
+  <meta property="og:url" content={pageUrl} slot="head" />
+  <meta property="og:locale" content="de_DE" slot="head" />
+  <meta property="og:site_name" content="AlpinFunk" slot="head" />
+  <meta property="og:image" content={photoUrls[0]} slot="head" />
+  <meta property="og:image:width" content={selectedPhotos[0].width} slot="head" />
+  <meta property="og:image:height" content={selectedPhotos[0].height} slot="head" />
+  {reportData.movie && <meta property="og:video" content={`https://youtu.be/${reportData.movie}`} slot="head" />}
+  {reportData.movie && <meta property="og:video:width" content="1920" slot="head" />}
+  {reportData.movie && <meta property="og:video:height" content="1080" slot="head" />}
+  <meta name="twitter:card" content="summary_large_image" slot="head" />
+  <meta name="twitter:title" content={pageTitle} slot="head" />
+  <meta name="twitter:description" content={pageDescription} slot="head" />
+  <meta name="twitter:image" content={photoUrls[0]} slot="head" />
+  <script type="application/ld+json" set:html={JSON.stringify(schema)} slot="head" is:inline />
+  <PageReport client:load data={data} />
+</Layout>

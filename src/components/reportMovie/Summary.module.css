@@ -1,0 +1,51 @@
+.summaryContainer {
+  position: absolute;
+  z-index: 6;
+  font-size: 2vw;
+  color: #a0a0a0;
+  line-height: 1.1;
+  transition: opacity 5s ease-in-out;
+}
+
+.duration {
+  position: fixed;
+  left: 5vw;
+  top: 5vh;
+}
+
+.distance {
+  position: fixed;
+  right: 5vw;
+  top: 5vh;
+  text-align: right;
+}
+
+.height {
+  position: fixed;
+  left: 5vw;
+  bottom: 5vh;
+}
+
+.time {
+  position: fixed;
+  right: 5vw;
+  bottom: 5vh;
+  text-align: right;
+}
+
+.valueLeft {
+  display: inline-block;
+  width: 14vw;
+  padding-right: 2vw;
+  font-size: 4vw;
+  color: #ffffff;
+  text-align: right;
+}
+
+.valueRight {
+  display: inline-block;
+  width: 12vw;
+  font-size: 4vw;
+  color: #ffffff;
+  text-align: right;
+}

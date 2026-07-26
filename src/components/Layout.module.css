@@ -1,0 +1,66 @@
+.header {
+  background-color: #cfe0c3;
+  text-align: right;
+  position: fixed;
+  z-index: 2;
+  top: -57px;
+  left: 0;
+  width: 100%;
+  height: 57px;
+  transition: top 0.5s;
+}
+
+.header:global(.showHeader) {
+  top: 0;
+}
+
+.header a {
+  color: black;
+}
+
+.header a:visited {
+  color: black;
+}
+
+.menuButton {
+  display: inline-block;
+  position: absolute;
+  left: 20px;
+  top: 17px;
+  height: 24px;
+  width: 24px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.menuText {
+  position: absolute;
+  margin-left: 8px;
+}
+
+@media (max-width: 420px) {
+  .menuText {
+    display: none;
+  }
+}
+
+.title {
+  display: inline-block;
+  font-size: 25px;
+  padding-right: 20px;
+  position: relative;
+  top: -11px;
+}
+
+.logo {
+  display: inline-block;
+  position: relative;
+  top: 5px;
+  margin-right: 15px;
+  width: auto;
+  height: auto;
+}
+
+.content {
+  padding-top: 57px;
+}

@@ -1,0 +1,12 @@
+---
+import Layout from '../layouts/Layout.astro';
+import PageIndex from '../components/PageIndex.jsx';
+import { getReports } from '../utils/dataLoader.js';
+
+const reports = getReports()
+  .sort((a, b) => b.date.localeCompare(a.date))
+  .slice(0, 5);
+---
+<Layout title="www.dplate.de">
+  <PageIndex reports={reports} />
+</Layout>

@@ -41,7 +41,7 @@ const processLandmark = (landmark, photosPath) => {
 
 const processReport = (destination, report) => {
   const reportPath = destination + '/' + report + '/';
-  const photosPath = '../static/photos/' + reportPath;
+  const photosPath = '../public/photos/' + reportPath;
   const file = '../src/reports/' + reportPath + 'report.json';
   const json = jsonfile.readFileSync(file);
   const reportJson = json[0];

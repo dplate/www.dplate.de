@@ -1,0 +1,12 @@
+.container {
+  position: fixed;
+  top: 0;
+  width: 100vw;
+  z-index: 6;
+}
+
+.container > h1 {
+  text-align: center;
+  font-size: 100px;
+  margin: 200px 50px 0 50px;
+}

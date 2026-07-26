@@ -1,0 +1,108 @@
+.menuBar {
+  position: fixed;
+  z-index: 4;
+  background-color: rgba(0, 0, 0, 0.15);
+  height: 35px;
+}
+
+.menuBar:global(.teaser) {
+  width: 30vw;
+  right: 5px;
+  bottom: calc(30vh - 30px);
+}
+
+.menuBar:global(.fullscreen) {
+  left: 0;
+  right: 0;
+  top: 0;
+}
+
+.menuBar:global(.icon) {
+  display: none;
+}
+
+.resizeIcon {
+  position: absolute;
+  cursor: pointer;
+  opacity: 0.5;
+  height: 24px;
+  width: 24px;
+  top: 5px;
+  transform: scale(-1, 1);
+  left: 5px;
+}
+
+.resizeIcon:hover {
+  opacity: 1;
+}
+
+.closeIcon {
+  position: absolute;
+  cursor: pointer;
+  opacity: 0.5;
+  height: 24px;
+  width: 24px;
+  top: 5px;
+  right: 5px;
+}
+
+.closeIcon:hover {
+  opacity: 1;
+}
+
+@keyframes bounceIn {
+  0% {
+    bottom: -50px;
+    opacity: 1;
+  }
+  25% {
+    bottom: 5px;
+  }
+  75% {
+    bottom: 5px;
+    opacity: 1;
+  }
+  100% {
+    bottom: -20px;
+    opacity: 0.5;
+  }
+}
+
+.button {
+  position: fixed;
+  cursor: pointer;
+  right: 10px;
+  bottom: -20px;
+  opacity: 0.5;
+  text-align: right;
+}
+
+.button:hover {
+  opacity: 1;
+}
+
+.button:not(:empty) {
+  animation: bounceIn 5s ease;
+}
+
+.button:global(.teaser) {
+  display: none;
+}
+
+.button:global(.fullscreen) {
+  display: none;
+}
+
+.timeBar {
+  text-align: right;
+}
+
+.mapIcon {
+  height: 35px;
+  width: 35px;
+  margin-right: 2px;
+}
+
+.mapInfo {
+  text-align: right;
+}

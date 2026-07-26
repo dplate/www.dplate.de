@@ -1,108 +1,11 @@
 import React, { useEffect, useState, Suspense } from 'react';
 import PropTypes from 'prop-types';
-import styled, { keyframes } from 'styled-components';
-import resizeIcon from '../icons/resize.svg';
-import closeIcon from '../icons/close.svg';
-import mapIcon from '../icons/map.svg';
+import styles from './mapbutton.module.css';
+import resizeIcon from '../icons/resize.svg?url';
+import closeIcon from '../icons/close.svg?url';
+import mapIcon from '../icons/map.svg?url';
 import loadTrack from '../utils/loadTrack';
-const Map = React.lazy(() => import('./Map.jsx'));
-
-const MenuBar = styled.div`
-  position: fixed;
-  z-index: 4;
-  background-color: rgba(0, 0, 0, 0.15);
-  height: 35px;
-
-  &.teaser {
-    width: 30vw;
-    right: 5px;
-    bottom: calc(30vh - 30px);
-  }
-
-  &.fullscreen {
-    left: 0;
-    right: 0;
-    top: 0;
-  }
-
-  &.icon {
-    display: none;
-  }
-`;
-
-const Icon = styled.img`
-  position: absolute;
-  cursor: pointer;
-  opacity: 0.5;
-  height: 24px;
-  width: 24px;
-  top: 5px;
-
-  :hover {
-    opacity: 1;
-  }
-`;
-const ResizeIcon = styled(Icon)`
-  transform: scale(-1, 1);
-  left: 5px;
-`;
-const CloseIcon = styled(Icon)`
-  right: 5px;
-`;
-
-const bounceIn = keyframes`
-  0% {
-    bottom: -50px;
-    opacity: 1.0;
-  }
-  25% {
-    bottom: 5px;
-  }
-  75% {
-    bottom: 5px;
-    opacity: 1.0;
-  }
-  100% {
-    bottom: -20px;
-    opacity: 0.5;
-  }
-`;
-const Button = styled.span`
-  position: fixed;
-  cursor: pointer;
-  right: 10px;
-  bottom: -20px;
-  opacity: 0.5;
-  text-align: right;
-
-  &:hover {
-    opacity: 1.0;
-  }
-
-  &:not(:empty) {
-    animation: ${bounceIn} 5s ease;
-  }
-
-  &.teaser {
-    display: none;
-  }
-
-  &.fullscreen {
-    display: none;
-  }
-}
-`;
-const TimeBar = styled.div`
-  text-align: right;
-`;
-const MapIcon = styled.img`
-  height: 35px;
-  width: 35px;
-  margin-right: 2px;
-`;
-const MapInfo = styled.div`
-  text-align: right;
-`;
+const Map = React.lazy(() => import('./map.jsx'));
 
 const changeSize = (size, setSize, allowTeaser) => {
   let newSize = 'fullscreen';
@@ -111,13 +14,13 @@ const changeSize = (size, setSize, allowTeaser) => {
   }
   setSize(newSize);
   // noinspection JSUnresolvedVariable
-  window.ga && window.ga('send', 'event', 'resizeMap', newSize);
+  window.gtag('event', 'resizeMap', { newSize });
 };
 
 const close = (setSize) => {
   setSize('icon');
   // noinspection JSUnresolvedVariable
-  window.ga && window.ga('send', 'event', 'closeMap', 'click');
+  window.gtag('event', 'closeMap');
 };
 
 const renderButton = (time, size) => {
@@ -125,11 +28,11 @@ const renderButton = (time, size) => {
     const timeParts = time.split('T')[1].split(':');
     const formattedTime = `${timeParts[0]}:${timeParts[1]}`;
     return [
-      <TimeBar key="timeBar" className={size}>
+      <div key="timeBar" className={`${styles.timeBar} ${size}`}>
         {formattedTime}
-      </TimeBar>,
-      <MapIcon key="mapIcon" src={mapIcon} />,
-      <MapInfo key="mapInfo">Karte</MapInfo>
+      </div>,
+      <img key="mapIcon" className={styles.mapIcon} src={mapIcon} />,
+      <div key="mapInfo" className={styles.mapInfo}>Karte</div>
     ];
   }
 };
@@ -149,18 +52,18 @@ const MapButton = ({ time, reportPath, mapProps }) => {
 
   return (
     <div>
-      <MenuBar className={size}>
-        <ResizeIcon onClick={changeSizePrepared} src={resizeIcon} />
-        <CloseIcon onClick={() => close(setSize)} src={closeIcon} />
-      </MenuBar>
+      <div className={`${styles.menuBar} ${size}`}>
+        <img className={styles.resizeIcon} onClick={changeSizePrepared} src={resizeIcon} />
+        <img className={styles.closeIcon} onClick={() => close(setSize)} src={closeIcon} />
+      </div>
       {size !== 'icon' && (
         <Suspense fallback={'loading'}>
           {track && <Map {...mapProps} track={track} wishTime={time} size={size} />}
         </Suspense>
       )}
-      <Button onClick={changeSizePrepared} className={size}>
+      <span className={`${styles.button} ${size}`} onClick={changeSizePrepared}>
         {renderButton(time, size)}
-      </Button>
+      </span>
     </div>
   );
 };

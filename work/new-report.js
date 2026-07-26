@@ -60,7 +60,7 @@ const createLandmarks = async () => {
     .filter((file) => file.toLowerCase().endsWith('.jpg'))
     .sort()
     .map((file) => sourcePath + '/' + file);
-  const targetPhotosPath = projectPath + '/static/photos/' + destination + '/' + reportDate;
+  const targetPhotosPath = projectPath + '/public/photos/' + destination + '/' + reportDate;
   fs.mkdirSync(targetPhotosPath, { recursive: true });
   const photos = await Promise.all(
     sourcePhotos.map((sourcePhoto, index) => newPhoto(sourcePhoto, targetPhotosPath, index))
@@ -107,7 +107,7 @@ const newReport = async () => {
 };
 
 const copyTrack = () => {
-  const trackPath = projectPath + '/static/tracks/' + destination;
+  const trackPath = projectPath + '/public/tracks/' + destination;
   const trackFileName = reportDate + '.gpx';
   const trackFile = trackPath + '/' + trackFileName;
   if (fs.existsSync(trackFile)) {
@@ -120,7 +120,7 @@ const copyTrack = () => {
 };
 
 const addToSitemap = () => {
-  const sitemapFile = projectPath + '/static/sitemap.txt';
+  const sitemapFile = projectPath + '/public/sitemap.txt';
   const sitemap = fs.readFileSync(sitemapFile, { encoding: 'UTF-8' });
   const newEntry = 'https://www.dplate.de/alpine/' + destination + '/' + reportDate;
   if (sitemap.includes(newEntry)) {

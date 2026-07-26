@@ -376,7 +376,7 @@ const generateAudio = async (rawText, audioFile) => {
 const createVoiceOver = async () => {
   const reportPath = projectPath + '/src/reports/' + destination + '/' + reportDate;
   const reportFile = reportPath + '/report.json';
-  const voiceOverPath = projectPath + '/static/voiceOver/' + destination + '/' + reportDate;
+  const voiceOverPath = projectPath + '/public/voiceOver/' + destination + '/' + reportDate;
 
   const reports = jsonfile.readFileSync(reportFile);
   if (!reports) {

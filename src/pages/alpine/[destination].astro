@@ -1,0 +1,59 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import PageDestination from '../../components/PageDestination.jsx';
+import { getDestinations, getReports } from '../../utils/dataLoader.js';
+
+export async function getStaticPaths() {
+  const destinations = getDestinations();
+  const reports = getReports();
+
+  return destinations.map((dest) => {
+    const destReports = reports
+      .filter((r) => r.destination === dest.destination)
+      .sort((a, b) => b.date.localeCompare(a.date));
+
+    return {
+      params: { destination: dest.destination },
+      props: {
+        destinationData: dest,
+        reportsData: destReports,
+      },
+    };
+  });
+}
+
+const { destinationData, reportsData } = Astro.props;
+
+// Build data structure for PageDestination
+const data = {
+  destinationJson: destinationData,
+  allReportJson: {
+    edges: reportsData.map((report: any) => ({ node: report })),
+  },
+};
+
+const isHike = (report: { type: string; }) => report.type === 'hike' || report.type === 'winterHike';
+const hikeReports = reportsData.filter(isHike);
+const skiReports = reportsData.filter((report: { type: string; }) => !isHike(report));
+
+const getDestinationTitle = (name: string, hikeCount: number, skiCount: number) => {
+  if (hikeCount && skiCount) return `Ski- und Wandergebiet ${name}`;
+  if (hikeCount) return `Wandergebiet ${name}`;
+  if (skiCount) return `Skigebiet ${name}`;
+  return name;
+};
+
+const getDestinationDescription = (name: string, hikeCount: number, skiCount: number) => {
+  if (hikeCount && skiCount) return `Schnee- und Wanderberichte aus der ${name} Region`;
+  if (hikeCount) return `Wanderberichte aus der ${name} Region`;
+  if (skiCount) return `Schneeberichte aus der ${name} Region`;
+  return name;
+};
+
+const title = getDestinationTitle(destinationData.name, hikeReports.length, skiReports.length);
+const description = getDestinationDescription(destinationData.name, hikeReports.length, skiReports.length);
+---
+<Layout title={title}>
+  <meta name="description" content={description} slot="head" />
+  <PageDestination data={data} />
+</Layout>
