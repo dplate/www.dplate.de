@@ -1,7 +1,7 @@
 import React, { Suspense, useState, useEffect, useMemo, useCallback } from 'react';
 import styles from './PageReportMovie.module.css';
 import formatDate from '../utils/formatDate.js';
-import AnimatedTitle from './animatedtitle.jsx';
+import AnimatedTitle from './AnimatedTitle.jsx';
 import Photos from './reportMovie/Photos.jsx';
 import Logo from './reportMovie/Logo.jsx';
 import Curtain from './reportMovie/Curtain.jsx';
@@ -12,7 +12,7 @@ import loadTrack from '../utils/loadTrack.js';
 import Summary from './reportMovie/Summary.jsx';
 import setupAudio from '../utils/setupAudio';
 import getReportPath from '../utils/getReportPath.js';
-const Map = React.lazy(() => import('./map.jsx'));
+const Map = React.lazy(() => import('./Map.jsx'));
 
 const minPhotoDuration = 5;
 

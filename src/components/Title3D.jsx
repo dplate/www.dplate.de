@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from 'react';
 import PropTypes from 'prop-types';
-import styles from './Title3d.module.css';
+import styles from './Title3D.module.css';
 
 const Title3D = ({ reportPath, title, offsetY, fontSize, width, height, align = 'left', scrollTrigger }) => {
   const containerRef = useRef(null);

@@ -1,6 +1,6 @@
 import React, { useMemo, useEffect, useRef, useState, useCallback } from 'react';
 import PropTypes from 'prop-types';
-import styles from './map.module.css';
+import styles from './Map.module.css';
 import {
   ArcGisBaseMapType,
   ArcGisMapServerImageryProvider,

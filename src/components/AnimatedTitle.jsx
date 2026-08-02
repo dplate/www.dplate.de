@@ -1,8 +1,8 @@
-import Title3D from './Title3d.jsx';
+import Title3D from './Title3D.jsx';
 import React from 'react';
 import PropTypes from 'prop-types';
 import { animated, useSpring } from 'react-spring';
-import styles from './animatedtitle.module.css';
+import styles from './AnimatedTitle.module.css';
 
 const MovingTitle = ({ movePercent, reportPath, title, title3d }) => {
   return (

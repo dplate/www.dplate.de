@@ -1,11 +1,11 @@
 import React, { useEffect, useState, Suspense } from 'react';
 import PropTypes from 'prop-types';
-import styles from './mapbutton.module.css';
+import styles from './MapButton.module.css';
 import resizeIcon from '../icons/resize.svg?url';
 import closeIcon from '../icons/close.svg?url';
 import mapIcon from '../icons/map.svg?url';
 import loadTrack from '../utils/loadTrack';
-const Map = React.lazy(() => import('./map.jsx'));
+const Map = React.lazy(() => import('./Map.jsx'));
 
 const changeSize = (size, setSize, allowTeaser) => {
   let newSize = 'fullscreen';
