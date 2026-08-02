@@ -1,710 +1,708 @@
-[
-  {
-    "destination": "alpstein",
-    "date": "d20160911",
-    "type": "hike",
-    "track": true,
-    "detailMap": "swiss",
-    "timeShift": -120,
-    "shortTitle": "Säntis",
-    "title": "Ebenalp - Säntis",
-    "title3d": {
-      "align": "right",
-      "offsetY": 2,
-      "fontSize": 8.7,
-      "width": 1920,
-      "height": 521
+{
+  "destination": "alpstein",
+  "date": "d20160911",
+  "type": "hike",
+  "track": true,
+  "detailMap": "swiss",
+  "timeShift": -120,
+  "shortTitle": "Säntis",
+  "title": "Ebenalp - Säntis",
+  "title3d": {
+    "align": "right",
+    "offsetY": 2,
+    "fontSize": 8.7,
+    "width": 1920,
+    "height": 521
+  },
+  "movie": "z1zdkqXpH2Y",
+  "intro": "Obwohl meine Wanderungen in diesem Jahr schon etwas arg Ostschweiz/Alpstein lastig waren, zog es mich am einem Sonntag für eine lange Tagestour wieder in dieses Gebiet, für die mir bisher das Vertrauen gefehlt hatte. <span data-silent>Da es sich praktisch um ein Alpstein-BestOf handelt, habe ich in diesem Bericht immer wieder ein paar alte Berichte von mir verlinkt.</span><br />\nUm etwas Spielraum zu haben, parkte ich mein Auto bereits im 7:00 in Wasserauen. Obwohl die erste Bahnfahrt auf die Ebenalp erst um 7:30 stattfinden sollte, fuhr sie netterweise aber schon um 7:15. Die 700m Schummelei auf die 1500m hohe Ebenalp kostete 20CHF.",
+  "landmarks": [
+    {
+      "photos": [
+        {
+          "name": "001",
+          "alt": "Bergstation Ebenalpbahn",
+          "date": "2016-09-11T07:33:15.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Bei stimmungsvollem Sonnenaufgang hinter dem <a href=\"/alpine/alpstein/20131019\">Hohen Kasten</a> ging es schließlich zu Fuß los."
     },
-    "movie": "z1zdkqXpH2Y",
-    "intro": "Obwohl meine Wanderungen in diesem Jahr schon etwas arg Ostschweiz/Alpstein lastig waren, zog es mich am einem Sonntag für eine lange Tagestour wieder in dieses Gebiet, für die mir bisher das Vertrauen gefehlt hatte. <span data-silent>Da es sich praktisch um ein Alpstein-BestOf handelt, habe ich in diesem Bericht immer wieder ein paar alte Berichte von mir verlinkt.</span><br />\nUm etwas Spielraum zu haben, parkte ich mein Auto bereits im 7:00 in Wasserauen. Obwohl die erste Bahnfahrt auf die Ebenalp erst um 7:30 stattfinden sollte, fuhr sie netterweise aber schon um 7:15. Die 700m Schummelei auf die 1500m hohe Ebenalp kostete 20CHF.",
-    "landmarks": [
-      {
-        "photos": [
-          {
-            "name": "001",
-            "alt": "Bergstation Ebenalpbahn",
-            "date": "2016-09-11T07:33:15.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Bei stimmungsvollem Sonnenaufgang hinter dem <a href=\"/alpine/alpstein/20131019\">Hohen Kasten</a> ging es schließlich zu Fuß los."
-      },
-      {
-        "photos": [
-          {
-            "name": "002",
-            "alt": "Wanderweg Ebenalp Schäfler",
-            "date": "2016-09-11T07:51:44.000+02:00",
-            "width": 1920,
-            "height": 836
-          }
-        ],
-        "videos": [],
-        "text": "Das erste Etappenziel war der 1900m hohe Schäfler, auf dessen Gipfel ein Gasthaus thront. Der Weg dort hin ist (wenn auch nicht so früh morgens) viel begangen und deshalb auch breit und ausgebaut. Ich kam also zügig voran."
-      },
-      {
-        "photos": [
-          {
-            "name": "003",
-            "alt": "Sonnenstrahlen durch dunkle Wolken",
-            "date": "2016-09-11T08:04:24.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Obwohl die Wettervorhersage zumindest für den Vormittag Sonne prophezeit hatte, waren leider schon einige Wolken unterwegs."
-      },
-      {
-        "photos": [
-          {
-            "name": "004",
-            "alt": "Bergweg Schäfler",
-            "date": "2016-09-11T08:11:45.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Ab der zweiten Hälfte wurde der Weg steiler und die doch noch kühle Luft lohnender."
-      },
-      {
-        "photos": [
-          {
-            "name": "006",
-            "alt": "Miniaturaufnahme Haus über Felswand",
-            "date": "2016-09-11T08:14:14.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Miniaturblick zurück auf den Weg und eine Alp."
-      },
-      {
-        "photos": [
-          {
-            "name": "005",
-            "alt": "Kronberg mit Gewitterwolke",
-            "date": "2016-09-11T08:12:48.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Nachdem der Grat zum Gipfel erreicht war, konnte ich Richtung Norden den <a href=\"/alpine/alpstein/20131013\">Kronberg</a> sehen. Die große Quellwolke so früh am Morgen gefiel mir zu dem Zeitpunkt gar nicht."
-      },
-      {
-        "photos": [
-          {
-            "name": "008",
-            "alt": "Gasthaus Schäfler",
-            "date": "2016-09-11T08:21:01.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Den Gipfel des Schäflers erreichte ich um 8:15. Dort starteten gerade einige Wanderer, die dort übernachtet hatten - also noch mehr schummelten als ich mit meiner Seilbahnfahrt. 😉"
-      },
-      {
-        "photos": [
-          {
-            "name": "007",
-            "alt": "Grat vom Schäfler zum Säntis",
-            "date": "2016-09-11T08:20:26.000+02:00",
-            "width": 1920,
-            "height": 885
-          }
-        ],
-        "videos": [],
-        "text": "Ab hier wird der Weg nun deutlich alpiner. Links dieses eindrucksvollen Grats sollte es nun weitergehen."
-      },
-      {
-        "photos": [
-          {
-            "name": "009",
-            "alt": "Bergweg mit Drahtseil an Abgrund",
-            "date": "2016-09-11T08:22:50.000+02:00",
-            "width": 1920,
-            "height": 1280
-          },
-          {
-            "name": "010",
-            "alt": "Gratweg von Schäfler nach Mesmer",
-            "date": "2016-09-11T08:23:47.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Damit sich dort hin keine Spaziergänger verirren, warnt dort auch ein Schild. Aber der Einstieg macht ohnehin gleich klar, dass man trittsicher und einigermaßen schwindelfrei sein sollte. Ohne Drahtseil wäre das auch für mich nichts."
-      },
-      {
-        "photos": [
-          {
-            "name": "011",
-            "alt": "Hangweg unterhalb Schäflers in Morgensonne",
-            "date": "2016-09-11T08:25:01.000+02:00",
-            "width": 1920,
-            "height": 1280
-          },
-          {
-            "name": "012",
-            "alt": "Extremer Gratweg",
-            "date": "2016-09-11T08:28:04.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Der weitere Verlauf des spannenden Wegs. Sehr schön war das warme Morgenlicht, das den Hang beschien."
-      },
-      {
-        "photos": [
-          {
-            "name": "013",
-            "alt": "Blick zum Schäfler",
-            "date": "2016-09-11T08:53:33.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Schnell wird der Weg aber wieder drahtseillos und harmloser. Hier der Blick zurück zum Schäfler."
-      },
-      {
-        "photos": [
-          {
-            "name": "014",
-            "alt": "Wanderweg zum Lötzisälplisattel",
-            "date": "2016-09-11T08:59:49.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Von diesem sanft absteigendem Weg zur Mesmer-Gastätte zweigte ich aber ungefähr auf der Hälfte nach rechts ab. Nun ging es hinauf zum Lötzisälplisattel, einem Übergang auf die Nordseite des Säntismassivs."
-      },
-      {
-        "photos": [
-          {
-            "name": "015",
-            "alt": "Vom Lötzisälplisattel zum Säntis",
-            "date": "2016-09-11T09:16:35.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Den Pass erreichte ich um 9:15. Überraschenderweise wird es auf der anderen Seite aber deutlich entspannter und weniger ausgesetzt. Hier ist auch das nächste Ziel zu sehen, dieser Sattel im Hintergrund."
-      },
-      {
-        "photos": [
-          {
-            "name": "016",
-            "alt": "Lötzisälplisattel mit Altenalptürm",
-            "date": "2016-09-11T09:25:09.000+02:00",
-            "width": 1920,
-            "height": 1088
-          }
-        ],
-        "videos": [],
-        "text": "Blick zurück auf den Lötzisälpisattel <span data-silent>(ich wollte dieses Wort jetzt unbedingt noch mal tippen 😉)</span>. Dahinter sind die Altenalptürme zu sehen. Alles so um die 2000m hoch."
-      },
-      {
-        "photos": [
-          {
-            "name": "017",
-            "alt": "Gämsen auf Felsgrat",
-            "date": "2016-09-11T09:36:18.000+02:00",
-            "width": 1920,
-            "height": 1284
-          }
-        ],
-        "videos": [],
-        "text": "Von den steilen Felsgraten wurde ich von Gämsen beobachtet, die auch fleißig Steine los traten."
-      },
-      {
-        "photos": [
-          {
-            "name": "018",
-            "alt": "Bergweg vom Säntis zum Schäfler",
-            "date": "2016-09-11T09:50:08.000+02:00",
-            "width": 1920,
-            "height": 1041
-          }
-        ],
-        "videos": [],
-        "text": "Nach einem anstrengenden Aufstieg durch losen Schotter erreichte ich den erwähnten Sattel. Hier noch mal der Blick zurück."
-      },
-      {
-        "photos": [
-          {
-            "name": "019",
-            "alt": "Wanderweg durch Felswand",
-            "date": "2016-09-11T09:52:29.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Nun ging es auch wieder von der Nordseite auf die Südseite zurück, wofür diese etwas knifflige Felswand überwunden werden musste."
-      },
-      {
-        "photos": [
-          {
-            "name": "020",
-            "alt": "Weg vom Säntis zum Mesmer",
-            "date": "2016-09-11T10:16:58.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Anschließend wurde der Weg flach und es ging sogar etwas runter. Zum ersten mal war nun der Gipfel des Säntis richtig zu sehen."
-      },
-      {
-        "photos": [
-          {
-            "name": "021",
-            "alt": "Gipfel des Säntis",
-            "date": "2016-09-11T10:27:43.000+02:00",
-            "width": 640,
-            "height": 927
-          }
-        ],
-        "videos": [],
-        "text": "Schnell war ich direkt unterhalb des Gipfels... aber es ist ziemlich offensichtlich, dass noch einige Höhenmeter überwunden werden mussten. 300 um genau zu sein."
-      },
-      {
-        "photos": [
-          {
-            "name": "022",
-            "alt": "Antenne des Säntis in Wolken",
-            "date": "2016-09-11T10:55:48.000+02:00",
-            "width": 800,
-            "height": 962
-          }
-        ],
-        "videos": [],
-        "text": "Um diese Jahreszeit gibt es nur noch ein paar harmlose Schneefelder zu überqueren, die vor dem letzten Anstieg noch mal für etwas Erfrischung sorgten."
-      },
-      {
-        "photos": [
-          {
-            "name": "023",
-            "alt": "Bergweg durch Fels mit vielen Wanderern",
-            "date": "2016-09-11T11:02:10.000+02:00",
-            "width": 1920,
-            "height": 1280
-          },
-          {
-            "name": "024",
-            "alt": "Drahtseilgesicherter Wanderweg",
-            "date": "2016-09-11T11:09:20.000+02:00",
-            "width": 640,
-            "height": 960
-          }
-        ],
-        "videos": [],
-        "text": "Zuerst der sehr steile Aufstieg zum Grat. Dort war gerade ein großes Getümmel, da nun auch die vielen Wanderer von oben kamen, die nur den Abstieg vom Säntis machten."
-      },
-      {
-        "photos": [
-          {
-            "name": "025",
-            "alt": "Säntisgipfel mit Seilbahn",
-            "date": "2016-09-11T11:12:53.000+02:00",
-            "width": 1920,
-            "height": 923
-          }
-        ],
-        "videos": [],
-        "text": "Jetzt hatte ich den Grat (und damit den <a href=\"/alpine/alpstein/20140801\">Hauptaufstieg von der Schwägalp</a>) erreicht. Erst mal brauchte ich eine Pause um neue Kräfte für den letzten Aufstieg zu mobilisieren."
-      },
-      {
-        "photos": [
-          {
-            "name": "026",
-            "alt": "Himmelsleiter",
-            "date": "2016-09-11T11:17:54.000+02:00",
-            "width": 640,
-            "height": 960
-          }
-        ],
-        "videos": [],
-        "text": "Dieser führt über die berüchtigte Himmelsleiter - die aber so gut abgesichert ist, dass sie kein größeres Problem ist. Nur mangelnde Ausdauer machte sich nun deutlich bemerkbar. 😉"
-      },
-      {
-        "photos": [
-          {
-            "name": "027",
-            "alt": "Altes Gasthaus Säntis von oben",
-            "date": "2016-09-11T11:41:57.000+02:00",
-            "width": 640,
-            "height": 864
-          }
-        ],
-        "videos": [],
-        "text": "Den Gipfel erreichte ich schließlich um 11:30. Hier der Blick hinab auf das alte Gasthaus. Säntis-typisch hüllte sich die Spitze in Wolken, aber ich wollte mich eh nicht lange aufhalten."
-      },
-      {
-        "photos": [
-          {
-            "name": "028",
-            "alt": "Wegweiser in Tunnel",
-            "date": "2016-09-11T11:49:13.000+02:00",
-            "width": 1920,
-            "height": 1237
-          }
-        ],
-        "videos": [],
-        "text": "Für mich ging es nun zum Rotsteinpass. Hier in dem Zugangsstollen zu den Wanderwegen."
-      },
-      {
-        "photos": [
-          {
-            "name": "029",
-            "alt": "Einstieg Lisengrat im Nebel",
-            "date": "2016-09-11T11:54:19.000+02:00",
-            "width": 800,
-            "height": 1028
-          }
-        ],
-        "videos": [],
-        "text": "Vom Säntis zum Rotsteinpass führt der Weg über den <a href=\"/alpine/alpstein/20150912\">Lisengrat</a>. Der Einstieg wirkte auf Grund der Wolken etwas beunruhigend. <span data-silent>Wer Bilder von diesem beeindruckenden Grat bei schönerem Wetter sehen will, klicke auf den Link.</span>"
-      },
-      {
-        "photos": [
-          {
-            "name": "030",
-            "alt": "Blick vom Säntis ins Toggenburg",
-            "date": "2016-09-11T12:00:38.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Blick hinab zum sonnigeren Toggenburg und den Churfirsten. Im Hintergrund der <a href=\"/alpine/toggenburg/20160813\">Hinterrugg</a> und <a href=\"/alpine/toggenburg/20140928\">Chäserrugg</a>."
-      },
-      {
-        "photos": [
-          {
-            "name": "031",
-            "alt": "Säntisgipfel mit Gewitterwolke",
-            "date": "2016-09-11T12:03:47.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Hier schon ein Stück entfernt vom Gipfel, der nun (natürlich) wolkenfrei war."
-      },
-      {
-        "photos": [
-          {
-            "name": "032",
-            "alt": "Felsenweg Lisengrat",
-            "date": "2016-09-11T12:26:15.000+02:00",
-            "width": 640,
-            "height": 960
-          },
-          {
-            "name": "034",
-            "alt": "Felstreppen Lisengrat",
-            "date": "2016-09-11T12:31:00.000+02:00",
-            "width": 1920,
-            "height": 901
-          },
-          {
-            "name": "033",
-            "alt": "Drahtseil Lisengrat",
-            "date": "2016-09-11T12:29:13.000+02:00",
-            "width": 1920,
-            "height": 1265
-          }
-        ],
-        "videos": [],
-        "text": "Jetzt ging es links durch die Felswand. Nicht wirklich gefährlich, aber der Abgrund ist nah."
-      },
-      {
-        "photos": [
-          {
-            "name": "035",
-            "alt": "Gut Gesicherter Lisengrat",
-            "date": "2016-09-11T12:34:19.000+02:00",
-            "width": 1920,
-            "height": 1280
-          },
-          {
-            "name": "036",
-            "alt": "Gratweg Lisengrat",
-            "date": "2016-09-11T12:37:10.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Dann ging es auf dem Grat weiter. Auf dem zweiten Bild der Blick zurück zum Säntis (wieder in Wolken) und die durchquerte Felswand."
-      },
-      {
-        "photos": [
-          {
-            "name": "037",
-            "alt": "Wanderweg Rotsteinpass Lisengrat",
-            "date": "2016-09-11T12:39:42.000+02:00",
-            "width": 640,
-            "height": 960
-          }
-        ],
-        "videos": [],
-        "text": "Dann ging es sehr steil bergab Richtung Rotsteinpass. Die vielen entgegenkommenden Wanderer hatten ordentlich zu schnaufen."
-      },
-      {
-        "photos": [
-          {
-            "name": "038",
-            "alt": "Blick von Lisengrat zum Säntis und Wagenlücke",
-            "date": "2016-09-11T12:49:04.000+02:00",
-            "width": 1920,
-            "height": 828
-          }
-        ],
-        "videos": [],
-        "text": "Noch einmal der Blick zurück zum Säntis (jetzt ohne Wolke). Entlang dieses Grats führt ein anderer Weg von der Meglisalp zum Säntis (der harmloseste Auf- und Abstieg von allen). Ganz rechts die <a href=\"/alpine/alpstein/20160730\">Wagenlücke</a>."
-      },
-      {
-        "photos": [
-          {
-            "name": "039",
-            "alt": "Blick von Rotsteinpass zur Meglisalp",
-            "date": "2016-09-11T12:58:55.000+02:00",
-            "width": 1920,
-            "height": 1047
-          }
-        ],
-        "videos": [],
-        "text": "Blick hinab zur Meglisalp. Nach dem Rotsteinpass war das mein nächstes Ziel. Links der Pass ist die <a href=\"/alpine/alpstein/20140622\">Ageteplatte</a>."
-      },
-      {
-        "photos": [
-          {
-            "name": "040",
-            "alt": "Gasthaus Rotsteinpass",
-            "date": "2016-09-11T13:12:23.000+02:00",
-            "width": 1920,
-            "height": 1000
-          }
-        ],
-        "videos": [],
-        "text": "Am Rotsteinpass (den ich um 13:00 erreichte) hielt ich mich nicht lange auf und bog gleich zur Meglisalp ab."
-      },
-      {
-        "photos": [
-          {
-            "name": "041",
-            "alt": "Wanderweg Rotsteinpass zur Meglisalp",
-            "date": "2016-09-11T13:12:40.000+02:00",
-            "width": 1920,
-            "height": 1092
-          }
-        ],
-        "videos": [],
-        "text": "Die Meglisalp ist hier in der Mitte zu sehen. Mein Weg führte durch das Tal rechts bergab."
-      },
-      {
-        "photos": [
-          {
-            "name": "042",
-            "alt": "Abstieg Rotsteinpass Wasserauen",
-            "date": "2016-09-11T14:03:27.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Der Weg war nun deutlich einfacher, so dass ich schnell voran kam. Hier der Blick zurück."
-      },
-      {
-        "photos": [
-          {
-            "name": "043",
-            "alt": "Bergweg Rotsteinpass Meglisalp",
-            "date": "2016-09-11T14:05:59.000+02:00",
-            "width": 1920,
-            "height": 1233
-          },
-          {
-            "name": "044",
-            "alt": "Hütte im Alpstein",
-            "date": "2016-09-11T14:18:13.000+02:00",
-            "width": 1920,
-            "height": 1097
-          }
-        ],
-        "videos": [],
-        "text": "Folglich kam ich auch zügig zu den ersten höher gelegenen Hütten der Meglisalp."
-      },
-      {
-        "photos": [
-          {
-            "name": "045",
-            "alt": "Meglisalp mit Wolken",
-            "date": "2016-09-11T14:18:44.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Die eigentliche Meglisalp erreichte ich um 14:30. Da meine Trinkvorräte im Rucksack gefährlich rar wurden, kehrte ich dort ein und genoss ein kaltes Getränk auf der Terrasse. Außerdem verflog nun meine Anspannung, da der restliche Weg bekannt und überschaubar war."
-      },
-      {
-        "photos": [
-          {
-            "name": "046",
-            "alt": "Meglisalp mit Ageteplatte",
-            "date": "2016-09-11T14:48:56.000+02:00",
-            "width": 1920,
-            "height": 1231
-          }
-        ],
-        "videos": [],
-        "text": "Nun war ich schon auf dem weiteren Weg nach der Meglisalp."
-      },
-      {
-        "photos": [
-          {
-            "name": "047",
-            "alt": "Blick zum Schäfler",
-            "date": "2016-09-11T14:49:43.000+02:00",
-            "width": 1920,
-            "height": 1184
-          }
-        ],
-        "videos": [],
-        "text": "Der Blick fiel nun auf den Schäfler auf der anderen Talseite. Es kam mir wie eine Ewigkeit vor, dort gewesen zu sein... dabei war es nur gut 6 Stunden her."
-      },
-      {
-        "photos": [
-          {
-            "name": "048",
-            "alt": "Felswand mit Gewitterwolken",
-            "date": "2016-09-11T14:51:43.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Eindrucksvolle Felswand rechts der Meglisalp, die eine Transportseilbahn überwindet."
-      },
-      {
-        "photos": [
-          {
-            "name": "049",
-            "alt": "Wanderweg Schrennen",
-            "date": "2016-09-11T15:06:19.000+02:00",
-            "width": 1920,
-            "height": 1287
-          },
-          {
-            "name": "050",
-            "alt": "Dunkelblauer Bergsee",
-            "date": "2016-09-11T15:12:04.000+02:00",
-            "width": 1920,
-            "height": 831
-          },
-          {
-            "name": "051",
-            "alt": "Seealpsee",
-            "date": "2016-09-11T15:30:01.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Ich entschied mich die Schrennen oberhalb des Seealpsees entlang zu laufen. Der See war zwar auch sehr verlockend (und ich schleppte Schwimmzeug mit mir rum), aber ich hatte wenig Lust auf den steilen Abstieg dort hin."
-      },
-      {
-        "photos": [
-          {
-            "name": "052",
-            "alt": "Alp Großhütten",
-            "date": "2016-09-11T15:48:15.000+02:00",
-            "width": 1920,
-            "height": 1280
-          },
-          {
-            "name": "053",
-            "alt": "Milch Käse Großhütten",
-            "date": "2016-09-11T15:58:31.000+02:00",
-            "width": 1920,
-            "height": 561
-          }
-        ],
-        "videos": [],
-        "text": "Nach den Schrennen erreichte ich Großhütten und damit einen der Hauptwege vom See nach Wasserauen. Wie man sieht herrschte dort Rush-Hour."
-      },
-      {
-        "photos": [
-          {
-            "name": "054",
-            "alt": "Alpstein",
-            "date": "2016-09-11T16:03:06.000+02:00",
-            "width": 1920,
-            "height": 1012
-          }
-        ],
-        "videos": [],
-        "text": "Noch einmal der Blick zurück auf die erledigte Tagesarbeit."
-      },
-      {
-        "photos": [
-          {
-            "name": "055",
-            "alt": "Parkplatz Wasserauen",
-            "date": "2016-09-11T16:39:03.000+02:00",
-            "width": 1920,
-            "height": 889
-          }
-        ],
-        "videos": [],
-        "text": "Nach einem Abstieg durch den Wald erreichte ich schließlich den ziemlich vollen Parkplatz um 17:00. Dieser Abstieg hatte nun nicht mehr besonders viel Spaß gemacht... dafür war ich einfach zu müde."
-      },
-      {
-        "photos": [
-          {
-            "name": "056",
-            "alt": "Dunkle Berge mit Sonnenstrahlen",
-            "date": "2016-09-11T16:49:00.000+02:00",
-            "width": 1920,
-            "height": 1102
-          }
-        ],
-        "videos": [],
-        "text": "Nun wurden auch die Wolken über den Gipfeln dunkler - aber das war mir jetzt egal."
-      },
-      {
-        "photos": [
-          {
-            "name": "track1",
-            "alt": "Wanderkarte Wasserauen Säntis",
-            "width": 1280,
-            "height": 647
-          },
-          {
-            "name": "track2",
-            "alt": "Höhenprofil Wasserauen Säntis",
-            "width": 1280,
-            "height": 293
-          }
-        ],
-        "videos": [],
-        "text": "Zurückgelegte Strecke. Gar nicht mal so viele Kilometer, aber die Wege darf man auch nicht mit lockeren Wanderwegen vergleichen. 😉"
-      }
-    ],
-    "outro": "Fazit: &quot;Geschafft&quot; ist der richtige Ausdruck. Wenn man so etwas lange vor hat, ist es schön, wenn man es in die Tat umgesetzt hat. Ich musste mich aber schon ziemlich ranhalten: was ok war, da ich viele Abschnitte schon kannte. Ansonsten sollte man lieber nur Teile von der Tour erwandern und diese dafür mehr genießen. Denn Gründe dafür gibt es genug. 😃<br />\nEs gibt übrigens auch vier Übernachtungsmöglichkeiten auf der Strecke. 😉"
-  }
-]
+    {
+      "photos": [
+        {
+          "name": "002",
+          "alt": "Wanderweg Ebenalp Schäfler",
+          "date": "2016-09-11T07:51:44.000+02:00",
+          "width": 1920,
+          "height": 836
+        }
+      ],
+      "videos": [],
+      "text": "Das erste Etappenziel war der 1900m hohe Schäfler, auf dessen Gipfel ein Gasthaus thront. Der Weg dort hin ist (wenn auch nicht so früh morgens) viel begangen und deshalb auch breit und ausgebaut. Ich kam also zügig voran."
+    },
+    {
+      "photos": [
+        {
+          "name": "003",
+          "alt": "Sonnenstrahlen durch dunkle Wolken",
+          "date": "2016-09-11T08:04:24.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Obwohl die Wettervorhersage zumindest für den Vormittag Sonne prophezeit hatte, waren leider schon einige Wolken unterwegs."
+    },
+    {
+      "photos": [
+        {
+          "name": "004",
+          "alt": "Bergweg Schäfler",
+          "date": "2016-09-11T08:11:45.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Ab der zweiten Hälfte wurde der Weg steiler und die doch noch kühle Luft lohnender."
+    },
+    {
+      "photos": [
+        {
+          "name": "006",
+          "alt": "Miniaturaufnahme Haus über Felswand",
+          "date": "2016-09-11T08:14:14.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Miniaturblick zurück auf den Weg und eine Alp."
+    },
+    {
+      "photos": [
+        {
+          "name": "005",
+          "alt": "Kronberg mit Gewitterwolke",
+          "date": "2016-09-11T08:12:48.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Nachdem der Grat zum Gipfel erreicht war, konnte ich Richtung Norden den <a href=\"/alpine/alpstein/20131013\">Kronberg</a> sehen. Die große Quellwolke so früh am Morgen gefiel mir zu dem Zeitpunkt gar nicht."
+    },
+    {
+      "photos": [
+        {
+          "name": "008",
+          "alt": "Gasthaus Schäfler",
+          "date": "2016-09-11T08:21:01.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Den Gipfel des Schäflers erreichte ich um 8:15. Dort starteten gerade einige Wanderer, die dort übernachtet hatten - also noch mehr schummelten als ich mit meiner Seilbahnfahrt. 😉"
+    },
+    {
+      "photos": [
+        {
+          "name": "007",
+          "alt": "Grat vom Schäfler zum Säntis",
+          "date": "2016-09-11T08:20:26.000+02:00",
+          "width": 1920,
+          "height": 885
+        }
+      ],
+      "videos": [],
+      "text": "Ab hier wird der Weg nun deutlich alpiner. Links dieses eindrucksvollen Grats sollte es nun weitergehen."
+    },
+    {
+      "photos": [
+        {
+          "name": "009",
+          "alt": "Bergweg mit Drahtseil an Abgrund",
+          "date": "2016-09-11T08:22:50.000+02:00",
+          "width": 1920,
+          "height": 1280
+        },
+        {
+          "name": "010",
+          "alt": "Gratweg von Schäfler nach Mesmer",
+          "date": "2016-09-11T08:23:47.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Damit sich dort hin keine Spaziergänger verirren, warnt dort auch ein Schild. Aber der Einstieg macht ohnehin gleich klar, dass man trittsicher und einigermaßen schwindelfrei sein sollte. Ohne Drahtseil wäre das auch für mich nichts."
+    },
+    {
+      "photos": [
+        {
+          "name": "011",
+          "alt": "Hangweg unterhalb Schäflers in Morgensonne",
+          "date": "2016-09-11T08:25:01.000+02:00",
+          "width": 1920,
+          "height": 1280
+        },
+        {
+          "name": "012",
+          "alt": "Extremer Gratweg",
+          "date": "2016-09-11T08:28:04.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Der weitere Verlauf des spannenden Wegs. Sehr schön war das warme Morgenlicht, das den Hang beschien."
+    },
+    {
+      "photos": [
+        {
+          "name": "013",
+          "alt": "Blick zum Schäfler",
+          "date": "2016-09-11T08:53:33.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Schnell wird der Weg aber wieder drahtseillos und harmloser. Hier der Blick zurück zum Schäfler."
+    },
+    {
+      "photos": [
+        {
+          "name": "014",
+          "alt": "Wanderweg zum Lötzisälplisattel",
+          "date": "2016-09-11T08:59:49.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Von diesem sanft absteigendem Weg zur Mesmer-Gastätte zweigte ich aber ungefähr auf der Hälfte nach rechts ab. Nun ging es hinauf zum Lötzisälplisattel, einem Übergang auf die Nordseite des Säntismassivs."
+    },
+    {
+      "photos": [
+        {
+          "name": "015",
+          "alt": "Vom Lötzisälplisattel zum Säntis",
+          "date": "2016-09-11T09:16:35.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Den Pass erreichte ich um 9:15. Überraschenderweise wird es auf der anderen Seite aber deutlich entspannter und weniger ausgesetzt. Hier ist auch das nächste Ziel zu sehen, dieser Sattel im Hintergrund."
+    },
+    {
+      "photos": [
+        {
+          "name": "016",
+          "alt": "Lötzisälplisattel mit Altenalptürm",
+          "date": "2016-09-11T09:25:09.000+02:00",
+          "width": 1920,
+          "height": 1088
+        }
+      ],
+      "videos": [],
+      "text": "Blick zurück auf den Lötzisälpisattel <span data-silent>(ich wollte dieses Wort jetzt unbedingt noch mal tippen 😉)</span>. Dahinter sind die Altenalptürme zu sehen. Alles so um die 2000m hoch."
+    },
+    {
+      "photos": [
+        {
+          "name": "017",
+          "alt": "Gämsen auf Felsgrat",
+          "date": "2016-09-11T09:36:18.000+02:00",
+          "width": 1920,
+          "height": 1284
+        }
+      ],
+      "videos": [],
+      "text": "Von den steilen Felsgraten wurde ich von Gämsen beobachtet, die auch fleißig Steine los traten."
+    },
+    {
+      "photos": [
+        {
+          "name": "018",
+          "alt": "Bergweg vom Säntis zum Schäfler",
+          "date": "2016-09-11T09:50:08.000+02:00",
+          "width": 1920,
+          "height": 1041
+        }
+      ],
+      "videos": [],
+      "text": "Nach einem anstrengenden Aufstieg durch losen Schotter erreichte ich den erwähnten Sattel. Hier noch mal der Blick zurück."
+    },
+    {
+      "photos": [
+        {
+          "name": "019",
+          "alt": "Wanderweg durch Felswand",
+          "date": "2016-09-11T09:52:29.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Nun ging es auch wieder von der Nordseite auf die Südseite zurück, wofür diese etwas knifflige Felswand überwunden werden musste."
+    },
+    {
+      "photos": [
+        {
+          "name": "020",
+          "alt": "Weg vom Säntis zum Mesmer",
+          "date": "2016-09-11T10:16:58.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Anschließend wurde der Weg flach und es ging sogar etwas runter. Zum ersten mal war nun der Gipfel des Säntis richtig zu sehen."
+    },
+    {
+      "photos": [
+        {
+          "name": "021",
+          "alt": "Gipfel des Säntis",
+          "date": "2016-09-11T10:27:43.000+02:00",
+          "width": 640,
+          "height": 927
+        }
+      ],
+      "videos": [],
+      "text": "Schnell war ich direkt unterhalb des Gipfels... aber es ist ziemlich offensichtlich, dass noch einige Höhenmeter überwunden werden mussten. 300 um genau zu sein."
+    },
+    {
+      "photos": [
+        {
+          "name": "022",
+          "alt": "Antenne des Säntis in Wolken",
+          "date": "2016-09-11T10:55:48.000+02:00",
+          "width": 800,
+          "height": 962
+        }
+      ],
+      "videos": [],
+      "text": "Um diese Jahreszeit gibt es nur noch ein paar harmlose Schneefelder zu überqueren, die vor dem letzten Anstieg noch mal für etwas Erfrischung sorgten."
+    },
+    {
+      "photos": [
+        {
+          "name": "023",
+          "alt": "Bergweg durch Fels mit vielen Wanderern",
+          "date": "2016-09-11T11:02:10.000+02:00",
+          "width": 1920,
+          "height": 1280
+        },
+        {
+          "name": "024",
+          "alt": "Drahtseilgesicherter Wanderweg",
+          "date": "2016-09-11T11:09:20.000+02:00",
+          "width": 640,
+          "height": 960
+        }
+      ],
+      "videos": [],
+      "text": "Zuerst der sehr steile Aufstieg zum Grat. Dort war gerade ein großes Getümmel, da nun auch die vielen Wanderer von oben kamen, die nur den Abstieg vom Säntis machten."
+    },
+    {
+      "photos": [
+        {
+          "name": "025",
+          "alt": "Säntisgipfel mit Seilbahn",
+          "date": "2016-09-11T11:12:53.000+02:00",
+          "width": 1920,
+          "height": 923
+        }
+      ],
+      "videos": [],
+      "text": "Jetzt hatte ich den Grat (und damit den <a href=\"/alpine/alpstein/20140801\">Hauptaufstieg von der Schwägalp</a>) erreicht. Erst mal brauchte ich eine Pause um neue Kräfte für den letzten Aufstieg zu mobilisieren."
+    },
+    {
+      "photos": [
+        {
+          "name": "026",
+          "alt": "Himmelsleiter",
+          "date": "2016-09-11T11:17:54.000+02:00",
+          "width": 640,
+          "height": 960
+        }
+      ],
+      "videos": [],
+      "text": "Dieser führt über die berüchtigte Himmelsleiter - die aber so gut abgesichert ist, dass sie kein größeres Problem ist. Nur mangelnde Ausdauer machte sich nun deutlich bemerkbar. 😉"
+    },
+    {
+      "photos": [
+        {
+          "name": "027",
+          "alt": "Altes Gasthaus Säntis von oben",
+          "date": "2016-09-11T11:41:57.000+02:00",
+          "width": 640,
+          "height": 864
+        }
+      ],
+      "videos": [],
+      "text": "Den Gipfel erreichte ich schließlich um 11:30. Hier der Blick hinab auf das alte Gasthaus. Säntis-typisch hüllte sich die Spitze in Wolken, aber ich wollte mich eh nicht lange aufhalten."
+    },
+    {
+      "photos": [
+        {
+          "name": "028",
+          "alt": "Wegweiser in Tunnel",
+          "date": "2016-09-11T11:49:13.000+02:00",
+          "width": 1920,
+          "height": 1237
+        }
+      ],
+      "videos": [],
+      "text": "Für mich ging es nun zum Rotsteinpass. Hier in dem Zugangsstollen zu den Wanderwegen."
+    },
+    {
+      "photos": [
+        {
+          "name": "029",
+          "alt": "Einstieg Lisengrat im Nebel",
+          "date": "2016-09-11T11:54:19.000+02:00",
+          "width": 800,
+          "height": 1028
+        }
+      ],
+      "videos": [],
+      "text": "Vom Säntis zum Rotsteinpass führt der Weg über den <a href=\"/alpine/alpstein/20150912\">Lisengrat</a>. Der Einstieg wirkte auf Grund der Wolken etwas beunruhigend. <span data-silent>Wer Bilder von diesem beeindruckenden Grat bei schönerem Wetter sehen will, klicke auf den Link.</span>"
+    },
+    {
+      "photos": [
+        {
+          "name": "030",
+          "alt": "Blick vom Säntis ins Toggenburg",
+          "date": "2016-09-11T12:00:38.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Blick hinab zum sonnigeren Toggenburg und den Churfirsten. Im Hintergrund der <a href=\"/alpine/toggenburg/20160813\">Hinterrugg</a> und <a href=\"/alpine/toggenburg/20140928\">Chäserrugg</a>."
+    },
+    {
+      "photos": [
+        {
+          "name": "031",
+          "alt": "Säntisgipfel mit Gewitterwolke",
+          "date": "2016-09-11T12:03:47.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Hier schon ein Stück entfernt vom Gipfel, der nun (natürlich) wolkenfrei war."
+    },
+    {
+      "photos": [
+        {
+          "name": "032",
+          "alt": "Felsenweg Lisengrat",
+          "date": "2016-09-11T12:26:15.000+02:00",
+          "width": 640,
+          "height": 960
+        },
+        {
+          "name": "034",
+          "alt": "Felstreppen Lisengrat",
+          "date": "2016-09-11T12:31:00.000+02:00",
+          "width": 1920,
+          "height": 901
+        },
+        {
+          "name": "033",
+          "alt": "Drahtseil Lisengrat",
+          "date": "2016-09-11T12:29:13.000+02:00",
+          "width": 1920,
+          "height": 1265
+        }
+      ],
+      "videos": [],
+      "text": "Jetzt ging es links durch die Felswand. Nicht wirklich gefährlich, aber der Abgrund ist nah."
+    },
+    {
+      "photos": [
+        {
+          "name": "035",
+          "alt": "Gut Gesicherter Lisengrat",
+          "date": "2016-09-11T12:34:19.000+02:00",
+          "width": 1920,
+          "height": 1280
+        },
+        {
+          "name": "036",
+          "alt": "Gratweg Lisengrat",
+          "date": "2016-09-11T12:37:10.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Dann ging es auf dem Grat weiter. Auf dem zweiten Bild der Blick zurück zum Säntis (wieder in Wolken) und die durchquerte Felswand."
+    },
+    {
+      "photos": [
+        {
+          "name": "037",
+          "alt": "Wanderweg Rotsteinpass Lisengrat",
+          "date": "2016-09-11T12:39:42.000+02:00",
+          "width": 640,
+          "height": 960
+        }
+      ],
+      "videos": [],
+      "text": "Dann ging es sehr steil bergab Richtung Rotsteinpass. Die vielen entgegenkommenden Wanderer hatten ordentlich zu schnaufen."
+    },
+    {
+      "photos": [
+        {
+          "name": "038",
+          "alt": "Blick von Lisengrat zum Säntis und Wagenlücke",
+          "date": "2016-09-11T12:49:04.000+02:00",
+          "width": 1920,
+          "height": 828
+        }
+      ],
+      "videos": [],
+      "text": "Noch einmal der Blick zurück zum Säntis (jetzt ohne Wolke). Entlang dieses Grats führt ein anderer Weg von der Meglisalp zum Säntis (der harmloseste Auf- und Abstieg von allen). Ganz rechts die <a href=\"/alpine/alpstein/20160730\">Wagenlücke</a>."
+    },
+    {
+      "photos": [
+        {
+          "name": "039",
+          "alt": "Blick von Rotsteinpass zur Meglisalp",
+          "date": "2016-09-11T12:58:55.000+02:00",
+          "width": 1920,
+          "height": 1047
+        }
+      ],
+      "videos": [],
+      "text": "Blick hinab zur Meglisalp. Nach dem Rotsteinpass war das mein nächstes Ziel. Links der Pass ist die <a href=\"/alpine/alpstein/20140622\">Ageteplatte</a>."
+    },
+    {
+      "photos": [
+        {
+          "name": "040",
+          "alt": "Gasthaus Rotsteinpass",
+          "date": "2016-09-11T13:12:23.000+02:00",
+          "width": 1920,
+          "height": 1000
+        }
+      ],
+      "videos": [],
+      "text": "Am Rotsteinpass (den ich um 13:00 erreichte) hielt ich mich nicht lange auf und bog gleich zur Meglisalp ab."
+    },
+    {
+      "photos": [
+        {
+          "name": "041",
+          "alt": "Wanderweg Rotsteinpass zur Meglisalp",
+          "date": "2016-09-11T13:12:40.000+02:00",
+          "width": 1920,
+          "height": 1092
+        }
+      ],
+      "videos": [],
+      "text": "Die Meglisalp ist hier in der Mitte zu sehen. Mein Weg führte durch das Tal rechts bergab."
+    },
+    {
+      "photos": [
+        {
+          "name": "042",
+          "alt": "Abstieg Rotsteinpass Wasserauen",
+          "date": "2016-09-11T14:03:27.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Der Weg war nun deutlich einfacher, so dass ich schnell voran kam. Hier der Blick zurück."
+    },
+    {
+      "photos": [
+        {
+          "name": "043",
+          "alt": "Bergweg Rotsteinpass Meglisalp",
+          "date": "2016-09-11T14:05:59.000+02:00",
+          "width": 1920,
+          "height": 1233
+        },
+        {
+          "name": "044",
+          "alt": "Hütte im Alpstein",
+          "date": "2016-09-11T14:18:13.000+02:00",
+          "width": 1920,
+          "height": 1097
+        }
+      ],
+      "videos": [],
+      "text": "Folglich kam ich auch zügig zu den ersten höher gelegenen Hütten der Meglisalp."
+    },
+    {
+      "photos": [
+        {
+          "name": "045",
+          "alt": "Meglisalp mit Wolken",
+          "date": "2016-09-11T14:18:44.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Die eigentliche Meglisalp erreichte ich um 14:30. Da meine Trinkvorräte im Rucksack gefährlich rar wurden, kehrte ich dort ein und genoss ein kaltes Getränk auf der Terrasse. Außerdem verflog nun meine Anspannung, da der restliche Weg bekannt und überschaubar war."
+    },
+    {
+      "photos": [
+        {
+          "name": "046",
+          "alt": "Meglisalp mit Ageteplatte",
+          "date": "2016-09-11T14:48:56.000+02:00",
+          "width": 1920,
+          "height": 1231
+        }
+      ],
+      "videos": [],
+      "text": "Nun war ich schon auf dem weiteren Weg nach der Meglisalp."
+    },
+    {
+      "photos": [
+        {
+          "name": "047",
+          "alt": "Blick zum Schäfler",
+          "date": "2016-09-11T14:49:43.000+02:00",
+          "width": 1920,
+          "height": 1184
+        }
+      ],
+      "videos": [],
+      "text": "Der Blick fiel nun auf den Schäfler auf der anderen Talseite. Es kam mir wie eine Ewigkeit vor, dort gewesen zu sein... dabei war es nur gut 6 Stunden her."
+    },
+    {
+      "photos": [
+        {
+          "name": "048",
+          "alt": "Felswand mit Gewitterwolken",
+          "date": "2016-09-11T14:51:43.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Eindrucksvolle Felswand rechts der Meglisalp, die eine Transportseilbahn überwindet."
+    },
+    {
+      "photos": [
+        {
+          "name": "049",
+          "alt": "Wanderweg Schrennen",
+          "date": "2016-09-11T15:06:19.000+02:00",
+          "width": 1920,
+          "height": 1287
+        },
+        {
+          "name": "050",
+          "alt": "Dunkelblauer Bergsee",
+          "date": "2016-09-11T15:12:04.000+02:00",
+          "width": 1920,
+          "height": 831
+        },
+        {
+          "name": "051",
+          "alt": "Seealpsee",
+          "date": "2016-09-11T15:30:01.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Ich entschied mich die Schrennen oberhalb des Seealpsees entlang zu laufen. Der See war zwar auch sehr verlockend (und ich schleppte Schwimmzeug mit mir rum), aber ich hatte wenig Lust auf den steilen Abstieg dort hin."
+    },
+    {
+      "photos": [
+        {
+          "name": "052",
+          "alt": "Alp Großhütten",
+          "date": "2016-09-11T15:48:15.000+02:00",
+          "width": 1920,
+          "height": 1280
+        },
+        {
+          "name": "053",
+          "alt": "Milch Käse Großhütten",
+          "date": "2016-09-11T15:58:31.000+02:00",
+          "width": 1920,
+          "height": 561
+        }
+      ],
+      "videos": [],
+      "text": "Nach den Schrennen erreichte ich Großhütten und damit einen der Hauptwege vom See nach Wasserauen. Wie man sieht herrschte dort Rush-Hour."
+    },
+    {
+      "photos": [
+        {
+          "name": "054",
+          "alt": "Alpstein",
+          "date": "2016-09-11T16:03:06.000+02:00",
+          "width": 1920,
+          "height": 1012
+        }
+      ],
+      "videos": [],
+      "text": "Noch einmal der Blick zurück auf die erledigte Tagesarbeit."
+    },
+    {
+      "photos": [
+        {
+          "name": "055",
+          "alt": "Parkplatz Wasserauen",
+          "date": "2016-09-11T16:39:03.000+02:00",
+          "width": 1920,
+          "height": 889
+        }
+      ],
+      "videos": [],
+      "text": "Nach einem Abstieg durch den Wald erreichte ich schließlich den ziemlich vollen Parkplatz um 17:00. Dieser Abstieg hatte nun nicht mehr besonders viel Spaß gemacht... dafür war ich einfach zu müde."
+    },
+    {
+      "photos": [
+        {
+          "name": "056",
+          "alt": "Dunkle Berge mit Sonnenstrahlen",
+          "date": "2016-09-11T16:49:00.000+02:00",
+          "width": 1920,
+          "height": 1102
+        }
+      ],
+      "videos": [],
+      "text": "Nun wurden auch die Wolken über den Gipfeln dunkler - aber das war mir jetzt egal."
+    },
+    {
+      "photos": [
+        {
+          "name": "track1",
+          "alt": "Wanderkarte Wasserauen Säntis",
+          "width": 1280,
+          "height": 647
+        },
+        {
+          "name": "track2",
+          "alt": "Höhenprofil Wasserauen Säntis",
+          "width": 1280,
+          "height": 293
+        }
+      ],
+      "videos": [],
+      "text": "Zurückgelegte Strecke. Gar nicht mal so viele Kilometer, aber die Wege darf man auch nicht mit lockeren Wanderwegen vergleichen. 😉"
+    }
+  ],
+  "outro": "Fazit: &quot;Geschafft&quot; ist der richtige Ausdruck. Wenn man so etwas lange vor hat, ist es schön, wenn man es in die Tat umgesetzt hat. Ich musste mich aber schon ziemlich ranhalten: was ok war, da ich viele Abschnitte schon kannte. Ansonsten sollte man lieber nur Teile von der Tour erwandern und diese dafür mehr genießen. Denn Gründe dafür gibt es genug. 😃<br />\nEs gibt übrigens auch vier Übernachtungsmöglichkeiten auf der Strecke. 😉"
+}

@@ -1,794 +1,792 @@
-[
-  {
-    "destination": "alpstein",
-    "date": "d20131019",
-    "type": "hike",
-    "track": true,
-    "detailMap": "swiss",
-    "shortTitle": "Hoher Kasten",
-    "title": "Hoher Kasten - Geologischer Wanderweg",
-    "title3d": {
-      "align": "center",
-      "offsetY": 1,
-      "fontSize": 7,
-      "width": 1920,
-      "height": 618
+{
+  "destination": "alpstein",
+  "date": "d20131019",
+  "type": "hike",
+  "track": true,
+  "detailMap": "swiss",
+  "shortTitle": "Hoher Kasten",
+  "title": "Hoher Kasten - Geologischer Wanderweg",
+  "title3d": {
+    "align": "center",
+    "offsetY": 1,
+    "fontSize": 7,
+    "width": 1920,
+    "height": 618
+  },
+  "movie": "D5rGUbh2nFs",
+  "intro": "Zum Leidwesen der Skigebiete (denen nun total die Grundlage für den Winter fehlt) schmolz der Schnee der letzte Woche recht schnell dahin. Das ermöglichte mir aber, die letzte große Tour in diesem Herbst zu unternehmen - am Hohen Kasten im Alpstein.<br />Um 7:45 Ankunft auf dem Parkplatz der Seilbahn Alp Sigel kurz hinter Brülisau. Anschließend steiler Aufstieg auf einem schmalen Pfad nach Steig (von 900m auf 1300m).",
+  "landmarks": [
+    {
+      "photos": [
+        {
+          "name": "001",
+          "alt": "Dunkler Wald",
+          "date": "2013-10-19T08:24:03.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Nach dem dunklen Wald wurde es nun etwas heller und auf dem benachbarten Hügeln ging die Sonne auf."
     },
-    "movie": "D5rGUbh2nFs",
-    "intro": "Zum Leidwesen der Skigebiete (denen nun total die Grundlage für den Winter fehlt) schmolz der Schnee der letzte Woche recht schnell dahin. Das ermöglichte mir aber, die letzte große Tour in diesem Herbst zu unternehmen - am Hohen Kasten im Alpstein.<br />Um 7:45 Ankunft auf dem Parkplatz der Seilbahn Alp Sigel kurz hinter Brülisau. Anschließend steiler Aufstieg auf einem schmalen Pfad nach Steig (von 900m auf 1300m).",
-    "landmarks": [
-      {
-        "photos": [
-          {
-            "name": "001",
-            "alt": "Dunkler Wald",
-            "date": "2013-10-19T08:24:03.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Nach dem dunklen Wald wurde es nun etwas heller und auf dem benachbarten Hügeln ging die Sonne auf."
-      },
-      {
-        "photos": [
-          {
-            "name": "002",
-            "alt": "Bergstation Alp Sigel",
-            "date": "2013-10-19T08:30:55.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Ebenfalls gegenüber an der spektakulären Bergstation der Seilbahn Alp Sigel."
-      },
-      {
-        "photos": [
-          {
-            "name": "003",
-            "alt": "Weg zum Sämtisersee",
-            "date": "2013-10-19T08:31:22.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Von gleicher Stelle Blick zum Verlauf des weiteren Weges. Erstes Etappenziel war das Ende dieses Tals."
-      },
-      {
-        "photos": [
-          {
-            "name": "004",
-            "alt": "Sämtisersee mit Spiegelung",
-            "date": "2013-10-19T09:01:20.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Nach einem kleinen Abstieg ging es am Sämtisersee vorbei..."
-      },
-      {
-        "photos": [
-          {
-            "name": "005",
-            "alt": "Nahaufnahme Viehgitter",
-            "date": "2013-10-19T09:25:30.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "... und anschließend auf einem Feldweg weiter. <span data-silent>&quot;Piste frisch präpariert, aber ruppig&quot;.</span>"
-      },
-      {
-        "photos": [
-          {
-            "name": "006",
-            "alt": "Tal mit Alp Richtung Altmann",
-            "date": "2013-10-19T09:27:56.000+02:00",
-            "width": 1620,
-            "height": 1080
-          },
-          {
-            "name": "007",
-            "alt": "Tal mit Hohem Kasten",
-            "date": "2013-10-19T09:38:46.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Und weiter durch das malerische, aber noch schattige Tal, im Rücken der Hohe Kasten."
-      },
-      {
-        "photos": [
-          {
-            "name": "008",
-            "alt": "Holzstufen im felsigen Wald",
-            "date": "2013-10-19T09:44:35.000+02:00",
-            "width": 720,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Am Ende des Tals ging es links 200 Höhenmeter steil unterhalb einer Felswand hinauf ..."
-      },
-      {
-        "photos": [
-          {
-            "name": "009",
-            "alt": "Fälensee mit Spiegelung",
-            "date": "2013-10-19T10:06:21.000+02:00",
-            "width": 1620,
-            "height": 1080
-          },
-          {
-            "name": "010",
-            "alt": "Fälensee mit Reflexion",
-            "date": "2013-10-19T10:07:43.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "... zum Fälensee."
-      },
-      {
-        "photos": [
-          {
-            "name": "011",
-            "alt": "Tafel des Geologischen Wanderwegs",
-            "date": "2013-10-19T10:09:14.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Hier beginnt der Geologische Wanderweg, der mich bis zum Hohen Kasten mit Schautafeln begleitete. Hier wird die interessante Geologie erläutert, die hauptverantwortlich für die schönen Panoramen ist."
-      },
-      {
-        "photos": [
-          {
-            "name": "012",
-            "alt": "Berggasthaus Bollenwees am Fälensee",
-            "date": "2013-10-19T10:10:03.000+02:00",
-            "width": 1427,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Am Fälensee liegt das Berggasthaus Bollenwees, aus dem noch ein paar müde Bergsteiger erschienen."
-      },
-      {
-        "photos": [
-          {
-            "name": "013",
-            "alt": "Saxerlücke mit Blick ins Rheintal",
-            "date": "2013-10-19T10:30:58.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Danach ging es weitere 200m hinauf zur Saxerlücke. Endlich war ich in der Sonne und konnte den Tiefblick ins Rheintal genießen."
-      },
-      {
-        "photos": [
-          {
-            "name": "014",
-            "alt": "Kreuzberge",
-            "date": "2013-10-19T10:33:37.000+02:00",
-            "width": 1920,
-            "height": 712
-          }
-        ],
-        "videos": [],
-        "text": "Neben der Saxerlücke ragen die steilen Kreuzberge in die Höhe, ein sehr beliebtes Kletterrevier."
-      },
-      {
-        "photos": [
-          {
-            "name": "015",
-            "alt": "Blick hinab auf Bollenwees",
-            "date": "2013-10-19T10:41:50.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Blick zurück zum Gasthaus Bollenwees."
-      },
-      {
-        "photos": [
-          {
-            "name": "016",
-            "alt": "Steiler Weg vor Saxerlücker",
-            "date": "2013-10-19T10:46:30.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Anschließend ging es gleich noch mal 200m steil auf den Grat hinauf."
-      },
-      {
-        "photos": [
-          {
-            "name": "017",
-            "alt": "Kreuzberge hinter Saxerlücke",
-            "date": "2013-10-19T10:48:00.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Während des Aufstiegs nochmal der Blick zurück zu den Kreuzbergen."
-      },
-      {
-        "photos": [
-          {
-            "name": "018",
-            "alt": "Hangweg",
-            "date": "2013-10-19T10:51:58.000+02:00",
-            "width": 1920,
-            "height": 890
-          }
-        ],
-        "videos": [],
-        "text": "So sah der Weg meist aus."
-      },
-      {
-        "photos": [
-          {
-            "name": "019",
-            "alt": "Panorama Kreuzberge",
-            "date": "2013-10-19T11:01:52.000+02:00",
-            "width": 1920,
-            "height": 754
-          },
-          {
-            "name": "020",
-            "alt": "Kreuzberge aus Entfernung",
-            "date": "2013-10-19T11:02:05.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Beim nächsten Zwischengipfel musste die fantastische Aussicht festgehalten werden."
-      },
-      {
-        "photos": [
-          {
-            "name": "021",
-            "alt": "Gratweg",
-            "date": "2013-10-19T11:04:11.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Und so ging es weiter."
-      },
-      {
-        "photos": [
-          {
-            "name": "022",
-            "alt": "Blick durch den Alpstein auf den Säntis",
-            "date": "2013-10-19T11:08:36.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Dann tauchte im Rücken der Gipfel des Säntis (2500m) auf, umsäumt von ähnlich steilen Felsen wie die Kreuzberge."
-      },
-      {
-        "photos": [
-          {
-            "name": "023",
-            "alt": "Tiefblick in das Rheintal",
-            "date": "2013-10-19T11:17:50.000+02:00",
-            "width": 1920,
-            "height": 1046
-          }
-        ],
-        "videos": [],
-        "text": "Da weiß man gar nicht, wo man hinschauen soll, hier nochmal ins Rheintal."
-      },
-      {
-        "photos": [
-          {
-            "name": "024",
-            "alt": "Herbstwald von oben",
-            "date": "2013-10-19T11:35:39.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Und ja, es war Herbst. 😃"
-      },
-      {
-        "photos": [
-          {
-            "name": "025",
-            "alt": "Fälensee mit Säntis",
-            "date": "2013-10-19T11:37:20.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Und wieder der Säntis und der Fälensee."
-      },
-      {
-        "photos": [
-          {
-            "name": "026",
-            "alt": "Ebenalp vor Nebelmeer",
-            "date": "2013-10-19T11:41:24.000+02:00",
-            "width": 1894,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Zu Abwechslung mal der Blick ins Flachland, in dem noch der Nebel waberte. Im Mittelgrund das Skigebiet Ebenalp."
-      },
-      {
-        "photos": [
-          {
-            "name": "027",
-            "alt": "Tanne neben Felsenweg",
-            "date": "2013-10-19T11:45:08.000+02:00",
-            "width": 1703,
-            "height": 1080
-          },
-          {
-            "name": "028",
-            "alt": "In Fels geschlagener Weg",
-            "date": "2013-10-19T11:47:23.000+02:00",
-            "width": 1620,
-            "height": 1080
-          },
-          {
-            "name": "029",
-            "alt": "Weg neben Fels mit Geländer",
-            "date": "2013-10-19T11:48:21.000+02:00",
-            "width": 1620,
-            "height": 1080
-          },
-          {
-            "name": "030",
-            "alt": "Säntis mit dunklem Vordergrund",
-            "date": "2013-10-19T11:54:38.000+02:00",
-            "width": 1563,
-            "height": 1080
-          },
-          {
-            "name": "031",
-            "alt": "Felsiger Weg vor Säntis",
-            "date": "2013-10-19T11:57:03.000+02:00",
-            "width": 1513,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Ab dann führte der gut ausgebaute Weg durch felsiges Gelände - schwindelfrei und trittsicher sollte man schon sein."
-      },
-      {
-        "photos": [
-          {
-            "name": "032",
-            "alt": "Panorama Gasthaus Staubern",
-            "date": "2013-10-19T11:59:45.000+02:00",
-            "width": 1920,
-            "height": 878
-          },
-          {
-            "name": "033",
-            "alt": "Staubern",
-            "date": "2013-10-19T12:04:09.000+02:00",
-            "width": 1920,
-            "height": 830
-          }
-        ],
-        "videos": [],
-        "text": "Ankunft am Gasthaus Staubern, Zeit für eine kleine Rast nebenan im Gras."
-      },
-      {
-        "photos": [
-          {
-            "name": "035",
-            "alt": "Seilbahn Staubern mit Rheintal",
-            "date": "2013-10-19T12:14:13.000+02:00",
-            "width": 1596,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Zur Hütte fährt eine kleine Seilbahn vom Rheintal hinauf (1300m Höhenunterschied)."
-      },
-      {
-        "photos": [
-          {
-            "name": "036",
-            "alt": "Restaurant Staubern",
-            "date": "2013-10-19T12:15:45.000+02:00",
-            "width": 1820,
-            "height": 1080
-          },
-          {
-            "name": "037",
-            "alt": "Wanderweg nach Staubern",
-            "date": "2013-10-19T12:22:01.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Noch zwei Ansichten des Gasthaus Staubern."
-      },
-      {
-        "photos": [
-          {
-            "name": "038",
-            "alt": "Gratweg zum Hohen Kasten",
-            "date": "2013-10-19T12:24:50.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Der weitere Verlauf des Wegs zum Hohen Kasten."
-      },
-      {
-        "photos": [
-          {
-            "name": "039",
-            "alt": "Tal mit verschneitem Säntis",
-            "date": "2013-10-19T12:53:44.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Das am Morgen durchwanderte Tal lag nun in der Sonne."
-      },
-      {
-        "photos": [
-          {
-            "name": "040",
-            "alt": "Blick auf Brülisau",
-            "date": "2013-10-19T12:54:15.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Blick hinab auf Brülisau."
-      },
-      {
-        "photos": [
-          {
-            "name": "042",
-            "alt": "Sämtisersee mit Säntis",
-            "date": "2013-10-19T13:02:12.000+02:00",
-            "width": 720,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Der Sämtisersee, diesmal von oben."
-      },
-      {
-        "photos": [
-          {
-            "name": "043",
-            "alt": "Bergstation Hoher Kasten",
-            "date": "2013-10-19T13:09:03.000+02:00",
-            "width": 1620,
-            "height": 1080
-          },
-          {
-            "name": "044",
-            "alt": "Panorama mit Hoher Kasten und Rheintal",
-            "date": "2013-10-19T13:09:23.000+02:00",
-            "width": 1920,
-            "height": 625
-          }
-        ],
-        "videos": [],
-        "text": "Der Gipfel des Hohen Kasten kam langsam näher."
-      },
-      {
-        "photos": [
-          {
-            "name": "045",
-            "alt": "Sämtisersee im Alpstein",
-            "date": "2013-10-19T13:18:51.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Und noch mal der Standardblick auf Sämtisersee und Säntismassiv. Und ja, ich hab schon einige Fotos aussortiert. 😉"
-      },
-      {
-        "photos": [
-          {
-            "name": "046",
-            "alt": "Miniaturaufnahme Alphütte",
-            "date": "2013-10-19T13:26:40.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Ein Miniaturfoto musste auch mal sein."
-      },
-      {
-        "photos": [
-          {
-            "name": "047",
-            "alt": "Weg zum Hohen Kasten",
-            "date": "2013-10-19T13:27:36.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Da konnte man denken, man wäre fast da."
-      },
-      {
-        "photos": [
-          {
-            "name": "048",
-            "alt": "Blick auf Bergstation Alp Sigel",
-            "date": "2013-10-19T13:32:39.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Links nochmal die Bergstation der Seilbahn Alp Sigel."
-      },
-      {
-        "photos": [
-          {
-            "name": "049",
-            "alt": "Alpstein",
-            "date": "2013-10-19T13:35:09.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Das alles sieht zwar hochalpin aus, aber man befindet sich nur zwischen 1500m und 1800m, was man an den Laubbäumen erkennen kann."
-      },
-      {
-        "photos": [
-          {
-            "name": "050",
-            "alt": "Sämtisersee mit Altmann",
-            "date": "2013-10-19T13:36:23.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Der immer ähnliche Blick wurde nicht langweilig. 😉"
-      },
-      {
-        "photos": [
-          {
-            "name": "053",
-            "alt": "Hoher Kasten Seilbahn",
-            "date": "2013-10-19T14:07:05.000+02:00",
-            "width": 896,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Kurz vor dem Hohen Kasten kam noch ein (gefühlt) recht heftiger Aufstieg von 300 Höhenmetern."
-      },
-      {
-        "photos": [
-          {
-            "name": "054",
-            "alt": "Rheintalpanorama vom Hohen Kasten",
-            "date": "2013-10-19T14:19:53.000+02:00",
-            "width": 1920,
-            "height": 807
-          }
-        ],
-        "videos": [],
-        "text": "Geschafft. 😃"
-      },
-      {
-        "photos": [
-          {
-            "name": "055",
-            "alt": "Historisches Skifahren Hoher Kasten",
-            "date": "2013-10-19T14:21:19.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Das aufgegebene Skigebiet des Hohen Kasten. Wobei ein richtiges Skigebiet war es nie."
-      },
-      {
-        "photos": [
-          {
-            "name": "056",
-            "alt": "Alpendohle vor Rheintal",
-            "date": "2013-10-19T14:21:44.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Eine Alpendohle vor dem Rhein."
-      },
-      {
-        "photos": [
-          {
-            "name": "057",
-            "alt": "Appenzeller Land",
-            "date": "2013-10-19T14:48:42.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Der Blick ins Flachland. Der Nebel hatte sich inzwischen aufgelöst."
-      },
-      {
-        "photos": [
-          {
-            "name": "058",
-            "alt": "Drehrestaurant Hoher Kasten",
-            "date": "2013-10-19T14:49:30.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Nun neben dem recht neuen Drehrestaurant auf dem Gipfel. Ich habe aber auf der Terrasse des Selbstbedienungsrestaurants gespeist. Inzwischen war es sehr windig, so dass ich erstmals an diesem Tag die Jacke über das T-Shirt streifen musste."
-      },
-      {
-        "photos": [
-          {
-            "name": "059",
-            "alt": "Panorama vom Hohen Kasten zum Bodensee",
-            "date": "2013-10-19T14:53:13.000+02:00",
-            "width": 1920,
-            "height": 349
-          }
-        ],
-        "videos": [],
-        "text": "Geht etwas im blau unter, aber man konnte den gesamten Bodensee überblicken. Rechts Bregenz, links Konstanz."
-      },
-      {
-        "photos": [
-          {
-            "name": "060",
-            "alt": "Panorama vom Kamor zum Alpstein",
-            "date": "2013-10-19T15:20:37.000+02:00",
-            "width": 1920,
-            "height": 746
-          }
-        ],
-        "videos": [],
-        "text": "Ausgeruht ging es weiter auf den Kamor, einem vom Militär unterhöhltem Berg."
-      },
-      {
-        "photos": [
-          {
-            "name": "061",
-            "alt": "Gipfel des Hohen Kasten mit Antenne",
-            "date": "2013-10-19T15:22:02.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Der Hohe Kasten vom Kamor aus gesehen. <span data-silent>&quot;Wer hat den längsten?&quot;</span>"
-      },
-      {
-        "photos": [
-          {
-            "name": "063",
-            "alt": "Radfahrer auf Kamor vor Rheintal",
-            "date": "2013-10-19T15:45:41.000+02:00",
-            "width": 1880,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Auf den Kamor führt ein asphaltierter Fahrweg - viel genutzt von Radfahrern."
-      },
-      {
-        "photos": [
-          {
-            "name": "065",
-            "alt": "Blick vom Ruhesitz zum Hohen Kasten",
-            "date": "2013-10-19T16:57:57.000+02:00",
-            "width": 1602,
-            "height": 1080
-          },
-          {
-            "name": "066",
-            "alt": "Berggasthaus Ruhsitz",
-            "date": "2013-10-19T16:59:14.000+02:00",
-            "width": 1920,
-            "height": 1013
-          }
-        ],
-        "videos": [],
-        "text": "Nach der Hälfte des Abstieg Trinkpause am Berggasthaus Ruhsitz. Nun extrem stürmisch, so dass das Besteck von den Tischen wehte<span data-silent> - Haus der fliegenden Messer</span>."
-      },
-      {
-        "photos": [
-          {
-            "name": "067",
-            "alt": "Miniaturaufnahme Brülisau",
-            "date": "2013-10-19T17:18:29.000+02:00",
-            "width": 1920,
-            "height": 1068
-          }
-        ],
-        "videos": [],
-        "text": "Danach der letzte Abstieg über Wiesen. Miniaturaufnahme der Talstation der Hohen Kasten Bahn in Brülisau."
-      },
-      {
-        "photos": [
-          {
-            "name": "068",
-            "alt": "Spazierweg Brülisau an Waldrand",
-            "date": "2013-10-19T17:19:48.000+02:00",
-            "width": 1830,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Hier wieder windstill und sehr warm."
-      },
-      {
-        "photos": [
-          {
-            "name": "069",
-            "alt": "Blick von Brülisau zum Hohen Kasten",
-            "date": "2013-10-19T17:38:46.000+02:00",
-            "width": 1920,
-            "height": 895
-          }
-        ],
-        "videos": [],
-        "text": "Und die letzten Meter auf der Straße zum Parkplatz... langsam reichte es."
-      },
-      {
-        "photos": [
-          {
-            "name": "track1",
-            "alt": "Wegstrecke Geologischer Wanderweg",
-            "width": 1024,
-            "height": 524
-          },
-          {
-            "name": "track2",
-            "alt": "Höhenprofil Geologischer Wanderweg",
-            "width": 1024,
-            "height": 325
-          }
-        ],
-        "videos": [],
-        "text": "Zurückgelegte Strecke. 26km und 2100m hoch (und auch wieder runter) in 9h Gehzeit + 1h Pause."
-      }
-    ],
-    "outro": "Fazit: Anstrengend, aber lohnend. 😃"
-  }
-]
+    {
+      "photos": [
+        {
+          "name": "002",
+          "alt": "Bergstation Alp Sigel",
+          "date": "2013-10-19T08:30:55.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Ebenfalls gegenüber an der spektakulären Bergstation der Seilbahn Alp Sigel."
+    },
+    {
+      "photos": [
+        {
+          "name": "003",
+          "alt": "Weg zum Sämtisersee",
+          "date": "2013-10-19T08:31:22.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Von gleicher Stelle Blick zum Verlauf des weiteren Weges. Erstes Etappenziel war das Ende dieses Tals."
+    },
+    {
+      "photos": [
+        {
+          "name": "004",
+          "alt": "Sämtisersee mit Spiegelung",
+          "date": "2013-10-19T09:01:20.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Nach einem kleinen Abstieg ging es am Sämtisersee vorbei..."
+    },
+    {
+      "photos": [
+        {
+          "name": "005",
+          "alt": "Nahaufnahme Viehgitter",
+          "date": "2013-10-19T09:25:30.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "... und anschließend auf einem Feldweg weiter. <span data-silent>&quot;Piste frisch präpariert, aber ruppig&quot;.</span>"
+    },
+    {
+      "photos": [
+        {
+          "name": "006",
+          "alt": "Tal mit Alp Richtung Altmann",
+          "date": "2013-10-19T09:27:56.000+02:00",
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "name": "007",
+          "alt": "Tal mit Hohem Kasten",
+          "date": "2013-10-19T09:38:46.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Und weiter durch das malerische, aber noch schattige Tal, im Rücken der Hohe Kasten."
+    },
+    {
+      "photos": [
+        {
+          "name": "008",
+          "alt": "Holzstufen im felsigen Wald",
+          "date": "2013-10-19T09:44:35.000+02:00",
+          "width": 720,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Am Ende des Tals ging es links 200 Höhenmeter steil unterhalb einer Felswand hinauf ..."
+    },
+    {
+      "photos": [
+        {
+          "name": "009",
+          "alt": "Fälensee mit Spiegelung",
+          "date": "2013-10-19T10:06:21.000+02:00",
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "name": "010",
+          "alt": "Fälensee mit Reflexion",
+          "date": "2013-10-19T10:07:43.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "... zum Fälensee."
+    },
+    {
+      "photos": [
+        {
+          "name": "011",
+          "alt": "Tafel des Geologischen Wanderwegs",
+          "date": "2013-10-19T10:09:14.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Hier beginnt der Geologische Wanderweg, der mich bis zum Hohen Kasten mit Schautafeln begleitete. Hier wird die interessante Geologie erläutert, die hauptverantwortlich für die schönen Panoramen ist."
+    },
+    {
+      "photos": [
+        {
+          "name": "012",
+          "alt": "Berggasthaus Bollenwees am Fälensee",
+          "date": "2013-10-19T10:10:03.000+02:00",
+          "width": 1427,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Am Fälensee liegt das Berggasthaus Bollenwees, aus dem noch ein paar müde Bergsteiger erschienen."
+    },
+    {
+      "photos": [
+        {
+          "name": "013",
+          "alt": "Saxerlücke mit Blick ins Rheintal",
+          "date": "2013-10-19T10:30:58.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Danach ging es weitere 200m hinauf zur Saxerlücke. Endlich war ich in der Sonne und konnte den Tiefblick ins Rheintal genießen."
+    },
+    {
+      "photos": [
+        {
+          "name": "014",
+          "alt": "Kreuzberge",
+          "date": "2013-10-19T10:33:37.000+02:00",
+          "width": 1920,
+          "height": 712
+        }
+      ],
+      "videos": [],
+      "text": "Neben der Saxerlücke ragen die steilen Kreuzberge in die Höhe, ein sehr beliebtes Kletterrevier."
+    },
+    {
+      "photos": [
+        {
+          "name": "015",
+          "alt": "Blick hinab auf Bollenwees",
+          "date": "2013-10-19T10:41:50.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Blick zurück zum Gasthaus Bollenwees."
+    },
+    {
+      "photos": [
+        {
+          "name": "016",
+          "alt": "Steiler Weg vor Saxerlücker",
+          "date": "2013-10-19T10:46:30.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Anschließend ging es gleich noch mal 200m steil auf den Grat hinauf."
+    },
+    {
+      "photos": [
+        {
+          "name": "017",
+          "alt": "Kreuzberge hinter Saxerlücke",
+          "date": "2013-10-19T10:48:00.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Während des Aufstiegs nochmal der Blick zurück zu den Kreuzbergen."
+    },
+    {
+      "photos": [
+        {
+          "name": "018",
+          "alt": "Hangweg",
+          "date": "2013-10-19T10:51:58.000+02:00",
+          "width": 1920,
+          "height": 890
+        }
+      ],
+      "videos": [],
+      "text": "So sah der Weg meist aus."
+    },
+    {
+      "photos": [
+        {
+          "name": "019",
+          "alt": "Panorama Kreuzberge",
+          "date": "2013-10-19T11:01:52.000+02:00",
+          "width": 1920,
+          "height": 754
+        },
+        {
+          "name": "020",
+          "alt": "Kreuzberge aus Entfernung",
+          "date": "2013-10-19T11:02:05.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Beim nächsten Zwischengipfel musste die fantastische Aussicht festgehalten werden."
+    },
+    {
+      "photos": [
+        {
+          "name": "021",
+          "alt": "Gratweg",
+          "date": "2013-10-19T11:04:11.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Und so ging es weiter."
+    },
+    {
+      "photos": [
+        {
+          "name": "022",
+          "alt": "Blick durch den Alpstein auf den Säntis",
+          "date": "2013-10-19T11:08:36.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Dann tauchte im Rücken der Gipfel des Säntis (2500m) auf, umsäumt von ähnlich steilen Felsen wie die Kreuzberge."
+    },
+    {
+      "photos": [
+        {
+          "name": "023",
+          "alt": "Tiefblick in das Rheintal",
+          "date": "2013-10-19T11:17:50.000+02:00",
+          "width": 1920,
+          "height": 1046
+        }
+      ],
+      "videos": [],
+      "text": "Da weiß man gar nicht, wo man hinschauen soll, hier nochmal ins Rheintal."
+    },
+    {
+      "photos": [
+        {
+          "name": "024",
+          "alt": "Herbstwald von oben",
+          "date": "2013-10-19T11:35:39.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Und ja, es war Herbst. 😃"
+    },
+    {
+      "photos": [
+        {
+          "name": "025",
+          "alt": "Fälensee mit Säntis",
+          "date": "2013-10-19T11:37:20.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Und wieder der Säntis und der Fälensee."
+    },
+    {
+      "photos": [
+        {
+          "name": "026",
+          "alt": "Ebenalp vor Nebelmeer",
+          "date": "2013-10-19T11:41:24.000+02:00",
+          "width": 1894,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Zu Abwechslung mal der Blick ins Flachland, in dem noch der Nebel waberte. Im Mittelgrund das Skigebiet Ebenalp."
+    },
+    {
+      "photos": [
+        {
+          "name": "027",
+          "alt": "Tanne neben Felsenweg",
+          "date": "2013-10-19T11:45:08.000+02:00",
+          "width": 1703,
+          "height": 1080
+        },
+        {
+          "name": "028",
+          "alt": "In Fels geschlagener Weg",
+          "date": "2013-10-19T11:47:23.000+02:00",
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "name": "029",
+          "alt": "Weg neben Fels mit Geländer",
+          "date": "2013-10-19T11:48:21.000+02:00",
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "name": "030",
+          "alt": "Säntis mit dunklem Vordergrund",
+          "date": "2013-10-19T11:54:38.000+02:00",
+          "width": 1563,
+          "height": 1080
+        },
+        {
+          "name": "031",
+          "alt": "Felsiger Weg vor Säntis",
+          "date": "2013-10-19T11:57:03.000+02:00",
+          "width": 1513,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Ab dann führte der gut ausgebaute Weg durch felsiges Gelände - schwindelfrei und trittsicher sollte man schon sein."
+    },
+    {
+      "photos": [
+        {
+          "name": "032",
+          "alt": "Panorama Gasthaus Staubern",
+          "date": "2013-10-19T11:59:45.000+02:00",
+          "width": 1920,
+          "height": 878
+        },
+        {
+          "name": "033",
+          "alt": "Staubern",
+          "date": "2013-10-19T12:04:09.000+02:00",
+          "width": 1920,
+          "height": 830
+        }
+      ],
+      "videos": [],
+      "text": "Ankunft am Gasthaus Staubern, Zeit für eine kleine Rast nebenan im Gras."
+    },
+    {
+      "photos": [
+        {
+          "name": "035",
+          "alt": "Seilbahn Staubern mit Rheintal",
+          "date": "2013-10-19T12:14:13.000+02:00",
+          "width": 1596,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Zur Hütte fährt eine kleine Seilbahn vom Rheintal hinauf (1300m Höhenunterschied)."
+    },
+    {
+      "photos": [
+        {
+          "name": "036",
+          "alt": "Restaurant Staubern",
+          "date": "2013-10-19T12:15:45.000+02:00",
+          "width": 1820,
+          "height": 1080
+        },
+        {
+          "name": "037",
+          "alt": "Wanderweg nach Staubern",
+          "date": "2013-10-19T12:22:01.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Noch zwei Ansichten des Gasthaus Staubern."
+    },
+    {
+      "photos": [
+        {
+          "name": "038",
+          "alt": "Gratweg zum Hohen Kasten",
+          "date": "2013-10-19T12:24:50.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Der weitere Verlauf des Wegs zum Hohen Kasten."
+    },
+    {
+      "photos": [
+        {
+          "name": "039",
+          "alt": "Tal mit verschneitem Säntis",
+          "date": "2013-10-19T12:53:44.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Das am Morgen durchwanderte Tal lag nun in der Sonne."
+    },
+    {
+      "photos": [
+        {
+          "name": "040",
+          "alt": "Blick auf Brülisau",
+          "date": "2013-10-19T12:54:15.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Blick hinab auf Brülisau."
+    },
+    {
+      "photos": [
+        {
+          "name": "042",
+          "alt": "Sämtisersee mit Säntis",
+          "date": "2013-10-19T13:02:12.000+02:00",
+          "width": 720,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Der Sämtisersee, diesmal von oben."
+    },
+    {
+      "photos": [
+        {
+          "name": "043",
+          "alt": "Bergstation Hoher Kasten",
+          "date": "2013-10-19T13:09:03.000+02:00",
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "name": "044",
+          "alt": "Panorama mit Hoher Kasten und Rheintal",
+          "date": "2013-10-19T13:09:23.000+02:00",
+          "width": 1920,
+          "height": 625
+        }
+      ],
+      "videos": [],
+      "text": "Der Gipfel des Hohen Kasten kam langsam näher."
+    },
+    {
+      "photos": [
+        {
+          "name": "045",
+          "alt": "Sämtisersee im Alpstein",
+          "date": "2013-10-19T13:18:51.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Und noch mal der Standardblick auf Sämtisersee und Säntismassiv. Und ja, ich hab schon einige Fotos aussortiert. 😉"
+    },
+    {
+      "photos": [
+        {
+          "name": "046",
+          "alt": "Miniaturaufnahme Alphütte",
+          "date": "2013-10-19T13:26:40.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Ein Miniaturfoto musste auch mal sein."
+    },
+    {
+      "photos": [
+        {
+          "name": "047",
+          "alt": "Weg zum Hohen Kasten",
+          "date": "2013-10-19T13:27:36.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Da konnte man denken, man wäre fast da."
+    },
+    {
+      "photos": [
+        {
+          "name": "048",
+          "alt": "Blick auf Bergstation Alp Sigel",
+          "date": "2013-10-19T13:32:39.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Links nochmal die Bergstation der Seilbahn Alp Sigel."
+    },
+    {
+      "photos": [
+        {
+          "name": "049",
+          "alt": "Alpstein",
+          "date": "2013-10-19T13:35:09.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Das alles sieht zwar hochalpin aus, aber man befindet sich nur zwischen 1500m und 1800m, was man an den Laubbäumen erkennen kann."
+    },
+    {
+      "photos": [
+        {
+          "name": "050",
+          "alt": "Sämtisersee mit Altmann",
+          "date": "2013-10-19T13:36:23.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Der immer ähnliche Blick wurde nicht langweilig. 😉"
+    },
+    {
+      "photos": [
+        {
+          "name": "053",
+          "alt": "Hoher Kasten Seilbahn",
+          "date": "2013-10-19T14:07:05.000+02:00",
+          "width": 896,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Kurz vor dem Hohen Kasten kam noch ein (gefühlt) recht heftiger Aufstieg von 300 Höhenmetern."
+    },
+    {
+      "photos": [
+        {
+          "name": "054",
+          "alt": "Rheintalpanorama vom Hohen Kasten",
+          "date": "2013-10-19T14:19:53.000+02:00",
+          "width": 1920,
+          "height": 807
+        }
+      ],
+      "videos": [],
+      "text": "Geschafft. 😃"
+    },
+    {
+      "photos": [
+        {
+          "name": "055",
+          "alt": "Historisches Skifahren Hoher Kasten",
+          "date": "2013-10-19T14:21:19.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Das aufgegebene Skigebiet des Hohen Kasten. Wobei ein richtiges Skigebiet war es nie."
+    },
+    {
+      "photos": [
+        {
+          "name": "056",
+          "alt": "Alpendohle vor Rheintal",
+          "date": "2013-10-19T14:21:44.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Eine Alpendohle vor dem Rhein."
+    },
+    {
+      "photos": [
+        {
+          "name": "057",
+          "alt": "Appenzeller Land",
+          "date": "2013-10-19T14:48:42.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Der Blick ins Flachland. Der Nebel hatte sich inzwischen aufgelöst."
+    },
+    {
+      "photos": [
+        {
+          "name": "058",
+          "alt": "Drehrestaurant Hoher Kasten",
+          "date": "2013-10-19T14:49:30.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Nun neben dem recht neuen Drehrestaurant auf dem Gipfel. Ich habe aber auf der Terrasse des Selbstbedienungsrestaurants gespeist. Inzwischen war es sehr windig, so dass ich erstmals an diesem Tag die Jacke über das T-Shirt streifen musste."
+    },
+    {
+      "photos": [
+        {
+          "name": "059",
+          "alt": "Panorama vom Hohen Kasten zum Bodensee",
+          "date": "2013-10-19T14:53:13.000+02:00",
+          "width": 1920,
+          "height": 349
+        }
+      ],
+      "videos": [],
+      "text": "Geht etwas im blau unter, aber man konnte den gesamten Bodensee überblicken. Rechts Bregenz, links Konstanz."
+    },
+    {
+      "photos": [
+        {
+          "name": "060",
+          "alt": "Panorama vom Kamor zum Alpstein",
+          "date": "2013-10-19T15:20:37.000+02:00",
+          "width": 1920,
+          "height": 746
+        }
+      ],
+      "videos": [],
+      "text": "Ausgeruht ging es weiter auf den Kamor, einem vom Militär unterhöhltem Berg."
+    },
+    {
+      "photos": [
+        {
+          "name": "061",
+          "alt": "Gipfel des Hohen Kasten mit Antenne",
+          "date": "2013-10-19T15:22:02.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Der Hohe Kasten vom Kamor aus gesehen. <span data-silent>&quot;Wer hat den längsten?&quot;</span>"
+    },
+    {
+      "photos": [
+        {
+          "name": "063",
+          "alt": "Radfahrer auf Kamor vor Rheintal",
+          "date": "2013-10-19T15:45:41.000+02:00",
+          "width": 1880,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Auf den Kamor führt ein asphaltierter Fahrweg - viel genutzt von Radfahrern."
+    },
+    {
+      "photos": [
+        {
+          "name": "065",
+          "alt": "Blick vom Ruhesitz zum Hohen Kasten",
+          "date": "2013-10-19T16:57:57.000+02:00",
+          "width": 1602,
+          "height": 1080
+        },
+        {
+          "name": "066",
+          "alt": "Berggasthaus Ruhsitz",
+          "date": "2013-10-19T16:59:14.000+02:00",
+          "width": 1920,
+          "height": 1013
+        }
+      ],
+      "videos": [],
+      "text": "Nach der Hälfte des Abstieg Trinkpause am Berggasthaus Ruhsitz. Nun extrem stürmisch, so dass das Besteck von den Tischen wehte<span data-silent> - Haus der fliegenden Messer</span>."
+    },
+    {
+      "photos": [
+        {
+          "name": "067",
+          "alt": "Miniaturaufnahme Brülisau",
+          "date": "2013-10-19T17:18:29.000+02:00",
+          "width": 1920,
+          "height": 1068
+        }
+      ],
+      "videos": [],
+      "text": "Danach der letzte Abstieg über Wiesen. Miniaturaufnahme der Talstation der Hohen Kasten Bahn in Brülisau."
+    },
+    {
+      "photos": [
+        {
+          "name": "068",
+          "alt": "Spazierweg Brülisau an Waldrand",
+          "date": "2013-10-19T17:19:48.000+02:00",
+          "width": 1830,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Hier wieder windstill und sehr warm."
+    },
+    {
+      "photos": [
+        {
+          "name": "069",
+          "alt": "Blick von Brülisau zum Hohen Kasten",
+          "date": "2013-10-19T17:38:46.000+02:00",
+          "width": 1920,
+          "height": 895
+        }
+      ],
+      "videos": [],
+      "text": "Und die letzten Meter auf der Straße zum Parkplatz... langsam reichte es."
+    },
+    {
+      "photos": [
+        {
+          "name": "track1",
+          "alt": "Wegstrecke Geologischer Wanderweg",
+          "width": 1024,
+          "height": 524
+        },
+        {
+          "name": "track2",
+          "alt": "Höhenprofil Geologischer Wanderweg",
+          "width": 1024,
+          "height": 325
+        }
+      ],
+      "videos": [],
+      "text": "Zurückgelegte Strecke. 26km und 2100m hoch (und auch wieder runter) in 9h Gehzeit + 1h Pause."
+    }
+  ],
+  "outro": "Fazit: Anstrengend, aber lohnend. 😃"
+}

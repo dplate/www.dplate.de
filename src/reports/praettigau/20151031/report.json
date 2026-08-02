@@ -1,570 +1,568 @@
-[
-  {
-    "destination": "praettigau",
-    "date": "d20151031",
-    "type": "hike",
-    "track": true,
-    "detailMap": "swiss",
-    "shortTitle": "Chrüz",
-    "title": "Pany - Chrüz",
-    "title3d": {
-      "offsetY": 0,
-      "fontSize": 12,
-      "align": "left",
-      "width": 1920,
-      "height": 568
+{
+  "destination": "praettigau",
+  "date": "d20151031",
+  "type": "hike",
+  "track": true,
+  "detailMap": "swiss",
+  "shortTitle": "Chrüz",
+  "title": "Pany - Chrüz",
+  "title3d": {
+    "offsetY": 0,
+    "fontSize": 12,
+    "align": "left",
+    "width": 1920,
+    "height": 568
+  },
+  "movie": "h2mS9L2_Jfc",
+  "intro": "Nachdem vor einigen Wochen der Versuch von Pany auf den Chrüz zu laufen auf Grund von Nebel gescheitert war, versuchte ich mich diesen Samstag an einem neuen Versuch.<br />\nUm 8:30 kam ich am Skilift-Parkplatz in Pany (einem kleinen Ort auf 1300m oberhalb von Küblis) an. Während es im Tal nach leicht frostig war, heizte die Sonne hier oben bereits ordentlich ein.<br />\nDer 2200m hohe Chrüz ist ein pyramidenförmiger Berg, auf dem auf jeder Kante ein Weg hinauf führt. Ich beschloss zu erst um den Berg herum zu laufen, um ihn dann von der Rückseite zu besteigen.",
+  "landmarks": [
+    {
+      "photos": [
+        {
+          "name": "001",
+          "alt": "Spazierweg Pany",
+          "date": "2015-10-31T08:41:49.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Zu Beginn ging es etwas schlecht ausgezeichnet auf Sträßchen durch den Ort. Die zu Beginn noch getragene Jacke aber ich hier bereits weggepackt."
     },
-    "movie": "h2mS9L2_Jfc",
-    "intro": "Nachdem vor einigen Wochen der Versuch von Pany auf den Chrüz zu laufen auf Grund von Nebel gescheitert war, versuchte ich mich diesen Samstag an einem neuen Versuch.<br />\nUm 8:30 kam ich am Skilift-Parkplatz in Pany (einem kleinen Ort auf 1300m oberhalb von Küblis) an. Während es im Tal nach leicht frostig war, heizte die Sonne hier oben bereits ordentlich ein.<br />\nDer 2200m hohe Chrüz ist ein pyramidenförmiger Berg, auf dem auf jeder Kante ein Weg hinauf führt. Ich beschloss zu erst um den Berg herum zu laufen, um ihn dann von der Rückseite zu besteigen.",
-    "landmarks": [
-      {
-        "photos": [
-          {
-            "name": "001",
-            "alt": "Spazierweg Pany",
-            "date": "2015-10-31T08:41:49.000+01:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Zu Beginn ging es etwas schlecht ausgezeichnet auf Sträßchen durch den Ort. Die zu Beginn noch getragene Jacke aber ich hier bereits weggepackt."
-      },
-      {
-        "photos": [
-          {
-            "name": "002",
-            "alt": "Pany",
-            "date": "2015-10-31T08:47:59.000+01:00",
-            "width": 1920,
-            "height": 820
-          }
-        ],
-        "videos": [],
-        "text": "Hier war ich bereits aus dem Ort hinaus. Blick zurück auf Pany und auf die andere Talseite zu den Heubergen."
-      },
-      {
-        "photos": [
-          {
-            "name": "003",
-            "alt": "Herbstwanderung Prättigau",
-            "date": "2015-10-31T08:57:26.000+01:00",
-            "width": 1587,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Es ging auch weiterhin hauptsächlich auf Fahrwegen, aber beim Aufstieg zu kleinen Siedlung Bova auch mal auf schönerem Wanderweg."
-      },
-      {
-        "photos": [
-          {
-            "name": "004",
-            "alt": "Alter Schrägzaun",
-            "date": "2015-10-31T09:05:17.000+01:00",
-            "width": 1920,
-            "height": 882
-          },
-          {
-            "name": "005",
-            "alt": "Siedlung Bova",
-            "date": "2015-10-31T09:07:52.000+01:00",
-            "width": 1920,
-            "height": 967
-          }
-        ],
-        "videos": [],
-        "text": "Ankunft im 1600m hohen Bova - mit vielen alten Häusern. Dieser Ort wäre auch noch mit dem Auto erreichbar."
-      },
-      {
-        "photos": [
-          {
-            "name": "006",
-            "alt": "Blick auf Bova",
-            "date": "2015-10-31T09:16:47.000+01:00",
-            "width": 1920,
-            "height": 762
-          }
-        ],
-        "videos": [],
-        "text": "Steil ging es durch Bova hindurch. Blick zurück und kleine Pause auf einer Bank."
-      },
-      {
-        "photos": [
-          {
-            "name": "007",
-            "alt": "Rotspitz",
-            "date": "2015-10-31T09:23:26.000+01:00",
-            "width": 1920,
-            "height": 1027
-          }
-        ],
-        "videos": [],
-        "text": "Auf der nächsten Etappe nach Valpun wurde der Weg etwas langweilig, da meist ein Forstweg im Wald. Zwischendurch gab es aber schöne Ausblicke wie hier."
-      },
-      {
-        "photos": [
-          {
-            "name": "008",
-            "alt": "Landschaft St. Antönien",
-            "date": "2015-10-31T09:49:21.000+01:00",
-            "width": 1920,
-            "height": 788
-          }
-        ],
-        "videos": [],
-        "text": "Irgendwann war ich dann auch soweit den Hang entlanggelaufen, so dass der Blick nach Nord-Osten möglich wurde. Mitte/Rechts der Ort St. Antönien, links das Felsmassiv der Sulzfluh."
-      },
-      {
-        "photos": [
-          {
-            "name": "009",
-            "alt": "Herbst in den Bergen",
-            "date": "2015-10-31T10:13:51.000+01:00",
-            "width": 1920,
-            "height": 788
-          }
-        ],
-        "videos": [],
-        "text": "Von der nicht so schönen Alp Valpun habe ich kein Foto. Dort kommt der Wanderweg von St. Antönien hinauf und man könnte auch von dort direkt auf den Chrüz. Da es erst um 10:00 war, beschloss ich weiter um Berg zu laufen und den nächsten Grat für den Aufstieg zu wählen."
-      },
-      {
-        "photos": [
-          {
-            "name": "010",
-            "alt": "Aufstieg über Grat",
-            "date": "2015-10-31T10:27:04.000+01:00",
-            "width": 1920,
-            "height": 625
-          }
-        ],
-        "videos": [],
-        "text": "Und hier ist der Grat bereits. Bisher war ich keinen anderen Wanderern begegnet, aber auf diesem Grat stieg gerade eine große Gruppe Paraglider hinauf. Sie wählten den Aufstieg von Stelserberg auf, da dies wahrscheinlich der kürzeste Aufstieg auf den Chrüz ist."
-      },
-      {
-        "photos": [
-          {
-            "name": "011",
-            "alt": "Blick Richtung Stelserberg",
-            "date": "2015-10-31T10:31:33.000+01:00",
-            "width": 1920,
-            "height": 562
-          }
-        ],
-        "videos": [],
-        "text": "Blick vom Grat auf die anderen Seite herab."
-      },
-      {
-        "photos": [
-          {
-            "name": "012",
-            "alt": "Hochwang",
-            "date": "2015-10-31T10:32:26.000+01:00",
-            "width": 1920,
-            "height": 863
-          }
-        ],
-        "videos": [],
-        "text": "Und Tele zum 2500m hohen Hochwang auf der anderen Talseite."
-      },
-      {
-        "photos": [
-          {
-            "name": "013",
-            "alt": "Schneereste",
-            "date": "2015-10-31T10:41:23.000+01:00",
-            "width": 924,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Da ich mich inzwischen auf der Nordseite des Chrüz befand, gab es auch etwas Schnee. Der Weg war aber meist schneefrei."
-      },
-      {
-        "photos": [
-          {
-            "name": "014",
-            "alt": "Aufstieg Chrüz",
-            "date": "2015-10-31T10:47:23.000+01:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Auf dem Grat ging es nun steil hinauf. Blick zurück. Ich kam von rechts kommend auf diesen Bergrücken.<br />\nGanz hinten kann man das Rheintal sehen."
-      },
-      {
-        "photos": [
-          {
-            "name": "015",
-            "alt": "Sulzfluh",
-            "date": "2015-10-31T10:51:19.000+01:00",
-            "width": 1645,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Blick auf die <a href=\"/alpine/sulzfluh/20141012\">Sulzfluh</a>."
-      },
-      {
-        "photos": [
-          {
-            "name": "016",
-            "alt": "Kleiner Bergsee",
-            "date": "2015-10-31T10:58:57.000+01:00",
-            "width": 1920,
-            "height": 809
-          }
-        ],
-        "videos": [],
-        "text": "Auf halber Höhe erreichte ich eine kleine Hochfläche mit mehreren Seen, die natürlich gleich wieder als Fotomotiv herhalten müssen. Links ist der Gipfel des Chrüz zu sehen. Auf dem Grat nach rechts sollte dann anschließend der Abstieg geschehen."
-      },
-      {
-        "photos": [
-          {
-            "name": "017",
-            "alt": "Moorlandschaft",
-            "date": "2015-10-31T11:02:28.000+01:00",
-            "width": 1920,
-            "height": 749
-          }
-        ],
-        "videos": [],
-        "text": "Blick zurück auf diese Hochfläche. Das letzte Stück Aufstieg war noch ganz schön steil und anstrengend."
-      },
-      {
-        "photos": [
-          {
-            "name": "018",
-            "alt": "Chrüz Panorama",
-            "date": "2015-10-31T11:36:28.000+01:00",
-            "width": 1920,
-            "height": 725
-          }
-        ],
-        "videos": [],
-        "text": "Ankunft auf dem Gipfel um 11:30. Die Paraglider suchten bereits nach geeigneten Startplätzen.<br />\nOben wehte etwas Wind, so dass ich doch wieder die Jacke überziehen musste."
-      },
-      {
-        "photos": [
-          {
-            "name": "020",
-            "alt": "Aussicht Chrüz",
-            "date": "2015-10-31T11:53:50.000+01:00",
-            "width": 1920,
-            "height": 778
-          }
-        ],
-        "videos": [],
-        "text": "Blick vom Gipfel nach Westen."
-      },
-      {
-        "photos": [
-          {
-            "name": "021",
-            "alt": "St. Antönien",
-            "date": "2015-10-31T11:54:22.000+01:00",
-            "width": 1920,
-            "height": 643
-          }
-        ],
-        "videos": [],
-        "text": "Blick nach Norden. Unten ist die Alp Valpun zu sehen."
-      },
-      {
-        "photos": [
-          {
-            "name": "022",
-            "alt": "Rätschenhorn",
-            "date": "2015-10-31T11:54:59.000+01:00",
-            "width": 1920,
-            "height": 924
-          }
-        ],
-        "videos": [],
-        "text": "Blick nach Osten zum <a href=\"/alpine/gargellen/20150822\">Rätschenhorn</a>."
-      },
-      {
-        "photos": [
-          {
-            "name": "024",
-            "alt": "Steiler Abstieg",
-            "date": "2015-10-31T12:07:14.000+01:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Nach einer längeren Pause machte ich mich an den Abstieg. Der war ebenso steil wie der Aufstieg. Inzwischen war auch der erste Paraglider gestartet."
-      },
-      {
-        "photos": [
-          {
-            "name": "025",
-            "alt": "Gratweg",
-            "date": "2015-10-31T12:11:13.000+01:00",
-            "width": 1920,
-            "height": 823
-          },
-          {
-            "name": "026",
-            "alt": "Schmaler Weg",
-            "date": "2015-10-31T12:11:43.000+01:00",
-            "width": 809,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Der Weg führte sehr schön immer auf dem Grat entlang. Ich war allerdings schon froh, dass der Schnee genügend weggeschmolzen war."
-      },
-      {
-        "photos": [
-          {
-            "name": "027",
-            "alt": "Wanderweg Chrüz",
-            "date": "2015-10-31T12:15:40.000+01:00",
-            "width": 1920,
-            "height": 798
-          }
-        ],
-        "videos": [],
-        "text": "Blick zurück zum Gipfel... es werden mehr Gleitschirme."
-      },
-      {
-        "photos": [
-          {
-            "name": "028",
-            "alt": "Gelbe Lärchen",
-            "date": "2015-10-31T12:22:38.000+01:00",
-            "width": 1545,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Wieder der Hochwang."
-      },
-      {
-        "photos": [
-          {
-            "name": "029",
-            "alt": "Felsiger Wegabschnitt",
-            "date": "2015-10-31T12:24:05.000+01:00",
-            "width": 1920,
-            "height": 944
-          }
-        ],
-        "videos": [],
-        "text": "Zum Teil brauchte ich beim Abstieg die Hände, aber wirklich gefährlich ist es nicht."
-      },
-      {
-        "photos": [
-          {
-            "name": "030",
-            "alt": "Paraglider",
-            "date": "2015-10-31T12:27:22.000+01:00",
-            "width": 1579,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Jetzt hatten es alle Paraglider geschafft."
-      },
-      {
-        "photos": [
-          {
-            "name": "031",
-            "alt": "Chrüz",
-            "date": "2015-10-31T12:33:02.000+01:00",
-            "width": 1920,
-            "height": 961
-          }
-        ],
-        "videos": [],
-        "text": "Nochmal Blick zum Gipfel. Von hier sieht er flacher aus, als er ist."
-      },
-      {
-        "photos": [
-          {
-            "name": "032",
-            "alt": "Steinmännchen",
-            "date": "2015-10-31T12:33:19.000+01:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Und noch mal das Rätschenhorn hinter perfekt aufgestapeltem Steinmännchen."
-      },
-      {
-        "photos": [
-          {
-            "name": "033",
-            "alt": "Klosters",
-            "date": "2015-10-31T12:37:10.000+01:00",
-            "width": 1920,
-            "height": 954
-          }
-        ],
-        "videos": [],
-        "text": "Tele nach Klosters und der schönen Brücke der Umfahrung."
-      },
-      {
-        "photos": [
-          {
-            "name": "034",
-            "alt": "Wandergebiet Prättigau",
-            "date": "2015-10-31T12:47:17.000+01:00",
-            "width": 1920,
-            "height": 980
-          }
-        ],
-        "videos": [],
-        "text": "Und das ganze ohne Tele. Nun wurde die Landschaft sehr idyllisch."
-      },
-      {
-        "photos": [
-          {
-            "name": "035",
-            "alt": "Alplandschaft",
-            "date": "2015-10-31T12:49:13.000+01:00",
-            "width": 1920,
-            "height": 686
-          }
-        ],
-        "videos": [],
-        "text": "Es ging weiter auf dem Grat hinab. Im Hintergrund der Nebel im Rheintal (nur ein gehässiger Hinweis für alle, die nicht in den Bergen waren 😉)."
-      },
-      {
-        "photos": [
-          {
-            "name": "036",
-            "alt": "Schesaplana",
-            "date": "2015-10-31T12:59:41.000+01:00",
-            "width": 1779,
-            "height": 1080
-          },
-          {
-            "name": "037",
-            "alt": "Wasserspiegelung",
-            "date": "2015-10-31T12:59:53.000+01:00",
-            "width": 1920,
-            "height": 1043
-          }
-        ],
-        "videos": [],
-        "text": "Ein kleiner See bei der Alp Alpbüel spiegelte schön die <a href=\"/alpine/brandnertal/20150829\">Schesaplana</a>."
-      },
-      {
-        "photos": [
-          {
-            "name": "038",
-            "alt": "Alp Alpbüel",
-            "date": "2015-10-31T13:01:21.000+01:00",
-            "width": 1920,
-            "height": 866
-          }
-        ],
-        "videos": [],
-        "text": "Wie fast alle Alpen war auch diese bereits für den Winter verlassen. So konnte ich gemütlich auf der Bank vor der warmen Hauswand pausieren."
-      },
-      {
-        "photos": [
-          {
-            "name": "039",
-            "alt": "Doppeldecker",
-            "date": "2015-10-31T13:09:01.000+01:00",
-            "width": 1920,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Da der Weg auf dem Grat nicht weiterführte (es gibt wohl einen, aber der ist nicht ausgezeichnet), musste ich einen kleinen Umweg einlegen. Steil ging es auf diesem Fahrweg von Rücken hinab."
-      },
-      {
-        "photos": [
-          {
-            "name": "040",
-            "alt": "Moorgebiet",
-            "date": "2015-10-31T13:19:34.000+01:00",
-            "width": 1821,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Abwärts ging es bis zu diesem Moorgebiet. Erst dann konnte ich wieder zurück zum Grat gehen..."
-      },
-      {
-        "photos": [
-          {
-            "name": "041",
-            "alt": "Siedlung Tratza",
-            "date": "2015-10-31T13:38:43.000+01:00",
-            "width": 1920,
-            "height": 786
-          }
-        ],
-        "videos": [],
-        "text": "Um die Häuseransammlung Tratza auf 1700m zu erreichen."
-      },
-      {
-        "photos": [
-          {
-            "name": "042",
-            "alt": "Rundwanderung Pany",
-            "date": "2015-10-31T14:26:02.000+01:00",
-            "width": 1920,
-            "height": 671
-          }
-        ],
-        "videos": [],
-        "text": "Von dort ging es dann zum Teil auf Fahrweg recht flott zurück nach Pany."
-      },
-      {
-        "photos": [
-          {
-            "name": "045",
-            "alt": "Pischahorn",
-            "date": "2015-10-31T14:32:53.000+01:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Ankunft am Auto dann schließlich um 14:30. Wetter (wie man sieht) auch weiterhin perfekt."
-      },
-      {
-        "photos": [
-          {
-            "name": "track1",
-            "width": 1280,
-            "height": 655
-          },
-          {
-            "name": "track2",
-            "width": 1280,
-            "height": 221
-          }
-        ],
-        "videos": [],
-        "text": "Zurückgelegte Strecke. Links ist Pany. Rechts Chrüz. Der Umweg beim Abstieg ist auch gut zu erkennen. 😉<br />\nInsgesamt waren es 1100m Auf-/Abstieg auf knapp 18km innerhalb von 6h."
-      },
-      {
-        "photos": [
-          {
-            "name": "046",
-            "width": 1620,
-            "height": 1080
-          },
-          {
-            "name": "047",
-            "width": 1689,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Auf der Rückfahrt. In Pany fast 20°, unten im Tal nur 9°."
-      }
-    ],
-    "outro": "Fazit: Besonders in dieser Jahreszeit eine sehr schöne Landschaft und angenehme Wege. War jetzt nicht extrem spannend, aber perfekt zum Sonnetanken. Ich kann nur jedem raten das aktuelle Wetter zu nutzen und in die Berge zu gehen."
-  }
-]
+    {
+      "photos": [
+        {
+          "name": "002",
+          "alt": "Pany",
+          "date": "2015-10-31T08:47:59.000+01:00",
+          "width": 1920,
+          "height": 820
+        }
+      ],
+      "videos": [],
+      "text": "Hier war ich bereits aus dem Ort hinaus. Blick zurück auf Pany und auf die andere Talseite zu den Heubergen."
+    },
+    {
+      "photos": [
+        {
+          "name": "003",
+          "alt": "Herbstwanderung Prättigau",
+          "date": "2015-10-31T08:57:26.000+01:00",
+          "width": 1587,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Es ging auch weiterhin hauptsächlich auf Fahrwegen, aber beim Aufstieg zu kleinen Siedlung Bova auch mal auf schönerem Wanderweg."
+    },
+    {
+      "photos": [
+        {
+          "name": "004",
+          "alt": "Alter Schrägzaun",
+          "date": "2015-10-31T09:05:17.000+01:00",
+          "width": 1920,
+          "height": 882
+        },
+        {
+          "name": "005",
+          "alt": "Siedlung Bova",
+          "date": "2015-10-31T09:07:52.000+01:00",
+          "width": 1920,
+          "height": 967
+        }
+      ],
+      "videos": [],
+      "text": "Ankunft im 1600m hohen Bova - mit vielen alten Häusern. Dieser Ort wäre auch noch mit dem Auto erreichbar."
+    },
+    {
+      "photos": [
+        {
+          "name": "006",
+          "alt": "Blick auf Bova",
+          "date": "2015-10-31T09:16:47.000+01:00",
+          "width": 1920,
+          "height": 762
+        }
+      ],
+      "videos": [],
+      "text": "Steil ging es durch Bova hindurch. Blick zurück und kleine Pause auf einer Bank."
+    },
+    {
+      "photos": [
+        {
+          "name": "007",
+          "alt": "Rotspitz",
+          "date": "2015-10-31T09:23:26.000+01:00",
+          "width": 1920,
+          "height": 1027
+        }
+      ],
+      "videos": [],
+      "text": "Auf der nächsten Etappe nach Valpun wurde der Weg etwas langweilig, da meist ein Forstweg im Wald. Zwischendurch gab es aber schöne Ausblicke wie hier."
+    },
+    {
+      "photos": [
+        {
+          "name": "008",
+          "alt": "Landschaft St. Antönien",
+          "date": "2015-10-31T09:49:21.000+01:00",
+          "width": 1920,
+          "height": 788
+        }
+      ],
+      "videos": [],
+      "text": "Irgendwann war ich dann auch soweit den Hang entlanggelaufen, so dass der Blick nach Nord-Osten möglich wurde. Mitte/Rechts der Ort St. Antönien, links das Felsmassiv der Sulzfluh."
+    },
+    {
+      "photos": [
+        {
+          "name": "009",
+          "alt": "Herbst in den Bergen",
+          "date": "2015-10-31T10:13:51.000+01:00",
+          "width": 1920,
+          "height": 788
+        }
+      ],
+      "videos": [],
+      "text": "Von der nicht so schönen Alp Valpun habe ich kein Foto. Dort kommt der Wanderweg von St. Antönien hinauf und man könnte auch von dort direkt auf den Chrüz. Da es erst um 10:00 war, beschloss ich weiter um Berg zu laufen und den nächsten Grat für den Aufstieg zu wählen."
+    },
+    {
+      "photos": [
+        {
+          "name": "010",
+          "alt": "Aufstieg über Grat",
+          "date": "2015-10-31T10:27:04.000+01:00",
+          "width": 1920,
+          "height": 625
+        }
+      ],
+      "videos": [],
+      "text": "Und hier ist der Grat bereits. Bisher war ich keinen anderen Wanderern begegnet, aber auf diesem Grat stieg gerade eine große Gruppe Paraglider hinauf. Sie wählten den Aufstieg von Stelserberg auf, da dies wahrscheinlich der kürzeste Aufstieg auf den Chrüz ist."
+    },
+    {
+      "photos": [
+        {
+          "name": "011",
+          "alt": "Blick Richtung Stelserberg",
+          "date": "2015-10-31T10:31:33.000+01:00",
+          "width": 1920,
+          "height": 562
+        }
+      ],
+      "videos": [],
+      "text": "Blick vom Grat auf die anderen Seite herab."
+    },
+    {
+      "photos": [
+        {
+          "name": "012",
+          "alt": "Hochwang",
+          "date": "2015-10-31T10:32:26.000+01:00",
+          "width": 1920,
+          "height": 863
+        }
+      ],
+      "videos": [],
+      "text": "Und Tele zum 2500m hohen Hochwang auf der anderen Talseite."
+    },
+    {
+      "photos": [
+        {
+          "name": "013",
+          "alt": "Schneereste",
+          "date": "2015-10-31T10:41:23.000+01:00",
+          "width": 924,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Da ich mich inzwischen auf der Nordseite des Chrüz befand, gab es auch etwas Schnee. Der Weg war aber meist schneefrei."
+    },
+    {
+      "photos": [
+        {
+          "name": "014",
+          "alt": "Aufstieg Chrüz",
+          "date": "2015-10-31T10:47:23.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Auf dem Grat ging es nun steil hinauf. Blick zurück. Ich kam von rechts kommend auf diesen Bergrücken.<br />\nGanz hinten kann man das Rheintal sehen."
+    },
+    {
+      "photos": [
+        {
+          "name": "015",
+          "alt": "Sulzfluh",
+          "date": "2015-10-31T10:51:19.000+01:00",
+          "width": 1645,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Blick auf die <a href=\"/alpine/sulzfluh/20141012\">Sulzfluh</a>."
+    },
+    {
+      "photos": [
+        {
+          "name": "016",
+          "alt": "Kleiner Bergsee",
+          "date": "2015-10-31T10:58:57.000+01:00",
+          "width": 1920,
+          "height": 809
+        }
+      ],
+      "videos": [],
+      "text": "Auf halber Höhe erreichte ich eine kleine Hochfläche mit mehreren Seen, die natürlich gleich wieder als Fotomotiv herhalten müssen. Links ist der Gipfel des Chrüz zu sehen. Auf dem Grat nach rechts sollte dann anschließend der Abstieg geschehen."
+    },
+    {
+      "photos": [
+        {
+          "name": "017",
+          "alt": "Moorlandschaft",
+          "date": "2015-10-31T11:02:28.000+01:00",
+          "width": 1920,
+          "height": 749
+        }
+      ],
+      "videos": [],
+      "text": "Blick zurück auf diese Hochfläche. Das letzte Stück Aufstieg war noch ganz schön steil und anstrengend."
+    },
+    {
+      "photos": [
+        {
+          "name": "018",
+          "alt": "Chrüz Panorama",
+          "date": "2015-10-31T11:36:28.000+01:00",
+          "width": 1920,
+          "height": 725
+        }
+      ],
+      "videos": [],
+      "text": "Ankunft auf dem Gipfel um 11:30. Die Paraglider suchten bereits nach geeigneten Startplätzen.<br />\nOben wehte etwas Wind, so dass ich doch wieder die Jacke überziehen musste."
+    },
+    {
+      "photos": [
+        {
+          "name": "020",
+          "alt": "Aussicht Chrüz",
+          "date": "2015-10-31T11:53:50.000+01:00",
+          "width": 1920,
+          "height": 778
+        }
+      ],
+      "videos": [],
+      "text": "Blick vom Gipfel nach Westen."
+    },
+    {
+      "photos": [
+        {
+          "name": "021",
+          "alt": "St. Antönien",
+          "date": "2015-10-31T11:54:22.000+01:00",
+          "width": 1920,
+          "height": 643
+        }
+      ],
+      "videos": [],
+      "text": "Blick nach Norden. Unten ist die Alp Valpun zu sehen."
+    },
+    {
+      "photos": [
+        {
+          "name": "022",
+          "alt": "Rätschenhorn",
+          "date": "2015-10-31T11:54:59.000+01:00",
+          "width": 1920,
+          "height": 924
+        }
+      ],
+      "videos": [],
+      "text": "Blick nach Osten zum <a href=\"/alpine/gargellen/20150822\">Rätschenhorn</a>."
+    },
+    {
+      "photos": [
+        {
+          "name": "024",
+          "alt": "Steiler Abstieg",
+          "date": "2015-10-31T12:07:14.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Nach einer längeren Pause machte ich mich an den Abstieg. Der war ebenso steil wie der Aufstieg. Inzwischen war auch der erste Paraglider gestartet."
+    },
+    {
+      "photos": [
+        {
+          "name": "025",
+          "alt": "Gratweg",
+          "date": "2015-10-31T12:11:13.000+01:00",
+          "width": 1920,
+          "height": 823
+        },
+        {
+          "name": "026",
+          "alt": "Schmaler Weg",
+          "date": "2015-10-31T12:11:43.000+01:00",
+          "width": 809,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Der Weg führte sehr schön immer auf dem Grat entlang. Ich war allerdings schon froh, dass der Schnee genügend weggeschmolzen war."
+    },
+    {
+      "photos": [
+        {
+          "name": "027",
+          "alt": "Wanderweg Chrüz",
+          "date": "2015-10-31T12:15:40.000+01:00",
+          "width": 1920,
+          "height": 798
+        }
+      ],
+      "videos": [],
+      "text": "Blick zurück zum Gipfel... es werden mehr Gleitschirme."
+    },
+    {
+      "photos": [
+        {
+          "name": "028",
+          "alt": "Gelbe Lärchen",
+          "date": "2015-10-31T12:22:38.000+01:00",
+          "width": 1545,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Wieder der Hochwang."
+    },
+    {
+      "photos": [
+        {
+          "name": "029",
+          "alt": "Felsiger Wegabschnitt",
+          "date": "2015-10-31T12:24:05.000+01:00",
+          "width": 1920,
+          "height": 944
+        }
+      ],
+      "videos": [],
+      "text": "Zum Teil brauchte ich beim Abstieg die Hände, aber wirklich gefährlich ist es nicht."
+    },
+    {
+      "photos": [
+        {
+          "name": "030",
+          "alt": "Paraglider",
+          "date": "2015-10-31T12:27:22.000+01:00",
+          "width": 1579,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Jetzt hatten es alle Paraglider geschafft."
+    },
+    {
+      "photos": [
+        {
+          "name": "031",
+          "alt": "Chrüz",
+          "date": "2015-10-31T12:33:02.000+01:00",
+          "width": 1920,
+          "height": 961
+        }
+      ],
+      "videos": [],
+      "text": "Nochmal Blick zum Gipfel. Von hier sieht er flacher aus, als er ist."
+    },
+    {
+      "photos": [
+        {
+          "name": "032",
+          "alt": "Steinmännchen",
+          "date": "2015-10-31T12:33:19.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Und noch mal das Rätschenhorn hinter perfekt aufgestapeltem Steinmännchen."
+    },
+    {
+      "photos": [
+        {
+          "name": "033",
+          "alt": "Klosters",
+          "date": "2015-10-31T12:37:10.000+01:00",
+          "width": 1920,
+          "height": 954
+        }
+      ],
+      "videos": [],
+      "text": "Tele nach Klosters und der schönen Brücke der Umfahrung."
+    },
+    {
+      "photos": [
+        {
+          "name": "034",
+          "alt": "Wandergebiet Prättigau",
+          "date": "2015-10-31T12:47:17.000+01:00",
+          "width": 1920,
+          "height": 980
+        }
+      ],
+      "videos": [],
+      "text": "Und das ganze ohne Tele. Nun wurde die Landschaft sehr idyllisch."
+    },
+    {
+      "photos": [
+        {
+          "name": "035",
+          "alt": "Alplandschaft",
+          "date": "2015-10-31T12:49:13.000+01:00",
+          "width": 1920,
+          "height": 686
+        }
+      ],
+      "videos": [],
+      "text": "Es ging weiter auf dem Grat hinab. Im Hintergrund der Nebel im Rheintal (nur ein gehässiger Hinweis für alle, die nicht in den Bergen waren 😉)."
+    },
+    {
+      "photos": [
+        {
+          "name": "036",
+          "alt": "Schesaplana",
+          "date": "2015-10-31T12:59:41.000+01:00",
+          "width": 1779,
+          "height": 1080
+        },
+        {
+          "name": "037",
+          "alt": "Wasserspiegelung",
+          "date": "2015-10-31T12:59:53.000+01:00",
+          "width": 1920,
+          "height": 1043
+        }
+      ],
+      "videos": [],
+      "text": "Ein kleiner See bei der Alp Alpbüel spiegelte schön die <a href=\"/alpine/brandnertal/20150829\">Schesaplana</a>."
+    },
+    {
+      "photos": [
+        {
+          "name": "038",
+          "alt": "Alp Alpbüel",
+          "date": "2015-10-31T13:01:21.000+01:00",
+          "width": 1920,
+          "height": 866
+        }
+      ],
+      "videos": [],
+      "text": "Wie fast alle Alpen war auch diese bereits für den Winter verlassen. So konnte ich gemütlich auf der Bank vor der warmen Hauswand pausieren."
+    },
+    {
+      "photos": [
+        {
+          "name": "039",
+          "alt": "Doppeldecker",
+          "date": "2015-10-31T13:09:01.000+01:00",
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Da der Weg auf dem Grat nicht weiterführte (es gibt wohl einen, aber der ist nicht ausgezeichnet), musste ich einen kleinen Umweg einlegen. Steil ging es auf diesem Fahrweg von Rücken hinab."
+    },
+    {
+      "photos": [
+        {
+          "name": "040",
+          "alt": "Moorgebiet",
+          "date": "2015-10-31T13:19:34.000+01:00",
+          "width": 1821,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Abwärts ging es bis zu diesem Moorgebiet. Erst dann konnte ich wieder zurück zum Grat gehen..."
+    },
+    {
+      "photos": [
+        {
+          "name": "041",
+          "alt": "Siedlung Tratza",
+          "date": "2015-10-31T13:38:43.000+01:00",
+          "width": 1920,
+          "height": 786
+        }
+      ],
+      "videos": [],
+      "text": "Um die Häuseransammlung Tratza auf 1700m zu erreichen."
+    },
+    {
+      "photos": [
+        {
+          "name": "042",
+          "alt": "Rundwanderung Pany",
+          "date": "2015-10-31T14:26:02.000+01:00",
+          "width": 1920,
+          "height": 671
+        }
+      ],
+      "videos": [],
+      "text": "Von dort ging es dann zum Teil auf Fahrweg recht flott zurück nach Pany."
+    },
+    {
+      "photos": [
+        {
+          "name": "045",
+          "alt": "Pischahorn",
+          "date": "2015-10-31T14:32:53.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Ankunft am Auto dann schließlich um 14:30. Wetter (wie man sieht) auch weiterhin perfekt."
+    },
+    {
+      "photos": [
+        {
+          "name": "track1",
+          "width": 1280,
+          "height": 655
+        },
+        {
+          "name": "track2",
+          "width": 1280,
+          "height": 221
+        }
+      ],
+      "videos": [],
+      "text": "Zurückgelegte Strecke. Links ist Pany. Rechts Chrüz. Der Umweg beim Abstieg ist auch gut zu erkennen. 😉<br />\nInsgesamt waren es 1100m Auf-/Abstieg auf knapp 18km innerhalb von 6h."
+    },
+    {
+      "photos": [
+        {
+          "name": "046",
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "name": "047",
+          "width": 1689,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Auf der Rückfahrt. In Pany fast 20°, unten im Tal nur 9°."
+    }
+  ],
+  "outro": "Fazit: Besonders in dieser Jahreszeit eine sehr schöne Landschaft und angenehme Wege. War jetzt nicht extrem spannend, aber perfekt zum Sonnetanken. Ich kann nur jedem raten das aktuelle Wetter zu nutzen und in die Berge zu gehen."
+}

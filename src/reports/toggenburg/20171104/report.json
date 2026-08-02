@@ -1,792 +1,790 @@
-[
-  {
-    "destination": "toggenburg",
-    "date": "d20171104",
-    "datePublished": "2017-11-05T12:00:00+01:00",
-    "dateModified": "2025-12-14T15:00:00+01:00",
-    "type": "hike",
-    "track": true,
-    "detailMap": "swiss",
-    "shortTitle": "Schnebelhorn",
-    "title": "Libingen - Schnebelhorn",
-    "title3d": {
-      "align": "left",
-      "offsetY": 0,
-      "fontSize": 6.5,
-      "width": 1920,
-      "height": 377
+{
+  "destination": "toggenburg",
+  "date": "d20171104",
+  "datePublished": "2017-11-05T12:00:00+01:00",
+  "dateModified": "2025-12-14T15:00:00+01:00",
+  "type": "hike",
+  "track": true,
+  "detailMap": "swiss",
+  "shortTitle": "Schnebelhorn",
+  "title": "Libingen - Schnebelhorn",
+  "title3d": {
+    "align": "left",
+    "offsetY": 0,
+    "fontSize": 6.5,
+    "width": 1920,
+    "height": 377
+  },
+  "movie": "bKxiPJOFUXw",
+  "intro": "Inzwischen liegt in den höheren Bergen Schnee, deshalb wählte ich für diesen milden Novembersamstag eine Wanderung in den niedrigeren Voralpen. Das Auto stellte ich vor dem kleinen Ort Libingen ab, um auf einem langen Grat den Ort zu umrunden. Das knapp 1300m hohe Schnebelhorn war dabei nur einer der vielen überwanderten Gipfel.",
+  "landmarks": [
+    {
+      "photos": [
+        {
+          "name": "001",
+          "alt": "Straße Unterstein",
+          "date": "2017-11-04T08:19:38.000+01:00",
+          "width": 1920,
+          "height": 864
+        },
+        {
+          "name": "002",
+          "alt": "Serpentine",
+          "date": "2017-11-04T08:26:41.000+01:00",
+          "width": 1920,
+          "height": 729
+        }
+      ],
+      "videos": [],
+      "text": "Vom 780m hohen Wanderparkplatz vor Libingen ging es zuerst auf einer kleinen Fahrstraße den Hang Richtung Grat hinauf. Noch wurde die Sonne durch eine hohe Wolkendecke verdeckt und durch die recht frühe Stunde, es war 8:30, sah alles noch etwas flau aus."
     },
-    "movie": "bKxiPJOFUXw",
-    "intro": "Inzwischen liegt in den höheren Bergen Schnee, deshalb wählte ich für diesen milden Novembersamstag eine Wanderung in den niedrigeren Voralpen. Das Auto stellte ich vor dem kleinen Ort Libingen ab, um auf einem langen Grat den Ort zu umrunden. Das knapp 1300m hohe Schnebelhorn war dabei nur einer der vielen überwanderten Gipfel.",
-    "landmarks": [
-      {
-        "photos": [
-          {
-            "name": "001",
-            "alt": "Straße Unterstein",
-            "date": "2017-11-04T08:19:38.000+01:00",
-            "width": 1920,
-            "height": 864
-          },
-          {
-            "name": "002",
-            "alt": "Serpentine",
-            "date": "2017-11-04T08:26:41.000+01:00",
-            "width": 1920,
-            "height": 729
-          }
-        ],
-        "videos": [],
-        "text": "Vom 780m hohen Wanderparkplatz vor Libingen ging es zuerst auf einer kleinen Fahrstraße den Hang Richtung Grat hinauf. Noch wurde die Sonne durch eine hohe Wolkendecke verdeckt und durch die recht frühe Stunde, es war 8:30, sah alles noch etwas flau aus."
-      },
-      {
-        "photos": [
-          {
-            "name": "003",
-            "alt": "Wegkreuz",
-            "date": "2017-11-04T08:35:07.000+01:00",
-            "width": 1920,
-            "height": 924
-          }
-        ],
-        "videos": [],
-        "text": "Ein Wegkreuz neben der Straße. Ansonsten bin ich nur zwei Einheimischen begegnet, die mich mit ihren Autos überholten. Die Straße ist aber öffentlich und führt bis zum Restaurant Unterstein auf 960m."
-      },
-      {
-        "photos": [
-          {
-            "name": "004",
-            "alt": "Unterstein",
-            "date": "2017-11-04T08:38:35.000+01:00",
-            "width": 1920,
-            "height": 637
-          }
-        ],
-        "videos": [],
-        "text": "Nach Unterstein (hier links) hört die Asphaltstraße auf und der Weg wird steiler. Im Hintergrund ist der Grat zu sehen, den ich im Laufe des Tages entlanglaufen würde."
-      },
-      {
-        "photos": [
-          {
-            "name": "005",
-            "alt": "Wegweiser Oberstein",
-            "date": "2017-11-04T08:56:29.000+01:00",
-            "width": 1920,
-            "height": 1028
-          }
-        ],
-        "videos": [],
-        "text": "Nach Unterstein folgt logischerweise Oberstein, das bereits oben auf dem Grat liegt. Nun folgte ich dem Wegweiser Schnebelhorn, was mein erstes richtiges Ziel war."
-      },
-      {
-        "photos": [
-          {
-            "name": "006",
-            "alt": "Churfirsten",
-            "date": "2017-11-04T08:56:54.000+01:00",
-            "width": 1920,
-            "height": 748
-          }
-        ],
-        "videos": [],
-        "text": "Tele vom Grat zu den Churfirsten, die nun sichtbar wurden. Die Wolken lichteten sich nur langsam."
-      },
-      {
-        "photos": [
-          {
-            "name": "007",
-            "alt": "Wurzelweg auf Grat",
-            "date": "2017-11-04T08:57:13.000+01:00",
-            "width": 1920,
-            "height": 2880
-          }
-        ],
-        "videos": [],
-        "text": "Ab hier ging es jetzt einfach immer auf dem Grat zum Schnebelhorn entlang... verlaufen nicht möglich."
-      },
-      {
-        "photos": [
-          {
-            "name": "008",
-            "alt": "Eitobel",
-            "date": "2017-11-04T09:10:02.000+01:00",
-            "width": 1920,
-            "height": 866
-          }
-        ],
-        "videos": [],
-        "text": "Den Wald verließ ich schnell wieder. Hier der Blick zurück beim Aufstieg zum ersten Gipfel - den Steinweid. Bei dieser Wanderung ist zu beachten, dass der offizielle Weg meist um die Gipfel herumführt um Höhe zu sparen. Wenn man jeden Gipfel mitnehmen will (wie ich an diesem Tag), muss man den Wanderweg verlassen."
-      },
-      {
-        "photos": [
-          {
-            "name": "009",
-            "alt": "Steinweid",
-            "date": "2017-11-04T09:16:07.000+01:00",
-            "width": 1920,
-            "height": 1195
-          }
-        ],
-        "videos": [],
-        "text": "Blick zurück auf den Gipfel des Steinweids. Im Hintergrund lugt der Säntis hervor."
-      },
-      {
-        "photos": [
-          {
-            "name": "010",
-            "alt": "Laubberg",
-            "date": "2017-11-04T09:25:23.000+01:00",
-            "width": 1920,
-            "height": 945
-          }
-        ],
-        "videos": [],
-        "text": "Und nun habe ich schon den zweiten Gipfel überwunden, den Laubberg links hinter den leider nicht mehr belaubten Laubbäumen. Rechts am Hang sieht man einen Fahrweg. Über diesen hätte ich das Schnebelhorn etwa 20min schneller erreicht... aber der Weg über den Grat ist deutlich lohnender."
-      },
-      {
-        "photos": [
-          {
-            "name": "011",
-            "alt": "Meiersalp",
-            "date": "2017-11-04T09:33:21.000+01:00",
-            "width": 1920,
-            "height": 1008
-          }
-        ],
-        "videos": [],
-        "text": "Schnell erreichte ich den Fuß des Schnebelhorns. Links vom Schnebelhorn ist die kleine Gastwirtschaft Meiersalp zu sehen."
-      },
-      {
-        "photos": [
-          {
-            "name": "012",
-            "alt": "St. Iddaburg",
-            "date": "2017-11-04T09:34:02.000+01:00",
-            "width": 1920,
-            "height": 958
-          }
-        ],
-        "videos": [],
-        "text": "Tele zur St. Iddaburg, die sehr auffällig weiß in der braun-grünen Landschaft leuchtete."
-      },
-      {
-        "photos": [
-          {
-            "name": "013",
-            "alt": "Wanderweg Schnebelhorn",
-            "date": "2017-11-04T09:46:32.000+01:00",
-            "width": 1920,
-            "height": 779
-          }
-        ],
-        "videos": [],
-        "text": "Beim Aufstieg auf das Schnebelhorn setzte sich nun schöneres Wetter durch. Hier noch flach wurde der Weg im Wald dann doch steiler und durch das viele Laub am Boden auch etwas rutschig."
-      },
-      {
-        "photos": [
-          {
-            "name": "014",
-            "alt": "Gipfelkreuz Schnebelhorn",
-            "date": "2017-11-04T09:53:56.000+01:00",
-            "width": 1920,
-            "height": 1261
-          }
-        ],
-        "videos": [],
-        "text": "Trotzdem war der Gipfel des fast 1300m hohen Schnebelhorns schnell erreicht. Gegen 10:00 war ich oben."
-      },
-      {
-        "photos": [
-          {
-            "name": "015",
-            "alt": "Panorama Schnebelhorn",
-            "date": "2017-11-04T09:56:32.000+01:00",
-            "width": 1920,
-            "height": 728
-          }
-        ],
-        "videos": [],
-        "text": "Nun konnte ich auch erstmals nach Westen blicken. Ziemlich genau Richtung Zürich. Das Schnebelhorn ist übrigens der höchste Berg des Kantons Zürich... sonst wäre es wahrscheinlich auch nicht so bekannt."
-      },
-      {
-        "photos": [
-          {
-            "name": "016",
-            "alt": "Aussicht Schnebelhorn",
-            "date": "2017-11-04T10:05:16.000+01:00",
-            "width": 1920,
-            "height": 931
-          }
-        ],
-        "videos": [],
-        "text": "Tele nach Südwest. Die auffälligen Berge zwischen den beiden Tannen sind die Mythen. Rechts davon das Finsteraarhorn (4200m), das Schreckhorn (4000m) und ganz rechts Mönch, Jungfrau und Eiger. Unten ist noch ein Stück des Zürichsees zu sehen."
-      },
-      {
-        "photos": [
-          {
-            "name": "017",
-            "alt": "Wegstrecke Libingen Schnebelhorn",
-            "date": "2017-11-04T10:07:12.000+01:00",
-            "width": 1920,
-            "height": 1167
-          }
-        ],
-        "videos": [],
-        "text": "Nach einer kurzen Vesperpause war ich hier bereits auf dem Abstieg vom Schnebelhorn. Links den Grat war ich hinauf gelaufen. Im Tal rechts liegt Libingen."
-      },
-      {
-        "photos": [
-          {
-            "name": "018",
-            "alt": "Abgestorbener Baum",
-            "date": "2017-11-04T10:09:41.000+01:00",
-            "width": 1920,
-            "height": 1286
-          }
-        ],
-        "videos": [],
-        "text": "Ein abgestorbener Baum während des Abstiegs vom Schnebelhorn."
-      },
-      {
-        "photos": [
-          {
-            "name": "019",
-            "alt": "Kuhstufen",
-            "date": "2017-11-04T10:12:45.000+01:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Blick auf den weiteren Verlauf des Wanderwegs, der rechts an der Schindelberghöchi vorbeiführt. Da ich auch weiterhin immer auf dem Grat bleiben wollte, bin ich folglich nicht an dieser Hütte vorbeigekommen."
-      },
-      {
-        "photos": [
-          {
-            "name": "020",
-            "alt": "Schnebelhorn",
-            "date": "2017-11-04T10:24:06.000+01:00",
-            "width": 1920,
-            "height": 1509
-          }
-        ],
-        "videos": [],
-        "text": "Hier habe ich bereits den Wanderweg verlassen und laufe auf kleinem Weg hinauf auf die Schindelberghöchi. Der Blick zurück zum Schnebelhorn."
-      },
-      {
-        "photos": [
-          {
-            "name": "021",
-            "alt": "Aussicht Schindelberghöchi",
-            "date": "2017-11-04T10:26:00.000+01:00",
-            "width": 1920,
-            "height": 1244
-          }
-        ],
-        "videos": [],
-        "text": "Aussicht von der Schindelberghöchi zur Gaststätte Sennhütte (links). An der führt ein anderer Weg zum Schnebelhorn vorbei."
-      },
-      {
-        "photos": [
-          {
-            "name": "022",
-            "alt": "Wanderweg Schindelegg",
-            "date": "2017-11-04T10:31:30.000+01:00",
-            "width": 1920,
-            "height": 1040
-          },
-          {
-            "name": "023",
-            "alt": "Wanderweg Schindelberghöchi",
-            "date": "2017-11-04T10:34:08.000+01:00",
-            "width": 1920,
-            "height": 1212
-          }
-        ],
-        "videos": [],
-        "text": "Und so schön ging der Weg auf dem Grat von der Schindelberghöchi zum Schindelegg weiter. Das Verlassen des Hauptwanderwegs hatte sich hier auf jeden Fall gelohnt."
-      },
-      {
-        "photos": [
-          {
-            "name": "024",
-            "alt": "Laubberg Grat",
-            "date": "2017-11-04T10:39:32.000+01:00",
-            "width": 1920,
-            "height": 377
-          }
-        ],
-        "videos": [],
-        "text": "Blick auf den Grat vom Morgen."
-      },
-      {
-        "photos": [
-          {
-            "name": "025",
-            "alt": "Libingen",
-            "date": "2017-11-04T10:45:18.000+01:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Und der Blick die Felswand hinab zum 500m tieferen Ort Libingen."
-      },
-      {
-        "photos": [
-          {
-            "name": "026",
-            "alt": "Alp Schindelberg",
-            "date": "2017-11-04T10:51:45.000+01:00",
-            "width": 1920,
-            "height": 962
-          }
-        ],
-        "videos": [],
-        "text": "Beim Aufstieg auf den nächsten Gipfel der Blick zurück zum Schindelegg. Links am Gasthaus Alp Schindelberg führt der offizielle Wanderweg vorbei, auf dem ich mich nun wieder befinde."
-      },
-      {
-        "photos": [
-          {
-            "name": "027",
-            "alt": "Ausblick Rossegg",
-            "date": "2017-11-04T11:03:02.000+01:00",
-            "width": 1920,
-            "height": 806
-          }
-        ],
-        "videos": [],
-        "text": "Und schnell bin ich schon auf dem nächsten Gipfel - dem Rossegg. Blick Richtung Süd-West. Der Pass wo Holz verbrannt wurde, heißt Hand. Das Rossegg war übrigens bereits der sechste Gipfel der Tour und es war gerade erst um 11:00. Na gut, die Gipfel sind auch nicht besonders hoch. 😉"
-      },
-      {
-        "photos": [
-          {
-            "name": "028",
-            "alt": "Gratweg Rossegg",
-            "date": "2017-11-04T11:06:35.000+01:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Beim Abstieg vom Rossegg der steilste Abschnitt der gesamten Wanderung. Aber nur sehr kurz und nicht wirklich gefährlich. Man könnte zudem das ganze auch auf einem Fahrweg umgehen."
-      },
-      {
-        "photos": [
-          {
-            "name": "029",
-            "alt": "Helikopter über Alpen",
-            "date": "2017-11-04T11:07:22.000+01:00",
-            "width": 1920,
-            "height": 1313
-          }
-        ],
-        "videos": [],
-        "text": "Schrubb, Schrubb, Schrubb, überquerte mich ein etwas altmodisch aussehender Helikopter."
-      },
-      {
-        "photos": [
-          {
-            "name": "030",
-            "alt": "Wanderweg am Hang",
-            "date": "2017-11-04T11:10:13.000+01:00",
-            "width": 1920,
-            "height": 892
-          }
-        ],
-        "videos": [],
-        "text": "Blick zurück zum Abstieg vom Rossegg."
-      },
-      {
-        "photos": [
-          {
-            "name": "031",
-            "alt": "Grat Habrütispitz",
-            "date": "2017-11-04T11:15:44.000+01:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Nun verließ ich wieder den Wanderweg, der um die Habrütispitz herumführt. Der Weg auf die Habrütispitz war aber gar nicht mal so harmlos und führte hier kurz auf einem links und rechts abfallenden Grat bergauf."
-      },
-      {
-        "photos": [
-          {
-            "name": "032",
-            "alt": "Krumme Bäume",
-            "date": "2017-11-04T11:19:06.000+01:00",
-            "width": 1920,
-            "height": 2240
-          }
-        ],
-        "videos": [],
-        "text": "Schnell wurde es aber wieder breiter und der Weg ging durch einen urig aussehendes Waldstück."
-      },
-      {
-        "photos": [
-          {
-            "name": "033",
-            "alt": "Aussicht Habrütispitz",
-            "date": "2017-11-04T11:24:16.000+01:00",
-            "width": 1920,
-            "height": 1069
-          }
-        ],
-        "videos": [],
-        "text": "Blick von der schönen Wiese auf der Habrütispitz in das Goldinger Tal (links)"
-      },
-      {
-        "photos": [
-          {
-            "name": "034",
-            "alt": "Goldinger Tal",
-            "date": "2017-11-04T11:27:16.000+01:00",
-            "width": 1920,
-            "height": 711
-          }
-        ],
-        "videos": [],
-        "text": "Ich bin dann mal nicht weiter auf dem Grat gelaufen, sondern bin zum Wanderweg abgestiegen, um auf dieser schönen Aussichtsbank eine Pause zu machen."
-      },
-      {
-        "photos": [
-          {
-            "name": "035",
-            "alt": "Habrütispitz",
-            "date": "2017-11-04T11:41:43.000+01:00",
-            "width": 1920,
-            "height": 1097
-          }
-        ],
-        "videos": [],
-        "text": "Und weiter gings. Blick zurück zur Habrütispitz."
-      },
-      {
-        "photos": [
-          {
-            "name": "036",
-            "alt": "Brüch",
-            "date": "2017-11-04T11:46:53.000+01:00",
-            "width": 1920,
-            "height": 591
-          },
-          {
-            "name": "037",
-            "alt": "Nagelfluh",
-            "date": "2017-11-04T11:57:34.000+01:00",
-            "width": 1920,
-            "height": 2880
-          }
-        ],
-        "videos": [],
-        "text": "Nun ging der Weg durch den Wald auf das Chrüzegg. Der Pfad führt dabei lustig mitten durch viele Nagelfluhbrocken, die laut Schautafel auf dem rutschigen Grund sich den Berg hinabbewegen und dabei auseinanderbrechen."
-      },
-      {
-        "photos": [
-          {
-            "name": "038",
-            "alt": "Chrüzegg",
-            "date": "2017-11-04T11:58:30.000+01:00",
-            "width": 1920,
-            "height": 1126
-          }
-        ],
-        "videos": [],
-        "text": "Nach dem Wald war es nur noch ein kurzes Stück zum 1300m hohen Chrüzegg. Während mir die ganze Zeit vielleicht nur fünf andere Wanderer begegneten, wurde es nun deutlich belebter."
-      },
-      {
-        "photos": [
-          {
-            "name": "039",
-            "alt": "Aussicht Chrüzegg",
-            "date": "2017-11-04T12:01:32.000+01:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Blick vom Chrüzegg auf den weiteren Verlauf des Wegs. Das Gasthaus Chrüzegg versteckte sich noch hinter den Tannen in der Bildmitte."
-      },
-      {
-        "photos": [
-          {
-            "name": "040",
-            "alt": "Berggasthaus Chrüzegg",
-            "date": "2017-11-04T12:07:43.000+01:00",
-            "width": 1920,
-            "height": 969
-          }
-        ],
-        "videos": [],
-        "text": "Und hier bin ich nun beim großen Berggasthaus Chrüzegg. Dies musste auf Grund des instabilen Grunds vor 20 Jahren neu gebaut werden. Das Gasthaus ist von der Bergstation der Sesselbahn Atzmännig leicht zu erreichen, deshalb war hier auch nun etwas mehr los."
-      },
-      {
-        "photos": [
-          {
-            "name": "041",
-            "alt": "Wegweiser Chrüzegg",
-            "date": "2017-11-04T12:10:31.000+01:00",
-            "width": 1920,
-            "height": 1708
-          }
-        ],
-        "videos": [],
-        "text": "Puh, der Wegweiser auf dem Chrüzegg bietet fast zu viele Informationen. An Wanderwegen mangelt es in dieser Gegend auf jeden Fall nicht. Inzwischen war es 12:00."
-      },
-      {
-        "photos": [
-          {
-            "name": "042",
-            "alt": "Chrüzegg",
-            "date": "2017-11-04T12:15:08.000+01:00",
-            "width": 1920,
-            "height": 744
-          }
-        ],
-        "videos": [],
-        "text": "Ich verließ mal wieder den Wanderweg und ging auf den benachbarten namenlosen Gipfel. Blick zurück zum Chrüzegg. über den rechten Grat führte mein Weg."
-      },
-      {
-        "photos": [
-          {
-            "name": "043",
-            "alt": "Fahrweg mit Säntis",
-            "date": "2017-11-04T12:19:48.000+01:00",
-            "width": 1920,
-            "height": 890
-          }
-        ],
-        "videos": [],
-        "text": "Blick zum Säntis."
-      },
-      {
-        "photos": [
-          {
-            "name": "044",
-            "alt": "Tweralpspitz",
-            "date": "2017-11-04T12:20:35.000+01:00",
-            "width": 1920,
-            "height": 955
-          }
-        ],
-        "videos": [],
-        "text": "Blick vom namenlosen neunten Gipfel nach Nord-Ost zur Tweralpspitz, über die der Weg vom Atzmännig führt."
-      },
-      {
-        "photos": [
-          {
-            "name": "045",
-            "alt": "Zürichsee",
-            "date": "2017-11-04T12:21:05.000+01:00",
-            "width": 1920,
-            "height": 724
-          }
-        ],
-        "videos": [],
-        "text": "Und Tele zurück nach Westen zum Zürichsee."
-      },
-      {
-        "photos": [
-          {
-            "name": "046",
-            "alt": "Gasthaus Schwämmli",
-            "date": "2017-11-04T12:39:17.000+01:00",
-            "width": 1920,
-            "height": 1245
-          }
-        ],
-        "videos": [],
-        "text": "Auf Grund von Felsen musste ich dann doch wieder den Grat verlassen. Anschließend erreichte ich die kleine Alpwirtschaft Schwämmli."
-      },
-      {
-        "photos": [
-          {
-            "name": "047",
-            "alt": "Voralpenlandschaft",
-            "date": "2017-11-04T12:45:43.000+01:00",
-            "width": 1920,
-            "height": 587
-          }
-        ],
-        "videos": [],
-        "text": "Nach einem steilen Aufstieg erreichte ich die Alplispitz, von der man schön in die Voralpen Richtung Osten schauen kann."
-      },
-      {
-        "photos": [
-          {
-            "name": "048",
-            "alt": "Älpli",
-            "date": "2017-11-04T12:58:21.000+01:00",
-            "width": 1920,
-            "height": 500
-          },
-          {
-            "name": "049",
-            "alt": "Älpli",
-            "date": "2017-11-04T13:01:11.000+01:00",
-            "width": 1920,
-            "height": 719
-          }
-        ],
-        "videos": [],
-        "text": "Danach ging es weiter zu den Wiesen von Älpli, auf denen dekorativ ebenfalls einige Nagelfuhfelsen verteilt sind. Im Hintergrund ist wieder der Grat vom Morgen zu sehen."
-      },
-      {
-        "photos": [
-          {
-            "name": "050",
-            "alt": "Aussicht Chellenspitz",
-            "date": "2017-11-04T13:01:57.000+01:00",
-            "width": 1920,
-            "height": 706
-          }
-        ],
-        "videos": [],
-        "text": "Ohne weiteren Aufstieg war ich nun auf der Chellenspitz, der elfte und letzte Gipfel meiner Gratwanderung. Schöne Aussicht von hier Richtung Säntis (rechts)."
-      },
-      {
-        "photos": [
-          {
-            "name": "051",
-            "alt": "Restaurant Unteralpli",
-            "date": "2017-11-04T13:15:20.000+01:00",
-            "width": 1920,
-            "height": 836
-          }
-        ],
-        "videos": [],
-        "text": "Den Grat verließ ich aber trotzdem nicht, denn nun ging es an den Abstieg nach Libingen. Hier vorbei am Restaurant Unteralpli. An Gaststätten mangelt es auf dieser Rundwanderung auf jeden Fall nicht. Wenn ich richtig mitgezählt habe war es die Sechste."
-      },
-      {
-        "photos": [
-          {
-            "name": "052",
-            "alt": "Bäume an Fahrweg",
-            "date": "2017-11-04T13:21:36.000+01:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Nur kurz ging der Weg auf diesem Feldweg weiter."
-      },
-      {
-        "photos": [
-          {
-            "name": "053",
-            "alt": "Steiler Waldweg",
-            "date": "2017-11-04T13:30:42.000+01:00",
-            "width": 1920,
-            "height": 1240
-          }
-        ],
-        "videos": [],
-        "text": "Danach ging es recht steil in einem Wald bergab. Der Weg war hier aber gut abgesichert."
-      },
-      {
-        "photos": [
-          {
-            "name": "054",
-            "alt": "Wanderweg Libingen Unteralpli",
-            "date": "2017-11-04T13:33:19.000+01:00",
-            "width": 1920,
-            "height": 1169
-          },
-          {
-            "name": "055",
-            "alt": "Libingen",
-            "date": "2017-11-04T13:36:53.000+01:00",
-            "width": 1920,
-            "height": 1162
-          }
-        ],
-        "videos": [],
-        "text": "Nach den Wald ging es steil über Wiesen Richtung Libingen. Bei feuchterem Wetter dürfte der Weg ziemlich rutschig sein."
-      },
-      {
-        "photos": [
-          {
-            "name": "056",
-            "alt": "Bauernhof",
-            "date": "2017-11-04T13:38:28.000+01:00",
-            "width": 1920,
-            "height": 960
-          }
-        ],
-        "videos": [],
-        "text": "Wenn ein Foto nichts wurde muss es halt verfremdet werden..."
-      },
-      {
-        "photos": [
-          {
-            "name": "057",
-            "alt": "Abstieg Libingen Schlucht",
-            "date": "2017-11-04T13:52:41.000+01:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Nach Libingen kam ich nicht direkt, sondern zuerst musste ich durch eine Schlucht. Weiterhin steil ging es hier hinunter."
-      },
-      {
-        "photos": [
-          {
-            "name": "058",
-            "alt": "Wasserfall",
-            "date": "2017-11-04T14:04:10.000+01:00",
-            "width": 1920,
-            "height": 1446
-          },
-          {
-            "name": "059",
-            "alt": "Schlucht Libingen",
-            "date": "2017-11-04T14:04:43.000+01:00",
-            "width": 1920,
-            "height": 1004
-          },
-          {
-            "name": "060",
-            "alt": "Brücke über Schlucht",
-            "date": "2017-11-04T14:06:59.000+01:00",
-            "width": 1920,
-            "height": 2274
-          }
-        ],
-        "videos": [],
-        "text": "Impressionen aus der Schlucht bei Libingen. Danach ging es natürlich wieder bergauf."
-      },
-      {
-        "photos": [
-          {
-            "name": "061",
-            "alt": "Wanderparkplatz Libingen",
-            "date": "2017-11-04T14:15:22.000+01:00",
-            "width": 1920,
-            "height": 1296
-          }
-        ],
-        "videos": [],
-        "text": "Nachdem ich Libingen durchquert hatte musste ich noch ein kleines Stück auf der Straße zum Wanderparkplatz laufen, den ich 14:30 erreichte."
-      },
-      {
-        "photos": [
-          {
-            "name": "track1",
-            "width": 1920,
-            "height": 970
-          },
-          {
-            "name": "track2",
-            "width": 1871,
-            "height": 407
-          }
-        ],
-        "videos": [],
-        "text": "Der Streckenverlauf. 1300 Höhenmeter auf 16km. Wie man sieht ist man meist zwischen 1100m und 1300m unterwegs."
-      }
-    ],
-    "outro": "Fazit: Überraschend abwechslungsreiche Gratwanderung mit immer neuen Ausblicken. Wenn man sich an die ausgezeichneten Wege hält spart man einige Höhenmeter, aber es entgehen einem auch ein paar schöne Abschnitte. Die Wanderung ist insgesamt einfach, aber trotzdem nicht unanstrengend. Man könnte die Runde aber auch an mehreren Stellen abbrechen, wenn man keine Lust mehr hätte."
-  }
-]
+    {
+      "photos": [
+        {
+          "name": "003",
+          "alt": "Wegkreuz",
+          "date": "2017-11-04T08:35:07.000+01:00",
+          "width": 1920,
+          "height": 924
+        }
+      ],
+      "videos": [],
+      "text": "Ein Wegkreuz neben der Straße. Ansonsten bin ich nur zwei Einheimischen begegnet, die mich mit ihren Autos überholten. Die Straße ist aber öffentlich und führt bis zum Restaurant Unterstein auf 960m."
+    },
+    {
+      "photos": [
+        {
+          "name": "004",
+          "alt": "Unterstein",
+          "date": "2017-11-04T08:38:35.000+01:00",
+          "width": 1920,
+          "height": 637
+        }
+      ],
+      "videos": [],
+      "text": "Nach Unterstein (hier links) hört die Asphaltstraße auf und der Weg wird steiler. Im Hintergrund ist der Grat zu sehen, den ich im Laufe des Tages entlanglaufen würde."
+    },
+    {
+      "photos": [
+        {
+          "name": "005",
+          "alt": "Wegweiser Oberstein",
+          "date": "2017-11-04T08:56:29.000+01:00",
+          "width": 1920,
+          "height": 1028
+        }
+      ],
+      "videos": [],
+      "text": "Nach Unterstein folgt logischerweise Oberstein, das bereits oben auf dem Grat liegt. Nun folgte ich dem Wegweiser Schnebelhorn, was mein erstes richtiges Ziel war."
+    },
+    {
+      "photos": [
+        {
+          "name": "006",
+          "alt": "Churfirsten",
+          "date": "2017-11-04T08:56:54.000+01:00",
+          "width": 1920,
+          "height": 748
+        }
+      ],
+      "videos": [],
+      "text": "Tele vom Grat zu den Churfirsten, die nun sichtbar wurden. Die Wolken lichteten sich nur langsam."
+    },
+    {
+      "photos": [
+        {
+          "name": "007",
+          "alt": "Wurzelweg auf Grat",
+          "date": "2017-11-04T08:57:13.000+01:00",
+          "width": 1920,
+          "height": 2880
+        }
+      ],
+      "videos": [],
+      "text": "Ab hier ging es jetzt einfach immer auf dem Grat zum Schnebelhorn entlang... verlaufen nicht möglich."
+    },
+    {
+      "photos": [
+        {
+          "name": "008",
+          "alt": "Eitobel",
+          "date": "2017-11-04T09:10:02.000+01:00",
+          "width": 1920,
+          "height": 866
+        }
+      ],
+      "videos": [],
+      "text": "Den Wald verließ ich schnell wieder. Hier der Blick zurück beim Aufstieg zum ersten Gipfel - den Steinweid. Bei dieser Wanderung ist zu beachten, dass der offizielle Weg meist um die Gipfel herumführt um Höhe zu sparen. Wenn man jeden Gipfel mitnehmen will (wie ich an diesem Tag), muss man den Wanderweg verlassen."
+    },
+    {
+      "photos": [
+        {
+          "name": "009",
+          "alt": "Steinweid",
+          "date": "2017-11-04T09:16:07.000+01:00",
+          "width": 1920,
+          "height": 1195
+        }
+      ],
+      "videos": [],
+      "text": "Blick zurück auf den Gipfel des Steinweids. Im Hintergrund lugt der Säntis hervor."
+    },
+    {
+      "photos": [
+        {
+          "name": "010",
+          "alt": "Laubberg",
+          "date": "2017-11-04T09:25:23.000+01:00",
+          "width": 1920,
+          "height": 945
+        }
+      ],
+      "videos": [],
+      "text": "Und nun habe ich schon den zweiten Gipfel überwunden, den Laubberg links hinter den leider nicht mehr belaubten Laubbäumen. Rechts am Hang sieht man einen Fahrweg. Über diesen hätte ich das Schnebelhorn etwa 20min schneller erreicht... aber der Weg über den Grat ist deutlich lohnender."
+    },
+    {
+      "photos": [
+        {
+          "name": "011",
+          "alt": "Meiersalp",
+          "date": "2017-11-04T09:33:21.000+01:00",
+          "width": 1920,
+          "height": 1008
+        }
+      ],
+      "videos": [],
+      "text": "Schnell erreichte ich den Fuß des Schnebelhorns. Links vom Schnebelhorn ist die kleine Gastwirtschaft Meiersalp zu sehen."
+    },
+    {
+      "photos": [
+        {
+          "name": "012",
+          "alt": "St. Iddaburg",
+          "date": "2017-11-04T09:34:02.000+01:00",
+          "width": 1920,
+          "height": 958
+        }
+      ],
+      "videos": [],
+      "text": "Tele zur St. Iddaburg, die sehr auffällig weiß in der braun-grünen Landschaft leuchtete."
+    },
+    {
+      "photos": [
+        {
+          "name": "013",
+          "alt": "Wanderweg Schnebelhorn",
+          "date": "2017-11-04T09:46:32.000+01:00",
+          "width": 1920,
+          "height": 779
+        }
+      ],
+      "videos": [],
+      "text": "Beim Aufstieg auf das Schnebelhorn setzte sich nun schöneres Wetter durch. Hier noch flach wurde der Weg im Wald dann doch steiler und durch das viele Laub am Boden auch etwas rutschig."
+    },
+    {
+      "photos": [
+        {
+          "name": "014",
+          "alt": "Gipfelkreuz Schnebelhorn",
+          "date": "2017-11-04T09:53:56.000+01:00",
+          "width": 1920,
+          "height": 1261
+        }
+      ],
+      "videos": [],
+      "text": "Trotzdem war der Gipfel des fast 1300m hohen Schnebelhorns schnell erreicht. Gegen 10:00 war ich oben."
+    },
+    {
+      "photos": [
+        {
+          "name": "015",
+          "alt": "Panorama Schnebelhorn",
+          "date": "2017-11-04T09:56:32.000+01:00",
+          "width": 1920,
+          "height": 728
+        }
+      ],
+      "videos": [],
+      "text": "Nun konnte ich auch erstmals nach Westen blicken. Ziemlich genau Richtung Zürich. Das Schnebelhorn ist übrigens der höchste Berg des Kantons Zürich... sonst wäre es wahrscheinlich auch nicht so bekannt."
+    },
+    {
+      "photos": [
+        {
+          "name": "016",
+          "alt": "Aussicht Schnebelhorn",
+          "date": "2017-11-04T10:05:16.000+01:00",
+          "width": 1920,
+          "height": 931
+        }
+      ],
+      "videos": [],
+      "text": "Tele nach Südwest. Die auffälligen Berge zwischen den beiden Tannen sind die Mythen. Rechts davon das Finsteraarhorn (4200m), das Schreckhorn (4000m) und ganz rechts Mönch, Jungfrau und Eiger. Unten ist noch ein Stück des Zürichsees zu sehen."
+    },
+    {
+      "photos": [
+        {
+          "name": "017",
+          "alt": "Wegstrecke Libingen Schnebelhorn",
+          "date": "2017-11-04T10:07:12.000+01:00",
+          "width": 1920,
+          "height": 1167
+        }
+      ],
+      "videos": [],
+      "text": "Nach einer kurzen Vesperpause war ich hier bereits auf dem Abstieg vom Schnebelhorn. Links den Grat war ich hinauf gelaufen. Im Tal rechts liegt Libingen."
+    },
+    {
+      "photos": [
+        {
+          "name": "018",
+          "alt": "Abgestorbener Baum",
+          "date": "2017-11-04T10:09:41.000+01:00",
+          "width": 1920,
+          "height": 1286
+        }
+      ],
+      "videos": [],
+      "text": "Ein abgestorbener Baum während des Abstiegs vom Schnebelhorn."
+    },
+    {
+      "photos": [
+        {
+          "name": "019",
+          "alt": "Kuhstufen",
+          "date": "2017-11-04T10:12:45.000+01:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Blick auf den weiteren Verlauf des Wanderwegs, der rechts an der Schindelberghöchi vorbeiführt. Da ich auch weiterhin immer auf dem Grat bleiben wollte, bin ich folglich nicht an dieser Hütte vorbeigekommen."
+    },
+    {
+      "photos": [
+        {
+          "name": "020",
+          "alt": "Schnebelhorn",
+          "date": "2017-11-04T10:24:06.000+01:00",
+          "width": 1920,
+          "height": 1509
+        }
+      ],
+      "videos": [],
+      "text": "Hier habe ich bereits den Wanderweg verlassen und laufe auf kleinem Weg hinauf auf die Schindelberghöchi. Der Blick zurück zum Schnebelhorn."
+    },
+    {
+      "photos": [
+        {
+          "name": "021",
+          "alt": "Aussicht Schindelberghöchi",
+          "date": "2017-11-04T10:26:00.000+01:00",
+          "width": 1920,
+          "height": 1244
+        }
+      ],
+      "videos": [],
+      "text": "Aussicht von der Schindelberghöchi zur Gaststätte Sennhütte (links). An der führt ein anderer Weg zum Schnebelhorn vorbei."
+    },
+    {
+      "photos": [
+        {
+          "name": "022",
+          "alt": "Wanderweg Schindelegg",
+          "date": "2017-11-04T10:31:30.000+01:00",
+          "width": 1920,
+          "height": 1040
+        },
+        {
+          "name": "023",
+          "alt": "Wanderweg Schindelberghöchi",
+          "date": "2017-11-04T10:34:08.000+01:00",
+          "width": 1920,
+          "height": 1212
+        }
+      ],
+      "videos": [],
+      "text": "Und so schön ging der Weg auf dem Grat von der Schindelberghöchi zum Schindelegg weiter. Das Verlassen des Hauptwanderwegs hatte sich hier auf jeden Fall gelohnt."
+    },
+    {
+      "photos": [
+        {
+          "name": "024",
+          "alt": "Laubberg Grat",
+          "date": "2017-11-04T10:39:32.000+01:00",
+          "width": 1920,
+          "height": 377
+        }
+      ],
+      "videos": [],
+      "text": "Blick auf den Grat vom Morgen."
+    },
+    {
+      "photos": [
+        {
+          "name": "025",
+          "alt": "Libingen",
+          "date": "2017-11-04T10:45:18.000+01:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Und der Blick die Felswand hinab zum 500m tieferen Ort Libingen."
+    },
+    {
+      "photos": [
+        {
+          "name": "026",
+          "alt": "Alp Schindelberg",
+          "date": "2017-11-04T10:51:45.000+01:00",
+          "width": 1920,
+          "height": 962
+        }
+      ],
+      "videos": [],
+      "text": "Beim Aufstieg auf den nächsten Gipfel der Blick zurück zum Schindelegg. Links am Gasthaus Alp Schindelberg führt der offizielle Wanderweg vorbei, auf dem ich mich nun wieder befinde."
+    },
+    {
+      "photos": [
+        {
+          "name": "027",
+          "alt": "Ausblick Rossegg",
+          "date": "2017-11-04T11:03:02.000+01:00",
+          "width": 1920,
+          "height": 806
+        }
+      ],
+      "videos": [],
+      "text": "Und schnell bin ich schon auf dem nächsten Gipfel - dem Rossegg. Blick Richtung Süd-West. Der Pass wo Holz verbrannt wurde, heißt Hand. Das Rossegg war übrigens bereits der sechste Gipfel der Tour und es war gerade erst um 11:00. Na gut, die Gipfel sind auch nicht besonders hoch. 😉"
+    },
+    {
+      "photos": [
+        {
+          "name": "028",
+          "alt": "Gratweg Rossegg",
+          "date": "2017-11-04T11:06:35.000+01:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Beim Abstieg vom Rossegg der steilste Abschnitt der gesamten Wanderung. Aber nur sehr kurz und nicht wirklich gefährlich. Man könnte zudem das ganze auch auf einem Fahrweg umgehen."
+    },
+    {
+      "photos": [
+        {
+          "name": "029",
+          "alt": "Helikopter über Alpen",
+          "date": "2017-11-04T11:07:22.000+01:00",
+          "width": 1920,
+          "height": 1313
+        }
+      ],
+      "videos": [],
+      "text": "Schrubb, Schrubb, Schrubb, überquerte mich ein etwas altmodisch aussehender Helikopter."
+    },
+    {
+      "photos": [
+        {
+          "name": "030",
+          "alt": "Wanderweg am Hang",
+          "date": "2017-11-04T11:10:13.000+01:00",
+          "width": 1920,
+          "height": 892
+        }
+      ],
+      "videos": [],
+      "text": "Blick zurück zum Abstieg vom Rossegg."
+    },
+    {
+      "photos": [
+        {
+          "name": "031",
+          "alt": "Grat Habrütispitz",
+          "date": "2017-11-04T11:15:44.000+01:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Nun verließ ich wieder den Wanderweg, der um die Habrütispitz herumführt. Der Weg auf die Habrütispitz war aber gar nicht mal so harmlos und führte hier kurz auf einem links und rechts abfallenden Grat bergauf."
+    },
+    {
+      "photos": [
+        {
+          "name": "032",
+          "alt": "Krumme Bäume",
+          "date": "2017-11-04T11:19:06.000+01:00",
+          "width": 1920,
+          "height": 2240
+        }
+      ],
+      "videos": [],
+      "text": "Schnell wurde es aber wieder breiter und der Weg ging durch einen urig aussehendes Waldstück."
+    },
+    {
+      "photos": [
+        {
+          "name": "033",
+          "alt": "Aussicht Habrütispitz",
+          "date": "2017-11-04T11:24:16.000+01:00",
+          "width": 1920,
+          "height": 1069
+        }
+      ],
+      "videos": [],
+      "text": "Blick von der schönen Wiese auf der Habrütispitz in das Goldinger Tal (links)"
+    },
+    {
+      "photos": [
+        {
+          "name": "034",
+          "alt": "Goldinger Tal",
+          "date": "2017-11-04T11:27:16.000+01:00",
+          "width": 1920,
+          "height": 711
+        }
+      ],
+      "videos": [],
+      "text": "Ich bin dann mal nicht weiter auf dem Grat gelaufen, sondern bin zum Wanderweg abgestiegen, um auf dieser schönen Aussichtsbank eine Pause zu machen."
+    },
+    {
+      "photos": [
+        {
+          "name": "035",
+          "alt": "Habrütispitz",
+          "date": "2017-11-04T11:41:43.000+01:00",
+          "width": 1920,
+          "height": 1097
+        }
+      ],
+      "videos": [],
+      "text": "Und weiter gings. Blick zurück zur Habrütispitz."
+    },
+    {
+      "photos": [
+        {
+          "name": "036",
+          "alt": "Brüch",
+          "date": "2017-11-04T11:46:53.000+01:00",
+          "width": 1920,
+          "height": 591
+        },
+        {
+          "name": "037",
+          "alt": "Nagelfluh",
+          "date": "2017-11-04T11:57:34.000+01:00",
+          "width": 1920,
+          "height": 2880
+        }
+      ],
+      "videos": [],
+      "text": "Nun ging der Weg durch den Wald auf das Chrüzegg. Der Pfad führt dabei lustig mitten durch viele Nagelfluhbrocken, die laut Schautafel auf dem rutschigen Grund sich den Berg hinabbewegen und dabei auseinanderbrechen."
+    },
+    {
+      "photos": [
+        {
+          "name": "038",
+          "alt": "Chrüzegg",
+          "date": "2017-11-04T11:58:30.000+01:00",
+          "width": 1920,
+          "height": 1126
+        }
+      ],
+      "videos": [],
+      "text": "Nach dem Wald war es nur noch ein kurzes Stück zum 1300m hohen Chrüzegg. Während mir die ganze Zeit vielleicht nur fünf andere Wanderer begegneten, wurde es nun deutlich belebter."
+    },
+    {
+      "photos": [
+        {
+          "name": "039",
+          "alt": "Aussicht Chrüzegg",
+          "date": "2017-11-04T12:01:32.000+01:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Blick vom Chrüzegg auf den weiteren Verlauf des Wegs. Das Gasthaus Chrüzegg versteckte sich noch hinter den Tannen in der Bildmitte."
+    },
+    {
+      "photos": [
+        {
+          "name": "040",
+          "alt": "Berggasthaus Chrüzegg",
+          "date": "2017-11-04T12:07:43.000+01:00",
+          "width": 1920,
+          "height": 969
+        }
+      ],
+      "videos": [],
+      "text": "Und hier bin ich nun beim großen Berggasthaus Chrüzegg. Dies musste auf Grund des instabilen Grunds vor 20 Jahren neu gebaut werden. Das Gasthaus ist von der Bergstation der Sesselbahn Atzmännig leicht zu erreichen, deshalb war hier auch nun etwas mehr los."
+    },
+    {
+      "photos": [
+        {
+          "name": "041",
+          "alt": "Wegweiser Chrüzegg",
+          "date": "2017-11-04T12:10:31.000+01:00",
+          "width": 1920,
+          "height": 1708
+        }
+      ],
+      "videos": [],
+      "text": "Puh, der Wegweiser auf dem Chrüzegg bietet fast zu viele Informationen. An Wanderwegen mangelt es in dieser Gegend auf jeden Fall nicht. Inzwischen war es 12:00."
+    },
+    {
+      "photos": [
+        {
+          "name": "042",
+          "alt": "Chrüzegg",
+          "date": "2017-11-04T12:15:08.000+01:00",
+          "width": 1920,
+          "height": 744
+        }
+      ],
+      "videos": [],
+      "text": "Ich verließ mal wieder den Wanderweg und ging auf den benachbarten namenlosen Gipfel. Blick zurück zum Chrüzegg. über den rechten Grat führte mein Weg."
+    },
+    {
+      "photos": [
+        {
+          "name": "043",
+          "alt": "Fahrweg mit Säntis",
+          "date": "2017-11-04T12:19:48.000+01:00",
+          "width": 1920,
+          "height": 890
+        }
+      ],
+      "videos": [],
+      "text": "Blick zum Säntis."
+    },
+    {
+      "photos": [
+        {
+          "name": "044",
+          "alt": "Tweralpspitz",
+          "date": "2017-11-04T12:20:35.000+01:00",
+          "width": 1920,
+          "height": 955
+        }
+      ],
+      "videos": [],
+      "text": "Blick vom namenlosen neunten Gipfel nach Nord-Ost zur Tweralpspitz, über die der Weg vom Atzmännig führt."
+    },
+    {
+      "photos": [
+        {
+          "name": "045",
+          "alt": "Zürichsee",
+          "date": "2017-11-04T12:21:05.000+01:00",
+          "width": 1920,
+          "height": 724
+        }
+      ],
+      "videos": [],
+      "text": "Und Tele zurück nach Westen zum Zürichsee."
+    },
+    {
+      "photos": [
+        {
+          "name": "046",
+          "alt": "Gasthaus Schwämmli",
+          "date": "2017-11-04T12:39:17.000+01:00",
+          "width": 1920,
+          "height": 1245
+        }
+      ],
+      "videos": [],
+      "text": "Auf Grund von Felsen musste ich dann doch wieder den Grat verlassen. Anschließend erreichte ich die kleine Alpwirtschaft Schwämmli."
+    },
+    {
+      "photos": [
+        {
+          "name": "047",
+          "alt": "Voralpenlandschaft",
+          "date": "2017-11-04T12:45:43.000+01:00",
+          "width": 1920,
+          "height": 587
+        }
+      ],
+      "videos": [],
+      "text": "Nach einem steilen Aufstieg erreichte ich die Alplispitz, von der man schön in die Voralpen Richtung Osten schauen kann."
+    },
+    {
+      "photos": [
+        {
+          "name": "048",
+          "alt": "Älpli",
+          "date": "2017-11-04T12:58:21.000+01:00",
+          "width": 1920,
+          "height": 500
+        },
+        {
+          "name": "049",
+          "alt": "Älpli",
+          "date": "2017-11-04T13:01:11.000+01:00",
+          "width": 1920,
+          "height": 719
+        }
+      ],
+      "videos": [],
+      "text": "Danach ging es weiter zu den Wiesen von Älpli, auf denen dekorativ ebenfalls einige Nagelfuhfelsen verteilt sind. Im Hintergrund ist wieder der Grat vom Morgen zu sehen."
+    },
+    {
+      "photos": [
+        {
+          "name": "050",
+          "alt": "Aussicht Chellenspitz",
+          "date": "2017-11-04T13:01:57.000+01:00",
+          "width": 1920,
+          "height": 706
+        }
+      ],
+      "videos": [],
+      "text": "Ohne weiteren Aufstieg war ich nun auf der Chellenspitz, der elfte und letzte Gipfel meiner Gratwanderung. Schöne Aussicht von hier Richtung Säntis (rechts)."
+    },
+    {
+      "photos": [
+        {
+          "name": "051",
+          "alt": "Restaurant Unteralpli",
+          "date": "2017-11-04T13:15:20.000+01:00",
+          "width": 1920,
+          "height": 836
+        }
+      ],
+      "videos": [],
+      "text": "Den Grat verließ ich aber trotzdem nicht, denn nun ging es an den Abstieg nach Libingen. Hier vorbei am Restaurant Unteralpli. An Gaststätten mangelt es auf dieser Rundwanderung auf jeden Fall nicht. Wenn ich richtig mitgezählt habe war es die Sechste."
+    },
+    {
+      "photos": [
+        {
+          "name": "052",
+          "alt": "Bäume an Fahrweg",
+          "date": "2017-11-04T13:21:36.000+01:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Nur kurz ging der Weg auf diesem Feldweg weiter."
+    },
+    {
+      "photos": [
+        {
+          "name": "053",
+          "alt": "Steiler Waldweg",
+          "date": "2017-11-04T13:30:42.000+01:00",
+          "width": 1920,
+          "height": 1240
+        }
+      ],
+      "videos": [],
+      "text": "Danach ging es recht steil in einem Wald bergab. Der Weg war hier aber gut abgesichert."
+    },
+    {
+      "photos": [
+        {
+          "name": "054",
+          "alt": "Wanderweg Libingen Unteralpli",
+          "date": "2017-11-04T13:33:19.000+01:00",
+          "width": 1920,
+          "height": 1169
+        },
+        {
+          "name": "055",
+          "alt": "Libingen",
+          "date": "2017-11-04T13:36:53.000+01:00",
+          "width": 1920,
+          "height": 1162
+        }
+      ],
+      "videos": [],
+      "text": "Nach den Wald ging es steil über Wiesen Richtung Libingen. Bei feuchterem Wetter dürfte der Weg ziemlich rutschig sein."
+    },
+    {
+      "photos": [
+        {
+          "name": "056",
+          "alt": "Bauernhof",
+          "date": "2017-11-04T13:38:28.000+01:00",
+          "width": 1920,
+          "height": 960
+        }
+      ],
+      "videos": [],
+      "text": "Wenn ein Foto nichts wurde muss es halt verfremdet werden..."
+    },
+    {
+      "photos": [
+        {
+          "name": "057",
+          "alt": "Abstieg Libingen Schlucht",
+          "date": "2017-11-04T13:52:41.000+01:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Nach Libingen kam ich nicht direkt, sondern zuerst musste ich durch eine Schlucht. Weiterhin steil ging es hier hinunter."
+    },
+    {
+      "photos": [
+        {
+          "name": "058",
+          "alt": "Wasserfall",
+          "date": "2017-11-04T14:04:10.000+01:00",
+          "width": 1920,
+          "height": 1446
+        },
+        {
+          "name": "059",
+          "alt": "Schlucht Libingen",
+          "date": "2017-11-04T14:04:43.000+01:00",
+          "width": 1920,
+          "height": 1004
+        },
+        {
+          "name": "060",
+          "alt": "Brücke über Schlucht",
+          "date": "2017-11-04T14:06:59.000+01:00",
+          "width": 1920,
+          "height": 2274
+        }
+      ],
+      "videos": [],
+      "text": "Impressionen aus der Schlucht bei Libingen. Danach ging es natürlich wieder bergauf."
+    },
+    {
+      "photos": [
+        {
+          "name": "061",
+          "alt": "Wanderparkplatz Libingen",
+          "date": "2017-11-04T14:15:22.000+01:00",
+          "width": 1920,
+          "height": 1296
+        }
+      ],
+      "videos": [],
+      "text": "Nachdem ich Libingen durchquert hatte musste ich noch ein kleines Stück auf der Straße zum Wanderparkplatz laufen, den ich 14:30 erreichte."
+    },
+    {
+      "photos": [
+        {
+          "name": "track1",
+          "width": 1920,
+          "height": 970
+        },
+        {
+          "name": "track2",
+          "width": 1871,
+          "height": 407
+        }
+      ],
+      "videos": [],
+      "text": "Der Streckenverlauf. 1300 Höhenmeter auf 16km. Wie man sieht ist man meist zwischen 1100m und 1300m unterwegs."
+    }
+  ],
+  "outro": "Fazit: Überraschend abwechslungsreiche Gratwanderung mit immer neuen Ausblicken. Wenn man sich an die ausgezeichneten Wege hält spart man einige Höhenmeter, aber es entgehen einem auch ein paar schöne Abschnitte. Die Wanderung ist insgesamt einfach, aber trotzdem nicht unanstrengend. Man könnte die Runde aber auch an mehreren Stellen abbrechen, wenn man keine Lust mehr hätte."
+}

@@ -1,449 +1,447 @@
-[
-  {
-    "destination": "sankt-moritz",
-    "date": "d20161207",
-    "track": true,
-    "shortTitle": "Corviglia",
-    "title": "St. Moritz - Corviglia",
-    "title3d": {
-      "offsetY": 15,
-      "fontSize": 5.5,
-      "width": 1920,
-      "height": 667
+{
+  "destination": "sankt-moritz",
+  "date": "d20161207",
+  "track": true,
+  "shortTitle": "Corviglia",
+  "title": "St. Moritz - Corviglia",
+  "title3d": {
+    "offsetY": 15,
+    "fontSize": 5.5,
+    "width": 1920,
+    "height": 667
+  },
+  "intro": "Nach Davos und Ischgl stand diesen Mittwoch Corviglia auf dem Programm meines (schon fast traditionellen) Dezemberurlaubs. Ebenso traditionell ist die magere Schneelage in den meisten Skigebieten zur Zeit, ansonsten würde ich die lange Anfahrt von 2:50h wohl nicht auf mich nehmen.<br />\nDa Corviglia &quot;gemeinerweise&quot; auch noch die erste Bergfahrt bereits um 7:45 hat, hieß es für mich um 4:45 aufzubrechen... Die Fahrzeitangaben in Google-Maps stimmen so gut, dass ich 5min vor der Öffnung am Drehkreuz in Celerina stand. Die Tageskarte hatte ich bei der Ticketcorner 50% Aktion für 41CHF bereits erworben.",
+  "landmarks": [
+    {
+      "photos": [
+        {
+          "name": "001",
+          "alt": "Sonnenaufgang Piz Corviglia",
+          "date": "2016-12-07T08:00:29.000+01:00",
+          "width": 1920,
+          "height": 716
+        }
+      ],
+      "videos": [],
+      "text": "Bei aufgehender Sonne ging es zu erst auf das Plateau Nair. Die Sesselbahn Glüna wurde bereits von der Sonne beschienen, aber öffnete &quot;erst&quot; gegen 8:45."
     },
-    "intro": "Nach Davos und Ischgl stand diesen Mittwoch Corviglia auf dem Programm meines (schon fast traditionellen) Dezemberurlaubs. Ebenso traditionell ist die magere Schneelage in den meisten Skigebieten zur Zeit, ansonsten würde ich die lange Anfahrt von 2:50h wohl nicht auf mich nehmen.<br />\nDa Corviglia &quot;gemeinerweise&quot; auch noch die erste Bergfahrt bereits um 7:45 hat, hieß es für mich um 4:45 aufzubrechen... Die Fahrzeitangaben in Google-Maps stimmen so gut, dass ich 5min vor der Öffnung am Drehkreuz in Celerina stand. Die Tageskarte hatte ich bei der Ticketcorner 50% Aktion für 41CHF bereits erworben.",
-    "landmarks": [
-      {
-        "photos": [
-          {
-            "name": "001",
-            "alt": "Sonnenaufgang Piz Corviglia",
-            "date": "2016-12-07T08:00:29.000+01:00",
-            "width": 1920,
-            "height": 716
-          }
-        ],
-        "videos": [],
-        "text": "Bei aufgehender Sonne ging es zu erst auf das Plateau Nair. Die Sesselbahn Glüna wurde bereits von der Sonne beschienen, aber öffnete &quot;erst&quot; gegen 8:45."
-      },
-      {
-        "photos": [
-          {
-            "name": "002",
-            "alt": "White Carpet",
-            "date": "2016-12-07T08:01:26.000+01:00",
-            "width": 1719,
-            "height": 1080
-          },
-          {
-            "name": "003",
-            "alt": "Sonnenaufgang Corviglia",
-            "date": "2016-12-07T08:05:21.000+01:00",
-            "width": 1920,
-            "height": 667
-          }
-        ],
-        "videos": [],
-        "text": "Überbreite Piste am Plateau Nair. Pistenverhältnisse waren hier (wie man sieht) super - und der nächtliche Weckerterror war bereits jetzt vergessen. 😉"
-      },
-      {
-        "photos": [
-          {
-            "name": "004",
-            "alt": "Skipiste Trais Fluors",
-            "date": "2016-12-07T08:16:06.000+01:00",
-            "width": 1920,
-            "height": 885
-          },
-          {
-            "name": "005",
-            "alt": "Rote Abfahrt Trais Fluors",
-            "date": "2016-12-07T08:17:48.000+01:00",
-            "width": 1920,
-            "height": 1032
-          }
-        ],
-        "videos": [],
-        "text": "Danach bin ich rüber zur Trais Fluors, der ältesten Sechser-Sesselbahn der Schweiz. Die roten Abfahrt war hier morgens sehr gut. Die schwarze war trotz bereits ausreichend produziertem Schnee noch nicht präpariert und die blaue lag noch im Schatten."
-      },
-      {
-        "photos": [
-          {
-            "name": "006",
-            "alt": "Skifahren Glüna",
-            "date": "2016-12-07T08:49:26.000+01:00",
-            "width": 1920,
-            "height": 963
-          }
-        ],
-        "videos": [],
-        "text": "Nun auf der Piste der Glüna. Hier war der beste Schnee, was auch an der Höhe von über 2800m liegt. Alle Bahnen oberhalb waren leider noch nicht geöffnet, wurden aber vorbereitet."
-      },
-      {
-        "photos": [
-          {
-            "name": "007",
-            "alt": "Talabfahrt Celerina",
-            "date": "2016-12-07T09:05:51.000+01:00",
-            "width": 1887,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Bin dann gleich bis nach Celerina runter, immerhin 1100 Höhenmeter. Piste war gut in Schuss, aber hauptsächlich solche Trassen."
-      },
-      {
-        "photos": [
-          {
-            "name": "008",
-            "alt": "Celerina",
-            "date": "2016-12-07T09:07:24.000+01:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Blick auf Celerina und den noch gefrorenen Talboden. Oben war es aber ganztags angenehm um die 0°."
-      },
-      {
-        "photos": [
-          {
-            "name": "009",
-            "alt": "Vorpräparierte Piste Glüna",
-            "date": "2016-12-07T09:49:14.000+01:00",
-            "width": 1920,
-            "height": 704
-          }
-        ],
-        "videos": [],
-        "text": "Noch nicht geöffnet, aber eine präparierte Spur auf der roten Abfahrt bei Glüna. Mehr Breite brauche ich ohnehin nicht. 😉"
-      },
-      {
-        "photos": [
-          {
-            "name": "010",
-            "alt": "Seilbahn Piz Nair",
-            "date": "2016-12-07T09:59:23.000+01:00",
-            "width": 1620,
-            "height": 1080
-          },
-          {
-            "name": "011",
-            "alt": "Breite Piste",
-            "date": "2016-12-07T09:59:32.000+01:00",
-            "width": 1920,
-            "height": 817
-          }
-        ],
-        "videos": [],
-        "text": "Dann habe ich mich auf die andere Seite des Skigebiets aufgemacht. Die Seilbahn auf den Piz Nair transportierte leider nur Arbeiter zum Mittelausstieg."
-      },
-      {
-        "photos": [
-          {
-            "name": "012",
-            "alt": "Talabfahrt St. Moritz Bad",
-            "date": "2016-12-07T10:12:52.000+01:00",
-            "width": 1920,
-            "height": 1032
-          }
-        ],
-        "videos": [],
-        "text": "Eigentlich wollte ich nur zur Standseilbahn abfahren, bin dann aber auf der Piste zur Signal Seilbahn gelandet. Die hat sich nicht wirklich gelohnt und ich frage mich, wie es auf dieser schmalen Piste bei richtig Betrieb aussieht..."
-      },
-      {
-        "photos": [
-          {
-            "name": "013",
-            "alt": "Silvaplanersee im Winter",
-            "date": "2016-12-07T10:27:21.000+01:00",
-            "width": 1920,
-            "height": 933
-          }
-        ],
-        "videos": [],
-        "text": "Zumindest fährt die Seilbahn ziemlich häufig und ich war schnell wieder oben. Von der Bergstation gab es als Entschädigung diesen Blick über die Engadiner Seen."
-      },
-      {
-        "photos": [
-          {
-            "name": "014",
-            "alt": "Bergstation Signalbahn",
-            "date": "2016-12-07T10:29:12.000+01:00",
-            "width": 1920,
-            "height": 940
-          }
-        ],
-        "videos": [],
-        "text": "Diesmal bin ich dann richtig abgebogen. Blick zurück zur Bergstation der Signalbahn. Hier unten (d.h. unter 2200m) war der Schnee übrigens etwas härter, aber trotzdem noch gut zu fahren.<br />\nBin dann aber wieder nicht mit der Standseilbahn hochgefahren, da sie gegenüber der Salastrains Sesselbahn keinen Vorteil bringt."
-      },
-      {
-        "photos": [
-          {
-            "name": "015",
-            "alt": "Blaue Piste Trais Fluors",
-            "date": "2016-12-07T10:53:40.000+01:00",
-            "width": 1920,
-            "height": 949
-          }
-        ],
-        "videos": [],
-        "text": "Inzwischen schien auch bei der blauen Piste an der Trais Fluors die Sonne, so dass ich diese noch nachholte.<br />\nAnschließend machte ich bereits um 11:00 Mittagspause in Marguns. Ich war ja schon 7h auf den Beinen und hatte schon 60km im Skigebiet zurückgelegt."
-      },
-      {
-        "photos": [
-          {
-            "name": "016",
-            "alt": "Restaurant Chamanna",
-            "date": "2016-12-07T12:09:06.000+01:00",
-            "width": 1920,
-            "height": 589
-          }
-        ],
-        "videos": [],
-        "text": "Nach der Mittagspause erkundete ich dann das andere äußere Ende des Gebiets, hier am Restaurant Chamanna."
-      },
-      {
-        "photos": [
-          {
-            "name": "017",
-            "alt": "Piste Sesselbahn Randolins",
-            "date": "2016-12-07T12:10:33.000+01:00",
-            "width": 1635,
-            "height": 1080
-          },
-          {
-            "name": "018",
-            "alt": "Sonnige Skipiste",
-            "date": "2016-12-07T12:12:46.000+01:00",
-            "width": 1920,
-            "height": 939
-          }
-        ],
-        "videos": [],
-        "text": "Abfahrt entlang der Randolins Sesselbahn. Die dort auch noch existieren Hintenrumabfahrt war leider nicht geöffnet. Der Schnee war hier allerdings schlechter als im Rest des Gebiets. Erinnerte an morgentliche Sulzpisten beim Frühlingsskifahren. Leider war es aber nicht warm genug, so dass es hier bei Eisbröckchen blieb."
-      },
-      {
-        "photos": [
-          {
-            "name": "019",
-            "alt": "Sesselbahn Salastrains",
-            "date": "2016-12-07T12:37:51.000+01:00",
-            "width": 1920,
-            "height": 824
-          }
-        ],
-        "videos": [],
-        "text": "Eine der Hauptpisten des Skigebiets an der Sesselbahn Salastrains. Die blieb trotz der zum Teil steilen Abschnitte überall griffig."
-      },
-      {
-        "photos": [
-          {
-            "name": "020",
-            "alt": "Suvretta House",
-            "date": "2016-12-07T12:42:15.000+01:00",
-            "width": 1819,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Die Zweier-Sesselbahn Suvretta war ebenfalls in Betrieb. Die Piste war allerdings nicht geöffnet und der &quot;Tief&quot;schnee war auch nicht gerade einladend... deshalb habe ich diese Zubringerbahn ausgelassen."
-      },
-      {
-        "photos": [
-          {
-            "name": "021",
-            "alt": "Restaurant Trutz",
-            "date": "2016-12-07T12:42:32.000+01:00",
-            "width": 1920,
-            "height": 812
-          }
-        ],
-        "videos": [],
-        "text": "Blick von der Bergstation der Zweier-Sesselbahn zu den Seen."
-      },
-      {
-        "photos": [
-          {
-            "name": "022",
-            "alt": "St. Moritzersee",
-            "date": "2016-12-07T12:54:07.000+01:00",
-            "width": 1920,
-            "height": 960
-          },
-          {
-            "name": "023",
-            "alt": "Skigebiet Corviglia",
-            "date": "2016-12-07T12:55:08.000+01:00",
-            "width": 1920,
-            "height": 866
-          }
-        ],
-        "videos": [],
-        "text": "Ebenfalls schön der Talblick an der Sesselbahn Salastrains. Nicht so schön waren aber die großen Stadionaufbauten in Salastrains. Ich kann Skirennsport aber eh nicht viel abgewinnen."
-      },
-      {
-        "photos": [
-          {
-            "name": "024",
-            "alt": "Leere Skipiste",
-            "date": "2016-12-07T12:56:19.000+01:00",
-            "width": 1920,
-            "height": 758
-          }
-        ],
-        "videos": [],
-        "text": "Mist, habe ich tatsächlich hier nicht gut genug retuschiert?"
-      },
-      {
-        "photos": [
-          {
-            "name": "025",
-            "alt": "Schneekanone Corviglia",
-            "date": "2016-12-07T12:58:32.000+01:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Leider war nur eine Piste nach Salastrains geöffnet. Für die direkten Abfahrten hätte es meiner Meinung nach auch genug Kunstschnee gehabt."
-      },
-      {
-        "photos": [
-          {
-            "name": "026",
-            "alt": "Skitunnel",
-            "date": "2016-12-07T13:12:13.000+01:00",
-            "width": 1838,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Unter den Rennpisten hindurch gibt es einige Tunnel. Als Spielkind musste ich sie natürlich durchfahren, auch wenn es an diesem Tag mangels Rennen keinen Sinn macht."
-      },
-      {
-        "photos": [
-          {
-            "name": "027",
-            "alt": "Pistenpräparierung Corviglia",
-            "date": "2016-12-07T14:12:59.000+01:00",
-            "width": 1803,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Abfahrtspiste nach Salastrains wurde vorbereitet... vielleicht macht sie ja die Tage auf."
-      },
-      {
-        "photos": [
-          {
-            "name": "028",
-            "alt": "Irisierende Wolken",
-            "date": "2016-12-07T14:59:06.000+01:00",
-            "width": 1753,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Schnell! Sturmhaube auf! Schlechtwetterfront naht! Ok, mehr als diese irisierenden Schleierwolken wurden es nicht. 😉"
-      },
-      {
-        "photos": [
-          {
-            "name": "029",
-            "alt": "Sesselbahn Salastrains",
-            "date": "2016-12-07T14:59:28.000+01:00",
-            "width": 1915,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Bin dann am Nachmittag hauptsächlich Salastrains gefahren, da dort die beste Mischung aus Sonne und Pistenqualität zu finden war."
-      },
-      {
-        "photos": [
-          {
-            "name": "030",
-            "alt": "Standseilbahn Corviglia",
-            "date": "2016-12-07T15:09:27.000+01:00",
-            "width": 1919,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Blick auf Corviglia... da war ich den ganzen Tag nicht."
-      },
-      {
-        "photos": [
-          {
-            "name": "031",
-            "alt": "Engadin",
-            "date": "2016-12-07T15:22:26.000+01:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Noch ein mal der schöne Blick ins Tal."
-      },
-      {
-        "photos": [
-          {
-            "name": "032",
-            "alt": "Schneekanonen",
-            "date": "2016-12-07T15:23:59.000+01:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "An der Sesselbahn Alp Giop steht diese beeindruckende Armada an Schneekanonen (das sind drei Reihen!). In anderen Skigebieten kämpft man noch um jede Piste und hier werden sie schon eingemottet..."
-      },
-      {
-        "photos": [
-          {
-            "name": "033",
-            "alt": "Sonnenuntergang Corviglia",
-            "date": "2016-12-07T15:37:36.000+01:00",
-            "width": 1920,
-            "height": 833
-          }
-        ],
-        "videos": [],
-        "text": "Um 15:30 wird dann langsam die Sonne rar und ich machte mich auf den Rückweg."
-      },
-      {
-        "photos": [
-          {
-            "name": "034",
-            "alt": "Gondelbahn Marguns",
-            "date": "2016-12-07T16:00:09.000+01:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Talabfahrt um 16:00. Piste jetzt etwas abgefahren und hart."
-      },
-      {
-        "photos": [
-          {
-            "name": "track1",
-            "alt": "Streckenplan Corviglia",
-            "width": 1280,
-            "height": 647
-          },
-          {
-            "name": "track2",
-            "alt": "Höhenprofil Corviglia",
-            "width": 1280,
-            "height": 219
-          }
-        ],
-        "videos": [],
-        "text": "Gefahrene Strecke. Dank der einfachen und leeren Pisten kamen auch ohne Stress viele Kilometer zusammen."
-      }
-    ],
-    "outro": "Fazit: Der Aufwand hat sich leider gelohnt, so dass ich ernsthaft überlege es nächste Woche zu wiederholen. Vielleicht sind dann auch die oberen Bahnen offen, die topografisch etwas interessanter sind."
-  }
-]
+    {
+      "photos": [
+        {
+          "name": "002",
+          "alt": "White Carpet",
+          "date": "2016-12-07T08:01:26.000+01:00",
+          "width": 1719,
+          "height": 1080
+        },
+        {
+          "name": "003",
+          "alt": "Sonnenaufgang Corviglia",
+          "date": "2016-12-07T08:05:21.000+01:00",
+          "width": 1920,
+          "height": 667
+        }
+      ],
+      "videos": [],
+      "text": "Überbreite Piste am Plateau Nair. Pistenverhältnisse waren hier (wie man sieht) super - und der nächtliche Weckerterror war bereits jetzt vergessen. 😉"
+    },
+    {
+      "photos": [
+        {
+          "name": "004",
+          "alt": "Skipiste Trais Fluors",
+          "date": "2016-12-07T08:16:06.000+01:00",
+          "width": 1920,
+          "height": 885
+        },
+        {
+          "name": "005",
+          "alt": "Rote Abfahrt Trais Fluors",
+          "date": "2016-12-07T08:17:48.000+01:00",
+          "width": 1920,
+          "height": 1032
+        }
+      ],
+      "videos": [],
+      "text": "Danach bin ich rüber zur Trais Fluors, der ältesten Sechser-Sesselbahn der Schweiz. Die roten Abfahrt war hier morgens sehr gut. Die schwarze war trotz bereits ausreichend produziertem Schnee noch nicht präpariert und die blaue lag noch im Schatten."
+    },
+    {
+      "photos": [
+        {
+          "name": "006",
+          "alt": "Skifahren Glüna",
+          "date": "2016-12-07T08:49:26.000+01:00",
+          "width": 1920,
+          "height": 963
+        }
+      ],
+      "videos": [],
+      "text": "Nun auf der Piste der Glüna. Hier war der beste Schnee, was auch an der Höhe von über 2800m liegt. Alle Bahnen oberhalb waren leider noch nicht geöffnet, wurden aber vorbereitet."
+    },
+    {
+      "photos": [
+        {
+          "name": "007",
+          "alt": "Talabfahrt Celerina",
+          "date": "2016-12-07T09:05:51.000+01:00",
+          "width": 1887,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Bin dann gleich bis nach Celerina runter, immerhin 1100 Höhenmeter. Piste war gut in Schuss, aber hauptsächlich solche Trassen."
+    },
+    {
+      "photos": [
+        {
+          "name": "008",
+          "alt": "Celerina",
+          "date": "2016-12-07T09:07:24.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Blick auf Celerina und den noch gefrorenen Talboden. Oben war es aber ganztags angenehm um die 0°."
+    },
+    {
+      "photos": [
+        {
+          "name": "009",
+          "alt": "Vorpräparierte Piste Glüna",
+          "date": "2016-12-07T09:49:14.000+01:00",
+          "width": 1920,
+          "height": 704
+        }
+      ],
+      "videos": [],
+      "text": "Noch nicht geöffnet, aber eine präparierte Spur auf der roten Abfahrt bei Glüna. Mehr Breite brauche ich ohnehin nicht. 😉"
+    },
+    {
+      "photos": [
+        {
+          "name": "010",
+          "alt": "Seilbahn Piz Nair",
+          "date": "2016-12-07T09:59:23.000+01:00",
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "name": "011",
+          "alt": "Breite Piste",
+          "date": "2016-12-07T09:59:32.000+01:00",
+          "width": 1920,
+          "height": 817
+        }
+      ],
+      "videos": [],
+      "text": "Dann habe ich mich auf die andere Seite des Skigebiets aufgemacht. Die Seilbahn auf den Piz Nair transportierte leider nur Arbeiter zum Mittelausstieg."
+    },
+    {
+      "photos": [
+        {
+          "name": "012",
+          "alt": "Talabfahrt St. Moritz Bad",
+          "date": "2016-12-07T10:12:52.000+01:00",
+          "width": 1920,
+          "height": 1032
+        }
+      ],
+      "videos": [],
+      "text": "Eigentlich wollte ich nur zur Standseilbahn abfahren, bin dann aber auf der Piste zur Signal Seilbahn gelandet. Die hat sich nicht wirklich gelohnt und ich frage mich, wie es auf dieser schmalen Piste bei richtig Betrieb aussieht..."
+    },
+    {
+      "photos": [
+        {
+          "name": "013",
+          "alt": "Silvaplanersee im Winter",
+          "date": "2016-12-07T10:27:21.000+01:00",
+          "width": 1920,
+          "height": 933
+        }
+      ],
+      "videos": [],
+      "text": "Zumindest fährt die Seilbahn ziemlich häufig und ich war schnell wieder oben. Von der Bergstation gab es als Entschädigung diesen Blick über die Engadiner Seen."
+    },
+    {
+      "photos": [
+        {
+          "name": "014",
+          "alt": "Bergstation Signalbahn",
+          "date": "2016-12-07T10:29:12.000+01:00",
+          "width": 1920,
+          "height": 940
+        }
+      ],
+      "videos": [],
+      "text": "Diesmal bin ich dann richtig abgebogen. Blick zurück zur Bergstation der Signalbahn. Hier unten (d.h. unter 2200m) war der Schnee übrigens etwas härter, aber trotzdem noch gut zu fahren.<br />\nBin dann aber wieder nicht mit der Standseilbahn hochgefahren, da sie gegenüber der Salastrains Sesselbahn keinen Vorteil bringt."
+    },
+    {
+      "photos": [
+        {
+          "name": "015",
+          "alt": "Blaue Piste Trais Fluors",
+          "date": "2016-12-07T10:53:40.000+01:00",
+          "width": 1920,
+          "height": 949
+        }
+      ],
+      "videos": [],
+      "text": "Inzwischen schien auch bei der blauen Piste an der Trais Fluors die Sonne, so dass ich diese noch nachholte.<br />\nAnschließend machte ich bereits um 11:00 Mittagspause in Marguns. Ich war ja schon 7h auf den Beinen und hatte schon 60km im Skigebiet zurückgelegt."
+    },
+    {
+      "photos": [
+        {
+          "name": "016",
+          "alt": "Restaurant Chamanna",
+          "date": "2016-12-07T12:09:06.000+01:00",
+          "width": 1920,
+          "height": 589
+        }
+      ],
+      "videos": [],
+      "text": "Nach der Mittagspause erkundete ich dann das andere äußere Ende des Gebiets, hier am Restaurant Chamanna."
+    },
+    {
+      "photos": [
+        {
+          "name": "017",
+          "alt": "Piste Sesselbahn Randolins",
+          "date": "2016-12-07T12:10:33.000+01:00",
+          "width": 1635,
+          "height": 1080
+        },
+        {
+          "name": "018",
+          "alt": "Sonnige Skipiste",
+          "date": "2016-12-07T12:12:46.000+01:00",
+          "width": 1920,
+          "height": 939
+        }
+      ],
+      "videos": [],
+      "text": "Abfahrt entlang der Randolins Sesselbahn. Die dort auch noch existieren Hintenrumabfahrt war leider nicht geöffnet. Der Schnee war hier allerdings schlechter als im Rest des Gebiets. Erinnerte an morgentliche Sulzpisten beim Frühlingsskifahren. Leider war es aber nicht warm genug, so dass es hier bei Eisbröckchen blieb."
+    },
+    {
+      "photos": [
+        {
+          "name": "019",
+          "alt": "Sesselbahn Salastrains",
+          "date": "2016-12-07T12:37:51.000+01:00",
+          "width": 1920,
+          "height": 824
+        }
+      ],
+      "videos": [],
+      "text": "Eine der Hauptpisten des Skigebiets an der Sesselbahn Salastrains. Die blieb trotz der zum Teil steilen Abschnitte überall griffig."
+    },
+    {
+      "photos": [
+        {
+          "name": "020",
+          "alt": "Suvretta House",
+          "date": "2016-12-07T12:42:15.000+01:00",
+          "width": 1819,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Die Zweier-Sesselbahn Suvretta war ebenfalls in Betrieb. Die Piste war allerdings nicht geöffnet und der &quot;Tief&quot;schnee war auch nicht gerade einladend... deshalb habe ich diese Zubringerbahn ausgelassen."
+    },
+    {
+      "photos": [
+        {
+          "name": "021",
+          "alt": "Restaurant Trutz",
+          "date": "2016-12-07T12:42:32.000+01:00",
+          "width": 1920,
+          "height": 812
+        }
+      ],
+      "videos": [],
+      "text": "Blick von der Bergstation der Zweier-Sesselbahn zu den Seen."
+    },
+    {
+      "photos": [
+        {
+          "name": "022",
+          "alt": "St. Moritzersee",
+          "date": "2016-12-07T12:54:07.000+01:00",
+          "width": 1920,
+          "height": 960
+        },
+        {
+          "name": "023",
+          "alt": "Skigebiet Corviglia",
+          "date": "2016-12-07T12:55:08.000+01:00",
+          "width": 1920,
+          "height": 866
+        }
+      ],
+      "videos": [],
+      "text": "Ebenfalls schön der Talblick an der Sesselbahn Salastrains. Nicht so schön waren aber die großen Stadionaufbauten in Salastrains. Ich kann Skirennsport aber eh nicht viel abgewinnen."
+    },
+    {
+      "photos": [
+        {
+          "name": "024",
+          "alt": "Leere Skipiste",
+          "date": "2016-12-07T12:56:19.000+01:00",
+          "width": 1920,
+          "height": 758
+        }
+      ],
+      "videos": [],
+      "text": "Mist, habe ich tatsächlich hier nicht gut genug retuschiert?"
+    },
+    {
+      "photos": [
+        {
+          "name": "025",
+          "alt": "Schneekanone Corviglia",
+          "date": "2016-12-07T12:58:32.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Leider war nur eine Piste nach Salastrains geöffnet. Für die direkten Abfahrten hätte es meiner Meinung nach auch genug Kunstschnee gehabt."
+    },
+    {
+      "photos": [
+        {
+          "name": "026",
+          "alt": "Skitunnel",
+          "date": "2016-12-07T13:12:13.000+01:00",
+          "width": 1838,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Unter den Rennpisten hindurch gibt es einige Tunnel. Als Spielkind musste ich sie natürlich durchfahren, auch wenn es an diesem Tag mangels Rennen keinen Sinn macht."
+    },
+    {
+      "photos": [
+        {
+          "name": "027",
+          "alt": "Pistenpräparierung Corviglia",
+          "date": "2016-12-07T14:12:59.000+01:00",
+          "width": 1803,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Abfahrtspiste nach Salastrains wurde vorbereitet... vielleicht macht sie ja die Tage auf."
+    },
+    {
+      "photos": [
+        {
+          "name": "028",
+          "alt": "Irisierende Wolken",
+          "date": "2016-12-07T14:59:06.000+01:00",
+          "width": 1753,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Schnell! Sturmhaube auf! Schlechtwetterfront naht! Ok, mehr als diese irisierenden Schleierwolken wurden es nicht. 😉"
+    },
+    {
+      "photos": [
+        {
+          "name": "029",
+          "alt": "Sesselbahn Salastrains",
+          "date": "2016-12-07T14:59:28.000+01:00",
+          "width": 1915,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Bin dann am Nachmittag hauptsächlich Salastrains gefahren, da dort die beste Mischung aus Sonne und Pistenqualität zu finden war."
+    },
+    {
+      "photos": [
+        {
+          "name": "030",
+          "alt": "Standseilbahn Corviglia",
+          "date": "2016-12-07T15:09:27.000+01:00",
+          "width": 1919,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Blick auf Corviglia... da war ich den ganzen Tag nicht."
+    },
+    {
+      "photos": [
+        {
+          "name": "031",
+          "alt": "Engadin",
+          "date": "2016-12-07T15:22:26.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Noch ein mal der schöne Blick ins Tal."
+    },
+    {
+      "photos": [
+        {
+          "name": "032",
+          "alt": "Schneekanonen",
+          "date": "2016-12-07T15:23:59.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "An der Sesselbahn Alp Giop steht diese beeindruckende Armada an Schneekanonen (das sind drei Reihen!). In anderen Skigebieten kämpft man noch um jede Piste und hier werden sie schon eingemottet..."
+    },
+    {
+      "photos": [
+        {
+          "name": "033",
+          "alt": "Sonnenuntergang Corviglia",
+          "date": "2016-12-07T15:37:36.000+01:00",
+          "width": 1920,
+          "height": 833
+        }
+      ],
+      "videos": [],
+      "text": "Um 15:30 wird dann langsam die Sonne rar und ich machte mich auf den Rückweg."
+    },
+    {
+      "photos": [
+        {
+          "name": "034",
+          "alt": "Gondelbahn Marguns",
+          "date": "2016-12-07T16:00:09.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Talabfahrt um 16:00. Piste jetzt etwas abgefahren und hart."
+    },
+    {
+      "photos": [
+        {
+          "name": "track1",
+          "alt": "Streckenplan Corviglia",
+          "width": 1280,
+          "height": 647
+        },
+        {
+          "name": "track2",
+          "alt": "Höhenprofil Corviglia",
+          "width": 1280,
+          "height": 219
+        }
+      ],
+      "videos": [],
+      "text": "Gefahrene Strecke. Dank der einfachen und leeren Pisten kamen auch ohne Stress viele Kilometer zusammen."
+    }
+  ],
+  "outro": "Fazit: Der Aufwand hat sich leider gelohnt, so dass ich ernsthaft überlege es nächste Woche zu wiederholen. Vielleicht sind dann auch die oberen Bahnen offen, die topografisch etwas interessanter sind."
+}

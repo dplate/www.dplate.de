@@ -1,291 +1,289 @@
-[
-  {
-    "destination": "lenzerheide",
-    "date": "d20121217",
-    "track": false,
-    "shortTitle": "Lenzerheide",
-    "title": "Lenzerheide",
-    "intro": "Weiterhin wechselhaftes Wetter, deshalb gings nach Lenzerheide, wo man meist das beste Wetter in der Gegend hat.<br />\nAnkunft um 9:00 nach 2h regnerischer Fahrt am Parkplatz Valbella. Es standen erst drei Autos auf dem Parkplatz, wahrscheinlich von Angestellten.<br />\nDa ich den Skitag kurzfristig plante, hatte ich mich leider nicht mit einer Tageskarte aus dem Karstadt Sport in Konstanz eingedeckt, folglich musste ich für 65CHF (+5CHF Parken) den vollen Preis bezahlen. Ich hatte zumindest auf eine Ermäßigung wegen Vorsaison und geschlossenen Pisten und Anlagen gehofft.",
-    "landmarks": [
-      {
-        "photos": [
-          {
-            "name": "81snW",
-            "width": 1024,
-            "height": 543
-          }
-        ],
-        "videos": [],
-        "text": "Pistenplan - Cumascheals und Gertrud geschlossen, was nicht weiter tragisch ist, aber leider auch viele Pisten noch gesperrt."
-      },
-      {
-        "photos": [
-          {
-            "name": "4pcp0",
-            "width": 1024,
-            "height": 254
-          }
-        ],
-        "videos": [],
-        "text": "Auf Lenzerheide ist verlass, gegen 10:00 zeigte sich die Sonne das erste mal. Hier an der Bergstation der Vierer-Sesselbahn Pedra Grossa und Talstation des Schlepplifts Gertrud."
-      },
-      {
-        "photos": [
-          {
-            "name": "9H8nm",
-            "width": 1024,
-            "height": 530
-          }
-        ],
-        "videos": [],
-        "text": "Eine der besten Pisten an diesem Tag, die rote 22 vom Piz Scalottas (ehemalige FIS-Abfahrt). Aber insgesamt waren fast alle Pisten in ausgezeichnetem Zustand, d.h. fester Pulverschnee. Außnahmen waren nicht frisch präparierte Talabfahrten, welche buckelig und hart waren."
-      },
-      {
-        "photos": [
-          {
-            "name": "RRIhW",
-            "width": 1024,
-            "height": 768
-          }
-        ],
-        "videos": [],
-        "text": "In der Dreier-Sesselbahn Scallotas. Die linken Pisten waren leider geschlossen, obwohl ausreichend Schnee vorhanden wäre. Für die Route unter der Bahn war viel zu wenig Schnee... manche habens trotzdem probiert (wahrscheinlich Leihski)."
-      },
-      {
-        "photos": [
-          {
-            "name": "PCx3J",
-            "width": 1024,
-            "height": 497
-          },
-          {
-            "name": "HvPTh",
-            "width": 1024,
-            "height": 768
-          }
-        ],
-        "videos": [],
-        "text": "Den ganzen Tag über Wolkenschauspiel."
-      },
-      {
-        "photos": [
-          {
-            "name": "8suNc",
-            "width": 1024,
-            "height": 655
-          },
-          {
-            "name": "GDEJK",
-            "width": 1024,
-            "height": 768
-          }
-        ],
-        "videos": [],
-        "text": "Noch mal die rote 22."
-      },
-      {
-        "photos": [
-          {
-            "name": "yKPFm",
-            "width": 1024,
-            "height": 615
-          }
-        ],
-        "videos": [],
-        "text": "Zwischendurch reinziehende Wolken. Auf dem Grat kam man gerade aus dem Nebel."
-      },
-      {
-        "photos": [
-          {
-            "name": "8ZILV",
-            "width": 1024,
-            "height": 768
-          }
-        ],
-        "videos": [],
-        "text": "Blick hinüber zur Ostseite des Gebiets. Rechts das Rothorn."
-      },
-      {
-        "photos": [
-          {
-            "name": "1YXKm",
-            "width": 1024,
-            "height": 641
-          }
-        ],
-        "videos": [],
-        "text": "Nächste Nebelbank an der Bergstation des Stätzerhorns. Die Bodensicht war aber meistens vorhanden."
-      },
-      {
-        "photos": [
-          {
-            "name": "qCk4G",
-            "width": 1024,
-            "height": 593
-          },
-          {
-            "name": "LeIf4",
-            "width": 1024,
-            "height": 768
-          }
-        ],
-        "videos": [],
-        "text": "Blick auf die geschlossene Cumascheals-Bahn. Insgesamt war nur auf den beschneiten Pisten genug Schnee. Lenzerheide hat auf jeden Fall nur sehr wenig von den Schneefällen der letzten Wochen abbekommen, was aber typisch ist."
-      },
-      {
-        "photos": [
-          {
-            "name": "gzfwy",
-            "width": 1024,
-            "height": 747
-          },
-          {
-            "name": "8cYNp",
-            "width": 1024,
-            "height": 498
-          }
-        ],
-        "videos": [],
-        "text": "Auch beim schneereicheren Stätzerhorn ist die Schneelage mager."
-      },
-      {
-        "photos": [
-          {
-            "name": "gR964",
-            "width": 1024,
-            "height": 600
-          }
-        ],
-        "videos": [],
-        "text": "Überfahrt zur Ostseite (der Sonne hinterher). An der Straße sieht man die Bauvisiere. Wahrscheinlich kommt dort das Netz unterhalb der geplanten Verbindungsbahn hin. Auch bevor man auf der Westseite in den Wald hineinfährt, sieht man Bauvisiere - ich schätze die Station auf der Westseite. Schade das man sie nicht bis zum nächsten Buckel hinauf baut, dann könnte man auch zum Schlepplift und Parkplatz in Valbella abfahren. Insgesamt führt die Bahn komplett durch Wald... da bin ich gespannt, ob sie das wirklich durchbekommen."
-      },
-      {
-        "photos": [
-          {
-            "name": "GZNCv",
-            "width": 1024,
-            "height": 610
-          }
-        ],
-        "videos": [],
-        "text": "Auch auf der Ostseite nicht mehr Schnee, hier die Weisshorn-Speed."
-      },
-      {
-        "photos": [
-          {
-            "name": "rd5aD",
-            "width": 1024,
-            "height": 450
-          }
-        ],
-        "videos": [],
-        "text": "An der sehr schön zu fahrenden Talabfahrt (bis auf das Schiebestück am Schluss) zur Rothorn-Bahn wird auch im Winter kräfig gebaut."
-      },
-      {
-        "photos": [
-          {
-            "name": "n6sji",
-            "width": 1024,
-            "height": 634
-          }
-        ],
-        "videos": [],
-        "text": "Die neue Rothorn Achter-Gondelbahn. Premiere für mich. Sehr schön, dass man direkt zum Eingang hinfahren kann, ohne Aufstieg wie früher."
-      },
-      {
-        "photos": [
-          {
-            "name": "RmrMk",
-            "width": 1024,
-            "height": 583
-          }
-        ],
-        "videos": [],
-        "text": "Klassiker, hoffentlich hat das keine Auswirkungen auf die Technik der Bahn..."
-      },
-      {
-        "photos": [
-          {
-            "name": "RdB2T",
-            "width": 1024,
-            "height": 768
-          }
-        ],
-        "videos": [],
-        "text": "... nein zum Glück: die Werbung in der Gondel funktioniert. 😉<br />\nWeiß jemand, wie das mit der Stromversorgung in so einer Gondel funktioniert? Sind das Akkus?"
-      },
-      {
-        "photos": [
-          {
-            "name": "Tzu0L",
-            "width": 1024,
-            "height": 573
-          }
-        ],
-        "videos": [],
-        "text": "Pistenplan. Leider war die Schwarzhorn-Bahn geschlossen."
-      },
-      {
-        "photos": [
-          {
-            "name": "sjsT9",
-            "width": 1024,
-            "height": 1097
-          }
-        ],
-        "videos": [],
-        "text": "Grr, 15min Wartezeit, da die Seilbahn aufs Rothorn nur im 20min Takt lief. Die Piste des hier zu sehenden Schlepplift war super. Wäre ich auch gerne statt zu warten gefahren... aber er fuhr nicht."
-      },
-      {
-        "photos": [
-          {
-            "name": "eCLaN",
-            "width": 1024,
-            "height": 1922
-          }
-        ],
-        "videos": [],
-        "text": "Immer wieder schön, oben auf dem Rothorn (2800m)."
-      },
-      {
-        "photos": [
-          {
-            "name": "jneTH",
-            "width": 1024,
-            "height": 552
-          }
-        ],
-        "videos": [],
-        "text": "Wetter wurde um 15:30 schlechter. Hier der Blick hinüber zur Schwarzhorn-Bahn, wo fleißig an den Pisten gearbeitet wurde. Die Weihnachtsgäste sind vermutlich mehr wert."
-      },
-      {
-        "photos": [
-          {
-            "name": "FaGlJ",
-            "width": 1024,
-            "height": 668
-          }
-        ],
-        "videos": [],
-        "text": "Nochmal um 16:00 aufs Rothorn... wurde schon ziemlich düster, aber dafür ein schöner Sonnenuntergang."
-      },
-      {
-        "photos": [
-          {
-            "name": "cjW65",
-            "width": 1024,
-            "height": 524
-          },
-          {
-            "name": "tjZcK",
-            "width": 1091,
-            "height": 335
-          }
-        ],
-        "videos": [],
-        "text": "Gefahrene Strecke. Inzwischen habe ich nun ziemlich den optimalen Weg von Ost nach West, nur 3min ohne Ski."
-      }
-    ],
-    "outro": "Viel gefahren bei meist gutem Wetter und schönen Pisten (ach ja, es war auch total leer). Dass das ganze Skigebiet nur unter Sparflamme lief und trotzdem der volle Preis verlangt wurde, hat mich aber gestört."
-  }
-]
+{
+  "destination": "lenzerheide",
+  "date": "d20121217",
+  "track": false,
+  "shortTitle": "Lenzerheide",
+  "title": "Lenzerheide",
+  "intro": "Weiterhin wechselhaftes Wetter, deshalb gings nach Lenzerheide, wo man meist das beste Wetter in der Gegend hat.<br />\nAnkunft um 9:00 nach 2h regnerischer Fahrt am Parkplatz Valbella. Es standen erst drei Autos auf dem Parkplatz, wahrscheinlich von Angestellten.<br />\nDa ich den Skitag kurzfristig plante, hatte ich mich leider nicht mit einer Tageskarte aus dem Karstadt Sport in Konstanz eingedeckt, folglich musste ich für 65CHF (+5CHF Parken) den vollen Preis bezahlen. Ich hatte zumindest auf eine Ermäßigung wegen Vorsaison und geschlossenen Pisten und Anlagen gehofft.",
+  "landmarks": [
+    {
+      "photos": [
+        {
+          "name": "81snW",
+          "width": 1024,
+          "height": 543
+        }
+      ],
+      "videos": [],
+      "text": "Pistenplan - Cumascheals und Gertrud geschlossen, was nicht weiter tragisch ist, aber leider auch viele Pisten noch gesperrt."
+    },
+    {
+      "photos": [
+        {
+          "name": "4pcp0",
+          "width": 1024,
+          "height": 254
+        }
+      ],
+      "videos": [],
+      "text": "Auf Lenzerheide ist verlass, gegen 10:00 zeigte sich die Sonne das erste mal. Hier an der Bergstation der Vierer-Sesselbahn Pedra Grossa und Talstation des Schlepplifts Gertrud."
+    },
+    {
+      "photos": [
+        {
+          "name": "9H8nm",
+          "width": 1024,
+          "height": 530
+        }
+      ],
+      "videos": [],
+      "text": "Eine der besten Pisten an diesem Tag, die rote 22 vom Piz Scalottas (ehemalige FIS-Abfahrt). Aber insgesamt waren fast alle Pisten in ausgezeichnetem Zustand, d.h. fester Pulverschnee. Außnahmen waren nicht frisch präparierte Talabfahrten, welche buckelig und hart waren."
+    },
+    {
+      "photos": [
+        {
+          "name": "RRIhW",
+          "width": 1024,
+          "height": 768
+        }
+      ],
+      "videos": [],
+      "text": "In der Dreier-Sesselbahn Scallotas. Die linken Pisten waren leider geschlossen, obwohl ausreichend Schnee vorhanden wäre. Für die Route unter der Bahn war viel zu wenig Schnee... manche habens trotzdem probiert (wahrscheinlich Leihski)."
+    },
+    {
+      "photos": [
+        {
+          "name": "PCx3J",
+          "width": 1024,
+          "height": 497
+        },
+        {
+          "name": "HvPTh",
+          "width": 1024,
+          "height": 768
+        }
+      ],
+      "videos": [],
+      "text": "Den ganzen Tag über Wolkenschauspiel."
+    },
+    {
+      "photos": [
+        {
+          "name": "8suNc",
+          "width": 1024,
+          "height": 655
+        },
+        {
+          "name": "GDEJK",
+          "width": 1024,
+          "height": 768
+        }
+      ],
+      "videos": [],
+      "text": "Noch mal die rote 22."
+    },
+    {
+      "photos": [
+        {
+          "name": "yKPFm",
+          "width": 1024,
+          "height": 615
+        }
+      ],
+      "videos": [],
+      "text": "Zwischendurch reinziehende Wolken. Auf dem Grat kam man gerade aus dem Nebel."
+    },
+    {
+      "photos": [
+        {
+          "name": "8ZILV",
+          "width": 1024,
+          "height": 768
+        }
+      ],
+      "videos": [],
+      "text": "Blick hinüber zur Ostseite des Gebiets. Rechts das Rothorn."
+    },
+    {
+      "photos": [
+        {
+          "name": "1YXKm",
+          "width": 1024,
+          "height": 641
+        }
+      ],
+      "videos": [],
+      "text": "Nächste Nebelbank an der Bergstation des Stätzerhorns. Die Bodensicht war aber meistens vorhanden."
+    },
+    {
+      "photos": [
+        {
+          "name": "qCk4G",
+          "width": 1024,
+          "height": 593
+        },
+        {
+          "name": "LeIf4",
+          "width": 1024,
+          "height": 768
+        }
+      ],
+      "videos": [],
+      "text": "Blick auf die geschlossene Cumascheals-Bahn. Insgesamt war nur auf den beschneiten Pisten genug Schnee. Lenzerheide hat auf jeden Fall nur sehr wenig von den Schneefällen der letzten Wochen abbekommen, was aber typisch ist."
+    },
+    {
+      "photos": [
+        {
+          "name": "gzfwy",
+          "width": 1024,
+          "height": 747
+        },
+        {
+          "name": "8cYNp",
+          "width": 1024,
+          "height": 498
+        }
+      ],
+      "videos": [],
+      "text": "Auch beim schneereicheren Stätzerhorn ist die Schneelage mager."
+    },
+    {
+      "photos": [
+        {
+          "name": "gR964",
+          "width": 1024,
+          "height": 600
+        }
+      ],
+      "videos": [],
+      "text": "Überfahrt zur Ostseite (der Sonne hinterher). An der Straße sieht man die Bauvisiere. Wahrscheinlich kommt dort das Netz unterhalb der geplanten Verbindungsbahn hin. Auch bevor man auf der Westseite in den Wald hineinfährt, sieht man Bauvisiere - ich schätze die Station auf der Westseite. Schade das man sie nicht bis zum nächsten Buckel hinauf baut, dann könnte man auch zum Schlepplift und Parkplatz in Valbella abfahren. Insgesamt führt die Bahn komplett durch Wald... da bin ich gespannt, ob sie das wirklich durchbekommen."
+    },
+    {
+      "photos": [
+        {
+          "name": "GZNCv",
+          "width": 1024,
+          "height": 610
+        }
+      ],
+      "videos": [],
+      "text": "Auch auf der Ostseite nicht mehr Schnee, hier die Weisshorn-Speed."
+    },
+    {
+      "photos": [
+        {
+          "name": "rd5aD",
+          "width": 1024,
+          "height": 450
+        }
+      ],
+      "videos": [],
+      "text": "An der sehr schön zu fahrenden Talabfahrt (bis auf das Schiebestück am Schluss) zur Rothorn-Bahn wird auch im Winter kräfig gebaut."
+    },
+    {
+      "photos": [
+        {
+          "name": "n6sji",
+          "width": 1024,
+          "height": 634
+        }
+      ],
+      "videos": [],
+      "text": "Die neue Rothorn Achter-Gondelbahn. Premiere für mich. Sehr schön, dass man direkt zum Eingang hinfahren kann, ohne Aufstieg wie früher."
+    },
+    {
+      "photos": [
+        {
+          "name": "RmrMk",
+          "width": 1024,
+          "height": 583
+        }
+      ],
+      "videos": [],
+      "text": "Klassiker, hoffentlich hat das keine Auswirkungen auf die Technik der Bahn..."
+    },
+    {
+      "photos": [
+        {
+          "name": "RdB2T",
+          "width": 1024,
+          "height": 768
+        }
+      ],
+      "videos": [],
+      "text": "... nein zum Glück: die Werbung in der Gondel funktioniert. 😉<br />\nWeiß jemand, wie das mit der Stromversorgung in so einer Gondel funktioniert? Sind das Akkus?"
+    },
+    {
+      "photos": [
+        {
+          "name": "Tzu0L",
+          "width": 1024,
+          "height": 573
+        }
+      ],
+      "videos": [],
+      "text": "Pistenplan. Leider war die Schwarzhorn-Bahn geschlossen."
+    },
+    {
+      "photos": [
+        {
+          "name": "sjsT9",
+          "width": 1024,
+          "height": 1097
+        }
+      ],
+      "videos": [],
+      "text": "Grr, 15min Wartezeit, da die Seilbahn aufs Rothorn nur im 20min Takt lief. Die Piste des hier zu sehenden Schlepplift war super. Wäre ich auch gerne statt zu warten gefahren... aber er fuhr nicht."
+    },
+    {
+      "photos": [
+        {
+          "name": "eCLaN",
+          "width": 1024,
+          "height": 1922
+        }
+      ],
+      "videos": [],
+      "text": "Immer wieder schön, oben auf dem Rothorn (2800m)."
+    },
+    {
+      "photos": [
+        {
+          "name": "jneTH",
+          "width": 1024,
+          "height": 552
+        }
+      ],
+      "videos": [],
+      "text": "Wetter wurde um 15:30 schlechter. Hier der Blick hinüber zur Schwarzhorn-Bahn, wo fleißig an den Pisten gearbeitet wurde. Die Weihnachtsgäste sind vermutlich mehr wert."
+    },
+    {
+      "photos": [
+        {
+          "name": "FaGlJ",
+          "width": 1024,
+          "height": 668
+        }
+      ],
+      "videos": [],
+      "text": "Nochmal um 16:00 aufs Rothorn... wurde schon ziemlich düster, aber dafür ein schöner Sonnenuntergang."
+    },
+    {
+      "photos": [
+        {
+          "name": "cjW65",
+          "width": 1024,
+          "height": 524
+        },
+        {
+          "name": "tjZcK",
+          "width": 1091,
+          "height": 335
+        }
+      ],
+      "videos": [],
+      "text": "Gefahrene Strecke. Inzwischen habe ich nun ziemlich den optimalen Weg von Ost nach West, nur 3min ohne Ski."
+    }
+  ],
+  "outro": "Viel gefahren bei meist gutem Wetter und schönen Pisten (ach ja, es war auch total leer). Dass das ganze Skigebiet nur unter Sparflamme lief und trotzdem der volle Preis verlangt wurde, hat mich aber gestört."
+}

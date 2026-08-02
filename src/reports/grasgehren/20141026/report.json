@@ -1,389 +1,387 @@
-[
-  {
-    "destination": "grasgehren",
-    "date": "d20141026",
-    "track": false,
-    "shortTitle": "Grasgehren",
-    "title": "Grasgehren",
-    "intro": "Samstag nachmittag: Was sollte ich am morgigen Sonntag unternehmen? Schönes Wetter ist angesagt, aber oberhalb der angekündigten Nebelobergrenze liegt nach dem Kälteeinbruch der Woche noch zu viel Schnee für eine richtigen Wanderung. <br />\nBeim Stöbern hier im Forum bin ich dann auf die Schneeberichte aus Grasgehren gestoßen, wo tatsächlich schon Skibetrieb stattfand. Da ich keine Ahnung hatte, wo dieses Grasgehren liegt, habe ich es mal in den Routenplanern eingegeben und es kam eine durchaus machbare Fahrzeit von 1:30 heraus. <br />\nDamit war ich infiziert und ich erfand noch einige weitere Gründe, warum es sinnvoll ist für einen Hang dort hin zu fahren: Erstmalig in Deutschland skifahren, erstmalig im Oktober skifahren, die Spontanität eines Skigebiets unterstützen...<br />\nNach dem die Wintersachen aus der muffigen Wollkiste zusammengesucht waren, ging es um 7:00 los (angenehm, da Zeitumstellung). Zuerst nach Österreich, dann nach der Fahrt durch Dornbirn (eine der nervigsten Ortsdurchfahrten) durch einen Tunnel in den Bregenzerwald (dort noch alles grün), anschließend über eine kaum sichtbare Grenze nach Deutschland ins Allgäu (plötzlich alles weiß) und dann noch ein paar Kurven und Orte und ich war am Ziel.",
-    "landmarks": [
-      {
-        "photos": [
-          {
-            "name": "001",
-            "date": "2014-10-26T08:47:16.000+01:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Der Parkplatz um 8:30 ziemlich gut gefüllt. Der Blick fällt auf den Skihang, schon etwas braun, aber drumherum richtig schöne Winterstimmung. Die Angestellte an der Kasse riet mir aber trotzdem von der Tageskarte ab, so dass ich die Vormittagskarte bis 13:00 nahm. Sie war 2€ heruntergesetzt auf 18€."
-      },
-      {
-        "photos": [
-          {
-            "name": "002",
-            "date": "2014-10-26T10:09:00.000+01:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Nach den ersten Abfahrten zum Einfahren wurde es schnell voller, so dass auch der zweite Schlepplift sein Betrieb aufnahm. Dort musste man nie anstehen: wahrscheinlich weil er das letzte Steilstück des ohnehin kurzen Hangs aussparte und auch etwas langsamer fuhr."
-      },
-      {
-        "photos": [
-          {
-            "name": "003",
-            "date": "2014-10-26T10:42:38.000+01:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Aussicht hat man auf dem Hang nicht gerade viel, aber von der Bergstation kann man zumindest etwas nach Süden schauen. Die Felsen sind die Gottesackerwände des hohen Ifen."
-      },
-      {
-        "photos": [
-          {
-            "name": "004",
-            "date": "2014-10-26T10:48:29.000+01:00",
-            "width": 1839,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Überblick über das Skigebiet. Nur der Doppel-Schlepplift in der Mitte war in Betrieb. Den einzelnen Schlepplift in der Mitte/Oben gibt es wohl nicht mehr."
-      },
-      {
-        "photos": [
-          {
-            "name": "005",
-            "date": "2014-10-26T10:54:55.000+01:00",
-            "width": 1920,
-            "height": 755
-          }
-        ],
-        "videos": [],
-        "text": "Blick von der 1580m hohen Bergstation Richtung Talstation (1440m). Wetter war recht angenehm, da es durch die leichte Bewölkung nicht zu heiß wurde."
-      },
-      {
-        "photos": [
-          {
-            "name": "006",
-            "date": "2014-10-26T12:06:48.000+01:00",
-            "width": 1920,
-            "height": 520
-          }
-        ],
-        "videos": [],
-        "text": "Mittlerer Pistenabschnitt, wo der Schnee am besten war... nur leider ziemlich flach."
-      },
-      {
-        "photos": [
-          {
-            "name": "007",
-            "date": "2014-10-26T12:11:38.000+01:00",
-            "width": 1920,
-            "height": 757
-          },
-          {
-            "name": "008",
-            "date": "2014-10-26T12:12:25.000+01:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Im Lift Blick auf das letzten Steilstück. Das hat trotz der recht erdigen Verhältnisse viel Spaß gemacht. Naturschnee ist einfach schön und ich hatte auch meine ältesten Latten dabei. 😉"
-      },
-      {
-        "photos": [
-          {
-            "name": "009",
-            "date": "2014-10-26T12:13:23.000+01:00",
-            "width": 1920,
-            "height": 1074
-          }
-        ],
-        "videos": [],
-        "text": "Der zweite Lift wurde wieder eingestellt, da viele nur ziemlich kurz auf Skiern unterwegs waren. Zudem wurde es auch immer sonniger."
-      },
-      {
-        "photos": [
-          {
-            "name": "010",
-            "date": "2014-10-26T12:16:52.000+01:00",
-            "width": 1920,
-            "height": 733
-          }
-        ],
-        "videos": [],
-        "text": "In der unteren Hälfte gab es drei Pisten. Rechts ging es zu recht schmalen direkt am Lift."
-      },
-      {
-        "photos": [
-          {
-            "name": "011",
-            "date": "2014-10-26T12:27:20.000+01:00",
-            "width": 1920,
-            "height": 573
-          }
-        ],
-        "videos": [],
-        "text": "Am &quot;Funpark&quot; war richtig was los. Der existierte aber praktisch nur aus einer Rail."
-      },
-      {
-        "photos": [
-          {
-            "name": "012",
-            "date": "2014-10-26T12:42:08.000+01:00",
-            "width": 1920,
-            "height": 965
-          }
-        ],
-        "videos": [],
-        "text": "Blick auf die Bergstation bei nun richtig schönem Wetter."
-      },
-      {
-        "photos": [
-          {
-            "name": "013",
-            "date": "2014-10-26T12:42:42.000+01:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Nochmal das breite mittlere Stück. Schnee wurde jetzt schon etwas pappig, aber Spaß hat's trotzdem gemacht."
-      },
-      {
-        "photos": [
-          {
-            "name": "014",
-            "date": "2014-10-26T12:43:57.000+01:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Kurz vor 13:00 die letzte Abfahrt zum Lift auf der rechten Variante. Im Hintergrund der Rest des Skigebiets mit der Grasgehrenhütte und dem Parkplatz."
-      },
-      {
-        "photos": [
-          {
-            "name": "015",
-            "date": "2014-10-26T12:58:17.000+01:00",
-            "width": 1620,
-            "height": 1080
-          },
-          {
-            "name": "016",
-            "date": "2014-10-26T12:59:55.000+01:00",
-            "width": 1620,
-            "height": 1080
-          },
-          {
-            "name": "017",
-            "date": "2014-10-26T13:01:37.000+01:00",
-            "width": 1817,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Um dorthin zurück zu gelangen, konnte man eine weitere geöffnete Piste fahren, die im großen Bogen den ganzen Talkessel umrundet.<br />\nLandschaftlich schön, aber eigentlich nur Geschiebe. Den Gipfel rechts bitte noch merken, der wird gleich noch relevant."
-      },
-      {
-        "photos": [
-          {
-            "name": "018",
-            "date": "2014-10-26T13:56:57.000+01:00",
-            "width": 1920,
-            "height": 794
-          }
-        ],
-        "videos": [],
-        "text": "Nach dem Wechsel von Ski- auf Wanderschuhe, dem Einlagern der Jacke im Auto (ab sofort war T-Shirt angesagt) und der Mittagspause auf der Terasse der Grasgehrenhütte, ging es um 13:40 zu Fuß weiter - Ziel war der eben erwähnte Gipfel.<br />\nZu erst führte der Weg das Tal auf einer zugeschneiten Straße hinauf. Patsch, patsch, patsch - ja, der Schnee war weich."
-      },
-      {
-        "photos": [
-          {
-            "name": "019",
-            "date": "2014-10-26T14:17:07.000+01:00",
-            "width": 1920,
-            "height": 930
-          },
-          {
-            "name": "020",
-            "date": "2014-10-26T14:19:29.000+01:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Am Ende des Kessels ging es dann steil im Wald hoch auf den Grat. Dort endet die Straße und es ging auf einem Trampelpfad weiter."
-      },
-      {
-        "photos": [
-          {
-            "name": "021",
-            "date": "2014-10-26T14:24:15.000+01:00",
-            "width": 1920,
-            "height": 791
-          }
-        ],
-        "videos": [],
-        "text": "Blick zurück auf den Talkessel mit dem Skigebiet."
-      },
-      {
-        "photos": [
-          {
-            "name": "022",
-            "date": "2014-10-26T14:39:42.000+01:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Noch ein Stück weiter auf dem Grat. Hinter mir kam ein Schneeschuhläufer hinterher, der es bei den Schneeverhältnissen um einiges einfacher hatte.<br />\nIch versank häufiger mal bis zu den Knien im Schnee... leider immer ziemlich unvorhersehbar."
-      },
-      {
-        "photos": [
-          {
-            "name": "023",
-            "date": "2014-10-26T14:43:34.000+01:00",
-            "width": 1920,
-            "height": 760
-          }
-        ],
-        "videos": [],
-        "text": "Puh, Gipfelkreuz des 1800m hohen Riedbergerhorns um 14:45 erreicht. 350m Aufstieg bei den Wegverhältnissen ist doch recht anstrengend."
-      },
-      {
-        "photos": [
-          {
-            "name": "024",
-            "date": "2014-10-26T14:47:39.000+01:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Sehr schöne Aussicht dort oben. Tele nach Westen zur Heimat am Bodensee."
-      },
-      {
-        "photos": [
-          {
-            "name": "025",
-            "date": "2014-10-26T14:47:55.000+01:00",
-            "width": 1256,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Blick nach Süd-Westen. Es waren noch ein paar andere oben, die die Sonne und Wärme genossen. Zudem war dort oben die einzige Fläche ohne Schnee."
-      },
-      {
-        "photos": [
-          {
-            "name": "026",
-            "date": "2014-10-26T14:48:32.000+01:00",
-            "width": 1920,
-            "height": 716
-          }
-        ],
-        "videos": [],
-        "text": "Auch zu sehen hier beim Blick nach Süd-Osten."
-      },
-      {
-        "photos": [
-          {
-            "name": "027",
-            "date": "2014-10-26T14:49:08.000+01:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Und nach Osten zum Tal der Iller."
-      },
-      {
-        "photos": [
-          {
-            "name": "028",
-            "date": "2014-10-26T14:49:25.000+01:00",
-            "width": 1920,
-            "height": 795
-          }
-        ],
-        "videos": [],
-        "text": "Tele auf den Skihang vom Vormittag."
-      },
-      {
-        "photos": [
-          {
-            "name": "029",
-            "date": "2014-10-26T14:50:04.000+01:00",
-            "width": 1920,
-            "height": 1039
-          }
-        ],
-        "videos": [],
-        "text": "Im Nord-Osten der Rottachspeicher."
-      },
-      {
-        "photos": [
-          {
-            "name": "030",
-            "date": "2014-10-26T14:50:25.000+01:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Wegweiser auf dem Gipfel."
-      },
-      {
-        "photos": [
-          {
-            "name": "031",
-            "date": "2014-10-26T15:10:01.000+01:00",
-            "width": 1700,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Im schnellen Lauf ging es wieder runter, zu sehr lockten die angebotenen kühlen Getränke in der Grasgehrenhütte."
-      },
-      {
-        "photos": [
-          {
-            "name": "032",
-            "date": "2014-10-26T15:28:57.000+01:00",
-            "width": 814,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Ahh, das tat gut. Andere würden ein Bier trinken, ich bevorzuge ein Orangensaftschorle. 😃<br />\nUm 15:30 ging es dann wieder mit dem Auto zurück. Die Ampelorgie in Dornbirn und der Grenzstau in Lustenau kostete leider einiges an Zeit, so dass ich mehr als 2h zurück brauchte..."
-      },
-      {
-        "photos": [
-          {
-            "name": "track1",
-            "width": 1280,
-            "height": 655
-          },
-          {
-            "name": "track2",
-            "width": 1280,
-            "height": 273
-          }
-        ],
-        "videos": [],
-        "text": "Gefahrene und gelaufene Strecke. 25 mal mit dem Lift und 3700 Höhenmeter."
-      }
-    ],
-    "outro": "Fazit: Nach dem unentschlossenen Samstag hat sich der Sonntag doch noch so richtig gelohnt. Grasgehren wird jetzt sicher nicht mein bevorzugtes Skigebiet, aber als Gag mit Skifahren im Oktober war es genau das richtige. 😃<br />\nJetzt heißt es warten, bis der richtige Winter da ist..."
-  }
-]
+{
+  "destination": "grasgehren",
+  "date": "d20141026",
+  "track": false,
+  "shortTitle": "Grasgehren",
+  "title": "Grasgehren",
+  "intro": "Samstag nachmittag: Was sollte ich am morgigen Sonntag unternehmen? Schönes Wetter ist angesagt, aber oberhalb der angekündigten Nebelobergrenze liegt nach dem Kälteeinbruch der Woche noch zu viel Schnee für eine richtigen Wanderung. <br />\nBeim Stöbern hier im Forum bin ich dann auf die Schneeberichte aus Grasgehren gestoßen, wo tatsächlich schon Skibetrieb stattfand. Da ich keine Ahnung hatte, wo dieses Grasgehren liegt, habe ich es mal in den Routenplanern eingegeben und es kam eine durchaus machbare Fahrzeit von 1:30 heraus. <br />\nDamit war ich infiziert und ich erfand noch einige weitere Gründe, warum es sinnvoll ist für einen Hang dort hin zu fahren: Erstmalig in Deutschland skifahren, erstmalig im Oktober skifahren, die Spontanität eines Skigebiets unterstützen...<br />\nNach dem die Wintersachen aus der muffigen Wollkiste zusammengesucht waren, ging es um 7:00 los (angenehm, da Zeitumstellung). Zuerst nach Österreich, dann nach der Fahrt durch Dornbirn (eine der nervigsten Ortsdurchfahrten) durch einen Tunnel in den Bregenzerwald (dort noch alles grün), anschließend über eine kaum sichtbare Grenze nach Deutschland ins Allgäu (plötzlich alles weiß) und dann noch ein paar Kurven und Orte und ich war am Ziel.",
+  "landmarks": [
+    {
+      "photos": [
+        {
+          "name": "001",
+          "date": "2014-10-26T08:47:16.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Der Parkplatz um 8:30 ziemlich gut gefüllt. Der Blick fällt auf den Skihang, schon etwas braun, aber drumherum richtig schöne Winterstimmung. Die Angestellte an der Kasse riet mir aber trotzdem von der Tageskarte ab, so dass ich die Vormittagskarte bis 13:00 nahm. Sie war 2€ heruntergesetzt auf 18€."
+    },
+    {
+      "photos": [
+        {
+          "name": "002",
+          "date": "2014-10-26T10:09:00.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Nach den ersten Abfahrten zum Einfahren wurde es schnell voller, so dass auch der zweite Schlepplift sein Betrieb aufnahm. Dort musste man nie anstehen: wahrscheinlich weil er das letzte Steilstück des ohnehin kurzen Hangs aussparte und auch etwas langsamer fuhr."
+    },
+    {
+      "photos": [
+        {
+          "name": "003",
+          "date": "2014-10-26T10:42:38.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Aussicht hat man auf dem Hang nicht gerade viel, aber von der Bergstation kann man zumindest etwas nach Süden schauen. Die Felsen sind die Gottesackerwände des hohen Ifen."
+    },
+    {
+      "photos": [
+        {
+          "name": "004",
+          "date": "2014-10-26T10:48:29.000+01:00",
+          "width": 1839,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Überblick über das Skigebiet. Nur der Doppel-Schlepplift in der Mitte war in Betrieb. Den einzelnen Schlepplift in der Mitte/Oben gibt es wohl nicht mehr."
+    },
+    {
+      "photos": [
+        {
+          "name": "005",
+          "date": "2014-10-26T10:54:55.000+01:00",
+          "width": 1920,
+          "height": 755
+        }
+      ],
+      "videos": [],
+      "text": "Blick von der 1580m hohen Bergstation Richtung Talstation (1440m). Wetter war recht angenehm, da es durch die leichte Bewölkung nicht zu heiß wurde."
+    },
+    {
+      "photos": [
+        {
+          "name": "006",
+          "date": "2014-10-26T12:06:48.000+01:00",
+          "width": 1920,
+          "height": 520
+        }
+      ],
+      "videos": [],
+      "text": "Mittlerer Pistenabschnitt, wo der Schnee am besten war... nur leider ziemlich flach."
+    },
+    {
+      "photos": [
+        {
+          "name": "007",
+          "date": "2014-10-26T12:11:38.000+01:00",
+          "width": 1920,
+          "height": 757
+        },
+        {
+          "name": "008",
+          "date": "2014-10-26T12:12:25.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Im Lift Blick auf das letzten Steilstück. Das hat trotz der recht erdigen Verhältnisse viel Spaß gemacht. Naturschnee ist einfach schön und ich hatte auch meine ältesten Latten dabei. 😉"
+    },
+    {
+      "photos": [
+        {
+          "name": "009",
+          "date": "2014-10-26T12:13:23.000+01:00",
+          "width": 1920,
+          "height": 1074
+        }
+      ],
+      "videos": [],
+      "text": "Der zweite Lift wurde wieder eingestellt, da viele nur ziemlich kurz auf Skiern unterwegs waren. Zudem wurde es auch immer sonniger."
+    },
+    {
+      "photos": [
+        {
+          "name": "010",
+          "date": "2014-10-26T12:16:52.000+01:00",
+          "width": 1920,
+          "height": 733
+        }
+      ],
+      "videos": [],
+      "text": "In der unteren Hälfte gab es drei Pisten. Rechts ging es zu recht schmalen direkt am Lift."
+    },
+    {
+      "photos": [
+        {
+          "name": "011",
+          "date": "2014-10-26T12:27:20.000+01:00",
+          "width": 1920,
+          "height": 573
+        }
+      ],
+      "videos": [],
+      "text": "Am &quot;Funpark&quot; war richtig was los. Der existierte aber praktisch nur aus einer Rail."
+    },
+    {
+      "photos": [
+        {
+          "name": "012",
+          "date": "2014-10-26T12:42:08.000+01:00",
+          "width": 1920,
+          "height": 965
+        }
+      ],
+      "videos": [],
+      "text": "Blick auf die Bergstation bei nun richtig schönem Wetter."
+    },
+    {
+      "photos": [
+        {
+          "name": "013",
+          "date": "2014-10-26T12:42:42.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Nochmal das breite mittlere Stück. Schnee wurde jetzt schon etwas pappig, aber Spaß hat's trotzdem gemacht."
+    },
+    {
+      "photos": [
+        {
+          "name": "014",
+          "date": "2014-10-26T12:43:57.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Kurz vor 13:00 die letzte Abfahrt zum Lift auf der rechten Variante. Im Hintergrund der Rest des Skigebiets mit der Grasgehrenhütte und dem Parkplatz."
+    },
+    {
+      "photos": [
+        {
+          "name": "015",
+          "date": "2014-10-26T12:58:17.000+01:00",
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "name": "016",
+          "date": "2014-10-26T12:59:55.000+01:00",
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "name": "017",
+          "date": "2014-10-26T13:01:37.000+01:00",
+          "width": 1817,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Um dorthin zurück zu gelangen, konnte man eine weitere geöffnete Piste fahren, die im großen Bogen den ganzen Talkessel umrundet.<br />\nLandschaftlich schön, aber eigentlich nur Geschiebe. Den Gipfel rechts bitte noch merken, der wird gleich noch relevant."
+    },
+    {
+      "photos": [
+        {
+          "name": "018",
+          "date": "2014-10-26T13:56:57.000+01:00",
+          "width": 1920,
+          "height": 794
+        }
+      ],
+      "videos": [],
+      "text": "Nach dem Wechsel von Ski- auf Wanderschuhe, dem Einlagern der Jacke im Auto (ab sofort war T-Shirt angesagt) und der Mittagspause auf der Terasse der Grasgehrenhütte, ging es um 13:40 zu Fuß weiter - Ziel war der eben erwähnte Gipfel.<br />\nZu erst führte der Weg das Tal auf einer zugeschneiten Straße hinauf. Patsch, patsch, patsch - ja, der Schnee war weich."
+    },
+    {
+      "photos": [
+        {
+          "name": "019",
+          "date": "2014-10-26T14:17:07.000+01:00",
+          "width": 1920,
+          "height": 930
+        },
+        {
+          "name": "020",
+          "date": "2014-10-26T14:19:29.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Am Ende des Kessels ging es dann steil im Wald hoch auf den Grat. Dort endet die Straße und es ging auf einem Trampelpfad weiter."
+    },
+    {
+      "photos": [
+        {
+          "name": "021",
+          "date": "2014-10-26T14:24:15.000+01:00",
+          "width": 1920,
+          "height": 791
+        }
+      ],
+      "videos": [],
+      "text": "Blick zurück auf den Talkessel mit dem Skigebiet."
+    },
+    {
+      "photos": [
+        {
+          "name": "022",
+          "date": "2014-10-26T14:39:42.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Noch ein Stück weiter auf dem Grat. Hinter mir kam ein Schneeschuhläufer hinterher, der es bei den Schneeverhältnissen um einiges einfacher hatte.<br />\nIch versank häufiger mal bis zu den Knien im Schnee... leider immer ziemlich unvorhersehbar."
+    },
+    {
+      "photos": [
+        {
+          "name": "023",
+          "date": "2014-10-26T14:43:34.000+01:00",
+          "width": 1920,
+          "height": 760
+        }
+      ],
+      "videos": [],
+      "text": "Puh, Gipfelkreuz des 1800m hohen Riedbergerhorns um 14:45 erreicht. 350m Aufstieg bei den Wegverhältnissen ist doch recht anstrengend."
+    },
+    {
+      "photos": [
+        {
+          "name": "024",
+          "date": "2014-10-26T14:47:39.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Sehr schöne Aussicht dort oben. Tele nach Westen zur Heimat am Bodensee."
+    },
+    {
+      "photos": [
+        {
+          "name": "025",
+          "date": "2014-10-26T14:47:55.000+01:00",
+          "width": 1256,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Blick nach Süd-Westen. Es waren noch ein paar andere oben, die die Sonne und Wärme genossen. Zudem war dort oben die einzige Fläche ohne Schnee."
+    },
+    {
+      "photos": [
+        {
+          "name": "026",
+          "date": "2014-10-26T14:48:32.000+01:00",
+          "width": 1920,
+          "height": 716
+        }
+      ],
+      "videos": [],
+      "text": "Auch zu sehen hier beim Blick nach Süd-Osten."
+    },
+    {
+      "photos": [
+        {
+          "name": "027",
+          "date": "2014-10-26T14:49:08.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Und nach Osten zum Tal der Iller."
+    },
+    {
+      "photos": [
+        {
+          "name": "028",
+          "date": "2014-10-26T14:49:25.000+01:00",
+          "width": 1920,
+          "height": 795
+        }
+      ],
+      "videos": [],
+      "text": "Tele auf den Skihang vom Vormittag."
+    },
+    {
+      "photos": [
+        {
+          "name": "029",
+          "date": "2014-10-26T14:50:04.000+01:00",
+          "width": 1920,
+          "height": 1039
+        }
+      ],
+      "videos": [],
+      "text": "Im Nord-Osten der Rottachspeicher."
+    },
+    {
+      "photos": [
+        {
+          "name": "030",
+          "date": "2014-10-26T14:50:25.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Wegweiser auf dem Gipfel."
+    },
+    {
+      "photos": [
+        {
+          "name": "031",
+          "date": "2014-10-26T15:10:01.000+01:00",
+          "width": 1700,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Im schnellen Lauf ging es wieder runter, zu sehr lockten die angebotenen kühlen Getränke in der Grasgehrenhütte."
+    },
+    {
+      "photos": [
+        {
+          "name": "032",
+          "date": "2014-10-26T15:28:57.000+01:00",
+          "width": 814,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Ahh, das tat gut. Andere würden ein Bier trinken, ich bevorzuge ein Orangensaftschorle. 😃<br />\nUm 15:30 ging es dann wieder mit dem Auto zurück. Die Ampelorgie in Dornbirn und der Grenzstau in Lustenau kostete leider einiges an Zeit, so dass ich mehr als 2h zurück brauchte..."
+    },
+    {
+      "photos": [
+        {
+          "name": "track1",
+          "width": 1280,
+          "height": 655
+        },
+        {
+          "name": "track2",
+          "width": 1280,
+          "height": 273
+        }
+      ],
+      "videos": [],
+      "text": "Gefahrene und gelaufene Strecke. 25 mal mit dem Lift und 3700 Höhenmeter."
+    }
+  ],
+  "outro": "Fazit: Nach dem unentschlossenen Samstag hat sich der Sonntag doch noch so richtig gelohnt. Grasgehren wird jetzt sicher nicht mein bevorzugtes Skigebiet, aber als Gag mit Skifahren im Oktober war es genau das richtige. 😃<br />\nJetzt heißt es warten, bis der richtige Winter da ist..."
+}

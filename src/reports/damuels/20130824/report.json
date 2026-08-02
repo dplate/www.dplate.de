@@ -1,215 +1,213 @@
-[
-  {
-    "destination": "damuels",
-    "date": "d20130824",
-    "type": "hike",
-    "track": true,
-    "detailMap": "austria",
-    "shortTitle": "Sünser Spitze",
-    "title": "Damüls - Sünser Spitze",
-    "title3d": {
-      "offsetY": 3,
-      "fontSize": 8,
-      "align": "left",
-      "width": 1920,
-      "height": 693
+{
+  "destination": "damuels",
+  "date": "d20130824",
+  "type": "hike",
+  "track": true,
+  "detailMap": "austria",
+  "shortTitle": "Sünser Spitze",
+  "title": "Damüls - Sünser Spitze",
+  "title3d": {
+    "offsetY": 3,
+    "fontSize": 8,
+    "align": "left",
+    "width": 1920,
+    "height": 693
+  },
+  "movie": "lo-f7rr3MKA",
+  "intro": "Wandertag in Damüls. Auf Grund der anrückenden Kaltfront früher Aufbruch um 7:30 am Bodensee. Nach gut 1.5h Fahrt, unter anderem über das einspurige (im Winter geschlossene) Furkajoch, Ankunft in der Talstation des Uga-Express in Damüls. Bergfahrt (8.80€) mit der gefühlt 1m/s schnellen Vierer-Sesselbahn auf die 1800m hohe Elsenalpe.<br />\nAnschließend weiter zu Fuss vorbei an der Mittagsspitze entlang der Zweier-Sesselbahn Hohes Licht zum Hochblanken.",
+  "landmarks": [
+    {
+      "photos": [
+        {
+          "name": "002",
+          "alt": "Wanderweg Hochblanken",
+          "date": "2013-08-24T10:40:13.000+02:00",
+          "width": 1920,
+          "height": 686
+        }
+      ],
+      "videos": [],
+      "text": "Letztes ziemlich steiles Stück (Hände nützlich) auf den Hochblanken (2068m). Blick auf das Skigebiet Mellau."
     },
-    "movie": "lo-f7rr3MKA",
-    "intro": "Wandertag in Damüls. Auf Grund der anrückenden Kaltfront früher Aufbruch um 7:30 am Bodensee. Nach gut 1.5h Fahrt, unter anderem über das einspurige (im Winter geschlossene) Furkajoch, Ankunft in der Talstation des Uga-Express in Damüls. Bergfahrt (8.80€) mit der gefühlt 1m/s schnellen Vierer-Sesselbahn auf die 1800m hohe Elsenalpe.<br />\nAnschließend weiter zu Fuss vorbei an der Mittagsspitze entlang der Zweier-Sesselbahn Hohes Licht zum Hochblanken.",
-    "landmarks": [
-      {
-        "photos": [
-          {
-            "name": "002",
-            "alt": "Wanderweg Hochblanken",
-            "date": "2013-08-24T10:40:13.000+02:00",
-            "width": 1920,
-            "height": 686
-          }
-        ],
-        "videos": [],
-        "text": "Letztes ziemlich steiles Stück (Hände nützlich) auf den Hochblanken (2068m). Blick auf das Skigebiet Mellau."
-      },
-      {
-        "photos": [
-          {
-            "name": "003",
-            "alt": "Aussicht Hochblanken",
-            "date": "2013-08-24T10:47:50.000+02:00",
-            "width": 1920,
-            "height": 735
-          }
-        ],
-        "videos": [],
-        "text": "Und vom Gipfel Richtung Damüls. Links die Bergstation Hohes Licht und die Mittagsspitze. In der Mitte die Talstation der Sechser-Sesselbahn Ragaz. Sicht trotz dunstigem Wetter recht gut."
-      },
-      {
-        "photos": [
-          {
-            "name": "007",
-            "alt": "Hochblanken",
-            "date": "2013-08-24T11:01:57.000+02:00",
-            "width": 1920,
-            "height": 880
-          }
-        ],
-        "videos": [],
-        "text": "Blick beim Abstieg zurück auf den Hochblanken"
-      },
-      {
-        "photos": [
-          {
-            "name": "008",
-            "alt": "Weg an der Abbruchkante",
-            "date": "2013-08-24T11:03:51.000+02:00",
-            "width": 1211,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Und von ungefähr gleicher Stelle in die andere Richtung auf den weiteren Verlauf des Wegs (wie man sieht recht gut begangen)."
-      },
-      {
-        "photos": [
-          {
-            "name": "012",
-            "alt": "Rundwanderung Damüls",
-            "date": "2013-08-24T11:37:35.000+02:00",
-            "width": 1920,
-            "height": 984
-          }
-        ],
-        "videos": [],
-        "text": "Ein Stück weiter nach dem der Ragazerblanken überstiegen wurde. Der Weg führ aussichtsreich immer an der Abbruchkante entlang. Im Hintergrund taucht auch schon das nächste Ziel auf, die Sünser Spitze (aka. Sünserblanken)."
-      },
-      {
-        "photos": [
-          {
-            "name": "013",
-            "alt": "Hochmoor",
-            "date": "2013-08-24T11:38:42.000+02:00",
-            "width": 1920,
-            "height": 729
-          }
-        ],
-        "videos": [],
-        "text": "Moor&quot;see&quot; auf dem Grat."
-      },
-      {
-        "photos": [
-          {
-            "name": "014",
-            "alt": "Felsformation",
-            "date": "2013-08-24T11:40:03.000+02:00",
-            "width": 1620,
-            "height": 1080
-          },
-          {
-            "name": "015",
-            "alt": "Tiefblick Richtung Mellau",
-            "date": "2013-08-24T11:40:24.000+02:00",
-            "width": 720,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Noch zwei Bilder von den eindrucksvollen Felsformationen."
-      },
-      {
-        "photos": [
-          {
-            "name": "017",
-            "alt": "Sünser Alp",
-            "date": "2013-08-24T11:49:12.000+02:00",
-            "width": 1920,
-            "height": 502
-          }
-        ],
-        "videos": [],
-        "text": "Danach weg vom Damülser Talkessel Richtung Sünser Spitze. Unten tauchte der Sünser See und die Sünser Alpe auf. Das Wetter wurde immer sonniger, da sich leichter Fön durchsetzte. 😃"
-      },
-      {
-        "photos": [
-          {
-            "name": "018",
-            "alt": "Bergweg Damüls",
-            "date": "2013-08-24T11:50:59.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Blick zurück auf die bereits bewältigten Gipfel."
-      },
-      {
-        "photos": [
-          {
-            "name": "022",
-            "alt": "Panorama Sünser Spitze",
-            "date": "2013-08-24T12:09:07.000+02:00",
-            "width": 1920,
-            "height": 461
-          }
-        ],
-        "videos": [],
-        "text": "Von der Sünser Spitze (2062m) sehr schöne Aussicht in alle Richtungen. Hier in Richtung Damüls (nicht sichtbar) und wieder der Sünser See."
-      },
-      {
-        "photos": [
-          {
-            "name": "023",
-            "alt": "Gipfel von Damüls",
-            "date": "2013-08-24T12:20:04.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Und weil's so schön ist, noch mal die diversen Blanken."
-      },
-      {
-        "photos": [
-          {
-            "name": "025",
-            "alt": "Sünser See",
-            "date": "2013-08-24T12:51:46.000+02:00",
-            "width": 1920,
-            "height": 982
-          }
-        ],
-        "videos": [],
-        "text": "Anschließend auf der anderen Seite hinab, am Sünser See vorbei und wieder hoch zum Sünser Joch."
-      },
-      {
-        "photos": [
-          {
-            "name": "031",
-            "alt": "Abstieg über Sunnegg",
-            "date": "2013-08-24T14:02:19.000+02:00",
-            "width": 1920,
-            "height": 774
-          }
-        ],
-        "videos": [],
-        "text": "Danach quer hinüber zum Bergrücken von Oberdamüls. Links der Seillift und die Bergstation der Zweier-Sesselbahn Sunnegg.<br />Anschließend entlang der Zweier-Sesselbahn Oberdamüls und steil durch den Wald hinab zum Parkplatz (15:00). Nach fünf Minuten Fahrt fing es dann an zu schütten."
-      },
-      {
-        "photos": [
-          {
-            "name": "track1",
-            "width": 1024,
-            "height": 524
-          },
-          {
-            "name": "track2",
-            "width": 1024,
-            "height": 409
-          }
-        ],
-        "videos": [],
-        "text": "Wegstrecke. 4.5h reine Gehzeit, 700m Aufstieg, 1100m Abstieg."
-      }
-    ],
-    "outro": "Fazit: Sehr schöne aussichtsreiche und nicht zu anstrengende Wanderung. Glück mit dem Wetter hatten wir dazu noch. 😃 <br />\nKann es nur weiterempfehlen... und wer es anspruchsvoller haben will, kann die Runde natürlich auch anders herum machen und auf die Bahnfahrt verzichten."
-  }
-]
+    {
+      "photos": [
+        {
+          "name": "003",
+          "alt": "Aussicht Hochblanken",
+          "date": "2013-08-24T10:47:50.000+02:00",
+          "width": 1920,
+          "height": 735
+        }
+      ],
+      "videos": [],
+      "text": "Und vom Gipfel Richtung Damüls. Links die Bergstation Hohes Licht und die Mittagsspitze. In der Mitte die Talstation der Sechser-Sesselbahn Ragaz. Sicht trotz dunstigem Wetter recht gut."
+    },
+    {
+      "photos": [
+        {
+          "name": "007",
+          "alt": "Hochblanken",
+          "date": "2013-08-24T11:01:57.000+02:00",
+          "width": 1920,
+          "height": 880
+        }
+      ],
+      "videos": [],
+      "text": "Blick beim Abstieg zurück auf den Hochblanken"
+    },
+    {
+      "photos": [
+        {
+          "name": "008",
+          "alt": "Weg an der Abbruchkante",
+          "date": "2013-08-24T11:03:51.000+02:00",
+          "width": 1211,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Und von ungefähr gleicher Stelle in die andere Richtung auf den weiteren Verlauf des Wegs (wie man sieht recht gut begangen)."
+    },
+    {
+      "photos": [
+        {
+          "name": "012",
+          "alt": "Rundwanderung Damüls",
+          "date": "2013-08-24T11:37:35.000+02:00",
+          "width": 1920,
+          "height": 984
+        }
+      ],
+      "videos": [],
+      "text": "Ein Stück weiter nach dem der Ragazerblanken überstiegen wurde. Der Weg führ aussichtsreich immer an der Abbruchkante entlang. Im Hintergrund taucht auch schon das nächste Ziel auf, die Sünser Spitze (aka. Sünserblanken)."
+    },
+    {
+      "photos": [
+        {
+          "name": "013",
+          "alt": "Hochmoor",
+          "date": "2013-08-24T11:38:42.000+02:00",
+          "width": 1920,
+          "height": 729
+        }
+      ],
+      "videos": [],
+      "text": "Moor&quot;see&quot; auf dem Grat."
+    },
+    {
+      "photos": [
+        {
+          "name": "014",
+          "alt": "Felsformation",
+          "date": "2013-08-24T11:40:03.000+02:00",
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "name": "015",
+          "alt": "Tiefblick Richtung Mellau",
+          "date": "2013-08-24T11:40:24.000+02:00",
+          "width": 720,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Noch zwei Bilder von den eindrucksvollen Felsformationen."
+    },
+    {
+      "photos": [
+        {
+          "name": "017",
+          "alt": "Sünser Alp",
+          "date": "2013-08-24T11:49:12.000+02:00",
+          "width": 1920,
+          "height": 502
+        }
+      ],
+      "videos": [],
+      "text": "Danach weg vom Damülser Talkessel Richtung Sünser Spitze. Unten tauchte der Sünser See und die Sünser Alpe auf. Das Wetter wurde immer sonniger, da sich leichter Fön durchsetzte. 😃"
+    },
+    {
+      "photos": [
+        {
+          "name": "018",
+          "alt": "Bergweg Damüls",
+          "date": "2013-08-24T11:50:59.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Blick zurück auf die bereits bewältigten Gipfel."
+    },
+    {
+      "photos": [
+        {
+          "name": "022",
+          "alt": "Panorama Sünser Spitze",
+          "date": "2013-08-24T12:09:07.000+02:00",
+          "width": 1920,
+          "height": 461
+        }
+      ],
+      "videos": [],
+      "text": "Von der Sünser Spitze (2062m) sehr schöne Aussicht in alle Richtungen. Hier in Richtung Damüls (nicht sichtbar) und wieder der Sünser See."
+    },
+    {
+      "photos": [
+        {
+          "name": "023",
+          "alt": "Gipfel von Damüls",
+          "date": "2013-08-24T12:20:04.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Und weil's so schön ist, noch mal die diversen Blanken."
+    },
+    {
+      "photos": [
+        {
+          "name": "025",
+          "alt": "Sünser See",
+          "date": "2013-08-24T12:51:46.000+02:00",
+          "width": 1920,
+          "height": 982
+        }
+      ],
+      "videos": [],
+      "text": "Anschließend auf der anderen Seite hinab, am Sünser See vorbei und wieder hoch zum Sünser Joch."
+    },
+    {
+      "photos": [
+        {
+          "name": "031",
+          "alt": "Abstieg über Sunnegg",
+          "date": "2013-08-24T14:02:19.000+02:00",
+          "width": 1920,
+          "height": 774
+        }
+      ],
+      "videos": [],
+      "text": "Danach quer hinüber zum Bergrücken von Oberdamüls. Links der Seillift und die Bergstation der Zweier-Sesselbahn Sunnegg.<br />Anschließend entlang der Zweier-Sesselbahn Oberdamüls und steil durch den Wald hinab zum Parkplatz (15:00). Nach fünf Minuten Fahrt fing es dann an zu schütten."
+    },
+    {
+      "photos": [
+        {
+          "name": "track1",
+          "width": 1024,
+          "height": 524
+        },
+        {
+          "name": "track2",
+          "width": 1024,
+          "height": 409
+        }
+      ],
+      "videos": [],
+      "text": "Wegstrecke. 4.5h reine Gehzeit, 700m Aufstieg, 1100m Abstieg."
+    }
+  ],
+  "outro": "Fazit: Sehr schöne aussichtsreiche und nicht zu anstrengende Wanderung. Glück mit dem Wetter hatten wir dazu noch. 😃 <br />\nKann es nur weiterempfehlen... und wer es anspruchsvoller haben will, kann die Runde natürlich auch anders herum machen und auf die Bahnfahrt verzichten."
+}

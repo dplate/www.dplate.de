@@ -1,373 +1,371 @@
-[
-  {
-    "destination": "kaunertal",
-    "date": "d20180506",
-    "track": true,
-    "hideSwissTopo": true,
-    "shortTitle": "Kaunertal",
-    "title": "Kaunertaler Gletscher",
-    "title3d": {
-      "offsetY": 9,
-      "fontSize": 5.5,
-      "width": 1920,
-      "height": 520
+{
+  "destination": "kaunertal",
+  "date": "d20180506",
+  "track": true,
+  "hideSwissTopo": true,
+  "shortTitle": "Kaunertal",
+  "title": "Kaunertaler Gletscher",
+  "title3d": {
+    "offsetY": 9,
+    "fontSize": 5.5,
+    "width": 1920,
+    "height": 520
+  },
+  "intro": "Zum persönlichen Saisonabschluss ging es diesen Maisonntag für mich wieder auf die lange Fahrt zum Kaunertaler Gletscher.<br />Nach der sehr schönen Anfahrt bei absolut leeren Straßen über den Arlbergpass und die Mautstraße (im 40€ Skiticket inklusive) erreichte ich den Parkplatz an der Ochsenalmbahn bereits um 8:30. Der Parkplatz war übersät von einem Sammelsurium von Wohnmobilen und auch Zelten - es sparten sich also einige die morgendliche Fahrt hinauf.",
+  "landmarks": [
+    {
+      "photos": [
+        {
+          "name": "001",
+          "alt": "Schneeschmelze",
+          "date": "2018-05-06T08:32:31.000+02:00",
+          "width": 1920,
+          "height": 1125
+        }
+      ],
+      "videos": [],
+      "text": "Blick vom Parkplatz auf die rauschende Schneeschmelze. Im Hintergrund die Talabfahrt und die Sesselbahn Ochsenalm.<br />Laut offiziellem Fahrplan sollte die Sesselbahn erst um 9:00 starten. Aber sie lief bereits um 8:30, so dass ich gleich ohne Wartezeit starten konnte."
     },
-    "intro": "Zum persönlichen Saisonabschluss ging es diesen Maisonntag für mich wieder auf die lange Fahrt zum Kaunertaler Gletscher.<br />Nach der sehr schönen Anfahrt bei absolut leeren Straßen über den Arlbergpass und die Mautstraße (im 40€ Skiticket inklusive) erreichte ich den Parkplatz an der Ochsenalmbahn bereits um 8:30. Der Parkplatz war übersät von einem Sammelsurium von Wohnmobilen und auch Zelten - es sparten sich also einige die morgendliche Fahrt hinauf.",
-    "landmarks": [
-      {
-        "photos": [
-          {
-            "name": "001",
-            "alt": "Schneeschmelze",
-            "date": "2018-05-06T08:32:31.000+02:00",
-            "width": 1920,
-            "height": 1125
-          }
-        ],
-        "videos": [],
-        "text": "Blick vom Parkplatz auf die rauschende Schneeschmelze. Im Hintergrund die Talabfahrt und die Sesselbahn Ochsenalm.<br />Laut offiziellem Fahrplan sollte die Sesselbahn erst um 9:00 starten. Aber sie lief bereits um 8:30, so dass ich gleich ohne Wartezeit starten konnte."
-      },
-      {
-        "photos": [
-          {
-            "name": "002",
-            "alt": "Karlesjochbahn",
-            "date": "2018-05-06T09:08:18.000+02:00",
-            "width": 1920,
-            "height": 852
-          }
-        ],
-        "videos": [],
-        "text": "Nach der Fahrt mit der Ochsenalmbahn bin ich dann gleich weiter mit der Karlesjochbahn zum höchsten Punkt des Skigebiets auf 3100m. Aber selbst hier oben waren die Pisten bereits aufgetaut, da sie direkt der Morgensonne ausgesetzt sind."
-      },
-      {
-        "photos": [
-          {
-            "name": "003",
-            "alt": "Talabfahrt Ochsenalm",
-            "date": "2018-05-06T09:13:57.000+02:00",
-            "width": 1920,
-            "height": 1175
-          }
-        ],
-        "videos": [],
-        "text": "Als erste Abfahrt entschied ich mich für die schöne Wiesejaggl-Piste bis zur 1000 Höhenmeter tiefer liegenden Ochsenalm (wo ich auch mein Auto abgestellt hatte). Hier auf dem Bild das letzte Stück der Talabfahrt: schon weich aber noch praktisch unbefahren am Morgen."
-      },
-      {
-        "photos": [
-          {
-            "name": "004",
-            "alt": "Kaunertaler Gletscher",
-            "date": "2018-05-06T09:27:43.000+02:00",
-            "width": 1920,
-            "height": 597
-          }
-        ],
-        "videos": [],
-        "text": "Die Bergstation der Ochsenalmbahn befindet sich am oberen Parkplatz auf 2700m. Wenn die Ochsenalmbahn in Betrieb ist, braucht man aber eigentlich nicht bis nach oben mit dem Auto fahren.<br />Links ist der Nöderjochlift zu sehen, an dem dank des Funparks ganztägig Hochbetrieb herrschte... im Gegensatz zu allen anderen Liftanlagen."
-      },
-      {
-        "photos": [
-          {
-            "name": "005",
-            "alt": "Karlesjoch",
-            "date": "2018-05-06T09:39:25.000+02:00",
-            "width": 1920,
-            "height": 720
-          }
-        ],
-        "videos": [],
-        "text": "Die drei Skilifte erschließen nur recht flache Piste, so dass ich mich hauptsächlich auf die Ochsenalm- und Karlesjochbahn beschränkt.<br />Hier der Blick vom Karlesjoch hinunter nach Italien in Vinschgau."
-      },
-      {
-        "photos": [
-          {
-            "name": "007",
-            "alt": "Skifahren Kaunertal",
-            "date": "2018-05-06T09:39:50.000+02:00",
-            "width": 1920,
-            "height": 857
-          }
-        ],
-        "videos": [],
-        "text": "Und der Blick in die andere Richtung zurück zum Kaunertaler Gletscher."
-      },
-      {
-        "photos": [
-          {
-            "name": "008",
-            "alt": "Skitunnel",
-            "date": "2018-05-06T09:41:57.000+02:00",
-            "width": 1920,
-            "height": 1214
-          }
-        ],
-        "videos": [],
-        "text": "Um zur Wiesejaggl-Piste zu gelangen führt ein Skitunnel unter einem felsigen Grat hindurch. Am Morgen brannte dort das Licht noch nicht... das war dann schon ein ordentlicher Kontrastunterschied zur gleißenden Sonne außerhalb."
-      },
-      {
-        "photos": [
-          {
-            "name": "009",
-            "alt": "Wiesejaggl Piste",
-            "date": "2018-05-06T09:43:18.000+02:00",
-            "width": 1920,
-            "height": 653
-          }
-        ],
-        "videos": [],
-        "text": "Oberer Abschnitt der Wiesejaggl Abfahrt. Da vorne geht es über eine Skibrücke über die Straße, die zum oberen Parkplatz führt."
-      },
-      {
-        "photos": [
-          {
-            "name": "010",
-            "alt": "Weißsee",
-            "date": "2018-05-06T09:44:51.000+02:00",
-            "width": 1920,
-            "height": 906
-          }
-        ],
-        "videos": [],
-        "text": "Unten geht die Piste dann an der Straße entlang. Rechts davon ist durch die starke Schneeschmelze bereits der Umriss des zugeschneiten Weißsees zu erkennen."
-      },
-      {
-        "photos": [
-          {
-            "name": "011",
-            "alt": "Kaunertaler Gletscher",
-            "date": "2018-05-06T10:13:29.000+02:00",
-            "width": 1920,
-            "height": 667
-          }
-        ],
-        "videos": [],
-        "text": "Wenn man vom Karlesjoch nicht zur Wiesejaggl-Piste abbiegt, kann man stattdessen zu den Skiliften abfahren. Diese Pisten wurden kaum genutzt und blieben ganztags in sehr gutem Zustand.<br />Vorne ist der reichlich witzlose Falginlift zur sehen, dahinter der lange Weisseefernerlift."
-      },
-      {
-        "photos": [
-          {
-            "name": "012",
-            "alt": "Weißseejoch",
-            "date": "2018-05-06T10:32:03.000+02:00",
-            "width": 1920,
-            "height": 975
-          }
-        ],
-        "videos": [],
-        "text": "Blick zum Weißseejoch. Es wird zur Zeit darüber diskutiert, ob über diesen Pass eine Verbindung nach Italien gebaut wird. Noch ist das aber (trotz einer gewalzten Spur) reines Tourenskigebiet."
-      },
-      {
-        "photos": [
-          {
-            "name": "014",
-            "alt": "Sesselbahn an Felswand",
-            "date": "2018-05-06T11:51:00.000+02:00",
-            "width": 1920,
-            "height": 1231
-          },
-          {
-            "name": "015",
-            "alt": "Ochsenalmbahn",
-            "date": "2018-05-06T11:51:29.000+02:00",
-            "width": 1920,
-            "height": 1060
-          }
-        ],
-        "videos": [],
-        "text": "Landschaftlich am Schönsten ist es unten an der Ochsenalmbahn. Sowohl die Piste als auch die Bahn führt durch welliges, mit Flüssen und Felsen durchsetztes Gelände."
-      },
-      {
-        "photos": [
-          {
-            "name": "016",
-            "alt": "Piste Ochsenalmbahn",
-            "date": "2018-05-06T11:52:50.000+02:00",
-            "width": 1920,
-            "height": 786
-          }
-        ],
-        "videos": [],
-        "text": "Die Ochsenalmbahn hat eine Mittelstation, hier befinde ich mich noch kurz unterhalb dieser Zwischeneinstiegsoption."
-      },
-      {
-        "photos": [
-          {
-            "name": "017",
-            "alt": "Weisseefernerlift",
-            "date": "2018-05-06T12:03:52.000+02:00",
-            "width": 1920,
-            "height": 654
-          },
-          {
-            "name": "019",
-            "alt": "Gletscherlift",
-            "date": "2018-05-06T12:08:25.000+02:00",
-            "width": 1920,
-            "height": 1035
-          },
-          {
-            "name": "020",
-            "alt": "Frühlingsschnee",
-            "date": "2018-05-06T12:11:17.000+02:00",
-            "width": 1920,
-            "height": 1259
-          }
-        ],
-        "videos": [],
-        "text": "Da es den Gondeln der Karlesjochbahn ziemlich stickig war (es war an diesem Tag windstill), bin ich dann auch mal mit dem Weisseefernerlift gefahren. Dieser ist leider zu 2/3 sehr flach und nur am Ende steil. Los war dort ab Mittag nichts mehr, nachdem die Trainingsgruppen abgezogen waren."
-      },
-      {
-        "photos": [
-          {
-            "name": "021",
-            "alt": "Panorama Kaunertaler Gletscher",
-            "date": "2018-05-06T12:13:15.000+02:00",
-            "width": 1920,
-            "height": 619
-          }
-        ],
-        "videos": [],
-        "text": "Blick von der Bergstation des Weisseefernerlifts auf die beiden oberen Pisten."
-      },
-      {
-        "photos": [
-          {
-            "name": "022",
-            "alt": "Firnschnee",
-            "date": "2018-05-06T12:15:50.000+02:00",
-            "width": 1920,
-            "height": 1235
-          }
-        ],
-        "videos": [],
-        "text": "Da die Renngruppen die sehr breite Piste nur sehr wenig in Anspruch genommen haben, war sie selbst am Nachmittag noch in schönem firnigen Zustand. Nur abseits der Pisten wurde es nun etwas klebrig."
-      },
-      {
-        "photos": [
-          {
-            "name": "023",
-            "alt": "Falginlift",
-            "date": "2018-05-06T12:30:26.000+02:00",
-            "width": 1920,
-            "height": 649
-          }
-        ],
-        "videos": [],
-        "text": "Auch den kurze und flache Falginlift musste ich zumindest einmal fahren. Die Piste war zwar ganz nett, aber eigentlich hätten sie sich diesen Lift auch sparen können."
-      },
-      {
-        "photos": [
-          {
-            "name": "024",
-            "alt": "Schwarze Piste",
-            "date": "2018-05-06T13:08:23.000+02:00",
-            "width": 1920,
-            "height": 1123
-          }
-        ],
-        "videos": [],
-        "text": "Nun bin ich wieder auf der Wiesejaggl-Piste. Nachmittags wurde sie allerdings schon ziemlich sulzig.<br />Inzwischen bildeten sich auch ein paar Quellwolken - aber von den eigentlich agekündigten Schauer und Gewitter war es zum Glück weit entfernt."
-      },
-      {
-        "photos": [
-          {
-            "name": "025",
-            "alt": "Kaunertal Mautstraße",
-            "date": "2018-05-06T13:12:49.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Blick zurück zur Wiesejaggl-Piste hinter der Mautstraße."
-      },
-      {
-        "photos": [
-          {
-            "name": "026",
-            "alt": "Skigebiet Kaunertal",
-            "date": "2018-05-06T13:35:53.000+02:00",
-            "width": 1920,
-            "height": 1018
-          }
-        ],
-        "videos": [],
-        "text": "Blick aus der Gondel der Karlesjochbahn, die leider sehr langsam unterwegs war."
-      },
-      {
-        "photos": [
-          {
-            "name": "027",
-            "alt": "Weisssee Gletscher Restaurant",
-            "date": "2018-05-06T13:44:03.000+02:00",
-            "width": 1920,
-            "height": 762
-          }
-        ],
-        "videos": [],
-        "text": "Kurz vor der Talstation der Karlesjochbahn der Blick auf den oberen Parkplatz und das Weisssee Gletscher Restaurant.<br />Wie man sieht war nun auf den Pisten absolut nichts mehr los."
-      },
-      {
-        "photos": [
-          {
-            "name": "028",
-            "alt": "Skifahren im Firn",
-            "date": "2018-05-06T13:44:18.000+02:00",
-            "width": 1920,
-            "height": 1626
-          },
-          {
-            "name": "029",
-            "alt": "Glänzender Schnee",
-            "date": "2018-05-06T13:59:04.000+02:00",
-            "width": 1920,
-            "height": 570
-          }
-        ],
-        "videos": [],
-        "text": "Immer wieder fand ich nicht ausgezeichnete und unbefahrene Pistenvarianten, die für die nötige Abwechslung an diesem Tag führten."
-      },
-      {
-        "photos": [
-          {
-            "name": "030",
-            "alt": "Ochsenalmbahn",
-            "date": "2018-05-06T14:26:50.000+02:00",
-            "width": 1920,
-            "height": 778
-          }
-        ],
-        "videos": [],
-        "text": "In der Ochsenalmbahn oberhalb der Mittelstation."
-      },
-      {
-        "photos": [
-          {
-            "name": "031",
-            "alt": "Weisseefernerlifttrasse",
-            "date": "2018-05-06T14:47:33.000+02:00",
-            "width": 1920,
-            "height": 2323
-          }
-        ],
-        "videos": [],
-        "text": "Die Trasse des Weisseefernerlifts. Die hohen Temperaturen (14° an der Ochsenalmbahn) und die starke Sonneneinstrahlung setzte dem Schnee nun schon langsam zu."
-      },
-      {
-        "photos": [
-          {
-            "name": "032",
-            "alt": "Leere Piste",
-            "date": "2018-05-06T15:01:58.000+02:00",
-            "width": 1920,
-            "height": 949
-          }
-        ],
-        "videos": [],
-        "text": "Um 15:00 wurde es endlich auch am Nörderjochlift leerer, so dass ich auch dort die praktisch noch frisch präparierten Pisten fahren konnte. Alle anderen bogen auf die andere Seite zum Funpark ab.<br />Bin dann um 16:00 mit der letzten Gondel auf das Karlesjoch und konnte damit zum Abschluss der Saison noch eine lange Abfahrt bis zum Auto genießen. Um 16:30 gings dann los nach Hause."
-      }
-    ],
-    "outro": "Fazit: Auch wenn die Anfahrt mit knapp 3h lang war, hat man nach so einem Skitag auf dem Gletscher das richtige Saisonendegefühl. Wenn es im Tal 26° sind, ist es auch offensichtlich, dass die Jahreszeit des Skifahrens nun vorbei ist. ;)"
-  }
-]
+    {
+      "photos": [
+        {
+          "name": "002",
+          "alt": "Karlesjochbahn",
+          "date": "2018-05-06T09:08:18.000+02:00",
+          "width": 1920,
+          "height": 852
+        }
+      ],
+      "videos": [],
+      "text": "Nach der Fahrt mit der Ochsenalmbahn bin ich dann gleich weiter mit der Karlesjochbahn zum höchsten Punkt des Skigebiets auf 3100m. Aber selbst hier oben waren die Pisten bereits aufgetaut, da sie direkt der Morgensonne ausgesetzt sind."
+    },
+    {
+      "photos": [
+        {
+          "name": "003",
+          "alt": "Talabfahrt Ochsenalm",
+          "date": "2018-05-06T09:13:57.000+02:00",
+          "width": 1920,
+          "height": 1175
+        }
+      ],
+      "videos": [],
+      "text": "Als erste Abfahrt entschied ich mich für die schöne Wiesejaggl-Piste bis zur 1000 Höhenmeter tiefer liegenden Ochsenalm (wo ich auch mein Auto abgestellt hatte). Hier auf dem Bild das letzte Stück der Talabfahrt: schon weich aber noch praktisch unbefahren am Morgen."
+    },
+    {
+      "photos": [
+        {
+          "name": "004",
+          "alt": "Kaunertaler Gletscher",
+          "date": "2018-05-06T09:27:43.000+02:00",
+          "width": 1920,
+          "height": 597
+        }
+      ],
+      "videos": [],
+      "text": "Die Bergstation der Ochsenalmbahn befindet sich am oberen Parkplatz auf 2700m. Wenn die Ochsenalmbahn in Betrieb ist, braucht man aber eigentlich nicht bis nach oben mit dem Auto fahren.<br />Links ist der Nöderjochlift zu sehen, an dem dank des Funparks ganztägig Hochbetrieb herrschte... im Gegensatz zu allen anderen Liftanlagen."
+    },
+    {
+      "photos": [
+        {
+          "name": "005",
+          "alt": "Karlesjoch",
+          "date": "2018-05-06T09:39:25.000+02:00",
+          "width": 1920,
+          "height": 720
+        }
+      ],
+      "videos": [],
+      "text": "Die drei Skilifte erschließen nur recht flache Piste, so dass ich mich hauptsächlich auf die Ochsenalm- und Karlesjochbahn beschränkt.<br />Hier der Blick vom Karlesjoch hinunter nach Italien in Vinschgau."
+    },
+    {
+      "photos": [
+        {
+          "name": "007",
+          "alt": "Skifahren Kaunertal",
+          "date": "2018-05-06T09:39:50.000+02:00",
+          "width": 1920,
+          "height": 857
+        }
+      ],
+      "videos": [],
+      "text": "Und der Blick in die andere Richtung zurück zum Kaunertaler Gletscher."
+    },
+    {
+      "photos": [
+        {
+          "name": "008",
+          "alt": "Skitunnel",
+          "date": "2018-05-06T09:41:57.000+02:00",
+          "width": 1920,
+          "height": 1214
+        }
+      ],
+      "videos": [],
+      "text": "Um zur Wiesejaggl-Piste zu gelangen führt ein Skitunnel unter einem felsigen Grat hindurch. Am Morgen brannte dort das Licht noch nicht... das war dann schon ein ordentlicher Kontrastunterschied zur gleißenden Sonne außerhalb."
+    },
+    {
+      "photos": [
+        {
+          "name": "009",
+          "alt": "Wiesejaggl Piste",
+          "date": "2018-05-06T09:43:18.000+02:00",
+          "width": 1920,
+          "height": 653
+        }
+      ],
+      "videos": [],
+      "text": "Oberer Abschnitt der Wiesejaggl Abfahrt. Da vorne geht es über eine Skibrücke über die Straße, die zum oberen Parkplatz führt."
+    },
+    {
+      "photos": [
+        {
+          "name": "010",
+          "alt": "Weißsee",
+          "date": "2018-05-06T09:44:51.000+02:00",
+          "width": 1920,
+          "height": 906
+        }
+      ],
+      "videos": [],
+      "text": "Unten geht die Piste dann an der Straße entlang. Rechts davon ist durch die starke Schneeschmelze bereits der Umriss des zugeschneiten Weißsees zu erkennen."
+    },
+    {
+      "photos": [
+        {
+          "name": "011",
+          "alt": "Kaunertaler Gletscher",
+          "date": "2018-05-06T10:13:29.000+02:00",
+          "width": 1920,
+          "height": 667
+        }
+      ],
+      "videos": [],
+      "text": "Wenn man vom Karlesjoch nicht zur Wiesejaggl-Piste abbiegt, kann man stattdessen zu den Skiliften abfahren. Diese Pisten wurden kaum genutzt und blieben ganztags in sehr gutem Zustand.<br />Vorne ist der reichlich witzlose Falginlift zur sehen, dahinter der lange Weisseefernerlift."
+    },
+    {
+      "photos": [
+        {
+          "name": "012",
+          "alt": "Weißseejoch",
+          "date": "2018-05-06T10:32:03.000+02:00",
+          "width": 1920,
+          "height": 975
+        }
+      ],
+      "videos": [],
+      "text": "Blick zum Weißseejoch. Es wird zur Zeit darüber diskutiert, ob über diesen Pass eine Verbindung nach Italien gebaut wird. Noch ist das aber (trotz einer gewalzten Spur) reines Tourenskigebiet."
+    },
+    {
+      "photos": [
+        {
+          "name": "014",
+          "alt": "Sesselbahn an Felswand",
+          "date": "2018-05-06T11:51:00.000+02:00",
+          "width": 1920,
+          "height": 1231
+        },
+        {
+          "name": "015",
+          "alt": "Ochsenalmbahn",
+          "date": "2018-05-06T11:51:29.000+02:00",
+          "width": 1920,
+          "height": 1060
+        }
+      ],
+      "videos": [],
+      "text": "Landschaftlich am Schönsten ist es unten an der Ochsenalmbahn. Sowohl die Piste als auch die Bahn führt durch welliges, mit Flüssen und Felsen durchsetztes Gelände."
+    },
+    {
+      "photos": [
+        {
+          "name": "016",
+          "alt": "Piste Ochsenalmbahn",
+          "date": "2018-05-06T11:52:50.000+02:00",
+          "width": 1920,
+          "height": 786
+        }
+      ],
+      "videos": [],
+      "text": "Die Ochsenalmbahn hat eine Mittelstation, hier befinde ich mich noch kurz unterhalb dieser Zwischeneinstiegsoption."
+    },
+    {
+      "photos": [
+        {
+          "name": "017",
+          "alt": "Weisseefernerlift",
+          "date": "2018-05-06T12:03:52.000+02:00",
+          "width": 1920,
+          "height": 654
+        },
+        {
+          "name": "019",
+          "alt": "Gletscherlift",
+          "date": "2018-05-06T12:08:25.000+02:00",
+          "width": 1920,
+          "height": 1035
+        },
+        {
+          "name": "020",
+          "alt": "Frühlingsschnee",
+          "date": "2018-05-06T12:11:17.000+02:00",
+          "width": 1920,
+          "height": 1259
+        }
+      ],
+      "videos": [],
+      "text": "Da es den Gondeln der Karlesjochbahn ziemlich stickig war (es war an diesem Tag windstill), bin ich dann auch mal mit dem Weisseefernerlift gefahren. Dieser ist leider zu 2/3 sehr flach und nur am Ende steil. Los war dort ab Mittag nichts mehr, nachdem die Trainingsgruppen abgezogen waren."
+    },
+    {
+      "photos": [
+        {
+          "name": "021",
+          "alt": "Panorama Kaunertaler Gletscher",
+          "date": "2018-05-06T12:13:15.000+02:00",
+          "width": 1920,
+          "height": 619
+        }
+      ],
+      "videos": [],
+      "text": "Blick von der Bergstation des Weisseefernerlifts auf die beiden oberen Pisten."
+    },
+    {
+      "photos": [
+        {
+          "name": "022",
+          "alt": "Firnschnee",
+          "date": "2018-05-06T12:15:50.000+02:00",
+          "width": 1920,
+          "height": 1235
+        }
+      ],
+      "videos": [],
+      "text": "Da die Renngruppen die sehr breite Piste nur sehr wenig in Anspruch genommen haben, war sie selbst am Nachmittag noch in schönem firnigen Zustand. Nur abseits der Pisten wurde es nun etwas klebrig."
+    },
+    {
+      "photos": [
+        {
+          "name": "023",
+          "alt": "Falginlift",
+          "date": "2018-05-06T12:30:26.000+02:00",
+          "width": 1920,
+          "height": 649
+        }
+      ],
+      "videos": [],
+      "text": "Auch den kurze und flache Falginlift musste ich zumindest einmal fahren. Die Piste war zwar ganz nett, aber eigentlich hätten sie sich diesen Lift auch sparen können."
+    },
+    {
+      "photos": [
+        {
+          "name": "024",
+          "alt": "Schwarze Piste",
+          "date": "2018-05-06T13:08:23.000+02:00",
+          "width": 1920,
+          "height": 1123
+        }
+      ],
+      "videos": [],
+      "text": "Nun bin ich wieder auf der Wiesejaggl-Piste. Nachmittags wurde sie allerdings schon ziemlich sulzig.<br />Inzwischen bildeten sich auch ein paar Quellwolken - aber von den eigentlich agekündigten Schauer und Gewitter war es zum Glück weit entfernt."
+    },
+    {
+      "photos": [
+        {
+          "name": "025",
+          "alt": "Kaunertal Mautstraße",
+          "date": "2018-05-06T13:12:49.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Blick zurück zur Wiesejaggl-Piste hinter der Mautstraße."
+    },
+    {
+      "photos": [
+        {
+          "name": "026",
+          "alt": "Skigebiet Kaunertal",
+          "date": "2018-05-06T13:35:53.000+02:00",
+          "width": 1920,
+          "height": 1018
+        }
+      ],
+      "videos": [],
+      "text": "Blick aus der Gondel der Karlesjochbahn, die leider sehr langsam unterwegs war."
+    },
+    {
+      "photos": [
+        {
+          "name": "027",
+          "alt": "Weisssee Gletscher Restaurant",
+          "date": "2018-05-06T13:44:03.000+02:00",
+          "width": 1920,
+          "height": 762
+        }
+      ],
+      "videos": [],
+      "text": "Kurz vor der Talstation der Karlesjochbahn der Blick auf den oberen Parkplatz und das Weisssee Gletscher Restaurant.<br />Wie man sieht war nun auf den Pisten absolut nichts mehr los."
+    },
+    {
+      "photos": [
+        {
+          "name": "028",
+          "alt": "Skifahren im Firn",
+          "date": "2018-05-06T13:44:18.000+02:00",
+          "width": 1920,
+          "height": 1626
+        },
+        {
+          "name": "029",
+          "alt": "Glänzender Schnee",
+          "date": "2018-05-06T13:59:04.000+02:00",
+          "width": 1920,
+          "height": 570
+        }
+      ],
+      "videos": [],
+      "text": "Immer wieder fand ich nicht ausgezeichnete und unbefahrene Pistenvarianten, die für die nötige Abwechslung an diesem Tag führten."
+    },
+    {
+      "photos": [
+        {
+          "name": "030",
+          "alt": "Ochsenalmbahn",
+          "date": "2018-05-06T14:26:50.000+02:00",
+          "width": 1920,
+          "height": 778
+        }
+      ],
+      "videos": [],
+      "text": "In der Ochsenalmbahn oberhalb der Mittelstation."
+    },
+    {
+      "photos": [
+        {
+          "name": "031",
+          "alt": "Weisseefernerlifttrasse",
+          "date": "2018-05-06T14:47:33.000+02:00",
+          "width": 1920,
+          "height": 2323
+        }
+      ],
+      "videos": [],
+      "text": "Die Trasse des Weisseefernerlifts. Die hohen Temperaturen (14° an der Ochsenalmbahn) und die starke Sonneneinstrahlung setzte dem Schnee nun schon langsam zu."
+    },
+    {
+      "photos": [
+        {
+          "name": "032",
+          "alt": "Leere Piste",
+          "date": "2018-05-06T15:01:58.000+02:00",
+          "width": 1920,
+          "height": 949
+        }
+      ],
+      "videos": [],
+      "text": "Um 15:00 wurde es endlich auch am Nörderjochlift leerer, so dass ich auch dort die praktisch noch frisch präparierten Pisten fahren konnte. Alle anderen bogen auf die andere Seite zum Funpark ab.<br />Bin dann um 16:00 mit der letzten Gondel auf das Karlesjoch und konnte damit zum Abschluss der Saison noch eine lange Abfahrt bis zum Auto genießen. Um 16:30 gings dann los nach Hause."
+    }
+  ],
+  "outro": "Fazit: Auch wenn die Anfahrt mit knapp 3h lang war, hat man nach so einem Skitag auf dem Gletscher das richtige Saisonendegefühl. Wenn es im Tal 26° sind, ist es auch offensichtlich, dass die Jahreszeit des Skifahrens nun vorbei ist. ;)"
+}

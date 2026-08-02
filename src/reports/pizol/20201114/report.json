@@ -1,608 +1,606 @@
-[
-  {
-    "destination": "pizol",
-    "date": "d20201114",
-    "datePublished": "2020-11-15T12:00:00+01:00",
-    "dateModified": "2026-03-22T15:00:00+01:00",
-    "type": "hike",
-    "track": true,
-    "detailMap": "swiss",
-    "shortTitle": "Hüenerchopf",
-    "title": "Weisstannental - Hüenerchopf",
-    "title3d": {
-      "offsetY": 4,
-      "fontSize": 5.8,
-      "align": "left",
-      "width": 1917,
-      "height": 548
+{
+  "destination": "pizol",
+  "date": "d20201114",
+  "datePublished": "2020-11-15T12:00:00+01:00",
+  "dateModified": "2026-03-22T15:00:00+01:00",
+  "type": "hike",
+  "track": true,
+  "detailMap": "swiss",
+  "shortTitle": "Hüenerchopf",
+  "title": "Weisstannental - Hüenerchopf",
+  "title3d": {
+    "offsetY": 4,
+    "fontSize": 5.8,
+    "align": "left",
+    "width": 1917,
+    "height": 548
+  },
+  "movie": "rXaksY9G2Yg",
+  "intro": "Bisher hatte ich noch nie eine Wanderung im Weisstannental unternommen. Das Weisstannental geht von Mels im Rheintal nord/östlich am Pizol vorbei. Schnee- und sonnenbedingt (Mitte November) suchte ich nach einer nicht übertrieben langen Wanderung den Südhang hinauf. Ich entschied mich in Schwendi auf 900m zu parken, von dort auf den 2200m hohen Hüenerchopf, anschließend hinab zum 1000m hohen Weisstannen und im Tal zurück nach Schwendi zu wandern.",
+  "landmarks": [
+    {
+      "photos": [
+        {
+          "name": "001",
+          "alt": "Schwendi Fahrweg",
+          "date": "2020-11-14T08:18:05.000+01:00",
+          "width": 1920,
+          "height": 1048
+        }
+      ],
+      "videos": [],
+      "text": "Da die Tage schon sehr kurz sind, stellte ich bereits vor 8:00 mein Auto auf dem Parkplatz ohne Parkgebühren in dem kleinen Ort in Schendi ab. Von dort ging es noch im Schatten einen Fahrweg in vielen Serpentinen den Grashang hinauf."
     },
-    "movie": "rXaksY9G2Yg",
-    "intro": "Bisher hatte ich noch nie eine Wanderung im Weisstannental unternommen. Das Weisstannental geht von Mels im Rheintal nord/östlich am Pizol vorbei. Schnee- und sonnenbedingt (Mitte November) suchte ich nach einer nicht übertrieben langen Wanderung den Südhang hinauf. Ich entschied mich in Schwendi auf 900m zu parken, von dort auf den 2200m hohen Hüenerchopf, anschließend hinab zum 1000m hohen Weisstannen und im Tal zurück nach Schwendi zu wandern.",
-    "landmarks": [
-      {
-        "photos": [
-          {
-            "name": "001",
-            "alt": "Schwendi Fahrweg",
-            "date": "2020-11-14T08:18:05.000+01:00",
-            "width": 1920,
-            "height": 1048
-          }
-        ],
-        "videos": [],
-        "text": "Da die Tage schon sehr kurz sind, stellte ich bereits vor 8:00 mein Auto auf dem Parkplatz ohne Parkgebühren in dem kleinen Ort in Schendi ab. Von dort ging es noch im Schatten einen Fahrweg in vielen Serpentinen den Grashang hinauf."
-      },
-      {
-        "photos": [
-          {
-            "name": "002",
-            "alt": "Steiler Schotterweg",
-            "date": "2020-11-14T08:28:58.000+01:00",
-            "width": 1920,
-            "height": 1280
-          },
-          {
-            "name": "003",
-            "alt": "Aussichtsbank Weisstannental",
-            "date": "2020-11-14T08:35:08.000+01:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Noch bevor die Fahrstraße den Wald erreichte, wechselte sie zu Schotter und eine Aussichtsbank lud nach den ersten 200m Aufstieg zu einer ersten Pause ein. Von links nach rechts hier der Blick auf: Hüenerspitz (nicht <span style='white-space:nowrap'>-chopf</span>, wo ich rauf wollte!), Hangsackgrat und Laritschchopf."
-      },
-      {
-        "photos": [
-          {
-            "name": "004",
-            "alt": "Weg Alp Matells",
-            "date": "2020-11-14T08:50:46.000+01:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Im Wald wurde der Fahrweg etwas interessanter, da er zum Teil recht aufwändig in den Fels geschlagen wurde. Hier wurde ich auch von zwei Geländewagen überholt, die auf dem Weg zur Alp Matells zum Holzfällen waren."
-      },
-      {
-        "photos": [
-          {
-            "name": "005",
-            "alt": "Überhängender Fels",
-            "date": "2020-11-14T09:01:53.000+01:00",
-            "width": 1920,
-            "height": 2880
-          },
-          {
-            "name": "006",
-            "alt": "Waldweg mit Sonnenschein",
-            "date": "2020-11-14T09:04:37.000+01:00",
-            "width": 1920,
-            "height": 2880
-          }
-        ],
-        "videos": [],
-        "text": "Nach weiteren 300m Aufstieg durch den Wald erreichten mich endlich die Sonnenstrahlen und der doch etwas eintönige Weg wurde gleich bunter."
-      },
-      {
-        "photos": [
-          {
-            "name": "007",
-            "alt": "Mülibach",
-            "date": "2020-11-14T09:22:15.000+01:00",
-            "width": 1920,
-            "height": 2611
-          }
-        ],
-        "videos": [],
-        "text": "Dann überquert die Straße den kleinen Mülibach - es war immer noch düster genug, um ein Foto mit Langzeitbelichtung zu machen."
-      },
-      {
-        "photos": [
-          {
-            "name": "008",
-            "alt": "Falknis",
-            "date": "2020-11-14T09:23:25.000+01:00",
-            "width": 1920,
-            "height": 2880
-          }
-        ],
-        "videos": [],
-        "text": "Nun war ich auch schon weit genug aus dem Tal raus, um über die andere Talseite hinweg zum <a href='' target='_blank'>Falknis</a> schauen zu können."
-      },
-      {
-        "photos": [
-          {
-            "name": "009",
-            "alt": "Spinnenfäden",
-            "date": "2020-11-14T09:27:40.000+01:00",
-            "width": 1920,
-            "height": 1173
-          }
-        ],
-        "videos": [],
-        "text": "Ich hatte mich auf dem Weg schon gewundert, was mir ständig im Gesicht klebte. Hier wurde es dann durch die Sonnenstrahlen erkennbar: hunderte dünne Spinnenfäden, die von den Bäumen herunterhingen."
-      },
-      {
-        "photos": [
-          {
-            "name": "010",
-            "alt": "Weisstannental",
-            "date": "2020-11-14T09:28:38.000+01:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Blick aus dem Weisstannental hinaus Richtung Rheintal und dem markanten Gonzen."
-      },
-      {
-        "photos": [
-          {
-            "name": "011",
-            "alt": "Alpweg Matells",
-            "date": "2020-11-14T09:36:19.000+01:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Nach 1 Stunde und 45 Minuten und 800m Aufstieg erreicht ich endlich die Alp Matells, zur der der Alpweg führt. Ich machte dort erst mal eine Pause auf einer schönen Bank, auch wenn es nun erst mal etwas flacher weiterging."
-      },
-      {
-        "photos": [
-          {
-            "name": "012",
-            "alt": "Wanderweg Matells",
-            "date": "2020-11-14T09:52:34.000+01:00",
-            "width": 1920,
-            "height": 1117
-          },
-          {
-            "name": "013",
-            "alt": "Aussicht Weisstannental",
-            "date": "2020-11-14T10:14:42.000+01:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Der Weg führte nun wieder über den Mülibach und dann quer den etwas matschigen Hang im Wald hinauf. Nun aber auf richtigem Wanderweg und nicht mehr auf Schotterweg."
-      },
-      {
-        "photos": [
-          {
-            "name": "014",
-            "alt": "Herbstgras",
-            "date": "2020-11-14T10:21:46.000+01:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Auf 1830m Höhe erreichte ich die Alpwiesen von Garmil. Der offizielle Wanderweg macht dort einen langen unnötigen Umweg, ich habe einfach das kurze Stück direkt auf dem flachen Grat abgekürzt."
-      },
-      {
-        "photos": [
-          {
-            "name": "015",
-            "alt": "Wanderweg Hüenerchopf",
-            "date": "2020-11-14T10:41:18.000+01:00",
-            "width": 1920,
-            "height": 1135
-          }
-        ],
-        "videos": [],
-        "text": "Nun war ich bereits wieder auf dem offiziellen Wanderweg und ich begegnete erstmals an dem Tag anderen Wanderern. Diese kamen von Richtung Vermol hinauf, wo man bis auf 1600m an den Hüenerchopf heranfahren kann."
-      },
-      {
-        "photos": [
-          {
-            "name": "016",
-            "alt": "Herbstwanderung Hüenerchopf",
-            "date": "2020-11-14T10:41:38.000+01:00",
-            "width": 1920,
-            "height": 809
-          }
-        ],
-        "videos": [],
-        "text": "Blick hinab über die flachen Alpwiesen Richtung Rheintal. Links auf der anderen Talseite ist der <a href='/alpine/alviergruppe/20140907' target='_blank'>Alvier</a> zu sehen."
-      },
-      {
-        "photos": [
-          {
-            "name": "017",
-            "alt": "Gratweg Hüenerchopf",
-            "date": "2020-11-14T10:49:55.000+01:00",
-            "width": 1920,
-            "height": 925
-          }
-        ],
-        "videos": [],
-        "text": "Der Wanderweg ging nun immer auf dem teilweise steilen Grat den Hüenerchopf hinauf."
-      },
-      {
-        "photos": [
-          {
-            "name": "018",
-            "alt": "Wanderung Weisstannental",
-            "date": "2020-11-14T10:51:50.000+01:00",
-            "width": 1920,
-            "height": 915
-          }
-        ],
-        "videos": [],
-        "text": "Weitwinkelblick den Grat hinab ins Weisstannental. Auf der anderen Talseite ist nun auch der Pizol mit der bekannten <a href='/alpine/pizol/20250929' target='_blank'>Fünf-Seen-Wanderung</a> zu sehen."
-      },
-      {
-        "photos": [
-          {
-            "name": "019",
-            "alt": "Hüenerchopf",
-            "date": "2020-11-14T11:00:49.000+01:00",
-            "width": 1920,
-            "height": 689
-          },
-          {
-            "name": "020",
-            "alt": "Grasbuckel",
-            "date": "2020-11-14T11:01:43.000+01:00",
-            "width": 1920,
-            "height": 2880
-          }
-        ],
-        "videos": [],
-        "text": "Dann wurde der Grat plötzlich sehr breit und ich erreichte eine kleine Hochfläche. Nun sah ich auch das erste mal das Ziel meiner Wanderung, den Hüenerchopf.<br />Der Weg dorthin führte nun sehr lustig über unzählige Grasbuckel."
-      },
-      {
-        "photos": [
-          {
-            "name": "021",
-            "alt": "Aufstieg Hüenerchopf",
-            "date": "2020-11-14T11:12:32.000+01:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Nach der buckligen Hochfläche ging es auf dem Grat weiter und der Hüenerchopf kam nun rasch näher."
-      },
-      {
-        "photos": [
-          {
-            "name": "022",
-            "alt": "Bergweg Hüenerchopf",
-            "date": "2020-11-14T11:23:53.000+01:00",
-            "width": 1920,
-            "height": 1141
-          }
-        ],
-        "videos": [],
-        "text": "Das letzte Stück auf den Gipfel wurde der Weg dann deutlich steiler und war zum Teil sogar im Fels. Aber nicht wirklich gefährlich."
-      },
-      {
-        "photos": [
-          {
-            "name": "023",
-            "alt": "Panorama Hüenerchopf",
-            "date": "2020-11-14T11:33:23.000+01:00",
-            "width": 1920,
-            "height": 729
-          }
-        ],
-        "videos": [],
-        "text": "Den Gipfel des Hüenerchopf erreichte ich um 11:30 nach 3,5 Stunden und fast 1300m Aufstieg. Zeit für eine richtige Pause um den schönen Blick zur Alviergruppe und dem Rheintal zu genießen. Es wehte allerdings ein etwas frischer Wind, aber für Mitte November auf dieser Höhe war es trotzdem relativ warm."
-      },
-      {
-        "photos": [
-          {
-            "name": "024",
-            "alt": "Fernblick Hüenerchopf",
-            "date": "2020-11-14T11:38:16.000+01:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Tele über das Rheintal hinweg zu einigen mir bekannten Gipfeln (von links nach rechts): <a href='/alpine/malbun/20161016' target='_blank'>Naafkopf</a>, <a href='/alpine/praettigau/20180908' target='_blank'>Falknis</a>, <a href='/alpine/brandnertal/20150829' target='_blank'>Schesaplana</a>, <a href='/alpine/praettigau/20141012' target='_blank'>Sulzfluh</a> und <a href='/alpine/praettigau/20181110' target='_blank'>Vilan</a>."
-      },
-      {
-        "photos": [
-          {
-            "name": "025",
-            "alt": "Aussicht Hüenerchopf",
-            "date": "2020-11-14T11:42:01.000+01:00",
-            "width": 1920,
-            "height": 751
-          }
-        ],
-        "videos": [],
-        "text": "Und der Blick in die andere Richtung. Auf dem im Vordergrund sichtbaren Grat sollte mein Weg nun weitergehen, genauer auf den Madchopf (mitte/rechts). Links dahinter ist der über 3000m hohe Piz Sardona zu sehen und links hinten die 3200m hohe Ringelspitz.<br />Es gab eine schöne Fernsicht an diesem Tag. :)"
-      },
-      {
-        "photos": [
-          {
-            "name": "026",
-            "alt": "Gratwanderung Hüenerchopf Madchopf",
-            "date": "2020-11-14T11:45:26.000+01:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Nach der Pause musste ich zuerst knapp 100m vom Hüenerchopf absteigen und es ging diesen Grat auf recht schmalem Weg hinüber zum Madchopf."
-      },
-      {
-        "photos": [
-          {
-            "name": "027",
-            "alt": "Hüenerchopf",
-            "date": "2020-11-14T11:53:40.000+01:00",
-            "width": 1920,
-            "height": 1068
-          }
-        ],
-        "videos": [],
-        "text": "Nun erreichte ich auch den ersten Schnee des Tages, der sich aber in Grenzen hielt.<br />Hier der Blick zurück zum Hüenerchopf. Über den Grat rechts war ich hinaufgestiegen."
-      },
-      {
-        "photos": [
-          {
-            "name": "028",
-            "alt": "Gefrorener Tümpel",
-            "date": "2020-11-14T11:57:26.000+01:00",
-            "width": 1920,
-            "height": 1134
-          }
-        ],
-        "videos": [],
-        "text": "Vor dem Anstieg auf den 2230m hohen Madchopf noch ein kleiner zugefrorener Tümpel. Das zeigt, dass um diese Jahreszeit die Temperaturen in den Bergen nicht mehr wirklich ansteigen... auch wenn es gefühlt ordentlich warm war."
-      },
-      {
-        "photos": [
-          {
-            "name": "029",
-            "alt": "Madchopf",
-            "date": "2020-11-14T12:06:48.000+01:00",
-            "width": 1920,
-            "height": 2595
-          }
-        ],
-        "videos": [],
-        "text": "Hier der nicht all zu steile Aufstieg auf den Madchopf. Aber nach den ganzen Höhenmetern des Tages ging es bei mir nicht mehr sehr flott rauf. ;)"
-      },
-      {
-        "photos": [
-          {
-            "name": "030",
-            "alt": "Gipfel Madchopf",
-            "date": "2020-11-14T12:15:58.000+01:00",
-            "width": 1920,
-            "height": 734
-          }
-        ],
-        "videos": [],
-        "text": "Den Gipfel des Madchopf erreichte ich um 12:15. Damit hatte ich den höchsten Punkt der Wanderung erreicht. Außer einem kleinen Steinmännchen ist der Gipfel aber recht unscheinbar. Die Aussicht ist aber trotzdem schön dort."
-      },
-      {
-        "photos": [
-          {
-            "name": "031",
-            "alt": "Spitzmeilen",
-            "date": "2020-11-14T12:16:14.000+01:00",
-            "width": 1920,
-            "height": 1157
-          }
-        ],
-        "videos": [],
-        "text": "Tele zum 2500m hohen Spitzmeilen, der auch immer von <a href='/alpine/flumserberg/20150726' target='_blank'>Flumserberg</a> aus sichtbar ist."
-      },
-      {
-        "photos": [
-          {
-            "name": "032",
-            "alt": "Madchopf Wanderung",
-            "date": "2020-11-14T12:16:39.000+01:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Das letzte mal der Blick zurück zum Hüenerchopf."
-      },
-      {
-        "photos": [
-          {
-            "name": "033",
-            "alt": "Wannenchopf",
-            "date": "2020-11-14T12:28:19.000+01:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Und den Grat des Wannenchopf entlang zum Weisstannental und dahinter zum 2800m hohen Pizol."
-      },
-      {
-        "photos": [
-          {
-            "name": "034",
-            "alt": "Abstieg Madchopf",
-            "date": "2020-11-14T12:31:26.000+01:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Vom Madchopf ging ich nun erst mal noch den Grat weiter zur hier vor mir liegenden Lücke. Dabei wurde der Weg überraschend steil, aber er war noch ohne Hände gehbar."
-      },
-      {
-        "photos": [
-          {
-            "name": "035",
-            "alt": "Wegweiser Madchopf",
-            "date": "2020-11-14T12:36:05.000+01:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Gerne wäre ich auf diesen schönen Gratwegen weitergelaufen, aber mein Weg nach Weisstannen bog nun nach links ab... und ich hatte ja auch noch 1300m Abstieg vor mir."
-      },
-      {
-        "photos": [
-          {
-            "name": "036",
-            "alt": "Vorder Mad",
-            "date": "2020-11-14T12:38:17.000+01:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Direkt unterhalb des Grats kam ich an der kleinen Alp Vorder Mad vorbei."
-      },
-      {
-        "photos": [
-          {
-            "name": "037",
-            "alt": "Grasweg",
-            "date": "2020-11-14T12:43:54.000+01:00",
-            "width": 1920,
-            "height": 1280
-          },
-          {
-            "name": "038",
-            "alt": "Wanderweg Weisstannen",
-            "date": "2020-11-14T12:58:43.000+01:00",
-            "width": 1920,
-            "height": 755
-          }
-        ],
-        "videos": [],
-        "text": "Dann führt der einfache Grasweg recht zügig die Wiese bergab zur Alp Obergalans. Die mir entgegen kommenden Wanderer hatten ordentlich in der Sonne zu schwitzen."
-      },
-      {
-        "photos": [
-          {
-            "name": "039",
-            "alt": "Blauer Enzian",
-            "date": "2020-11-14T12:59:48.000+01:00",
-            "width": 1920,
-            "height": 2164
-          }
-        ],
-        "videos": [],
-        "text": "Letzter Blumengruß des Jahres auf 1900m Höhe."
-      },
-      {
-        "photos": [
-          {
-            "name": "040",
-            "alt": "Herbstwanderung",
-            "date": "2020-11-14T13:38:23.000+01:00",
-            "width": 1920,
-            "height": 876
-          },
-          {
-            "name": "041",
-            "alt": "Untergalans",
-            "date": "2020-11-14T13:52:37.000+01:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Nachdem ich die Alp Obergalans passiert hatte, ging es auf schönem Wanderweg weiter hinab bis zur 1500m hoch gelegenen Alp Untergalans. Langsam wurde der weitere Weg absehbar und ich machte um 13:45 noch einmal eine längere Pause in der Sonne."
-      },
-      {
-        "photos": [
-          {
-            "name": "042",
-            "alt": "Wanderung Weisstannental",
-            "date": "2020-11-14T14:02:11.000+01:00",
-            "width": 1920,
-            "height": 1192
-          }
-        ],
-        "videos": [],
-        "text": "Unterhalb von Untergalans wurde der Wanderweg neu angelegt (rechts herum um den Ringgenstein). Da er aber bei mir auf der Karte noch nicht eingezeichnet war, bin ich den alten Weg links herum gegangen. Dieser war leider von Kühen total zertreten und schlammig (das war wohl der Grund für die neue Wegführung). Der zweite Abschnitt des Wegs war aber recht schön und ging durch viele kleine Felsbrocken hindurch.<br />Hier unten im Schatten kann man nun übrigens das erste mal den Ort Weisstannen sehen. Ich hatte eigentlich auf etwas Sonne dort gehofft, aber um diese Jahreszeit liegt Weisstannen wohl den ganzen Tag im Schatten."
-      },
-      {
-        "photos": [
-          {
-            "name": "043",
-            "alt": "Kurve",
-            "date": "2020-11-14T14:13:56.000+01:00",
-            "width": 1920,
-            "height": 1280
-          },
-          {
-            "name": "044",
-            "alt": "Tor",
-            "date": "2020-11-14T14:14:16.000+01:00",
-            "width": 1920,
-            "height": 2347
-          }
-        ],
-        "videos": [],
-        "text": "Den richtigen offiziellen Wanderweg erreichte ich dann wieder an dieser Kurve und damit auch die Alp-Straße, die mich nun bis nach Weisstannen führte."
-      },
-      {
-        "photos": [
-          {
-            "name": "045",
-            "alt": "Gefrorene Straße",
-            "date": "2020-11-14T14:46:34.000+01:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Unten im Tal dann schattig und sehr kalt, so dass die dort verlaufene Straße sogar eisig und rutschig war. Ein krasser Gegenteil zu dem schönen Herbstwetter ein paar hundert Meter weiter oben."
-      },
-      {
-        "photos": [
-          {
-            "name": "046",
-            "alt": "Spazierweg Weisstannen",
-            "date": "2020-11-14T15:18:15.000+01:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Nachdem ich den kalten Ort Weisstannen durchquert hatte, ging es nun am Bach auf schönem Spazierweg zurück nach Schwendi. Etwas unerwartet (aber nicht unerwünscht) erreichten mich hier auch wieder ein paar Sonnenstrahlen."
-      },
-      {
-        "photos": [
-          {
-            "name": "047",
-            "alt": "Schwendi",
-            "date": "2020-11-14T15:22:02.000+01:00",
-            "width": 1920,
-            "height": 1113
-          },
-          {
-            "name": "048",
-            "alt": "Sonnenuntergang Weisstannental",
-            "date": "2020-11-14T15:28:01.000+01:00",
-            "width": 1920,
-            "height": 945
-          },
-          {
-            "name": "049",
-            "alt": "Spaziergang Weisstannental",
-            "date": "2020-11-14T15:28:43.000+01:00",
-            "width": 1920,
-            "height": 931
-          }
-        ],
-        "videos": [],
-        "text": "Die 100m flachen Abstieg von Weisstannen nach Schwendi waren schnell erledigt und ich erreichte mein Auto um 15:40 sogar noch in der Sonne."
-      }
-    ],
-    "outro": "Fazit: Der Gratweg über den Hüener- und Madchopf war sehr schön. Die Runde aus dem Weisstannental empfand ich aber nicht als optimal, insbesondere der etwas öde Aufstieg von Schwendi auf der Alp-Straße. Ich werde wohl eine weitere Tour über diese Gipfel von Vermol aus unternehmen, wo man längere Zeit in der schönen Landschaft oben unterwegs ist.<br />Die Wanderung war insgesamt nicht schwierig und dank der Südausrichtung auch spät (bzw. früh) im Jahr machbar. Es waren aber insgesamt rund 1600m Auf- und Abstieg auf 18km Länge. Ich habe dafür knapp 8 Stunden gebraucht."
-  }
-]
+    {
+      "photos": [
+        {
+          "name": "002",
+          "alt": "Steiler Schotterweg",
+          "date": "2020-11-14T08:28:58.000+01:00",
+          "width": 1920,
+          "height": 1280
+        },
+        {
+          "name": "003",
+          "alt": "Aussichtsbank Weisstannental",
+          "date": "2020-11-14T08:35:08.000+01:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Noch bevor die Fahrstraße den Wald erreichte, wechselte sie zu Schotter und eine Aussichtsbank lud nach den ersten 200m Aufstieg zu einer ersten Pause ein. Von links nach rechts hier der Blick auf: Hüenerspitz (nicht <span style='white-space:nowrap'>-chopf</span>, wo ich rauf wollte!), Hangsackgrat und Laritschchopf."
+    },
+    {
+      "photos": [
+        {
+          "name": "004",
+          "alt": "Weg Alp Matells",
+          "date": "2020-11-14T08:50:46.000+01:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Im Wald wurde der Fahrweg etwas interessanter, da er zum Teil recht aufwändig in den Fels geschlagen wurde. Hier wurde ich auch von zwei Geländewagen überholt, die auf dem Weg zur Alp Matells zum Holzfällen waren."
+    },
+    {
+      "photos": [
+        {
+          "name": "005",
+          "alt": "Überhängender Fels",
+          "date": "2020-11-14T09:01:53.000+01:00",
+          "width": 1920,
+          "height": 2880
+        },
+        {
+          "name": "006",
+          "alt": "Waldweg mit Sonnenschein",
+          "date": "2020-11-14T09:04:37.000+01:00",
+          "width": 1920,
+          "height": 2880
+        }
+      ],
+      "videos": [],
+      "text": "Nach weiteren 300m Aufstieg durch den Wald erreichten mich endlich die Sonnenstrahlen und der doch etwas eintönige Weg wurde gleich bunter."
+    },
+    {
+      "photos": [
+        {
+          "name": "007",
+          "alt": "Mülibach",
+          "date": "2020-11-14T09:22:15.000+01:00",
+          "width": 1920,
+          "height": 2611
+        }
+      ],
+      "videos": [],
+      "text": "Dann überquert die Straße den kleinen Mülibach - es war immer noch düster genug, um ein Foto mit Langzeitbelichtung zu machen."
+    },
+    {
+      "photos": [
+        {
+          "name": "008",
+          "alt": "Falknis",
+          "date": "2020-11-14T09:23:25.000+01:00",
+          "width": 1920,
+          "height": 2880
+        }
+      ],
+      "videos": [],
+      "text": "Nun war ich auch schon weit genug aus dem Tal raus, um über die andere Talseite hinweg zum <a href='' target='_blank'>Falknis</a> schauen zu können."
+    },
+    {
+      "photos": [
+        {
+          "name": "009",
+          "alt": "Spinnenfäden",
+          "date": "2020-11-14T09:27:40.000+01:00",
+          "width": 1920,
+          "height": 1173
+        }
+      ],
+      "videos": [],
+      "text": "Ich hatte mich auf dem Weg schon gewundert, was mir ständig im Gesicht klebte. Hier wurde es dann durch die Sonnenstrahlen erkennbar: hunderte dünne Spinnenfäden, die von den Bäumen herunterhingen."
+    },
+    {
+      "photos": [
+        {
+          "name": "010",
+          "alt": "Weisstannental",
+          "date": "2020-11-14T09:28:38.000+01:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Blick aus dem Weisstannental hinaus Richtung Rheintal und dem markanten Gonzen."
+    },
+    {
+      "photos": [
+        {
+          "name": "011",
+          "alt": "Alpweg Matells",
+          "date": "2020-11-14T09:36:19.000+01:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Nach 1 Stunde und 45 Minuten und 800m Aufstieg erreicht ich endlich die Alp Matells, zur der der Alpweg führt. Ich machte dort erst mal eine Pause auf einer schönen Bank, auch wenn es nun erst mal etwas flacher weiterging."
+    },
+    {
+      "photos": [
+        {
+          "name": "012",
+          "alt": "Wanderweg Matells",
+          "date": "2020-11-14T09:52:34.000+01:00",
+          "width": 1920,
+          "height": 1117
+        },
+        {
+          "name": "013",
+          "alt": "Aussicht Weisstannental",
+          "date": "2020-11-14T10:14:42.000+01:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Der Weg führte nun wieder über den Mülibach und dann quer den etwas matschigen Hang im Wald hinauf. Nun aber auf richtigem Wanderweg und nicht mehr auf Schotterweg."
+    },
+    {
+      "photos": [
+        {
+          "name": "014",
+          "alt": "Herbstgras",
+          "date": "2020-11-14T10:21:46.000+01:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Auf 1830m Höhe erreichte ich die Alpwiesen von Garmil. Der offizielle Wanderweg macht dort einen langen unnötigen Umweg, ich habe einfach das kurze Stück direkt auf dem flachen Grat abgekürzt."
+    },
+    {
+      "photos": [
+        {
+          "name": "015",
+          "alt": "Wanderweg Hüenerchopf",
+          "date": "2020-11-14T10:41:18.000+01:00",
+          "width": 1920,
+          "height": 1135
+        }
+      ],
+      "videos": [],
+      "text": "Nun war ich bereits wieder auf dem offiziellen Wanderweg und ich begegnete erstmals an dem Tag anderen Wanderern. Diese kamen von Richtung Vermol hinauf, wo man bis auf 1600m an den Hüenerchopf heranfahren kann."
+    },
+    {
+      "photos": [
+        {
+          "name": "016",
+          "alt": "Herbstwanderung Hüenerchopf",
+          "date": "2020-11-14T10:41:38.000+01:00",
+          "width": 1920,
+          "height": 809
+        }
+      ],
+      "videos": [],
+      "text": "Blick hinab über die flachen Alpwiesen Richtung Rheintal. Links auf der anderen Talseite ist der <a href='/alpine/alviergruppe/20140907' target='_blank'>Alvier</a> zu sehen."
+    },
+    {
+      "photos": [
+        {
+          "name": "017",
+          "alt": "Gratweg Hüenerchopf",
+          "date": "2020-11-14T10:49:55.000+01:00",
+          "width": 1920,
+          "height": 925
+        }
+      ],
+      "videos": [],
+      "text": "Der Wanderweg ging nun immer auf dem teilweise steilen Grat den Hüenerchopf hinauf."
+    },
+    {
+      "photos": [
+        {
+          "name": "018",
+          "alt": "Wanderung Weisstannental",
+          "date": "2020-11-14T10:51:50.000+01:00",
+          "width": 1920,
+          "height": 915
+        }
+      ],
+      "videos": [],
+      "text": "Weitwinkelblick den Grat hinab ins Weisstannental. Auf der anderen Talseite ist nun auch der Pizol mit der bekannten <a href='/alpine/pizol/20250929' target='_blank'>Fünf-Seen-Wanderung</a> zu sehen."
+    },
+    {
+      "photos": [
+        {
+          "name": "019",
+          "alt": "Hüenerchopf",
+          "date": "2020-11-14T11:00:49.000+01:00",
+          "width": 1920,
+          "height": 689
+        },
+        {
+          "name": "020",
+          "alt": "Grasbuckel",
+          "date": "2020-11-14T11:01:43.000+01:00",
+          "width": 1920,
+          "height": 2880
+        }
+      ],
+      "videos": [],
+      "text": "Dann wurde der Grat plötzlich sehr breit und ich erreichte eine kleine Hochfläche. Nun sah ich auch das erste mal das Ziel meiner Wanderung, den Hüenerchopf.<br />Der Weg dorthin führte nun sehr lustig über unzählige Grasbuckel."
+    },
+    {
+      "photos": [
+        {
+          "name": "021",
+          "alt": "Aufstieg Hüenerchopf",
+          "date": "2020-11-14T11:12:32.000+01:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Nach der buckligen Hochfläche ging es auf dem Grat weiter und der Hüenerchopf kam nun rasch näher."
+    },
+    {
+      "photos": [
+        {
+          "name": "022",
+          "alt": "Bergweg Hüenerchopf",
+          "date": "2020-11-14T11:23:53.000+01:00",
+          "width": 1920,
+          "height": 1141
+        }
+      ],
+      "videos": [],
+      "text": "Das letzte Stück auf den Gipfel wurde der Weg dann deutlich steiler und war zum Teil sogar im Fels. Aber nicht wirklich gefährlich."
+    },
+    {
+      "photos": [
+        {
+          "name": "023",
+          "alt": "Panorama Hüenerchopf",
+          "date": "2020-11-14T11:33:23.000+01:00",
+          "width": 1920,
+          "height": 729
+        }
+      ],
+      "videos": [],
+      "text": "Den Gipfel des Hüenerchopf erreichte ich um 11:30 nach 3,5 Stunden und fast 1300m Aufstieg. Zeit für eine richtige Pause um den schönen Blick zur Alviergruppe und dem Rheintal zu genießen. Es wehte allerdings ein etwas frischer Wind, aber für Mitte November auf dieser Höhe war es trotzdem relativ warm."
+    },
+    {
+      "photos": [
+        {
+          "name": "024",
+          "alt": "Fernblick Hüenerchopf",
+          "date": "2020-11-14T11:38:16.000+01:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Tele über das Rheintal hinweg zu einigen mir bekannten Gipfeln (von links nach rechts): <a href='/alpine/malbun/20161016' target='_blank'>Naafkopf</a>, <a href='/alpine/praettigau/20180908' target='_blank'>Falknis</a>, <a href='/alpine/brandnertal/20150829' target='_blank'>Schesaplana</a>, <a href='/alpine/praettigau/20141012' target='_blank'>Sulzfluh</a> und <a href='/alpine/praettigau/20181110' target='_blank'>Vilan</a>."
+    },
+    {
+      "photos": [
+        {
+          "name": "025",
+          "alt": "Aussicht Hüenerchopf",
+          "date": "2020-11-14T11:42:01.000+01:00",
+          "width": 1920,
+          "height": 751
+        }
+      ],
+      "videos": [],
+      "text": "Und der Blick in die andere Richtung. Auf dem im Vordergrund sichtbaren Grat sollte mein Weg nun weitergehen, genauer auf den Madchopf (mitte/rechts). Links dahinter ist der über 3000m hohe Piz Sardona zu sehen und links hinten die 3200m hohe Ringelspitz.<br />Es gab eine schöne Fernsicht an diesem Tag. :)"
+    },
+    {
+      "photos": [
+        {
+          "name": "026",
+          "alt": "Gratwanderung Hüenerchopf Madchopf",
+          "date": "2020-11-14T11:45:26.000+01:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Nach der Pause musste ich zuerst knapp 100m vom Hüenerchopf absteigen und es ging diesen Grat auf recht schmalem Weg hinüber zum Madchopf."
+    },
+    {
+      "photos": [
+        {
+          "name": "027",
+          "alt": "Hüenerchopf",
+          "date": "2020-11-14T11:53:40.000+01:00",
+          "width": 1920,
+          "height": 1068
+        }
+      ],
+      "videos": [],
+      "text": "Nun erreichte ich auch den ersten Schnee des Tages, der sich aber in Grenzen hielt.<br />Hier der Blick zurück zum Hüenerchopf. Über den Grat rechts war ich hinaufgestiegen."
+    },
+    {
+      "photos": [
+        {
+          "name": "028",
+          "alt": "Gefrorener Tümpel",
+          "date": "2020-11-14T11:57:26.000+01:00",
+          "width": 1920,
+          "height": 1134
+        }
+      ],
+      "videos": [],
+      "text": "Vor dem Anstieg auf den 2230m hohen Madchopf noch ein kleiner zugefrorener Tümpel. Das zeigt, dass um diese Jahreszeit die Temperaturen in den Bergen nicht mehr wirklich ansteigen... auch wenn es gefühlt ordentlich warm war."
+    },
+    {
+      "photos": [
+        {
+          "name": "029",
+          "alt": "Madchopf",
+          "date": "2020-11-14T12:06:48.000+01:00",
+          "width": 1920,
+          "height": 2595
+        }
+      ],
+      "videos": [],
+      "text": "Hier der nicht all zu steile Aufstieg auf den Madchopf. Aber nach den ganzen Höhenmetern des Tages ging es bei mir nicht mehr sehr flott rauf. ;)"
+    },
+    {
+      "photos": [
+        {
+          "name": "030",
+          "alt": "Gipfel Madchopf",
+          "date": "2020-11-14T12:15:58.000+01:00",
+          "width": 1920,
+          "height": 734
+        }
+      ],
+      "videos": [],
+      "text": "Den Gipfel des Madchopf erreichte ich um 12:15. Damit hatte ich den höchsten Punkt der Wanderung erreicht. Außer einem kleinen Steinmännchen ist der Gipfel aber recht unscheinbar. Die Aussicht ist aber trotzdem schön dort."
+    },
+    {
+      "photos": [
+        {
+          "name": "031",
+          "alt": "Spitzmeilen",
+          "date": "2020-11-14T12:16:14.000+01:00",
+          "width": 1920,
+          "height": 1157
+        }
+      ],
+      "videos": [],
+      "text": "Tele zum 2500m hohen Spitzmeilen, der auch immer von <a href='/alpine/flumserberg/20150726' target='_blank'>Flumserberg</a> aus sichtbar ist."
+    },
+    {
+      "photos": [
+        {
+          "name": "032",
+          "alt": "Madchopf Wanderung",
+          "date": "2020-11-14T12:16:39.000+01:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Das letzte mal der Blick zurück zum Hüenerchopf."
+    },
+    {
+      "photos": [
+        {
+          "name": "033",
+          "alt": "Wannenchopf",
+          "date": "2020-11-14T12:28:19.000+01:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Und den Grat des Wannenchopf entlang zum Weisstannental und dahinter zum 2800m hohen Pizol."
+    },
+    {
+      "photos": [
+        {
+          "name": "034",
+          "alt": "Abstieg Madchopf",
+          "date": "2020-11-14T12:31:26.000+01:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Vom Madchopf ging ich nun erst mal noch den Grat weiter zur hier vor mir liegenden Lücke. Dabei wurde der Weg überraschend steil, aber er war noch ohne Hände gehbar."
+    },
+    {
+      "photos": [
+        {
+          "name": "035",
+          "alt": "Wegweiser Madchopf",
+          "date": "2020-11-14T12:36:05.000+01:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Gerne wäre ich auf diesen schönen Gratwegen weitergelaufen, aber mein Weg nach Weisstannen bog nun nach links ab... und ich hatte ja auch noch 1300m Abstieg vor mir."
+    },
+    {
+      "photos": [
+        {
+          "name": "036",
+          "alt": "Vorder Mad",
+          "date": "2020-11-14T12:38:17.000+01:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Direkt unterhalb des Grats kam ich an der kleinen Alp Vorder Mad vorbei."
+    },
+    {
+      "photos": [
+        {
+          "name": "037",
+          "alt": "Grasweg",
+          "date": "2020-11-14T12:43:54.000+01:00",
+          "width": 1920,
+          "height": 1280
+        },
+        {
+          "name": "038",
+          "alt": "Wanderweg Weisstannen",
+          "date": "2020-11-14T12:58:43.000+01:00",
+          "width": 1920,
+          "height": 755
+        }
+      ],
+      "videos": [],
+      "text": "Dann führt der einfache Grasweg recht zügig die Wiese bergab zur Alp Obergalans. Die mir entgegen kommenden Wanderer hatten ordentlich in der Sonne zu schwitzen."
+    },
+    {
+      "photos": [
+        {
+          "name": "039",
+          "alt": "Blauer Enzian",
+          "date": "2020-11-14T12:59:48.000+01:00",
+          "width": 1920,
+          "height": 2164
+        }
+      ],
+      "videos": [],
+      "text": "Letzter Blumengruß des Jahres auf 1900m Höhe."
+    },
+    {
+      "photos": [
+        {
+          "name": "040",
+          "alt": "Herbstwanderung",
+          "date": "2020-11-14T13:38:23.000+01:00",
+          "width": 1920,
+          "height": 876
+        },
+        {
+          "name": "041",
+          "alt": "Untergalans",
+          "date": "2020-11-14T13:52:37.000+01:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Nachdem ich die Alp Obergalans passiert hatte, ging es auf schönem Wanderweg weiter hinab bis zur 1500m hoch gelegenen Alp Untergalans. Langsam wurde der weitere Weg absehbar und ich machte um 13:45 noch einmal eine längere Pause in der Sonne."
+    },
+    {
+      "photos": [
+        {
+          "name": "042",
+          "alt": "Wanderung Weisstannental",
+          "date": "2020-11-14T14:02:11.000+01:00",
+          "width": 1920,
+          "height": 1192
+        }
+      ],
+      "videos": [],
+      "text": "Unterhalb von Untergalans wurde der Wanderweg neu angelegt (rechts herum um den Ringgenstein). Da er aber bei mir auf der Karte noch nicht eingezeichnet war, bin ich den alten Weg links herum gegangen. Dieser war leider von Kühen total zertreten und schlammig (das war wohl der Grund für die neue Wegführung). Der zweite Abschnitt des Wegs war aber recht schön und ging durch viele kleine Felsbrocken hindurch.<br />Hier unten im Schatten kann man nun übrigens das erste mal den Ort Weisstannen sehen. Ich hatte eigentlich auf etwas Sonne dort gehofft, aber um diese Jahreszeit liegt Weisstannen wohl den ganzen Tag im Schatten."
+    },
+    {
+      "photos": [
+        {
+          "name": "043",
+          "alt": "Kurve",
+          "date": "2020-11-14T14:13:56.000+01:00",
+          "width": 1920,
+          "height": 1280
+        },
+        {
+          "name": "044",
+          "alt": "Tor",
+          "date": "2020-11-14T14:14:16.000+01:00",
+          "width": 1920,
+          "height": 2347
+        }
+      ],
+      "videos": [],
+      "text": "Den richtigen offiziellen Wanderweg erreichte ich dann wieder an dieser Kurve und damit auch die Alp-Straße, die mich nun bis nach Weisstannen führte."
+    },
+    {
+      "photos": [
+        {
+          "name": "045",
+          "alt": "Gefrorene Straße",
+          "date": "2020-11-14T14:46:34.000+01:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Unten im Tal dann schattig und sehr kalt, so dass die dort verlaufene Straße sogar eisig und rutschig war. Ein krasser Gegenteil zu dem schönen Herbstwetter ein paar hundert Meter weiter oben."
+    },
+    {
+      "photos": [
+        {
+          "name": "046",
+          "alt": "Spazierweg Weisstannen",
+          "date": "2020-11-14T15:18:15.000+01:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Nachdem ich den kalten Ort Weisstannen durchquert hatte, ging es nun am Bach auf schönem Spazierweg zurück nach Schwendi. Etwas unerwartet (aber nicht unerwünscht) erreichten mich hier auch wieder ein paar Sonnenstrahlen."
+    },
+    {
+      "photos": [
+        {
+          "name": "047",
+          "alt": "Schwendi",
+          "date": "2020-11-14T15:22:02.000+01:00",
+          "width": 1920,
+          "height": 1113
+        },
+        {
+          "name": "048",
+          "alt": "Sonnenuntergang Weisstannental",
+          "date": "2020-11-14T15:28:01.000+01:00",
+          "width": 1920,
+          "height": 945
+        },
+        {
+          "name": "049",
+          "alt": "Spaziergang Weisstannental",
+          "date": "2020-11-14T15:28:43.000+01:00",
+          "width": 1920,
+          "height": 931
+        }
+      ],
+      "videos": [],
+      "text": "Die 100m flachen Abstieg von Weisstannen nach Schwendi waren schnell erledigt und ich erreichte mein Auto um 15:40 sogar noch in der Sonne."
+    }
+  ],
+  "outro": "Fazit: Der Gratweg über den Hüener- und Madchopf war sehr schön. Die Runde aus dem Weisstannental empfand ich aber nicht als optimal, insbesondere der etwas öde Aufstieg von Schwendi auf der Alp-Straße. Ich werde wohl eine weitere Tour über diese Gipfel von Vermol aus unternehmen, wo man längere Zeit in der schönen Landschaft oben unterwegs ist.<br />Die Wanderung war insgesamt nicht schwierig und dank der Südausrichtung auch spät (bzw. früh) im Jahr machbar. Es waren aber insgesamt rund 1600m Auf- und Abstieg auf 18km Länge. Ich habe dafür knapp 8 Stunden gebraucht."
+}

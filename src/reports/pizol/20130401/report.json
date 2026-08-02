@@ -1,160 +1,158 @@
-[
-  {
-    "destination": "pizol",
-    "date": "d20130401",
-    "track": false,
-    "shortTitle": "Pizol",
-    "title": "Pizol",
-    "intro": "Skitag 1 meines Frühlingsurlaubs.<br />\nAnkunft um 8:00 an der Talstation der Achter-Gondelbahn in Bad Ragaz. Tageskarte 53CHF + 5CHF Parkgebühren. Schon einiges los, kein Wunder an einem Ostermontag bei dem die Tage zuvor schlechtes Wetter war.",
-    "landmarks": [
-      {
-        "photos": [
-          {
-            "name": "zLCI8FV",
-            "width": 1024,
-            "height": 221
-          },
-          {
-            "name": "T5ZoXCn",
-            "width": 1024,
-            "height": 527
-          }
-        ],
-        "videos": [],
-        "text": "Erste Abfahrt zum Schwamm-Schlepplift. Planierter fester Pulverschnee mit 5cm Neuschnee-Auflage. Dazu schönster Sonnenschein, aber sehr frisch. 😃"
-      },
-      {
-        "photos": [
-          {
-            "name": "Vk4L4gU",
-            "width": 1024,
-            "height": 432
-          }
-        ],
-        "videos": [],
-        "text": "Blick von der Bergstation des Schlepplifts nach Pardiel (1600m), dem Zentrum  des Ragazers Teilgebiets. Die Pisten sahen sehr verlockend aus."
-      },
-      {
-        "photos": [
-          {
-            "name": "0z7COHA",
-            "width": 1024,
-            "height": 317
-          },
-          {
-            "name": "Rlh9vvC",
-            "width": 1024,
-            "height": 768
-          }
-        ],
-        "videos": [],
-        "text": "Nach der Auffahrt mit einer der ersten Sessel der Vierer-Sesselbahn auf den Laufböden (2200m), war dann aber doch der frische unverfahrene 25cm Neuschnee abseits der Piste nicht zu ignorieren. Obwohl es ziemlich verweht aussah, war es überall sehr leicht zu fahren."
-      },
-      {
-        "photos": [
-          {
-            "name": "XUV2B5s",
-            "width": 1024,
-            "height": 1365
-          }
-        ],
-        "videos": [],
-        "text": "Die Tiefschneeabfahrten ließen sich gut durch den Wald bis zum Schwamm Schlepplift verlängern, was dann immerhin an die 900 Höhenmeter sind."
-      },
-      {
-        "photos": [
-          {
-            "name": "JNKL5JD",
-            "width": 1024,
-            "height": 1365
-          }
-        ],
-        "videos": [],
-        "text": "An den Tagen zuvor muss es ziemlich gewindet haben."
-      },
-      {
-        "photos": [
-          {
-            "name": "AYPzYTn",
-            "width": 1024,
-            "height": 402
-          }
-        ],
-        "videos": [],
-        "text": "Nachdem der Neuschnee verbraucht war, ging es hinüber mit dem Tellerverbindungslift zur Wangser-Seite. Immer wieder beeindruckend das hochalpine Bergpanorama dort oben."
-      },
-      {
-        "photos": [
-          {
-            "name": "gh0aB1E",
-            "width": 1024,
-            "height": 648
-          }
-        ],
-        "videos": [],
-        "text": "Am schönen Gaffia-Hotel wurde ein Riesenslalom veranstaltet, der leider die Hälfte der ohnehin schon schmalen Piste blockierte. Zum Glück war er bereits um 12:00 zu Ende."
-      },
-      {
-        "photos": [
-          {
-            "name": "i1Pc6nT",
-            "width": 1024,
-            "height": 312
-          }
-        ],
-        "videos": [],
-        "text": "Schnee lag dort massig, wie man gut an den Hausdächern erkennen kann. Die Pisten waren nun zum Teil abgefahren und hart."
-      },
-      {
-        "photos": [
-          {
-            "name": "d6t5oat",
-            "width": 1024,
-            "height": 1024
-          }
-        ],
-        "videos": [],
-        "text": "360°x180° Panorama nach der Mittagspause auf der Terasse des Gaffia (gerade warm genug zum draußen sitzen)."
-      },
-      {
-        "photos": [
-          {
-            "name": "pMXDXKe",
-            "width": 1024,
-            "height": 1332
-          }
-        ],
-        "videos": [],
-        "text": "Sehr schöner Schnee auf der Route zum Täli."
-      },
-      {
-        "photos": [
-          {
-            "name": "Q1lN7uC",
-            "width": 1024,
-            "height": 1917
-          },
-          {
-            "name": "t4uYKu8",
-            "width": 1024,
-            "height": 1676
-          }
-        ],
-        "videos": [],
-        "text": "Nachmittags boten die Bäume ein schönes Bild. Die schattige Seite komplett gefroren und verschneit, die Sonnenseite komplett abgetaut. Da merkt man, wie intensiv die Sonne bereits ist."
-      },
-      {
-        "photos": [
-          {
-            "name": "tqeBqj9",
-            "width": 1024,
-            "height": 568
-          }
-        ],
-        "videos": [],
-        "text": "Gefahrene Strecke."
-      }
-    ],
-    "outro": "Um 16:45 wieder hinab mit der Gondel ins grüne Rheintal. Insgesamt eines der besten Skitage der Saison."
-  }
-]
+{
+  "destination": "pizol",
+  "date": "d20130401",
+  "track": false,
+  "shortTitle": "Pizol",
+  "title": "Pizol",
+  "intro": "Skitag 1 meines Frühlingsurlaubs.<br />\nAnkunft um 8:00 an der Talstation der Achter-Gondelbahn in Bad Ragaz. Tageskarte 53CHF + 5CHF Parkgebühren. Schon einiges los, kein Wunder an einem Ostermontag bei dem die Tage zuvor schlechtes Wetter war.",
+  "landmarks": [
+    {
+      "photos": [
+        {
+          "name": "zLCI8FV",
+          "width": 1024,
+          "height": 221
+        },
+        {
+          "name": "T5ZoXCn",
+          "width": 1024,
+          "height": 527
+        }
+      ],
+      "videos": [],
+      "text": "Erste Abfahrt zum Schwamm-Schlepplift. Planierter fester Pulverschnee mit 5cm Neuschnee-Auflage. Dazu schönster Sonnenschein, aber sehr frisch. 😃"
+    },
+    {
+      "photos": [
+        {
+          "name": "Vk4L4gU",
+          "width": 1024,
+          "height": 432
+        }
+      ],
+      "videos": [],
+      "text": "Blick von der Bergstation des Schlepplifts nach Pardiel (1600m), dem Zentrum  des Ragazers Teilgebiets. Die Pisten sahen sehr verlockend aus."
+    },
+    {
+      "photos": [
+        {
+          "name": "0z7COHA",
+          "width": 1024,
+          "height": 317
+        },
+        {
+          "name": "Rlh9vvC",
+          "width": 1024,
+          "height": 768
+        }
+      ],
+      "videos": [],
+      "text": "Nach der Auffahrt mit einer der ersten Sessel der Vierer-Sesselbahn auf den Laufböden (2200m), war dann aber doch der frische unverfahrene 25cm Neuschnee abseits der Piste nicht zu ignorieren. Obwohl es ziemlich verweht aussah, war es überall sehr leicht zu fahren."
+    },
+    {
+      "photos": [
+        {
+          "name": "XUV2B5s",
+          "width": 1024,
+          "height": 1365
+        }
+      ],
+      "videos": [],
+      "text": "Die Tiefschneeabfahrten ließen sich gut durch den Wald bis zum Schwamm Schlepplift verlängern, was dann immerhin an die 900 Höhenmeter sind."
+    },
+    {
+      "photos": [
+        {
+          "name": "JNKL5JD",
+          "width": 1024,
+          "height": 1365
+        }
+      ],
+      "videos": [],
+      "text": "An den Tagen zuvor muss es ziemlich gewindet haben."
+    },
+    {
+      "photos": [
+        {
+          "name": "AYPzYTn",
+          "width": 1024,
+          "height": 402
+        }
+      ],
+      "videos": [],
+      "text": "Nachdem der Neuschnee verbraucht war, ging es hinüber mit dem Tellerverbindungslift zur Wangser-Seite. Immer wieder beeindruckend das hochalpine Bergpanorama dort oben."
+    },
+    {
+      "photos": [
+        {
+          "name": "gh0aB1E",
+          "width": 1024,
+          "height": 648
+        }
+      ],
+      "videos": [],
+      "text": "Am schönen Gaffia-Hotel wurde ein Riesenslalom veranstaltet, der leider die Hälfte der ohnehin schon schmalen Piste blockierte. Zum Glück war er bereits um 12:00 zu Ende."
+    },
+    {
+      "photos": [
+        {
+          "name": "i1Pc6nT",
+          "width": 1024,
+          "height": 312
+        }
+      ],
+      "videos": [],
+      "text": "Schnee lag dort massig, wie man gut an den Hausdächern erkennen kann. Die Pisten waren nun zum Teil abgefahren und hart."
+    },
+    {
+      "photos": [
+        {
+          "name": "d6t5oat",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "videos": [],
+      "text": "360°x180° Panorama nach der Mittagspause auf der Terasse des Gaffia (gerade warm genug zum draußen sitzen)."
+    },
+    {
+      "photos": [
+        {
+          "name": "pMXDXKe",
+          "width": 1024,
+          "height": 1332
+        }
+      ],
+      "videos": [],
+      "text": "Sehr schöner Schnee auf der Route zum Täli."
+    },
+    {
+      "photos": [
+        {
+          "name": "Q1lN7uC",
+          "width": 1024,
+          "height": 1917
+        },
+        {
+          "name": "t4uYKu8",
+          "width": 1024,
+          "height": 1676
+        }
+      ],
+      "videos": [],
+      "text": "Nachmittags boten die Bäume ein schönes Bild. Die schattige Seite komplett gefroren und verschneit, die Sonnenseite komplett abgetaut. Da merkt man, wie intensiv die Sonne bereits ist."
+    },
+    {
+      "photos": [
+        {
+          "name": "tqeBqj9",
+          "width": 1024,
+          "height": 568
+        }
+      ],
+      "videos": [],
+      "text": "Gefahrene Strecke."
+    }
+  ],
+  "outro": "Um 16:45 wieder hinab mit der Gondel ins grüne Rheintal. Insgesamt eines der besten Skitage der Saison."
+}

@@ -378,12 +378,11 @@ const createVoiceOver = async () => {
   const reportFile = reportPath + '/report.json';
   const voiceOverPath = projectPath + '/public/voiceOver/' + destination + '/' + reportDate;
 
-  const reports = jsonfile.readFileSync(reportFile);
-  if (!reports) {
+  const report = jsonfile.readFileSync(reportFile);
+  if (!report) {
     console.log(reportFile, 'not found');
     return;
   }
-  const report = reports[0];
   fs.mkdirSync(voiceOverPath, { recursive: true });
 
   await generateAudio(report.intro, voiceOverPath + '/intro.ogg');

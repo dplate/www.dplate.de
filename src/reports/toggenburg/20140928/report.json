@@ -1,419 +1,417 @@
-[
-  {
-    "destination": "toggenburg",
-    "date": "d20140928",
-    "type": "hike",
-    "track": false,
-    "shortTitle": "Chäserrugg",
-    "title": "Gamsalp - Chäserrugg",
-    "intro": "Das schöne Septemberwetter musste genutzt werden, deshalb ging es am letzten Sonntag mit Kollegen auf eine Wanderung ins Toggenburg.<br />\nAnkunft nach einer Fahrt durch's neblige Rheintal um 9:15 auf dem großen Parkplatz in Wildhaus (1000m). Um die Bequemlichkeit zu unterstützen, ging es zuerst mit den beiden Sesselbahnen auf die Gamsalp (1800m). Diese Faulheit lassen sich die Bergbahnen mit 22CHF pro Person recht großzügig vergüten.",
-    "landmarks": [
-      {
-        "photos": [
-          {
-            "name": "001",
-            "date": "2014-09-28T10:07:28.000+02:00",
-            "width": 1920,
-            "height": 1014
-          }
-        ],
-        "videos": [],
-        "text": "Von der Gamsalp führt der Weg zuerst waagerecht zum Hang des Gamserrugg, den Schlepplift unterquerend, zum breiten Tal zwischen Gamserrugg und Chäserrugg."
-      },
-      {
-        "photos": [
-          {
-            "name": "002",
-            "date": "2014-09-28T10:29:43.000+02:00",
-            "width": 1920,
-            "height": 580
-          }
-        ],
-        "videos": [],
-        "text": "Noch im Schatten führt schmale Pfad unterhalb der Felswände des Gamserrugg bergauf. Der eigentliche Wanderweg geht oberhalb auf der Trasse der Skipiste... da ist aber dieser alte (aufgegebene) Weg um einiges interessanter. Bereits hier beeindruckt der Blick auf die weiten Karstflächen."
-      },
-      {
-        "photos": [
-          {
-            "name": "003",
-            "date": "2014-09-28T10:32:12.000+02:00",
-            "width": 1920,
-            "height": 998
-          }
-        ],
-        "videos": [],
-        "text": "Etwas weiter oben führt der Weg nun direkt durch das Tal hindurch. Sehr schön die erodierten Kalksteinschichtungen, die einen an eine kleine Version des Grand Canyons erinnern. Ebenfalls im Bild: Ein Höhlenforscher mit Leiter."
-      },
-      {
-        "photos": [
-          {
-            "name": "004",
-            "date": "2014-09-28T10:38:44.000+02:00",
-            "width": 1920,
-            "height": 772
-          }
-        ],
-        "videos": [],
-        "text": "Blick von praktisch der selben Stelle talabwärts. Auf der gegenüberliegenden Seite von Wildhaus liegt der Säntis."
-      },
-      {
-        "photos": [
-          {
-            "name": "006",
-            "date": "2014-09-28T10:52:08.000+02:00",
-            "width": 1620,
-            "height": 1080
-          },
-          {
-            "name": "008",
-            "date": "2014-09-28T11:07:19.000+02:00",
-            "width": 1892,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Dann erreicht man die kleine (im September bereits verlassene) Alp Plisen, die mitten im Tal liegt und zu einer ersten Pause einlädt. Im Hintergrund der Schlepplift des Gamserrugg und dahinter der Nebel im Rheintal."
-      },
-      {
-        "photos": [
-          {
-            "name": "011",
-            "date": "2014-09-28T11:12:29.000+02:00",
-            "width": 1901,
-            "height": 1080
-          },
-          {
-            "name": "012",
-            "date": "2014-09-28T11:14:50.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Anschließend geht es mitten durch die Kalksteinfelsplatten Richtung Sattel, dem Pass zwischen Gamserrugg und Chäserrugg.<br />\nDer nun ab Plisen wieder unterhaltene Weg ist ungefährlich, da die vielen zu überquerenden Felsspalten mit Geröll aufgefüllt wurden."
-      },
-      {
-        "photos": [
-          {
-            "name": "014",
-            "date": "2014-09-28T11:17:36.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Wer aber das Risiko mag, kann einfach ein paar Meter neben dem Weg balanzieren."
-      },
-      {
-        "photos": [
-          {
-            "name": "017",
-            "date": "2014-09-28T11:23:40.000+02:00",
-            "width": 1375,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Zum Schluss geht es dann etwas steiler hinauf zum Sattel..."
-      },
-      {
-        "photos": [
-          {
-            "name": "018",
-            "date": "2014-09-28T11:25:35.000+02:00",
-            "width": 599,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "... vorbei an ein paar tiefen Höhleneingängen."
-      },
-      {
-        "photos": [
-          {
-            "name": "019",
-            "date": "2014-09-28T11:26:39.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Nochmals der Blick zurück über das Tal zum Säntis. Links ist auch die Alp Plisen zu erkennen."
-      },
-      {
-        "photos": [
-          {
-            "name": "020",
-            "date": "2014-09-28T11:31:11.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Herbstblumen."
-      },
-      {
-        "photos": [
-          {
-            "name": "021",
-            "date": "2014-09-28T11:33:29.000+02:00",
-            "width": 1920,
-            "height": 1008
-          }
-        ],
-        "videos": [],
-        "text": "Sattel auf 1950m erreicht. Damit öffnet sich Blick nach Südosten zum Sichelkamm und anderen steilen Gipfeln. Außerdem erreicht man nun den Hauptweg vom Gamserrugg zum Chäserugg, sowie den geologischen Wanderweg, der rund um den Gamserrugg führt. Entsprechend war es nun Schluss mit der Einsamkeit."
-      },
-      {
-        "photos": [
-          {
-            "name": "022",
-            "date": "2014-09-28T11:53:51.000+02:00",
-            "width": 1920,
-            "height": 1073
-          },
-          {
-            "name": "023",
-            "date": "2014-09-28T12:02:07.000+02:00",
-            "width": 1920,
-            "height": 752
-          }
-        ],
-        "videos": [],
-        "text": "Weiter geht es über den flachen Grat zur Flanke des Chäserrugg. Landschaft und Aussicht ist nicht zu verachten."
-      },
-      {
-        "photos": [
-          {
-            "name": "025",
-            "date": "2014-09-28T12:10:28.000+02:00",
-            "width": 1920,
-            "height": 920
-          },
-          {
-            "name": "027",
-            "date": "2014-09-28T12:14:49.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Am Schluss geht es steil bergauf und der Blick geht noch mal zurück zum Gamserrugg. Die großen Steinbrocken beim Aufstieg erklären, warum es ordentlich geschneit haben muss, bevor die hier verlaufende Ostabfahrt vom Chäserrug öffnen kann."
-      },
-      {
-        "photos": [
-          {
-            "name": "028",
-            "date": "2014-09-28T12:20:52.000+02:00",
-            "width": 1806,
-            "height": 1080
-          },
-          {
-            "name": "028winter",
-            "width": 1280,
-            "height": 801
-          }
-        ],
-        "videos": [],
-        "text": "Fast oben. Herbst- und Wintervergleichsbild."
-      },
-      {
-        "photos": [
-          {
-            "name": "029",
-            "date": "2014-09-28T12:36:40.000+02:00",
-            "width": 1920,
-            "height": 745
-          }
-        ],
-        "videos": [],
-        "text": "Oben auf dem Gipfel des Chäserrugg (2250m) wird man zur Zeit von der (gigantischen) Baustelle des neuen Bergrestaurants begrüsst. Links wurde eine Holzhütte mit Terrasse als Ersatz aufgebaut."
-      },
-      {
-        "photos": [
-          {
-            "name": "030",
-            "date": "2014-09-28T12:40:54.000+02:00",
-            "width": 1920,
-            "height": 967
-          }
-        ],
-        "videos": [],
-        "text": "Dann geht es zur Kante Richtung Walensee. Dieser Tiefblick zum 1800m tieferliegendem Walenstadt ist sehr beeindruckend. Kein Wunder gibt es von der Gegend extreme Wingsuit-Videos..."
-      },
-      {
-        "photos": [
-          {
-            "name": "031",
-            "date": "2014-09-28T12:48:36.000+02:00",
-            "width": 1920,
-            "height": 842
-          }
-        ],
-        "videos": [],
-        "text": "Länger Pause auf der Abbruchkante."
-      },
-      {
-        "photos": [
-          {
-            "name": "032",
-            "date": "2014-09-28T12:49:36.000+02:00",
-            "width": 1920,
-            "height": 671
-          }
-        ],
-        "videos": [],
-        "text": "Die Sicht war an diesem Tag praktisch unbegrenzt. In der Mitte der Tödi (3600m), Ganz rechts der Glärnisch (2900m). Im Vordergrund das Skigebiet Flumserberg."
-      },
-      {
-        "photos": [
-          {
-            "name": "033",
-            "date": "2014-09-28T12:54:34.000+02:00",
-            "width": 1906,
-            "height": 1080
-          },
-          {
-            "name": "034",
-            "date": "2014-09-28T12:55:17.000+02:00",
-            "width": 1920,
-            "height": 990
-          },
-          {
-            "name": "035",
-            "date": "2014-09-28T12:56:10.000+02:00",
-            "width": 1920,
-            "height": 946
-          },
-          {
-            "name": "036",
-            "date": "2014-09-28T12:56:12.000+02:00",
-            "width": 1920,
-            "height": 961
-          }
-        ],
-        "videos": [],
-        "text": "Beschäftigung mit Alpendohlen, die ganz offensichtlich keine Höhenangst haben."
-      },
-      {
-        "photos": [
-          {
-            "name": "038",
-            "date": "2014-09-28T13:05:53.000+02:00",
-            "width": 1394,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Blick entlang der Churfirsten."
-      },
-      {
-        "photos": [
-          {
-            "name": "044",
-            "date": "2014-09-28T14:24:45.000+02:00",
-            "width": 1798,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Nach der Pause ging es etwas eintönig auf dem flachem Rücken des Chäserrugg hinab. Erst unterhalb der Talstation des Chäserrugg Schlepplift wird es wieder interessanter. Hier der Blick nach Westen zur Sellamatt."
-      },
-      {
-        "photos": [
-          {
-            "name": "046",
-            "date": "2014-09-28T14:30:36.000+02:00",
-            "width": 1094,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Die Tierwelt passt sich auch noch den warmen Temperaturen an... aber bald sollte sich dieser Hüpfer auf kältere Temperaturen und Schnee einstellen."
-      },
-      {
-        "photos": [
-          {
-            "name": "048",
-            "date": "2014-09-28T14:34:38.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Ankunft am Gasthaus Stöfeli, das zu einer weiteren Pause einlädt. Direkt vorbei an der Gaststätte führt die Seilbahn auf den Chäserrugg."
-      },
-      {
-        "photos": [
-          {
-            "name": "049",
-            "date": "2014-09-28T14:37:04.000+02:00",
-            "width": 896,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Hier ist sie gerade oberhalb der herbstlichen Landschaft unterwegs."
-      },
-      {
-        "photos": [
-          {
-            "name": "050",
-            "date": "2014-09-28T15:28:13.000+02:00",
-            "width": 1028,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Anschließend wird der Weg recht steil, aber einfach. Hier auf der Zufahrt zur schwarzen Piste vom Schlepplift Stöfeli aus."
-      },
-      {
-        "photos": [
-          {
-            "name": "052",
-            "date": "2014-09-28T16:43:50.000+02:00",
-            "width": 1920,
-            "height": 1064
-          },
-          {
-            "name": "053",
-            "date": "2014-09-28T16:47:06.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Nach etwas hin und her und einem Stück auf dem Klangweg erreicht man die Schwendiseen, einem moorigem Gebiet zwischen Iltios (unterhalb Chäserrugg) und Oberdorf (unterhalb Gamserrugg).<br />\nIm Hintergrund bildeten sich einige Wolken um das Säntismassiv, was sich auf den Fotos recht gut macht.<br />\nDer größere der beiden Seen bietet auch einen Badesteg und ein Floß. Trotz Warnung vor Blutegeln genoss ich das Schwimmen im herbstlich frischen Wasser."
-      },
-      {
-        "photos": [
-          {
-            "name": "054",
-            "date": "2014-09-28T17:38:15.000+02:00",
-            "width": 1740,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Danach geht es (zum größten Teil auf Asphalt) noch die fehlenden 200 Höhenmeter hinab zurück nach Wildhaus. Ankunft bei Sonnenuntergang um 18:15."
-      },
-      {
-        "photos": [
-          {
-            "name": "track1",
-            "width": 1280,
-            "height": 655
-          },
-          {
-            "name": "track2",
-            "width": 1280,
-            "height": 333
-          }
-        ],
-        "videos": [],
-        "text": "Gefahrene und gelaufene Route. Zu Fuss 700m Aufstieg und 1500m Abstieg auf 16km Strecke. 9:00h unterwegs (inkl. Bahn und Pausen)."
-      }
-    ],
-    "outro": "Fazit: Schöne Tour durch interessantes Gebiet mit toller Aussicht."
-  }
-]
+{
+  "destination": "toggenburg",
+  "date": "d20140928",
+  "type": "hike",
+  "track": false,
+  "shortTitle": "Chäserrugg",
+  "title": "Gamsalp - Chäserrugg",
+  "intro": "Das schöne Septemberwetter musste genutzt werden, deshalb ging es am letzten Sonntag mit Kollegen auf eine Wanderung ins Toggenburg.<br />\nAnkunft nach einer Fahrt durch's neblige Rheintal um 9:15 auf dem großen Parkplatz in Wildhaus (1000m). Um die Bequemlichkeit zu unterstützen, ging es zuerst mit den beiden Sesselbahnen auf die Gamsalp (1800m). Diese Faulheit lassen sich die Bergbahnen mit 22CHF pro Person recht großzügig vergüten.",
+  "landmarks": [
+    {
+      "photos": [
+        {
+          "name": "001",
+          "date": "2014-09-28T10:07:28.000+02:00",
+          "width": 1920,
+          "height": 1014
+        }
+      ],
+      "videos": [],
+      "text": "Von der Gamsalp führt der Weg zuerst waagerecht zum Hang des Gamserrugg, den Schlepplift unterquerend, zum breiten Tal zwischen Gamserrugg und Chäserrugg."
+    },
+    {
+      "photos": [
+        {
+          "name": "002",
+          "date": "2014-09-28T10:29:43.000+02:00",
+          "width": 1920,
+          "height": 580
+        }
+      ],
+      "videos": [],
+      "text": "Noch im Schatten führt schmale Pfad unterhalb der Felswände des Gamserrugg bergauf. Der eigentliche Wanderweg geht oberhalb auf der Trasse der Skipiste... da ist aber dieser alte (aufgegebene) Weg um einiges interessanter. Bereits hier beeindruckt der Blick auf die weiten Karstflächen."
+    },
+    {
+      "photos": [
+        {
+          "name": "003",
+          "date": "2014-09-28T10:32:12.000+02:00",
+          "width": 1920,
+          "height": 998
+        }
+      ],
+      "videos": [],
+      "text": "Etwas weiter oben führt der Weg nun direkt durch das Tal hindurch. Sehr schön die erodierten Kalksteinschichtungen, die einen an eine kleine Version des Grand Canyons erinnern. Ebenfalls im Bild: Ein Höhlenforscher mit Leiter."
+    },
+    {
+      "photos": [
+        {
+          "name": "004",
+          "date": "2014-09-28T10:38:44.000+02:00",
+          "width": 1920,
+          "height": 772
+        }
+      ],
+      "videos": [],
+      "text": "Blick von praktisch der selben Stelle talabwärts. Auf der gegenüberliegenden Seite von Wildhaus liegt der Säntis."
+    },
+    {
+      "photos": [
+        {
+          "name": "006",
+          "date": "2014-09-28T10:52:08.000+02:00",
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "name": "008",
+          "date": "2014-09-28T11:07:19.000+02:00",
+          "width": 1892,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Dann erreicht man die kleine (im September bereits verlassene) Alp Plisen, die mitten im Tal liegt und zu einer ersten Pause einlädt. Im Hintergrund der Schlepplift des Gamserrugg und dahinter der Nebel im Rheintal."
+    },
+    {
+      "photos": [
+        {
+          "name": "011",
+          "date": "2014-09-28T11:12:29.000+02:00",
+          "width": 1901,
+          "height": 1080
+        },
+        {
+          "name": "012",
+          "date": "2014-09-28T11:14:50.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Anschließend geht es mitten durch die Kalksteinfelsplatten Richtung Sattel, dem Pass zwischen Gamserrugg und Chäserrugg.<br />\nDer nun ab Plisen wieder unterhaltene Weg ist ungefährlich, da die vielen zu überquerenden Felsspalten mit Geröll aufgefüllt wurden."
+    },
+    {
+      "photos": [
+        {
+          "name": "014",
+          "date": "2014-09-28T11:17:36.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Wer aber das Risiko mag, kann einfach ein paar Meter neben dem Weg balanzieren."
+    },
+    {
+      "photos": [
+        {
+          "name": "017",
+          "date": "2014-09-28T11:23:40.000+02:00",
+          "width": 1375,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Zum Schluss geht es dann etwas steiler hinauf zum Sattel..."
+    },
+    {
+      "photos": [
+        {
+          "name": "018",
+          "date": "2014-09-28T11:25:35.000+02:00",
+          "width": 599,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "... vorbei an ein paar tiefen Höhleneingängen."
+    },
+    {
+      "photos": [
+        {
+          "name": "019",
+          "date": "2014-09-28T11:26:39.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Nochmals der Blick zurück über das Tal zum Säntis. Links ist auch die Alp Plisen zu erkennen."
+    },
+    {
+      "photos": [
+        {
+          "name": "020",
+          "date": "2014-09-28T11:31:11.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Herbstblumen."
+    },
+    {
+      "photos": [
+        {
+          "name": "021",
+          "date": "2014-09-28T11:33:29.000+02:00",
+          "width": 1920,
+          "height": 1008
+        }
+      ],
+      "videos": [],
+      "text": "Sattel auf 1950m erreicht. Damit öffnet sich Blick nach Südosten zum Sichelkamm und anderen steilen Gipfeln. Außerdem erreicht man nun den Hauptweg vom Gamserrugg zum Chäserugg, sowie den geologischen Wanderweg, der rund um den Gamserrugg führt. Entsprechend war es nun Schluss mit der Einsamkeit."
+    },
+    {
+      "photos": [
+        {
+          "name": "022",
+          "date": "2014-09-28T11:53:51.000+02:00",
+          "width": 1920,
+          "height": 1073
+        },
+        {
+          "name": "023",
+          "date": "2014-09-28T12:02:07.000+02:00",
+          "width": 1920,
+          "height": 752
+        }
+      ],
+      "videos": [],
+      "text": "Weiter geht es über den flachen Grat zur Flanke des Chäserrugg. Landschaft und Aussicht ist nicht zu verachten."
+    },
+    {
+      "photos": [
+        {
+          "name": "025",
+          "date": "2014-09-28T12:10:28.000+02:00",
+          "width": 1920,
+          "height": 920
+        },
+        {
+          "name": "027",
+          "date": "2014-09-28T12:14:49.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Am Schluss geht es steil bergauf und der Blick geht noch mal zurück zum Gamserrugg. Die großen Steinbrocken beim Aufstieg erklären, warum es ordentlich geschneit haben muss, bevor die hier verlaufende Ostabfahrt vom Chäserrug öffnen kann."
+    },
+    {
+      "photos": [
+        {
+          "name": "028",
+          "date": "2014-09-28T12:20:52.000+02:00",
+          "width": 1806,
+          "height": 1080
+        },
+        {
+          "name": "028winter",
+          "width": 1280,
+          "height": 801
+        }
+      ],
+      "videos": [],
+      "text": "Fast oben. Herbst- und Wintervergleichsbild."
+    },
+    {
+      "photos": [
+        {
+          "name": "029",
+          "date": "2014-09-28T12:36:40.000+02:00",
+          "width": 1920,
+          "height": 745
+        }
+      ],
+      "videos": [],
+      "text": "Oben auf dem Gipfel des Chäserrugg (2250m) wird man zur Zeit von der (gigantischen) Baustelle des neuen Bergrestaurants begrüsst. Links wurde eine Holzhütte mit Terrasse als Ersatz aufgebaut."
+    },
+    {
+      "photos": [
+        {
+          "name": "030",
+          "date": "2014-09-28T12:40:54.000+02:00",
+          "width": 1920,
+          "height": 967
+        }
+      ],
+      "videos": [],
+      "text": "Dann geht es zur Kante Richtung Walensee. Dieser Tiefblick zum 1800m tieferliegendem Walenstadt ist sehr beeindruckend. Kein Wunder gibt es von der Gegend extreme Wingsuit-Videos..."
+    },
+    {
+      "photos": [
+        {
+          "name": "031",
+          "date": "2014-09-28T12:48:36.000+02:00",
+          "width": 1920,
+          "height": 842
+        }
+      ],
+      "videos": [],
+      "text": "Länger Pause auf der Abbruchkante."
+    },
+    {
+      "photos": [
+        {
+          "name": "032",
+          "date": "2014-09-28T12:49:36.000+02:00",
+          "width": 1920,
+          "height": 671
+        }
+      ],
+      "videos": [],
+      "text": "Die Sicht war an diesem Tag praktisch unbegrenzt. In der Mitte der Tödi (3600m), Ganz rechts der Glärnisch (2900m). Im Vordergrund das Skigebiet Flumserberg."
+    },
+    {
+      "photos": [
+        {
+          "name": "033",
+          "date": "2014-09-28T12:54:34.000+02:00",
+          "width": 1906,
+          "height": 1080
+        },
+        {
+          "name": "034",
+          "date": "2014-09-28T12:55:17.000+02:00",
+          "width": 1920,
+          "height": 990
+        },
+        {
+          "name": "035",
+          "date": "2014-09-28T12:56:10.000+02:00",
+          "width": 1920,
+          "height": 946
+        },
+        {
+          "name": "036",
+          "date": "2014-09-28T12:56:12.000+02:00",
+          "width": 1920,
+          "height": 961
+        }
+      ],
+      "videos": [],
+      "text": "Beschäftigung mit Alpendohlen, die ganz offensichtlich keine Höhenangst haben."
+    },
+    {
+      "photos": [
+        {
+          "name": "038",
+          "date": "2014-09-28T13:05:53.000+02:00",
+          "width": 1394,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Blick entlang der Churfirsten."
+    },
+    {
+      "photos": [
+        {
+          "name": "044",
+          "date": "2014-09-28T14:24:45.000+02:00",
+          "width": 1798,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Nach der Pause ging es etwas eintönig auf dem flachem Rücken des Chäserrugg hinab. Erst unterhalb der Talstation des Chäserrugg Schlepplift wird es wieder interessanter. Hier der Blick nach Westen zur Sellamatt."
+    },
+    {
+      "photos": [
+        {
+          "name": "046",
+          "date": "2014-09-28T14:30:36.000+02:00",
+          "width": 1094,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Die Tierwelt passt sich auch noch den warmen Temperaturen an... aber bald sollte sich dieser Hüpfer auf kältere Temperaturen und Schnee einstellen."
+    },
+    {
+      "photos": [
+        {
+          "name": "048",
+          "date": "2014-09-28T14:34:38.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Ankunft am Gasthaus Stöfeli, das zu einer weiteren Pause einlädt. Direkt vorbei an der Gaststätte führt die Seilbahn auf den Chäserrugg."
+    },
+    {
+      "photos": [
+        {
+          "name": "049",
+          "date": "2014-09-28T14:37:04.000+02:00",
+          "width": 896,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Hier ist sie gerade oberhalb der herbstlichen Landschaft unterwegs."
+    },
+    {
+      "photos": [
+        {
+          "name": "050",
+          "date": "2014-09-28T15:28:13.000+02:00",
+          "width": 1028,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Anschließend wird der Weg recht steil, aber einfach. Hier auf der Zufahrt zur schwarzen Piste vom Schlepplift Stöfeli aus."
+    },
+    {
+      "photos": [
+        {
+          "name": "052",
+          "date": "2014-09-28T16:43:50.000+02:00",
+          "width": 1920,
+          "height": 1064
+        },
+        {
+          "name": "053",
+          "date": "2014-09-28T16:47:06.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Nach etwas hin und her und einem Stück auf dem Klangweg erreicht man die Schwendiseen, einem moorigem Gebiet zwischen Iltios (unterhalb Chäserrugg) und Oberdorf (unterhalb Gamserrugg).<br />\nIm Hintergrund bildeten sich einige Wolken um das Säntismassiv, was sich auf den Fotos recht gut macht.<br />\nDer größere der beiden Seen bietet auch einen Badesteg und ein Floß. Trotz Warnung vor Blutegeln genoss ich das Schwimmen im herbstlich frischen Wasser."
+    },
+    {
+      "photos": [
+        {
+          "name": "054",
+          "date": "2014-09-28T17:38:15.000+02:00",
+          "width": 1740,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Danach geht es (zum größten Teil auf Asphalt) noch die fehlenden 200 Höhenmeter hinab zurück nach Wildhaus. Ankunft bei Sonnenuntergang um 18:15."
+    },
+    {
+      "photos": [
+        {
+          "name": "track1",
+          "width": 1280,
+          "height": 655
+        },
+        {
+          "name": "track2",
+          "width": 1280,
+          "height": 333
+        }
+      ],
+      "videos": [],
+      "text": "Gefahrene und gelaufene Route. Zu Fuss 700m Aufstieg und 1500m Abstieg auf 16km Strecke. 9:00h unterwegs (inkl. Bahn und Pausen)."
+    }
+  ],
+  "outro": "Fazit: Schöne Tour durch interessantes Gebiet mit toller Aussicht."
+}

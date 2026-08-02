@@ -1,570 +1,568 @@
-[
-  {
-    "destination": "praettigau",
-    "date": "d20181110",
-    "datePublished": "2018-11-11T12:00:00.000+01:00",
-    "dateModified": "2026-02-01T14:00:00.000+01:00",
-    "type": "hike",
-    "track": true,
-    "detailMap": "swiss",
-    "shortTitle": "Vilan",
-    "title": "Seewis - Vilan",
-    "title3d": {
-      "offsetY": 2.5,
-      "fontSize": 7,
-      "width": 1920,
-      "height": 429
+{
+  "destination": "praettigau",
+  "date": "d20181110",
+  "datePublished": "2018-11-11T12:00:00.000+01:00",
+  "dateModified": "2026-02-01T14:00:00.000+01:00",
+  "type": "hike",
+  "track": true,
+  "detailMap": "swiss",
+  "shortTitle": "Vilan",
+  "title": "Seewis - Vilan",
+  "title3d": {
+    "offsetY": 2.5,
+    "fontSize": 7,
+    "width": 1920,
+    "height": 429
+  },
+  "movie": "Perty5KT0-s",
+  "intro": "Bei meiner <a href='/alpine/praettigau/20180908'>Wanderung auf den Falknis</a> im selben Jahr war mir der Vilan aufgefallen. Ein fast 2400m hoher Aussichtsberg genau an der Ecke, wo das Prättigau in das Rheintal mündet. Da es in der Höhe nun doch schon etwas Schnee gab, beschloss ich diesen Gipfel über den langgezogenen Südhang von Seewis aus zu besteigen.",
+  "landmarks": [
+    {
+      "photos": [
+        {
+          "name": "001",
+          "alt": "Parkplatz Seewis",
+          "date": "2018-11-10T08:25:15.000+01:00",
+          "width": 1920,
+          "height": 1284
+        }
+      ],
+      "text": "Geparkt habe ich mein Auto um 8:20 auf dem Parkplatz des noch arbeitslosen Skilifts in Seewis (Wegweiser zum Jugendhaus folgen). Die Parkgebühren für einen Tag betrugen dort 5CHF."
     },
-    "movie": "Perty5KT0-s",
-    "intro": "Bei meiner <a href='/alpine/praettigau/20180908'>Wanderung auf den Falknis</a> im selben Jahr war mir der Vilan aufgefallen. Ein fast 2400m hoher Aussichtsberg genau an der Ecke, wo das Prättigau in das Rheintal mündet. Da es in der Höhe nun doch schon etwas Schnee gab, beschloss ich diesen Gipfel über den langgezogenen Südhang von Seewis aus zu besteigen.",
-    "landmarks": [
-      {
-        "photos": [
-          {
-            "name": "001",
-            "alt": "Parkplatz Seewis",
-            "date": "2018-11-10T08:25:15.000+01:00",
-            "width": 1920,
-            "height": 1284
-          }
-        ],
-        "text": "Geparkt habe ich mein Auto um 8:20 auf dem Parkplatz des noch arbeitslosen Skilifts in Seewis (Wegweiser zum Jugendhaus folgen). Die Parkgebühren für einen Tag betrugen dort 5CHF."
-      },
-      {
-        "photos": [
-          {
-            "name": "002",
-            "alt": "Seewis",
-            "date": "2018-11-10T08:32:12.000+01:00",
-            "width": 1920,
-            "height": 877
-          }
-        ],
-        "text": "Es gibt viele verschiedene Wege von Seewis Richtung Vilan. Ich wählte für den Aufstieg den direktesten - beim Aufstieg immer rechts halten. Hier der Blick hinab auf Seewis und im Hintergrund die Straße nach Klosters und Davos."
-      },
-      {
-        "photos": [
-          {
-            "name": "003",
-            "alt": "Straße mit Herbstlaub",
-            "date": "2018-11-10T08:37:15.000+01:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "text": "Zu Beginn ging es auf dieser Fahrstraße hinauf, auf dem es auch etwas Anliegerverkehr gab. Dafür war das Wetter schon spitze und das Herbstlaub schön bunt."
-      },
-      {
-        "photos": [
-          {
-            "name": "004",
-            "alt": "Herbst in Alpen",
-            "date": "2018-11-10T08:42:52.000+01:00",
-            "width": 1920,
-            "height": 861
-          },
-          {
-            "name": "005",
-            "alt": "Holzhütte vor Wald",
-            "date": "2018-11-10T08:59:03.000+01:00",
-            "width": 1920,
-            "height": 766
-          }
-        ],
-        "text": "Dann verließ der Wanderweg aber die Straße und es ging über Weiden den Hang hoch."
-      },
-      {
-        "photos": [
-          {
-            "name": "006",
-            "alt": "Serpentine",
-            "date": "2018-11-10T09:17:24.000+01:00",
-            "width": 1920,
-            "height": 961
-          },
-          {
-            "name": "007",
-            "alt": "Wanderweg Vilan",
-            "date": "2018-11-10T09:19:26.000+01:00",
-            "width": 1920,
-            "height": 851
-          }
-        ],
-        "text": "Immer wieder kam ich beim Aufstieg wieder kurz auf Schotterstraßen, nur um deren Serpentinen dann wieder abzukürzen. Das Angenehme im Spätherbst ist, dass keine Kühe und Zäune auf den Weiden stören."
-      },
-      {
-        "photos": [
-          {
-            "name": "008",
-            "alt": "Schesaplana",
-            "date": "2018-11-10T09:27:06.000+01:00",
-            "width": 1920,
-            "height": 1105
-          },
-          {
-            "name": "009",
-            "alt": "Guora",
-            "date": "2018-11-10T09:33:42.000+01:00",
-            "width": 1920,
-            "height": 957
-          }
-        ],
-        "text": "Vorbei ging es auch an einigen Hütten. Im Hintergrund jeweils die fast 3000m hohe <a href='/alpine/brandnertal/20150829'>Schesaplana</a>, die ich schon mal von der Rückseite aus bestiegen habe."
-      },
-      {
-        "photos": [
-          {
-            "name": "010",
-            "alt": "Wandern Prättigau",
-            "date": "2018-11-10T09:35:25.000+01:00",
-            "width": 1920,
-            "height": 939
-          },
-          {
-            "name": "011",
-            "alt": "Haus mit Lärche",
-            "date": "2018-11-10T10:03:45.000+01:00",
-            "width": 1920,
-            "height": 913
-          }
-        ],
-        "text": "Noch vorbei an zwei weiteren Hütten und ich erreichte die Waldgrenze und das Ende des bewohnten Gebiets auf 1800m nach 800m Aufstieg. Inzwischen war ich gut 1,5h unterwegs."
-      },
-      {
-        "photos": [
-          {
-            "name": "012",
-            "alt": "Salarueljoch",
-            "date": "2018-11-10T10:04:39.000+01:00",
-            "width": 1920,
-            "height": 831
-          }
-        ],
-        "text": "Inzwischen befand ich mich auf einem Grat, der sich zum Vilan hochzieht. Deshalb konnte ich nun auch Richtung Norden schauen. Im Hintergrund ist das 2200m hohe Salarueljoch zu sehen, über das man in den österreichischen Nenzinger Himmel kommt."
-      },
-      {
-        "photos": [
-          {
-            "name": "013",
-            "alt": "Sadreinegg",
-            "date": "2018-11-10T10:12:32.000+01:00",
-            "width": 1920,
-            "height": 1196
-          },
-          {
-            "name": "014",
-            "alt": "Holzwegweiser",
-            "date": "2018-11-10T10:13:27.000+01:00",
-            "width": 1920,
-            "height": 751
-          }
-        ],
-        "text": "Ich erreichte nun als kleines Zwischenziel das 1910m hohe Sadreinegg, auf das ein alter Holzwegweiser hinweist."
-      },
-      {
-        "photos": [
-          {
-            "name": "015",
-            "alt": "Gratweg Vilan",
-            "date": "2018-11-10T10:14:26.000+01:00",
-            "width": 1920,
-            "height": 650
-          }
-        ],
-        "text": "Ab hier führte der Weg sehr schön auf dem Grat weiter hinauf zum Vilan, der hier erstmals zu sehen ist (der mittlere der drei Gipfel)."
-      },
-      {
-        "photos": [
-          {
-            "name": "016",
-            "alt": "Herbstwanderung",
-            "date": "2018-11-10T10:22:10.000+01:00",
-            "width": 1920,
-            "height": 1280
-          },
-          {
-            "name": "017",
-            "alt": "Bergtour Prättigau",
-            "date": "2018-11-10T10:36:18.000+01:00",
-            "width": 1920,
-            "height": 721
-          }
-        ],
-        "text": "Jeweils der selbe Blick zurück von unterschiedlichen Höhen. Links wieder die Schesaplana, rechts der Sassauna, auch mal ein Kandidat für eine Wanderung im Prättigau."
-      },
-      {
-        "photos": [
-          {
-            "name": "018",
-            "alt": "Hütten vor Rheintal",
-            "date": "2018-11-10T10:38:54.000+01:00",
-            "width": 1920,
-            "height": 779
-          }
-        ],
-        "text": "Mal der Blick in die andere Richtung an Hütten auf einer Nase vorbei zum Churer Rheintal. Der Berg rechts ist die Calanda. Von Süden schwappten die Wolken über den Alpenhauptkamm, denn es herrschte Föhn, der sich auch bei mir mit starkem Wind bemerkbar machte. Deshalb zog ich hier dann doch die Jacke über."
-      },
-      {
-        "photos": [
-          {
-            "name": "019",
-            "alt": "Aufstieg Vilan",
-            "date": "2018-11-10T10:49:02.000+01:00",
-            "width": 1920,
-            "height": 729
-          },
-          {
-            "name": "020",
-            "alt": "Schnee Nordhang",
-            "date": "2018-11-10T10:55:50.000+01:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "text": "Mit der Höhe kam nun auf den sonnenabgewandten Nordhängen Schnee hinzu. Da der Weg aber genau auf dem Grat ging, war ich davon nicht betroffen. Auf jeden Fall ein Weg, der mit gut gefallen hat."
-      },
-      {
-        "photos": [
-          {
-            "name": "021",
-            "alt": "Vilan im Herbst",
-            "date": "2018-11-10T11:02:41.000+01:00",
-            "width": 1920,
-            "height": 766
-          },
-          {
-            "name": "022",
-            "alt": "Wanderweg mit Schesaplana",
-            "date": "2018-11-10T11:05:42.000+01:00",
-            "width": 1920,
-            "height": 885
-          },
-          {
-            "name": "023",
-            "alt": "Hangweg zum Vilan",
-            "date": "2018-11-10T11:12:01.000+01:00",
-            "width": 1920,
-            "height": 650
-          }
-        ],
-        "text": "Die letzten 100 Höhenmeter geht es entlang eines kleinen Talkessels zum Gipfel. Alles harmlos und einfach zu gehen, nur der Boden war etwas schmierig."
-      },
-      {
-        "photos": [
-          {
-            "name": "024",
-            "alt": "Aussicht Vilan",
-            "date": "2018-11-10T11:20:14.000+01:00",
-            "width": 1920,
-            "height": 826
-          }
-        ],
-        "text": "Ankunft auf dem Gipfel des Vilans um 11:20, also nach 3h Aufstieg von Seewis aus. Auf der anderen Seite ist der Vilan deutlich steiler und fällt 1800m bis ins Rheintal ab, was ich hier eingefangen habe."
-      },
-      {
-        "photos": [
-          {
-            "name": "025",
-            "alt": "Vilan Prättigau",
-            "date": "2018-11-10T11:21:52.000+01:00",
-            "width": 1920,
-            "height": 560
-          }
-        ],
-        "text": "Blick in die andere Richtung ins Prättigau. Über den Grat in der Mitte kam ich hier hinauf."
-      },
-      {
-        "photos": [
-          {
-            "name": "026",
-            "alt": "Panorama Vilan",
-            "date": "2018-11-10T11:22:32.000+01:00",
-            "width": 1920,
-            "height": 704
-          }
-        ],
-        "text": "Fehlt noch die Aussicht nach Norden. Links der <a href='/alpine/praettigau/20180908'>Falknis</a> und rechts der <a href='/alpine/malbun/20161016'>Naafkopf</a>."
-      },
-      {
-        "photos": [
-          {
-            "name": "027",
-            "alt": "Wegweiser Vilan",
-            "date": "2018-11-10T11:23:16.000+01:00",
-            "width": 1920,
-            "height": 681
-          }
-        ],
-        "text": "Auf dem Gipfel gibt es kein Kreuz, sondern nur einen Wegweiser, eine schöne Bank und ein seltsames Metallgestell. Ob das zum Aufhängen von Rucksäcken gedacht ist?"
-      },
-      {
-        "photos": [
-          {
-            "name": "028",
-            "alt": "Aussichtsbank",
-            "date": "2018-11-10T11:24:18.000+01:00",
-            "width": 1920,
-            "height": 895
-          }
-        ],
-        "text": "Noch einmal der Blick das Rheintal nach Westen entlang."
-      },
-      {
-        "photos": [
-          {
-            "name": "029",
-            "alt": "Steiler Aufstieg Vilan",
-            "date": "2018-11-10T11:26:44.000+01:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "text": "Über diesen Grat führt der steile, blau-weiß markierte Aufstieg von der Älplibahn zum Vilan hinauf. Obwohl er nicht ganz schneefrei war, kamen von dort einige Wanderer an diesem Tag rauf. Der Normalaufstieg von der Älplibahn weiter rechts hätte aber auch deutlich mehr Schnee gehabt."
-      },
-      {
-        "photos": [
-          {
-            "name": "030",
-            "alt": "Maienfeld im Herbst",
-            "date": "2018-11-10T11:26:52.000+01:00",
-            "width": 1920,
-            "height": 650
-          }
-        ],
-        "text": "Tele hinab ins Rheintal zu den herbstlichen Weinbergen von Maienfeld."
-      },
-      {
-        "photos": [
-          {
-            "name": "031",
-            "alt": "Vilan Schesaplana",
-            "date": "2018-11-10T11:30:02.000+01:00",
-            "width": 1920,
-            "height": 879
-          }
-        ],
-        "text": "Und der Blick vom Vilan Richtung Schesaplana"
-      },
-      {
-        "photos": [
-          {
-            "name": "032",
-            "alt": "Vilan",
-            "date": "2018-11-10T11:30:18.000+01:00",
-            "width": 1920,
-            "height": 794
-          }
-        ],
-        "text": "Da es durch den starken und kalten Wind oben nicht all zu gemütlich für eine längere Pause war, machte ich mich bereits nach 10min wieder an den Abstieg. Hier der Blick zurück zum Gipfel des Vilans."
-      },
-      {
-        "photos": [
-          {
-            "name": "033",
-            "alt": "Weg in Grashang",
-            "date": "2018-11-10T11:31:17.000+01:00",
-            "width": 1920,
-            "height": 1259
-          }
-        ],
-        "text": "Auf der Südseite führt nur ein Weg auf den Vilan, deshalb ging es nun für mich die ersten 300 Höhenmeter den selben Weg zurück. Da dieser Abschnitt aber sehr schön ist, machte mir das nichts aus."
-      },
-      {
-        "photos": [
-          {
-            "name": "034",
-            "alt": "Schesaplana",
-            "date": "2018-11-10T11:38:18.000+01:00",
-            "width": 1920,
-            "height": 1419
-          }
-        ],
-        "text": "Tele hinüber zur Schesaplana."
-      },
-      {
-        "photos": [
-          {
-            "name": "035",
-            "alt": "Lawinenverbauung",
-            "date": "2018-11-10T11:48:41.000+01:00",
-            "width": 1920,
-            "height": 706
-          },
-          {
-            "name": "036",
-            "alt": "Frumaschan",
-            "date": "2018-11-10T12:07:14.000+01:00",
-            "width": 1920,
-            "height": 624
-          }
-        ],
-        "text": "Dann verließ ich aber meinen Hinweg und es ging vorbei an den bereits vorher aufgenommen Häuschen bei Frumaschan."
-      },
-      {
-        "photos": [
-          {
-            "name": "037",
-            "alt": "Prättigau Höhenweg",
-            "date": "2018-11-10T12:11:23.000+01:00",
-            "width": 1920,
-            "height": 932
-          },
-          {
-            "name": "038",
-            "alt": "Weg über Rheintal",
-            "date": "2018-11-10T12:13:10.000+01:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "text": "Anschließend querte ich den Hang auf sehr schönem Weg nach Westen, wo es dann für mich runter ging."
-      },
-      {
-        "photos": [
-          {
-            "name": "039",
-            "alt": "Gilieila",
-            "date": "2018-11-10T12:38:50.000+01:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "text": "Auf einer Bank machte ich nun eine längere Pause und blickte hinab zu den Häusern von Gilieila, die ich später unterhalb passieren würde."
-      },
-      {
-        "photos": [
-          {
-            "name": "040",
-            "alt": "Baum über Weg",
-            "date": "2018-11-10T12:40:34.000+01:00",
-            "width": 1920,
-            "height": 1435
-          },
-          {
-            "name": "041",
-            "alt": "Wanderweg",
-            "date": "2018-11-10T12:45:38.000+01:00",
-            "width": 1920,
-            "height": 1461
-          }
-        ],
-        "text": "Nach einem steilen Abstieg auf schmalem Weg kam ich nach der Unterquerung eines umgefallenen Baums nach Gügli."
-      },
-      {
-        "photos": [
-          {
-            "name": "042",
-            "alt": "Gügli",
-            "date": "2018-11-10T12:47:45.000+01:00",
-            "width": 1920,
-            "height": 804
-          },
-          {
-            "name": "043",
-            "alt": "Weiße Gesteinschicht",
-            "date": "2018-11-10T12:49:24.000+01:00",
-            "width": 1920,
-            "height": 1280
-          },
-          {
-            "name": "044",
-            "alt": "Wanderung Vilan",
-            "date": "2018-11-10T12:50:51.000+01:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "text": "Gügli ist ein zum Teil überwucherter Geröllsturz mit interessanten Gesteinsablagerungen. Der Weg ging dort unterhalb vorbei."
-      },
-      {
-        "photos": [
-          {
-            "name": "045",
-            "alt": "Wanderweg über Wiese",
-            "date": "2018-11-10T12:53:32.000+01:00",
-            "width": 1920,
-            "height": 1013
-          },
-          {
-            "name": "046",
-            "alt": "Wanderweg mit Bäumen",
-            "date": "2018-11-10T12:57:19.000+01:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "text": "Der Wanderweg ist hier sehr schön angelegt und geht über Wiesen und durch lichte Wälder angenehm flach hinunter. Es war sehr gut zu gehen und hatte mir gut gefallen."
-      },
-      {
-        "photos": [
-          {
-            "name": "047",
-            "alt": "Pricawalli",
-            "date": "2018-11-10T13:28:59.000+01:00",
-            "width": 1920,
-            "height": 910
-          },
-          {
-            "name": "048",
-            "alt": "Schrankzaun",
-            "date": "2018-11-10T13:31:23.000+01:00",
-            "width": 1920,
-            "height": 981
-          }
-        ],
-        "text": "Vorbei ging es an einer Alp, die ihr Weidegebiet durch einen fotogenen Schrankzaun eingezäunt hat... allerdings mit zusätzlich angebrachtem Elektrozaun. ;)"
-      },
-      {
-        "photos": [
-          {
-            "name": "049",
-            "alt": "Weg durch Herbstlaub",
-            "date": "2018-11-10T13:51:34.000+01:00",
-            "width": 1920,
-            "height": 1280
-          },
-          {
-            "name": "050",
-            "alt": "Berghütte im Sonnenschein",
-            "date": "2018-11-10T13:54:47.000+01:00",
-            "width": 1920,
-            "height": 694
-          }
-        ],
-        "text": "Nach der Querung des Matantobels ging es hinab nach Fulli und ich hatte meinen westlichsten Punkt erreicht. Ich hätte auch schon vorher wieder nach Seewis abbiegen können, entschied mich aber für diesen kleinen Umweg, um möglichst keinen doppelten Weg zu haben."
-      },
-      {
-        "photos": [
-          {
-            "name": "051",
-            "alt": "Spaziergang Seewis",
-            "date": "2018-11-10T14:13:43.000+01:00",
-            "width": 1920,
-            "height": 1209
-          },
-          {
-            "name": "052",
-            "alt": "Spazierweg mit Bänken",
-            "date": "2018-11-10T14:27:09.000+01:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "text": "Von Fulli aus ging es leider nur noch auf asphaltiertem Weg sanft die letzten 200 Höhenmeter nach Seewis zurück. So konnte ich aber zumindest auf Sandalen wechseln, was am Ende einer Wanderung auch angenehm ist."
-      },
-      {
-        "photos": [
-          {
-            "name": "053",
-            "alt": "Seewis im Prättigau",
-            "date": "2018-11-10T14:33:00.000+01:00",
-            "width": 1920,
-            "height": 753
-          }
-        ],
-        "text": "Um 14:30 erreichte ich dann die Häuser von Seewis und kurz danach auch meinen Parkplatz."
-      }
-    ],
-    "outro": "Fazit: Mitte November noch eine Wanderung auf fast 2400m ohne Schnee zu unternehmen ist nicht selbstverständlich. Das war hier auch nur möglich, da der Aufstieg von Seewis zum Vilan auf einem Südhang führt. Im Hochsommer wäre der Aufstieg sicher viel zu heiß, so aber war es perfekt. Der Weg ist nie gefährlich oder schwierig und die Wanderung ist auch nicht übermäßig lang. Wer will kann auch kürzere Varianten finden, meine hat mir aber gut gefallen. Wer die unteren straßenlastigen Abschnitte vermeiden will, kann sich auch eine Fahrgenehmigung im Tourismusbüro kaufen und weiter oben parken. Notwendig ist das aber nicht wirklich."
-  }
-]
+    {
+      "photos": [
+        {
+          "name": "002",
+          "alt": "Seewis",
+          "date": "2018-11-10T08:32:12.000+01:00",
+          "width": 1920,
+          "height": 877
+        }
+      ],
+      "text": "Es gibt viele verschiedene Wege von Seewis Richtung Vilan. Ich wählte für den Aufstieg den direktesten - beim Aufstieg immer rechts halten. Hier der Blick hinab auf Seewis und im Hintergrund die Straße nach Klosters und Davos."
+    },
+    {
+      "photos": [
+        {
+          "name": "003",
+          "alt": "Straße mit Herbstlaub",
+          "date": "2018-11-10T08:37:15.000+01:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "text": "Zu Beginn ging es auf dieser Fahrstraße hinauf, auf dem es auch etwas Anliegerverkehr gab. Dafür war das Wetter schon spitze und das Herbstlaub schön bunt."
+    },
+    {
+      "photos": [
+        {
+          "name": "004",
+          "alt": "Herbst in Alpen",
+          "date": "2018-11-10T08:42:52.000+01:00",
+          "width": 1920,
+          "height": 861
+        },
+        {
+          "name": "005",
+          "alt": "Holzhütte vor Wald",
+          "date": "2018-11-10T08:59:03.000+01:00",
+          "width": 1920,
+          "height": 766
+        }
+      ],
+      "text": "Dann verließ der Wanderweg aber die Straße und es ging über Weiden den Hang hoch."
+    },
+    {
+      "photos": [
+        {
+          "name": "006",
+          "alt": "Serpentine",
+          "date": "2018-11-10T09:17:24.000+01:00",
+          "width": 1920,
+          "height": 961
+        },
+        {
+          "name": "007",
+          "alt": "Wanderweg Vilan",
+          "date": "2018-11-10T09:19:26.000+01:00",
+          "width": 1920,
+          "height": 851
+        }
+      ],
+      "text": "Immer wieder kam ich beim Aufstieg wieder kurz auf Schotterstraßen, nur um deren Serpentinen dann wieder abzukürzen. Das Angenehme im Spätherbst ist, dass keine Kühe und Zäune auf den Weiden stören."
+    },
+    {
+      "photos": [
+        {
+          "name": "008",
+          "alt": "Schesaplana",
+          "date": "2018-11-10T09:27:06.000+01:00",
+          "width": 1920,
+          "height": 1105
+        },
+        {
+          "name": "009",
+          "alt": "Guora",
+          "date": "2018-11-10T09:33:42.000+01:00",
+          "width": 1920,
+          "height": 957
+        }
+      ],
+      "text": "Vorbei ging es auch an einigen Hütten. Im Hintergrund jeweils die fast 3000m hohe <a href='/alpine/brandnertal/20150829'>Schesaplana</a>, die ich schon mal von der Rückseite aus bestiegen habe."
+    },
+    {
+      "photos": [
+        {
+          "name": "010",
+          "alt": "Wandern Prättigau",
+          "date": "2018-11-10T09:35:25.000+01:00",
+          "width": 1920,
+          "height": 939
+        },
+        {
+          "name": "011",
+          "alt": "Haus mit Lärche",
+          "date": "2018-11-10T10:03:45.000+01:00",
+          "width": 1920,
+          "height": 913
+        }
+      ],
+      "text": "Noch vorbei an zwei weiteren Hütten und ich erreichte die Waldgrenze und das Ende des bewohnten Gebiets auf 1800m nach 800m Aufstieg. Inzwischen war ich gut 1,5h unterwegs."
+    },
+    {
+      "photos": [
+        {
+          "name": "012",
+          "alt": "Salarueljoch",
+          "date": "2018-11-10T10:04:39.000+01:00",
+          "width": 1920,
+          "height": 831
+        }
+      ],
+      "text": "Inzwischen befand ich mich auf einem Grat, der sich zum Vilan hochzieht. Deshalb konnte ich nun auch Richtung Norden schauen. Im Hintergrund ist das 2200m hohe Salarueljoch zu sehen, über das man in den österreichischen Nenzinger Himmel kommt."
+    },
+    {
+      "photos": [
+        {
+          "name": "013",
+          "alt": "Sadreinegg",
+          "date": "2018-11-10T10:12:32.000+01:00",
+          "width": 1920,
+          "height": 1196
+        },
+        {
+          "name": "014",
+          "alt": "Holzwegweiser",
+          "date": "2018-11-10T10:13:27.000+01:00",
+          "width": 1920,
+          "height": 751
+        }
+      ],
+      "text": "Ich erreichte nun als kleines Zwischenziel das 1910m hohe Sadreinegg, auf das ein alter Holzwegweiser hinweist."
+    },
+    {
+      "photos": [
+        {
+          "name": "015",
+          "alt": "Gratweg Vilan",
+          "date": "2018-11-10T10:14:26.000+01:00",
+          "width": 1920,
+          "height": 650
+        }
+      ],
+      "text": "Ab hier führte der Weg sehr schön auf dem Grat weiter hinauf zum Vilan, der hier erstmals zu sehen ist (der mittlere der drei Gipfel)."
+    },
+    {
+      "photos": [
+        {
+          "name": "016",
+          "alt": "Herbstwanderung",
+          "date": "2018-11-10T10:22:10.000+01:00",
+          "width": 1920,
+          "height": 1280
+        },
+        {
+          "name": "017",
+          "alt": "Bergtour Prättigau",
+          "date": "2018-11-10T10:36:18.000+01:00",
+          "width": 1920,
+          "height": 721
+        }
+      ],
+      "text": "Jeweils der selbe Blick zurück von unterschiedlichen Höhen. Links wieder die Schesaplana, rechts der Sassauna, auch mal ein Kandidat für eine Wanderung im Prättigau."
+    },
+    {
+      "photos": [
+        {
+          "name": "018",
+          "alt": "Hütten vor Rheintal",
+          "date": "2018-11-10T10:38:54.000+01:00",
+          "width": 1920,
+          "height": 779
+        }
+      ],
+      "text": "Mal der Blick in die andere Richtung an Hütten auf einer Nase vorbei zum Churer Rheintal. Der Berg rechts ist die Calanda. Von Süden schwappten die Wolken über den Alpenhauptkamm, denn es herrschte Föhn, der sich auch bei mir mit starkem Wind bemerkbar machte. Deshalb zog ich hier dann doch die Jacke über."
+    },
+    {
+      "photos": [
+        {
+          "name": "019",
+          "alt": "Aufstieg Vilan",
+          "date": "2018-11-10T10:49:02.000+01:00",
+          "width": 1920,
+          "height": 729
+        },
+        {
+          "name": "020",
+          "alt": "Schnee Nordhang",
+          "date": "2018-11-10T10:55:50.000+01:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "text": "Mit der Höhe kam nun auf den sonnenabgewandten Nordhängen Schnee hinzu. Da der Weg aber genau auf dem Grat ging, war ich davon nicht betroffen. Auf jeden Fall ein Weg, der mit gut gefallen hat."
+    },
+    {
+      "photos": [
+        {
+          "name": "021",
+          "alt": "Vilan im Herbst",
+          "date": "2018-11-10T11:02:41.000+01:00",
+          "width": 1920,
+          "height": 766
+        },
+        {
+          "name": "022",
+          "alt": "Wanderweg mit Schesaplana",
+          "date": "2018-11-10T11:05:42.000+01:00",
+          "width": 1920,
+          "height": 885
+        },
+        {
+          "name": "023",
+          "alt": "Hangweg zum Vilan",
+          "date": "2018-11-10T11:12:01.000+01:00",
+          "width": 1920,
+          "height": 650
+        }
+      ],
+      "text": "Die letzten 100 Höhenmeter geht es entlang eines kleinen Talkessels zum Gipfel. Alles harmlos und einfach zu gehen, nur der Boden war etwas schmierig."
+    },
+    {
+      "photos": [
+        {
+          "name": "024",
+          "alt": "Aussicht Vilan",
+          "date": "2018-11-10T11:20:14.000+01:00",
+          "width": 1920,
+          "height": 826
+        }
+      ],
+      "text": "Ankunft auf dem Gipfel des Vilans um 11:20, also nach 3h Aufstieg von Seewis aus. Auf der anderen Seite ist der Vilan deutlich steiler und fällt 1800m bis ins Rheintal ab, was ich hier eingefangen habe."
+    },
+    {
+      "photos": [
+        {
+          "name": "025",
+          "alt": "Vilan Prättigau",
+          "date": "2018-11-10T11:21:52.000+01:00",
+          "width": 1920,
+          "height": 560
+        }
+      ],
+      "text": "Blick in die andere Richtung ins Prättigau. Über den Grat in der Mitte kam ich hier hinauf."
+    },
+    {
+      "photos": [
+        {
+          "name": "026",
+          "alt": "Panorama Vilan",
+          "date": "2018-11-10T11:22:32.000+01:00",
+          "width": 1920,
+          "height": 704
+        }
+      ],
+      "text": "Fehlt noch die Aussicht nach Norden. Links der <a href='/alpine/praettigau/20180908'>Falknis</a> und rechts der <a href='/alpine/malbun/20161016'>Naafkopf</a>."
+    },
+    {
+      "photos": [
+        {
+          "name": "027",
+          "alt": "Wegweiser Vilan",
+          "date": "2018-11-10T11:23:16.000+01:00",
+          "width": 1920,
+          "height": 681
+        }
+      ],
+      "text": "Auf dem Gipfel gibt es kein Kreuz, sondern nur einen Wegweiser, eine schöne Bank und ein seltsames Metallgestell. Ob das zum Aufhängen von Rucksäcken gedacht ist?"
+    },
+    {
+      "photos": [
+        {
+          "name": "028",
+          "alt": "Aussichtsbank",
+          "date": "2018-11-10T11:24:18.000+01:00",
+          "width": 1920,
+          "height": 895
+        }
+      ],
+      "text": "Noch einmal der Blick das Rheintal nach Westen entlang."
+    },
+    {
+      "photos": [
+        {
+          "name": "029",
+          "alt": "Steiler Aufstieg Vilan",
+          "date": "2018-11-10T11:26:44.000+01:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "text": "Über diesen Grat führt der steile, blau-weiß markierte Aufstieg von der Älplibahn zum Vilan hinauf. Obwohl er nicht ganz schneefrei war, kamen von dort einige Wanderer an diesem Tag rauf. Der Normalaufstieg von der Älplibahn weiter rechts hätte aber auch deutlich mehr Schnee gehabt."
+    },
+    {
+      "photos": [
+        {
+          "name": "030",
+          "alt": "Maienfeld im Herbst",
+          "date": "2018-11-10T11:26:52.000+01:00",
+          "width": 1920,
+          "height": 650
+        }
+      ],
+      "text": "Tele hinab ins Rheintal zu den herbstlichen Weinbergen von Maienfeld."
+    },
+    {
+      "photos": [
+        {
+          "name": "031",
+          "alt": "Vilan Schesaplana",
+          "date": "2018-11-10T11:30:02.000+01:00",
+          "width": 1920,
+          "height": 879
+        }
+      ],
+      "text": "Und der Blick vom Vilan Richtung Schesaplana"
+    },
+    {
+      "photos": [
+        {
+          "name": "032",
+          "alt": "Vilan",
+          "date": "2018-11-10T11:30:18.000+01:00",
+          "width": 1920,
+          "height": 794
+        }
+      ],
+      "text": "Da es durch den starken und kalten Wind oben nicht all zu gemütlich für eine längere Pause war, machte ich mich bereits nach 10min wieder an den Abstieg. Hier der Blick zurück zum Gipfel des Vilans."
+    },
+    {
+      "photos": [
+        {
+          "name": "033",
+          "alt": "Weg in Grashang",
+          "date": "2018-11-10T11:31:17.000+01:00",
+          "width": 1920,
+          "height": 1259
+        }
+      ],
+      "text": "Auf der Südseite führt nur ein Weg auf den Vilan, deshalb ging es nun für mich die ersten 300 Höhenmeter den selben Weg zurück. Da dieser Abschnitt aber sehr schön ist, machte mir das nichts aus."
+    },
+    {
+      "photos": [
+        {
+          "name": "034",
+          "alt": "Schesaplana",
+          "date": "2018-11-10T11:38:18.000+01:00",
+          "width": 1920,
+          "height": 1419
+        }
+      ],
+      "text": "Tele hinüber zur Schesaplana."
+    },
+    {
+      "photos": [
+        {
+          "name": "035",
+          "alt": "Lawinenverbauung",
+          "date": "2018-11-10T11:48:41.000+01:00",
+          "width": 1920,
+          "height": 706
+        },
+        {
+          "name": "036",
+          "alt": "Frumaschan",
+          "date": "2018-11-10T12:07:14.000+01:00",
+          "width": 1920,
+          "height": 624
+        }
+      ],
+      "text": "Dann verließ ich aber meinen Hinweg und es ging vorbei an den bereits vorher aufgenommen Häuschen bei Frumaschan."
+    },
+    {
+      "photos": [
+        {
+          "name": "037",
+          "alt": "Prättigau Höhenweg",
+          "date": "2018-11-10T12:11:23.000+01:00",
+          "width": 1920,
+          "height": 932
+        },
+        {
+          "name": "038",
+          "alt": "Weg über Rheintal",
+          "date": "2018-11-10T12:13:10.000+01:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "text": "Anschließend querte ich den Hang auf sehr schönem Weg nach Westen, wo es dann für mich runter ging."
+    },
+    {
+      "photos": [
+        {
+          "name": "039",
+          "alt": "Gilieila",
+          "date": "2018-11-10T12:38:50.000+01:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "text": "Auf einer Bank machte ich nun eine längere Pause und blickte hinab zu den Häusern von Gilieila, die ich später unterhalb passieren würde."
+    },
+    {
+      "photos": [
+        {
+          "name": "040",
+          "alt": "Baum über Weg",
+          "date": "2018-11-10T12:40:34.000+01:00",
+          "width": 1920,
+          "height": 1435
+        },
+        {
+          "name": "041",
+          "alt": "Wanderweg",
+          "date": "2018-11-10T12:45:38.000+01:00",
+          "width": 1920,
+          "height": 1461
+        }
+      ],
+      "text": "Nach einem steilen Abstieg auf schmalem Weg kam ich nach der Unterquerung eines umgefallenen Baums nach Gügli."
+    },
+    {
+      "photos": [
+        {
+          "name": "042",
+          "alt": "Gügli",
+          "date": "2018-11-10T12:47:45.000+01:00",
+          "width": 1920,
+          "height": 804
+        },
+        {
+          "name": "043",
+          "alt": "Weiße Gesteinschicht",
+          "date": "2018-11-10T12:49:24.000+01:00",
+          "width": 1920,
+          "height": 1280
+        },
+        {
+          "name": "044",
+          "alt": "Wanderung Vilan",
+          "date": "2018-11-10T12:50:51.000+01:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "text": "Gügli ist ein zum Teil überwucherter Geröllsturz mit interessanten Gesteinsablagerungen. Der Weg ging dort unterhalb vorbei."
+    },
+    {
+      "photos": [
+        {
+          "name": "045",
+          "alt": "Wanderweg über Wiese",
+          "date": "2018-11-10T12:53:32.000+01:00",
+          "width": 1920,
+          "height": 1013
+        },
+        {
+          "name": "046",
+          "alt": "Wanderweg mit Bäumen",
+          "date": "2018-11-10T12:57:19.000+01:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "text": "Der Wanderweg ist hier sehr schön angelegt und geht über Wiesen und durch lichte Wälder angenehm flach hinunter. Es war sehr gut zu gehen und hatte mir gut gefallen."
+    },
+    {
+      "photos": [
+        {
+          "name": "047",
+          "alt": "Pricawalli",
+          "date": "2018-11-10T13:28:59.000+01:00",
+          "width": 1920,
+          "height": 910
+        },
+        {
+          "name": "048",
+          "alt": "Schrankzaun",
+          "date": "2018-11-10T13:31:23.000+01:00",
+          "width": 1920,
+          "height": 981
+        }
+      ],
+      "text": "Vorbei ging es an einer Alp, die ihr Weidegebiet durch einen fotogenen Schrankzaun eingezäunt hat... allerdings mit zusätzlich angebrachtem Elektrozaun. ;)"
+    },
+    {
+      "photos": [
+        {
+          "name": "049",
+          "alt": "Weg durch Herbstlaub",
+          "date": "2018-11-10T13:51:34.000+01:00",
+          "width": 1920,
+          "height": 1280
+        },
+        {
+          "name": "050",
+          "alt": "Berghütte im Sonnenschein",
+          "date": "2018-11-10T13:54:47.000+01:00",
+          "width": 1920,
+          "height": 694
+        }
+      ],
+      "text": "Nach der Querung des Matantobels ging es hinab nach Fulli und ich hatte meinen westlichsten Punkt erreicht. Ich hätte auch schon vorher wieder nach Seewis abbiegen können, entschied mich aber für diesen kleinen Umweg, um möglichst keinen doppelten Weg zu haben."
+    },
+    {
+      "photos": [
+        {
+          "name": "051",
+          "alt": "Spaziergang Seewis",
+          "date": "2018-11-10T14:13:43.000+01:00",
+          "width": 1920,
+          "height": 1209
+        },
+        {
+          "name": "052",
+          "alt": "Spazierweg mit Bänken",
+          "date": "2018-11-10T14:27:09.000+01:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "text": "Von Fulli aus ging es leider nur noch auf asphaltiertem Weg sanft die letzten 200 Höhenmeter nach Seewis zurück. So konnte ich aber zumindest auf Sandalen wechseln, was am Ende einer Wanderung auch angenehm ist."
+    },
+    {
+      "photos": [
+        {
+          "name": "053",
+          "alt": "Seewis im Prättigau",
+          "date": "2018-11-10T14:33:00.000+01:00",
+          "width": 1920,
+          "height": 753
+        }
+      ],
+      "text": "Um 14:30 erreichte ich dann die Häuser von Seewis und kurz danach auch meinen Parkplatz."
+    }
+  ],
+  "outro": "Fazit: Mitte November noch eine Wanderung auf fast 2400m ohne Schnee zu unternehmen ist nicht selbstverständlich. Das war hier auch nur möglich, da der Aufstieg von Seewis zum Vilan auf einem Südhang führt. Im Hochsommer wäre der Aufstieg sicher viel zu heiß, so aber war es perfekt. Der Weg ist nie gefährlich oder schwierig und die Wanderung ist auch nicht übermäßig lang. Wer will kann auch kürzere Varianten finden, meine hat mir aber gut gefallen. Wer die unteren straßenlastigen Abschnitte vermeiden will, kann sich auch eine Fahrgenehmigung im Tourismusbüro kaufen und weiter oben parken. Notwendig ist das aber nicht wirklich."
+}

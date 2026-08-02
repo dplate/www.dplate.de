@@ -83,7 +83,7 @@ const processLandmark = (landmark) => {
 const processReport = (destination, report) => {
   const file = './src/reports/' + destination + '/' + report + '/report.json';
   const json = jsonfile.readFileSync(file);
-  json[0].landmarks = json[0].landmarks.map(processLandmark);
+  json.landmarks = json.landmarks.map(processLandmark);
 
   jsonfile.writeFileSync(file, json, { spaces: 2, flag: 'w' });
 };

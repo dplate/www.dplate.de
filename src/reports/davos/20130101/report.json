@@ -1,331 +1,329 @@
-[
-  {
-    "destination": "davos",
-    "date": "d20130101",
-    "track": false,
-    "shortTitle": "Parsenn",
-    "title": "Davos Parsenn",
-    "intro": "Die leeren Pisten an Neujahr müssen genutzt werden, deshalb ging es sehr früh los nach Davos Parsenn. Ankunft in Klosters um 8:15, Parkplatz direkt an der Bahn tatsächlich schon zu 1/3 gefüllt, es gibt also noch mehr Verrückte.<br />\nTageskarte 66CHF + 9CHF Parkgebühren.",
-    "landmarks": [
-      {
-        "photos": [
-          {
-            "name": "1mDw8",
-            "width": 1024,
-            "height": 492
-          }
-        ],
-        "videos": [],
-        "text": "Ankunft auf dem Gotschnagrat um 8:45. Alle Bahnen und Pisten offen."
-      },
-      {
-        "photos": [
-          {
-            "name": "ACiQm",
-            "width": 1024,
-            "height": 527
-          }
-        ],
-        "videos": [],
-        "text": "Zuerst die schönen Pisten an der Zweier-Sesselbahn Scharzsee und Schlepplift Parsennmäder. Auf Grund der frühen Stunde und der leichten Bewölkung noch recht düster, aber die Pisten in super Zustand - Pulver und frisch präpariert."
-      },
-      {
-        "photos": [
-          {
-            "name": "U8rO9",
-            "width": 1024,
-            "height": 570
-          },
-          {
-            "name": "eFoZ4",
-            "width": 1024,
-            "height": 722
-          },
-          {
-            "name": "oCKxx",
-            "width": 1024,
-            "height": 700
-          }
-        ],
-        "videos": [],
-        "text": "Die ziemlich große Gotschnabahn von beiden Richtungen."
-      },
-      {
-        "photos": [
-          {
-            "name": "i7nGl",
-            "width": 1024,
-            "height": 689
-          }
-        ],
-        "videos": [],
-        "text": "Nach Abfahrt vom Gotschnagrat nach Schifer, Auffahrt mit der sehr langen Schiferbahn (Sechser-Gondelbahn): 5.4km in 20min."
-      },
-      {
-        "photos": [
-          {
-            "name": "5iSEb",
-            "width": 1024,
-            "height": 646
-          }
-        ],
-        "videos": [],
-        "text": "Blick aus der Bahn auf den Weissfluhgipfel (2844m)."
-      },
-      {
-        "photos": [
-          {
-            "name": "xa0Or",
-            "width": 1024,
-            "height": 285
-          },
-          {
-            "name": "Xz1xY",
-            "width": 1024,
-            "height": 1134
-          },
-          {
-            "name": "LPEJL",
-            "width": 1024,
-            "height": 626
-          }
-        ],
-        "videos": [],
-        "text": "Anschließend gleich weiter (wenn man die Ski schon abgeschnallt hat) mit der Seilbahn auf den Weissfluhgipfel. Dank Föhn sehr schönes Bergpanorama und dünner werdende Bewölkung."
-      },
-      {
-        "photos": [
-          {
-            "name": "u3wdP",
-            "width": 1024,
-            "height": 531
-          }
-        ],
-        "videos": [],
-        "text": "Auf der Piste vom Gipfel, nichts am Schnee auszusetzen."
-      },
-      {
-        "photos": [
-          {
-            "name": "eCay3",
-            "width": 1024,
-            "height": 492
-          }
-        ],
-        "videos": [],
-        "text": "Danach mit dem kurzen Verbindungs Schlepplift auf die Parsennfurgga, auf dem von der anderen Seite auch der Doppel-Schlepplift Furka ankommt."
-      },
-      {
-        "photos": [
-          {
-            "name": "gZEwe",
-            "width": 1024,
-            "height": 683
-          }
-        ],
-        "videos": [],
-        "text": "Linke Piste entlang des Furka-Schlepplift. An diesem Schlepplift sind eigentlich die besten Pisten (weil etwas steiler), um so dümmer, das hier noch keine schnellere Bahn ist."
-      },
-      {
-        "photos": [
-          {
-            "name": "Cpoyw",
-            "width": 1024,
-            "height": 620
-          }
-        ],
-        "videos": [],
-        "text": "Gleich weiter mit dem nächsten Schlepplift im Seetäli. Oben waren Steinböcke (oder Gämsen?) unterwegs, aber zu weit entfernt für mein Tele."
-      },
-      {
-        "photos": [
-          {
-            "name": "Qn2V4",
-            "width": 1024,
-            "height": 1027
-          },
-          {
-            "name": "972UX",
-            "width": 1024,
-            "height": 648
-          }
-        ],
-        "videos": [],
-        "text": "Sprung zur Rapid Sechser-Sesselbahn, bei der parallel auch die Parsennbahn von Davos fährt."
-      },
-      {
-        "photos": [
-          {
-            "name": "7lC6d",
-            "width": 1024,
-            "height": 880
-          }
-        ],
-        "videos": [],
-        "text": "Toilettenpause im Restaurant Höhenweg. Auch diese Hauptpiste noch nicht allzu voll."
-      },
-      {
-        "photos": [
-          {
-            "name": "0O7c0",
-            "width": 1024,
-            "height": 1386
-          }
-        ],
-        "videos": [],
-        "text": "Geschwindigkeitsmessstrecke. Angezeigt 93km/h, GPS sagt 95km/h. Hätte ich ehrlich gesagt nicht gedacht, dass diese Anlagen so genau messen."
-      },
-      {
-        "photos": [
-          {
-            "name": "Izyah",
-            "width": 1024,
-            "height": 706
-          }
-        ],
-        "videos": [],
-        "text": "Weiter zum Schlepplift im Hauptertäli, wie immer leer."
-      },
-      {
-        "photos": [
-          {
-            "name": "SIkFA",
-            "width": 1024,
-            "height": 707
-          }
-        ],
-        "videos": [],
-        "text": "Die alte Bergstation der Verbindungs-Seilbahn zur Schatzalp hat eine neue Bestimmung gefunden. Nur komisch, warum keine BMW- oder Audi-Werbung."
-      },
-      {
-        "photos": [
-          {
-            "name": "EQoaI",
-            "width": 1024,
-            "height": 612
-          },
-          {
-            "name": "xrXM2",
-            "width": 1024,
-            "height": 685
-          },
-          {
-            "name": "4ynE1",
-            "width": 1024,
-            "height": 652
-          }
-        ],
-        "videos": [],
-        "text": "Nochmal hinab nach Schifer. Diesmal die buckelige Hintenrumpiste: nur zum Teil präpariert, zum Teil steinig und hart."
-      },
-      {
-        "photos": [
-          {
-            "name": "Bkq6j",
-            "width": 1024,
-            "height": 603
-          },
-          {
-            "name": "2apAn",
-            "width": 1024,
-            "height": 520
-          }
-        ],
-        "videos": [],
-        "text": "Nochmal die beiden Schlepplifte Seetäli und Furka. Abstände der Bügel sind in Wirklichkeit etwas größer. 😉"
-      },
-      {
-        "photos": [
-          {
-            "name": "BB41o",
-            "width": 1024,
-            "height": 225
-          },
-          {
-            "name": "l4hWc",
-            "width": 1024,
-            "height": 262
-          }
-        ],
-        "videos": [],
-        "text": "Nach dem Mittagessen in der Parsennhütte nochmal Schifer, diesmal die Hauptpiste. Bis unten sehr guter Schnee."
-      },
-      {
-        "photos": [
-          {
-            "name": "n8u86",
-            "width": 1024,
-            "height": 598
-          }
-        ],
-        "videos": [],
-        "text": "Nachmittags auch nochmal mit der Rapid..."
-      },
-      {
-        "photos": [
-          {
-            "name": "Blroc",
-            "width": 1024,
-            "height": 1181
-          },
-          {
-            "name": "yjCUl",
-            "width": 1024,
-            "height": 572
-          }
-        ],
-        "videos": [],
-        "text": "... und dem Schlepplift Hauptertäli. Entgegen der Wettervorhersage blieb es ziemlich sonnig, aber es wurde laufend kälter: am Ende so -10°."
-      },
-      {
-        "photos": [
-          {
-            "name": "XscGB",
-            "width": 1024,
-            "height": 589
-          }
-        ],
-        "videos": [],
-        "text": "Das war auch im jetzt schattigen Meierhoftäli zu spüren. Dafür die Piste total leer."
-      },
-      {
-        "photos": [
-          {
-            "name": "M2TYF",
-            "width": 1024,
-            "height": 608
-          },
-          {
-            "name": "OK7m3",
-            "width": 1024,
-            "height": 739
-          },
-          {
-            "name": "JL7Ya",
-            "width": 1024,
-            "height": 760
-          }
-        ],
-        "videos": [],
-        "text": "Mit der vorletzten Gondel auf den Weissfluhgipfel, um die längste Abfahrt an diesem Tag zu machen: 1700 Höhenmeter auf 11km."
-      },
-      {
-        "photos": [
-          {
-            "name": "VZp9I",
-            "width": 1024,
-            "height": 524
-          },
-          {
-            "name": "JlDrf",
-            "width": 974,
-            "height": 338
-          }
-        ],
-        "videos": [],
-        "text": "Gefahrene Strecke."
-      }
-    ],
-    "outro": "Fazit: Sehr ergiebiger Abschluss meines 3-wöchigem Dezemberurlaub - Sonne, super Pisten und leer."
-  }
-]
+{
+  "destination": "davos",
+  "date": "d20130101",
+  "track": false,
+  "shortTitle": "Parsenn",
+  "title": "Davos Parsenn",
+  "intro": "Die leeren Pisten an Neujahr müssen genutzt werden, deshalb ging es sehr früh los nach Davos Parsenn. Ankunft in Klosters um 8:15, Parkplatz direkt an der Bahn tatsächlich schon zu 1/3 gefüllt, es gibt also noch mehr Verrückte.<br />\nTageskarte 66CHF + 9CHF Parkgebühren.",
+  "landmarks": [
+    {
+      "photos": [
+        {
+          "name": "1mDw8",
+          "width": 1024,
+          "height": 492
+        }
+      ],
+      "videos": [],
+      "text": "Ankunft auf dem Gotschnagrat um 8:45. Alle Bahnen und Pisten offen."
+    },
+    {
+      "photos": [
+        {
+          "name": "ACiQm",
+          "width": 1024,
+          "height": 527
+        }
+      ],
+      "videos": [],
+      "text": "Zuerst die schönen Pisten an der Zweier-Sesselbahn Scharzsee und Schlepplift Parsennmäder. Auf Grund der frühen Stunde und der leichten Bewölkung noch recht düster, aber die Pisten in super Zustand - Pulver und frisch präpariert."
+    },
+    {
+      "photos": [
+        {
+          "name": "U8rO9",
+          "width": 1024,
+          "height": 570
+        },
+        {
+          "name": "eFoZ4",
+          "width": 1024,
+          "height": 722
+        },
+        {
+          "name": "oCKxx",
+          "width": 1024,
+          "height": 700
+        }
+      ],
+      "videos": [],
+      "text": "Die ziemlich große Gotschnabahn von beiden Richtungen."
+    },
+    {
+      "photos": [
+        {
+          "name": "i7nGl",
+          "width": 1024,
+          "height": 689
+        }
+      ],
+      "videos": [],
+      "text": "Nach Abfahrt vom Gotschnagrat nach Schifer, Auffahrt mit der sehr langen Schiferbahn (Sechser-Gondelbahn): 5.4km in 20min."
+    },
+    {
+      "photos": [
+        {
+          "name": "5iSEb",
+          "width": 1024,
+          "height": 646
+        }
+      ],
+      "videos": [],
+      "text": "Blick aus der Bahn auf den Weissfluhgipfel (2844m)."
+    },
+    {
+      "photos": [
+        {
+          "name": "xa0Or",
+          "width": 1024,
+          "height": 285
+        },
+        {
+          "name": "Xz1xY",
+          "width": 1024,
+          "height": 1134
+        },
+        {
+          "name": "LPEJL",
+          "width": 1024,
+          "height": 626
+        }
+      ],
+      "videos": [],
+      "text": "Anschließend gleich weiter (wenn man die Ski schon abgeschnallt hat) mit der Seilbahn auf den Weissfluhgipfel. Dank Föhn sehr schönes Bergpanorama und dünner werdende Bewölkung."
+    },
+    {
+      "photos": [
+        {
+          "name": "u3wdP",
+          "width": 1024,
+          "height": 531
+        }
+      ],
+      "videos": [],
+      "text": "Auf der Piste vom Gipfel, nichts am Schnee auszusetzen."
+    },
+    {
+      "photos": [
+        {
+          "name": "eCay3",
+          "width": 1024,
+          "height": 492
+        }
+      ],
+      "videos": [],
+      "text": "Danach mit dem kurzen Verbindungs Schlepplift auf die Parsennfurgga, auf dem von der anderen Seite auch der Doppel-Schlepplift Furka ankommt."
+    },
+    {
+      "photos": [
+        {
+          "name": "gZEwe",
+          "width": 1024,
+          "height": 683
+        }
+      ],
+      "videos": [],
+      "text": "Linke Piste entlang des Furka-Schlepplift. An diesem Schlepplift sind eigentlich die besten Pisten (weil etwas steiler), um so dümmer, das hier noch keine schnellere Bahn ist."
+    },
+    {
+      "photos": [
+        {
+          "name": "Cpoyw",
+          "width": 1024,
+          "height": 620
+        }
+      ],
+      "videos": [],
+      "text": "Gleich weiter mit dem nächsten Schlepplift im Seetäli. Oben waren Steinböcke (oder Gämsen?) unterwegs, aber zu weit entfernt für mein Tele."
+    },
+    {
+      "photos": [
+        {
+          "name": "Qn2V4",
+          "width": 1024,
+          "height": 1027
+        },
+        {
+          "name": "972UX",
+          "width": 1024,
+          "height": 648
+        }
+      ],
+      "videos": [],
+      "text": "Sprung zur Rapid Sechser-Sesselbahn, bei der parallel auch die Parsennbahn von Davos fährt."
+    },
+    {
+      "photos": [
+        {
+          "name": "7lC6d",
+          "width": 1024,
+          "height": 880
+        }
+      ],
+      "videos": [],
+      "text": "Toilettenpause im Restaurant Höhenweg. Auch diese Hauptpiste noch nicht allzu voll."
+    },
+    {
+      "photos": [
+        {
+          "name": "0O7c0",
+          "width": 1024,
+          "height": 1386
+        }
+      ],
+      "videos": [],
+      "text": "Geschwindigkeitsmessstrecke. Angezeigt 93km/h, GPS sagt 95km/h. Hätte ich ehrlich gesagt nicht gedacht, dass diese Anlagen so genau messen."
+    },
+    {
+      "photos": [
+        {
+          "name": "Izyah",
+          "width": 1024,
+          "height": 706
+        }
+      ],
+      "videos": [],
+      "text": "Weiter zum Schlepplift im Hauptertäli, wie immer leer."
+    },
+    {
+      "photos": [
+        {
+          "name": "SIkFA",
+          "width": 1024,
+          "height": 707
+        }
+      ],
+      "videos": [],
+      "text": "Die alte Bergstation der Verbindungs-Seilbahn zur Schatzalp hat eine neue Bestimmung gefunden. Nur komisch, warum keine BMW- oder Audi-Werbung."
+    },
+    {
+      "photos": [
+        {
+          "name": "EQoaI",
+          "width": 1024,
+          "height": 612
+        },
+        {
+          "name": "xrXM2",
+          "width": 1024,
+          "height": 685
+        },
+        {
+          "name": "4ynE1",
+          "width": 1024,
+          "height": 652
+        }
+      ],
+      "videos": [],
+      "text": "Nochmal hinab nach Schifer. Diesmal die buckelige Hintenrumpiste: nur zum Teil präpariert, zum Teil steinig und hart."
+    },
+    {
+      "photos": [
+        {
+          "name": "Bkq6j",
+          "width": 1024,
+          "height": 603
+        },
+        {
+          "name": "2apAn",
+          "width": 1024,
+          "height": 520
+        }
+      ],
+      "videos": [],
+      "text": "Nochmal die beiden Schlepplifte Seetäli und Furka. Abstände der Bügel sind in Wirklichkeit etwas größer. 😉"
+    },
+    {
+      "photos": [
+        {
+          "name": "BB41o",
+          "width": 1024,
+          "height": 225
+        },
+        {
+          "name": "l4hWc",
+          "width": 1024,
+          "height": 262
+        }
+      ],
+      "videos": [],
+      "text": "Nach dem Mittagessen in der Parsennhütte nochmal Schifer, diesmal die Hauptpiste. Bis unten sehr guter Schnee."
+    },
+    {
+      "photos": [
+        {
+          "name": "n8u86",
+          "width": 1024,
+          "height": 598
+        }
+      ],
+      "videos": [],
+      "text": "Nachmittags auch nochmal mit der Rapid..."
+    },
+    {
+      "photos": [
+        {
+          "name": "Blroc",
+          "width": 1024,
+          "height": 1181
+        },
+        {
+          "name": "yjCUl",
+          "width": 1024,
+          "height": 572
+        }
+      ],
+      "videos": [],
+      "text": "... und dem Schlepplift Hauptertäli. Entgegen der Wettervorhersage blieb es ziemlich sonnig, aber es wurde laufend kälter: am Ende so -10°."
+    },
+    {
+      "photos": [
+        {
+          "name": "XscGB",
+          "width": 1024,
+          "height": 589
+        }
+      ],
+      "videos": [],
+      "text": "Das war auch im jetzt schattigen Meierhoftäli zu spüren. Dafür die Piste total leer."
+    },
+    {
+      "photos": [
+        {
+          "name": "M2TYF",
+          "width": 1024,
+          "height": 608
+        },
+        {
+          "name": "OK7m3",
+          "width": 1024,
+          "height": 739
+        },
+        {
+          "name": "JL7Ya",
+          "width": 1024,
+          "height": 760
+        }
+      ],
+      "videos": [],
+      "text": "Mit der vorletzten Gondel auf den Weissfluhgipfel, um die längste Abfahrt an diesem Tag zu machen: 1700 Höhenmeter auf 11km."
+    },
+    {
+      "photos": [
+        {
+          "name": "VZp9I",
+          "width": 1024,
+          "height": 524
+        },
+        {
+          "name": "JlDrf",
+          "width": 974,
+          "height": 338
+        }
+      ],
+      "videos": [],
+      "text": "Gefahrene Strecke."
+    }
+  ],
+  "outro": "Fazit: Sehr ergiebiger Abschluss meines 3-wöchigem Dezemberurlaub - Sonne, super Pisten und leer."
+}

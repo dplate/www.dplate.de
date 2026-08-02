@@ -1,491 +1,489 @@
-[
-  {
-    "destination": "damuels",
-    "date": "d20170209",
-    "track": true,
-    "detailMap": "austria",
-    "shortTitle": "Damüls Mellau",
-    "title": "Damüls Mellau",
-    "intro": "Die Wettervorhersagen für diesen Donnerstag war sehr sprunghaft. Mal waren 6h Sonne vorhergesagt, mal nur 1h.\n      Noch unschlüssig entschloß ich mich erst nach dem Studium der Webcams an diesem Tag nach Damüls zu\n      fahren (was nicht so einfach ist, wenn es um 7:00 noch dunkel ist).<br />\n      Fast noch pünktlich erreichte ich um 8:30 den riesigen Parkplatz in Mellau. Für einen Donnerstag war schon gut\n      was los, aber da ich meine Karte bereits gekauft hatte, konnte ich sofort in die Gondelbahn.",
-    "landmarks": [
-      {
-        "photos": [
-          {
-            "name": "001",
-            "alt": "Mellaubahn",
-            "date": "2017-02-09T08:46:29.000+01:00",
-            "width": 1679,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Während in Mellau noch trübes Nebelwetter herrschte, kam ich bereits kurz vor der Bergstation der Mellaubahn\n      aus dem Nebel heraus."
-      },
-      {
-        "photos": [
-          {
-            "name": "002",
-            "alt": "Skipiste Hohe Wacht",
-            "date": "2017-02-09T09:05:14.000+01:00",
-            "width": 1920,
-            "height": 948
-          }
-        ],
-        "videos": [],
-        "text": "Da Mellau am Morgen ziemlich schattig ist, bin ich gleich weiter mit der Gipfelbahn zu Abfahrt an der hohen\n      Wacht. Pisten waren für meine Geschmack etwas hart, aber da frisch präpariert trotzdem gut zu fahren."
-      },
-      {
-        "photos": [
-          {
-            "name": "003",
-            "alt": "Sesselbahn Elsenkopf",
-            "date": "2017-02-09T09:10:42.000+01:00",
-            "width": 1703,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Zuerst fuhr ich sämtliche Pistenvarianten in diesem Seitental ab. Die Piste an der Elsenkopfbahn war dabei\n      am schönsten."
-      },
-      {
-        "photos": [
-          {
-            "name": "005",
-            "alt": "Panorama Hohe Wacht",
-            "date": "2017-02-09T09:17:55.000+01:00",
-            "width": 1920,
-            "height": 612
-          },
-          {
-            "name": "004",
-            "alt": "Nebelmeer",
-            "date": "2017-02-09T09:17:45.000+01:00",
-            "width": 1626,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "An der Bergstation der hohen Wacht Bahn der Blick auf die Bergstation der Gipfelbahn und das weite Nebelmeer."
-      },
-      {
-        "photos": [
-          {
-            "name": "006",
-            "alt": "Sesselbahn Hohe Wacht",
-            "date": "2017-02-09T09:18:39.000+01:00",
-            "width": 1885,
-            "height": 1080
-          },
-          {
-            "name": "007",
-            "alt": "Skigebiet Mellau Damüls",
-            "date": "2017-02-09T09:18:52.000+01:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Der Nebel zog nun bereits ins Tal von Damüls, was nicht so häufig vor kommt. Im Vordergrund die Sesselbahn\n      Hohe Wacht."
-      },
-      {
-        "photos": [
-          {
-            "name": "008",
-            "alt": "Steilhang Sunnegg",
-            "date": "2017-02-09T09:31:27.000+01:00",
-            "width": 1920,
-            "height": 992
-          },
-          {
-            "name": "009",
-            "alt": "Sesselbahn Sunnegg",
-            "date": "2017-02-09T09:43:58.000+01:00",
-            "width": 1798,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Ich bin dann weiter zur relativ neuen Sunnegg Sesselbahn. Deren Pisten liegen nur am Morgen in der Sonne, so dass\n      man sie möglichst früh fahren sollte. Auch wird die steile und präparierte Route 2 immer sehr schnell abgefahren\n      und glatt, sie macht einfach am Morgen am meisten Spaß. So auch heute."
-      },
-      {
-        "photos": [
-          {
-            "name": "010",
-            "alt": "Skiroute Sunnegg Nord",
-            "date": "2017-02-09T09:45:30.000+01:00",
-            "width": 1920,
-            "height": 732
-          }
-        ],
-        "videos": [],
-        "text": "Ebenfalls schön war die wenig befahrene Route 3, die dazu auch noch recht einfach ist. Die Pistenbezeichnungen\n      in Damüls sind ohnehin sehr seltsam."
-      },
-      {
-        "photos": [
-          {
-            "name": "011",
-            "alt": "Winterlandschaft Damüls",
-            "date": "2017-02-09T09:57:31.000+01:00",
-            "width": 1920,
-            "height": 884
-          },
-          {
-            "name": "012",
-            "alt": "Skipiste Hohes Licht",
-            "date": "2017-02-09T09:58:53.000+01:00",
-            "width": 1651,
-            "height": 1080
-          },
-          {
-            "name": "013",
-            "alt": "Skipisten Damüls",
-            "date": "2017-02-09T10:01:48.000+01:00",
-            "width": 1644,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Weiter ging es nun zu alten 2er Sesselbahn \"Hohes Licht\", die voraussichtlich demnächst ersetzt wird. Die blauen\n      Pisten unterhalb dieser aussichtsreichen Bahn gehören zu den einfachsten des Skigebiets und sind dementsprechend\n      immer gut besucht."
-      },
-      {
-        "photos": [
-          {
-            "name": "014",
-            "alt": "Skifahrt über Abgrund",
-            "date": "2017-02-09T10:05:46.000+01:00",
-            "width": 1432,
-            "height": 1080
-          },
-          {
-            "name": "015",
-            "alt": "Abfahrt Hohes Licht Ragaz",
-            "date": "2017-02-09T10:08:35.000+01:00",
-            "width": 1920,
-            "height": 746
-          }
-        ],
-        "videos": [],
-        "text": "Ich fuhr nun weiter zur etwas abgelegen liegenden Ragaz Bahn. Dort hin führt nur eine Route, die aber ebenfalls\n      präpariert und ziemlich einfach ist."
-      },
-      {
-        "photos": [
-          {
-            "name": "016",
-            "alt": "Tiefschnee",
-            "date": "2017-02-09T10:11:53.000+01:00",
-            "width": 1920,
-            "height": 839
-          }
-        ],
-        "videos": [],
-        "text": "Tiefschnee neben der Ragaz Bahn. Schnee hatte es in Damüls überall genug, Untergrund kam auf den Pisten nicht raus."
-      },
-      {
-        "photos": [
-          {
-            "name": "017",
-            "alt": "Panorama Ragazer Blanken",
-            "date": "2017-02-09T10:29:12.000+01:00",
-            "width": 1920,
-            "height": 691
-          }
-        ],
-        "videos": [],
-        "text": "Panorama-Blick von der Bergstation der Ragaz Bahn Richtung Mellau. Die Pisten an dieser Bahn sind beide einfach\n      und auch etwas langweilig."
-      },
-      {
-        "photos": [
-          {
-            "name": "018",
-            "alt": "Fernblick Alpen",
-            "date": "2017-02-09T10:38:58.000+01:00",
-            "width": 1920,
-            "height": 527
-          },
-          {
-            "name": "019",
-            "alt": "Skiroute Sünserjoch",
-            "date": "2017-02-09T10:39:49.000+01:00",
-            "width": 1920,
-            "height": 859
-          }
-        ],
-        "videos": [],
-        "text": "Es lohnt sich aber trotzdem auf den Ragazer Blanken zu fahren, denn dann kann man die lange Hintenrum-Abfahrt 8\n      machen, die landschaftlich einfach schön ist."
-      },
-      {
-        "photos": [
-          {
-            "name": "020",
-            "alt": "Sünserjoch",
-            "date": "2017-02-09T10:42:25.000+01:00",
-            "width": 1920,
-            "height": 646
-          }
-        ],
-        "videos": [],
-        "text": "Blick von dieser Abfahrt zum ebenfalls nebelverhangenen Rheintal."
-      },
-      {
-        "photos": [
-          {
-            "name": "021",
-            "alt": "Skiroute 8 Ragazer Blanken",
-            "date": "2017-02-09T10:43:24.000+01:00",
-            "width": 1920,
-            "height": 947
-          }
-        ],
-        "videos": [],
-        "text": "Die Abfahrt ist meist sehr einfach, nur am Schluss wird es etwas enger und steiler - das sollte man aber in Kauf\n      nehmen."
-      },
-      {
-        "photos": [
-          {
-            "name": "022",
-            "alt": "Skipisten Damüls",
-            "date": "2017-02-09T10:46:39.000+01:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Blick auf die Skipisten von Damüls."
-      },
-      {
-        "photos": [
-          {
-            "name": "023",
-            "alt": "Oberdamüls Kirche",
-            "date": "2017-02-09T11:46:45.000+01:00",
-            "width": 1505,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Dann bin ich weiter nach Oberdamüls. Die Abfahrt vorbei an der Kirche muss man aber nicht unbedingt nehmen, denn\n      dann muss man zum Uga-Express über den Parkplatz stiefeln."
-      },
-      {
-        "photos": [
-          {
-            "name": "024",
-            "alt": "Sesselbahn Oberdamüls",
-            "date": "2017-02-09T11:53:19.000+01:00",
-            "width": 1920,
-            "height": 633
-          },
-          {
-            "name": "025",
-            "alt": "Restaurant Sunnegg",
-            "date": "2017-02-09T11:53:47.000+01:00",
-            "width": 1638,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Die Sesselbahn Oberdamüls führt vorbei an der kleinen, aber guten Gaststätte Sunnegg, in der ich meine\n      Mittagspause einlegte. Die Pisten hier haben mir am besten gefallen. Hoffentlich bleiben sie so gut, wenn diese\n      Bahn ebenfalls durch eine größere Anlage ersetzt wird."
-      },
-      {
-        "photos": [
-          {
-            "name": "026",
-            "alt": "Passstraße Furka",
-            "date": "2017-02-09T12:08:24.000+01:00",
-            "width": 1920,
-            "height": 992
-          }
-        ],
-        "videos": [],
-        "text": "Blick auf die Furkastraße. Der Furkapass hat aber Wintersperre. Der Nebel zog immer mehr hinauf."
-      },
-      {
-        "photos": [
-          {
-            "name": "027",
-            "alt": "Buckelpiste Damüls",
-            "date": "2017-02-09T12:30:06.000+01:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Um wieder zum Rest des Skigebiets zu kommen, habe ich diesmal die Buckelpiste 1a gewählt. War ganz nett zu fahren\n      und bietet einen beindruckenden Tiefblick."
-      },
-      {
-        "photos": [
-          {
-            "name": "029",
-            "alt": "Sesselbahn über Nebel",
-            "date": "2017-02-09T13:15:37.000+01:00",
-            "width": 1920,
-            "height": 925
-          }
-        ],
-        "videos": [],
-        "text": "Blick auf die Sesselbahn Ragaz mit Nebel."
-      },
-      {
-        "photos": [
-          {
-            "name": "028",
-            "alt": "Uga Bahn",
-            "date": "2017-02-09T13:05:55.000+01:00",
-            "width": 1920,
-            "height": 881
-          }
-        ],
-        "videos": [],
-        "text": "Ich war nun auf den Pisten der Uga-Bahn unterwegs, die allerdings im unteren Bereich bereits im Nebel lagen."
-      },
-      {
-        "photos": [
-          {
-            "name": "030",
-            "alt": "Uga Alp mit Mittagsspitze",
-            "date": "2017-02-09T13:18:33.000+01:00",
-            "width": 1920,
-            "height": 757
-          }
-        ],
-        "videos": [],
-        "text": "Oben dagegen noch strahlender Sonnenschein. Hier der Blick auf die Mittagsspitze rechts, darunter die große\n      Gaststätte Uga-Alp und daneben die 2er Sesselbahn Hohes Licht."
-      },
-      {
-        "photos": [
-          {
-            "name": "031",
-            "alt": "Rote Piste Hasenbühel",
-            "date": "2017-02-09T13:44:42.000+01:00",
-            "width": 1920,
-            "height": 785
-          }
-        ],
-        "videos": [],
-        "text": "Auf der roten 4 entlang der langen Hasenbühel Sesselbahn. Da leicht angesulzt war sie sehr schön zu fahren."
-      },
-      {
-        "photos": [
-          {
-            "name": "032",
-            "alt": "Panoramablick Damüls",
-            "date": "2017-02-09T14:05:16.000+01:00",
-            "width": 1920,
-            "height": 491
-          }
-        ],
-        "videos": [],
-        "text": "Da der Nebel immer mehr reinzog und anstieg, bin ich noch mal zur hohen Ragaz Bahn und genoß den Panoramablick."
-      },
-      {
-        "photos": [],
-        "videos": ["TcIRPNUWflU"],
-        "text": "Dabei konnte ich auch dieses Naturschauspiel verfolgen. Der Nebel floß vom Damüls-Tal in das Tal vom Mellenbach.\n      Das Video habe ich achtfach beschleunigt."
-      },
-      {
-        "photos": [
-          {
-            "name": "033",
-            "alt": "Nebelmeer Damüls",
-            "date": "2017-02-09T15:04:43.000+01:00",
-            "width": 1920,
-            "height": 808
-          }
-        ],
-        "videos": [],
-        "text": "Nun musste ich mich aber langsam auf den Rückweg nach Mellau machen. Hier wieder an der hohen Licht Bahn."
-      },
-      {
-        "photos": [
-          {
-            "name": "034",
-            "alt": "Bergstation Faschina",
-            "date": "2017-02-09T15:05:58.000+01:00",
-            "width": 1851,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Blick auf die Bergstation von Faschina, wo ich selbst noch nie Skifahren war."
-      },
-      {
-        "photos": [
-          {
-            "name": "035",
-            "alt": "Sessellift im Nebel",
-            "date": "2017-02-09T15:06:47.000+01:00",
-            "width": 1920,
-            "height": 872
-          }
-        ],
-        "videos": [],
-        "text": "Die Sesselbahn Hohes Licht an der Nebelgrenze."
-      },
-      {
-        "photos": [
-          {
-            "name": "036",
-            "alt": "Gipfelbahn Mellau",
-            "date": "2017-02-09T15:17:24.000+01:00",
-            "width": 1920,
-            "height": 894
-          }
-        ],
-        "videos": [],
-        "text": "Die Nebelgrenze war in Mellau deutlich tiefer, so dass man fast die ganze Abfahrt an der Gipfelbahn\n      nebelfrei fahren konnte. Leider war sie unten ziemlich glatt und steinig. :("
-      },
-      {
-        "photos": [
-          {
-            "name": "037",
-            "alt": "Nebelgrenze Winter",
-            "date": "2017-02-09T15:32:11.000+01:00",
-            "width": 1920,
-            "height": 968
-          }
-        ],
-        "videos": [],
-        "text": "Ebenfalls viel Untergrund kam auf den Pisten der Wildgunten Bahn raus."
-      },
-      {
-        "photos": [
-          {
-            "name": "038",
-            "alt": "Sesselbahn Suttis",
-            "date": "2017-02-09T15:38:49.000+01:00",
-            "width": 1920,
-            "height": 698
-          }
-        ],
-        "videos": [],
-        "text": "Dafür gabs schöne Nebelimpressionen zu bewundern, wie hier an der Bergstation der Suttis Bahn.\n      Die Piste dort war allerdings zum vergessen."
-      },
-      {
-        "photos": [
-          {
-            "name": "040",
-            "alt": "Gams über Nebelmeer",
-            "date": "2017-02-09T16:26:40.000+01:00",
-            "width": 1007,
-            "height": 584
-          }
-        ],
-        "videos": [],
-        "text": "Ich bin zum Abschluss noch mal mit der Gipfelbahn nach oben gefahren. Blick auf das Nebelmeer über Damüls mit\n      Gämse."
-      },
-      {
-        "photos": [
-          {
-            "name": "041",
-            "alt": "Nebelmeer",
-            "date": "2017-02-09T16:27:57.000+01:00",
-            "width": 1920,
-            "height": 666
-          }
-        ],
-        "videos": [],
-        "text": "Schöne Abendstimmmung bevor ich wieder in die Nebelsuppe eintauchen musste."
-      }
-    ],
-    "outro": "Fazit:<br />\n      Der Ausflug hat sich gelohnt. Werktags ist das Skigebiet nicht ganz so voll, die Pisten in Damüls waren alle\n      super zu fahren. Nur Mellau war entäuschend."
-  }
-]
+{
+  "destination": "damuels",
+  "date": "d20170209",
+  "track": true,
+  "detailMap": "austria",
+  "shortTitle": "Damüls Mellau",
+  "title": "Damüls Mellau",
+  "intro": "Die Wettervorhersagen für diesen Donnerstag war sehr sprunghaft. Mal waren 6h Sonne vorhergesagt, mal nur 1h.\n      Noch unschlüssig entschloß ich mich erst nach dem Studium der Webcams an diesem Tag nach Damüls zu\n      fahren (was nicht so einfach ist, wenn es um 7:00 noch dunkel ist).<br />\n      Fast noch pünktlich erreichte ich um 8:30 den riesigen Parkplatz in Mellau. Für einen Donnerstag war schon gut\n      was los, aber da ich meine Karte bereits gekauft hatte, konnte ich sofort in die Gondelbahn.",
+  "landmarks": [
+    {
+      "photos": [
+        {
+          "name": "001",
+          "alt": "Mellaubahn",
+          "date": "2017-02-09T08:46:29.000+01:00",
+          "width": 1679,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Während in Mellau noch trübes Nebelwetter herrschte, kam ich bereits kurz vor der Bergstation der Mellaubahn\n      aus dem Nebel heraus."
+    },
+    {
+      "photos": [
+        {
+          "name": "002",
+          "alt": "Skipiste Hohe Wacht",
+          "date": "2017-02-09T09:05:14.000+01:00",
+          "width": 1920,
+          "height": 948
+        }
+      ],
+      "videos": [],
+      "text": "Da Mellau am Morgen ziemlich schattig ist, bin ich gleich weiter mit der Gipfelbahn zu Abfahrt an der hohen\n      Wacht. Pisten waren für meine Geschmack etwas hart, aber da frisch präpariert trotzdem gut zu fahren."
+    },
+    {
+      "photos": [
+        {
+          "name": "003",
+          "alt": "Sesselbahn Elsenkopf",
+          "date": "2017-02-09T09:10:42.000+01:00",
+          "width": 1703,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Zuerst fuhr ich sämtliche Pistenvarianten in diesem Seitental ab. Die Piste an der Elsenkopfbahn war dabei\n      am schönsten."
+    },
+    {
+      "photos": [
+        {
+          "name": "005",
+          "alt": "Panorama Hohe Wacht",
+          "date": "2017-02-09T09:17:55.000+01:00",
+          "width": 1920,
+          "height": 612
+        },
+        {
+          "name": "004",
+          "alt": "Nebelmeer",
+          "date": "2017-02-09T09:17:45.000+01:00",
+          "width": 1626,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "An der Bergstation der hohen Wacht Bahn der Blick auf die Bergstation der Gipfelbahn und das weite Nebelmeer."
+    },
+    {
+      "photos": [
+        {
+          "name": "006",
+          "alt": "Sesselbahn Hohe Wacht",
+          "date": "2017-02-09T09:18:39.000+01:00",
+          "width": 1885,
+          "height": 1080
+        },
+        {
+          "name": "007",
+          "alt": "Skigebiet Mellau Damüls",
+          "date": "2017-02-09T09:18:52.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Der Nebel zog nun bereits ins Tal von Damüls, was nicht so häufig vor kommt. Im Vordergrund die Sesselbahn\n      Hohe Wacht."
+    },
+    {
+      "photos": [
+        {
+          "name": "008",
+          "alt": "Steilhang Sunnegg",
+          "date": "2017-02-09T09:31:27.000+01:00",
+          "width": 1920,
+          "height": 992
+        },
+        {
+          "name": "009",
+          "alt": "Sesselbahn Sunnegg",
+          "date": "2017-02-09T09:43:58.000+01:00",
+          "width": 1798,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Ich bin dann weiter zur relativ neuen Sunnegg Sesselbahn. Deren Pisten liegen nur am Morgen in der Sonne, so dass\n      man sie möglichst früh fahren sollte. Auch wird die steile und präparierte Route 2 immer sehr schnell abgefahren\n      und glatt, sie macht einfach am Morgen am meisten Spaß. So auch heute."
+    },
+    {
+      "photos": [
+        {
+          "name": "010",
+          "alt": "Skiroute Sunnegg Nord",
+          "date": "2017-02-09T09:45:30.000+01:00",
+          "width": 1920,
+          "height": 732
+        }
+      ],
+      "videos": [],
+      "text": "Ebenfalls schön war die wenig befahrene Route 3, die dazu auch noch recht einfach ist. Die Pistenbezeichnungen\n      in Damüls sind ohnehin sehr seltsam."
+    },
+    {
+      "photos": [
+        {
+          "name": "011",
+          "alt": "Winterlandschaft Damüls",
+          "date": "2017-02-09T09:57:31.000+01:00",
+          "width": 1920,
+          "height": 884
+        },
+        {
+          "name": "012",
+          "alt": "Skipiste Hohes Licht",
+          "date": "2017-02-09T09:58:53.000+01:00",
+          "width": 1651,
+          "height": 1080
+        },
+        {
+          "name": "013",
+          "alt": "Skipisten Damüls",
+          "date": "2017-02-09T10:01:48.000+01:00",
+          "width": 1644,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Weiter ging es nun zu alten 2er Sesselbahn \"Hohes Licht\", die voraussichtlich demnächst ersetzt wird. Die blauen\n      Pisten unterhalb dieser aussichtsreichen Bahn gehören zu den einfachsten des Skigebiets und sind dementsprechend\n      immer gut besucht."
+    },
+    {
+      "photos": [
+        {
+          "name": "014",
+          "alt": "Skifahrt über Abgrund",
+          "date": "2017-02-09T10:05:46.000+01:00",
+          "width": 1432,
+          "height": 1080
+        },
+        {
+          "name": "015",
+          "alt": "Abfahrt Hohes Licht Ragaz",
+          "date": "2017-02-09T10:08:35.000+01:00",
+          "width": 1920,
+          "height": 746
+        }
+      ],
+      "videos": [],
+      "text": "Ich fuhr nun weiter zur etwas abgelegen liegenden Ragaz Bahn. Dort hin führt nur eine Route, die aber ebenfalls\n      präpariert und ziemlich einfach ist."
+    },
+    {
+      "photos": [
+        {
+          "name": "016",
+          "alt": "Tiefschnee",
+          "date": "2017-02-09T10:11:53.000+01:00",
+          "width": 1920,
+          "height": 839
+        }
+      ],
+      "videos": [],
+      "text": "Tiefschnee neben der Ragaz Bahn. Schnee hatte es in Damüls überall genug, Untergrund kam auf den Pisten nicht raus."
+    },
+    {
+      "photos": [
+        {
+          "name": "017",
+          "alt": "Panorama Ragazer Blanken",
+          "date": "2017-02-09T10:29:12.000+01:00",
+          "width": 1920,
+          "height": 691
+        }
+      ],
+      "videos": [],
+      "text": "Panorama-Blick von der Bergstation der Ragaz Bahn Richtung Mellau. Die Pisten an dieser Bahn sind beide einfach\n      und auch etwas langweilig."
+    },
+    {
+      "photos": [
+        {
+          "name": "018",
+          "alt": "Fernblick Alpen",
+          "date": "2017-02-09T10:38:58.000+01:00",
+          "width": 1920,
+          "height": 527
+        },
+        {
+          "name": "019",
+          "alt": "Skiroute Sünserjoch",
+          "date": "2017-02-09T10:39:49.000+01:00",
+          "width": 1920,
+          "height": 859
+        }
+      ],
+      "videos": [],
+      "text": "Es lohnt sich aber trotzdem auf den Ragazer Blanken zu fahren, denn dann kann man die lange Hintenrum-Abfahrt 8\n      machen, die landschaftlich einfach schön ist."
+    },
+    {
+      "photos": [
+        {
+          "name": "020",
+          "alt": "Sünserjoch",
+          "date": "2017-02-09T10:42:25.000+01:00",
+          "width": 1920,
+          "height": 646
+        }
+      ],
+      "videos": [],
+      "text": "Blick von dieser Abfahrt zum ebenfalls nebelverhangenen Rheintal."
+    },
+    {
+      "photos": [
+        {
+          "name": "021",
+          "alt": "Skiroute 8 Ragazer Blanken",
+          "date": "2017-02-09T10:43:24.000+01:00",
+          "width": 1920,
+          "height": 947
+        }
+      ],
+      "videos": [],
+      "text": "Die Abfahrt ist meist sehr einfach, nur am Schluss wird es etwas enger und steiler - das sollte man aber in Kauf\n      nehmen."
+    },
+    {
+      "photos": [
+        {
+          "name": "022",
+          "alt": "Skipisten Damüls",
+          "date": "2017-02-09T10:46:39.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Blick auf die Skipisten von Damüls."
+    },
+    {
+      "photos": [
+        {
+          "name": "023",
+          "alt": "Oberdamüls Kirche",
+          "date": "2017-02-09T11:46:45.000+01:00",
+          "width": 1505,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Dann bin ich weiter nach Oberdamüls. Die Abfahrt vorbei an der Kirche muss man aber nicht unbedingt nehmen, denn\n      dann muss man zum Uga-Express über den Parkplatz stiefeln."
+    },
+    {
+      "photos": [
+        {
+          "name": "024",
+          "alt": "Sesselbahn Oberdamüls",
+          "date": "2017-02-09T11:53:19.000+01:00",
+          "width": 1920,
+          "height": 633
+        },
+        {
+          "name": "025",
+          "alt": "Restaurant Sunnegg",
+          "date": "2017-02-09T11:53:47.000+01:00",
+          "width": 1638,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Die Sesselbahn Oberdamüls führt vorbei an der kleinen, aber guten Gaststätte Sunnegg, in der ich meine\n      Mittagspause einlegte. Die Pisten hier haben mir am besten gefallen. Hoffentlich bleiben sie so gut, wenn diese\n      Bahn ebenfalls durch eine größere Anlage ersetzt wird."
+    },
+    {
+      "photos": [
+        {
+          "name": "026",
+          "alt": "Passstraße Furka",
+          "date": "2017-02-09T12:08:24.000+01:00",
+          "width": 1920,
+          "height": 992
+        }
+      ],
+      "videos": [],
+      "text": "Blick auf die Furkastraße. Der Furkapass hat aber Wintersperre. Der Nebel zog immer mehr hinauf."
+    },
+    {
+      "photos": [
+        {
+          "name": "027",
+          "alt": "Buckelpiste Damüls",
+          "date": "2017-02-09T12:30:06.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Um wieder zum Rest des Skigebiets zu kommen, habe ich diesmal die Buckelpiste 1a gewählt. War ganz nett zu fahren\n      und bietet einen beindruckenden Tiefblick."
+    },
+    {
+      "photos": [
+        {
+          "name": "029",
+          "alt": "Sesselbahn über Nebel",
+          "date": "2017-02-09T13:15:37.000+01:00",
+          "width": 1920,
+          "height": 925
+        }
+      ],
+      "videos": [],
+      "text": "Blick auf die Sesselbahn Ragaz mit Nebel."
+    },
+    {
+      "photos": [
+        {
+          "name": "028",
+          "alt": "Uga Bahn",
+          "date": "2017-02-09T13:05:55.000+01:00",
+          "width": 1920,
+          "height": 881
+        }
+      ],
+      "videos": [],
+      "text": "Ich war nun auf den Pisten der Uga-Bahn unterwegs, die allerdings im unteren Bereich bereits im Nebel lagen."
+    },
+    {
+      "photos": [
+        {
+          "name": "030",
+          "alt": "Uga Alp mit Mittagsspitze",
+          "date": "2017-02-09T13:18:33.000+01:00",
+          "width": 1920,
+          "height": 757
+        }
+      ],
+      "videos": [],
+      "text": "Oben dagegen noch strahlender Sonnenschein. Hier der Blick auf die Mittagsspitze rechts, darunter die große\n      Gaststätte Uga-Alp und daneben die 2er Sesselbahn Hohes Licht."
+    },
+    {
+      "photos": [
+        {
+          "name": "031",
+          "alt": "Rote Piste Hasenbühel",
+          "date": "2017-02-09T13:44:42.000+01:00",
+          "width": 1920,
+          "height": 785
+        }
+      ],
+      "videos": [],
+      "text": "Auf der roten 4 entlang der langen Hasenbühel Sesselbahn. Da leicht angesulzt war sie sehr schön zu fahren."
+    },
+    {
+      "photos": [
+        {
+          "name": "032",
+          "alt": "Panoramablick Damüls",
+          "date": "2017-02-09T14:05:16.000+01:00",
+          "width": 1920,
+          "height": 491
+        }
+      ],
+      "videos": [],
+      "text": "Da der Nebel immer mehr reinzog und anstieg, bin ich noch mal zur hohen Ragaz Bahn und genoß den Panoramablick."
+    },
+    {
+      "photos": [],
+      "videos": ["TcIRPNUWflU"],
+      "text": "Dabei konnte ich auch dieses Naturschauspiel verfolgen. Der Nebel floß vom Damüls-Tal in das Tal vom Mellenbach.\n      Das Video habe ich achtfach beschleunigt."
+    },
+    {
+      "photos": [
+        {
+          "name": "033",
+          "alt": "Nebelmeer Damüls",
+          "date": "2017-02-09T15:04:43.000+01:00",
+          "width": 1920,
+          "height": 808
+        }
+      ],
+      "videos": [],
+      "text": "Nun musste ich mich aber langsam auf den Rückweg nach Mellau machen. Hier wieder an der hohen Licht Bahn."
+    },
+    {
+      "photos": [
+        {
+          "name": "034",
+          "alt": "Bergstation Faschina",
+          "date": "2017-02-09T15:05:58.000+01:00",
+          "width": 1851,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Blick auf die Bergstation von Faschina, wo ich selbst noch nie Skifahren war."
+    },
+    {
+      "photos": [
+        {
+          "name": "035",
+          "alt": "Sessellift im Nebel",
+          "date": "2017-02-09T15:06:47.000+01:00",
+          "width": 1920,
+          "height": 872
+        }
+      ],
+      "videos": [],
+      "text": "Die Sesselbahn Hohes Licht an der Nebelgrenze."
+    },
+    {
+      "photos": [
+        {
+          "name": "036",
+          "alt": "Gipfelbahn Mellau",
+          "date": "2017-02-09T15:17:24.000+01:00",
+          "width": 1920,
+          "height": 894
+        }
+      ],
+      "videos": [],
+      "text": "Die Nebelgrenze war in Mellau deutlich tiefer, so dass man fast die ganze Abfahrt an der Gipfelbahn\n      nebelfrei fahren konnte. Leider war sie unten ziemlich glatt und steinig. :("
+    },
+    {
+      "photos": [
+        {
+          "name": "037",
+          "alt": "Nebelgrenze Winter",
+          "date": "2017-02-09T15:32:11.000+01:00",
+          "width": 1920,
+          "height": 968
+        }
+      ],
+      "videos": [],
+      "text": "Ebenfalls viel Untergrund kam auf den Pisten der Wildgunten Bahn raus."
+    },
+    {
+      "photos": [
+        {
+          "name": "038",
+          "alt": "Sesselbahn Suttis",
+          "date": "2017-02-09T15:38:49.000+01:00",
+          "width": 1920,
+          "height": 698
+        }
+      ],
+      "videos": [],
+      "text": "Dafür gabs schöne Nebelimpressionen zu bewundern, wie hier an der Bergstation der Suttis Bahn.\n      Die Piste dort war allerdings zum vergessen."
+    },
+    {
+      "photos": [
+        {
+          "name": "040",
+          "alt": "Gams über Nebelmeer",
+          "date": "2017-02-09T16:26:40.000+01:00",
+          "width": 1007,
+          "height": 584
+        }
+      ],
+      "videos": [],
+      "text": "Ich bin zum Abschluss noch mal mit der Gipfelbahn nach oben gefahren. Blick auf das Nebelmeer über Damüls mit\n      Gämse."
+    },
+    {
+      "photos": [
+        {
+          "name": "041",
+          "alt": "Nebelmeer",
+          "date": "2017-02-09T16:27:57.000+01:00",
+          "width": 1920,
+          "height": 666
+        }
+      ],
+      "videos": [],
+      "text": "Schöne Abendstimmmung bevor ich wieder in die Nebelsuppe eintauchen musste."
+    }
+  ],
+  "outro": "Fazit:<br />\n      Der Ausflug hat sich gelohnt. Werktags ist das Skigebiet nicht ganz so voll, die Pisten in Damüls waren alle\n      super zu fahren. Nur Mellau war entäuschend."
+}

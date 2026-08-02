@@ -1,614 +1,612 @@
-[
-  {
-    "destination": "toggenburg",
-    "date": "d20170603",
-    "type": "hike",
-    "track": true,
-    "detailMap": "swiss",
-    "shortTitle": "Speer",
-    "title": "Krummenau - Speer",
-    "title3d": {
-      "align": "left",
-      "offsetY": 1,
-      "fontSize": 10,
-      "width": 1920,
-      "height": 559
+{
+  "destination": "toggenburg",
+  "date": "d20170603",
+  "type": "hike",
+  "track": true,
+  "detailMap": "swiss",
+  "shortTitle": "Speer",
+  "title": "Krummenau - Speer",
+  "title3d": {
+    "align": "left",
+    "offsetY": 1,
+    "fontSize": 10,
+    "width": 1920,
+    "height": 559
+  },
+  "movie": "7tAywsdwVj4",
+  "intro": "Für die erste Wanderung der Saison 2017 entschied ich mich für den Speer. Da der Aufstieg von Süden her erfolgte,\n      kann man diese Wanderung trotz einer Höhe von fast 2000m schon recht früh im Jahr machen.<br />\n      Vor zwei Jahren hatte ich die <a href=\"/alpine/speer/20150606\">Wanderung auf den Speer von Amden</a> aus gemacht,\n      diesmal wählte ich als Startpunkt den Ort Krummenau im Toggenburg.<br />\n      Mein Auto stellte ich um 8:15 auf dem großen Parkplatz (gratis) ab und ging den kurzen Weg zur Talstation der\n      Sesselbahn Wolzenalp. Die Bergfahrt kostete 9 CHF und erfolgte pünktlich um 8:30.",
+  "landmarks": [
+    {
+      "photos": [
+        {
+          "name": "001",
+          "alt": "Sesselbahn Wolzenalp",
+          "date": "2017-06-03T08:37:34.000+02:00",
+          "width": 1920,
+          "height": 1280
+        },
+        {
+          "name": "002",
+          "alt": "Sesselbahn Krummenau",
+          "date": "2017-06-03T08:46:02.000+02:00",
+          "width": 1920,
+          "height": 714
+        }
+      ],
+      "videos": [],
+      "text": "Die Aussicht aus der gemütlich fahrenden Bahn, die vom 700m hohen Krummenau zum 1100m hohen Rietbach führt. Es war\n      bereits trotz der frühen Stunde ziemlich warm."
     },
-    "movie": "7tAywsdwVj4",
-    "intro": "Für die erste Wanderung der Saison 2017 entschied ich mich für den Speer. Da der Aufstieg von Süden her erfolgte,\n      kann man diese Wanderung trotz einer Höhe von fast 2000m schon recht früh im Jahr machen.<br />\n      Vor zwei Jahren hatte ich die <a href=\"/alpine/speer/20150606\">Wanderung auf den Speer von Amden</a> aus gemacht,\n      diesmal wählte ich als Startpunkt den Ort Krummenau im Toggenburg.<br />\n      Mein Auto stellte ich um 8:15 auf dem großen Parkplatz (gratis) ab und ging den kurzen Weg zur Talstation der\n      Sesselbahn Wolzenalp. Die Bergfahrt kostete 9 CHF und erfolgte pünktlich um 8:30.",
-    "landmarks": [
-      {
-        "photos": [
-          {
-            "name": "001",
-            "alt": "Sesselbahn Wolzenalp",
-            "date": "2017-06-03T08:37:34.000+02:00",
-            "width": 1920,
-            "height": 1280
-          },
-          {
-            "name": "002",
-            "alt": "Sesselbahn Krummenau",
-            "date": "2017-06-03T08:46:02.000+02:00",
-            "width": 1920,
-            "height": 714
-          }
-        ],
-        "videos": [],
-        "text": "Die Aussicht aus der gemütlich fahrenden Bahn, die vom 700m hohen Krummenau zum 1100m hohen Rietbach führt. Es war\n      bereits trotz der frühen Stunde ziemlich warm."
-      },
-      {
-        "photos": [
-          {
-            "name": "003",
-            "alt": "Rietbach",
-            "date": "2017-06-03T08:55:59.000+02:00",
-            "width": 1920,
-            "height": 944
-          }
-        ],
-        "videos": [],
-        "text": "Ankunft in Rietbach. Hier war auch schon das Ziel der Wanderung zu sehen, der 2000m hohe Speer. Der Aufstieg\n      erfolgte über den Grat, der hier links zu sehen ist."
-      },
-      {
-        "photos": [
-          {
-            "name": "004",
-            "alt": "Wolzenalp Moor",
-            "date": "2017-06-03T08:57:11.000+02:00",
-            "width": 1920,
-            "height": 1030
-          }
-        ],
-        "videos": [],
-        "text": "Zuerst ging es durch das blumenreiche Moor, das zwischen Rietbach und dem Restaurant Wolzenalp liegt."
-      },
-      {
-        "photos": [
-          {
-            "name": "005",
-            "alt": "Fahrweg Wolzenalp",
-            "date": "2017-06-03T09:10:26.000+02:00",
-            "width": 1920,
-            "height": 1210
-          }
-        ],
-        "videos": [],
-        "text": "Ab der Wolzenalp begann der Aufstieg auf den Grat. Zum Teil auf Fahrwegen, zum Teil über Wiesen."
-      },
-      {
-        "photos": [
-          {
-            "name": "006",
-            "alt": "Skilift Wolzenalp",
-            "date": "2017-06-03T09:17:09.000+02:00",
-            "width": 1920,
-            "height": 1127
-          }
-        ],
-        "videos": [],
-        "text": "Dabei folgte der Aufstieg immer grob der Trasse des Skilifts Wolzenalp."
-      },
-      {
-        "photos": [
-          {
-            "name": "007",
-            "alt": "Rietbach Moor",
-            "date": "2017-06-03T09:20:06.000+02:00",
-            "width": 1920,
-            "height": 974
-          }
-        ],
-        "videos": [],
-        "text": "Blick zurück während des anstrengenden Aufstiegs auf Rietbach und dem Moor."
-      },
-      {
-        "photos": [
-          {
-            "name": "008",
-            "alt": "Bergstation Skilift Wolzenalp",
-            "date": "2017-06-03T09:43:48.000+02:00",
-            "width": 1920,
-            "height": 1035
-          }
-        ],
-        "videos": [],
-        "text": "An der 1500m hohen Bergstation des Skilifts war der größte Aufstieg vorerst geschafft."
-      },
-      {
-        "photos": [
-          {
-            "name": "009",
-            "alt": "Bergwegmarkierung",
-            "date": "2017-06-03T09:44:48.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Der Weg war immer gut markiert und ist auch viel begangen, ich war aber noch völlig alleine unterwegs.\n      An diesem Fels ist das typische Nagelfluh-Gestein zu sehen - und der Speer ist der höchste Berg der Alpen aus\n      diesem, nicht sehr stabilen, Material."
-      },
-      {
-        "photos": [
-          {
-            "name": "010",
-            "alt": "Wanderweg vor Wald",
-            "date": "2017-06-03T09:53:23.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Angenehm führte der Weg jetzt entlang des Grats zum Teil auch durch Waldabschnitte."
-      },
-      {
-        "photos": [
-          {
-            "name": "011",
-            "alt": "Wanderweg Wolzenalp Speer",
-            "date": "2017-06-03T09:57:43.000+02:00",
-            "width": 1920,
-            "height": 814
-          }
-        ],
-        "videos": [],
-        "text": "Und hier war der schönste Abschnitt auf dem Grat. Es ist auch alles sehr harmlos."
-      },
-      {
-        "photos": [
-          {
-            "name": "012",
-            "alt": "Blick auf Ebnat-Kappel",
-            "date": "2017-06-03T10:04:15.000+02:00",
-            "width": 1920,
-            "height": 701
-          }
-        ],
-        "videos": [],
-        "text": "Der Blick hinab nach Norden. Links ist der Tanzboden und im Tal Ebnat-Kappel und Wattwil zu sehen."
-      },
-      {
-        "photos": [
-          {
-            "name": "013",
-            "alt": "Wanderweg zum Speer",
-            "date": "2017-06-03T10:26:51.000+02:00",
-            "width": 1920,
-            "height": 787
-          }
-        ],
-        "videos": [],
-        "text": "Da es praktisch keinen Aufstieg mehr gab, kam der Speer rasch näher. Links ist der Speermürli zu sehen, der\n      rechts umrundet wird, bevor dann der Speer von links bestiegen wird."
-      },
-      {
-        "photos": [
-          {
-            "name": "014",
-            "alt": "Alp Bütz",
-            "date": "2017-06-03T10:33:45.000+02:00",
-            "width": 1920,
-            "height": 685
-          }
-        ],
-        "videos": [],
-        "text": "Ankunft an der Alp Bütz, bzw. dem Bützalpsattel. Bis hier musste ich nach dem Aufstieg auf den Speer wieder\n      zurück.<br />\n      Bis zum Gipfel waren es ab hier noch eine Stunde und 15 Minuten."
-      },
-      {
-        "photos": [
-          {
-            "name": "015",
-            "alt": "Speer",
-            "date": "2017-06-03T10:36:54.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Ein Tele zum Speer. Von Rechts auf dem Grat führt auch ein Klettersteig hinauf... nichts für mich.<br />\n      Obwohl es erst 10:30 war, waren bereits andere Wanderer auf dem Gipfel zu sehen."
-      },
-      {
-        "photos": [
-          {
-            "name": "016",
-            "alt": "Leiterli",
-            "date": "2017-06-03T10:52:15.000+02:00",
-            "width": 1920,
-            "height": 848
-          }
-        ],
-        "videos": [],
-        "text": "Bei der Umrundung der Speers müssen zwei Felsgrate überwunden werden. Der erste wird über die sogenannte Leiterli\n      kurz und knackig mit Drahtseil erledigt."
-      },
-      {
-        "photos": [
-          {
-            "name": "017",
-            "alt": "Hangweg",
-            "date": "2017-06-03T10:53:34.000+02:00",
-            "width": 1920,
-            "height": 817
-          }
-        ],
-        "videos": [],
-        "text": "Anschließend führte mich der Weg quer über eine steile Wiese."
-      },
-      {
-        "photos": [
-          {
-            "name": "018",
-            "alt": "Säntis",
-            "date": "2017-06-03T11:09:19.000+02:00",
-            "width": 1920,
-            "height": 1142
-          }
-        ],
-        "videos": [],
-        "text": "Der Blick zurück. Im Hintergrund ist der Alpstein mit <a href=\"/alpine/alpstein/20160911\">Säntis</a> und\n      <a href=\"/alpine/alpstein/20150912\">Altmann</a> zu sehen."
-      },
-      {
-        "photos": [
-          {
-            "name": "019",
-            "alt": "Weg über Schneefeld",
-            "date": "2017-06-03T11:10:27.000+02:00",
-            "width": 1920,
-            "height": 691
-          }
-        ],
-        "videos": [],
-        "text": "Vor dem zweiten Felsgrat musste ich ein kleines Schneefeld überwinden. Da der Schnee aber schon recht weich\n      war, war es trotz der wenigen Spuren problemlos.<br />\n      Ab hier ging dann große Anstieg auf den Speer los."
-      },
-      {
-        "photos": [
-          {
-            "name": "020",
-            "alt": "Steile Wiese",
-            "date": "2017-06-03T11:13:30.000+02:00",
-            "width": 1920,
-            "height": 893
-          }
-        ],
-        "videos": [],
-        "text": "Während dem Aufstieg fiel der Blick zurück auf die gequerte steile Wiese."
-      },
-      {
-        "photos": [
-          {
-            "name": "021",
-            "alt": "Wanderweg mit Schneefeld",
-            "date": "2017-06-03T11:26:21.000+02:00",
-            "width": 1920,
-            "height": 885
-          },
-          {
-            "name": "022",
-            "alt": "Altschnee",
-            "date": "2017-06-03T11:29:56.000+02:00",
-            "width": 1920,
-            "height": 1029
-          }
-        ],
-        "videos": [],
-        "text": "Nach dem Felsgrat wurde ich erst mal von einem weiterem großen Schneefeld begrüßt, der Weg ging aber größtenteils\n      rechts davon vorbei.<br />\n      Nach dem Schneefeld erreichte ich den mehr begangenen Hauptweg von Amden auf den Speer."
-      },
-      {
-        "photos": [
-          {
-            "name": "023",
-            "alt": "Geologie des Speers",
-            "date": "2017-06-03T11:32:47.000+02:00",
-            "width": 1920,
-            "height": 1248
-          }
-        ],
-        "videos": [],
-        "text": "Die Landschaft auf der Südseite des Speers ist super. Hier zu sehen der verlängerte Grat des Speers, auf dem auch\n      ein Wanderweg entlang führt."
-      },
-      {
-        "photos": [
-          {
-            "name": "024",
-            "alt": "Glarus",
-            "date": "2017-06-03T11:39:15.000+02:00",
-            "width": 1920,
-            "height": 949
-          }
-        ],
-        "videos": [],
-        "text": "Es ging nun ziemlich steil hinauf und die Sonneneinstrahlung war stark... entsprechend floß der Schweiß.<br />\n      Hier der Blick hinab nach Weesen und dem <a href=\"/alpine/glarus\">Glarus</a>."
-      },
-      {
-        "photos": [
-          {
-            "name": "025",
-            "alt": "Gipfel des Speers",
-            "date": "2017-06-03T11:46:40.000+02:00",
-            "width": 1920,
-            "height": 1040
-          }
-        ],
-        "videos": [],
-        "text": "Die Plattform auf dem Gipfel sah schon sehr lang sehr nah aus, aber der Aufstieg ist nicht zu unterschätzen.\n      Nicht gefährlich, aber anstrengend."
-      },
-      {
-        "photos": [
-          {
-            "name": "026",
-            "alt": "Glarus",
-            "date": "2017-06-03T11:51:28.000+02:00",
-            "width": 1920,
-            "height": 859
-          }
-        ],
-        "videos": [],
-        "text": "Puh, der Gipfel erreichte ich um 12:00. Der Blick wieder Richtung Glarus und dem äußersten Ende des Walensees."
-      },
-      {
-        "photos": [
-          {
-            "name": "027",
-            "alt": "Panorama Speer",
-            "date": "2017-06-03T11:56:27.000+02:00",
-            "width": 1920,
-            "height": 701
-          }
-        ],
-        "videos": [],
-        "text": "Das Panorama Richtung Nord/West. Hinten ist der Zürichsee zu sehen."
-      },
-      {
-        "photos": [
-          {
-            "name": "028",
-            "alt": "Wegweiser Speer",
-            "date": "2017-06-03T11:57:38.000+02:00",
-            "width": 1920,
-            "height": 1217
-          }
-        ],
-        "videos": [],
-        "text": "Der Wegweiser auf dem Gipfel des Speers. Bis zu den nächsten Orten waren es mindestens 2 Stunden und 45 Minuten Abstieg."
-      },
-      {
-        "photos": [
-          {
-            "name": "029",
-            "alt": "Gratweg",
-            "date": "2017-06-03T11:58:50.000+02:00",
-            "width": 1920,
-            "height": 1262
-          }
-        ],
-        "videos": [],
-        "text": "Blick entlang des furchteinflößenden Grats."
-      },
-      {
-        "photos": [
-          {
-            "name": "030",
-            "alt": "Panorama Speer",
-            "date": "2017-06-03T12:06:43.000+02:00",
-            "width": 1920,
-            "height": 664
-          }
-        ],
-        "videos": [],
-        "text": "Aussicht nach Süd/Ost. Links sind die <a href=\"/alpine/toggenburg/20160813\">Churfirsten</a> zu sehen."
-      },
-      {
-        "photos": [
-          {
-            "name": "031",
-            "alt": "Abbruchkante Speer",
-            "date": "2017-06-03T12:07:07.000+02:00",
-            "width": 1920,
-            "height": 965
-          }
-        ],
-        "videos": [],
-        "text": "Noch einmal die Abbruchkante."
-      },
-      {
-        "photos": [
-          {
-            "name": "032",
-            "alt": "Weg Wolzenalp Speer",
-            "date": "2017-06-03T12:07:37.000+02:00",
-            "width": 1920,
-            "height": 949
-          }
-        ],
-        "videos": [],
-        "text": "Auf diesem Bild Richtung Norden kann man gut den gesamten Aufstieg sehen. Ganz links ist Rietbach zu sehen, dann\n      folgte der Weg dem Grat bis zur (weiß leuchtenden) Alp Bütz. Danach wechselte ich die Seite und querte ganz\n      rechts die Wiese."
-      },
-      {
-        "photos": [
-          {
-            "name": "034",
-            "alt": "Säntis in Schwarzweiß",
-            "date": "2017-06-03T12:15:59.000+02:00",
-            "width": 1920,
-            "height": 948
-          }
-        ],
-        "videos": [],
-        "text": "Der Versuch aus einem eigentlich misslungenem Foto des Säntis noch etwas rauszuholen."
-      },
-      {
-        "photos": [
-          {
-            "name": "035",
-            "alt": "Serpentinen",
-            "date": "2017-06-03T12:21:50.000+02:00",
-            "width": 1920,
-            "height": 1087
-          }
-        ],
-        "videos": [],
-        "text": "Nach einer Vesperpause ging es nun auf gleichem Weg wieder hinunter. Wie man sieht ist der gesamte Südhang des Speers\n      mit den Serpentinen des Wanderwegs belegt."
-      },
-      {
-        "photos": [
-          {
-            "name": "036",
-            "alt": "Toggenburg",
-            "date": "2017-06-03T13:00:46.000+02:00",
-            "width": 1920,
-            "height": 608
-          }
-        ],
-        "videos": [],
-        "text": "Schnell war ich wieder an der steilen Wiese und dem unteren Schneefeld angelangt."
-      },
-      {
-        "photos": [
-          {
-            "name": "037",
-            "alt": "Alpenblume",
-            "date": "2017-06-03T13:14:13.000+02:00",
-            "width": 1920,
-            "height": 1085
-          }
-        ],
-        "videos": [],
-        "text": "Auch hier waren viele Blumen am Wegesrand."
-      },
-      {
-        "photos": [
-          {
-            "name": "038",
-            "alt": "Leiterli",
-            "date": "2017-06-03T13:17:09.000+02:00",
-            "width": 800,
-            "height": 1230
-          }
-        ],
-        "videos": [],
-        "text": "Und natürlich musste ich auch wieder die Leiterli hinunter, wobei es runter immer schwieriger ist."
-      },
-      {
-        "photos": [
-          {
-            "name": "039",
-            "alt": "Alp Hengst",
-            "date": "2017-06-03T13:42:50.000+02:00",
-            "width": 1920,
-            "height": 854
-          }
-        ],
-        "videos": [],
-        "text": "Am Bützalpsattel verließ ich schließlich den Hinweg und bog nach rechts in das Ijental ab.<br />\n      Gleich zu Beginn des Tals befindet sich die bewirtschaftete Alp Hengst. Trotz der Hitze und der knapper\n      werdenden Getränke im Rucksack verzichtete ich auf eine Pause, was ein Fehler war."
-      },
-      {
-        "photos": [
-          {
-            "name": "040",
-            "alt": "Ijental",
-            "date": "2017-06-03T14:23:56.000+02:00",
-            "width": 1920,
-            "height": 895
-          }
-        ],
-        "videos": [],
-        "text": "Etwas unterhalb der Alp Hengst beginnt dann ein Fahrweg. Der Wanderweg bemüht sich aber diesen zu umgehen, was\n      manchmal etwas arg gezwungen wirkte.<br />\n      Da die Sonne nun ziemlich brannte, musste jeder Brunnen zur Abkühlung herhalten."
-      },
-      {
-        "photos": [
-          {
-            "name": "041",
-            "alt": "Ijental",
-            "date": "2017-06-03T14:32:10.000+02:00",
-            "width": 1920,
-            "height": 854
-          }
-        ],
-        "videos": [],
-        "text": "Blick zurück das Ijental hinauf."
-      },
-      {
-        "photos": [
-          {
-            "name": "042",
-            "alt": "Straße durchs Ijental",
-            "date": "2017-06-03T14:46:46.000+02:00",
-            "width": 1920,
-            "height": 1291
-          }
-        ],
-        "videos": [],
-        "text": "Schließlich ging der Wanderweg dann doch auf der Straße und es wurde flacher."
-      },
-      {
-        "photos": [
-          {
-            "name": "043",
-            "alt": "Stausee",
-            "date": "2017-06-03T15:06:51.000+02:00",
-            "width": 1920,
-            "height": 1384
-          }
-        ],
-        "videos": [],
-        "text": "Pause an einem kleinen Stausee eines Wasserkraftwerks - unschön umzingelt von Zäunen und Verbotsschildern. Zum\n      Füße abkühlen hatte es aber gereicht."
-      },
-      {
-        "photos": [
-          {
-            "name": "044",
-            "alt": "Dunkle Schlucht",
-            "date": "2017-06-03T15:15:05.000+02:00",
-            "width": 1920,
-            "height": 1341
-          }
-        ],
-        "videos": [],
-        "text": "Anschließend biegt der Weg nach links in eine kleine Schlucht ab, der Schatten tat gut...<br />\n      Danach stieg ich über Weiden hinab zur Thur. Eventuell hätte man auch schräg direkt Richtung Krummenau\n      gehen können, aber nach Experimenten war mir nach der bereits langen Tour nicht mehr zumute."
-      },
-      {
-        "photos": [
-          {
-            "name": "045",
-            "alt": "Kapelle an Thur",
-            "date": "2017-06-03T16:05:43.000+02:00",
-            "width": 1920,
-            "height": 1128
-          }
-        ],
-        "videos": [],
-        "text": "Ankunft an der Thur bei Ebnit."
-      },
-      {
-        "photos": [
-          {
-            "name": "046",
-            "alt": "Thurweg",
-            "date": "2017-06-03T16:24:26.000+02:00",
-            "width": 1920,
-            "height": 1251
-          }
-        ],
-        "videos": [],
-        "text": "Ab dort ging es auf dem flachen Thurweg immer entlang des Fluß zurück nach Krummenau... allerdings noch eine lange\n      Stunde. Das hatte ich etwas unterschätzt. Ankunft schließlich um 17:00 in Krummenau."
-      },
-      {
-        "photos": [
-          {
-            "name": "track1",
-            "alt": "Wanderkarte Speer",
-            "width": 1280,
-            "height": 647
-          },
-          {
-            "name": "track2",
-            "alt": "Höhenprofil Speer",
-            "width": 1280,
-            "height": 308
-          }
-        ],
-        "videos": [],
-        "text": "Zurückgelegte Strecke. 1100m hoch und 1500m runter auf 20km bei 8h Wanderzeit (inkl. Pausen)."
-      }
-    ],
-    "outro": "Fazit: An sich schöne Wanderung ohne Tiefpunkte. Nur es war an diesem Tag etwas zu schwül für eine solch lange Tour."
-  }
-]
+    {
+      "photos": [
+        {
+          "name": "003",
+          "alt": "Rietbach",
+          "date": "2017-06-03T08:55:59.000+02:00",
+          "width": 1920,
+          "height": 944
+        }
+      ],
+      "videos": [],
+      "text": "Ankunft in Rietbach. Hier war auch schon das Ziel der Wanderung zu sehen, der 2000m hohe Speer. Der Aufstieg\n      erfolgte über den Grat, der hier links zu sehen ist."
+    },
+    {
+      "photos": [
+        {
+          "name": "004",
+          "alt": "Wolzenalp Moor",
+          "date": "2017-06-03T08:57:11.000+02:00",
+          "width": 1920,
+          "height": 1030
+        }
+      ],
+      "videos": [],
+      "text": "Zuerst ging es durch das blumenreiche Moor, das zwischen Rietbach und dem Restaurant Wolzenalp liegt."
+    },
+    {
+      "photos": [
+        {
+          "name": "005",
+          "alt": "Fahrweg Wolzenalp",
+          "date": "2017-06-03T09:10:26.000+02:00",
+          "width": 1920,
+          "height": 1210
+        }
+      ],
+      "videos": [],
+      "text": "Ab der Wolzenalp begann der Aufstieg auf den Grat. Zum Teil auf Fahrwegen, zum Teil über Wiesen."
+    },
+    {
+      "photos": [
+        {
+          "name": "006",
+          "alt": "Skilift Wolzenalp",
+          "date": "2017-06-03T09:17:09.000+02:00",
+          "width": 1920,
+          "height": 1127
+        }
+      ],
+      "videos": [],
+      "text": "Dabei folgte der Aufstieg immer grob der Trasse des Skilifts Wolzenalp."
+    },
+    {
+      "photos": [
+        {
+          "name": "007",
+          "alt": "Rietbach Moor",
+          "date": "2017-06-03T09:20:06.000+02:00",
+          "width": 1920,
+          "height": 974
+        }
+      ],
+      "videos": [],
+      "text": "Blick zurück während des anstrengenden Aufstiegs auf Rietbach und dem Moor."
+    },
+    {
+      "photos": [
+        {
+          "name": "008",
+          "alt": "Bergstation Skilift Wolzenalp",
+          "date": "2017-06-03T09:43:48.000+02:00",
+          "width": 1920,
+          "height": 1035
+        }
+      ],
+      "videos": [],
+      "text": "An der 1500m hohen Bergstation des Skilifts war der größte Aufstieg vorerst geschafft."
+    },
+    {
+      "photos": [
+        {
+          "name": "009",
+          "alt": "Bergwegmarkierung",
+          "date": "2017-06-03T09:44:48.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Der Weg war immer gut markiert und ist auch viel begangen, ich war aber noch völlig alleine unterwegs.\n      An diesem Fels ist das typische Nagelfluh-Gestein zu sehen - und der Speer ist der höchste Berg der Alpen aus\n      diesem, nicht sehr stabilen, Material."
+    },
+    {
+      "photos": [
+        {
+          "name": "010",
+          "alt": "Wanderweg vor Wald",
+          "date": "2017-06-03T09:53:23.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Angenehm führte der Weg jetzt entlang des Grats zum Teil auch durch Waldabschnitte."
+    },
+    {
+      "photos": [
+        {
+          "name": "011",
+          "alt": "Wanderweg Wolzenalp Speer",
+          "date": "2017-06-03T09:57:43.000+02:00",
+          "width": 1920,
+          "height": 814
+        }
+      ],
+      "videos": [],
+      "text": "Und hier war der schönste Abschnitt auf dem Grat. Es ist auch alles sehr harmlos."
+    },
+    {
+      "photos": [
+        {
+          "name": "012",
+          "alt": "Blick auf Ebnat-Kappel",
+          "date": "2017-06-03T10:04:15.000+02:00",
+          "width": 1920,
+          "height": 701
+        }
+      ],
+      "videos": [],
+      "text": "Der Blick hinab nach Norden. Links ist der Tanzboden und im Tal Ebnat-Kappel und Wattwil zu sehen."
+    },
+    {
+      "photos": [
+        {
+          "name": "013",
+          "alt": "Wanderweg zum Speer",
+          "date": "2017-06-03T10:26:51.000+02:00",
+          "width": 1920,
+          "height": 787
+        }
+      ],
+      "videos": [],
+      "text": "Da es praktisch keinen Aufstieg mehr gab, kam der Speer rasch näher. Links ist der Speermürli zu sehen, der\n      rechts umrundet wird, bevor dann der Speer von links bestiegen wird."
+    },
+    {
+      "photos": [
+        {
+          "name": "014",
+          "alt": "Alp Bütz",
+          "date": "2017-06-03T10:33:45.000+02:00",
+          "width": 1920,
+          "height": 685
+        }
+      ],
+      "videos": [],
+      "text": "Ankunft an der Alp Bütz, bzw. dem Bützalpsattel. Bis hier musste ich nach dem Aufstieg auf den Speer wieder\n      zurück.<br />\n      Bis zum Gipfel waren es ab hier noch eine Stunde und 15 Minuten."
+    },
+    {
+      "photos": [
+        {
+          "name": "015",
+          "alt": "Speer",
+          "date": "2017-06-03T10:36:54.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Ein Tele zum Speer. Von Rechts auf dem Grat führt auch ein Klettersteig hinauf... nichts für mich.<br />\n      Obwohl es erst 10:30 war, waren bereits andere Wanderer auf dem Gipfel zu sehen."
+    },
+    {
+      "photos": [
+        {
+          "name": "016",
+          "alt": "Leiterli",
+          "date": "2017-06-03T10:52:15.000+02:00",
+          "width": 1920,
+          "height": 848
+        }
+      ],
+      "videos": [],
+      "text": "Bei der Umrundung der Speers müssen zwei Felsgrate überwunden werden. Der erste wird über die sogenannte Leiterli\n      kurz und knackig mit Drahtseil erledigt."
+    },
+    {
+      "photos": [
+        {
+          "name": "017",
+          "alt": "Hangweg",
+          "date": "2017-06-03T10:53:34.000+02:00",
+          "width": 1920,
+          "height": 817
+        }
+      ],
+      "videos": [],
+      "text": "Anschließend führte mich der Weg quer über eine steile Wiese."
+    },
+    {
+      "photos": [
+        {
+          "name": "018",
+          "alt": "Säntis",
+          "date": "2017-06-03T11:09:19.000+02:00",
+          "width": 1920,
+          "height": 1142
+        }
+      ],
+      "videos": [],
+      "text": "Der Blick zurück. Im Hintergrund ist der Alpstein mit <a href=\"/alpine/alpstein/20160911\">Säntis</a> und\n      <a href=\"/alpine/alpstein/20150912\">Altmann</a> zu sehen."
+    },
+    {
+      "photos": [
+        {
+          "name": "019",
+          "alt": "Weg über Schneefeld",
+          "date": "2017-06-03T11:10:27.000+02:00",
+          "width": 1920,
+          "height": 691
+        }
+      ],
+      "videos": [],
+      "text": "Vor dem zweiten Felsgrat musste ich ein kleines Schneefeld überwinden. Da der Schnee aber schon recht weich\n      war, war es trotz der wenigen Spuren problemlos.<br />\n      Ab hier ging dann große Anstieg auf den Speer los."
+    },
+    {
+      "photos": [
+        {
+          "name": "020",
+          "alt": "Steile Wiese",
+          "date": "2017-06-03T11:13:30.000+02:00",
+          "width": 1920,
+          "height": 893
+        }
+      ],
+      "videos": [],
+      "text": "Während dem Aufstieg fiel der Blick zurück auf die gequerte steile Wiese."
+    },
+    {
+      "photos": [
+        {
+          "name": "021",
+          "alt": "Wanderweg mit Schneefeld",
+          "date": "2017-06-03T11:26:21.000+02:00",
+          "width": 1920,
+          "height": 885
+        },
+        {
+          "name": "022",
+          "alt": "Altschnee",
+          "date": "2017-06-03T11:29:56.000+02:00",
+          "width": 1920,
+          "height": 1029
+        }
+      ],
+      "videos": [],
+      "text": "Nach dem Felsgrat wurde ich erst mal von einem weiterem großen Schneefeld begrüßt, der Weg ging aber größtenteils\n      rechts davon vorbei.<br />\n      Nach dem Schneefeld erreichte ich den mehr begangenen Hauptweg von Amden auf den Speer."
+    },
+    {
+      "photos": [
+        {
+          "name": "023",
+          "alt": "Geologie des Speers",
+          "date": "2017-06-03T11:32:47.000+02:00",
+          "width": 1920,
+          "height": 1248
+        }
+      ],
+      "videos": [],
+      "text": "Die Landschaft auf der Südseite des Speers ist super. Hier zu sehen der verlängerte Grat des Speers, auf dem auch\n      ein Wanderweg entlang führt."
+    },
+    {
+      "photos": [
+        {
+          "name": "024",
+          "alt": "Glarus",
+          "date": "2017-06-03T11:39:15.000+02:00",
+          "width": 1920,
+          "height": 949
+        }
+      ],
+      "videos": [],
+      "text": "Es ging nun ziemlich steil hinauf und die Sonneneinstrahlung war stark... entsprechend floß der Schweiß.<br />\n      Hier der Blick hinab nach Weesen und dem <a href=\"/alpine/glarus\">Glarus</a>."
+    },
+    {
+      "photos": [
+        {
+          "name": "025",
+          "alt": "Gipfel des Speers",
+          "date": "2017-06-03T11:46:40.000+02:00",
+          "width": 1920,
+          "height": 1040
+        }
+      ],
+      "videos": [],
+      "text": "Die Plattform auf dem Gipfel sah schon sehr lang sehr nah aus, aber der Aufstieg ist nicht zu unterschätzen.\n      Nicht gefährlich, aber anstrengend."
+    },
+    {
+      "photos": [
+        {
+          "name": "026",
+          "alt": "Glarus",
+          "date": "2017-06-03T11:51:28.000+02:00",
+          "width": 1920,
+          "height": 859
+        }
+      ],
+      "videos": [],
+      "text": "Puh, der Gipfel erreichte ich um 12:00. Der Blick wieder Richtung Glarus und dem äußersten Ende des Walensees."
+    },
+    {
+      "photos": [
+        {
+          "name": "027",
+          "alt": "Panorama Speer",
+          "date": "2017-06-03T11:56:27.000+02:00",
+          "width": 1920,
+          "height": 701
+        }
+      ],
+      "videos": [],
+      "text": "Das Panorama Richtung Nord/West. Hinten ist der Zürichsee zu sehen."
+    },
+    {
+      "photos": [
+        {
+          "name": "028",
+          "alt": "Wegweiser Speer",
+          "date": "2017-06-03T11:57:38.000+02:00",
+          "width": 1920,
+          "height": 1217
+        }
+      ],
+      "videos": [],
+      "text": "Der Wegweiser auf dem Gipfel des Speers. Bis zu den nächsten Orten waren es mindestens 2 Stunden und 45 Minuten Abstieg."
+    },
+    {
+      "photos": [
+        {
+          "name": "029",
+          "alt": "Gratweg",
+          "date": "2017-06-03T11:58:50.000+02:00",
+          "width": 1920,
+          "height": 1262
+        }
+      ],
+      "videos": [],
+      "text": "Blick entlang des furchteinflößenden Grats."
+    },
+    {
+      "photos": [
+        {
+          "name": "030",
+          "alt": "Panorama Speer",
+          "date": "2017-06-03T12:06:43.000+02:00",
+          "width": 1920,
+          "height": 664
+        }
+      ],
+      "videos": [],
+      "text": "Aussicht nach Süd/Ost. Links sind die <a href=\"/alpine/toggenburg/20160813\">Churfirsten</a> zu sehen."
+    },
+    {
+      "photos": [
+        {
+          "name": "031",
+          "alt": "Abbruchkante Speer",
+          "date": "2017-06-03T12:07:07.000+02:00",
+          "width": 1920,
+          "height": 965
+        }
+      ],
+      "videos": [],
+      "text": "Noch einmal die Abbruchkante."
+    },
+    {
+      "photos": [
+        {
+          "name": "032",
+          "alt": "Weg Wolzenalp Speer",
+          "date": "2017-06-03T12:07:37.000+02:00",
+          "width": 1920,
+          "height": 949
+        }
+      ],
+      "videos": [],
+      "text": "Auf diesem Bild Richtung Norden kann man gut den gesamten Aufstieg sehen. Ganz links ist Rietbach zu sehen, dann\n      folgte der Weg dem Grat bis zur (weiß leuchtenden) Alp Bütz. Danach wechselte ich die Seite und querte ganz\n      rechts die Wiese."
+    },
+    {
+      "photos": [
+        {
+          "name": "034",
+          "alt": "Säntis in Schwarzweiß",
+          "date": "2017-06-03T12:15:59.000+02:00",
+          "width": 1920,
+          "height": 948
+        }
+      ],
+      "videos": [],
+      "text": "Der Versuch aus einem eigentlich misslungenem Foto des Säntis noch etwas rauszuholen."
+    },
+    {
+      "photos": [
+        {
+          "name": "035",
+          "alt": "Serpentinen",
+          "date": "2017-06-03T12:21:50.000+02:00",
+          "width": 1920,
+          "height": 1087
+        }
+      ],
+      "videos": [],
+      "text": "Nach einer Vesperpause ging es nun auf gleichem Weg wieder hinunter. Wie man sieht ist der gesamte Südhang des Speers\n      mit den Serpentinen des Wanderwegs belegt."
+    },
+    {
+      "photos": [
+        {
+          "name": "036",
+          "alt": "Toggenburg",
+          "date": "2017-06-03T13:00:46.000+02:00",
+          "width": 1920,
+          "height": 608
+        }
+      ],
+      "videos": [],
+      "text": "Schnell war ich wieder an der steilen Wiese und dem unteren Schneefeld angelangt."
+    },
+    {
+      "photos": [
+        {
+          "name": "037",
+          "alt": "Alpenblume",
+          "date": "2017-06-03T13:14:13.000+02:00",
+          "width": 1920,
+          "height": 1085
+        }
+      ],
+      "videos": [],
+      "text": "Auch hier waren viele Blumen am Wegesrand."
+    },
+    {
+      "photos": [
+        {
+          "name": "038",
+          "alt": "Leiterli",
+          "date": "2017-06-03T13:17:09.000+02:00",
+          "width": 800,
+          "height": 1230
+        }
+      ],
+      "videos": [],
+      "text": "Und natürlich musste ich auch wieder die Leiterli hinunter, wobei es runter immer schwieriger ist."
+    },
+    {
+      "photos": [
+        {
+          "name": "039",
+          "alt": "Alp Hengst",
+          "date": "2017-06-03T13:42:50.000+02:00",
+          "width": 1920,
+          "height": 854
+        }
+      ],
+      "videos": [],
+      "text": "Am Bützalpsattel verließ ich schließlich den Hinweg und bog nach rechts in das Ijental ab.<br />\n      Gleich zu Beginn des Tals befindet sich die bewirtschaftete Alp Hengst. Trotz der Hitze und der knapper\n      werdenden Getränke im Rucksack verzichtete ich auf eine Pause, was ein Fehler war."
+    },
+    {
+      "photos": [
+        {
+          "name": "040",
+          "alt": "Ijental",
+          "date": "2017-06-03T14:23:56.000+02:00",
+          "width": 1920,
+          "height": 895
+        }
+      ],
+      "videos": [],
+      "text": "Etwas unterhalb der Alp Hengst beginnt dann ein Fahrweg. Der Wanderweg bemüht sich aber diesen zu umgehen, was\n      manchmal etwas arg gezwungen wirkte.<br />\n      Da die Sonne nun ziemlich brannte, musste jeder Brunnen zur Abkühlung herhalten."
+    },
+    {
+      "photos": [
+        {
+          "name": "041",
+          "alt": "Ijental",
+          "date": "2017-06-03T14:32:10.000+02:00",
+          "width": 1920,
+          "height": 854
+        }
+      ],
+      "videos": [],
+      "text": "Blick zurück das Ijental hinauf."
+    },
+    {
+      "photos": [
+        {
+          "name": "042",
+          "alt": "Straße durchs Ijental",
+          "date": "2017-06-03T14:46:46.000+02:00",
+          "width": 1920,
+          "height": 1291
+        }
+      ],
+      "videos": [],
+      "text": "Schließlich ging der Wanderweg dann doch auf der Straße und es wurde flacher."
+    },
+    {
+      "photos": [
+        {
+          "name": "043",
+          "alt": "Stausee",
+          "date": "2017-06-03T15:06:51.000+02:00",
+          "width": 1920,
+          "height": 1384
+        }
+      ],
+      "videos": [],
+      "text": "Pause an einem kleinen Stausee eines Wasserkraftwerks - unschön umzingelt von Zäunen und Verbotsschildern. Zum\n      Füße abkühlen hatte es aber gereicht."
+    },
+    {
+      "photos": [
+        {
+          "name": "044",
+          "alt": "Dunkle Schlucht",
+          "date": "2017-06-03T15:15:05.000+02:00",
+          "width": 1920,
+          "height": 1341
+        }
+      ],
+      "videos": [],
+      "text": "Anschließend biegt der Weg nach links in eine kleine Schlucht ab, der Schatten tat gut...<br />\n      Danach stieg ich über Weiden hinab zur Thur. Eventuell hätte man auch schräg direkt Richtung Krummenau\n      gehen können, aber nach Experimenten war mir nach der bereits langen Tour nicht mehr zumute."
+    },
+    {
+      "photos": [
+        {
+          "name": "045",
+          "alt": "Kapelle an Thur",
+          "date": "2017-06-03T16:05:43.000+02:00",
+          "width": 1920,
+          "height": 1128
+        }
+      ],
+      "videos": [],
+      "text": "Ankunft an der Thur bei Ebnit."
+    },
+    {
+      "photos": [
+        {
+          "name": "046",
+          "alt": "Thurweg",
+          "date": "2017-06-03T16:24:26.000+02:00",
+          "width": 1920,
+          "height": 1251
+        }
+      ],
+      "videos": [],
+      "text": "Ab dort ging es auf dem flachen Thurweg immer entlang des Fluß zurück nach Krummenau... allerdings noch eine lange\n      Stunde. Das hatte ich etwas unterschätzt. Ankunft schließlich um 17:00 in Krummenau."
+    },
+    {
+      "photos": [
+        {
+          "name": "track1",
+          "alt": "Wanderkarte Speer",
+          "width": 1280,
+          "height": 647
+        },
+        {
+          "name": "track2",
+          "alt": "Höhenprofil Speer",
+          "width": 1280,
+          "height": 308
+        }
+      ],
+      "videos": [],
+      "text": "Zurückgelegte Strecke. 1100m hoch und 1500m runter auf 20km bei 8h Wanderzeit (inkl. Pausen)."
+    }
+  ],
+  "outro": "Fazit: An sich schöne Wanderung ohne Tiefpunkte. Nur es war an diesem Tag etwas zu schwül für eine solch lange Tour."
+}

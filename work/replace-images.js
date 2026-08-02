@@ -148,8 +148,8 @@ const copyTrack = (destination, date, srcPhotosPath) => {
   const reportFile = './src/reports/' + destination + '/' + date + '/report.json';
   const report = jsonfile.readFileSync(reportFile);
 
-  report[0].landmarks = await replacePhotos(destination, date, srcPhotosPath, report[0].landmarks);
-  report[0].track = copyTrack(destination, date, srcPhotosPath);
+  report.landmarks = await replacePhotos(destination, date, srcPhotosPath, report.landmarks);
+  report.track = copyTrack(destination, date, srcPhotosPath);
 
   jsonfile.writeFileSync(reportFile, report, { spaces: 2, flag: 'w' });
 })();

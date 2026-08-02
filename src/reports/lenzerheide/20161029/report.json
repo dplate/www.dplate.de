@@ -1,722 +1,720 @@
-[
-  {
-    "destination": "lenzerheide",
-    "date": "d20161029",
-    "type": "hike",
-    "track": true,
-    "timeShift": -120,
-    "detailMap": "swiss",
-    "shortTitle": "Fulhorn",
-    "title": "Brambrüesch - Fulhorn",
-    "title3d": {
-      "offsetY": 3,
-      "fontSize": 8,
-      "align": "center",
-      "width": 1920,
-      "height": 512
+{
+  "destination": "lenzerheide",
+  "date": "d20161029",
+  "type": "hike",
+  "track": true,
+  "timeShift": -120,
+  "detailMap": "swiss",
+  "shortTitle": "Fulhorn",
+  "title": "Brambrüesch - Fulhorn",
+  "title3d": {
+    "offsetY": 3,
+    "fontSize": 8,
+    "align": "center",
+    "width": 1920,
+    "height": 512
+  },
+  "movie": "aGe0EwSQ5CY",
+  "intro": "So langsam ging die Wandersaison zu Ende. Da aber das Wochenende noch einmal sonniges Wetter in der Höhe angesagt war, ging es für mich für diese Jahreszeit noch mal recht weit hinauf - zum 2500m hohen Fulhorn zwischen Lenzerheide und Chur.<br />\nAls Ausgangspunkt wählte ich den kleinen Skiort Brambrüesch, der mit einer Seilbahn von Chur aus erreichbar ist. Da ich aber auch gerne Bergstraßen fahre, bin ich die einspurige Straße hinauf gekurvt und stellte mein Auto auf dem großen Parkplatz um 8:40 auf 1600m Höhe ab. Normalerweise kostet es dort Parkgebühren, aber außerhalb der Saison war der Automat zugehängt... ich war in dem Moment auch das einzige Auto.",
+  "landmarks": [
+    {
+      "photos": [
+        {
+          "name": "001",
+          "alt": "Fahrweg Brambrüesch",
+          "date": "2016-10-29T09:11:54.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Ich ging zuerst schwach ansteigend am Hang entlang Richtung Lenzerheide. Zuerst hauptsächlich auf einem Fahrweg."
     },
-    "movie": "aGe0EwSQ5CY",
-    "intro": "So langsam ging die Wandersaison zu Ende. Da aber das Wochenende noch einmal sonniges Wetter in der Höhe angesagt war, ging es für mich für diese Jahreszeit noch mal recht weit hinauf - zum 2500m hohen Fulhorn zwischen Lenzerheide und Chur.<br />\nAls Ausgangspunkt wählte ich den kleinen Skiort Brambrüesch, der mit einer Seilbahn von Chur aus erreichbar ist. Da ich aber auch gerne Bergstraßen fahre, bin ich die einspurige Straße hinauf gekurvt und stellte mein Auto auf dem großen Parkplatz um 8:40 auf 1600m Höhe ab. Normalerweise kostet es dort Parkgebühren, aber außerhalb der Saison war der Automat zugehängt... ich war in dem Moment auch das einzige Auto.",
-    "landmarks": [
-      {
-        "photos": [
-          {
-            "name": "001",
-            "alt": "Fahrweg Brambrüesch",
-            "date": "2016-10-29T09:11:54.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Ich ging zuerst schwach ansteigend am Hang entlang Richtung Lenzerheide. Zuerst hauptsächlich auf einem Fahrweg."
-      },
-      {
-        "photos": [
-          {
-            "name": "002",
-            "alt": "Sonnenaufgang",
-            "date": "2016-10-29T09:19:43.000+02:00",
-            "width": 1920,
-            "height": 801
-          }
-        ],
-        "videos": [],
-        "text": "An dieser Stelle verließ ich dann den breiten Weg und es ging auf normalem Wanderweg weiter. Hier der Blick nach Osten (unschwer am Sonnenstand zu erkennen). Hinten ist das Tal nach Arosa zu sehen."
-      },
-      {
-        "photos": [
-          {
-            "name": "003",
-            "alt": "Wanderweg Brambrüesch Pradaschier",
-            "date": "2016-10-29T09:30:34.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "So sah der einfache Weg hier aus (hier die Sicht zurück)."
-      },
-      {
-        "photos": [
-          {
-            "name": "004",
-            "alt": "Calanda",
-            "date": "2016-10-29T09:41:35.000+02:00",
-            "width": 1920,
-            "height": 913
-          }
-        ],
-        "videos": [],
-        "text": "Ebenfalls beim Blick zurück konnte ich diese schöne Wolkenformation über der Calanda auf der anderen Seite des Rheintals sehen."
-      },
-      {
-        "photos": [
-          {
-            "name": "005",
-            "alt": "Lärchen im Herbst",
-            "date": "2016-10-29T09:43:32.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Schön herbstlich war es natürlich auch. 😃"
-      },
-      {
-        "photos": [
-          {
-            "name": "006",
-            "alt": "Galtialp",
-            "date": "2016-10-29T09:52:28.000+02:00",
-            "width": 1920,
-            "height": 1280
-          },
-          {
-            "name": "007",
-            "alt": "Panorama Galtialp",
-            "date": "2016-10-29T09:55:27.000+02:00",
-            "width": 1920,
-            "height": 592
-          }
-        ],
-        "videos": [],
-        "text": "Es war sehr einsam und die erste &quot;Attraktion&quot; war diese kleine verlassene Galtialp."
-      },
-      {
-        "photos": [
-          {
-            "name": "008",
-            "alt": "Churwalden",
-            "date": "2016-10-29T10:09:25.000+02:00",
-            "width": 1920,
-            "height": 1014
-          }
-        ],
-        "videos": [],
-        "text": "Inzwischen war ich schon fast in Höhe von Churwalden. Vom Weg nach Pradaschier zweigte ich aber nun nach rechts ab."
-      },
-      {
-        "photos": [
-          {
-            "name": "009",
-            "alt": "Treppe aus Plastik",
-            "date": "2016-10-29T10:11:44.000+02:00",
-            "width": 800,
-            "height": 1200
-          }
-        ],
-        "videos": [],
-        "text": "Und nun ging es über Plastikrohre steil bergauf."
-      },
-      {
-        "photos": [
-          {
-            "name": "010",
-            "alt": "Rheintal",
-            "date": "2016-10-29T10:21:58.000+02:00",
-            "width": 1920,
-            "height": 1025
-          }
-        ],
-        "videos": [],
-        "text": "Blick das Rheintal hinab. Hinten ist der Naafkopf zu sehen, das Ziel meiner <a href=\"/alpine/malbun/20161016\">letzten Wanderung</a> in Liechtenstein war. Leider zogen nun unangekündigt einige Wolkenfelder auf - zum Glück hielten sie sich aber nicht lange."
-      },
-      {
-        "photos": [
-          {
-            "name": "011",
-            "alt": "Rote Beeren",
-            "date": "2016-10-29T10:51:41.000+02:00",
-            "width": 1920,
-            "height": 1280
-          },
-          {
-            "name": "012",
-            "alt": "Weiße Flechte",
-            "date": "2016-10-29T10:55:10.000+02:00",
-            "width": 1920,
-            "height": 1338
-          }
-        ],
-        "videos": [],
-        "text": "Auf dem breiten Bergrücken erreichte ich eine bucklige Landschaft, die hauptsächlich aus den hier zu sehenden Pflanzen bestand."
-      },
-      {
-        "photos": [
-          {
-            "name": "013",
-            "alt": "Eisstruktur",
-            "date": "2016-10-29T11:03:45.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Noch war der Boden gefroren, wie man an dieser Pfütze sehen kann. Aber beim Aufstieg war es in kurzer Hose und T-Shirt trotzdem nicht zu kalt."
-      },
-      {
-        "photos": [
-          {
-            "name": "014",
-            "alt": "Gefrorener Bergsee",
-            "date": "2016-10-29T11:30:28.000+02:00",
-            "width": 1920,
-            "height": 1199
-          }
-        ],
-        "videos": [],
-        "text": "Hier war nun das Ziel, das Fulhorn, zu sehen. Die Nordseite war bis auf 2300m hinab schneebedeckt - was mir doch etwas Sorgen bereitete, da ich den Berg noch nie bestiegen hatte."
-      },
-      {
-        "photos": [
-          {
-            "name": "015",
-            "alt": "Rothorn Lenzerheide",
-            "date": "2016-10-29T11:50:44.000+02:00",
-            "width": 1920,
-            "height": 848
-          }
-        ],
-        "videos": [],
-        "text": "Ich entschied mich deshalb für die sichere Variante und umrundete zuerst den Berg, um ihn dann von der Südseite zu erklimmen. Hier rechts ist übrigens das Rothorn von Lenzerheide zu sehen."
-      },
-      {
-        "photos": [
-          {
-            "name": "016",
-            "alt": "Bergsee",
-            "date": "2016-10-29T11:58:40.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Nicht der erste und nicht der letzte Tümpel des Tages... aber Wolken haben manchmal auch was gutes für Fotos."
-      },
-      {
-        "photos": [
-          {
-            "name": "017",
-            "alt": "Fulenberg",
-            "date": "2016-10-29T12:02:53.000+02:00",
-            "width": 1920,
-            "height": 797
-          }
-        ],
-        "videos": [],
-        "text": "Der Pass rechts war mein Zwischenziel, links ist der Fulenberg zu sehen (ein Nachbargipfel des Stätzerhorns, das mehr Leuten hier etwas sagen sollte)."
-      },
-      {
-        "photos": [
-          {
-            "name": "018",
-            "alt": "Churwalden",
-            "date": "2016-10-29T12:11:28.000+02:00",
-            "width": 1920,
-            "height": 980
-          }
-        ],
-        "videos": [],
-        "text": "Steiler Blick hinab nach Churwalden. Das Geröll war hier nicht gerade sympathisch und der Weg war recht wenig ausgetreten."
-      },
-      {
-        "photos": [
-          {
-            "name": "019",
-            "alt": "Pass Fulhorn",
-            "date": "2016-10-29T12:14:35.000+02:00",
-            "width": 1920,
-            "height": 767
-          }
-        ],
-        "videos": [],
-        "text": "Schließlich hatte ich den 2400m hohen Pass erreicht und ich konnte erstmals Richtung Westen schauen."
-      },
-      {
-        "photos": [
-          {
-            "name": "020",
-            "alt": "Wegweiser Fulhorn",
-            "date": "2016-10-29T12:15:12.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Wegweiser auf dem Pass. Der Aufstieg von hier sah tatsächlich deutlich angenehmer aus, also hatte ich keine Bedenken mehr, den Gipfel zu erreichen."
-      },
-      {
-        "photos": [
-          {
-            "name": "021",
-            "alt": "Aufstieg Fulhorn",
-            "date": "2016-10-29T12:28:39.000+02:00",
-            "width": 1920,
-            "height": 790
-          }
-        ],
-        "videos": [],
-        "text": "Blick zurück während des Aufstiegs. Rechts das Tal geht durch die Via Mala zum St. Bernardino."
-      },
-      {
-        "photos": [
-          {
-            "name": "022",
-            "alt": "Gipfel Fulhorn",
-            "date": "2016-10-29T12:33:33.000+02:00",
-            "width": 1920,
-            "height": 786
-          }
-        ],
-        "videos": [],
-        "text": "Um 12:30 kam ich auf dem 2530m hohen Gipfel an<span data-silent>, auf dem politisch korrekt kein Kreuz steht</span>. 😉"
-      },
-      {
-        "photos": [
-          {
-            "name": "023",
-            "alt": "Aussicht Fulhorn",
-            "date": "2016-10-29T12:34:16.000+02:00",
-            "width": 1920,
-            "height": 832
-          }
-        ],
-        "videos": [],
-        "text": "Blick nach Norden und auf meinen bevorstehenden Abstieg."
-      },
-      {
-        "photos": [
-          {
-            "name": "026",
-            "alt": "Panorama Fulhorn",
-            "date": "2016-10-29T12:40:54.000+02:00",
-            "width": 1920,
-            "height": 727
-          }
-        ],
-        "videos": [],
-        "text": "Da oben eine recht kalte Bise wehte, machte ich etwas unterhalb auf der windgeschützten Wiese Vesperpause. Dort war es sehr angenehm. Hier das Panorama nach Süden."
-      },
-      {
-        "photos": [
-          {
-            "name": "024",
-            "alt": "Scheid Purz",
-            "date": "2016-10-29T12:34:49.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Tele zum 1300m tieferen Scheid und Purz, zwei kleine Orte oberhalb des Rheintals."
-      },
-      {
-        "photos": [
-          {
-            "name": "025",
-            "alt": "Heinzenberg",
-            "date": "2016-10-29T12:35:03.000+02:00",
-            "width": 1920,
-            "height": 1267
-          }
-        ],
-        "videos": [],
-        "text": "Blick hinüber zum Skigebiet Heinzenberg, das aber sehr flach aussieht."
-      },
-      {
-        "photos": [
-          {
-            "name": "027",
-            "alt": "Stätzerhorn",
-            "date": "2016-10-29T12:45:08.000+02:00",
-            "width": 1920,
-            "height": 1217
-          }
-        ],
-        "videos": [],
-        "text": "Tele zum Fulenberg, Stätzerhorn und rechts dem Piz Danis."
-      },
-      {
-        "photos": [
-          {
-            "name": "028",
-            "alt": "Nordgrat Fulhorn",
-            "date": "2016-10-29T12:55:14.000+02:00",
-            "width": 1920,
-            "height": 1164
-          }
-        ],
-        "videos": [],
-        "text": "Nun machte ich mich an den Abstieg auf dem Nordgrat. Es gab kein Schnee, es war aber trotzdem auf Grund des rutschigen Gesteins nicht ganz einfach."
-      },
-      {
-        "photos": [
-          {
-            "name": "029",
-            "alt": "Tiefblick Fulhorn",
-            "date": "2016-10-29T13:00:19.000+02:00",
-            "width": 1920,
-            "height": 827
-          }
-        ],
-        "videos": [],
-        "text": "Und so weit ging es links runter."
-      },
-      {
-        "photos": [
-          {
-            "name": "030",
-            "alt": "Fulhorn",
-            "date": "2016-10-29T13:04:19.000+02:00",
-            "width": 1920,
-            "height": 1058
-          }
-        ],
-        "videos": [],
-        "text": "Am Ende des Grats der Blick zurück zum Gipfel."
-      },
-      {
-        "photos": [
-          {
-            "name": "031",
-            "alt": "Flims im Herbst",
-            "date": "2016-10-29T13:18:29.000+02:00",
-            "width": 1920,
-            "height": 993
-          }
-        ],
-        "videos": [],
-        "text": "Tele nach Flims und den kläglichen Beschneiungsresten in Laax."
-      },
-      {
-        "photos": [
-          {
-            "name": "032",
-            "alt": "Tödi",
-            "date": "2016-10-29T13:21:11.000+02:00",
-            "width": 1920,
-            "height": 1072
-          }
-        ],
-        "videos": [],
-        "text": "Weitere Teleaufnahme zum 3600m hohen Tödi."
-      },
-      {
-        "photos": [
-          {
-            "name": "033",
-            "alt": "Eisscherbe",
-            "date": "2016-10-29T13:28:44.000+02:00",
-            "width": 1920,
-            "height": 1149
-          }
-        ],
-        "videos": [],
-        "text": "Der Boden taute nun zwar unter der warmen Sonne auf, aber ein paar Eiskunstwerke fanden sich trotzdem noch."
-      },
-      {
-        "photos": [
-          {
-            "name": "034",
-            "alt": "Bucklige Wiese",
-            "date": "2016-10-29T13:31:04.000+02:00",
-            "width": 1920,
-            "height": 1202
-          }
-        ],
-        "videos": [],
-        "text": "Ich erreichte nun wieder den flachen Bergrücken und so sah das Gelände dort großflächig aus. Man konnte sich aussuchen, ob man mit großen Schritten von Buckel zu Buckel ging oder lieber durch die Täler und sich die Beine an den Blaubeerbüschen kratzte."
-      },
-      {
-        "photos": [
-          {
-            "name": "035",
-            "alt": "Arosa Weisshorn",
-            "date": "2016-10-29T13:34:22.000+02:00",
-            "width": 1920,
-            "height": 1171
-          }
-        ],
-        "videos": [],
-        "text": "Tele zum Arosa Weisshorn."
-      },
-      {
-        "photos": [
-          {
-            "name": "036",
-            "alt": "Windegga",
-            "date": "2016-10-29T13:39:58.000+02:00",
-            "width": 1920,
-            "height": 796
-          }
-        ],
-        "videos": [],
-        "text": "Ich entschied mich für einen kleinen weglosen Abstecher zum Windegga. Der Berg sagt vielleicht manchen was. 😉<br />\nBlick von dort wieder hinab nach Churwalden."
-      },
-      {
-        "photos": [
-          {
-            "name": "038",
-            "alt": "Skilift Windegga",
-            "date": "2016-10-29T13:51:39.000+02:00",
-            "width": 1920,
-            "height": 1032
-          }
-        ],
-        "videos": [],
-        "text": "Und hier ist die Bergstation des Schlepplifts Windegga zu sehen."
-      },
-      {
-        "photos": [
-          {
-            "name": "039",
-            "alt": "Hochfläche Brambrüesch",
-            "date": "2016-10-29T14:09:27.000+02:00",
-            "width": 1920,
-            "height": 604
-          }
-        ],
-        "videos": [],
-        "text": "Vorschau auf den nun anstehenden weiteren Weg. Die Fläche sieht zwar sehr genüsslich aus, war aber auf Grund des bereits beschriebenen Untergrunds mühsam."
-      },
-      {
-        "photos": [
-          {
-            "name": "040",
-            "alt": "Bergsee",
-            "date": "2016-10-29T14:17:38.000+02:00",
-            "width": 1920,
-            "height": 1280
-          },
-          {
-            "name": "041",
-            "alt": "Wasserreflexion",
-            "date": "2016-10-29T14:17:47.000+02:00",
-            "width": 1920,
-            "height": 887
-          },
-          {
-            "name": "042",
-            "alt": "See mit Wegweiser",
-            "date": "2016-10-29T14:18:33.000+02:00",
-            "width": 1920,
-            "height": 1160
-          },
-          {
-            "name": "043",
-            "alt": "Dunkelblauer See",
-            "date": "2016-10-29T14:19:46.000+02:00",
-            "width": 1920,
-            "height": 543
-          }
-        ],
-        "videos": [],
-        "text": "Auf halbem Weg ein paar kleinere Seen, die natürlich wieder für Fotos herhalten mussten."
-      },
-      {
-        "photos": [
-          {
-            "name": "044",
-            "alt": "Matschiger Weg",
-            "date": "2016-10-29T14:25:11.000+02:00",
-            "width": 800,
-            "height": 1200
-          }
-        ],
-        "videos": [],
-        "text": "Blick zurück zum Fulhorn... und ja, der Weg hatte meistens diese Konsistenz. Deshalb bin ich fast durchgehend über die Buckel nebendran gegangen."
-      },
-      {
-        "photos": [
-          {
-            "name": "045",
-            "alt": "Hochebene",
-            "date": "2016-10-29T14:33:53.000+02:00",
-            "width": 1920,
-            "height": 598
-          }
-        ],
-        "videos": [],
-        "text": "Für die Durchquerung dieser &quot;Wiese&quot; brauchte ich über eine Stunde. Diese weite Landschaft täuschte da ziemlich."
-      },
-      {
-        "photos": [
-          {
-            "name": "046",
-            "alt": "Dreibündenstein",
-            "date": "2016-10-29T14:46:54.000+02:00",
-            "width": 1920,
-            "height": 771
-          }
-        ],
-        "videos": [],
-        "text": "Schließlich kam ich am Dreibündenstein an. Ich dachte immer es wäre auch ein Berg, aber es ist nur dieser Stein, der den gemeinsamen Grenzpunkt der drei rätischen Bünde markiert, die zusammen um 1500 den Freistaat &quot;Drei Bünde&quot; bildeten."
-      },
-      {
-        "photos": [
-          {
-            "name": "047",
-            "alt": "Ringelspitz",
-            "date": "2016-10-29T14:59:09.000+02:00",
-            "width": 1920,
-            "height": 1092
-          }
-        ],
-        "videos": [],
-        "text": "Tele zur 3200m hohen Ringelspitz auf der anderen Seite des Rheintals."
-      },
-      {
-        "photos": [
-          {
-            "name": "048",
-            "alt": "Aussicht Furggabüel",
-            "date": "2016-10-29T14:59:20.000+02:00",
-            "width": 1920,
-            "height": 669
-          }
-        ],
-        "videos": [],
-        "text": "Kurz hinter dem Dreibündenstein kam ich um 15:00 zum Furggabüel, dem Ende des Bergrückens und zum höchsten Punkt des Skigebiets Brambrüesch. Dort machte ich noch einmal eine Pause in der warmen Sonne und genoss die Aussicht nach Westen Richtung Disentis."
-      },
-      {
-        "photos": [
-          {
-            "name": "050",
-            "alt": "Panorama Brambrüesch",
-            "date": "2016-10-29T15:21:29.000+02:00",
-            "width": 1920,
-            "height": 916
-          }
-        ],
-        "videos": [],
-        "text": "Und der Blick zurück zum Fulhorn (rechts)."
-      },
-      {
-        "photos": [
-          {
-            "name": "049",
-            "alt": "Dreckiger Bergschuh",
-            "date": "2016-10-29T15:06:41.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Inspektion der Schuhe. Kein Wunder, dass es so rutschig war, denn das Profil war komplett mit Schlamm gefüllt. Aber reinigen hätte auch keinen Sinn gemacht."
-      },
-      {
-        "photos": [
-          {
-            "name": "052",
-            "alt": "Ringelspitz",
-            "date": "2016-10-29T15:22:22.000+02:00",
-            "width": 1920,
-            "height": 1201
-          }
-        ],
-        "videos": [],
-        "text": "Noch ein Blick vom Gipfel zur Ringelspitz."
-      },
-      {
-        "photos": [
-          {
-            "name": "053",
-            "alt": "Sesselbahn Furggabüel",
-            "date": "2016-10-29T15:23:59.000+02:00",
-            "width": 1920,
-            "height": 727
-          },
-          {
-            "name": "054",
-            "alt": "Furggabüel Rheintal",
-            "date": "2016-10-29T15:24:58.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Für mich ging es nun auf der Skipiste der Sesselbahn Furggabüel bergab. Die Sesselbahn ist nicht besonders lang, hat aber ein schönes Panorama zu bieten. Im Sommer ist sie allerdings nicht in Betrieb."
-      },
-      {
-        "photos": [
-          {
-            "name": "055",
-            "alt": "Farbige Lärchen",
-            "date": "2016-10-29T16:01:12.000+02:00",
-            "width": 1920,
-            "height": 1100
-          },
-          {
-            "name": "056",
-            "alt": "Herbst",
-            "date": "2016-10-29T16:01:34.000+02:00",
-            "width": 1920,
-            "height": 917
-          }
-        ],
-        "videos": [],
-        "text": "Schnell erreichte ich wieder die Baumgrenze, was sich natürlich gleich für Herbstbilder eignete."
-      },
-      {
-        "photos": [
-          {
-            "name": "057",
-            "alt": "Weg nach Brambrüesch",
-            "date": "2016-10-29T16:06:21.000+02:00",
-            "width": 1920,
-            "height": 1280
-          },
-          {
-            "name": "058",
-            "alt": "Parkplatz Brambrüesch",
-            "date": "2016-10-29T16:16:25.000+02:00",
-            "width": 1920,
-            "height": 583
-          }
-        ],
-        "videos": [],
-        "text": "Am Schluss ging es dann entlang des langen Schlepplift Hühnerköpfe im Schatten bergab zum Parkplatz in Brambrüesch, den ich um 16:30 erreichte."
-      },
-      {
-        "photos": [
-          {
-            "name": "track1",
-            "alt": "Wanderkarte Brambrüesch",
-            "width": 1280,
-            "height": 647
-          },
-          {
-            "name": "track2",
-            "alt": "Höhenprofil Fulhorn",
-            "width": 1280,
-            "height": 273
-          }
-        ],
-        "videos": [],
-        "text": "Zurückgelegte Strecke. Von der Länge und dem Höhenunterschied für mich eine durchschnittliche Tour. Aber viel mehr ist um diese Jahreszeit auf Grund der kürzer werdenden Tage auch nicht möglich."
-      }
-    ],
-    "outro": "Fazit: Ende Oktober ist einfach eine schöne Zeit zum Wandern. Die Wanderung war jetzt nicht besonders spektakulär, aber es gab immer weite Panoramen zu sehen. Im Sommer ist der Weg sicher keine große Herausforderung, für mich war nur der Schlamm etwas schwierig (oder besser schmierig 😉)."
-  }
-]
+    {
+      "photos": [
+        {
+          "name": "002",
+          "alt": "Sonnenaufgang",
+          "date": "2016-10-29T09:19:43.000+02:00",
+          "width": 1920,
+          "height": 801
+        }
+      ],
+      "videos": [],
+      "text": "An dieser Stelle verließ ich dann den breiten Weg und es ging auf normalem Wanderweg weiter. Hier der Blick nach Osten (unschwer am Sonnenstand zu erkennen). Hinten ist das Tal nach Arosa zu sehen."
+    },
+    {
+      "photos": [
+        {
+          "name": "003",
+          "alt": "Wanderweg Brambrüesch Pradaschier",
+          "date": "2016-10-29T09:30:34.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "So sah der einfache Weg hier aus (hier die Sicht zurück)."
+    },
+    {
+      "photos": [
+        {
+          "name": "004",
+          "alt": "Calanda",
+          "date": "2016-10-29T09:41:35.000+02:00",
+          "width": 1920,
+          "height": 913
+        }
+      ],
+      "videos": [],
+      "text": "Ebenfalls beim Blick zurück konnte ich diese schöne Wolkenformation über der Calanda auf der anderen Seite des Rheintals sehen."
+    },
+    {
+      "photos": [
+        {
+          "name": "005",
+          "alt": "Lärchen im Herbst",
+          "date": "2016-10-29T09:43:32.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Schön herbstlich war es natürlich auch. 😃"
+    },
+    {
+      "photos": [
+        {
+          "name": "006",
+          "alt": "Galtialp",
+          "date": "2016-10-29T09:52:28.000+02:00",
+          "width": 1920,
+          "height": 1280
+        },
+        {
+          "name": "007",
+          "alt": "Panorama Galtialp",
+          "date": "2016-10-29T09:55:27.000+02:00",
+          "width": 1920,
+          "height": 592
+        }
+      ],
+      "videos": [],
+      "text": "Es war sehr einsam und die erste &quot;Attraktion&quot; war diese kleine verlassene Galtialp."
+    },
+    {
+      "photos": [
+        {
+          "name": "008",
+          "alt": "Churwalden",
+          "date": "2016-10-29T10:09:25.000+02:00",
+          "width": 1920,
+          "height": 1014
+        }
+      ],
+      "videos": [],
+      "text": "Inzwischen war ich schon fast in Höhe von Churwalden. Vom Weg nach Pradaschier zweigte ich aber nun nach rechts ab."
+    },
+    {
+      "photos": [
+        {
+          "name": "009",
+          "alt": "Treppe aus Plastik",
+          "date": "2016-10-29T10:11:44.000+02:00",
+          "width": 800,
+          "height": 1200
+        }
+      ],
+      "videos": [],
+      "text": "Und nun ging es über Plastikrohre steil bergauf."
+    },
+    {
+      "photos": [
+        {
+          "name": "010",
+          "alt": "Rheintal",
+          "date": "2016-10-29T10:21:58.000+02:00",
+          "width": 1920,
+          "height": 1025
+        }
+      ],
+      "videos": [],
+      "text": "Blick das Rheintal hinab. Hinten ist der Naafkopf zu sehen, das Ziel meiner <a href=\"/alpine/malbun/20161016\">letzten Wanderung</a> in Liechtenstein war. Leider zogen nun unangekündigt einige Wolkenfelder auf - zum Glück hielten sie sich aber nicht lange."
+    },
+    {
+      "photos": [
+        {
+          "name": "011",
+          "alt": "Rote Beeren",
+          "date": "2016-10-29T10:51:41.000+02:00",
+          "width": 1920,
+          "height": 1280
+        },
+        {
+          "name": "012",
+          "alt": "Weiße Flechte",
+          "date": "2016-10-29T10:55:10.000+02:00",
+          "width": 1920,
+          "height": 1338
+        }
+      ],
+      "videos": [],
+      "text": "Auf dem breiten Bergrücken erreichte ich eine bucklige Landschaft, die hauptsächlich aus den hier zu sehenden Pflanzen bestand."
+    },
+    {
+      "photos": [
+        {
+          "name": "013",
+          "alt": "Eisstruktur",
+          "date": "2016-10-29T11:03:45.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Noch war der Boden gefroren, wie man an dieser Pfütze sehen kann. Aber beim Aufstieg war es in kurzer Hose und T-Shirt trotzdem nicht zu kalt."
+    },
+    {
+      "photos": [
+        {
+          "name": "014",
+          "alt": "Gefrorener Bergsee",
+          "date": "2016-10-29T11:30:28.000+02:00",
+          "width": 1920,
+          "height": 1199
+        }
+      ],
+      "videos": [],
+      "text": "Hier war nun das Ziel, das Fulhorn, zu sehen. Die Nordseite war bis auf 2300m hinab schneebedeckt - was mir doch etwas Sorgen bereitete, da ich den Berg noch nie bestiegen hatte."
+    },
+    {
+      "photos": [
+        {
+          "name": "015",
+          "alt": "Rothorn Lenzerheide",
+          "date": "2016-10-29T11:50:44.000+02:00",
+          "width": 1920,
+          "height": 848
+        }
+      ],
+      "videos": [],
+      "text": "Ich entschied mich deshalb für die sichere Variante und umrundete zuerst den Berg, um ihn dann von der Südseite zu erklimmen. Hier rechts ist übrigens das Rothorn von Lenzerheide zu sehen."
+    },
+    {
+      "photos": [
+        {
+          "name": "016",
+          "alt": "Bergsee",
+          "date": "2016-10-29T11:58:40.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Nicht der erste und nicht der letzte Tümpel des Tages... aber Wolken haben manchmal auch was gutes für Fotos."
+    },
+    {
+      "photos": [
+        {
+          "name": "017",
+          "alt": "Fulenberg",
+          "date": "2016-10-29T12:02:53.000+02:00",
+          "width": 1920,
+          "height": 797
+        }
+      ],
+      "videos": [],
+      "text": "Der Pass rechts war mein Zwischenziel, links ist der Fulenberg zu sehen (ein Nachbargipfel des Stätzerhorns, das mehr Leuten hier etwas sagen sollte)."
+    },
+    {
+      "photos": [
+        {
+          "name": "018",
+          "alt": "Churwalden",
+          "date": "2016-10-29T12:11:28.000+02:00",
+          "width": 1920,
+          "height": 980
+        }
+      ],
+      "videos": [],
+      "text": "Steiler Blick hinab nach Churwalden. Das Geröll war hier nicht gerade sympathisch und der Weg war recht wenig ausgetreten."
+    },
+    {
+      "photos": [
+        {
+          "name": "019",
+          "alt": "Pass Fulhorn",
+          "date": "2016-10-29T12:14:35.000+02:00",
+          "width": 1920,
+          "height": 767
+        }
+      ],
+      "videos": [],
+      "text": "Schließlich hatte ich den 2400m hohen Pass erreicht und ich konnte erstmals Richtung Westen schauen."
+    },
+    {
+      "photos": [
+        {
+          "name": "020",
+          "alt": "Wegweiser Fulhorn",
+          "date": "2016-10-29T12:15:12.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Wegweiser auf dem Pass. Der Aufstieg von hier sah tatsächlich deutlich angenehmer aus, also hatte ich keine Bedenken mehr, den Gipfel zu erreichen."
+    },
+    {
+      "photos": [
+        {
+          "name": "021",
+          "alt": "Aufstieg Fulhorn",
+          "date": "2016-10-29T12:28:39.000+02:00",
+          "width": 1920,
+          "height": 790
+        }
+      ],
+      "videos": [],
+      "text": "Blick zurück während des Aufstiegs. Rechts das Tal geht durch die Via Mala zum St. Bernardino."
+    },
+    {
+      "photos": [
+        {
+          "name": "022",
+          "alt": "Gipfel Fulhorn",
+          "date": "2016-10-29T12:33:33.000+02:00",
+          "width": 1920,
+          "height": 786
+        }
+      ],
+      "videos": [],
+      "text": "Um 12:30 kam ich auf dem 2530m hohen Gipfel an<span data-silent>, auf dem politisch korrekt kein Kreuz steht</span>. 😉"
+    },
+    {
+      "photos": [
+        {
+          "name": "023",
+          "alt": "Aussicht Fulhorn",
+          "date": "2016-10-29T12:34:16.000+02:00",
+          "width": 1920,
+          "height": 832
+        }
+      ],
+      "videos": [],
+      "text": "Blick nach Norden und auf meinen bevorstehenden Abstieg."
+    },
+    {
+      "photos": [
+        {
+          "name": "026",
+          "alt": "Panorama Fulhorn",
+          "date": "2016-10-29T12:40:54.000+02:00",
+          "width": 1920,
+          "height": 727
+        }
+      ],
+      "videos": [],
+      "text": "Da oben eine recht kalte Bise wehte, machte ich etwas unterhalb auf der windgeschützten Wiese Vesperpause. Dort war es sehr angenehm. Hier das Panorama nach Süden."
+    },
+    {
+      "photos": [
+        {
+          "name": "024",
+          "alt": "Scheid Purz",
+          "date": "2016-10-29T12:34:49.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Tele zum 1300m tieferen Scheid und Purz, zwei kleine Orte oberhalb des Rheintals."
+    },
+    {
+      "photos": [
+        {
+          "name": "025",
+          "alt": "Heinzenberg",
+          "date": "2016-10-29T12:35:03.000+02:00",
+          "width": 1920,
+          "height": 1267
+        }
+      ],
+      "videos": [],
+      "text": "Blick hinüber zum Skigebiet Heinzenberg, das aber sehr flach aussieht."
+    },
+    {
+      "photos": [
+        {
+          "name": "027",
+          "alt": "Stätzerhorn",
+          "date": "2016-10-29T12:45:08.000+02:00",
+          "width": 1920,
+          "height": 1217
+        }
+      ],
+      "videos": [],
+      "text": "Tele zum Fulenberg, Stätzerhorn und rechts dem Piz Danis."
+    },
+    {
+      "photos": [
+        {
+          "name": "028",
+          "alt": "Nordgrat Fulhorn",
+          "date": "2016-10-29T12:55:14.000+02:00",
+          "width": 1920,
+          "height": 1164
+        }
+      ],
+      "videos": [],
+      "text": "Nun machte ich mich an den Abstieg auf dem Nordgrat. Es gab kein Schnee, es war aber trotzdem auf Grund des rutschigen Gesteins nicht ganz einfach."
+    },
+    {
+      "photos": [
+        {
+          "name": "029",
+          "alt": "Tiefblick Fulhorn",
+          "date": "2016-10-29T13:00:19.000+02:00",
+          "width": 1920,
+          "height": 827
+        }
+      ],
+      "videos": [],
+      "text": "Und so weit ging es links runter."
+    },
+    {
+      "photos": [
+        {
+          "name": "030",
+          "alt": "Fulhorn",
+          "date": "2016-10-29T13:04:19.000+02:00",
+          "width": 1920,
+          "height": 1058
+        }
+      ],
+      "videos": [],
+      "text": "Am Ende des Grats der Blick zurück zum Gipfel."
+    },
+    {
+      "photos": [
+        {
+          "name": "031",
+          "alt": "Flims im Herbst",
+          "date": "2016-10-29T13:18:29.000+02:00",
+          "width": 1920,
+          "height": 993
+        }
+      ],
+      "videos": [],
+      "text": "Tele nach Flims und den kläglichen Beschneiungsresten in Laax."
+    },
+    {
+      "photos": [
+        {
+          "name": "032",
+          "alt": "Tödi",
+          "date": "2016-10-29T13:21:11.000+02:00",
+          "width": 1920,
+          "height": 1072
+        }
+      ],
+      "videos": [],
+      "text": "Weitere Teleaufnahme zum 3600m hohen Tödi."
+    },
+    {
+      "photos": [
+        {
+          "name": "033",
+          "alt": "Eisscherbe",
+          "date": "2016-10-29T13:28:44.000+02:00",
+          "width": 1920,
+          "height": 1149
+        }
+      ],
+      "videos": [],
+      "text": "Der Boden taute nun zwar unter der warmen Sonne auf, aber ein paar Eiskunstwerke fanden sich trotzdem noch."
+    },
+    {
+      "photos": [
+        {
+          "name": "034",
+          "alt": "Bucklige Wiese",
+          "date": "2016-10-29T13:31:04.000+02:00",
+          "width": 1920,
+          "height": 1202
+        }
+      ],
+      "videos": [],
+      "text": "Ich erreichte nun wieder den flachen Bergrücken und so sah das Gelände dort großflächig aus. Man konnte sich aussuchen, ob man mit großen Schritten von Buckel zu Buckel ging oder lieber durch die Täler und sich die Beine an den Blaubeerbüschen kratzte."
+    },
+    {
+      "photos": [
+        {
+          "name": "035",
+          "alt": "Arosa Weisshorn",
+          "date": "2016-10-29T13:34:22.000+02:00",
+          "width": 1920,
+          "height": 1171
+        }
+      ],
+      "videos": [],
+      "text": "Tele zum Arosa Weisshorn."
+    },
+    {
+      "photos": [
+        {
+          "name": "036",
+          "alt": "Windegga",
+          "date": "2016-10-29T13:39:58.000+02:00",
+          "width": 1920,
+          "height": 796
+        }
+      ],
+      "videos": [],
+      "text": "Ich entschied mich für einen kleinen weglosen Abstecher zum Windegga. Der Berg sagt vielleicht manchen was. 😉<br />\nBlick von dort wieder hinab nach Churwalden."
+    },
+    {
+      "photos": [
+        {
+          "name": "038",
+          "alt": "Skilift Windegga",
+          "date": "2016-10-29T13:51:39.000+02:00",
+          "width": 1920,
+          "height": 1032
+        }
+      ],
+      "videos": [],
+      "text": "Und hier ist die Bergstation des Schlepplifts Windegga zu sehen."
+    },
+    {
+      "photos": [
+        {
+          "name": "039",
+          "alt": "Hochfläche Brambrüesch",
+          "date": "2016-10-29T14:09:27.000+02:00",
+          "width": 1920,
+          "height": 604
+        }
+      ],
+      "videos": [],
+      "text": "Vorschau auf den nun anstehenden weiteren Weg. Die Fläche sieht zwar sehr genüsslich aus, war aber auf Grund des bereits beschriebenen Untergrunds mühsam."
+    },
+    {
+      "photos": [
+        {
+          "name": "040",
+          "alt": "Bergsee",
+          "date": "2016-10-29T14:17:38.000+02:00",
+          "width": 1920,
+          "height": 1280
+        },
+        {
+          "name": "041",
+          "alt": "Wasserreflexion",
+          "date": "2016-10-29T14:17:47.000+02:00",
+          "width": 1920,
+          "height": 887
+        },
+        {
+          "name": "042",
+          "alt": "See mit Wegweiser",
+          "date": "2016-10-29T14:18:33.000+02:00",
+          "width": 1920,
+          "height": 1160
+        },
+        {
+          "name": "043",
+          "alt": "Dunkelblauer See",
+          "date": "2016-10-29T14:19:46.000+02:00",
+          "width": 1920,
+          "height": 543
+        }
+      ],
+      "videos": [],
+      "text": "Auf halbem Weg ein paar kleinere Seen, die natürlich wieder für Fotos herhalten mussten."
+    },
+    {
+      "photos": [
+        {
+          "name": "044",
+          "alt": "Matschiger Weg",
+          "date": "2016-10-29T14:25:11.000+02:00",
+          "width": 800,
+          "height": 1200
+        }
+      ],
+      "videos": [],
+      "text": "Blick zurück zum Fulhorn... und ja, der Weg hatte meistens diese Konsistenz. Deshalb bin ich fast durchgehend über die Buckel nebendran gegangen."
+    },
+    {
+      "photos": [
+        {
+          "name": "045",
+          "alt": "Hochebene",
+          "date": "2016-10-29T14:33:53.000+02:00",
+          "width": 1920,
+          "height": 598
+        }
+      ],
+      "videos": [],
+      "text": "Für die Durchquerung dieser &quot;Wiese&quot; brauchte ich über eine Stunde. Diese weite Landschaft täuschte da ziemlich."
+    },
+    {
+      "photos": [
+        {
+          "name": "046",
+          "alt": "Dreibündenstein",
+          "date": "2016-10-29T14:46:54.000+02:00",
+          "width": 1920,
+          "height": 771
+        }
+      ],
+      "videos": [],
+      "text": "Schließlich kam ich am Dreibündenstein an. Ich dachte immer es wäre auch ein Berg, aber es ist nur dieser Stein, der den gemeinsamen Grenzpunkt der drei rätischen Bünde markiert, die zusammen um 1500 den Freistaat &quot;Drei Bünde&quot; bildeten."
+    },
+    {
+      "photos": [
+        {
+          "name": "047",
+          "alt": "Ringelspitz",
+          "date": "2016-10-29T14:59:09.000+02:00",
+          "width": 1920,
+          "height": 1092
+        }
+      ],
+      "videos": [],
+      "text": "Tele zur 3200m hohen Ringelspitz auf der anderen Seite des Rheintals."
+    },
+    {
+      "photos": [
+        {
+          "name": "048",
+          "alt": "Aussicht Furggabüel",
+          "date": "2016-10-29T14:59:20.000+02:00",
+          "width": 1920,
+          "height": 669
+        }
+      ],
+      "videos": [],
+      "text": "Kurz hinter dem Dreibündenstein kam ich um 15:00 zum Furggabüel, dem Ende des Bergrückens und zum höchsten Punkt des Skigebiets Brambrüesch. Dort machte ich noch einmal eine Pause in der warmen Sonne und genoss die Aussicht nach Westen Richtung Disentis."
+    },
+    {
+      "photos": [
+        {
+          "name": "050",
+          "alt": "Panorama Brambrüesch",
+          "date": "2016-10-29T15:21:29.000+02:00",
+          "width": 1920,
+          "height": 916
+        }
+      ],
+      "videos": [],
+      "text": "Und der Blick zurück zum Fulhorn (rechts)."
+    },
+    {
+      "photos": [
+        {
+          "name": "049",
+          "alt": "Dreckiger Bergschuh",
+          "date": "2016-10-29T15:06:41.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Inspektion der Schuhe. Kein Wunder, dass es so rutschig war, denn das Profil war komplett mit Schlamm gefüllt. Aber reinigen hätte auch keinen Sinn gemacht."
+    },
+    {
+      "photos": [
+        {
+          "name": "052",
+          "alt": "Ringelspitz",
+          "date": "2016-10-29T15:22:22.000+02:00",
+          "width": 1920,
+          "height": 1201
+        }
+      ],
+      "videos": [],
+      "text": "Noch ein Blick vom Gipfel zur Ringelspitz."
+    },
+    {
+      "photos": [
+        {
+          "name": "053",
+          "alt": "Sesselbahn Furggabüel",
+          "date": "2016-10-29T15:23:59.000+02:00",
+          "width": 1920,
+          "height": 727
+        },
+        {
+          "name": "054",
+          "alt": "Furggabüel Rheintal",
+          "date": "2016-10-29T15:24:58.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Für mich ging es nun auf der Skipiste der Sesselbahn Furggabüel bergab. Die Sesselbahn ist nicht besonders lang, hat aber ein schönes Panorama zu bieten. Im Sommer ist sie allerdings nicht in Betrieb."
+    },
+    {
+      "photos": [
+        {
+          "name": "055",
+          "alt": "Farbige Lärchen",
+          "date": "2016-10-29T16:01:12.000+02:00",
+          "width": 1920,
+          "height": 1100
+        },
+        {
+          "name": "056",
+          "alt": "Herbst",
+          "date": "2016-10-29T16:01:34.000+02:00",
+          "width": 1920,
+          "height": 917
+        }
+      ],
+      "videos": [],
+      "text": "Schnell erreichte ich wieder die Baumgrenze, was sich natürlich gleich für Herbstbilder eignete."
+    },
+    {
+      "photos": [
+        {
+          "name": "057",
+          "alt": "Weg nach Brambrüesch",
+          "date": "2016-10-29T16:06:21.000+02:00",
+          "width": 1920,
+          "height": 1280
+        },
+        {
+          "name": "058",
+          "alt": "Parkplatz Brambrüesch",
+          "date": "2016-10-29T16:16:25.000+02:00",
+          "width": 1920,
+          "height": 583
+        }
+      ],
+      "videos": [],
+      "text": "Am Schluss ging es dann entlang des langen Schlepplift Hühnerköpfe im Schatten bergab zum Parkplatz in Brambrüesch, den ich um 16:30 erreichte."
+    },
+    {
+      "photos": [
+        {
+          "name": "track1",
+          "alt": "Wanderkarte Brambrüesch",
+          "width": 1280,
+          "height": 647
+        },
+        {
+          "name": "track2",
+          "alt": "Höhenprofil Fulhorn",
+          "width": 1280,
+          "height": 273
+        }
+      ],
+      "videos": [],
+      "text": "Zurückgelegte Strecke. Von der Länge und dem Höhenunterschied für mich eine durchschnittliche Tour. Aber viel mehr ist um diese Jahreszeit auf Grund der kürzer werdenden Tage auch nicht möglich."
+    }
+  ],
+  "outro": "Fazit: Ende Oktober ist einfach eine schöne Zeit zum Wandern. Die Wanderung war jetzt nicht besonders spektakulär, aber es gab immer weite Panoramen zu sehen. Im Sommer ist der Weg sicher keine große Herausforderung, für mich war nur der Schlamm etwas schwierig (oder besser schmierig 😉)."
+}

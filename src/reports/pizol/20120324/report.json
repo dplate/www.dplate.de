@@ -1,341 +1,339 @@
-[
-  {
-    "destination": "pizol",
-    "date": "d20120324",
-    "track": false,
-    "shortTitle": "Pizol",
-    "title": "Pizol",
-    "intro": "Das Skigebiet Pizol besteht im Prinzip aus zwei Hängen oberhalb der Baumgrenze. Zu beiden führt jeweils eine Achter-Gondelbahn vom Rheintal hinauf, eine von Bad Ragaz und eine von Wangs. Das eigentliche Skigebiet ist zwischen 1500 und 2200m über dem Meer. Die beiden Hänge treffen sich oben an der Pizolhütte.<br />\nIch habe mein Auto um 8:15 in Bad Ragaz abgestellt - Tageskarte 53CHF + 5CHF Parkgebühren.",
-    "landmarks": [
-      {
-        "photos": [
-          {
-            "name": "gjMVn",
-            "width": 1024,
-            "height": 551
-          }
-        ],
-        "videos": [],
-        "text": "Nach Auffahrt mit der langen Gondelbahn (1100m Höhenunterschied auf 3.3km) kann man den kleinen Aufstieg zur Vierer-Sesselbahn umgehen, in dem man am Übungslift vorbei auf der roten 8 zum Schlepplift Schwamm abfährt. Schnee in der Sonne hier schon leicht sulzig."
-      },
-      {
-        "photos": [
-          {
-            "name": "gUeae",
-            "width": 1024,
-            "height": 607
-          }
-        ],
-        "videos": [],
-        "text": "An der Bergstation der ebenfalls langen Vierer-Sesselbahn (600m Höhenunterschied auf 2.4km). Auf dem Rücken wie immer der Schnee abgeweht. Die Schneequalität aber überraschend gut, die oberen 400 Höhenmeter dank Nordhang richtig pulvrig (um einige besser als in Flumserberg eine Woche zuvor)."
-      },
-      {
-        "photos": [
-          {
-            "name": "aROgT",
-            "width": 1024,
-            "height": 602
-          }
-        ],
-        "videos": [],
-        "text": "Die drei Pisten an dieser Bahn haben einen super Tiefblick ins Rheintal. Insbesondere die 12 - die auf dem Bergrücken langführt - ist spektakulär, da sie von oben bis unten fließend steiler wird, d.h. man fährt die gesamte Zeit auf den Abgrund zu. Umgekehrt fährt die Bahn immer in den Himmel (man sieht die Bergstation erst kurz vor dem Ende)."
-      },
-      {
-        "photos": [
-          {
-            "name": "UGqKY",
-            "width": 1024,
-            "height": 441
-          }
-        ],
-        "videos": [],
-        "text": "Die rote 13 an dieser Bahn."
-      },
-      {
-        "photos": [
-          {
-            "name": "nPfDN",
-            "width": 1024,
-            "height": 668
-          }
-        ],
-        "videos": [],
-        "text": "Und weiter auf der Hauptpiste zum Schlepplift Schwamm."
-      },
-      {
-        "photos": [
-          {
-            "name": "2n1VS",
-            "width": 1024,
-            "height": 1121
-          }
-        ],
-        "videos": [],
-        "text": "Unten musste man sogar etwas anstehen, was aber nur an den vielen Renngruppen lag, die dort die Piste belagerten."
-      },
-      {
-        "photos": [
-          {
-            "name": "uk0ls",
-            "width": 1024,
-            "height": 629
-          }
-        ],
-        "videos": [],
-        "text": "Blick auf Pardiel, Treffpunkt der Achter-Gondelbahn und der Vierer-Sesselbahn. Etwas viele Gebäude für die kleine Fläche."
-      },
-      {
-        "photos": [
-          {
-            "name": "kua5k",
-            "width": 1024,
-            "height": 426
-          }
-        ],
-        "videos": [],
-        "text": "Auf der kurzen schwarzen Variante kurz oberhalb von Pardiel"
-      },
-      {
-        "photos": [
-          {
-            "name": "L3Fjk",
-            "width": 1024,
-            "height": 1097
-          }
-        ],
-        "videos": [],
-        "text": "Die sehr schöne blaue 2. Hier dank nördlichster Ausrichtung der beste Schnee."
-      },
-      {
-        "photos": [
-          {
-            "name": "IfyEj",
-            "width": 1024,
-            "height": 1094
-          },
-          {
-            "name": "rW6c5",
-            "width": 1024,
-            "height": 645
-          }
-        ],
-        "videos": [],
-        "text": "Die blaue ist auch der Zugang zur schön hügeligen schwarzen 22, die zum Schlepplift Schwamm führt."
-      },
-      {
-        "photos": [
-          {
-            "name": "sd6Uu",
-            "width": 1024,
-            "height": 344
-          }
-        ],
-        "videos": [],
-        "text": "Panorama an der Bergstation der Vierer-Sesselbahn."
-      },
-      {
-        "photos": [
-          {
-            "name": "5vMlX",
-            "width": 1024,
-            "height": 768
-          },
-          {
-            "name": "OYw9h",
-            "width": 1024,
-            "height": 1173
-          }
-        ],
-        "videos": [],
-        "text": "Anschließend rüber zur Wangs-Seite. Die beiden Hänge sind durch diese Tellerliftschaukel verbunden. Im Hintergrund die Pizolhütte."
-      },
-      {
-        "photos": [
-          {
-            "name": "jtuJ6",
-            "width": 1024,
-            "height": 652
-          }
-        ],
-        "videos": [],
-        "text": "Der obere Abschnitt der Wangs-Seite wird durch eine Vierer-Sesselbahn und diesen (kurzen) Schlepplift bedient. Hier oben waren noch absolut traumhafte Schneebedingungen."
-      },
-      {
-        "photos": [
-          {
-            "name": "bJHcL",
-            "width": 1024,
-            "height": 1140
-          }
-        ],
-        "videos": [],
-        "text": "Blick nach unten auf den pistentechnisch ungünstigen (da sehr schmalen) Hang von Wangs."
-      },
-      {
-        "photos": [
-          {
-            "name": "312qy",
-            "width": 1024,
-            "height": 1518
-          }
-        ],
-        "videos": [],
-        "text": "Schönes Steinhotel &amp; -restaurant Gaffia mitten im Skigebiet."
-      },
-      {
-        "photos": [
-          {
-            "name": "tgbAl",
-            "width": 1024,
-            "height": 685
-          }
-        ],
-        "videos": [],
-        "text": "Und weiter Richtung Mittelstation der Achter-Gondelbahn von Wangs. Hier wurde es schön sulzig."
-      },
-      {
-        "photos": [
-          {
-            "name": "bFH2E",
-            "width": 1024,
-            "height": 600
-          },
-          {
-            "name": "WeybY",
-            "width": 1024,
-            "height": 549
-          }
-        ],
-        "videos": [],
-        "text": "Vorbei an einem ebenfalls schönem Steinhaus."
-      },
-      {
-        "photos": [
-          {
-            "name": "1l18N",
-            "width": 1024,
-            "height": 768
-          }
-        ],
-        "videos": [],
-        "text": "Auch auf dieser wenig befahrenen Piste schöner Tiefblick ins Rheintal."
-      },
-      {
-        "photos": [
-          {
-            "name": "Lzkor",
-            "width": 1024,
-            "height": 533
-          }
-        ],
-        "videos": [],
-        "text": "Das letzte Stück vor der Mittelstation (1000müM) wird nicht mehr lange befahrbar sein."
-      },
-      {
-        "photos": [
-          {
-            "name": "LM3oC",
-            "width": 1024,
-            "height": 742
-          }
-        ],
-        "videos": [],
-        "text": "Wieder oben auf der spaßigen blauen 3 unterhalb der Vierer-Sesselbahn."
-      },
-      {
-        "photos": [
-          {
-            "name": "Q03Cv",
-            "width": 1024,
-            "height": 768
-          },
-          {
-            "name": "75DxH",
-            "width": 1024,
-            "height": 1133
-          }
-        ],
-        "videos": [],
-        "text": "Danach weiter auf der oft wegen Lawinengefahr gesperrten Täli-Piste."
-      },
-      {
-        "photos": [
-          {
-            "name": "oejSO",
-            "width": 1024,
-            "height": 629
-          }
-        ],
-        "videos": [],
-        "text": "Die einzige steilere Piste bei Wangs kurz oberhalb von Furt, wo die Achter-Gondelbahn ankommt und die untere Vierer-Sesselbahn losfährt. Dort geschätzt 6 Restaurants."
-      },
-      {
-        "photos": [
-          {
-            "name": "ytnZZ",
-            "width": 1024,
-            "height": 537
-          }
-        ],
-        "videos": [],
-        "text": "Pistenplan. Alles offen, bis auf die Talabfahrt nach Wangs (verständlich)."
-      },
-      {
-        "photos": [
-          {
-            "name": "kH77L",
-            "width": 1024,
-            "height": 503
-          }
-        ],
-        "videos": [],
-        "text": "Tele auf die Bergstation der oberen Vierer-Sesselbahn. Mittags entstanden einige Quellwolken."
-      },
-      {
-        "photos": [
-          {
-            "name": "mul3e",
-            "width": 1024,
-            "height": 572
-          }
-        ],
-        "videos": [],
-        "text": "Mittagessen auf der Pizolhütte (2200müM und 4°C)."
-      },
-      {
-        "photos": [
-          {
-            "name": "IqqTG",
-            "width": 1024,
-            "height": 578
-          }
-        ],
-        "videos": [],
-        "text": "Nachmittags wieder zurück zur Bad Ragaz-Seite. Auf dieser Seite hat es um diese Jahreszeit bis Abends Sonne."
-      },
-      {
-        "photos": [
-          {
-            "name": "6kPTz",
-            "width": 1024,
-            "height": 675
-          }
-        ],
-        "videos": [],
-        "text": "Quellwolken über dem Pizol."
-      },
-      {
-        "photos": [
-          {
-            "name": "wk1fI",
-            "width": 1024,
-            "height": 1365
-          }
-        ],
-        "videos": [],
-        "text": "Und Abfahrt um 16:30 in Rheintal. Dort T-Shirt-Wetter bei warmen 18°."
-      }
-    ],
-    "outro": "Fazit: Wenig los, besserer Schnee als erwartet und sehr viele Höhenmeter gemacht (kein GPS dabei, aber meine Beine haben es angezeigt 😉)."
-  }
-]
+{
+  "destination": "pizol",
+  "date": "d20120324",
+  "track": false,
+  "shortTitle": "Pizol",
+  "title": "Pizol",
+  "intro": "Das Skigebiet Pizol besteht im Prinzip aus zwei Hängen oberhalb der Baumgrenze. Zu beiden führt jeweils eine Achter-Gondelbahn vom Rheintal hinauf, eine von Bad Ragaz und eine von Wangs. Das eigentliche Skigebiet ist zwischen 1500 und 2200m über dem Meer. Die beiden Hänge treffen sich oben an der Pizolhütte.<br />\nIch habe mein Auto um 8:15 in Bad Ragaz abgestellt - Tageskarte 53CHF + 5CHF Parkgebühren.",
+  "landmarks": [
+    {
+      "photos": [
+        {
+          "name": "gjMVn",
+          "width": 1024,
+          "height": 551
+        }
+      ],
+      "videos": [],
+      "text": "Nach Auffahrt mit der langen Gondelbahn (1100m Höhenunterschied auf 3.3km) kann man den kleinen Aufstieg zur Vierer-Sesselbahn umgehen, in dem man am Übungslift vorbei auf der roten 8 zum Schlepplift Schwamm abfährt. Schnee in der Sonne hier schon leicht sulzig."
+    },
+    {
+      "photos": [
+        {
+          "name": "gUeae",
+          "width": 1024,
+          "height": 607
+        }
+      ],
+      "videos": [],
+      "text": "An der Bergstation der ebenfalls langen Vierer-Sesselbahn (600m Höhenunterschied auf 2.4km). Auf dem Rücken wie immer der Schnee abgeweht. Die Schneequalität aber überraschend gut, die oberen 400 Höhenmeter dank Nordhang richtig pulvrig (um einige besser als in Flumserberg eine Woche zuvor)."
+    },
+    {
+      "photos": [
+        {
+          "name": "aROgT",
+          "width": 1024,
+          "height": 602
+        }
+      ],
+      "videos": [],
+      "text": "Die drei Pisten an dieser Bahn haben einen super Tiefblick ins Rheintal. Insbesondere die 12 - die auf dem Bergrücken langführt - ist spektakulär, da sie von oben bis unten fließend steiler wird, d.h. man fährt die gesamte Zeit auf den Abgrund zu. Umgekehrt fährt die Bahn immer in den Himmel (man sieht die Bergstation erst kurz vor dem Ende)."
+    },
+    {
+      "photos": [
+        {
+          "name": "UGqKY",
+          "width": 1024,
+          "height": 441
+        }
+      ],
+      "videos": [],
+      "text": "Die rote 13 an dieser Bahn."
+    },
+    {
+      "photos": [
+        {
+          "name": "nPfDN",
+          "width": 1024,
+          "height": 668
+        }
+      ],
+      "videos": [],
+      "text": "Und weiter auf der Hauptpiste zum Schlepplift Schwamm."
+    },
+    {
+      "photos": [
+        {
+          "name": "2n1VS",
+          "width": 1024,
+          "height": 1121
+        }
+      ],
+      "videos": [],
+      "text": "Unten musste man sogar etwas anstehen, was aber nur an den vielen Renngruppen lag, die dort die Piste belagerten."
+    },
+    {
+      "photos": [
+        {
+          "name": "uk0ls",
+          "width": 1024,
+          "height": 629
+        }
+      ],
+      "videos": [],
+      "text": "Blick auf Pardiel, Treffpunkt der Achter-Gondelbahn und der Vierer-Sesselbahn. Etwas viele Gebäude für die kleine Fläche."
+    },
+    {
+      "photos": [
+        {
+          "name": "kua5k",
+          "width": 1024,
+          "height": 426
+        }
+      ],
+      "videos": [],
+      "text": "Auf der kurzen schwarzen Variante kurz oberhalb von Pardiel"
+    },
+    {
+      "photos": [
+        {
+          "name": "L3Fjk",
+          "width": 1024,
+          "height": 1097
+        }
+      ],
+      "videos": [],
+      "text": "Die sehr schöne blaue 2. Hier dank nördlichster Ausrichtung der beste Schnee."
+    },
+    {
+      "photos": [
+        {
+          "name": "IfyEj",
+          "width": 1024,
+          "height": 1094
+        },
+        {
+          "name": "rW6c5",
+          "width": 1024,
+          "height": 645
+        }
+      ],
+      "videos": [],
+      "text": "Die blaue ist auch der Zugang zur schön hügeligen schwarzen 22, die zum Schlepplift Schwamm führt."
+    },
+    {
+      "photos": [
+        {
+          "name": "sd6Uu",
+          "width": 1024,
+          "height": 344
+        }
+      ],
+      "videos": [],
+      "text": "Panorama an der Bergstation der Vierer-Sesselbahn."
+    },
+    {
+      "photos": [
+        {
+          "name": "5vMlX",
+          "width": 1024,
+          "height": 768
+        },
+        {
+          "name": "OYw9h",
+          "width": 1024,
+          "height": 1173
+        }
+      ],
+      "videos": [],
+      "text": "Anschließend rüber zur Wangs-Seite. Die beiden Hänge sind durch diese Tellerliftschaukel verbunden. Im Hintergrund die Pizolhütte."
+    },
+    {
+      "photos": [
+        {
+          "name": "jtuJ6",
+          "width": 1024,
+          "height": 652
+        }
+      ],
+      "videos": [],
+      "text": "Der obere Abschnitt der Wangs-Seite wird durch eine Vierer-Sesselbahn und diesen (kurzen) Schlepplift bedient. Hier oben waren noch absolut traumhafte Schneebedingungen."
+    },
+    {
+      "photos": [
+        {
+          "name": "bJHcL",
+          "width": 1024,
+          "height": 1140
+        }
+      ],
+      "videos": [],
+      "text": "Blick nach unten auf den pistentechnisch ungünstigen (da sehr schmalen) Hang von Wangs."
+    },
+    {
+      "photos": [
+        {
+          "name": "312qy",
+          "width": 1024,
+          "height": 1518
+        }
+      ],
+      "videos": [],
+      "text": "Schönes Steinhotel &amp; -restaurant Gaffia mitten im Skigebiet."
+    },
+    {
+      "photos": [
+        {
+          "name": "tgbAl",
+          "width": 1024,
+          "height": 685
+        }
+      ],
+      "videos": [],
+      "text": "Und weiter Richtung Mittelstation der Achter-Gondelbahn von Wangs. Hier wurde es schön sulzig."
+    },
+    {
+      "photos": [
+        {
+          "name": "bFH2E",
+          "width": 1024,
+          "height": 600
+        },
+        {
+          "name": "WeybY",
+          "width": 1024,
+          "height": 549
+        }
+      ],
+      "videos": [],
+      "text": "Vorbei an einem ebenfalls schönem Steinhaus."
+    },
+    {
+      "photos": [
+        {
+          "name": "1l18N",
+          "width": 1024,
+          "height": 768
+        }
+      ],
+      "videos": [],
+      "text": "Auch auf dieser wenig befahrenen Piste schöner Tiefblick ins Rheintal."
+    },
+    {
+      "photos": [
+        {
+          "name": "Lzkor",
+          "width": 1024,
+          "height": 533
+        }
+      ],
+      "videos": [],
+      "text": "Das letzte Stück vor der Mittelstation (1000müM) wird nicht mehr lange befahrbar sein."
+    },
+    {
+      "photos": [
+        {
+          "name": "LM3oC",
+          "width": 1024,
+          "height": 742
+        }
+      ],
+      "videos": [],
+      "text": "Wieder oben auf der spaßigen blauen 3 unterhalb der Vierer-Sesselbahn."
+    },
+    {
+      "photos": [
+        {
+          "name": "Q03Cv",
+          "width": 1024,
+          "height": 768
+        },
+        {
+          "name": "75DxH",
+          "width": 1024,
+          "height": 1133
+        }
+      ],
+      "videos": [],
+      "text": "Danach weiter auf der oft wegen Lawinengefahr gesperrten Täli-Piste."
+    },
+    {
+      "photos": [
+        {
+          "name": "oejSO",
+          "width": 1024,
+          "height": 629
+        }
+      ],
+      "videos": [],
+      "text": "Die einzige steilere Piste bei Wangs kurz oberhalb von Furt, wo die Achter-Gondelbahn ankommt und die untere Vierer-Sesselbahn losfährt. Dort geschätzt 6 Restaurants."
+    },
+    {
+      "photos": [
+        {
+          "name": "ytnZZ",
+          "width": 1024,
+          "height": 537
+        }
+      ],
+      "videos": [],
+      "text": "Pistenplan. Alles offen, bis auf die Talabfahrt nach Wangs (verständlich)."
+    },
+    {
+      "photos": [
+        {
+          "name": "kH77L",
+          "width": 1024,
+          "height": 503
+        }
+      ],
+      "videos": [],
+      "text": "Tele auf die Bergstation der oberen Vierer-Sesselbahn. Mittags entstanden einige Quellwolken."
+    },
+    {
+      "photos": [
+        {
+          "name": "mul3e",
+          "width": 1024,
+          "height": 572
+        }
+      ],
+      "videos": [],
+      "text": "Mittagessen auf der Pizolhütte (2200müM und 4°C)."
+    },
+    {
+      "photos": [
+        {
+          "name": "IqqTG",
+          "width": 1024,
+          "height": 578
+        }
+      ],
+      "videos": [],
+      "text": "Nachmittags wieder zurück zur Bad Ragaz-Seite. Auf dieser Seite hat es um diese Jahreszeit bis Abends Sonne."
+    },
+    {
+      "photos": [
+        {
+          "name": "6kPTz",
+          "width": 1024,
+          "height": 675
+        }
+      ],
+      "videos": [],
+      "text": "Quellwolken über dem Pizol."
+    },
+    {
+      "photos": [
+        {
+          "name": "wk1fI",
+          "width": 1024,
+          "height": 1365
+        }
+      ],
+      "videos": [],
+      "text": "Und Abfahrt um 16:30 in Rheintal. Dort T-Shirt-Wetter bei warmen 18°."
+    }
+  ],
+  "outro": "Fazit: Wenig los, besserer Schnee als erwartet und sehr viele Höhenmeter gemacht (kein GPS dabei, aber meine Beine haben es angezeigt 😉)."
+}

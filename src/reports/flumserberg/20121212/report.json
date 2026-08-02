@@ -1,509 +1,507 @@
-[
-  {
-    "destination": "flumserberg",
-    "date": "d20121212",
-    "track": true,
-    "timeShift": -30,
-    "shortTitle": "Flumserberg",
-    "title": "Flumserberg",
-    "intro": "Alle, die am Mittwoch arbeiten mussten, müssen jetzt ganz tapfer sein. <br />\nEin ganzer Tag strahlender Sonnenschein kündigte sich an. Zusammen mit dem Neuschnee der letzten Tage und den kalten Temperaturen die richtigen Zutaten für einen besonderen Skitag.<br />\nIch entschloss mich für Flumserberg. Nach verschneiter Autobahn Ankunft in Tannheim auf 1200m um 9:00Uhr - auch ein paar andere Autos auf dem Parkplatz. Tageskarte noch günstiger für 49CHF.",
-    "landmarks": [
-      {
-        "photos": [
-          {
-            "name": "001",
-            "alt": "Prodalp",
-            "date": "2012-12-12T09:09:24.000+01:00",
-            "width": 1801,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Ankunft auf der Prodalp, der typische Webcam-Blick. Das Prodalp-Gebiet hatte an dem Tag das erste mal in der Woche offen, entsprechend frisch waren die Hänge."
-      },
-      {
-        "photos": [
-          {
-            "name": "002",
-            "alt": "Sonnenaufgang Prodalp",
-            "date": "2012-12-12T09:09:49.000+01:00",
-            "width": 1497,
-            "height": 1080
-          },
-          {
-            "name": "003",
-            "alt": "Talabfahrt Tannenheim",
-            "date": "2012-12-12T09:15:46.000+01:00",
-            "width": 1550,
-            "height": 1080
-          },
-          {
-            "name": "004",
-            "alt": "Gondelbahn Prodalp Express",
-            "date": "2012-12-12T09:17:45.000+01:00",
-            "width": 1617,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Hab dann erst mal zum Einfahren die Talabfahrt genommen. Die Piste war abseit der Schneekanonen feinster Pulver."
-      },
-      {
-        "photos": [
-          {
-            "name": "005",
-            "alt": "Pistenplan Flumserberg",
-            "date": "2012-12-12T09:29:56.000+01:00",
-            "width": 1920,
-            "height": 1019
-          }
-        ],
-        "videos": [],
-        "text": "Pistenplan. Alles wichtige außer Leist war in Betrieb. Und wer das grüne Symbol neben der Piste 50 sieht, weiß was noch kommt. 😃"
-      },
-      {
-        "photos": [
-          {
-            "name": "006",
-            "alt": "Tiefschnee Skispur",
-            "date": "2012-12-12T09:43:02.000+01:00",
-            "width": 1440,
-            "height": 1080
-          },
-          {
-            "name": "007",
-            "alt": "Schneekanone",
-            "date": "2012-12-12T09:43:24.000+01:00",
-            "width": 1686,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Aber zuerst mussten die vielen Tiefschneehänge am Prodkamm-8er ausgenutzt werden. Der luftige Schnee ging etwa bis zu den Knien, auch für meine kurzen Slalom-Ski kein größeres Problem."
-      },
-      {
-        "photos": [
-          {
-            "name": "009",
-            "alt": "Sesselbahn Prodkamm",
-            "date": "2012-12-12T09:45:13.000+01:00",
-            "width": 911,
-            "height": 1080
-          },
-          {
-            "name": "008",
-            "alt": "Skipiste Prodkamm",
-            "date": "2012-12-12T09:45:13.000+01:00",
-            "width": 1920,
-            "height": 689
-          }
-        ],
-        "videos": [],
-        "text": "Wer sagt, das Flumserberg immer überfüllt ist?"
-      },
-      {
-        "photos": [
-          {
-            "name": "010",
-            "alt": "Panorama Churfirsten",
-            "date": "2012-12-12T10:19:48.000+01:00",
-            "width": 1920,
-            "height": 472
-          }
-        ],
-        "videos": [],
-        "text": "Anschließend Fahrt ins etwas schattigere mittlere Tal."
-      },
-      {
-        "photos": [
-          {
-            "name": "011",
-            "alt": "Piste durch verschneiten Wald",
-            "date": "2012-12-12T10:23:24.000+01:00",
-            "width": 947,
-            "height": 1080
-          },
-          {
-            "name": "012",
-            "alt": "Verschneite Tanne",
-            "date": "2012-12-12T10:23:49.000+01:00",
-            "width": 930,
-            "height": 1080
-          },
-          {
-            "name": "013",
-            "alt": "Neuschnee im Wald",
-            "date": "2012-12-12T10:24:32.000+01:00",
-            "width": 1228,
-            "height": 1080
-          },
-          {
-            "name": "014",
-            "alt": "Talabfahrt Tannenboden",
-            "date": "2012-12-12T10:26:02.000+01:00",
-            "width": 1920,
-            "height": 974
-          }
-        ],
-        "videos": [],
-        "text": "Fahrt durch den Wald bis nach Tannenboden. ♬In the Winter-Wonder-Land♬"
-      },
-      {
-        "photos": [
-          {
-            "name": "015",
-            "alt": "Maschgenkamm",
-            "date": "2012-12-12T10:43:59.000+01:00",
-            "width": 1440,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Blick auf die Bergstation des Maschgenkamms. Man konnte überall runterfahren, keine Bodenkontaktgefahr."
-      },
-      {
-        "photos": [
-          {
-            "name": "016",
-            "alt": "Sesselbahn Seeeben",
-            "date": "2012-12-12T10:58:50.000+01:00",
-            "width": 1920,
-            "height": 695
-          }
-        ],
-        "videos": [],
-        "text": "Wo bin ich jetzt? Blick auf die Bahnen vom Seebensee."
-      },
-      {
-        "photos": [
-          {
-            "name": "017",
-            "alt": "Seebensee Winter",
-            "date": "2012-12-12T11:00:50.000+01:00",
-            "width": 1440,
-            "height": 1080
-          },
-          {
-            "name": "018",
-            "alt": "Zufahrt Terza-Abfahrt",
-            "date": "2012-12-12T11:02:31.000+01:00",
-            "width": 1440,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Jaaaa, auf dem Weg zur Terza-Abfahrt. Ist am Anfang etwas gestiefel, insbesondere bei diesem leichten Schnee (abstoßen ging nicht)."
-      },
-      {
-        "photos": [
-          {
-            "name": "019",
-            "alt": "Einfahrt Terza-Abfahrt",
-            "date": "2012-12-12T11:02:47.000+01:00",
-            "width": 1440,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Da unten zum See gehts hin (naja, nicht ganz)."
-      },
-      {
-        "photos": [
-          {
-            "name": "020",
-            "alt": "Schmale Piste durch Wald",
-            "date": "2012-12-12T11:05:19.000+01:00",
-            "width": 1920,
-            "height": 476
-          }
-        ],
-        "videos": [],
-        "text": "Am Anfang sehr schmal aber flach durch den Wald. Immer der Blick steil hinunter zum Walensee."
-      },
-      {
-        "photos": [
-          {
-            "name": "021",
-            "alt": "Terza-Abfahrt",
-            "date": "2012-12-12T11:07:12.000+01:00",
-            "width": 949,
-            "height": 1080
-          },
-          {
-            "name": "022",
-            "alt": "Steilstück Terza-Abfahrt",
-            "date": "2012-12-12T11:10:31.000+01:00",
-            "width": 1440,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Anschließend etwas steiler (aber nicht wirklich schwierig). Je weiter unten, desto tiefer wurde der Schnee."
-      },
-      {
-        "photos": [
-          {
-            "name": "023",
-            "alt": "Gafadur",
-            "date": "2012-12-12T11:12:55.000+01:00",
-            "width": 1003,
-            "height": 1080
-          },
-          {
-            "name": "024",
-            "alt": "Skiroute",
-            "date": "2012-12-12T11:17:27.000+01:00",
-            "width": 1440,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Der mittlere Abschnitt relativ flach über Wiesen. Breit genug, so dass man auch im unberührtem Schnee fahren konnte."
-      },
-      {
-        "photos": [
-          {
-            "name": "025",
-            "alt": "Skiabfahrt Oberterzen",
-            "date": "2012-12-12T11:18:23.000+01:00",
-            "width": 1358,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Am Schluß geht es an Massen von Ferienhäusern vorbei zur Mittelstation der 8er-Gondelbahn. Die Fahrt zur Talstation in Unterterzen (am See) habe ich nicht gemacht. Ich war schon mal ganz runter gefahren, aber es lohnt sich nicht wirklich."
-      },
-      {
-        "photos": [
-          {
-            "name": "026",
-            "alt": "Gondelbahn Oberterzen",
-            "date": "2012-12-12T11:34:10.000+01:00",
-            "width": 810,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Blick aus der steilen Gondelbahn nach Unterterzen (rechts) und Oberterzen (mitte)."
-      },
-      {
-        "photos": [
-          {
-            "name": "027",
-            "alt": "Parkplatz Tannenboden",
-            "date": "2012-12-12T11:38:25.000+01:00",
-            "width": 1920,
-            "height": 424
-          }
-        ],
-        "videos": [],
-        "text": "Oben wieder in der Sonne. Wie man sieht war noch Kapazität auf dem Parkplatz übrig. 😉"
-      },
-      {
-        "photos": [
-          {
-            "name": "028",
-            "alt": "Sesselbahn Chrüz",
-            "date": "2012-12-12T11:42:54.000+01:00",
-            "width": 1440,
-            "height": 1080
-          },
-          {
-            "name": "029",
-            "alt": "Sesselbahn Tannenboden",
-            "date": "2012-12-12T11:43:47.000+01:00",
-            "width": 1712,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "In der Vierer-Sesselbahn Chrüz, darunter die zugeschneite Sommerrodelbahn."
-      },
-      {
-        "photos": [
-          {
-            "name": "030",
-            "alt": "Maschgenkamm Spitzmeilen",
-            "date": "2012-12-12T12:01:03.000+01:00",
-            "width": 1440,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Blick vom Maschgenkamm Richtung Spitzmeilen. Hier links bei der Mauer müsste die Bergstation der neuen Sesselbahn hinkommen."
-      },
-      {
-        "photos": [
-          {
-            "name": "031",
-            "alt": "Piste 27 nach Seeben",
-            "date": "2012-12-12T12:04:24.000+01:00",
-            "width": 848,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Fahrt auf der (nicht offenen) schwarzen zum Seebensee. Sehr spaßige Bobbahn. War nicht wirklich so finster, wie es hier auf dem Bild aussieht."
-      },
-      {
-        "photos": [
-          {
-            "name": "032",
-            "alt": "Restaurant Seebenalp im Winter",
-            "date": "2012-12-12T12:06:41.000+01:00",
-            "width": 1920,
-            "height": 1027
-          }
-        ],
-        "videos": [],
-        "text": "Das alte Restaurant und Hotel am Seebensee. Auch im Sommer schön."
-      },
-      {
-        "photos": [
-          {
-            "name": "033",
-            "alt": "Tiefschnee Flumserberg",
-            "date": "2012-12-12T12:16:40.000+01:00",
-            "width": 1440,
-            "height": 1080
-          },
-          {
-            "name": "034",
-            "alt": "Stellitäli",
-            "date": "2012-12-12T12:17:59.000+01:00",
-            "width": 1016,
-            "height": 1080
-          },
-          {
-            "name": "035",
-            "alt": "Tief verschneite Winterlandschaft",
-            "date": "2012-12-12T12:22:03.000+01:00",
-            "width": 1575,
-            "height": 1080
-          },
-          {
-            "name": "036",
-            "alt": "Verschneiter Hang",
-            "date": "2012-12-12T12:23:40.000+01:00",
-            "width": 1920,
-            "height": 897
-          },
-          {
-            "name": "037",
-            "alt": "Walensee im Winter",
-            "date": "2012-12-12T12:24:38.000+01:00",
-            "width": 1440,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Im Tiefschnee zur einsamen, aber schönen Stellitäli-Piste."
-      },
-      {
-        "photos": [
-          {
-            "name": "038",
-            "alt": "Sesselbahn Stelli",
-            "date": "2012-12-12T12:51:21.000+01:00",
-            "width": 1440,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Auch auf den Hauptpisten war es super zu fahren. Anschließend Mittagspause in der Prodalp."
-      },
-      {
-        "photos": [
-          {
-            "name": "039",
-            "alt": "Piste 9 Prodkamm Arve",
-            "date": "2012-12-12T14:06:32.000+01:00",
-            "width": 999,
-            "height": 1080
-          },
-          {
-            "name": "040",
-            "alt": "Skigebiet Flumserberg",
-            "date": "2012-12-12T14:08:00.000+01:00",
-            "width": 1920,
-            "height": 611
-          }
-        ],
-        "videos": [],
-        "text": "Die nicht geöffnete steile schwarze Piste vom Prodkamm zur Arve-Sesselbahn."
-      },
-      {
-        "photos": [
-          {
-            "name": "041",
-            "alt": "Panüöl",
-            "date": "2012-12-12T15:08:12.000+01:00",
-            "width": 1920,
-            "height": 553
-          }
-        ],
-        "videos": [],
-        "text": "Auf der Rückseite des Maschgenkamms. Von der Hütte links bis der Bergstation rechts wird die neue Sesselbahn führen."
-      },
-      {
-        "photos": [
-          {
-            "name": "042",
-            "alt": "Spuren im Tiefschnee bei Sonnenuntergang",
-            "date": "2012-12-12T15:15:28.000+01:00",
-            "width": 1920,
-            "height": 534
-          }
-        ],
-        "videos": [],
-        "text": "Nach einem kleinen Aufstieg auf der nicht geöffneten roten 31 die letzten Schwünge des Tages im Tiefschnee genießen."
-      },
-      {
-        "photos": [
-          {
-            "name": "043",
-            "alt": "Baum auf Felsvorsprung",
-            "date": "2012-12-12T15:53:49.000+01:00",
-            "width": 1440,
-            "height": 1080
-          },
-          {
-            "name": "044",
-            "alt": "Abendstimmung Flumserberg",
-            "date": "2012-12-12T16:08:42.000+01:00",
-            "width": 1440,
-            "height": 1080
-          },
-          {
-            "name": "045",
-            "alt": "Churfirsten im Abendlicht",
-            "date": "2012-12-12T16:14:43.000+01:00",
-            "width": 1920,
-            "height": 348
-          }
-        ],
-        "videos": [],
-        "text": "Abendstimmung. Um 16:15 hats dann mir und meinen Oberschenkeln gereicht."
-      },
-      {
-        "photos": [
-          {
-            "name": "track1",
-            "alt": "Streckenplan Flumserberg",
-            "width": 1024,
-            "height": 524
-          },
-          {
-            "name": "track2",
-            "alt": "Höhenprofil Flumserberg",
-            "width": 936,
-            "height": 341
-          }
-        ],
-        "videos": [],
-        "text": "GPS-Track und Höhenprofil."
-      }
-    ],
-    "outro": "Fazit: Besser gehts eigentlich nicht. 😃"
-  }
-]
+{
+  "destination": "flumserberg",
+  "date": "d20121212",
+  "track": true,
+  "timeShift": -30,
+  "shortTitle": "Flumserberg",
+  "title": "Flumserberg",
+  "intro": "Alle, die am Mittwoch arbeiten mussten, müssen jetzt ganz tapfer sein. <br />\nEin ganzer Tag strahlender Sonnenschein kündigte sich an. Zusammen mit dem Neuschnee der letzten Tage und den kalten Temperaturen die richtigen Zutaten für einen besonderen Skitag.<br />\nIch entschloss mich für Flumserberg. Nach verschneiter Autobahn Ankunft in Tannheim auf 1200m um 9:00Uhr - auch ein paar andere Autos auf dem Parkplatz. Tageskarte noch günstiger für 49CHF.",
+  "landmarks": [
+    {
+      "photos": [
+        {
+          "name": "001",
+          "alt": "Prodalp",
+          "date": "2012-12-12T09:09:24.000+01:00",
+          "width": 1801,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Ankunft auf der Prodalp, der typische Webcam-Blick. Das Prodalp-Gebiet hatte an dem Tag das erste mal in der Woche offen, entsprechend frisch waren die Hänge."
+    },
+    {
+      "photos": [
+        {
+          "name": "002",
+          "alt": "Sonnenaufgang Prodalp",
+          "date": "2012-12-12T09:09:49.000+01:00",
+          "width": 1497,
+          "height": 1080
+        },
+        {
+          "name": "003",
+          "alt": "Talabfahrt Tannenheim",
+          "date": "2012-12-12T09:15:46.000+01:00",
+          "width": 1550,
+          "height": 1080
+        },
+        {
+          "name": "004",
+          "alt": "Gondelbahn Prodalp Express",
+          "date": "2012-12-12T09:17:45.000+01:00",
+          "width": 1617,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Hab dann erst mal zum Einfahren die Talabfahrt genommen. Die Piste war abseit der Schneekanonen feinster Pulver."
+    },
+    {
+      "photos": [
+        {
+          "name": "005",
+          "alt": "Pistenplan Flumserberg",
+          "date": "2012-12-12T09:29:56.000+01:00",
+          "width": 1920,
+          "height": 1019
+        }
+      ],
+      "videos": [],
+      "text": "Pistenplan. Alles wichtige außer Leist war in Betrieb. Und wer das grüne Symbol neben der Piste 50 sieht, weiß was noch kommt. 😃"
+    },
+    {
+      "photos": [
+        {
+          "name": "006",
+          "alt": "Tiefschnee Skispur",
+          "date": "2012-12-12T09:43:02.000+01:00",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "name": "007",
+          "alt": "Schneekanone",
+          "date": "2012-12-12T09:43:24.000+01:00",
+          "width": 1686,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Aber zuerst mussten die vielen Tiefschneehänge am Prodkamm-8er ausgenutzt werden. Der luftige Schnee ging etwa bis zu den Knien, auch für meine kurzen Slalom-Ski kein größeres Problem."
+    },
+    {
+      "photos": [
+        {
+          "name": "009",
+          "alt": "Sesselbahn Prodkamm",
+          "date": "2012-12-12T09:45:13.000+01:00",
+          "width": 911,
+          "height": 1080
+        },
+        {
+          "name": "008",
+          "alt": "Skipiste Prodkamm",
+          "date": "2012-12-12T09:45:13.000+01:00",
+          "width": 1920,
+          "height": 689
+        }
+      ],
+      "videos": [],
+      "text": "Wer sagt, das Flumserberg immer überfüllt ist?"
+    },
+    {
+      "photos": [
+        {
+          "name": "010",
+          "alt": "Panorama Churfirsten",
+          "date": "2012-12-12T10:19:48.000+01:00",
+          "width": 1920,
+          "height": 472
+        }
+      ],
+      "videos": [],
+      "text": "Anschließend Fahrt ins etwas schattigere mittlere Tal."
+    },
+    {
+      "photos": [
+        {
+          "name": "011",
+          "alt": "Piste durch verschneiten Wald",
+          "date": "2012-12-12T10:23:24.000+01:00",
+          "width": 947,
+          "height": 1080
+        },
+        {
+          "name": "012",
+          "alt": "Verschneite Tanne",
+          "date": "2012-12-12T10:23:49.000+01:00",
+          "width": 930,
+          "height": 1080
+        },
+        {
+          "name": "013",
+          "alt": "Neuschnee im Wald",
+          "date": "2012-12-12T10:24:32.000+01:00",
+          "width": 1228,
+          "height": 1080
+        },
+        {
+          "name": "014",
+          "alt": "Talabfahrt Tannenboden",
+          "date": "2012-12-12T10:26:02.000+01:00",
+          "width": 1920,
+          "height": 974
+        }
+      ],
+      "videos": [],
+      "text": "Fahrt durch den Wald bis nach Tannenboden. ♬In the Winter-Wonder-Land♬"
+    },
+    {
+      "photos": [
+        {
+          "name": "015",
+          "alt": "Maschgenkamm",
+          "date": "2012-12-12T10:43:59.000+01:00",
+          "width": 1440,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Blick auf die Bergstation des Maschgenkamms. Man konnte überall runterfahren, keine Bodenkontaktgefahr."
+    },
+    {
+      "photos": [
+        {
+          "name": "016",
+          "alt": "Sesselbahn Seeeben",
+          "date": "2012-12-12T10:58:50.000+01:00",
+          "width": 1920,
+          "height": 695
+        }
+      ],
+      "videos": [],
+      "text": "Wo bin ich jetzt? Blick auf die Bahnen vom Seebensee."
+    },
+    {
+      "photos": [
+        {
+          "name": "017",
+          "alt": "Seebensee Winter",
+          "date": "2012-12-12T11:00:50.000+01:00",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "name": "018",
+          "alt": "Zufahrt Terza-Abfahrt",
+          "date": "2012-12-12T11:02:31.000+01:00",
+          "width": 1440,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Jaaaa, auf dem Weg zur Terza-Abfahrt. Ist am Anfang etwas gestiefel, insbesondere bei diesem leichten Schnee (abstoßen ging nicht)."
+    },
+    {
+      "photos": [
+        {
+          "name": "019",
+          "alt": "Einfahrt Terza-Abfahrt",
+          "date": "2012-12-12T11:02:47.000+01:00",
+          "width": 1440,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Da unten zum See gehts hin (naja, nicht ganz)."
+    },
+    {
+      "photos": [
+        {
+          "name": "020",
+          "alt": "Schmale Piste durch Wald",
+          "date": "2012-12-12T11:05:19.000+01:00",
+          "width": 1920,
+          "height": 476
+        }
+      ],
+      "videos": [],
+      "text": "Am Anfang sehr schmal aber flach durch den Wald. Immer der Blick steil hinunter zum Walensee."
+    },
+    {
+      "photos": [
+        {
+          "name": "021",
+          "alt": "Terza-Abfahrt",
+          "date": "2012-12-12T11:07:12.000+01:00",
+          "width": 949,
+          "height": 1080
+        },
+        {
+          "name": "022",
+          "alt": "Steilstück Terza-Abfahrt",
+          "date": "2012-12-12T11:10:31.000+01:00",
+          "width": 1440,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Anschließend etwas steiler (aber nicht wirklich schwierig). Je weiter unten, desto tiefer wurde der Schnee."
+    },
+    {
+      "photos": [
+        {
+          "name": "023",
+          "alt": "Gafadur",
+          "date": "2012-12-12T11:12:55.000+01:00",
+          "width": 1003,
+          "height": 1080
+        },
+        {
+          "name": "024",
+          "alt": "Skiroute",
+          "date": "2012-12-12T11:17:27.000+01:00",
+          "width": 1440,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Der mittlere Abschnitt relativ flach über Wiesen. Breit genug, so dass man auch im unberührtem Schnee fahren konnte."
+    },
+    {
+      "photos": [
+        {
+          "name": "025",
+          "alt": "Skiabfahrt Oberterzen",
+          "date": "2012-12-12T11:18:23.000+01:00",
+          "width": 1358,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Am Schluß geht es an Massen von Ferienhäusern vorbei zur Mittelstation der 8er-Gondelbahn. Die Fahrt zur Talstation in Unterterzen (am See) habe ich nicht gemacht. Ich war schon mal ganz runter gefahren, aber es lohnt sich nicht wirklich."
+    },
+    {
+      "photos": [
+        {
+          "name": "026",
+          "alt": "Gondelbahn Oberterzen",
+          "date": "2012-12-12T11:34:10.000+01:00",
+          "width": 810,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Blick aus der steilen Gondelbahn nach Unterterzen (rechts) und Oberterzen (mitte)."
+    },
+    {
+      "photos": [
+        {
+          "name": "027",
+          "alt": "Parkplatz Tannenboden",
+          "date": "2012-12-12T11:38:25.000+01:00",
+          "width": 1920,
+          "height": 424
+        }
+      ],
+      "videos": [],
+      "text": "Oben wieder in der Sonne. Wie man sieht war noch Kapazität auf dem Parkplatz übrig. 😉"
+    },
+    {
+      "photos": [
+        {
+          "name": "028",
+          "alt": "Sesselbahn Chrüz",
+          "date": "2012-12-12T11:42:54.000+01:00",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "name": "029",
+          "alt": "Sesselbahn Tannenboden",
+          "date": "2012-12-12T11:43:47.000+01:00",
+          "width": 1712,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "In der Vierer-Sesselbahn Chrüz, darunter die zugeschneite Sommerrodelbahn."
+    },
+    {
+      "photos": [
+        {
+          "name": "030",
+          "alt": "Maschgenkamm Spitzmeilen",
+          "date": "2012-12-12T12:01:03.000+01:00",
+          "width": 1440,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Blick vom Maschgenkamm Richtung Spitzmeilen. Hier links bei der Mauer müsste die Bergstation der neuen Sesselbahn hinkommen."
+    },
+    {
+      "photos": [
+        {
+          "name": "031",
+          "alt": "Piste 27 nach Seeben",
+          "date": "2012-12-12T12:04:24.000+01:00",
+          "width": 848,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Fahrt auf der (nicht offenen) schwarzen zum Seebensee. Sehr spaßige Bobbahn. War nicht wirklich so finster, wie es hier auf dem Bild aussieht."
+    },
+    {
+      "photos": [
+        {
+          "name": "032",
+          "alt": "Restaurant Seebenalp im Winter",
+          "date": "2012-12-12T12:06:41.000+01:00",
+          "width": 1920,
+          "height": 1027
+        }
+      ],
+      "videos": [],
+      "text": "Das alte Restaurant und Hotel am Seebensee. Auch im Sommer schön."
+    },
+    {
+      "photos": [
+        {
+          "name": "033",
+          "alt": "Tiefschnee Flumserberg",
+          "date": "2012-12-12T12:16:40.000+01:00",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "name": "034",
+          "alt": "Stellitäli",
+          "date": "2012-12-12T12:17:59.000+01:00",
+          "width": 1016,
+          "height": 1080
+        },
+        {
+          "name": "035",
+          "alt": "Tief verschneite Winterlandschaft",
+          "date": "2012-12-12T12:22:03.000+01:00",
+          "width": 1575,
+          "height": 1080
+        },
+        {
+          "name": "036",
+          "alt": "Verschneiter Hang",
+          "date": "2012-12-12T12:23:40.000+01:00",
+          "width": 1920,
+          "height": 897
+        },
+        {
+          "name": "037",
+          "alt": "Walensee im Winter",
+          "date": "2012-12-12T12:24:38.000+01:00",
+          "width": 1440,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Im Tiefschnee zur einsamen, aber schönen Stellitäli-Piste."
+    },
+    {
+      "photos": [
+        {
+          "name": "038",
+          "alt": "Sesselbahn Stelli",
+          "date": "2012-12-12T12:51:21.000+01:00",
+          "width": 1440,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Auch auf den Hauptpisten war es super zu fahren. Anschließend Mittagspause in der Prodalp."
+    },
+    {
+      "photos": [
+        {
+          "name": "039",
+          "alt": "Piste 9 Prodkamm Arve",
+          "date": "2012-12-12T14:06:32.000+01:00",
+          "width": 999,
+          "height": 1080
+        },
+        {
+          "name": "040",
+          "alt": "Skigebiet Flumserberg",
+          "date": "2012-12-12T14:08:00.000+01:00",
+          "width": 1920,
+          "height": 611
+        }
+      ],
+      "videos": [],
+      "text": "Die nicht geöffnete steile schwarze Piste vom Prodkamm zur Arve-Sesselbahn."
+    },
+    {
+      "photos": [
+        {
+          "name": "041",
+          "alt": "Panüöl",
+          "date": "2012-12-12T15:08:12.000+01:00",
+          "width": 1920,
+          "height": 553
+        }
+      ],
+      "videos": [],
+      "text": "Auf der Rückseite des Maschgenkamms. Von der Hütte links bis der Bergstation rechts wird die neue Sesselbahn führen."
+    },
+    {
+      "photos": [
+        {
+          "name": "042",
+          "alt": "Spuren im Tiefschnee bei Sonnenuntergang",
+          "date": "2012-12-12T15:15:28.000+01:00",
+          "width": 1920,
+          "height": 534
+        }
+      ],
+      "videos": [],
+      "text": "Nach einem kleinen Aufstieg auf der nicht geöffneten roten 31 die letzten Schwünge des Tages im Tiefschnee genießen."
+    },
+    {
+      "photos": [
+        {
+          "name": "043",
+          "alt": "Baum auf Felsvorsprung",
+          "date": "2012-12-12T15:53:49.000+01:00",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "name": "044",
+          "alt": "Abendstimmung Flumserberg",
+          "date": "2012-12-12T16:08:42.000+01:00",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "name": "045",
+          "alt": "Churfirsten im Abendlicht",
+          "date": "2012-12-12T16:14:43.000+01:00",
+          "width": 1920,
+          "height": 348
+        }
+      ],
+      "videos": [],
+      "text": "Abendstimmung. Um 16:15 hats dann mir und meinen Oberschenkeln gereicht."
+    },
+    {
+      "photos": [
+        {
+          "name": "track1",
+          "alt": "Streckenplan Flumserberg",
+          "width": 1024,
+          "height": 524
+        },
+        {
+          "name": "track2",
+          "alt": "Höhenprofil Flumserberg",
+          "width": 936,
+          "height": 341
+        }
+      ],
+      "videos": [],
+      "text": "GPS-Track und Höhenprofil."
+    }
+  ],
+  "outro": "Fazit: Besser gehts eigentlich nicht. 😃"
+}

@@ -1,432 +1,430 @@
-[
-  {
-    "destination": "alpstein",
-    "date": "d20151024",
-    "type": "hike",
-    "track": true,
-    "detailMap": "swiss",
-    "shortTitle": "Schwägalp",
-    "title": "Hochalp - Schwägalp",
-    "title3d": {
-      "align": "left",
-      "offsetY": 4,
-      "fontSize": 6,
-      "width": 1920,
-      "height": 367
+{
+  "destination": "alpstein",
+  "date": "d20151024",
+  "type": "hike",
+  "track": true,
+  "detailMap": "swiss",
+  "shortTitle": "Schwägalp",
+  "title": "Hochalp - Schwägalp",
+  "title3d": {
+    "align": "left",
+    "offsetY": 4,
+    "fontSize": 6,
+    "width": 1920,
+    "height": 367
+  },
+  "movie": "BmRj2yJMBe8",
+  "intro": "Die Auswahl an Wanderzielen wurde auf Grund der Schneefälle geringer. Deshalb entschied ich mich für diese Wanderung auf die Schwägalp, die 1500 Höhenmeter nur knapp überschreitet.<br />\nBei frostigen Temperaturen stellte ich mein Auto um 8:00 in Steinfluh an der Schwägalp-Passstraße ab. Da der Aufstieg zur Hochalp beim Restaurant Rossfall beginnt, musste ich erst ein Stück wieder im Tal bergab laufen. Zum Glück aber nicht direkt an der Straße, sondern auf schön angelegtem Weg auf der anderen Flussseite.<br />\nAb dort ging es dann auf rustikaler Fahrstraße sehr steil direkt den Hang hinauf.",
+  "landmarks": [
+    {
+      "photos": [
+        {
+          "name": "001",
+          "alt": "Qualm und Nebel über Urnäsch",
+          "date": "2015-10-24T08:31:23.000+02:00",
+          "width": 1854,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": " Mit jedem Meter wurde es spürbar wärmer und ich konnte schnell die Jacke verstauen. Für den Rest das Tages waren kurze Hose und T-Shirt angesagt. Nach etwas Aufstieg wurde der kleine Ort Urnäsch sichtbar, teils noch von Nebel und Qualm aus den Schornsteinen verhüllt."
     },
-    "movie": "BmRj2yJMBe8",
-    "intro": "Die Auswahl an Wanderzielen wurde auf Grund der Schneefälle geringer. Deshalb entschied ich mich für diese Wanderung auf die Schwägalp, die 1500 Höhenmeter nur knapp überschreitet.<br />\nBei frostigen Temperaturen stellte ich mein Auto um 8:00 in Steinfluh an der Schwägalp-Passstraße ab. Da der Aufstieg zur Hochalp beim Restaurant Rossfall beginnt, musste ich erst ein Stück wieder im Tal bergab laufen. Zum Glück aber nicht direkt an der Straße, sondern auf schön angelegtem Weg auf der anderen Flussseite.<br />\nAb dort ging es dann auf rustikaler Fahrstraße sehr steil direkt den Hang hinauf.",
-    "landmarks": [
-      {
-        "photos": [
-          {
-            "name": "001",
-            "alt": "Qualm und Nebel über Urnäsch",
-            "date": "2015-10-24T08:31:23.000+02:00",
-            "width": 1854,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": " Mit jedem Meter wurde es spürbar wärmer und ich konnte schnell die Jacke verstauen. Für den Rest das Tages waren kurze Hose und T-Shirt angesagt. Nach etwas Aufstieg wurde der kleine Ort Urnäsch sichtbar, teils noch von Nebel und Qualm aus den Schornsteinen verhüllt."
-      },
-      {
-        "photos": [
-          {
-            "name": "002",
-            "alt": "Steile Straße zur Alp Faltig",
-            "date": "2015-10-24T08:53:06.000+02:00",
-            "width": 1789,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Bei mir war immer noch Schatten. Der Blick zurück ins Tal."
-      },
-      {
-        "photos": [
-          {
-            "name": "003",
-            "alt": "Alp Faltig im Morgenlicht",
-            "date": "2015-10-24T08:59:18.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Dann aber erreichte ich die ersten Sonnenstrahlen an der Alp Faltig. Dort endete der Fahrweg und es ging auf normalem Wanderweg weiter. Hiermit hatte ich auch schon über die Hälfte der benötigten Höhenmeter geschafft."
-      },
-      {
-        "photos": [
-          {
-            "name": "004",
-            "alt": "Grat oberhalb Neckertal",
-            "date": "2015-10-24T09:07:01.000+02:00",
-            "width": 1920,
-            "height": 727
-          }
-        ],
-        "videos": [],
-        "text": "Ankunft auf dem Grat und Blick hinab auf der anderen Seite ins Neckertal. Eigentlich müsste ich nun nach links auf dem Grat weiterlaufen, um zur Schwägalp zu kommen. Aber da ich die Hochalp noch erreichen wollte, ging es für mich erst nach rechts hinauf."
-      },
-      {
-        "photos": [
-          {
-            "name": "005",
-            "alt": "Panorama Hochalp",
-            "date": "2015-10-24T09:26:19.000+02:00",
-            "width": 1920,
-            "height": 541
-          }
-        ],
-        "videos": [],
-        "text": "Nach insgesamt 600m Aufstieg erreichte ich den 1500m hohen Ostgipfel der Hochalp um 9:30. Die Hochalp ist der letzte Gipfel des Grats, der von der Schwägalp nach Urnäsch führt. Folglich hat man dort einen schönen Blick ins Flachland."
-      },
-      {
-        "photos": [
-          {
-            "name": "006",
-            "alt": "Gipfel Hochalp",
-            "date": "2015-10-24T09:27:18.000+02:00",
-            "width": 1920,
-            "height": 687
-          }
-        ],
-        "videos": [],
-        "text": "Der langgezogene Gipfel der Hochalp."
-      },
-      {
-        "photos": [
-          {
-            "name": "007",
-            "alt": "Gasthaus Hochalp",
-            "date": "2015-10-24T09:33:58.000+02:00",
-            "width": 1920,
-            "height": 640
-          }
-        ],
-        "videos": [],
-        "text": "Hier die Gaststätte auf der Hochalp. Den Abstecher dort hin hatte ich mir gespart."
-      },
-      {
-        "photos": [
-          {
-            "name": "008",
-            "alt": "Verschneite Churfirsten",
-            "date": "2015-10-24T09:34:11.000+02:00",
-            "width": 1920,
-            "height": 945
-          }
-        ],
-        "videos": [],
-        "text": "Der Blick zu den verschneiten Churfirsten, die hinter dem Alpstein auftauchten."
-      },
-      {
-        "photos": [
-          {
-            "name": "009",
-            "alt": "Wanderweg Hochalp Spicher",
-            "date": "2015-10-24T09:34:42.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Und die Vorschau auf den vor mir liegenden Weg. Bei der Alp vorne hatte ich den Grat von links kommend erreicht. Dort hin musste ich nun wieder zurück und dann weiter immer am Grat entlang Richtung Säntis.<br />\nDer Berg rechts hinten ist der Spicher, mein nächstes Ziel und ähnlich hoch wie die Hochalp."
-      },
-      {
-        "photos": [
-          {
-            "name": "010",
-            "alt": "Hangweg zu einer Alp",
-            "date": "2015-10-24T09:51:00.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Ein typisches Bild des weiteren Wegs: immer über Rippen von einer Alp zur Nächsten. Der Pfad ist gut in Schuss und vollkommen ungefährlich."
-      },
-      {
-        "photos": [
-          {
-            "name": "011",
-            "alt": "Bewaldetes Tal im Herbst",
-            "date": "2015-10-24T09:59:31.000+02:00",
-            "width": 1679,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Der Blick in das herbstliche Tal."
-      },
-      {
-        "photos": [
-          {
-            "name": "012",
-            "alt": "Heißluftballon von unten",
-            "date": "2015-10-24T10:08:10.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Dann wurde ich von einem Heißluftballon überholt, von denen an diesem Tag einige unterwegs waren. Ansonsten war ich noch niemanden anderen begegnet."
-      },
-      {
-        "photos": [
-          {
-            "name": "013",
-            "alt": "Weg mit Bäumen im Herbst",
-            "date": "2015-10-24T10:13:09.000+02:00",
-            "width": 1676,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Die typischen Herbstfarben machten sich etwas rar, da die meisten Laubbäume auf dieser Höhe ihre Blätter bereits verloren hatten."
-      },
-      {
-        "photos": [
-          {
-            "name": "014",
-            "alt": "Blick vom Spicher ins Flachland",
-            "date": "2015-10-24T10:36:35.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Ich kam um 10:30 auf dem Spicher an, der Blick zurück zu einer der wagemutigen Alpen. Die Armut musste früher schon sehr groß gewesen sein, wenn es sich lohnte eine solche Wiese zu bewirtschaften. Jetzt wird dies nur noch wegen Subventionen gemacht."
-      },
-      {
-        "photos": [
-          {
-            "name": "015",
-            "alt": "Blick vom Spicher zum Säntis",
-            "date": "2015-10-24T10:38:18.000+02:00",
-            "width": 1688,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Und der Blick in die andere Richtung zum Säntis."
-      },
-      {
-        "photos": [
-          {
-            "name": "016",
-            "alt": "Blick vom Spicher zum Kronberg",
-            "date": "2015-10-24T10:38:32.000+02:00",
-            "width": 1727,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Und nach Osten Richtung Kronberg. Dort unten im Tal stand irgendwo mein Auto."
-      },
-      {
-        "photos": [
-          {
-            "name": "017",
-            "alt": "Blick vom Spicher zur Hochalp",
-            "date": "2015-10-24T10:38:47.000+02:00",
-            "width": 1920,
-            "height": 808
-          }
-        ],
-        "videos": [],
-        "text": "Und natürlich auch nach Westen. Rechts ist die Hochalp zu sehen. Wirkte sehr nah, aber sie war trotzdem eine Stunde Wegstrecke entfernt. Links die Alp Spicher. Rechts/unten der Beweis, dass ich auch wirklich da war. 😉<br />\nIch machte dann erst mal eine längere Pause und genoss die warme Sonne im Gras. Dort traf ich auch die ersten anderen Wanderer, die von der Schwägalp her eintrafen."
-      },
-      {
-        "photos": [
-          {
-            "name": "018",
-            "alt": "Serpentinen der Schwägalp Passstraße",
-            "date": "2015-10-24T10:59:34.000+02:00",
-            "width": 1875,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Blick hinab auf den bekanntesten Abschnitt der Schwägalp-Passstraße. Dort dröhnten die gesamte Zeit die Motorräder... etwas nervig."
-      },
-      {
-        "photos": [
-          {
-            "name": "019",
-            "alt": "Sumpfiger Wald",
-            "date": "2015-10-24T11:10:34.000+02:00",
-            "width": 926,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Nach dem Spicher führte der Weg meistens durch sumpfigen Wald."
-      },
-      {
-        "photos": [
-          {
-            "name": "020",
-            "alt": "Holzweg durch Moor",
-            "date": "2015-10-24T11:31:14.000+02:00",
-            "width": 1920,
-            "height": 1022
-          }
-        ],
-        "videos": [],
-        "text": "Obwohl er zum Teil mit Brettern ausgebaut war, empfehle ich hier dringend wasserdichte Schuhe."
-      },
-      {
-        "photos": [
-          {
-            "name": "021",
-            "alt": "Herbstliche Moorwiese",
-            "date": "2015-10-24T11:38:45.000+02:00",
-            "width": 1323,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Noch mehr Moorwiesen."
-      },
-      {
-        "photos": [
-          {
-            "name": "022",
-            "alt": "Pilze mit Moos",
-            "date": "2015-10-24T11:40:14.000+02:00",
-            "width": 1160,
-            "height": 1080
-          },
-          {
-            "name": "023",
-            "alt": "Pilz an Baumstamm",
-            "date": "2015-10-24T11:40:51.000+02:00",
-            "width": 1916,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Und es gab viele Pilze im Wald."
-      },
-      {
-        "photos": [
-          {
-            "name": "024",
-            "alt": "Passhöhe Schwägalp mit Säntis",
-            "date": "2015-10-24T11:59:17.000+02:00",
-            "width": 1920,
-            "height": 717
-          },
-          {
-            "name": "025",
-            "alt": "Gasthaus Passhöhe Schwägalp",
-            "date": "2015-10-24T12:08:40.000+02:00",
-            "width": 1920,
-            "height": 872
-          }
-        ],
-        "videos": [],
-        "text": "Um 12:00 kam ich schließlich auf der Passhöhe der Schwägalp an. Inzwischen war es richtig mollig warm, um nicht zu sagen schwül und drückend."
-      },
-      {
-        "photos": [
-          {
-            "name": "026",
-            "alt": "Naturerlebnisweg Schwägalp",
-            "date": "2015-10-24T12:40:15.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Ab dort ging ich auf dem schön angelegtem &quot;NaturErlebnispark&quot;-Weg weiter hinauf Richtung Schwägalp. Dieser Weg führte mich mitten durch einen großen Felssturz.<br />\nIm Hintergrund ist die Chammhalde zu sehen."
-      },
-      {
-        "photos": [
-          {
-            "name": "027",
-            "alt": "Aussicht Schwägalp",
-            "date": "2015-10-24T12:49:11.000+02:00",
-            "width": 1920,
-            "height": 691
-          }
-        ],
-        "videos": [],
-        "text": "Weitere Pause oberhalb des Hochtals nordöstlich der Talstation der Säntisbahn.... das ist die eigentliche Schwägalp."
-      },
-      {
-        "photos": [
-          {
-            "name": "028",
-            "alt": "Hochtal Schwägalp",
-            "date": "2015-10-24T12:53:12.000+02:00",
-            "width": 1806,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Es ist eine sehr schöne Landschaft dort.<br />\nHier kürzte ich etwas ab und ging quer über die Wiese zur alten Passstraße: Einer gesperrten, asphaltierten und einspurigen Straße, die mich wieder zu meinem Auto hinab führen sollte."
-      },
-      {
-        "photos": [
-          {
-            "name": "029",
-            "alt": "Alp Aueli",
-            "date": "2015-10-24T13:22:10.000+02:00",
-            "width": 1920,
-            "height": 823
-          }
-        ],
-        "videos": [],
-        "text": "Ab der Mitte kann man aber von dieser Straße abzweigen und eine schönere Variante über die Alp Aueli nehmen.<br />\nIm Hintergrund der überwanderte Grat vom Vormittag: Rechts ist die Hochalp zu sehen, links der Spicher."
-      },
-      {
-        "photos": [
-          {
-            "name": "030",
-            "alt": "Steinmauer auf Alp Aueli mit Säntis",
-            "date": "2015-10-24T13:31:26.000+02:00",
-            "width": 1920,
-            "height": 659
-          }
-        ],
-        "videos": [],
-        "text": "Letzter Blick zurück zum Säntis. Auch auf dieser Alp gab es keine Kühe mehr, was das Wandern in dieser Jahreszeit schon angenehmer macht."
-      },
-      {
-        "photos": [
-          {
-            "name": "032",
-            "alt": "Alte Passstraße zur Schwägalp",
-            "date": "2015-10-24T13:49:33.000+02:00",
-            "width": 1920,
-            "height": 975
-          }
-        ],
-        "videos": [],
-        "text": "Am Schluss dann wieder auf der alten Passstraße. Hier war ich kurz vor dem Ziel, das ich um 14:00 erreichte. Am Auto waren es dann fast 20°."
-      },
-      {
-        "photos": [
-          {
-            "name": "track1",
-            "alt": "Wegstrecke Hochalp Schwägalp",
-            "width": 1280,
-            "height": 655
-          },
-          {
-            "name": "track2",
-            "alt": "Höhenprofil Hochalp Schwägalp",
-            "width": 1280,
-            "height": 398
-          }
-        ],
-        "videos": [],
-        "text": "Zurückgelegte Strecke. 1100 Höhenmeter auf 18km in 6h. Gut zu erkennen der steile Aufstieg zu Beginn."
-      }
-    ],
-    "outro": "Fazit: Abwechslungsreiche Wanderung. Nicht zu lang und absolut harmlos. Von der Spannung her wäre sie andersherum sinnvoller, aber von der Sonnenausbeute war es so schon gut. Alternativ kann man auch von Urnäsch über den Grat zur Schwägalp laufen (bzw. anders herum) und für den jeweiligen Rückweg den Postbus nehmen."
-  }
-]
+    {
+      "photos": [
+        {
+          "name": "002",
+          "alt": "Steile Straße zur Alp Faltig",
+          "date": "2015-10-24T08:53:06.000+02:00",
+          "width": 1789,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Bei mir war immer noch Schatten. Der Blick zurück ins Tal."
+    },
+    {
+      "photos": [
+        {
+          "name": "003",
+          "alt": "Alp Faltig im Morgenlicht",
+          "date": "2015-10-24T08:59:18.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Dann aber erreichte ich die ersten Sonnenstrahlen an der Alp Faltig. Dort endete der Fahrweg und es ging auf normalem Wanderweg weiter. Hiermit hatte ich auch schon über die Hälfte der benötigten Höhenmeter geschafft."
+    },
+    {
+      "photos": [
+        {
+          "name": "004",
+          "alt": "Grat oberhalb Neckertal",
+          "date": "2015-10-24T09:07:01.000+02:00",
+          "width": 1920,
+          "height": 727
+        }
+      ],
+      "videos": [],
+      "text": "Ankunft auf dem Grat und Blick hinab auf der anderen Seite ins Neckertal. Eigentlich müsste ich nun nach links auf dem Grat weiterlaufen, um zur Schwägalp zu kommen. Aber da ich die Hochalp noch erreichen wollte, ging es für mich erst nach rechts hinauf."
+    },
+    {
+      "photos": [
+        {
+          "name": "005",
+          "alt": "Panorama Hochalp",
+          "date": "2015-10-24T09:26:19.000+02:00",
+          "width": 1920,
+          "height": 541
+        }
+      ],
+      "videos": [],
+      "text": "Nach insgesamt 600m Aufstieg erreichte ich den 1500m hohen Ostgipfel der Hochalp um 9:30. Die Hochalp ist der letzte Gipfel des Grats, der von der Schwägalp nach Urnäsch führt. Folglich hat man dort einen schönen Blick ins Flachland."
+    },
+    {
+      "photos": [
+        {
+          "name": "006",
+          "alt": "Gipfel Hochalp",
+          "date": "2015-10-24T09:27:18.000+02:00",
+          "width": 1920,
+          "height": 687
+        }
+      ],
+      "videos": [],
+      "text": "Der langgezogene Gipfel der Hochalp."
+    },
+    {
+      "photos": [
+        {
+          "name": "007",
+          "alt": "Gasthaus Hochalp",
+          "date": "2015-10-24T09:33:58.000+02:00",
+          "width": 1920,
+          "height": 640
+        }
+      ],
+      "videos": [],
+      "text": "Hier die Gaststätte auf der Hochalp. Den Abstecher dort hin hatte ich mir gespart."
+    },
+    {
+      "photos": [
+        {
+          "name": "008",
+          "alt": "Verschneite Churfirsten",
+          "date": "2015-10-24T09:34:11.000+02:00",
+          "width": 1920,
+          "height": 945
+        }
+      ],
+      "videos": [],
+      "text": "Der Blick zu den verschneiten Churfirsten, die hinter dem Alpstein auftauchten."
+    },
+    {
+      "photos": [
+        {
+          "name": "009",
+          "alt": "Wanderweg Hochalp Spicher",
+          "date": "2015-10-24T09:34:42.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Und die Vorschau auf den vor mir liegenden Weg. Bei der Alp vorne hatte ich den Grat von links kommend erreicht. Dort hin musste ich nun wieder zurück und dann weiter immer am Grat entlang Richtung Säntis.<br />\nDer Berg rechts hinten ist der Spicher, mein nächstes Ziel und ähnlich hoch wie die Hochalp."
+    },
+    {
+      "photos": [
+        {
+          "name": "010",
+          "alt": "Hangweg zu einer Alp",
+          "date": "2015-10-24T09:51:00.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Ein typisches Bild des weiteren Wegs: immer über Rippen von einer Alp zur Nächsten. Der Pfad ist gut in Schuss und vollkommen ungefährlich."
+    },
+    {
+      "photos": [
+        {
+          "name": "011",
+          "alt": "Bewaldetes Tal im Herbst",
+          "date": "2015-10-24T09:59:31.000+02:00",
+          "width": 1679,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Der Blick in das herbstliche Tal."
+    },
+    {
+      "photos": [
+        {
+          "name": "012",
+          "alt": "Heißluftballon von unten",
+          "date": "2015-10-24T10:08:10.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Dann wurde ich von einem Heißluftballon überholt, von denen an diesem Tag einige unterwegs waren. Ansonsten war ich noch niemanden anderen begegnet."
+    },
+    {
+      "photos": [
+        {
+          "name": "013",
+          "alt": "Weg mit Bäumen im Herbst",
+          "date": "2015-10-24T10:13:09.000+02:00",
+          "width": 1676,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Die typischen Herbstfarben machten sich etwas rar, da die meisten Laubbäume auf dieser Höhe ihre Blätter bereits verloren hatten."
+    },
+    {
+      "photos": [
+        {
+          "name": "014",
+          "alt": "Blick vom Spicher ins Flachland",
+          "date": "2015-10-24T10:36:35.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Ich kam um 10:30 auf dem Spicher an, der Blick zurück zu einer der wagemutigen Alpen. Die Armut musste früher schon sehr groß gewesen sein, wenn es sich lohnte eine solche Wiese zu bewirtschaften. Jetzt wird dies nur noch wegen Subventionen gemacht."
+    },
+    {
+      "photos": [
+        {
+          "name": "015",
+          "alt": "Blick vom Spicher zum Säntis",
+          "date": "2015-10-24T10:38:18.000+02:00",
+          "width": 1688,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Und der Blick in die andere Richtung zum Säntis."
+    },
+    {
+      "photos": [
+        {
+          "name": "016",
+          "alt": "Blick vom Spicher zum Kronberg",
+          "date": "2015-10-24T10:38:32.000+02:00",
+          "width": 1727,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Und nach Osten Richtung Kronberg. Dort unten im Tal stand irgendwo mein Auto."
+    },
+    {
+      "photos": [
+        {
+          "name": "017",
+          "alt": "Blick vom Spicher zur Hochalp",
+          "date": "2015-10-24T10:38:47.000+02:00",
+          "width": 1920,
+          "height": 808
+        }
+      ],
+      "videos": [],
+      "text": "Und natürlich auch nach Westen. Rechts ist die Hochalp zu sehen. Wirkte sehr nah, aber sie war trotzdem eine Stunde Wegstrecke entfernt. Links die Alp Spicher. Rechts/unten der Beweis, dass ich auch wirklich da war. 😉<br />\nIch machte dann erst mal eine längere Pause und genoss die warme Sonne im Gras. Dort traf ich auch die ersten anderen Wanderer, die von der Schwägalp her eintrafen."
+    },
+    {
+      "photos": [
+        {
+          "name": "018",
+          "alt": "Serpentinen der Schwägalp Passstraße",
+          "date": "2015-10-24T10:59:34.000+02:00",
+          "width": 1875,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Blick hinab auf den bekanntesten Abschnitt der Schwägalp-Passstraße. Dort dröhnten die gesamte Zeit die Motorräder... etwas nervig."
+    },
+    {
+      "photos": [
+        {
+          "name": "019",
+          "alt": "Sumpfiger Wald",
+          "date": "2015-10-24T11:10:34.000+02:00",
+          "width": 926,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Nach dem Spicher führte der Weg meistens durch sumpfigen Wald."
+    },
+    {
+      "photos": [
+        {
+          "name": "020",
+          "alt": "Holzweg durch Moor",
+          "date": "2015-10-24T11:31:14.000+02:00",
+          "width": 1920,
+          "height": 1022
+        }
+      ],
+      "videos": [],
+      "text": "Obwohl er zum Teil mit Brettern ausgebaut war, empfehle ich hier dringend wasserdichte Schuhe."
+    },
+    {
+      "photos": [
+        {
+          "name": "021",
+          "alt": "Herbstliche Moorwiese",
+          "date": "2015-10-24T11:38:45.000+02:00",
+          "width": 1323,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Noch mehr Moorwiesen."
+    },
+    {
+      "photos": [
+        {
+          "name": "022",
+          "alt": "Pilze mit Moos",
+          "date": "2015-10-24T11:40:14.000+02:00",
+          "width": 1160,
+          "height": 1080
+        },
+        {
+          "name": "023",
+          "alt": "Pilz an Baumstamm",
+          "date": "2015-10-24T11:40:51.000+02:00",
+          "width": 1916,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Und es gab viele Pilze im Wald."
+    },
+    {
+      "photos": [
+        {
+          "name": "024",
+          "alt": "Passhöhe Schwägalp mit Säntis",
+          "date": "2015-10-24T11:59:17.000+02:00",
+          "width": 1920,
+          "height": 717
+        },
+        {
+          "name": "025",
+          "alt": "Gasthaus Passhöhe Schwägalp",
+          "date": "2015-10-24T12:08:40.000+02:00",
+          "width": 1920,
+          "height": 872
+        }
+      ],
+      "videos": [],
+      "text": "Um 12:00 kam ich schließlich auf der Passhöhe der Schwägalp an. Inzwischen war es richtig mollig warm, um nicht zu sagen schwül und drückend."
+    },
+    {
+      "photos": [
+        {
+          "name": "026",
+          "alt": "Naturerlebnisweg Schwägalp",
+          "date": "2015-10-24T12:40:15.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Ab dort ging ich auf dem schön angelegtem &quot;NaturErlebnispark&quot;-Weg weiter hinauf Richtung Schwägalp. Dieser Weg führte mich mitten durch einen großen Felssturz.<br />\nIm Hintergrund ist die Chammhalde zu sehen."
+    },
+    {
+      "photos": [
+        {
+          "name": "027",
+          "alt": "Aussicht Schwägalp",
+          "date": "2015-10-24T12:49:11.000+02:00",
+          "width": 1920,
+          "height": 691
+        }
+      ],
+      "videos": [],
+      "text": "Weitere Pause oberhalb des Hochtals nordöstlich der Talstation der Säntisbahn.... das ist die eigentliche Schwägalp."
+    },
+    {
+      "photos": [
+        {
+          "name": "028",
+          "alt": "Hochtal Schwägalp",
+          "date": "2015-10-24T12:53:12.000+02:00",
+          "width": 1806,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Es ist eine sehr schöne Landschaft dort.<br />\nHier kürzte ich etwas ab und ging quer über die Wiese zur alten Passstraße: Einer gesperrten, asphaltierten und einspurigen Straße, die mich wieder zu meinem Auto hinab führen sollte."
+    },
+    {
+      "photos": [
+        {
+          "name": "029",
+          "alt": "Alp Aueli",
+          "date": "2015-10-24T13:22:10.000+02:00",
+          "width": 1920,
+          "height": 823
+        }
+      ],
+      "videos": [],
+      "text": "Ab der Mitte kann man aber von dieser Straße abzweigen und eine schönere Variante über die Alp Aueli nehmen.<br />\nIm Hintergrund der überwanderte Grat vom Vormittag: Rechts ist die Hochalp zu sehen, links der Spicher."
+    },
+    {
+      "photos": [
+        {
+          "name": "030",
+          "alt": "Steinmauer auf Alp Aueli mit Säntis",
+          "date": "2015-10-24T13:31:26.000+02:00",
+          "width": 1920,
+          "height": 659
+        }
+      ],
+      "videos": [],
+      "text": "Letzter Blick zurück zum Säntis. Auch auf dieser Alp gab es keine Kühe mehr, was das Wandern in dieser Jahreszeit schon angenehmer macht."
+    },
+    {
+      "photos": [
+        {
+          "name": "032",
+          "alt": "Alte Passstraße zur Schwägalp",
+          "date": "2015-10-24T13:49:33.000+02:00",
+          "width": 1920,
+          "height": 975
+        }
+      ],
+      "videos": [],
+      "text": "Am Schluss dann wieder auf der alten Passstraße. Hier war ich kurz vor dem Ziel, das ich um 14:00 erreichte. Am Auto waren es dann fast 20°."
+    },
+    {
+      "photos": [
+        {
+          "name": "track1",
+          "alt": "Wegstrecke Hochalp Schwägalp",
+          "width": 1280,
+          "height": 655
+        },
+        {
+          "name": "track2",
+          "alt": "Höhenprofil Hochalp Schwägalp",
+          "width": 1280,
+          "height": 398
+        }
+      ],
+      "videos": [],
+      "text": "Zurückgelegte Strecke. 1100 Höhenmeter auf 18km in 6h. Gut zu erkennen der steile Aufstieg zu Beginn."
+    }
+  ],
+  "outro": "Fazit: Abwechslungsreiche Wanderung. Nicht zu lang und absolut harmlos. Von der Spannung her wäre sie andersherum sinnvoller, aber von der Sonnenausbeute war es so schon gut. Alternativ kann man auch von Urnäsch über den Grat zur Schwägalp laufen (bzw. anders herum) und für den jeweiligen Rückweg den Postbus nehmen."
+}

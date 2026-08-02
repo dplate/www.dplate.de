@@ -1,472 +1,470 @@
-[
-  {
-    "destination": "serfaus-fiss-ladis",
-    "date": "d20140407",
-    "track": true,
-    "detailMap": "austria",
-    "timeShift": 75,
-    "hideSwissTopo": true,
-    "shortTitle": "Serfaus Fiss Ladis",
-    "title": "Serfaus/Fiss/Ladis",
-    "intro": "Da ich noch nie in Serfaus/Fiss/Ladis war, beschloss ich dort auch mal hinzufahren. Kurzer Check im Routenplaner gibt 2:20h als Fahrzeit und 200km an... für mich gerade noch akzeptabel für einen Tagesausflug.<br />\nAlso ging es am sechsten Skitag meines Urlaub früh morgens an diesem sonnigen Montag los und ich erreichte den Parkplatz der Waldbahn in Fiss um 8:30. Erst zweites Auto auf dem riesigen Parkplatz, da die Bahn erst um 8:45 startet. Tageskarte kostete 43€, leider keine großen Rabatte für Tageskarten durch die aktuellen Frühlingsaktionen.",
-    "landmarks": [
-      {
-        "photos": [
-          {
-            "name": "001",
-            "alt": "Pistenplan",
-            "date": "2014-04-07T08:31:39.000+02:00",
-            "width": 1920,
-            "height": 784
-          }
-        ],
-        "videos": [],
-        "text": "Noch Zeit genug den Pistenplan zu studieren... aber zu viel drauf, um den wirklich zu erfassen, geschweige denn zu merken. Also liebe SFL-Fans, verzeiht mir mein zum Teil planloses vorgehen. 😉"
-      },
-      {
-        "photos": [
-          {
-            "name": "002",
-            "alt": "Talabfahrt Waldbahn",
-            "date": "2014-04-07T08:35:36.000+02:00",
-            "width": 1920,
-            "height": 851
-          }
-        ],
-        "videos": [],
-        "text": "Schon mal ein erster Blick auf die Talabfahrt zur Waldbahn und den Bikepark."
-      },
-      {
-        "photos": [
-          {
-            "name": "003",
-            "alt": "Fiss",
-            "date": "2014-04-07T08:47:29.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Dann ging es endlich los. Blick aus der Gondel auf Fiss und den anderen beiden geöffneten Talabfahrten nach Fiss."
-      },
-      {
-        "photos": [
-          {
-            "name": "004",
-            "alt": "Schneebänder Fiss",
-            "date": "2014-04-07T09:04:39.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Ich beschloss erst mal zum Gebiet rund um das Schönjoch zu fahren, was sich später als nicht so geschickt rausstellte.<br />\nDurch die anderen Berichte hier, war ich schon etwas vorgewarnt, wie wenig Schnee zur Zeit liegt... aber so etwas wie hier habe ich noch nie in einem geöffnetem Skigebiet erlebt."
-      },
-      {
-        "photos": [
-          {
-            "name": "005",
-            "alt": "Schönjochbahn",
-            "date": "2014-04-07T09:20:40.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Nach der Abfahrt bis nach Fiss, Auffahrt mit der Schönjochbahn I und II auf das Schönjoch. Das ist oben immerhin 2400m hoch, aber bis oben auf dieser Sonnenseite praktisch kein Schnee."
-      },
-      {
-        "photos": [
-          {
-            "name": "006",
-            "alt": "Plazörabfahrt",
-            "date": "2014-04-07T09:28:58.000+02:00",
-            "width": 1920,
-            "height": 789
-          },
-          {
-            "name": "007",
-            "alt": "Zirbenhütte",
-            "date": "2014-04-07T09:29:53.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Auf der Rückseite dagegen schon. 😃 Hier die überbreite Piste zur Achter-Sesselbahn Schöngamp."
-      },
-      {
-        "photos": [
-          {
-            "name": "008",
-            "alt": "Schöngampbahn",
-            "date": "2014-04-07T09:32:22.000+02:00",
-            "width": 1920,
-            "height": 835
-          }
-        ],
-        "videos": [],
-        "text": "Und in der Bahn. Blick auf die Rennstrecke, Funpark und den Rest dieses Gebiets."
-      },
-      {
-        "photos": [
-          {
-            "name": "009",
-            "alt": "Almbahn",
-            "date": "2014-04-07T09:50:08.000+02:00",
-            "width": 1920,
-            "height": 708
-          }
-        ],
-        "videos": [],
-        "text": "Weiter zur Zwölferbahn und Almbahn."
-      },
-      {
-        "photos": [
-          {
-            "name": "010",
-            "alt": "Aussichtsplattform Zwölferkopf",
-            "date": "2014-04-07T10:04:09.000+02:00",
-            "width": 1920,
-            "height": 829
-          }
-        ],
-        "videos": [],
-        "text": "Aussichtsplatfform am Gipfel der Almbahn. Ziemlich unnötig, da man von dort oben nicht mehr sieht als direkt daneben."
-      },
-      {
-        "photos": [
-          {
-            "name": "011",
-            "alt": "Schönjochabfahrt",
-            "date": "2014-04-07T10:09:06.000+02:00",
-            "width": 1920,
-            "height": 892
-          }
-        ],
-        "videos": [],
-        "text": "Leider waren die Pisten auf der Nordseite für meinen Geschmack noch zu hart, so dass ich erst mal dieses Gebiet abhakte und auf der Südseite zur Sattelbahn abfuhr. Die Abfahrt am Anfang ist eine ziemlich schmale Serpentinentrasse... zum Glück war hier nichts los."
-      },
-      {
-        "photos": [
-          {
-            "name": "012",
-            "alt": "Kunstschneepisten",
-            "date": "2014-04-07T10:13:38.000+02:00",
-            "width": 1920,
-            "height": 804
-          }
-        ],
-        "videos": [],
-        "text": "Blick zurück von der Sattelbahn zum Schönjoch."
-      },
-      {
-        "photos": [
-          {
-            "name": "013",
-            "alt": "Kunstschnee",
-            "date": "2014-04-07T10:26:16.000+02:00",
-            "width": 1920,
-            "height": 479
-          },
-          {
-            "name": "014",
-            "alt": "Skigebiet Serfaus",
-            "date": "2014-04-07T10:26:45.000+02:00",
-            "width": 1920,
-            "height": 762
-          },
-          {
-            "name": "015",
-            "alt": "Talabfahrt Serfaus",
-            "date": "2014-04-07T10:29:25.000+02:00",
-            "width": 1920,
-            "height": 577
-          }
-        ],
-        "videos": [],
-        "text": "Abfahrt auf der Rückseite der Sattelbahn nach Serfaus. Wie man sieht auch hier kein Schnee.<br />\nDer Gewinner in Sachen weißes Band ist eindeutig die Abfahrt an der Sunliner Gondelbahn."
-      },
-      {
-        "photos": [
-          {
-            "name": "016",
-            "alt": "Serfaus Frühling",
-            "date": "2014-04-07T10:38:34.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Danach bin ich mit der Komperdell-Bahn weitergefahren. Blick zurück aus der Bahn auf die gefahrene Piste."
-      },
-      {
-        "photos": [
-          {
-            "name": "017",
-            "alt": "Panorama Obere Scheid",
-            "date": "2014-04-07T11:05:27.000+02:00",
-            "width": 1920,
-            "height": 758
-          }
-        ],
-        "videos": [],
-        "text": "Nach der Fahrt mit der Plansegg- und Obere Scheidbahn Aussicht auf das weitere Gebiet. Ab dort kann man fast von Winter sprechen.<br />\nDie Abfahrt von der Oberen Scheidbahn war allerdings ziemlich schlecht und steinig... muss wahrscheinlich bald geschlossen werden."
-      },
-      {
-        "photos": [
-          {
-            "name": "018",
-            "alt": "Masnerkopf",
-            "date": "2014-04-07T11:27:54.000+02:00",
-            "width": 1920,
-            "height": 844
-          }
-        ],
-        "videos": [],
-        "text": "Danach Fahrt mit der Scheidbahn (dort musste ich sogar anstehen... sind wohl bereits einige Osterurlauber eingetroffen), der Pezidbahn und einer übervollen Trasse zum Arrezjoch.<br />\nBlick auf den letzten Sektor  rund um den Masnerkopf."
-      },
-      {
-        "photos": [
-          {
-            "name": "019",
-            "alt": "Skihütte Masner",
-            "date": "2014-04-07T11:56:47.000+02:00",
-            "width": 1920,
-            "height": 696
-          }
-        ],
-        "videos": [],
-        "text": "Erst mal Mittagspause auf der großen Terasse der Ski&quot;hütte&quot; Masner. Angenehm warm auf 2400m."
-      },
-      {
-        "photos": [
-          {
-            "name": "020",
-            "alt": "Abfahrt Masnerkopf",
-            "date": "2014-04-07T12:42:13.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Danach ging ich die Pisten am Masnerkopf an, wo von diese steilere vorne herunter die beste war - denn die Pisten auf der Rückseite war noch (12:30) ziemlich eisig."
-      },
-      {
-        "photos": [
-          {
-            "name": "021",
-            "alt": "Piste Pezidbahn",
-            "date": "2014-04-07T12:50:15.000+02:00",
-            "width": 1920,
-            "height": 708
-          },
-          {
-            "name": "022",
-            "alt": "Pezidbahn",
-            "date": "2014-04-07T12:52:56.000+02:00",
-            "width": 1920,
-            "height": 508
-          }
-        ],
-        "videos": [],
-        "text": "Anschließend gings wieder zur Pezidbahn und den Pisten dort. Unverständlich für mich, warum das eine Gondelbahn und keine Sesselbahn ist. Die beiden Abfahrten dort waren leider auch noch ziemlich hart."
-      },
-      {
-        "photos": [
-          {
-            "name": "023",
-            "alt": "Scheidbahn",
-            "date": "2014-04-07T13:18:20.000+02:00",
-            "width": 1714,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Also weiter zu den Pisten der Scheidbahn, die sehr schön waren... außerdem war es dort nun total leer."
-      },
-      {
-        "photos": [
-          {
-            "name": "024",
-            "alt": "Abfahrt Laustalbahn",
-            "date": "2014-04-07T13:32:59.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Und weiter ging's zur Lazidbahn (jetzt wieder im Frühling)."
-      },
-      {
-        "photos": [
-          {
-            "name": "025",
-            "alt": "Laustalbahn",
-            "date": "2014-04-07T13:35:28.000+02:00",
-            "width": 1535,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Nicht ganz. Da die Talstation auf einem Buckel steht, muss man immer wieder mit dieser ultrakurzen Vierer-Sesselbahn fahren."
-      },
-      {
-        "photos": [
-          {
-            "name": "026",
-            "alt": "Lawensbahn",
-            "date": "2014-04-07T13:54:30.000+02:00",
-            "width": 1920,
-            "height": 702
-          }
-        ],
-        "videos": [],
-        "text": "Nach der Lazidbahn bin ich dort auf der Rückseite zur Lawensbahn abgefahren. War eine sehr schöne Abfahrt."
-      },
-      {
-        "photos": [
-          {
-            "name": "027",
-            "alt": "Restaurant Lassida",
-            "date": "2014-04-07T13:58:13.000+02:00",
-            "width": 1724,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Gratpiste von der Bergstation der Lawens- zur Bergstation der Lazidbahn."
-      },
-      {
-        "photos": [
-          {
-            "name": "028",
-            "alt": "Hohe Pleis Abfahrt",
-            "date": "2014-04-07T14:00:43.000+02:00",
-            "width": 1148,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Und eine der schwarzen Abfahrten der Lazidbahn. Mit die beste an diesem Tag."
-      },
-      {
-        "photos": [
-          {
-            "name": "029",
-            "alt": "Komperdell",
-            "date": "2014-04-07T14:18:32.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Blick auf das Zentrum des Serfaus-Skigebiets. Einen Architekturwettbewerb gewinnt das garantiert nicht. Und unglaublich, was da alles auf den Berg gestellt wurde."
-      },
-      {
-        "photos": [
-          {
-            "name": "030",
-            "alt": "Waldabfahrt Serfaus",
-            "date": "2014-04-07T14:25:17.000+02:00",
-            "width": 1920,
-            "height": 965
-          },
-          {
-            "name": "031",
-            "alt": "Alpkopfbahn",
-            "date": "2014-04-07T14:28:05.000+02:00",
-            "width": 1920,
-            "height": 584
-          }
-        ],
-        "videos": [],
-        "text": "Also lieber weiter zur einsamen Waldabfahrt nach Serfaus, die wirklich top war."
-      },
-      {
-        "photos": [
-          {
-            "name": "032",
-            "alt": "Almbahn",
-            "date": "2014-04-07T15:09:26.000+02:00",
-            "width": 1920,
-            "height": 1023
-          }
-        ],
-        "videos": [],
-        "text": "Da ich nun so ziemlich alles abgefahren hatte, bin ich noch mal zurück zum Schönjoch, um dort noch fehlende Pisten zu fahren. War auf jeden Fall die richtige Entscheidung, da dort die Pisten am Nachmittag nun den richtigen Zustand hatten. Außerdem war dort nichts mehr los."
-      },
-      {
-        "photos": [
-          {
-            "name": "033",
-            "alt": "Adlerpiste",
-            "date": "2014-04-07T15:16:51.000+02:00",
-            "width": 1920,
-            "height": 1016
-          }
-        ],
-        "videos": [],
-        "text": "Auf der Adlerpiste an der Almbahn. In dieser Gondelbahn bin ich fast verreckt: Schweißgebadet von der Abfahrt, kaum ein Lüftchen von den kleinen Fenstern und dazu ein nerviges Tonband, das mich über das Balzverhalten von Rotwild aufklärte... irgendwie haben sie diese kindgerechte Bahn an die falsche Stelle gebaut, denn die Abfahrten sind dort ja nicht gerade flach."
-      },
-      {
-        "photos": [
-          {
-            "name": "034",
-            "alt": "Frommesabfahrt",
-            "date": "2014-04-07T15:43:07.000+02:00",
-            "width": 1920,
-            "height": 690
-          }
-        ],
-        "videos": [],
-        "text": "Andere Abfahrt vom Schönjoch nach Fiss. Sehr schöne Piste und ich glaube auch die einzige Hintenrum-Piste in SFL."
-      },
-      {
-        "photos": [
-          {
-            "name": "035",
-            "alt": "Sonnenbahn Ladis-Fiss",
-            "date": "2014-04-07T15:50:43.000+02:00",
-            "width": 1920,
-            "height": 775
-          }
-        ],
-        "videos": [],
-        "text": "Ankunft in Fiss über blühende Wiesen. Hier unten nun sehr heiß, um die 20°!"
-      },
-      {
-        "photos": [
-          {
-            "name": "036",
-            "alt": "Fiss",
-            "date": "2014-04-07T16:32:23.000+02:00",
-            "width": 1817,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Anschließend noch den Tag ausklingen gelassen an der Sattel- und Puinzbahn, die bis 16:30 fährt... während die anderen schon die letzte Bergfahrt um 16:00 haben. Die Pisten dort waren aber noch sehr gut, da sie kaum befahren waren."
-      },
-      {
-        "photos": [
-          {
-            "name": "track1",
-            "alt": "Streckenplan",
-            "width": 1280,
-            "height": 655
-          },
-          {
-            "name": "track2",
-            "alt": "Höhenprofil",
-            "width": 1280,
-            "height": 285
-          }
-        ],
-        "videos": [],
-        "text": "Gefahrene Strecke, 130km und 16 Höhenkilometer."
-      }
-    ],
-    "outro": "Fazit: Neues Gebiet ist immer gut. Schön finde ich, dass es auch einige steilere Pisten gibt. Nicht so gut die vielen Gondelbahn und diese gewollte Gestrecktheit des Gebiets bis zum Masnerkopf.<br />\nAußerdem hätte es natürlich etwas winterlicher sein können. 😉"
-  }
-]
+{
+  "destination": "serfaus-fiss-ladis",
+  "date": "d20140407",
+  "track": true,
+  "detailMap": "austria",
+  "timeShift": 75,
+  "hideSwissTopo": true,
+  "shortTitle": "Serfaus Fiss Ladis",
+  "title": "Serfaus/Fiss/Ladis",
+  "intro": "Da ich noch nie in Serfaus/Fiss/Ladis war, beschloss ich dort auch mal hinzufahren. Kurzer Check im Routenplaner gibt 2:20h als Fahrzeit und 200km an... für mich gerade noch akzeptabel für einen Tagesausflug.<br />\nAlso ging es am sechsten Skitag meines Urlaub früh morgens an diesem sonnigen Montag los und ich erreichte den Parkplatz der Waldbahn in Fiss um 8:30. Erst zweites Auto auf dem riesigen Parkplatz, da die Bahn erst um 8:45 startet. Tageskarte kostete 43€, leider keine großen Rabatte für Tageskarten durch die aktuellen Frühlingsaktionen.",
+  "landmarks": [
+    {
+      "photos": [
+        {
+          "name": "001",
+          "alt": "Pistenplan",
+          "date": "2014-04-07T08:31:39.000+02:00",
+          "width": 1920,
+          "height": 784
+        }
+      ],
+      "videos": [],
+      "text": "Noch Zeit genug den Pistenplan zu studieren... aber zu viel drauf, um den wirklich zu erfassen, geschweige denn zu merken. Also liebe SFL-Fans, verzeiht mir mein zum Teil planloses vorgehen. 😉"
+    },
+    {
+      "photos": [
+        {
+          "name": "002",
+          "alt": "Talabfahrt Waldbahn",
+          "date": "2014-04-07T08:35:36.000+02:00",
+          "width": 1920,
+          "height": 851
+        }
+      ],
+      "videos": [],
+      "text": "Schon mal ein erster Blick auf die Talabfahrt zur Waldbahn und den Bikepark."
+    },
+    {
+      "photos": [
+        {
+          "name": "003",
+          "alt": "Fiss",
+          "date": "2014-04-07T08:47:29.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Dann ging es endlich los. Blick aus der Gondel auf Fiss und den anderen beiden geöffneten Talabfahrten nach Fiss."
+    },
+    {
+      "photos": [
+        {
+          "name": "004",
+          "alt": "Schneebänder Fiss",
+          "date": "2014-04-07T09:04:39.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Ich beschloss erst mal zum Gebiet rund um das Schönjoch zu fahren, was sich später als nicht so geschickt rausstellte.<br />\nDurch die anderen Berichte hier, war ich schon etwas vorgewarnt, wie wenig Schnee zur Zeit liegt... aber so etwas wie hier habe ich noch nie in einem geöffnetem Skigebiet erlebt."
+    },
+    {
+      "photos": [
+        {
+          "name": "005",
+          "alt": "Schönjochbahn",
+          "date": "2014-04-07T09:20:40.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Nach der Abfahrt bis nach Fiss, Auffahrt mit der Schönjochbahn I und II auf das Schönjoch. Das ist oben immerhin 2400m hoch, aber bis oben auf dieser Sonnenseite praktisch kein Schnee."
+    },
+    {
+      "photos": [
+        {
+          "name": "006",
+          "alt": "Plazörabfahrt",
+          "date": "2014-04-07T09:28:58.000+02:00",
+          "width": 1920,
+          "height": 789
+        },
+        {
+          "name": "007",
+          "alt": "Zirbenhütte",
+          "date": "2014-04-07T09:29:53.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Auf der Rückseite dagegen schon. 😃 Hier die überbreite Piste zur Achter-Sesselbahn Schöngamp."
+    },
+    {
+      "photos": [
+        {
+          "name": "008",
+          "alt": "Schöngampbahn",
+          "date": "2014-04-07T09:32:22.000+02:00",
+          "width": 1920,
+          "height": 835
+        }
+      ],
+      "videos": [],
+      "text": "Und in der Bahn. Blick auf die Rennstrecke, Funpark und den Rest dieses Gebiets."
+    },
+    {
+      "photos": [
+        {
+          "name": "009",
+          "alt": "Almbahn",
+          "date": "2014-04-07T09:50:08.000+02:00",
+          "width": 1920,
+          "height": 708
+        }
+      ],
+      "videos": [],
+      "text": "Weiter zur Zwölferbahn und Almbahn."
+    },
+    {
+      "photos": [
+        {
+          "name": "010",
+          "alt": "Aussichtsplattform Zwölferkopf",
+          "date": "2014-04-07T10:04:09.000+02:00",
+          "width": 1920,
+          "height": 829
+        }
+      ],
+      "videos": [],
+      "text": "Aussichtsplatfform am Gipfel der Almbahn. Ziemlich unnötig, da man von dort oben nicht mehr sieht als direkt daneben."
+    },
+    {
+      "photos": [
+        {
+          "name": "011",
+          "alt": "Schönjochabfahrt",
+          "date": "2014-04-07T10:09:06.000+02:00",
+          "width": 1920,
+          "height": 892
+        }
+      ],
+      "videos": [],
+      "text": "Leider waren die Pisten auf der Nordseite für meinen Geschmack noch zu hart, so dass ich erst mal dieses Gebiet abhakte und auf der Südseite zur Sattelbahn abfuhr. Die Abfahrt am Anfang ist eine ziemlich schmale Serpentinentrasse... zum Glück war hier nichts los."
+    },
+    {
+      "photos": [
+        {
+          "name": "012",
+          "alt": "Kunstschneepisten",
+          "date": "2014-04-07T10:13:38.000+02:00",
+          "width": 1920,
+          "height": 804
+        }
+      ],
+      "videos": [],
+      "text": "Blick zurück von der Sattelbahn zum Schönjoch."
+    },
+    {
+      "photos": [
+        {
+          "name": "013",
+          "alt": "Kunstschnee",
+          "date": "2014-04-07T10:26:16.000+02:00",
+          "width": 1920,
+          "height": 479
+        },
+        {
+          "name": "014",
+          "alt": "Skigebiet Serfaus",
+          "date": "2014-04-07T10:26:45.000+02:00",
+          "width": 1920,
+          "height": 762
+        },
+        {
+          "name": "015",
+          "alt": "Talabfahrt Serfaus",
+          "date": "2014-04-07T10:29:25.000+02:00",
+          "width": 1920,
+          "height": 577
+        }
+      ],
+      "videos": [],
+      "text": "Abfahrt auf der Rückseite der Sattelbahn nach Serfaus. Wie man sieht auch hier kein Schnee.<br />\nDer Gewinner in Sachen weißes Band ist eindeutig die Abfahrt an der Sunliner Gondelbahn."
+    },
+    {
+      "photos": [
+        {
+          "name": "016",
+          "alt": "Serfaus Frühling",
+          "date": "2014-04-07T10:38:34.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Danach bin ich mit der Komperdell-Bahn weitergefahren. Blick zurück aus der Bahn auf die gefahrene Piste."
+    },
+    {
+      "photos": [
+        {
+          "name": "017",
+          "alt": "Panorama Obere Scheid",
+          "date": "2014-04-07T11:05:27.000+02:00",
+          "width": 1920,
+          "height": 758
+        }
+      ],
+      "videos": [],
+      "text": "Nach der Fahrt mit der Plansegg- und Obere Scheidbahn Aussicht auf das weitere Gebiet. Ab dort kann man fast von Winter sprechen.<br />\nDie Abfahrt von der Oberen Scheidbahn war allerdings ziemlich schlecht und steinig... muss wahrscheinlich bald geschlossen werden."
+    },
+    {
+      "photos": [
+        {
+          "name": "018",
+          "alt": "Masnerkopf",
+          "date": "2014-04-07T11:27:54.000+02:00",
+          "width": 1920,
+          "height": 844
+        }
+      ],
+      "videos": [],
+      "text": "Danach Fahrt mit der Scheidbahn (dort musste ich sogar anstehen... sind wohl bereits einige Osterurlauber eingetroffen), der Pezidbahn und einer übervollen Trasse zum Arrezjoch.<br />\nBlick auf den letzten Sektor  rund um den Masnerkopf."
+    },
+    {
+      "photos": [
+        {
+          "name": "019",
+          "alt": "Skihütte Masner",
+          "date": "2014-04-07T11:56:47.000+02:00",
+          "width": 1920,
+          "height": 696
+        }
+      ],
+      "videos": [],
+      "text": "Erst mal Mittagspause auf der großen Terasse der Ski&quot;hütte&quot; Masner. Angenehm warm auf 2400m."
+    },
+    {
+      "photos": [
+        {
+          "name": "020",
+          "alt": "Abfahrt Masnerkopf",
+          "date": "2014-04-07T12:42:13.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Danach ging ich die Pisten am Masnerkopf an, wo von diese steilere vorne herunter die beste war - denn die Pisten auf der Rückseite war noch (12:30) ziemlich eisig."
+    },
+    {
+      "photos": [
+        {
+          "name": "021",
+          "alt": "Piste Pezidbahn",
+          "date": "2014-04-07T12:50:15.000+02:00",
+          "width": 1920,
+          "height": 708
+        },
+        {
+          "name": "022",
+          "alt": "Pezidbahn",
+          "date": "2014-04-07T12:52:56.000+02:00",
+          "width": 1920,
+          "height": 508
+        }
+      ],
+      "videos": [],
+      "text": "Anschließend gings wieder zur Pezidbahn und den Pisten dort. Unverständlich für mich, warum das eine Gondelbahn und keine Sesselbahn ist. Die beiden Abfahrten dort waren leider auch noch ziemlich hart."
+    },
+    {
+      "photos": [
+        {
+          "name": "023",
+          "alt": "Scheidbahn",
+          "date": "2014-04-07T13:18:20.000+02:00",
+          "width": 1714,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Also weiter zu den Pisten der Scheidbahn, die sehr schön waren... außerdem war es dort nun total leer."
+    },
+    {
+      "photos": [
+        {
+          "name": "024",
+          "alt": "Abfahrt Laustalbahn",
+          "date": "2014-04-07T13:32:59.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Und weiter ging's zur Lazidbahn (jetzt wieder im Frühling)."
+    },
+    {
+      "photos": [
+        {
+          "name": "025",
+          "alt": "Laustalbahn",
+          "date": "2014-04-07T13:35:28.000+02:00",
+          "width": 1535,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Nicht ganz. Da die Talstation auf einem Buckel steht, muss man immer wieder mit dieser ultrakurzen Vierer-Sesselbahn fahren."
+    },
+    {
+      "photos": [
+        {
+          "name": "026",
+          "alt": "Lawensbahn",
+          "date": "2014-04-07T13:54:30.000+02:00",
+          "width": 1920,
+          "height": 702
+        }
+      ],
+      "videos": [],
+      "text": "Nach der Lazidbahn bin ich dort auf der Rückseite zur Lawensbahn abgefahren. War eine sehr schöne Abfahrt."
+    },
+    {
+      "photos": [
+        {
+          "name": "027",
+          "alt": "Restaurant Lassida",
+          "date": "2014-04-07T13:58:13.000+02:00",
+          "width": 1724,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Gratpiste von der Bergstation der Lawens- zur Bergstation der Lazidbahn."
+    },
+    {
+      "photos": [
+        {
+          "name": "028",
+          "alt": "Hohe Pleis Abfahrt",
+          "date": "2014-04-07T14:00:43.000+02:00",
+          "width": 1148,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Und eine der schwarzen Abfahrten der Lazidbahn. Mit die beste an diesem Tag."
+    },
+    {
+      "photos": [
+        {
+          "name": "029",
+          "alt": "Komperdell",
+          "date": "2014-04-07T14:18:32.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Blick auf das Zentrum des Serfaus-Skigebiets. Einen Architekturwettbewerb gewinnt das garantiert nicht. Und unglaublich, was da alles auf den Berg gestellt wurde."
+    },
+    {
+      "photos": [
+        {
+          "name": "030",
+          "alt": "Waldabfahrt Serfaus",
+          "date": "2014-04-07T14:25:17.000+02:00",
+          "width": 1920,
+          "height": 965
+        },
+        {
+          "name": "031",
+          "alt": "Alpkopfbahn",
+          "date": "2014-04-07T14:28:05.000+02:00",
+          "width": 1920,
+          "height": 584
+        }
+      ],
+      "videos": [],
+      "text": "Also lieber weiter zur einsamen Waldabfahrt nach Serfaus, die wirklich top war."
+    },
+    {
+      "photos": [
+        {
+          "name": "032",
+          "alt": "Almbahn",
+          "date": "2014-04-07T15:09:26.000+02:00",
+          "width": 1920,
+          "height": 1023
+        }
+      ],
+      "videos": [],
+      "text": "Da ich nun so ziemlich alles abgefahren hatte, bin ich noch mal zurück zum Schönjoch, um dort noch fehlende Pisten zu fahren. War auf jeden Fall die richtige Entscheidung, da dort die Pisten am Nachmittag nun den richtigen Zustand hatten. Außerdem war dort nichts mehr los."
+    },
+    {
+      "photos": [
+        {
+          "name": "033",
+          "alt": "Adlerpiste",
+          "date": "2014-04-07T15:16:51.000+02:00",
+          "width": 1920,
+          "height": 1016
+        }
+      ],
+      "videos": [],
+      "text": "Auf der Adlerpiste an der Almbahn. In dieser Gondelbahn bin ich fast verreckt: Schweißgebadet von der Abfahrt, kaum ein Lüftchen von den kleinen Fenstern und dazu ein nerviges Tonband, das mich über das Balzverhalten von Rotwild aufklärte... irgendwie haben sie diese kindgerechte Bahn an die falsche Stelle gebaut, denn die Abfahrten sind dort ja nicht gerade flach."
+    },
+    {
+      "photos": [
+        {
+          "name": "034",
+          "alt": "Frommesabfahrt",
+          "date": "2014-04-07T15:43:07.000+02:00",
+          "width": 1920,
+          "height": 690
+        }
+      ],
+      "videos": [],
+      "text": "Andere Abfahrt vom Schönjoch nach Fiss. Sehr schöne Piste und ich glaube auch die einzige Hintenrum-Piste in SFL."
+    },
+    {
+      "photos": [
+        {
+          "name": "035",
+          "alt": "Sonnenbahn Ladis-Fiss",
+          "date": "2014-04-07T15:50:43.000+02:00",
+          "width": 1920,
+          "height": 775
+        }
+      ],
+      "videos": [],
+      "text": "Ankunft in Fiss über blühende Wiesen. Hier unten nun sehr heiß, um die 20°!"
+    },
+    {
+      "photos": [
+        {
+          "name": "036",
+          "alt": "Fiss",
+          "date": "2014-04-07T16:32:23.000+02:00",
+          "width": 1817,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Anschließend noch den Tag ausklingen gelassen an der Sattel- und Puinzbahn, die bis 16:30 fährt... während die anderen schon die letzte Bergfahrt um 16:00 haben. Die Pisten dort waren aber noch sehr gut, da sie kaum befahren waren."
+    },
+    {
+      "photos": [
+        {
+          "name": "track1",
+          "alt": "Streckenplan",
+          "width": 1280,
+          "height": 655
+        },
+        {
+          "name": "track2",
+          "alt": "Höhenprofil",
+          "width": 1280,
+          "height": 285
+        }
+      ],
+      "videos": [],
+      "text": "Gefahrene Strecke, 130km und 16 Höhenkilometer."
+    }
+  ],
+  "outro": "Fazit: Neues Gebiet ist immer gut. Schön finde ich, dass es auch einige steilere Pisten gibt. Nicht so gut die vielen Gondelbahn und diese gewollte Gestrecktheit des Gebiets bis zum Masnerkopf.<br />\nAußerdem hätte es natürlich etwas winterlicher sein können. 😉"
+}

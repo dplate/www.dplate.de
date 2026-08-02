@@ -1,263 +1,261 @@
-[
-  {
-    "destination": "lenzerheide",
-    "date": "d20120409",
-    "track": false,
-    "shortTitle": "Arosa",
-    "title": "Arosa",
-    "intro": "Ankunft nach 2h freier Fahrt an der Hörnli-Bahn in Arosa um 8:45. Tageskarte 61CHF + 8CHF Parkgebühren.",
-    "landmarks": [
-      {
-        "photos": [
-          {
-            "name": "09Cix",
-            "width": 1024,
-            "height": 768
-          },
-          {
-            "name": "uRhjK",
-            "width": 1024,
-            "height": 635
-          }
-        ],
-        "videos": [],
-        "text": "Auffahrt mit der 3km langen Sechser-Gondelbahn von 1800m auf 2500m."
-      },
-      {
-        "photos": [
-          {
-            "name": "w6s06",
-            "width": 1024,
-            "height": 653
-          }
-        ],
-        "videos": [],
-        "text": "Auf der Piste zur Vierer-Sesselbahn Hörnli. Am Vortag hatte es 10cm Neuschnee gegeben, der bereits gut gefestigt war."
-      },
-      {
-        "photos": [
-          {
-            "name": "yfmFB",
-            "width": 1024,
-            "height": 1365
-          },
-          {
-            "name": "uusfI",
-            "width": 1024,
-            "height": 605
-          }
-        ],
-        "videos": [],
-        "text": "Abseits der Piste durch den Neuschnee. Sieht schön aus, war aber nicht überragend zu fahren, da die Neuschneedecke zu dünn war und man so praktisch auf dem gefrorenen buckeligen Altschnee unterwegs war."
-      },
-      {
-        "photos": [
-          {
-            "name": "le1HP",
-            "width": 1024,
-            "height": 768
-          }
-        ],
-        "videos": [],
-        "text": "Blick an der Hörnli-Bahn entlang nach Arosa."
-      },
-      {
-        "photos": [
-          {
-            "name": "FN0UJ",
-            "width": 1024,
-            "height": 768
-          }
-        ],
-        "videos": [],
-        "text": "Piste an der 2km langen Vierer-Sesselbahn Carmenna. Rundherum sah es sehr bewölkt aus, aber in Arosa schien den ganzen Tag die Sonne - auch wenn es auf den Fotos etwas farblos aussieht."
-      },
-      {
-        "photos": [
-          {
-            "name": "DGNIS",
-            "width": 1024,
-            "height": 613
-          }
-        ],
-        "videos": [],
-        "text": "Brüggerhorn von der Abfahrt vom Weisshorn aus gesehen. Das nächste Ziel."
-      },
-      {
-        "photos": [
-          {
-            "name": "n4wMj",
-            "width": 1024,
-            "height": 768
-          },
-          {
-            "name": "5c9wt",
-            "width": 1024,
-            "height": 768
-          },
-          {
-            "name": "jbB64",
-            "width": 1024,
-            "height": 768
-          },
-          {
-            "name": "oAZ64",
-            "width": 1024,
-            "height": 1035
-          }
-        ],
-        "videos": [],
-        "text": "Auf der schwarzen 12 vom Brüggerhorn. Offiziell geschlossen (warum auch immer) und deshalb nicht präpariert. War aber gut zu fahren, auch wenn der der Neuschnee schon etwas schwer wurde."
-      },
-      {
-        "photos": [
-          {
-            "name": "gPlCW",
-            "width": 1024,
-            "height": 417
-          }
-        ],
-        "videos": [],
-        "text": "Und anschließend die rote 12a vom Brüggerhorn. Ebenfalls unpräpariert."
-      },
-      {
-        "photos": [
-          {
-            "name": "49CQN",
-            "width": 1024,
-            "height": 768
-          },
-          {
-            "name": "CZGyz",
-            "width": 1024,
-            "height": 768
-          }
-        ],
-        "videos": [],
-        "text": "Talabfahrt nach Arosa und wieder nach oben mit der Dreier-Sesselbahn (ohne Fußraster!)."
-      },
-      {
-        "photos": [
-          {
-            "name": "KbyI3",
-            "width": 1024,
-            "height": 676
-          }
-        ],
-        "videos": [],
-        "text": "Blick vom Tschuggen über das Skigebiet. Von vorne nach hinten: Schlepplift Tschuggen West, Vierer-Gondelbahn Kulm, Vierer-Sesselbahn Carmenna, Vierer-Sesselbahn Plattenhorn, Sechser-Gondelbahn Hörnli-Express und Vierer-Sesselbahn Hörnli."
-      },
-      {
-        "photos": [
-          {
-            "name": "U0S86",
-            "width": 1024,
-            "height": 567
-          }
-        ],
-        "videos": [],
-        "text": "Schlitten beim Start der Rodelbahn. Das Ding ist 3m lang."
-      },
-      {
-        "photos": [
-          {
-            "name": "GmJDs",
-            "width": 1024,
-            "height": 642
-          }
-        ],
-        "videos": [],
-        "text": "Nochmal rote vom Weisshorn. Wie man sieht, waren die Berge rundherum von einer seltsamen Wolkenschicht verdeckt."
-      },
-      {
-        "photos": [
-          {
-            "name": "mSvxI",
-            "width": 1024,
-            "height": 635
-          }
-        ],
-        "videos": [],
-        "text": "Blick auf den Gegenhang hinter Inner-Arosa. Ausgiebig genutzt von Tourengehern."
-      },
-      {
-        "photos": [
-          {
-            "name": "yvB5g",
-            "width": 1024,
-            "height": 678
-          }
-        ],
-        "videos": [],
-        "text": "Schön in den Berg gebaute Bergstation der Carmenna-Bahn. Links der steile erste Hang (ist auf Fotos nicht einfangbar)."
-      },
-      {
-        "photos": [
-          {
-            "name": "9vjNB",
-            "width": 1024,
-            "height": 677
-          }
-        ],
-        "videos": [],
-        "text": "Plattenhorn-Bahn und Bergstation Hörnli."
-      },
-      {
-        "photos": [
-          {
-            "name": "4eooo",
-            "width": 1024,
-            "height": 460
-          }
-        ],
-        "videos": [],
-        "text": "Blick vom Plattenhorn Richtung Vierer-Sesselbahn Hörnli. Inzwischen kein unbefahrener Neuschnee mehr übrig. 😉"
-      },
-      {
-        "photos": [
-          {
-            "name": "dLPqt",
-            "width": 1024,
-            "height": 631
-          }
-        ],
-        "videos": [],
-        "text": "Und zurück auf das Weisshorn mit der großen Seilbahn, die dank 10min Takt ohne große Wartezeiten benutzbar ist."
-      },
-      {
-        "photos": [
-          {
-            "name": "0hrBO",
-            "width": 1024,
-            "height": 719
-          }
-        ],
-        "videos": [],
-        "text": "Auf der Talabfahrt nach Inner-Arosa Richtung Hörnli."
-      },
-      {
-        "photos": [
-          {
-            "name": "yRV8K",
-            "width": 1024,
-            "height": 1107
-          }
-        ],
-        "videos": [],
-        "text": "Um 16:30 noch mal mit der letzten Gondel aufs Weisshorn. Am Abend zog es dann zu."
-      },
-      {
-        "photos": [
-          {
-            "name": "5IQ8M",
-            "width": 1024,
-            "height": 508
-          }
-        ],
-        "videos": [],
-        "text": "Pistenplan. Alles offen außer den Hintenrum-Pisten beim Brüggerhorn."
-      }
-    ],
-    "outro": "Fazit: Trotz der unsicheren Wetterlage den ganzen Tag schönes Wetter gehabt. Außerdem hat der Neuschnee vom Vortag die ersten Stunden versüßt. Skitechnisch ist das Gebiet auf Grund der leichten Pisten eher langweilig."
-  }
-]
+{
+  "destination": "lenzerheide",
+  "date": "d20120409",
+  "track": false,
+  "shortTitle": "Arosa",
+  "title": "Arosa",
+  "intro": "Ankunft nach 2h freier Fahrt an der Hörnli-Bahn in Arosa um 8:45. Tageskarte 61CHF + 8CHF Parkgebühren.",
+  "landmarks": [
+    {
+      "photos": [
+        {
+          "name": "09Cix",
+          "width": 1024,
+          "height": 768
+        },
+        {
+          "name": "uRhjK",
+          "width": 1024,
+          "height": 635
+        }
+      ],
+      "videos": [],
+      "text": "Auffahrt mit der 3km langen Sechser-Gondelbahn von 1800m auf 2500m."
+    },
+    {
+      "photos": [
+        {
+          "name": "w6s06",
+          "width": 1024,
+          "height": 653
+        }
+      ],
+      "videos": [],
+      "text": "Auf der Piste zur Vierer-Sesselbahn Hörnli. Am Vortag hatte es 10cm Neuschnee gegeben, der bereits gut gefestigt war."
+    },
+    {
+      "photos": [
+        {
+          "name": "yfmFB",
+          "width": 1024,
+          "height": 1365
+        },
+        {
+          "name": "uusfI",
+          "width": 1024,
+          "height": 605
+        }
+      ],
+      "videos": [],
+      "text": "Abseits der Piste durch den Neuschnee. Sieht schön aus, war aber nicht überragend zu fahren, da die Neuschneedecke zu dünn war und man so praktisch auf dem gefrorenen buckeligen Altschnee unterwegs war."
+    },
+    {
+      "photos": [
+        {
+          "name": "le1HP",
+          "width": 1024,
+          "height": 768
+        }
+      ],
+      "videos": [],
+      "text": "Blick an der Hörnli-Bahn entlang nach Arosa."
+    },
+    {
+      "photos": [
+        {
+          "name": "FN0UJ",
+          "width": 1024,
+          "height": 768
+        }
+      ],
+      "videos": [],
+      "text": "Piste an der 2km langen Vierer-Sesselbahn Carmenna. Rundherum sah es sehr bewölkt aus, aber in Arosa schien den ganzen Tag die Sonne - auch wenn es auf den Fotos etwas farblos aussieht."
+    },
+    {
+      "photos": [
+        {
+          "name": "DGNIS",
+          "width": 1024,
+          "height": 613
+        }
+      ],
+      "videos": [],
+      "text": "Brüggerhorn von der Abfahrt vom Weisshorn aus gesehen. Das nächste Ziel."
+    },
+    {
+      "photos": [
+        {
+          "name": "n4wMj",
+          "width": 1024,
+          "height": 768
+        },
+        {
+          "name": "5c9wt",
+          "width": 1024,
+          "height": 768
+        },
+        {
+          "name": "jbB64",
+          "width": 1024,
+          "height": 768
+        },
+        {
+          "name": "oAZ64",
+          "width": 1024,
+          "height": 1035
+        }
+      ],
+      "videos": [],
+      "text": "Auf der schwarzen 12 vom Brüggerhorn. Offiziell geschlossen (warum auch immer) und deshalb nicht präpariert. War aber gut zu fahren, auch wenn der der Neuschnee schon etwas schwer wurde."
+    },
+    {
+      "photos": [
+        {
+          "name": "gPlCW",
+          "width": 1024,
+          "height": 417
+        }
+      ],
+      "videos": [],
+      "text": "Und anschließend die rote 12a vom Brüggerhorn. Ebenfalls unpräpariert."
+    },
+    {
+      "photos": [
+        {
+          "name": "49CQN",
+          "width": 1024,
+          "height": 768
+        },
+        {
+          "name": "CZGyz",
+          "width": 1024,
+          "height": 768
+        }
+      ],
+      "videos": [],
+      "text": "Talabfahrt nach Arosa und wieder nach oben mit der Dreier-Sesselbahn (ohne Fußraster!)."
+    },
+    {
+      "photos": [
+        {
+          "name": "KbyI3",
+          "width": 1024,
+          "height": 676
+        }
+      ],
+      "videos": [],
+      "text": "Blick vom Tschuggen über das Skigebiet. Von vorne nach hinten: Schlepplift Tschuggen West, Vierer-Gondelbahn Kulm, Vierer-Sesselbahn Carmenna, Vierer-Sesselbahn Plattenhorn, Sechser-Gondelbahn Hörnli-Express und Vierer-Sesselbahn Hörnli."
+    },
+    {
+      "photos": [
+        {
+          "name": "U0S86",
+          "width": 1024,
+          "height": 567
+        }
+      ],
+      "videos": [],
+      "text": "Schlitten beim Start der Rodelbahn. Das Ding ist 3m lang."
+    },
+    {
+      "photos": [
+        {
+          "name": "GmJDs",
+          "width": 1024,
+          "height": 642
+        }
+      ],
+      "videos": [],
+      "text": "Nochmal rote vom Weisshorn. Wie man sieht, waren die Berge rundherum von einer seltsamen Wolkenschicht verdeckt."
+    },
+    {
+      "photos": [
+        {
+          "name": "mSvxI",
+          "width": 1024,
+          "height": 635
+        }
+      ],
+      "videos": [],
+      "text": "Blick auf den Gegenhang hinter Inner-Arosa. Ausgiebig genutzt von Tourengehern."
+    },
+    {
+      "photos": [
+        {
+          "name": "yvB5g",
+          "width": 1024,
+          "height": 678
+        }
+      ],
+      "videos": [],
+      "text": "Schön in den Berg gebaute Bergstation der Carmenna-Bahn. Links der steile erste Hang (ist auf Fotos nicht einfangbar)."
+    },
+    {
+      "photos": [
+        {
+          "name": "9vjNB",
+          "width": 1024,
+          "height": 677
+        }
+      ],
+      "videos": [],
+      "text": "Plattenhorn-Bahn und Bergstation Hörnli."
+    },
+    {
+      "photos": [
+        {
+          "name": "4eooo",
+          "width": 1024,
+          "height": 460
+        }
+      ],
+      "videos": [],
+      "text": "Blick vom Plattenhorn Richtung Vierer-Sesselbahn Hörnli. Inzwischen kein unbefahrener Neuschnee mehr übrig. 😉"
+    },
+    {
+      "photos": [
+        {
+          "name": "dLPqt",
+          "width": 1024,
+          "height": 631
+        }
+      ],
+      "videos": [],
+      "text": "Und zurück auf das Weisshorn mit der großen Seilbahn, die dank 10min Takt ohne große Wartezeiten benutzbar ist."
+    },
+    {
+      "photos": [
+        {
+          "name": "0hrBO",
+          "width": 1024,
+          "height": 719
+        }
+      ],
+      "videos": [],
+      "text": "Auf der Talabfahrt nach Inner-Arosa Richtung Hörnli."
+    },
+    {
+      "photos": [
+        {
+          "name": "yRV8K",
+          "width": 1024,
+          "height": 1107
+        }
+      ],
+      "videos": [],
+      "text": "Um 16:30 noch mal mit der letzten Gondel aufs Weisshorn. Am Abend zog es dann zu."
+    },
+    {
+      "photos": [
+        {
+          "name": "5IQ8M",
+          "width": 1024,
+          "height": 508
+        }
+      ],
+      "videos": [],
+      "text": "Pistenplan. Alles offen außer den Hintenrum-Pisten beim Brüggerhorn."
+    }
+  ],
+  "outro": "Fazit: Trotz der unsicheren Wetterlage den ganzen Tag schönes Wetter gehabt. Außerdem hat der Neuschnee vom Vortag die ersten Stunden versüßt. Skitechnisch ist das Gebiet auf Grund der leichten Pisten eher langweilig."
+}

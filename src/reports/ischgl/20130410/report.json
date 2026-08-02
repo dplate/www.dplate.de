@@ -1,362 +1,360 @@
-[
-  {
-    "destination": "ischgl",
-    "date": "d20130410",
-    "track": false,
-    "shortTitle": "Ischgl",
-    "title": "Ischgl/Samnaun",
-    "intro": "Skitag 6 meines Frühlingsurlaubs.<br />\nNach Ischgl wollte ich schon lange mal. Ich war dort erst einmal als Kind und konnte mich daran kaum noch erinnern. Da die Anfahrt vom Bodensee etwas weit ist, habe ich ein Zimmer direkt neben der Silvretta-Bahn genommen. So konnte ich auch die verbilligte VIP-Tageskarte für 42€ kaufen.<br />\nWenn man es nur 10m zur Bahn hat, kann man auch problemlos die erste Fahrt um 8:30 nehmen... mit mir standen schon so 20 vor der Tür.",
-    "landmarks": [
-      {
-        "photos": [
-          {
-            "name": "dAsouLm",
-            "width": 1024,
-            "height": 559
-          }
-        ],
-        "videos": [],
-        "text": "Ankunft auf der Greitspitze. Das Wetter war leider noch deutlich schlechter, als der Wetterbericht es für diesen Mittwoch angekündigt hatte: Schneesturm - musste erst mal meine Sturmhaube und Skibrille rauskramen und die Sonnenbrille für später verstauen.<br />\nDer Schnee war dafür perfekt: Planierter Pulverschnee mit ein paar cm Neuschneeauflage."
-      },
-      {
-        "photos": [
-          {
-            "name": "oaAFgZ2",
-            "width": 1024,
-            "height": 544
-          },
-          {
-            "name": "rbXJNNc",
-            "width": 1024,
-            "height": 457
-          }
-        ],
-        "videos": [],
-        "text": "Richtung Samnaun kam bereits häufiger die Sonne raus, deshalb bin ich als einer der ersten zur Alp Trida Eck abgefahren (spaciges Restaurant dort)."
-      },
-      {
-        "photos": [
-          {
-            "name": "Ns1xLs1",
-            "width": 1024,
-            "height": 815
-          }
-        ],
-        "videos": [],
-        "text": "Aber auch auf der anderen Seite der Greitspitze waren die Pisten schön zu fahren, hier auf der schwarzen Direktabfahrt zur Sechser-Sesselbahn Lange Wand."
-      },
-      {
-        "photos": [
-          {
-            "name": "sEd0beA",
-            "width": 1024,
-            "height": 488
-          }
-        ],
-        "videos": [],
-        "text": "Jetzt kam auch hier etwas Sonne an, eine andere Piste an dieser Bahn."
-      },
-      {
-        "photos": [
-          {
-            "name": "4lAJn4Q",
-            "width": 1024,
-            "height": 759
-          }
-        ],
-        "videos": [],
-        "text": "Blick auf den Palinkopf. Die beiden parallelen Bahnen machten leider erst kurz nach 10:00 auf - keine Ahnung warum, vielleicht mussten erst noch Lawinen gesprengt werden."
-      },
-      {
-        "photos": [
-          {
-            "name": "xOaxxES",
-            "width": 1024,
-            "height": 539
-          }
-        ],
-        "videos": [],
-        "text": "Einsame Abfahrt auf der Rückseite des Palinkopf zur sehr langen Gampenbahn. Hier konnten Helikopter beobachtet werden, die pausenlos Material zur Baustelle auf dem Piz Val Gronda brachten. Respekt bei dem Wetter und Sturm."
-      },
-      {
-        "photos": [
-          {
-            "name": "zcU20Yu",
-            "width": 1024,
-            "height": 789
-          },
-          {
-            "name": "dcKqoSD",
-            "width": 1024,
-            "height": 541
-          },
-          {
-            "name": "yCk6u7y",
-            "width": 1024,
-            "height": 724
-          }
-        ],
-        "videos": [],
-        "text": "Anschließend Abfahrt nach Samnaun. Bis unten gute Pistenverhältnisse, unten leicht sulzig. Der Ort ist aber nicht besonders ansprechend, zumindest das, was ich beim Vorbeifahren gesehen habe (brauche kein Alkohol oder Zigaretten).<br />\nBei der Seilbahn leider den falschen Eingang genommen, so dass ich bei der Doppelstockbahn leider unten war. 😞"
-      },
-      {
-        "photos": [
-          {
-            "name": "dH4CYQ3",
-            "width": 1024,
-            "height": 523
-          }
-        ],
-        "videos": [],
-        "text": "Alp Trida, das Zentrum des Samnaun-Gebiets steht dem Bahnenwirrwar der Idalp nur wenig nach. Es ist fast mutwillig, das sie die Bahnen so gebaut haben, dass sie sich kreuzen. Es wäre wohl auch einfacherer gegangen."
-      },
-      {
-        "photos": [
-          {
-            "name": "U848fj0",
-            "width": 1024,
-            "height": 1176
-          }
-        ],
-        "videos": [],
-        "text": "Gebogene Gesteinsschichten, schön das die Alpen noch wachsen."
-      },
-      {
-        "photos": [
-          {
-            "name": "0qxSMHP",
-            "width": 1024,
-            "height": 505
-          }
-        ],
-        "videos": [],
-        "text": "Sehr abgelegene Vierer-Sesselbahn an der Alp Bella, aber sehr gute Bedingungen gut... und zudem Sonne. 😃"
-      },
-      {
-        "photos": [
-          {
-            "name": "bE1hBb2",
-            "width": 1024,
-            "height": 1240
-          }
-        ],
-        "videos": [],
-        "text": "Mittagspause in der Alp Bella: das könnte man schon fast als böswillig beschreiben..."
-      },
-      {
-        "photos": [
-          {
-            "name": "NKfm0MB",
-            "width": 1024,
-            "height": 596
-          }
-        ],
-        "videos": [],
-        "text": "Anschließend Auffahrt zum Viderjoch, mal wieder ein neuer Schneeschauer mit Sturm, die Bodensicht war aber fast immer gegeben, so nicht schlimm. Blauer Himmel wäre natürlich schöner gewesen."
-      },
-      {
-        "photos": [
-          {
-            "name": "to3wPit",
-            "width": 1024,
-            "height": 506
-          }
-        ],
-        "videos": [],
-        "text": "Blick auf die Idalp... ich dachte das Seilbahnmuseum wäre unten im Tal?"
-      },
-      {
-        "photos": [
-          {
-            "name": "crbMJe6",
-            "width": 1024,
-            "height": 501
-          }
-        ],
-        "videos": [],
-        "text": "Fahrt zur &quot;extremen Skiroute&quot; 9, die aber eher extrem harmlos war."
-      },
-      {
-        "photos": [
-          {
-            "name": "UADR2fF",
-            "width": 1024,
-            "height": 723
-          }
-        ],
-        "videos": [],
-        "text": "Hintenrumabfahrt zur oberen Velillalp. Die weitere Talabfahrt durch das Tal war (wohl wegen Lawinen) gesperrt. Deshalb erst Auffahrt mit der Zweier-Sesselbahn (dass die sich nicht unter den ganzen anderen kuppelbaren Sesselbahnen schämt?)."
-      },
-      {
-        "photos": [
-          {
-            "name": "WJ8dEuq",
-            "width": 1024,
-            "height": 683
-          }
-        ],
-        "videos": [],
-        "text": "Danach vorbei an zwei Hängebrücken (leider im Winter abgesperrt) zur Pardatschgratbahn in Ischgl. Unten schöner Sulz. 😃"
-      },
-      {
-        "photos": [
-          {
-            "name": "Y4LXWTV",
-            "width": 1024,
-            "height": 554
-          }
-        ],
-        "videos": [],
-        "text": "Anschließend auf dem Weg zum letzten fehlenden Teilgebiet oberhalb der Bodenalp. Dort war es auch deutlich sonniger als bei der Idalp."
-      },
-      {
-        "photos": [
-          {
-            "name": "PQ9IkaB",
-            "width": 1024,
-            "height": 414
-          }
-        ],
-        "videos": [],
-        "text": "Angekommen bei der Bodenalpe. Die Pisten in diesem Gebiet waren ebenfalls super. Eigentlich war keine Piste im gesamten Skigebiet so, dass ich sie nicht gerne noch mal gefahren wäre. Um einiges besserer Schnee als in Zürs/Lech am Tag zuvor."
-      },
-      {
-        "photos": [
-          {
-            "name": "ituP4Yu",
-            "width": 1024,
-            "height": 622
-          }
-        ],
-        "videos": [],
-        "text": "Anschließend weiter hinab zur Gampenbahn. Schöne Landschaft."
-      },
-      {
-        "photos": [
-          {
-            "name": "Lq945pf",
-            "width": 1024,
-            "height": 780
-          }
-        ],
-        "videos": [],
-        "text": "Zoom auf die Baustelle auf dem Piz Val Gronda. Ich sehe den Sinn dieser Seilbahn auch nicht."
-      },
-      {
-        "photos": [
-          {
-            "name": "011qPNG",
-            "width": 1024,
-            "height": 545
-          }
-        ],
-        "videos": [],
-        "text": "Danach noch mal die steilen Pisten an der Greitspitze genossen."
-      },
-      {
-        "photos": [
-          {
-            "name": "srlYghZ",
-            "width": 1024,
-            "height": 532
-          }
-        ],
-        "videos": [],
-        "text": "Und mit dem letzten Sessel um 16:30 noch mal auf den Palinkopf. Schön, dass man von fast überall die Talabfahrten machen kann, so kann man sich eine schöne lange Strecke für den Schluss aufheben."
-      },
-      {
-        "photos": [
-          {
-            "name": "3rpW3UJ",
-            "width": 1024,
-            "height": 683
-          }
-        ],
-        "videos": [],
-        "text": "Nochmal Blick auf das Restaurand Schwarzwand vor dem Palinkopf."
-      },
-      {
-        "photos": [
-          {
-            "name": "oaw0lS7",
-            "width": 1024,
-            "height": 357
-          }
-        ],
-        "videos": [],
-        "text": "Blick zurück auf das Höllkar von der roten 3."
-      },
-      {
-        "photos": [
-          {
-            "name": "fhev44X",
-            "width": 1024,
-            "height": 558
-          },
-          {
-            "name": "wupm7Ve",
-            "width": 1024,
-            "height": 1536
-          },
-          {
-            "name": "M34hy9h",
-            "width": 1024,
-            "height": 1055
-          }
-        ],
-        "videos": [],
-        "text": "Die sehr schön bis ins Tal führt. Das Wetter jetzt richtig gut (natürlich)."
-      },
-      {
-        "photos": [
-          {
-            "name": "NaP0XRk",
-            "width": 1024,
-            "height": 623
-          }
-        ],
-        "videos": [],
-        "text": "Dämlicher Tellerlift im Tal, der einem das Schieben abnehmen soll, da er aber die meiste Zeit bergab verläuft, wird einem da einiges abgeklemmt. Bin ausgestiegen und habe geschoben... und war doppelt so schnell."
-      },
-      {
-        "photos": [
-          {
-            "name": "XNmbccL",
-            "width": 1024,
-            "height": 699
-          }
-        ],
-        "videos": [],
-        "text": "Auf der Talabfahrt kurz vor Ischgl. War wohl hinter den meisten, so dass kaum noch was los war."
-      },
-      {
-        "photos": [
-          {
-            "name": "gc6MLml",
-            "width": 1024,
-            "height": 348
-          }
-        ],
-        "videos": [],
-        "text": "Ach, hier sind die alle. 😉"
-      },
-      {
-        "photos": [
-          {
-            "name": "ukOZYpa",
-            "width": 1024,
-            "height": 524
-          }
-        ],
-        "videos": [],
-        "text": "Gefahrene Strecke, sind so 140km zusammengekommen."
-      },
-      {
-        "photos": [],
-        "videos": ["Z6ScvluMD4E"],
-        "text": ""
-      }
-    ],
-    "outro": "Fazit: Trotz des erst gemischten Wetters sehr schöner Skitag. Ich muss sagen, dass Skigebiet ist schon genial. Die ganzen Sesselbahn sind mir nicht so wichtig, aber die Pisten sind alle gut. Und durch die Höhe hat man zudem noch viel Pulverschnee. Kann mir aber vorstellen, dass es in der Hauptsaison auf den Pisten schon eng werden kann."
-  }
-]
+{
+  "destination": "ischgl",
+  "date": "d20130410",
+  "track": false,
+  "shortTitle": "Ischgl",
+  "title": "Ischgl/Samnaun",
+  "intro": "Skitag 6 meines Frühlingsurlaubs.<br />\nNach Ischgl wollte ich schon lange mal. Ich war dort erst einmal als Kind und konnte mich daran kaum noch erinnern. Da die Anfahrt vom Bodensee etwas weit ist, habe ich ein Zimmer direkt neben der Silvretta-Bahn genommen. So konnte ich auch die verbilligte VIP-Tageskarte für 42€ kaufen.<br />\nWenn man es nur 10m zur Bahn hat, kann man auch problemlos die erste Fahrt um 8:30 nehmen... mit mir standen schon so 20 vor der Tür.",
+  "landmarks": [
+    {
+      "photos": [
+        {
+          "name": "dAsouLm",
+          "width": 1024,
+          "height": 559
+        }
+      ],
+      "videos": [],
+      "text": "Ankunft auf der Greitspitze. Das Wetter war leider noch deutlich schlechter, als der Wetterbericht es für diesen Mittwoch angekündigt hatte: Schneesturm - musste erst mal meine Sturmhaube und Skibrille rauskramen und die Sonnenbrille für später verstauen.<br />\nDer Schnee war dafür perfekt: Planierter Pulverschnee mit ein paar cm Neuschneeauflage."
+    },
+    {
+      "photos": [
+        {
+          "name": "oaAFgZ2",
+          "width": 1024,
+          "height": 544
+        },
+        {
+          "name": "rbXJNNc",
+          "width": 1024,
+          "height": 457
+        }
+      ],
+      "videos": [],
+      "text": "Richtung Samnaun kam bereits häufiger die Sonne raus, deshalb bin ich als einer der ersten zur Alp Trida Eck abgefahren (spaciges Restaurant dort)."
+    },
+    {
+      "photos": [
+        {
+          "name": "Ns1xLs1",
+          "width": 1024,
+          "height": 815
+        }
+      ],
+      "videos": [],
+      "text": "Aber auch auf der anderen Seite der Greitspitze waren die Pisten schön zu fahren, hier auf der schwarzen Direktabfahrt zur Sechser-Sesselbahn Lange Wand."
+    },
+    {
+      "photos": [
+        {
+          "name": "sEd0beA",
+          "width": 1024,
+          "height": 488
+        }
+      ],
+      "videos": [],
+      "text": "Jetzt kam auch hier etwas Sonne an, eine andere Piste an dieser Bahn."
+    },
+    {
+      "photos": [
+        {
+          "name": "4lAJn4Q",
+          "width": 1024,
+          "height": 759
+        }
+      ],
+      "videos": [],
+      "text": "Blick auf den Palinkopf. Die beiden parallelen Bahnen machten leider erst kurz nach 10:00 auf - keine Ahnung warum, vielleicht mussten erst noch Lawinen gesprengt werden."
+    },
+    {
+      "photos": [
+        {
+          "name": "xOaxxES",
+          "width": 1024,
+          "height": 539
+        }
+      ],
+      "videos": [],
+      "text": "Einsame Abfahrt auf der Rückseite des Palinkopf zur sehr langen Gampenbahn. Hier konnten Helikopter beobachtet werden, die pausenlos Material zur Baustelle auf dem Piz Val Gronda brachten. Respekt bei dem Wetter und Sturm."
+    },
+    {
+      "photos": [
+        {
+          "name": "zcU20Yu",
+          "width": 1024,
+          "height": 789
+        },
+        {
+          "name": "dcKqoSD",
+          "width": 1024,
+          "height": 541
+        },
+        {
+          "name": "yCk6u7y",
+          "width": 1024,
+          "height": 724
+        }
+      ],
+      "videos": [],
+      "text": "Anschließend Abfahrt nach Samnaun. Bis unten gute Pistenverhältnisse, unten leicht sulzig. Der Ort ist aber nicht besonders ansprechend, zumindest das, was ich beim Vorbeifahren gesehen habe (brauche kein Alkohol oder Zigaretten).<br />\nBei der Seilbahn leider den falschen Eingang genommen, so dass ich bei der Doppelstockbahn leider unten war. 😞"
+    },
+    {
+      "photos": [
+        {
+          "name": "dH4CYQ3",
+          "width": 1024,
+          "height": 523
+        }
+      ],
+      "videos": [],
+      "text": "Alp Trida, das Zentrum des Samnaun-Gebiets steht dem Bahnenwirrwar der Idalp nur wenig nach. Es ist fast mutwillig, das sie die Bahnen so gebaut haben, dass sie sich kreuzen. Es wäre wohl auch einfacherer gegangen."
+    },
+    {
+      "photos": [
+        {
+          "name": "U848fj0",
+          "width": 1024,
+          "height": 1176
+        }
+      ],
+      "videos": [],
+      "text": "Gebogene Gesteinsschichten, schön das die Alpen noch wachsen."
+    },
+    {
+      "photos": [
+        {
+          "name": "0qxSMHP",
+          "width": 1024,
+          "height": 505
+        }
+      ],
+      "videos": [],
+      "text": "Sehr abgelegene Vierer-Sesselbahn an der Alp Bella, aber sehr gute Bedingungen gut... und zudem Sonne. 😃"
+    },
+    {
+      "photos": [
+        {
+          "name": "bE1hBb2",
+          "width": 1024,
+          "height": 1240
+        }
+      ],
+      "videos": [],
+      "text": "Mittagspause in der Alp Bella: das könnte man schon fast als böswillig beschreiben..."
+    },
+    {
+      "photos": [
+        {
+          "name": "NKfm0MB",
+          "width": 1024,
+          "height": 596
+        }
+      ],
+      "videos": [],
+      "text": "Anschließend Auffahrt zum Viderjoch, mal wieder ein neuer Schneeschauer mit Sturm, die Bodensicht war aber fast immer gegeben, so nicht schlimm. Blauer Himmel wäre natürlich schöner gewesen."
+    },
+    {
+      "photos": [
+        {
+          "name": "to3wPit",
+          "width": 1024,
+          "height": 506
+        }
+      ],
+      "videos": [],
+      "text": "Blick auf die Idalp... ich dachte das Seilbahnmuseum wäre unten im Tal?"
+    },
+    {
+      "photos": [
+        {
+          "name": "crbMJe6",
+          "width": 1024,
+          "height": 501
+        }
+      ],
+      "videos": [],
+      "text": "Fahrt zur &quot;extremen Skiroute&quot; 9, die aber eher extrem harmlos war."
+    },
+    {
+      "photos": [
+        {
+          "name": "UADR2fF",
+          "width": 1024,
+          "height": 723
+        }
+      ],
+      "videos": [],
+      "text": "Hintenrumabfahrt zur oberen Velillalp. Die weitere Talabfahrt durch das Tal war (wohl wegen Lawinen) gesperrt. Deshalb erst Auffahrt mit der Zweier-Sesselbahn (dass die sich nicht unter den ganzen anderen kuppelbaren Sesselbahnen schämt?)."
+    },
+    {
+      "photos": [
+        {
+          "name": "WJ8dEuq",
+          "width": 1024,
+          "height": 683
+        }
+      ],
+      "videos": [],
+      "text": "Danach vorbei an zwei Hängebrücken (leider im Winter abgesperrt) zur Pardatschgratbahn in Ischgl. Unten schöner Sulz. 😃"
+    },
+    {
+      "photos": [
+        {
+          "name": "Y4LXWTV",
+          "width": 1024,
+          "height": 554
+        }
+      ],
+      "videos": [],
+      "text": "Anschließend auf dem Weg zum letzten fehlenden Teilgebiet oberhalb der Bodenalp. Dort war es auch deutlich sonniger als bei der Idalp."
+    },
+    {
+      "photos": [
+        {
+          "name": "PQ9IkaB",
+          "width": 1024,
+          "height": 414
+        }
+      ],
+      "videos": [],
+      "text": "Angekommen bei der Bodenalpe. Die Pisten in diesem Gebiet waren ebenfalls super. Eigentlich war keine Piste im gesamten Skigebiet so, dass ich sie nicht gerne noch mal gefahren wäre. Um einiges besserer Schnee als in Zürs/Lech am Tag zuvor."
+    },
+    {
+      "photos": [
+        {
+          "name": "ituP4Yu",
+          "width": 1024,
+          "height": 622
+        }
+      ],
+      "videos": [],
+      "text": "Anschließend weiter hinab zur Gampenbahn. Schöne Landschaft."
+    },
+    {
+      "photos": [
+        {
+          "name": "Lq945pf",
+          "width": 1024,
+          "height": 780
+        }
+      ],
+      "videos": [],
+      "text": "Zoom auf die Baustelle auf dem Piz Val Gronda. Ich sehe den Sinn dieser Seilbahn auch nicht."
+    },
+    {
+      "photos": [
+        {
+          "name": "011qPNG",
+          "width": 1024,
+          "height": 545
+        }
+      ],
+      "videos": [],
+      "text": "Danach noch mal die steilen Pisten an der Greitspitze genossen."
+    },
+    {
+      "photos": [
+        {
+          "name": "srlYghZ",
+          "width": 1024,
+          "height": 532
+        }
+      ],
+      "videos": [],
+      "text": "Und mit dem letzten Sessel um 16:30 noch mal auf den Palinkopf. Schön, dass man von fast überall die Talabfahrten machen kann, so kann man sich eine schöne lange Strecke für den Schluss aufheben."
+    },
+    {
+      "photos": [
+        {
+          "name": "3rpW3UJ",
+          "width": 1024,
+          "height": 683
+        }
+      ],
+      "videos": [],
+      "text": "Nochmal Blick auf das Restaurand Schwarzwand vor dem Palinkopf."
+    },
+    {
+      "photos": [
+        {
+          "name": "oaw0lS7",
+          "width": 1024,
+          "height": 357
+        }
+      ],
+      "videos": [],
+      "text": "Blick zurück auf das Höllkar von der roten 3."
+    },
+    {
+      "photos": [
+        {
+          "name": "fhev44X",
+          "width": 1024,
+          "height": 558
+        },
+        {
+          "name": "wupm7Ve",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "name": "M34hy9h",
+          "width": 1024,
+          "height": 1055
+        }
+      ],
+      "videos": [],
+      "text": "Die sehr schön bis ins Tal führt. Das Wetter jetzt richtig gut (natürlich)."
+    },
+    {
+      "photos": [
+        {
+          "name": "NaP0XRk",
+          "width": 1024,
+          "height": 623
+        }
+      ],
+      "videos": [],
+      "text": "Dämlicher Tellerlift im Tal, der einem das Schieben abnehmen soll, da er aber die meiste Zeit bergab verläuft, wird einem da einiges abgeklemmt. Bin ausgestiegen und habe geschoben... und war doppelt so schnell."
+    },
+    {
+      "photos": [
+        {
+          "name": "XNmbccL",
+          "width": 1024,
+          "height": 699
+        }
+      ],
+      "videos": [],
+      "text": "Auf der Talabfahrt kurz vor Ischgl. War wohl hinter den meisten, so dass kaum noch was los war."
+    },
+    {
+      "photos": [
+        {
+          "name": "gc6MLml",
+          "width": 1024,
+          "height": 348
+        }
+      ],
+      "videos": [],
+      "text": "Ach, hier sind die alle. 😉"
+    },
+    {
+      "photos": [
+        {
+          "name": "ukOZYpa",
+          "width": 1024,
+          "height": 524
+        }
+      ],
+      "videos": [],
+      "text": "Gefahrene Strecke, sind so 140km zusammengekommen."
+    },
+    {
+      "photos": [],
+      "videos": ["Z6ScvluMD4E"],
+      "text": ""
+    }
+  ],
+  "outro": "Fazit: Trotz des erst gemischten Wetters sehr schöner Skitag. Ich muss sagen, dass Skigebiet ist schon genial. Die ganzen Sesselbahn sind mir nicht so wichtig, aber die Pisten sind alle gut. Und durch die Höhe hat man zudem noch viel Pulverschnee. Kann mir aber vorstellen, dass es in der Hauptsaison auf den Pisten schon eng werden kann."
+}

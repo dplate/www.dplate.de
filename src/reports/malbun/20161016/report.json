@@ -1,590 +1,588 @@
-[
-  {
-    "destination": "malbun",
-    "date": "d20161016",
-    "type": "hike",
-    "track": true,
-    "timeShift": -120,
-    "detailMap": "swiss",
-    "shortTitle": "Naafkopf",
-    "title": "Malbun - Naafkopf",
-    "title3d": {
-      "offsetY": 0,
-      "fontSize": 9,
-      "align": "center",
-      "width": 1920,
-      "height": 506
+{
+  "destination": "malbun",
+  "date": "d20161016",
+  "type": "hike",
+  "track": true,
+  "timeShift": -120,
+  "detailMap": "swiss",
+  "shortTitle": "Naafkopf",
+  "title": "Malbun - Naafkopf",
+  "title3d": {
+    "offsetY": 0,
+    "fontSize": 9,
+    "align": "center",
+    "width": 1920,
+    "height": 506
+  },
+  "movie": "-p8ZHrVn24Q",
+  "intro": "Da an diesem Oktobersonntag noch mal richtig gutes Wetter vorhergesagt war, und auch der Neuschnee der Wochen zuvor schnell wieder geschmolzen war, machte ich mich auf eine Wanderung nach Malbun auf.<br />\nVor Neun erreichte ich den noch leeren großen Gratisparkplatz vor Malbun (dem einzigen Skiort von Liechtenstein). Knapp über dem Gefrierpunkt startete ich meine Wanderung mit kurzer Hose und dünner Jacke auf 1600m Seehöhe.",
+  "landmarks": [
+    {
+      "photos": [
+        {
+          "name": "001",
+          "alt": "Sesselbahnen Malbun",
+          "date": "2016-10-16T08:55:19.000+02:00",
+          "width": 1920,
+          "height": 876
+        },
+        {
+          "name": "002",
+          "alt": "Sesselbahnen Malbun",
+          "date": "2016-10-16T09:04:22.000+02:00",
+          "width": 1920,
+          "height": 779
+        }
+      ],
+      "videos": [],
+      "text": "Mein Weg führte mich zuerst am noch schattigen Westhang auf einer Fahrstraße hinauf. Bereits in der Sonne glänzten auf der anderen Talseite die modernen Sesselbahnen des kleinen Skigebiets."
     },
-    "movie": "-p8ZHrVn24Q",
-    "intro": "Da an diesem Oktobersonntag noch mal richtig gutes Wetter vorhergesagt war, und auch der Neuschnee der Wochen zuvor schnell wieder geschmolzen war, machte ich mich auf eine Wanderung nach Malbun auf.<br />\nVor Neun erreichte ich den noch leeren großen Gratisparkplatz vor Malbun (dem einzigen Skiort von Liechtenstein). Knapp über dem Gefrierpunkt startete ich meine Wanderung mit kurzer Hose und dünner Jacke auf 1600m Seehöhe.",
-    "landmarks": [
-      {
-        "photos": [
-          {
-            "name": "001",
-            "alt": "Sesselbahnen Malbun",
-            "date": "2016-10-16T08:55:19.000+02:00",
-            "width": 1920,
-            "height": 876
-          },
-          {
-            "name": "002",
-            "alt": "Sesselbahnen Malbun",
-            "date": "2016-10-16T09:04:22.000+02:00",
-            "width": 1920,
-            "height": 779
-          }
-        ],
-        "videos": [],
-        "text": "Mein Weg führte mich zuerst am noch schattigen Westhang auf einer Fahrstraße hinauf. Bereits in der Sonne glänzten auf der anderen Talseite die modernen Sesselbahnen des kleinen Skigebiets."
-      },
-      {
-        "photos": [
-          {
-            "name": "004",
-            "alt": "Bergstation Sareis",
-            "date": "2016-10-16T09:26:26.000+02:00",
-            "width": 1920,
-            "height": 929
-          }
-        ],
-        "videos": [],
-        "text": "Aber auch meinen Westhang erschließt eine Sesselbahn. Diese hätte ich nehmen können, um mir den ersten Aufstieg von rund 400 Höhenmetern zu ersparen."
-      },
-      {
-        "photos": [
-          {
-            "name": "005",
-            "alt": "Malbun",
-            "date": "2016-10-16T09:45:09.000+02:00",
-            "width": 1920,
-            "height": 707
-          }
-        ],
-        "videos": [],
-        "text": "Ich zweigte von der Fahrstraße am äußersten Ende ab und kürzte auf nicht gekennzeichneten Pfad relativ steil die ausufernde Serpentine ab. Hier noch mal der Blick zurück nach Malbun, das nun bereits komplett in der Sonne lag."
-      },
-      {
-        "photos": [
-          {
-            "name": "006",
-            "alt": "Gratweg Sareis",
-            "date": "2016-10-16T09:53:29.000+02:00",
-            "width": 1920,
-            "height": 1280
-          },
-          {
-            "name": "007",
-            "alt": "Nenzinger Himmel",
-            "date": "2016-10-16T09:59:24.000+02:00",
-            "width": 1920,
-            "height": 811
-          }
-        ],
-        "videos": [],
-        "text": "Dann erreichte ich schließlich den 2000m hohen Grat. Mein nächstes Etappenziel war der Berg rechts, der 2360m hohe Augstenberg. Bei einer ersten kleinen Pause genoss ich die warmen Sonnenstrahlen - die Jacke wurde weggepackt.<br />\nAuf der anderen Seite des Grats geht es bergab zum Nenzinger Himmel, ein ziemlich einsames Tal zwischen Malbun und Brandnertal."
-      },
-      {
-        "photos": [
-          {
-            "name": "008",
-            "alt": "Fürstin Gina Weg",
-            "date": "2016-10-16T10:07:21.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Der Weg war eigentlich einfach, aber zwischendurch gab es mal kleine Stellen, wo man die Hände gebrauchen konnte."
-      },
-      {
-        "photos": [
-          {
-            "name": "009",
-            "alt": "Aufstieg Augstenberg",
-            "date": "2016-10-16T10:24:09.000+02:00",
-            "width": 1920,
-            "height": 836
-          }
-        ],
-        "videos": [],
-        "text": "Der Gipfel (hier links) sah schon nah aus, es war aber schon noch ein Stück."
-      },
-      {
-        "photos": [
-          {
-            "name": "010",
-            "alt": "Malbun von oben",
-            "date": "2016-10-16T10:24:45.000+02:00",
-            "width": 1920,
-            "height": 2650
-          }
-        ],
-        "videos": [],
-        "text": "Vom Grat aus steiler Blick hinab nach Malbun."
-      },
-      {
-        "photos": [
-          {
-            "name": "011",
-            "alt": "Rheintal mit Alpstein",
-            "date": "2016-10-16T10:27:37.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Und inzwischen war ich auch hoch genug, um über die anderen Seite des Tal hinweg in das Rheintal zu schauen. Dahinter der von mir dieses Jahr ausgiebig bewanderte Alpstein mit Säntis und Altmann."
-      },
-      {
-        "photos": [
-          {
-            "name": "012",
-            "alt": "Fürstin Gina Weg",
-            "date": "2016-10-16T10:34:21.000+02:00",
-            "width": 1920,
-            "height": 860
-          }
-        ],
-        "videos": [],
-        "text": "Der Blick zurück während des Aufstiegs. Die Herbstfarben in den Alpen gefallen mir einfach. 😃"
-      },
-      {
-        "photos": [
-          {
-            "name": "013",
-            "alt": "Panorama Augstenberg",
-            "date": "2016-10-16T10:40:35.000+02:00",
-            "width": 1920,
-            "height": 890
-          }
-        ],
-        "videos": [],
-        "text": "Den Gipfel erreichte ich um 10:30. Blick hier wieder Richtung Rheintal."
-      },
-      {
-        "photos": [
-          {
-            "name": "014",
-            "alt": "Aussicht Augstenberg",
-            "date": "2016-10-16T10:43:51.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Und Tele zum (natürlich) nebligen Bodensee. Unten/rechts ist die Bergstation der Sesselbahn zu sehen."
-      },
-      {
-        "photos": [
-          {
-            "name": "015",
-            "alt": "Gipfelkreuz Augstenberg",
-            "date": "2016-10-16T10:44:09.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Und das ganze ohne Tele mit Gipfelkreuz."
-      },
-      {
-        "photos": [
-          {
-            "name": "016",
-            "alt": "Augstenberg Naafkopf",
-            "date": "2016-10-16T10:45:24.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Nach einer kurzen Pause fiel bereits der Blick auf das nächste Ziel, der 2520m hohe Naafkopf - hier in der Mitte zu sehen. Zu dem Zeitpunkt wusste ich noch nicht, ob dort nicht noch zuviel Schnee liegen würde."
-      },
-      {
-        "photos": [
-          {
-            "name": "017",
-            "alt": "Gipfel Augstenberg",
-            "date": "2016-10-16T10:47:14.000+02:00",
-            "width": 1920,
-            "height": 592
-          }
-        ],
-        "videos": [],
-        "text": "Der Blick zurück zum von dieser Seite flachen Augstenberg."
-      },
-      {
-        "photos": [
-          {
-            "name": "018",
-            "alt": "Augstenberg Pfälzerhütte",
-            "date": "2016-10-16T11:14:31.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Leider geht es nicht auf einer Höhe hinüber zum nächsten Gipfel, sondern ich musste erst hinab zur 2100m hohen Pfälzerhütte, die genau auf dem Pass zwischen den beiden Gipfel liegt.<br />\nDer Weg dort hin ist zwar gut ausgebaut, aber zum Teil war es sehr matschig und glitschig. Meine Bergschuhe hatten zwischendurch eine 2cm dicke Schlammschicht unter der Sohle... und entsprechend kein Profil mehr. Also war aufpassen angesagt."
-      },
-      {
-        "photos": [
-          {
-            "name": "019",
-            "alt": "Pfälzerhütte",
-            "date": "2016-10-16T11:27:28.000+02:00",
-            "width": 1920,
-            "height": 807
-          }
-        ],
-        "videos": [],
-        "text": "An der noch leeren Pfälzerhütte ging ich ohne Pause vorbei. Links im Hintergrund ist der Augstenberg zu sehen."
-      },
-      {
-        "photos": [
-          {
-            "name": "020",
-            "alt": "Herbstschnee",
-            "date": "2016-10-16T11:33:28.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Auf diesem Nordhang kam ich nun auch schnell zu den ersten Schneefeldern, die aber entweder schon weich genug oder harmlos waren."
-      },
-      {
-        "photos": [
-          {
-            "name": "022",
-            "alt": "Naafkopf Nenzinger Himmel",
-            "date": "2016-10-16T11:54:56.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Ziemlich steil und anstrengend ging es bergauf. Hier wieder der Blick hinab zum Nenzinger Himmel."
-      },
-      {
-        "photos": [
-          {
-            "name": "023",
-            "alt": "Aufstieg Naafkopf",
-            "date": "2016-10-16T11:57:34.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Der Weg führte hauptsächlich am flacheren Osthang hinauf, aber manchmal ging es auch auf den Grat. Hier der Blick zurück zur Pfälzerhütte."
-      },
-      {
-        "photos": [
-          {
-            "name": "024",
-            "alt": "Steinböcke",
-            "date": "2016-10-16T12:07:34.000+02:00",
-            "width": 1920,
-            "height": 908
-          }
-        ],
-        "videos": [],
-        "text": "In einiger Entfernung konnte ich eine Gruppe von Steinböcken beobachten, die in der warmen Sonne faulenzten."
-      },
-      {
-        "photos": [
-          {
-            "name": "025",
-            "alt": "Grat Naafkopf",
-            "date": "2016-10-16T12:28:51.000+02:00",
-            "width": 1920,
-            "height": 859
-          }
-        ],
-        "videos": [],
-        "text": "Nach einigem Geschnaufe und Gekeuche erreichte ich schließlich den Grat nach Süden und eine völlig neue Aussicht ergab sich. Rechts ist das Rheintal von Chur zu sehen und links das Prättigau, das nach Davos führt."
-      },
-      {
-        "photos": [
-          {
-            "name": "026",
-            "alt": "Gipfel Naafkopf",
-            "date": "2016-10-16T12:29:55.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Zum Gipfel musste aber noch dieses Steilstück überwunden werden. Nicht gefährlich, aber ich war konditionell schon etwas am Limit."
-      },
-      {
-        "photos": [
-          {
-            "name": "027",
-            "alt": "Panorama Naafkopf",
-            "date": "2016-10-16T12:36:40.000+02:00",
-            "width": 1920,
-            "height": 686
-          }
-        ],
-        "videos": [],
-        "text": "<span data-silent>Ächz, geschafft.</span> Um 12:30 erreichte ich den Gipfel. Hier musste ich dann doch die Jacke überziehen, denn es wehte eine kühle Brise.<br />\nHier ist das Panorama nach Süden zu sehen. Rechts der fast gleich hohe Falknis, der nur von der Rückseite bestiegen werden kann."
-      },
-      {
-        "photos": [
-          {
-            "name": "030",
-            "alt": "Aussicht Naafkopf",
-            "date": "2016-10-16T12:46:04.000+02:00",
-            "width": 1920,
-            "height": 853
-          }
-        ],
-        "videos": [],
-        "text": "Weiter geht es mit dem Blick nach Norden. Über dem Bodensee war es immer noch neblig."
-      },
-      {
-        "photos": [
-          {
-            "name": "029",
-            "alt": "Schesaplana",
-            "date": "2016-10-16T12:45:17.000+02:00",
-            "width": 1920,
-            "height": 826
-          }
-        ],
-        "videos": [],
-        "text": "Fehlt noch das Panorama nach Osten. In der Mitte die fast 3000m hohe Schesaplana."
-      },
-      {
-        "photos": [
-          {
-            "name": "028",
-            "alt": "Fluchthorn",
-            "date": "2016-10-16T12:44:52.000+02:00",
-            "width": 1920,
-            "height": 658
-          }
-        ],
-        "videos": [],
-        "text": "Um die fantastische Sicht an diesem Tag zu präsentieren, noch ein paar Teleaufnahmen. Hier rechts vorbei an der Schesaplana. Links das 3400m hohe Fluchthorn und rechts der 3300m hohe Piz Buin."
-      },
-      {
-        "photos": [
-          {
-            "name": "031",
-            "alt": "Tödi",
-            "date": "2016-10-16T12:47:49.000+02:00",
-            "width": 1920,
-            "height": 793
-          }
-        ],
-        "videos": [],
-        "text": "Am Falknis vorbei konnte man den 3600m hohen Tödi sehen."
-      },
-      {
-        "photos": [
-          {
-            "name": "032",
-            "alt": "Piz Bernina",
-            "date": "2016-10-16T12:48:13.000+02:00",
-            "width": 1920,
-            "height": 622
-          }
-        ],
-        "videos": [],
-        "text": "Und in Richtung Süden der 3400m hohe Piz Kesch und in der Mitte der 4000m hohe Piz Bernina."
-      },
-      {
-        "photos": [
-          {
-            "name": "033",
-            "alt": "Tiefblick Naafkopf",
-            "date": "2016-10-16T12:48:52.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Nach einer Brotzeit ging ich dann wieder los. Bis zur Pfälzerhütte auf dem Hin-Weg. Beim steilen ersten Abstieg musste ich aufpassen, keine Steine loszutreten und damit entgegenkommende Wanderer zu gefährden."
-      },
-      {
-        "photos": [
-          {
-            "name": "034",
-            "alt": "Weg an steilem Hang",
-            "date": "2016-10-16T13:21:16.000+02:00",
-            "width": 1920,
-            "height": 1087
-          }
-        ],
-        "videos": [],
-        "text": "Dies ist einer der wenigen Stellen, wo der Weg mal etwas flacher ist."
-      },
-      {
-        "photos": [
-          {
-            "name": "035",
-            "alt": "Silberdistel",
-            "date": "2016-10-16T13:58:04.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Eine Silberdistel am Wegrand."
-      },
-      {
-        "photos": [
-          {
-            "name": "036",
-            "alt": "Pfälzerhüttte",
-            "date": "2016-10-16T13:58:55.000+02:00",
-            "width": 1920,
-            "height": 1085
-          }
-        ],
-        "videos": [],
-        "text": "An der nun belebteren Pfälzerhütte ging ich wieder vorbei, aber diesmal auf der bei Montainbikern beliebten Zufahrtsstraße links herum um den Augstenberg. Hier der Blick zurück."
-      },
-      {
-        "photos": [
-          {
-            "name": "037",
-            "alt": "Naafkopf",
-            "date": "2016-10-16T14:00:43.000+02:00",
-            "width": 1920,
-            "height": 975
-          }
-        ],
-        "videos": [],
-        "text": "Von dieser Seite sah der zuvor erklommene Naafkopf schon recht beeindruckend aus."
-      },
-      {
-        "photos": [
-          {
-            "name": "038",
-            "alt": "Alp Gritsch",
-            "date": "2016-10-16T14:02:40.000+02:00",
-            "width": 1920,
-            "height": 851
-          }
-        ],
-        "videos": [],
-        "text": "Zum Glück ging es nur bis zu dieser 1900m hohen Alp auf der Straße bergab. Von dort ging es dann auf einem Wanderweg wieder bergauf."
-      },
-      {
-        "photos": [
-          {
-            "name": "039",
-            "alt": "Alp Gritsch",
-            "date": "2016-10-16T14:25:44.000+02:00",
-            "width": 1920,
-            "height": 923
-          }
-        ],
-        "videos": [],
-        "text": "Und hier bin ich dort auch schon. Der Blick zurück zur Straße."
-      },
-      {
-        "photos": [
-          {
-            "name": "040",
-            "alt": "Valüna",
-            "date": "2016-10-16T14:30:52.000+02:00",
-            "width": 1920,
-            "height": 1116
-          }
-        ],
-        "videos": [],
-        "text": "Der Weg war nun recht harmlos, aber bei solch einem Wetter ein Genuss."
-      },
-      {
-        "photos": [
-          {
-            "name": "041",
-            "alt": "Tälihöhi Sattel",
-            "date": "2016-10-16T14:43:03.000+02:00",
-            "width": 1920,
-            "height": 1100
-          }
-        ],
-        "videos": [],
-        "text": "Um kurz vor Drei Ankunft auf dem 2050m hohen Tälihöhi Sattel, der mich wieder nach Malbun zurückführen sollte. Hier noch mal ein letzter Blick zurück zum Augstenberg links und Naafkopf rechts."
-      },
-      {
-        "photos": [
-          {
-            "name": "042",
-            "alt": "Bergstation Sesselbahn Täli",
-            "date": "2016-10-16T14:46:58.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Durch dieses Tal ging es nun flott bergab nach Malbun. Im Blick auch die Bergstation einer der beiden Sesselbahnen."
-      },
-      {
-        "photos": [
-          {
-            "name": "043",
-            "alt": "Sesselbahn Täli im Herbst",
-            "date": "2016-10-16T15:04:21.000+02:00",
-            "width": 1920,
-            "height": 1042
-          },
-          {
-            "name": "045",
-            "alt": "Herbstwald",
-            "date": "2016-10-16T15:16:39.000+02:00",
-            "width": 1920,
-            "height": 663
-          },
-          {
-            "name": "046",
-            "alt": "Herbstfarben",
-            "date": "2016-10-16T15:21:54.000+02:00",
-            "width": 1920,
-            "height": 830
-          }
-        ],
-        "videos": [],
-        "text": "Herrlich, schönster Herbst. 😃"
-      },
-      {
-        "photos": [
-          {
-            "name": "047",
-            "alt": "Tunnel Malbun",
-            "date": "2016-10-16T15:52:13.000+02:00",
-            "width": 1920,
-            "height": 1132
-          }
-        ],
-        "videos": [],
-        "text": "Das Auto erreichte ich noch vor 16:00 bei angenehmen 17°. Zurück zum Rheintal kommt man übrigens nur durch diesen Tunnel, der bei entgegenkommendem Bus nur einspurig befahren wird. Das ganze hatte aber den Vorteil, dass die spaßige Serpentinenstraße danach schön frei war. 😃"
-      },
-      {
-        "photos": [
-          {
-            "name": "track1",
-            "alt": "Wanderkarte Malbun",
-            "width": 1280,
-            "height": 603
-          },
-          {
-            "name": "track2",
-            "alt": "Höhenprofil Naafkopf",
-            "width": 1280,
-            "height": 219
-          }
-        ],
-        "videos": [],
-        "text": "Zurückgelegte Strecke. Mit 16km nicht sehr lang, aber die 1600 Höhenmeter hatten es schon in sich. Man kann das ganze aber um 400 Höhenmeter mit der Sesselbahn verkürzen - dann sollte es gut zu schaffen sein."
-      }
-    ],
-    "outro": "Fazit: Schöne Herbstwanderung mit beeindruckendem Gipfelerlebnis in einer für mich noch unbekannten Gegend."
-  }
-]
+    {
+      "photos": [
+        {
+          "name": "004",
+          "alt": "Bergstation Sareis",
+          "date": "2016-10-16T09:26:26.000+02:00",
+          "width": 1920,
+          "height": 929
+        }
+      ],
+      "videos": [],
+      "text": "Aber auch meinen Westhang erschließt eine Sesselbahn. Diese hätte ich nehmen können, um mir den ersten Aufstieg von rund 400 Höhenmetern zu ersparen."
+    },
+    {
+      "photos": [
+        {
+          "name": "005",
+          "alt": "Malbun",
+          "date": "2016-10-16T09:45:09.000+02:00",
+          "width": 1920,
+          "height": 707
+        }
+      ],
+      "videos": [],
+      "text": "Ich zweigte von der Fahrstraße am äußersten Ende ab und kürzte auf nicht gekennzeichneten Pfad relativ steil die ausufernde Serpentine ab. Hier noch mal der Blick zurück nach Malbun, das nun bereits komplett in der Sonne lag."
+    },
+    {
+      "photos": [
+        {
+          "name": "006",
+          "alt": "Gratweg Sareis",
+          "date": "2016-10-16T09:53:29.000+02:00",
+          "width": 1920,
+          "height": 1280
+        },
+        {
+          "name": "007",
+          "alt": "Nenzinger Himmel",
+          "date": "2016-10-16T09:59:24.000+02:00",
+          "width": 1920,
+          "height": 811
+        }
+      ],
+      "videos": [],
+      "text": "Dann erreichte ich schließlich den 2000m hohen Grat. Mein nächstes Etappenziel war der Berg rechts, der 2360m hohe Augstenberg. Bei einer ersten kleinen Pause genoss ich die warmen Sonnenstrahlen - die Jacke wurde weggepackt.<br />\nAuf der anderen Seite des Grats geht es bergab zum Nenzinger Himmel, ein ziemlich einsames Tal zwischen Malbun und Brandnertal."
+    },
+    {
+      "photos": [
+        {
+          "name": "008",
+          "alt": "Fürstin Gina Weg",
+          "date": "2016-10-16T10:07:21.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Der Weg war eigentlich einfach, aber zwischendurch gab es mal kleine Stellen, wo man die Hände gebrauchen konnte."
+    },
+    {
+      "photos": [
+        {
+          "name": "009",
+          "alt": "Aufstieg Augstenberg",
+          "date": "2016-10-16T10:24:09.000+02:00",
+          "width": 1920,
+          "height": 836
+        }
+      ],
+      "videos": [],
+      "text": "Der Gipfel (hier links) sah schon nah aus, es war aber schon noch ein Stück."
+    },
+    {
+      "photos": [
+        {
+          "name": "010",
+          "alt": "Malbun von oben",
+          "date": "2016-10-16T10:24:45.000+02:00",
+          "width": 1920,
+          "height": 2650
+        }
+      ],
+      "videos": [],
+      "text": "Vom Grat aus steiler Blick hinab nach Malbun."
+    },
+    {
+      "photos": [
+        {
+          "name": "011",
+          "alt": "Rheintal mit Alpstein",
+          "date": "2016-10-16T10:27:37.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Und inzwischen war ich auch hoch genug, um über die anderen Seite des Tal hinweg in das Rheintal zu schauen. Dahinter der von mir dieses Jahr ausgiebig bewanderte Alpstein mit Säntis und Altmann."
+    },
+    {
+      "photos": [
+        {
+          "name": "012",
+          "alt": "Fürstin Gina Weg",
+          "date": "2016-10-16T10:34:21.000+02:00",
+          "width": 1920,
+          "height": 860
+        }
+      ],
+      "videos": [],
+      "text": "Der Blick zurück während des Aufstiegs. Die Herbstfarben in den Alpen gefallen mir einfach. 😃"
+    },
+    {
+      "photos": [
+        {
+          "name": "013",
+          "alt": "Panorama Augstenberg",
+          "date": "2016-10-16T10:40:35.000+02:00",
+          "width": 1920,
+          "height": 890
+        }
+      ],
+      "videos": [],
+      "text": "Den Gipfel erreichte ich um 10:30. Blick hier wieder Richtung Rheintal."
+    },
+    {
+      "photos": [
+        {
+          "name": "014",
+          "alt": "Aussicht Augstenberg",
+          "date": "2016-10-16T10:43:51.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Und Tele zum (natürlich) nebligen Bodensee. Unten/rechts ist die Bergstation der Sesselbahn zu sehen."
+    },
+    {
+      "photos": [
+        {
+          "name": "015",
+          "alt": "Gipfelkreuz Augstenberg",
+          "date": "2016-10-16T10:44:09.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Und das ganze ohne Tele mit Gipfelkreuz."
+    },
+    {
+      "photos": [
+        {
+          "name": "016",
+          "alt": "Augstenberg Naafkopf",
+          "date": "2016-10-16T10:45:24.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Nach einer kurzen Pause fiel bereits der Blick auf das nächste Ziel, der 2520m hohe Naafkopf - hier in der Mitte zu sehen. Zu dem Zeitpunkt wusste ich noch nicht, ob dort nicht noch zuviel Schnee liegen würde."
+    },
+    {
+      "photos": [
+        {
+          "name": "017",
+          "alt": "Gipfel Augstenberg",
+          "date": "2016-10-16T10:47:14.000+02:00",
+          "width": 1920,
+          "height": 592
+        }
+      ],
+      "videos": [],
+      "text": "Der Blick zurück zum von dieser Seite flachen Augstenberg."
+    },
+    {
+      "photos": [
+        {
+          "name": "018",
+          "alt": "Augstenberg Pfälzerhütte",
+          "date": "2016-10-16T11:14:31.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Leider geht es nicht auf einer Höhe hinüber zum nächsten Gipfel, sondern ich musste erst hinab zur 2100m hohen Pfälzerhütte, die genau auf dem Pass zwischen den beiden Gipfel liegt.<br />\nDer Weg dort hin ist zwar gut ausgebaut, aber zum Teil war es sehr matschig und glitschig. Meine Bergschuhe hatten zwischendurch eine 2cm dicke Schlammschicht unter der Sohle... und entsprechend kein Profil mehr. Also war aufpassen angesagt."
+    },
+    {
+      "photos": [
+        {
+          "name": "019",
+          "alt": "Pfälzerhütte",
+          "date": "2016-10-16T11:27:28.000+02:00",
+          "width": 1920,
+          "height": 807
+        }
+      ],
+      "videos": [],
+      "text": "An der noch leeren Pfälzerhütte ging ich ohne Pause vorbei. Links im Hintergrund ist der Augstenberg zu sehen."
+    },
+    {
+      "photos": [
+        {
+          "name": "020",
+          "alt": "Herbstschnee",
+          "date": "2016-10-16T11:33:28.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Auf diesem Nordhang kam ich nun auch schnell zu den ersten Schneefeldern, die aber entweder schon weich genug oder harmlos waren."
+    },
+    {
+      "photos": [
+        {
+          "name": "022",
+          "alt": "Naafkopf Nenzinger Himmel",
+          "date": "2016-10-16T11:54:56.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Ziemlich steil und anstrengend ging es bergauf. Hier wieder der Blick hinab zum Nenzinger Himmel."
+    },
+    {
+      "photos": [
+        {
+          "name": "023",
+          "alt": "Aufstieg Naafkopf",
+          "date": "2016-10-16T11:57:34.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Der Weg führte hauptsächlich am flacheren Osthang hinauf, aber manchmal ging es auch auf den Grat. Hier der Blick zurück zur Pfälzerhütte."
+    },
+    {
+      "photos": [
+        {
+          "name": "024",
+          "alt": "Steinböcke",
+          "date": "2016-10-16T12:07:34.000+02:00",
+          "width": 1920,
+          "height": 908
+        }
+      ],
+      "videos": [],
+      "text": "In einiger Entfernung konnte ich eine Gruppe von Steinböcken beobachten, die in der warmen Sonne faulenzten."
+    },
+    {
+      "photos": [
+        {
+          "name": "025",
+          "alt": "Grat Naafkopf",
+          "date": "2016-10-16T12:28:51.000+02:00",
+          "width": 1920,
+          "height": 859
+        }
+      ],
+      "videos": [],
+      "text": "Nach einigem Geschnaufe und Gekeuche erreichte ich schließlich den Grat nach Süden und eine völlig neue Aussicht ergab sich. Rechts ist das Rheintal von Chur zu sehen und links das Prättigau, das nach Davos führt."
+    },
+    {
+      "photos": [
+        {
+          "name": "026",
+          "alt": "Gipfel Naafkopf",
+          "date": "2016-10-16T12:29:55.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Zum Gipfel musste aber noch dieses Steilstück überwunden werden. Nicht gefährlich, aber ich war konditionell schon etwas am Limit."
+    },
+    {
+      "photos": [
+        {
+          "name": "027",
+          "alt": "Panorama Naafkopf",
+          "date": "2016-10-16T12:36:40.000+02:00",
+          "width": 1920,
+          "height": 686
+        }
+      ],
+      "videos": [],
+      "text": "<span data-silent>Ächz, geschafft.</span> Um 12:30 erreichte ich den Gipfel. Hier musste ich dann doch die Jacke überziehen, denn es wehte eine kühle Brise.<br />\nHier ist das Panorama nach Süden zu sehen. Rechts der fast gleich hohe Falknis, der nur von der Rückseite bestiegen werden kann."
+    },
+    {
+      "photos": [
+        {
+          "name": "030",
+          "alt": "Aussicht Naafkopf",
+          "date": "2016-10-16T12:46:04.000+02:00",
+          "width": 1920,
+          "height": 853
+        }
+      ],
+      "videos": [],
+      "text": "Weiter geht es mit dem Blick nach Norden. Über dem Bodensee war es immer noch neblig."
+    },
+    {
+      "photos": [
+        {
+          "name": "029",
+          "alt": "Schesaplana",
+          "date": "2016-10-16T12:45:17.000+02:00",
+          "width": 1920,
+          "height": 826
+        }
+      ],
+      "videos": [],
+      "text": "Fehlt noch das Panorama nach Osten. In der Mitte die fast 3000m hohe Schesaplana."
+    },
+    {
+      "photos": [
+        {
+          "name": "028",
+          "alt": "Fluchthorn",
+          "date": "2016-10-16T12:44:52.000+02:00",
+          "width": 1920,
+          "height": 658
+        }
+      ],
+      "videos": [],
+      "text": "Um die fantastische Sicht an diesem Tag zu präsentieren, noch ein paar Teleaufnahmen. Hier rechts vorbei an der Schesaplana. Links das 3400m hohe Fluchthorn und rechts der 3300m hohe Piz Buin."
+    },
+    {
+      "photos": [
+        {
+          "name": "031",
+          "alt": "Tödi",
+          "date": "2016-10-16T12:47:49.000+02:00",
+          "width": 1920,
+          "height": 793
+        }
+      ],
+      "videos": [],
+      "text": "Am Falknis vorbei konnte man den 3600m hohen Tödi sehen."
+    },
+    {
+      "photos": [
+        {
+          "name": "032",
+          "alt": "Piz Bernina",
+          "date": "2016-10-16T12:48:13.000+02:00",
+          "width": 1920,
+          "height": 622
+        }
+      ],
+      "videos": [],
+      "text": "Und in Richtung Süden der 3400m hohe Piz Kesch und in der Mitte der 4000m hohe Piz Bernina."
+    },
+    {
+      "photos": [
+        {
+          "name": "033",
+          "alt": "Tiefblick Naafkopf",
+          "date": "2016-10-16T12:48:52.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Nach einer Brotzeit ging ich dann wieder los. Bis zur Pfälzerhütte auf dem Hin-Weg. Beim steilen ersten Abstieg musste ich aufpassen, keine Steine loszutreten und damit entgegenkommende Wanderer zu gefährden."
+    },
+    {
+      "photos": [
+        {
+          "name": "034",
+          "alt": "Weg an steilem Hang",
+          "date": "2016-10-16T13:21:16.000+02:00",
+          "width": 1920,
+          "height": 1087
+        }
+      ],
+      "videos": [],
+      "text": "Dies ist einer der wenigen Stellen, wo der Weg mal etwas flacher ist."
+    },
+    {
+      "photos": [
+        {
+          "name": "035",
+          "alt": "Silberdistel",
+          "date": "2016-10-16T13:58:04.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Eine Silberdistel am Wegrand."
+    },
+    {
+      "photos": [
+        {
+          "name": "036",
+          "alt": "Pfälzerhüttte",
+          "date": "2016-10-16T13:58:55.000+02:00",
+          "width": 1920,
+          "height": 1085
+        }
+      ],
+      "videos": [],
+      "text": "An der nun belebteren Pfälzerhütte ging ich wieder vorbei, aber diesmal auf der bei Montainbikern beliebten Zufahrtsstraße links herum um den Augstenberg. Hier der Blick zurück."
+    },
+    {
+      "photos": [
+        {
+          "name": "037",
+          "alt": "Naafkopf",
+          "date": "2016-10-16T14:00:43.000+02:00",
+          "width": 1920,
+          "height": 975
+        }
+      ],
+      "videos": [],
+      "text": "Von dieser Seite sah der zuvor erklommene Naafkopf schon recht beeindruckend aus."
+    },
+    {
+      "photos": [
+        {
+          "name": "038",
+          "alt": "Alp Gritsch",
+          "date": "2016-10-16T14:02:40.000+02:00",
+          "width": 1920,
+          "height": 851
+        }
+      ],
+      "videos": [],
+      "text": "Zum Glück ging es nur bis zu dieser 1900m hohen Alp auf der Straße bergab. Von dort ging es dann auf einem Wanderweg wieder bergauf."
+    },
+    {
+      "photos": [
+        {
+          "name": "039",
+          "alt": "Alp Gritsch",
+          "date": "2016-10-16T14:25:44.000+02:00",
+          "width": 1920,
+          "height": 923
+        }
+      ],
+      "videos": [],
+      "text": "Und hier bin ich dort auch schon. Der Blick zurück zur Straße."
+    },
+    {
+      "photos": [
+        {
+          "name": "040",
+          "alt": "Valüna",
+          "date": "2016-10-16T14:30:52.000+02:00",
+          "width": 1920,
+          "height": 1116
+        }
+      ],
+      "videos": [],
+      "text": "Der Weg war nun recht harmlos, aber bei solch einem Wetter ein Genuss."
+    },
+    {
+      "photos": [
+        {
+          "name": "041",
+          "alt": "Tälihöhi Sattel",
+          "date": "2016-10-16T14:43:03.000+02:00",
+          "width": 1920,
+          "height": 1100
+        }
+      ],
+      "videos": [],
+      "text": "Um kurz vor Drei Ankunft auf dem 2050m hohen Tälihöhi Sattel, der mich wieder nach Malbun zurückführen sollte. Hier noch mal ein letzter Blick zurück zum Augstenberg links und Naafkopf rechts."
+    },
+    {
+      "photos": [
+        {
+          "name": "042",
+          "alt": "Bergstation Sesselbahn Täli",
+          "date": "2016-10-16T14:46:58.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Durch dieses Tal ging es nun flott bergab nach Malbun. Im Blick auch die Bergstation einer der beiden Sesselbahnen."
+    },
+    {
+      "photos": [
+        {
+          "name": "043",
+          "alt": "Sesselbahn Täli im Herbst",
+          "date": "2016-10-16T15:04:21.000+02:00",
+          "width": 1920,
+          "height": 1042
+        },
+        {
+          "name": "045",
+          "alt": "Herbstwald",
+          "date": "2016-10-16T15:16:39.000+02:00",
+          "width": 1920,
+          "height": 663
+        },
+        {
+          "name": "046",
+          "alt": "Herbstfarben",
+          "date": "2016-10-16T15:21:54.000+02:00",
+          "width": 1920,
+          "height": 830
+        }
+      ],
+      "videos": [],
+      "text": "Herrlich, schönster Herbst. 😃"
+    },
+    {
+      "photos": [
+        {
+          "name": "047",
+          "alt": "Tunnel Malbun",
+          "date": "2016-10-16T15:52:13.000+02:00",
+          "width": 1920,
+          "height": 1132
+        }
+      ],
+      "videos": [],
+      "text": "Das Auto erreichte ich noch vor 16:00 bei angenehmen 17°. Zurück zum Rheintal kommt man übrigens nur durch diesen Tunnel, der bei entgegenkommendem Bus nur einspurig befahren wird. Das ganze hatte aber den Vorteil, dass die spaßige Serpentinenstraße danach schön frei war. 😃"
+    },
+    {
+      "photos": [
+        {
+          "name": "track1",
+          "alt": "Wanderkarte Malbun",
+          "width": 1280,
+          "height": 603
+        },
+        {
+          "name": "track2",
+          "alt": "Höhenprofil Naafkopf",
+          "width": 1280,
+          "height": 219
+        }
+      ],
+      "videos": [],
+      "text": "Zurückgelegte Strecke. Mit 16km nicht sehr lang, aber die 1600 Höhenmeter hatten es schon in sich. Man kann das ganze aber um 400 Höhenmeter mit der Sesselbahn verkürzen - dann sollte es gut zu schaffen sein."
+    }
+  ],
+  "outro": "Fazit: Schöne Herbstwanderung mit beeindruckendem Gipfelerlebnis in einer für mich noch unbekannten Gegend."
+}

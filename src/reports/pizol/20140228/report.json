@@ -1,117 +1,115 @@
-[
-  {
-    "destination": "pizol",
-    "date": "d20140228",
-    "track": false,
-    "shortTitle": "Pizol",
-    "title": "Pizol",
-    "intro": "Nach Feierabend ging es an diesem Freitag mit Kollegen los zum Schlittelabend nach Pizol. Schon aus weiter Entfernung sah man auf der Autobahn den beleuchteten Hang. Jeden Freitag in der Hauptsaison findet dort zwischen Furt (1500m) und Maienberg (1000m) Nacht-Ski- und Schlittenfahren statt. Ankunft nach einer guten Stunde Fahrt in Wangs (500m) um 18:15. Die Abendkarten kostet für die erfreulich langen 4h von 18:00 bis 22:00 17,50CHF (egal ob Ski oder Schlitten oder beides). Dazu kamen bei uns noch 5CHF Parkgebühren und 10CHF Schlittenmiete.",
-    "landmarks": [
-      {
-        "photos": [
-          {
-            "name": "0cATGEC",
-            "width": 1024,
-            "height": 601
-          }
-        ],
-        "videos": [],
-        "text": "Nach der ziemlich finsteren Auffahrt in der unbeleuchteten Achter-Gondelbahn und der ersten Testabfahrt von der Berg- zur Mittelstation. Der Blick ins Rheintal ist nachts mindestens genauso schön wie tagsüber."
-      },
-      {
-        "photos": [
-          {
-            "name": "GfDtNH9",
-            "width": 1024,
-            "height": 683
-          }
-        ],
-        "videos": [],
-        "text": "Der obere Abschnitt der Strecke führt in kleineren Serpentinen durch den Wald, der Schnee war schön pulvrig und es gab kein Eis."
-      },
-      {
-        "photos": [
-          {
-            "name": "yGvsrRy",
-            "width": 1024,
-            "height": 383
-          }
-        ],
-        "videos": [],
-        "text": "In der Mitte der über 3km langen Abfahrt kreuzt man die Skipiste. Sowohl auf der Piste, wie auch auf Schlittenbahn war es angenehm leer."
-      },
-      {
-        "photos": [
-          {
-            "name": "5YaQOaR",
-            "width": 1024,
-            "height": 574
-          }
-        ],
-        "videos": [],
-        "text": "Die Abfahrt dauert ungefährt 10min, wie auch die langsam fahrende Gondel für die Bergfahrt. Hier ein Bild des Starts, wo es ein paar Meter auf der Skipiste geht."
-      },
-      {
-        "photos": [
-          {
-            "name": "C4CL0Pk",
-            "width": 1024,
-            "height": 683
-          }
-        ],
-        "videos": [],
-        "text": "Nochmals der allgegenwertige Blick ins Tal."
-      },
-      {
-        "photos": [
-          {
-            "name": "Zcm51k9",
-            "width": 1024,
-            "height": 431
-          }
-        ],
-        "videos": [],
-        "text": "Und von gleicher Stelle der weitere Verlauf der Strecke."
-      },
-      {
-        "photos": [
-          {
-            "name": "IySd99P",
-            "width": 1024,
-            "height": 694
-          }
-        ],
-        "videos": [],
-        "text": "Kleine Pause in der unteren Hälfte, die zum Teil sehr spärlich beleuchtet ist. Zudem kam im letzten Abschnitt zum Teil der Asphalt der Straße durch... aber ich war ja nicht mit meinen guten Ski unterwegs. 😉"
-      },
-      {
-        "photos": [
-          {
-            "name": "WuA1TDR",
-            "width": 1024,
-            "height": 683
-          }
-        ],
-        "videos": [],
-        "text": "Noch ein Bild vom schöneren oberen Abschnitt. Im Laufe der Zeit bildeten sich immer mehr Buckel, so dass man seinem Kreuz zuliebe etwas langsamer fahren musste.<br />\nUm 22:30 dann mit einer der letzten Gondeln ins Tal."
-      },
-      {
-        "photos": [
-          {
-            "name": "DT9lTpV",
-            "width": 1024,
-            "height": 524
-          },
-          {
-            "name": "eFpT13D",
-            "width": 1024,
-            "height": 302
-          }
-        ],
-        "videos": [],
-        "text": "Gefahrene Strecke (man muss sich schon dumme Sprüche anhören, wenn man ein GPS zum Schlittenfahren mit nimmt 😉). Sind so 45km und 4.000 Höhenmeter geworden."
-      }
-    ],
-    "outro": "Fazit: Für mich das erste mal nachts in den Bergen unterwegs war es ein sehr schönes Erlebnis, auch wenn ich jetzt mit blauen Flecken übersät bin.<br />\nAuch die Skipiste sah recht nett aus, so dass ich wahrscheinlich die Aktion noch mal mit Skifahren wiederholen werden."
-  }
-]
+{
+  "destination": "pizol",
+  "date": "d20140228",
+  "track": false,
+  "shortTitle": "Pizol",
+  "title": "Pizol",
+  "intro": "Nach Feierabend ging es an diesem Freitag mit Kollegen los zum Schlittelabend nach Pizol. Schon aus weiter Entfernung sah man auf der Autobahn den beleuchteten Hang. Jeden Freitag in der Hauptsaison findet dort zwischen Furt (1500m) und Maienberg (1000m) Nacht-Ski- und Schlittenfahren statt. Ankunft nach einer guten Stunde Fahrt in Wangs (500m) um 18:15. Die Abendkarten kostet für die erfreulich langen 4h von 18:00 bis 22:00 17,50CHF (egal ob Ski oder Schlitten oder beides). Dazu kamen bei uns noch 5CHF Parkgebühren und 10CHF Schlittenmiete.",
+  "landmarks": [
+    {
+      "photos": [
+        {
+          "name": "0cATGEC",
+          "width": 1024,
+          "height": 601
+        }
+      ],
+      "videos": [],
+      "text": "Nach der ziemlich finsteren Auffahrt in der unbeleuchteten Achter-Gondelbahn und der ersten Testabfahrt von der Berg- zur Mittelstation. Der Blick ins Rheintal ist nachts mindestens genauso schön wie tagsüber."
+    },
+    {
+      "photos": [
+        {
+          "name": "GfDtNH9",
+          "width": 1024,
+          "height": 683
+        }
+      ],
+      "videos": [],
+      "text": "Der obere Abschnitt der Strecke führt in kleineren Serpentinen durch den Wald, der Schnee war schön pulvrig und es gab kein Eis."
+    },
+    {
+      "photos": [
+        {
+          "name": "yGvsrRy",
+          "width": 1024,
+          "height": 383
+        }
+      ],
+      "videos": [],
+      "text": "In der Mitte der über 3km langen Abfahrt kreuzt man die Skipiste. Sowohl auf der Piste, wie auch auf Schlittenbahn war es angenehm leer."
+    },
+    {
+      "photos": [
+        {
+          "name": "5YaQOaR",
+          "width": 1024,
+          "height": 574
+        }
+      ],
+      "videos": [],
+      "text": "Die Abfahrt dauert ungefährt 10min, wie auch die langsam fahrende Gondel für die Bergfahrt. Hier ein Bild des Starts, wo es ein paar Meter auf der Skipiste geht."
+    },
+    {
+      "photos": [
+        {
+          "name": "C4CL0Pk",
+          "width": 1024,
+          "height": 683
+        }
+      ],
+      "videos": [],
+      "text": "Nochmals der allgegenwertige Blick ins Tal."
+    },
+    {
+      "photos": [
+        {
+          "name": "Zcm51k9",
+          "width": 1024,
+          "height": 431
+        }
+      ],
+      "videos": [],
+      "text": "Und von gleicher Stelle der weitere Verlauf der Strecke."
+    },
+    {
+      "photos": [
+        {
+          "name": "IySd99P",
+          "width": 1024,
+          "height": 694
+        }
+      ],
+      "videos": [],
+      "text": "Kleine Pause in der unteren Hälfte, die zum Teil sehr spärlich beleuchtet ist. Zudem kam im letzten Abschnitt zum Teil der Asphalt der Straße durch... aber ich war ja nicht mit meinen guten Ski unterwegs. 😉"
+    },
+    {
+      "photos": [
+        {
+          "name": "WuA1TDR",
+          "width": 1024,
+          "height": 683
+        }
+      ],
+      "videos": [],
+      "text": "Noch ein Bild vom schöneren oberen Abschnitt. Im Laufe der Zeit bildeten sich immer mehr Buckel, so dass man seinem Kreuz zuliebe etwas langsamer fahren musste.<br />\nUm 22:30 dann mit einer der letzten Gondeln ins Tal."
+    },
+    {
+      "photos": [
+        {
+          "name": "DT9lTpV",
+          "width": 1024,
+          "height": 524
+        },
+        {
+          "name": "eFpT13D",
+          "width": 1024,
+          "height": 302
+        }
+      ],
+      "videos": [],
+      "text": "Gefahrene Strecke (man muss sich schon dumme Sprüche anhören, wenn man ein GPS zum Schlittenfahren mit nimmt 😉). Sind so 45km und 4.000 Höhenmeter geworden."
+    }
+  ],
+  "outro": "Fazit: Für mich das erste mal nachts in den Bergen unterwegs war es ein sehr schönes Erlebnis, auch wenn ich jetzt mit blauen Flecken übersät bin.<br />\nAuch die Skipiste sah recht nett aus, so dass ich wahrscheinlich die Aktion noch mal mit Skifahren wiederholen werden."
+}

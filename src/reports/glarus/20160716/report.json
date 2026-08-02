@@ -1,366 +1,364 @@
-[
-  {
-    "destination": "glarus",
-    "date": "d20160716",
-    "type": "hike",
-    "track": true,
-    "timeShift": -60,
-    "detailMap": "swiss",
-    "shortTitle": "Geo-Phänomene-Weg",
-    "title": "Kerenzerberg - Geo-Phänomene-Weg",
-    "title3d": {
-      "offsetY": 0,
-      "fontSize": 8.5,
-      "align": "right",
-      "width": 1920,
-      "height": 593
+{
+  "destination": "glarus",
+  "date": "d20160716",
+  "type": "hike",
+  "track": true,
+  "timeShift": -60,
+  "detailMap": "swiss",
+  "shortTitle": "Geo-Phänomene-Weg",
+  "title": "Kerenzerberg - Geo-Phänomene-Weg",
+  "title3d": {
+    "offsetY": 0,
+    "fontSize": 8.5,
+    "align": "right",
+    "width": 1920,
+    "height": 593
+  },
+  "movie": "puIxlqHKGDs",
+  "intro": "Durch den Neuschnee der vergangenen Woche war ich bei der Auswahl von Wanderzielen auf die Höhe von unter 2000m eingeschränkt. Ich entschied mich für die Umrundung des Glaruser Fronalpstocks, der ganz in der Nähe der Murgseen liegt, die ich in der Woche zuvor besuchte.<br />\nPünktlich zum Betriebsstart der Sesselbahn Kerenzerberg parkte ich mein Auto um 8:00 in Filzbach, einem kleinen Ort oberhalb des Walensees.",
+  "landmarks": [
+    {
+      "photos": [
+        {
+          "name": "001",
+          "alt": "Sesselbahn Filzbach",
+          "date": "2016-07-16T08:16:47.000+02:00",
+          "width": 1920,
+          "height": 818
+        },
+        {
+          "name": "003",
+          "alt": "Bergstation Sesselbahn Kerenzerberg",
+          "date": "2016-07-16T08:35:16.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Mit der Zweier-Sesselbahn ging es langsam von 700m auf 1300m hinauf. Die einfache Fahrt kostet 11CHF."
     },
-    "movie": "puIxlqHKGDs",
-    "intro": "Durch den Neuschnee der vergangenen Woche war ich bei der Auswahl von Wanderzielen auf die Höhe von unter 2000m eingeschränkt. Ich entschied mich für die Umrundung des Glaruser Fronalpstocks, der ganz in der Nähe der Murgseen liegt, die ich in der Woche zuvor besuchte.<br />\nPünktlich zum Betriebsstart der Sesselbahn Kerenzerberg parkte ich mein Auto um 8:00 in Filzbach, einem kleinen Ort oberhalb des Walensees.",
-    "landmarks": [
-      {
-        "photos": [
-          {
-            "name": "001",
-            "alt": "Sesselbahn Filzbach",
-            "date": "2016-07-16T08:16:47.000+02:00",
-            "width": 1920,
-            "height": 818
-          },
-          {
-            "name": "003",
-            "alt": "Bergstation Sesselbahn Kerenzerberg",
-            "date": "2016-07-16T08:35:16.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Mit der Zweier-Sesselbahn ging es langsam von 700m auf 1300m hinauf. Die einfache Fahrt kostet 11CHF."
-      },
-      {
-        "photos": [
-          {
-            "name": "004",
-            "alt": "Blick Zürichsee",
-            "date": "2016-07-16T08:59:43.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Dann ging ich rechts gegen den Uhrzeigersinn um den Berg am Hang entlang. Schnell öffnete sich der Blick nach Nordwest Richtung Zürich."
-      },
-      {
-        "photos": [
-          {
-            "name": "005",
-            "alt": "Wanderweg durch Wald",
-            "date": "2016-07-16T09:14:20.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Die meiste Zeit ging es aber nun harmlos durch den Wald."
-      },
-      {
-        "photos": [
-          {
-            "name": "006",
-            "alt": "Glarus",
-            "date": "2016-07-16T09:19:04.000+02:00",
-            "width": 1920,
-            "height": 736
-          }
-        ],
-        "videos": [],
-        "text": "Nach 45min Wegstrecke ergab sich nun der Blick in das Glarus, das mit seinen steilen Bergen beeindruckt."
-      },
-      {
-        "photos": [
-          {
-            "name": "007",
-            "alt": "Dunkle Tannen",
-            "date": "2016-07-16T09:36:57.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Und etwas weiter kündigte sich dann auch endlich das Ende des dunklen (und etwas schlammigen) Walds an."
-      },
-      {
-        "photos": [
-          {
-            "name": "008",
-            "alt": "Mullern",
-            "date": "2016-07-16T09:45:47.000+02:00",
-            "width": 1920,
-            "height": 1002
-          }
-        ],
-        "videos": [],
-        "text": "Ich erreichte die Weiden von Mullern. Der Berg in der Mitte ist der 2200m hohe Fronalpstock."
-      },
-      {
-        "photos": [
-          {
-            "name": "009",
-            "alt": "Fahrstraße Mullern",
-            "date": "2016-07-16T10:05:15.000+02:00",
-            "width": 1920,
-            "height": 1033
-          }
-        ],
-        "videos": [],
-        "text": "Auf Grund der Wiesen muss man etwas unnötig ab- und aufsteigen, aber ich erreichte nach den Fahrstraßen schnell wieder einen normalen Wanderweg."
-      },
-      {
-        "photos": [
-          {
-            "name": "010",
-            "alt": "Alp",
-            "date": "2016-07-16T10:08:56.000+02:00",
-            "width": 1920,
-            "height": 1107
-          },
-          {
-            "name": "011",
-            "alt": "Vermoostes Wegzeichen",
-            "date": "2016-07-16T10:11:00.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Durch einen alten Felssturz ging es nun teils durch Wälder, teils über Wiesen immer weiter am Hang entlang."
-      },
-      {
-        "photos": [
-          {
-            "name": "013",
-            "alt": "Naturfreundehaus Fronalp",
-            "date": "2016-07-16T11:14:40.000+02:00",
-            "width": 1920,
-            "height": 1265
-          }
-        ],
-        "videos": [],
-        "text": "Mit dem sanftem bergauf/bergab war es nun aber vorbei und es ging steil eine Fahrstraße bergauf. Im Bild ist das Naturfreundehaus Fronalp zu sehen, wo man auf einer schönen Terrasse speisen könnte. Bis dort kann man auch mit dem Auto hochfahren - das ist der Ausgangspunkt, wenn man nur den Fronalpstock besteigen will."
-      },
-      {
-        "photos": [
-          {
-            "name": "014",
-            "alt": "Verschneiter Tödi",
-            "date": "2016-07-16T11:26:19.000+02:00",
-            "width": 1920,
-            "height": 1374
-          }
-        ],
-        "videos": [],
-        "text": "Zermürbend steil ging es hoch, aber der Blick auf den frisch verschneiten Tödi entschädigte."
-      },
-      {
-        "photos": [
-          {
-            "name": "015",
-            "alt": "Katze an Bauernhof",
-            "date": "2016-07-16T11:31:42.000+02:00",
-            "width": 1920,
-            "height": 1319
-          }
-        ],
-        "videos": [],
-        "text": "Vorbei an der Alp Mittlerstafel."
-      },
-      {
-        "photos": [
-          {
-            "name": "017",
-            "alt": "Klöntalersee",
-            "date": "2016-07-16T11:44:52.000+02:00",
-            "width": 1920,
-            "height": 765
-          }
-        ],
-        "videos": [],
-        "text": "Und als ob der Fahrweg nicht schon steil genug war, wurde es anschließend richtig knackig. Ich machte besser mal eine Pause mit dem Blick zurück zur Alp. Im Hintergrund der schöne Klöntalersee."
-      },
-      {
-        "photos": [
-          {
-            "name": "018",
-            "alt": "Mürtschenstock",
-            "date": "2016-07-16T12:19:35.000+02:00",
-            "width": 1920,
-            "height": 759
-          }
-        ],
-        "videos": [],
-        "text": "Um 12:20 erreichte ich schließlich den 1860m hohen Fronalppass. Unübersehbar drängt sich nun der Mürtschenstock in die Aussicht. Genau auf diese Höhe erreichte ich die Schneegrenze. Es war aber mild genug für eine längere Mittagspause."
-      },
-      {
-        "photos": [
-          {
-            "name": "019",
-            "alt": "Fronalpstock",
-            "date": "2016-07-16T12:20:04.000+02:00",
-            "width": 1920,
-            "height": 1011
-          }
-        ],
-        "videos": [],
-        "text": "Von diesem Pass aus lässt sich der benachbarte Fronalpstock mit ca. 1 1/2 Stunden Extraaufwand besteigen. Gereizt hätte es mich schon, aber ich wusste, dass ich auch noch ein paar Kilometer vor mir hatte."
-      },
-      {
-        "photos": [
-          {
-            "name": "020",
-            "alt": "Mürtschenstock mit Blume",
-            "date": "2016-07-16T12:27:49.000+02:00",
-            "width": 1920,
-            "height": 1199
-          }
-        ],
-        "videos": [],
-        "text": "Deshalb konzentrierte ich mich mehr auf's unanstrengende Fotografieren. 😉"
-      },
-      {
-        "photos": [
-          {
-            "name": "021",
-            "alt": "Abstieg Fronalppass",
-            "date": "2016-07-16T12:40:02.000+02:00",
-            "width": 1920,
-            "height": 1231
-          }
-        ],
-        "videos": [],
-        "text": "Auf wenig begangenem und zugewuchertem Weg ging es nun das Tal auf der anderen Seite des Passes abwärts. Fotos ohne Mürtschenstock sind praktisch unmöglich."
-      },
-      {
-        "photos": [
-          {
-            "name": "022",
-            "alt": "Wanderweg zum Fronalpstock",
-            "date": "2016-07-16T13:04:00.000+02:00",
-            "width": 1920,
-            "height": 938
-          }
-        ],
-        "videos": [],
-        "text": "Blick zurück zum Fronalpstock rechts."
-      },
-      {
-        "photos": [
-          {
-            "name": "024",
-            "alt": "Alp Hummel",
-            "date": "2016-07-16T13:16:43.000+02:00",
-            "width": 1920,
-            "height": 1180
-          }
-        ],
-        "videos": [],
-        "text": "Dann erreichte ich die Alp Hummel und der Weg wurde wieder breiter."
-      },
-      {
-        "photos": [
-          {
-            "name": "025",
-            "alt": "Spaneggsee",
-            "date": "2016-07-16T13:24:24.000+02:00",
-            "width": 1920,
-            "height": 1142
-          }
-        ],
-        "videos": [],
-        "text": "Vorbei geht es oberhalb des Spaneggsees."
-      },
-      {
-        "photos": [
-          {
-            "name": "026",
-            "alt": "Hinter Tal",
-            "date": "2016-07-16T14:00:40.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Und nach einem steilen Abstieg entlang einer Transportseilbahn tauchte nun das nächste Ziel auf, der Talalpsee."
-      },
-      {
-        "photos": [
-          {
-            "name": "028",
-            "alt": "Aufstieg Spaneggsee",
-            "date": "2016-07-16T14:22:13.000+02:00",
-            "width": 1920,
-            "height": 1136
-          }
-        ],
-        "videos": [],
-        "text": "Blick zurück zur überwundenen Steilstufe, die auf dem Foto gar nicht mal so hoch aussieht."
-      },
-      {
-        "photos": [
-          {
-            "name": "029",
-            "alt": "Gasthaus Talalpsee",
-            "date": "2016-07-16T14:29:51.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Ankunft am Talalpsee, an dem eine kleine Gaststätte liegt und auch sonst mit dem Auto recht gut erreichbar ist. Entsprechend waren hier auch ein paar Leute unterwegs. Ich zog die Badehose an und schwamm eine kleine Runde im doch recht kaltem Wasser. Aber nach so einer Tour tut das einfach gut."
-      },
-      {
-        "photos": [
-          {
-            "name": "030",
-            "alt": "Talalpsee",
-            "date": "2016-07-16T15:09:29.000+02:00",
-            "width": 1920,
-            "height": 1079
-          }
-        ],
-        "videos": [],
-        "text": "Dann ging es aber weiter... noch ein kurzer Blick zurück."
-      },
-      {
-        "photos": [
-          {
-            "name": "031",
-            "alt": "Wanderweg durch Schlucht",
-            "date": "2016-07-16T15:40:28.000+02:00",
-            "width": 1920,
-            "height": 1034
-          }
-        ],
-        "videos": [],
-        "text": "Ich musste nun noch eine Stunde nach Filzbach absteigen. Ich wählte den steilen Abstieg durch eine Schlucht... der Alternativweg über die Wiesen wäre evt. schöner gewesen.<br />\nDas Auto erreichte ich um 16:00."
-      },
-      {
-        "photos": [
-          {
-            "name": "track1",
-            "width": 1280,
-            "height": 647
-          },
-          {
-            "name": "track2",
-            "width": 1280,
-            "height": 248
-          }
-        ],
-        "videos": [],
-        "text": "Wegstrecke. Trotz der geschummelten ersten 500 Höhenmeter war es doch eine recht anstrengende Tour, vor allem da es zu Beginn viel bergauf und bergab ging."
-      }
-    ],
-    "outro": "Fazit: Schöne Rundtour bei bestem Wanderwetter. Die erste Hälfte bis zum Pass hatte ein paar nicht so tolle Abschnitte, aber danach wurde es richtig nett."
-  }
-]
+    {
+      "photos": [
+        {
+          "name": "004",
+          "alt": "Blick Zürichsee",
+          "date": "2016-07-16T08:59:43.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Dann ging ich rechts gegen den Uhrzeigersinn um den Berg am Hang entlang. Schnell öffnete sich der Blick nach Nordwest Richtung Zürich."
+    },
+    {
+      "photos": [
+        {
+          "name": "005",
+          "alt": "Wanderweg durch Wald",
+          "date": "2016-07-16T09:14:20.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Die meiste Zeit ging es aber nun harmlos durch den Wald."
+    },
+    {
+      "photos": [
+        {
+          "name": "006",
+          "alt": "Glarus",
+          "date": "2016-07-16T09:19:04.000+02:00",
+          "width": 1920,
+          "height": 736
+        }
+      ],
+      "videos": [],
+      "text": "Nach 45min Wegstrecke ergab sich nun der Blick in das Glarus, das mit seinen steilen Bergen beeindruckt."
+    },
+    {
+      "photos": [
+        {
+          "name": "007",
+          "alt": "Dunkle Tannen",
+          "date": "2016-07-16T09:36:57.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Und etwas weiter kündigte sich dann auch endlich das Ende des dunklen (und etwas schlammigen) Walds an."
+    },
+    {
+      "photos": [
+        {
+          "name": "008",
+          "alt": "Mullern",
+          "date": "2016-07-16T09:45:47.000+02:00",
+          "width": 1920,
+          "height": 1002
+        }
+      ],
+      "videos": [],
+      "text": "Ich erreichte die Weiden von Mullern. Der Berg in der Mitte ist der 2200m hohe Fronalpstock."
+    },
+    {
+      "photos": [
+        {
+          "name": "009",
+          "alt": "Fahrstraße Mullern",
+          "date": "2016-07-16T10:05:15.000+02:00",
+          "width": 1920,
+          "height": 1033
+        }
+      ],
+      "videos": [],
+      "text": "Auf Grund der Wiesen muss man etwas unnötig ab- und aufsteigen, aber ich erreichte nach den Fahrstraßen schnell wieder einen normalen Wanderweg."
+    },
+    {
+      "photos": [
+        {
+          "name": "010",
+          "alt": "Alp",
+          "date": "2016-07-16T10:08:56.000+02:00",
+          "width": 1920,
+          "height": 1107
+        },
+        {
+          "name": "011",
+          "alt": "Vermoostes Wegzeichen",
+          "date": "2016-07-16T10:11:00.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Durch einen alten Felssturz ging es nun teils durch Wälder, teils über Wiesen immer weiter am Hang entlang."
+    },
+    {
+      "photos": [
+        {
+          "name": "013",
+          "alt": "Naturfreundehaus Fronalp",
+          "date": "2016-07-16T11:14:40.000+02:00",
+          "width": 1920,
+          "height": 1265
+        }
+      ],
+      "videos": [],
+      "text": "Mit dem sanftem bergauf/bergab war es nun aber vorbei und es ging steil eine Fahrstraße bergauf. Im Bild ist das Naturfreundehaus Fronalp zu sehen, wo man auf einer schönen Terrasse speisen könnte. Bis dort kann man auch mit dem Auto hochfahren - das ist der Ausgangspunkt, wenn man nur den Fronalpstock besteigen will."
+    },
+    {
+      "photos": [
+        {
+          "name": "014",
+          "alt": "Verschneiter Tödi",
+          "date": "2016-07-16T11:26:19.000+02:00",
+          "width": 1920,
+          "height": 1374
+        }
+      ],
+      "videos": [],
+      "text": "Zermürbend steil ging es hoch, aber der Blick auf den frisch verschneiten Tödi entschädigte."
+    },
+    {
+      "photos": [
+        {
+          "name": "015",
+          "alt": "Katze an Bauernhof",
+          "date": "2016-07-16T11:31:42.000+02:00",
+          "width": 1920,
+          "height": 1319
+        }
+      ],
+      "videos": [],
+      "text": "Vorbei an der Alp Mittlerstafel."
+    },
+    {
+      "photos": [
+        {
+          "name": "017",
+          "alt": "Klöntalersee",
+          "date": "2016-07-16T11:44:52.000+02:00",
+          "width": 1920,
+          "height": 765
+        }
+      ],
+      "videos": [],
+      "text": "Und als ob der Fahrweg nicht schon steil genug war, wurde es anschließend richtig knackig. Ich machte besser mal eine Pause mit dem Blick zurück zur Alp. Im Hintergrund der schöne Klöntalersee."
+    },
+    {
+      "photos": [
+        {
+          "name": "018",
+          "alt": "Mürtschenstock",
+          "date": "2016-07-16T12:19:35.000+02:00",
+          "width": 1920,
+          "height": 759
+        }
+      ],
+      "videos": [],
+      "text": "Um 12:20 erreichte ich schließlich den 1860m hohen Fronalppass. Unübersehbar drängt sich nun der Mürtschenstock in die Aussicht. Genau auf diese Höhe erreichte ich die Schneegrenze. Es war aber mild genug für eine längere Mittagspause."
+    },
+    {
+      "photos": [
+        {
+          "name": "019",
+          "alt": "Fronalpstock",
+          "date": "2016-07-16T12:20:04.000+02:00",
+          "width": 1920,
+          "height": 1011
+        }
+      ],
+      "videos": [],
+      "text": "Von diesem Pass aus lässt sich der benachbarte Fronalpstock mit ca. 1 1/2 Stunden Extraaufwand besteigen. Gereizt hätte es mich schon, aber ich wusste, dass ich auch noch ein paar Kilometer vor mir hatte."
+    },
+    {
+      "photos": [
+        {
+          "name": "020",
+          "alt": "Mürtschenstock mit Blume",
+          "date": "2016-07-16T12:27:49.000+02:00",
+          "width": 1920,
+          "height": 1199
+        }
+      ],
+      "videos": [],
+      "text": "Deshalb konzentrierte ich mich mehr auf's unanstrengende Fotografieren. 😉"
+    },
+    {
+      "photos": [
+        {
+          "name": "021",
+          "alt": "Abstieg Fronalppass",
+          "date": "2016-07-16T12:40:02.000+02:00",
+          "width": 1920,
+          "height": 1231
+        }
+      ],
+      "videos": [],
+      "text": "Auf wenig begangenem und zugewuchertem Weg ging es nun das Tal auf der anderen Seite des Passes abwärts. Fotos ohne Mürtschenstock sind praktisch unmöglich."
+    },
+    {
+      "photos": [
+        {
+          "name": "022",
+          "alt": "Wanderweg zum Fronalpstock",
+          "date": "2016-07-16T13:04:00.000+02:00",
+          "width": 1920,
+          "height": 938
+        }
+      ],
+      "videos": [],
+      "text": "Blick zurück zum Fronalpstock rechts."
+    },
+    {
+      "photos": [
+        {
+          "name": "024",
+          "alt": "Alp Hummel",
+          "date": "2016-07-16T13:16:43.000+02:00",
+          "width": 1920,
+          "height": 1180
+        }
+      ],
+      "videos": [],
+      "text": "Dann erreichte ich die Alp Hummel und der Weg wurde wieder breiter."
+    },
+    {
+      "photos": [
+        {
+          "name": "025",
+          "alt": "Spaneggsee",
+          "date": "2016-07-16T13:24:24.000+02:00",
+          "width": 1920,
+          "height": 1142
+        }
+      ],
+      "videos": [],
+      "text": "Vorbei geht es oberhalb des Spaneggsees."
+    },
+    {
+      "photos": [
+        {
+          "name": "026",
+          "alt": "Hinter Tal",
+          "date": "2016-07-16T14:00:40.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Und nach einem steilen Abstieg entlang einer Transportseilbahn tauchte nun das nächste Ziel auf, der Talalpsee."
+    },
+    {
+      "photos": [
+        {
+          "name": "028",
+          "alt": "Aufstieg Spaneggsee",
+          "date": "2016-07-16T14:22:13.000+02:00",
+          "width": 1920,
+          "height": 1136
+        }
+      ],
+      "videos": [],
+      "text": "Blick zurück zur überwundenen Steilstufe, die auf dem Foto gar nicht mal so hoch aussieht."
+    },
+    {
+      "photos": [
+        {
+          "name": "029",
+          "alt": "Gasthaus Talalpsee",
+          "date": "2016-07-16T14:29:51.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Ankunft am Talalpsee, an dem eine kleine Gaststätte liegt und auch sonst mit dem Auto recht gut erreichbar ist. Entsprechend waren hier auch ein paar Leute unterwegs. Ich zog die Badehose an und schwamm eine kleine Runde im doch recht kaltem Wasser. Aber nach so einer Tour tut das einfach gut."
+    },
+    {
+      "photos": [
+        {
+          "name": "030",
+          "alt": "Talalpsee",
+          "date": "2016-07-16T15:09:29.000+02:00",
+          "width": 1920,
+          "height": 1079
+        }
+      ],
+      "videos": [],
+      "text": "Dann ging es aber weiter... noch ein kurzer Blick zurück."
+    },
+    {
+      "photos": [
+        {
+          "name": "031",
+          "alt": "Wanderweg durch Schlucht",
+          "date": "2016-07-16T15:40:28.000+02:00",
+          "width": 1920,
+          "height": 1034
+        }
+      ],
+      "videos": [],
+      "text": "Ich musste nun noch eine Stunde nach Filzbach absteigen. Ich wählte den steilen Abstieg durch eine Schlucht... der Alternativweg über die Wiesen wäre evt. schöner gewesen.<br />\nDas Auto erreichte ich um 16:00."
+    },
+    {
+      "photos": [
+        {
+          "name": "track1",
+          "width": 1280,
+          "height": 647
+        },
+        {
+          "name": "track2",
+          "width": 1280,
+          "height": 248
+        }
+      ],
+      "videos": [],
+      "text": "Wegstrecke. Trotz der geschummelten ersten 500 Höhenmeter war es doch eine recht anstrengende Tour, vor allem da es zu Beginn viel bergauf und bergab ging."
+    }
+  ],
+  "outro": "Fazit: Schöne Rundtour bei bestem Wanderwetter. Die erste Hälfte bis zum Pass hatte ein paar nicht so tolle Abschnitte, aber danach wurde es richtig nett."
+}

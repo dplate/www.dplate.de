@@ -1,375 +1,373 @@
-[
-  {
-    "destination": "arlberg",
-    "date": "d20121224",
-    "track": true,
-    "detailMap": "austria",
-    "timeShift": -30,
-    "shortTitle": "Sonnenkopf",
-    "title": "Sonnenkopf",
-    "intro": "Aus gegebenem Anlaß ein etwas verkürzter Skitag am Sonnenkopf vorm Arlberg. Eigentlich stand Pizol auf dem Programm, habe mich dann aber auf Grund des angesagten Föhnsturm umentschieden.<br />\nSuperpünktliche Ankunft um 8:30 an der Talstation, Tageskarte 37€ + 5€ Pfand. Musste dann noch bis 8:45 warten, bis die erste Gondel fuhr.",
-    "landmarks": [
-      {
-        "photos": [
-          {
-            "name": "001",
-            "alt": "Pistenplan Sonnenkopf",
-            "date": "2012-12-24T08:35:54.000+01:00",
-            "width": 1920,
-            "height": 849
-          }
-        ],
-        "videos": [],
-        "text": "Alles in Betrieb."
-      },
-      {
-        "photos": [
-          {
-            "name": "002",
-            "alt": "Panorama Sonnenkopf",
-            "date": "2012-12-24T09:06:53.000+01:00",
-            "width": 1920,
-            "height": 919
-          }
-        ],
-        "videos": [],
-        "text": "Nach der Auffahrt mit der Achter-Gondelbahn. Blick Richtung Hochjoch in Silvretta Montafon."
-      },
-      {
-        "photos": [
-          {
-            "name": "003",
-            "alt": "Glattingrat",
-            "date": "2012-12-24T09:15:20.000+01:00",
-            "width": 1739,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Als erstes gleich zum höchsten Punkt: dem Glattingrat, 2300m.<br />\nDie abgebildete Route war geschlossen, führt aber auch sehr wagemutig direkt auf der Schneewechte entlang."
-      },
-      {
-        "photos": [
-          {
-            "name": "004",
-            "alt": "Eisige Piste",
-            "date": "2012-12-24T09:20:19.000+01:00",
-            "width": 868,
-            "height": 1080
-          },
-          {
-            "name": "005",
-            "alt": "Talabfahrt Sonnenkopf",
-            "date": "2012-12-24T09:27:09.000+01:00",
-            "width": 1041,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Anschließend morgentliche Talabfahrt wieder hinunter auf 1000m. Ganz oben (über 2000m) noch Pulver, danach pickelhart, weil es tags zuvor drauf geregnet hatte - nur was für gute Kanten. Außerdem waren die Piste zum Teil sehr brüchig präpariert."
-      },
-      {
-        "photos": [
-          {
-            "name": "006",
-            "alt": "Riedkopf",
-            "date": "2012-12-24T09:44:30.000+01:00",
-            "width": 1704,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Wieder oben, Blick zur Riedkopf Vierer-Sesselbahn (gebaut 2011). Dieser Hang liegt (im Gegensatz zum restlichen Gebiet) auch im Dezember den ganzen Tag in der Sonne."
-      },
-      {
-        "photos": [
-          {
-            "name": "007",
-            "alt": "Sesselbahn Riedkopf",
-            "date": "2012-12-24T09:50:21.000+01:00",
-            "width": 1920,
-            "height": 1050
-          },
-          {
-            "name": "008",
-            "alt": "Bergrestaurand Muttjöchle",
-            "date": "2012-12-24T09:51:13.000+01:00",
-            "width": 1920,
-            "height": 1013
-          }
-        ],
-        "videos": [],
-        "text": "Oben an dieser Bahn, ziemlich schickes Restaurant mit klasse Aussicht."
-      },
-      {
-        "photos": [
-          {
-            "name": "009",
-            "alt": "Sesselbahn vor Sonne",
-            "date": "2012-12-24T09:53:19.000+01:00",
-            "width": 1440,
-            "height": 1080
-          },
-          {
-            "name": "010",
-            "alt": "Talstation Sesselbahn Riedkopf",
-            "date": "2012-12-24T10:01:55.000+01:00",
-            "width": 997,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Abfahrt zur Talstation der Bahn."
-      },
-      {
-        "photos": [
-          {
-            "name": "011",
-            "alt": "Skilift Riedboden",
-            "date": "2012-12-24T10:02:15.000+01:00",
-            "width": 1440,
-            "height": 1080
-          },
-          {
-            "name": "012",
-            "alt": "Glänzender Tiefschnee",
-            "date": "2012-12-24T10:03:25.000+01:00",
-            "width": 1440,
-            "height": 1080
-          },
-          {
-            "name": "013",
-            "alt": "Tiefschnee nach Regen",
-            "date": "2012-12-24T10:03:33.000+01:00",
-            "width": 1074,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Sieht der Tiefschnee nicht verlockend aus? Einer hats unter dem Lift versucht und alle prächtig unterhalten."
-      },
-      {
-        "photos": [
-          {
-            "name": "014",
-            "alt": "Winterwanderweg Sonnenkopf",
-            "date": "2012-12-24T10:09:50.000+01:00",
-            "width": 1920,
-            "height": 971
-          }
-        ],
-        "videos": [],
-        "text": "Winterwanderweg von der Bergstation der Riedkopf zum Muttjöchle. Dort waren später einige unterwegs."
-      },
-      {
-        "photos": [
-          {
-            "name": "015",
-            "alt": "Bergstation Sonnenkopfbahn",
-            "date": "2012-12-24T10:11:41.000+01:00",
-            "width": 1440,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Blaue Piste zurück zur Bergstation der Achter-Gondelbahn (und Hauptzentrum des Skigebiets)."
-      },
-      {
-        "photos": [
-          {
-            "name": "016",
-            "alt": "Skipiste Sonnenkopf",
-            "date": "2012-12-24T10:33:15.000+01:00",
-            "width": 1865,
-            "height": 1080
-          },
-          {
-            "name": "017",
-            "alt": "Abfahrt Obermuribahn",
-            "date": "2012-12-24T10:35:15.000+01:00",
-            "width": 1736,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Langsam kroch die Sonne herum und beschien auch andere Pisten, hier die schöne blaue 5, die auf einem Grat von der Bergstation der Vierer-Sesselbahn Obermuribahn hinab führt."
-      },
-      {
-        "photos": [
-          {
-            "name": "018",
-            "alt": "Regen im Schnee",
-            "date": "2012-12-24T10:39:08.000+01:00",
-            "width": 1920,
-            "height": 923
-          },
-          {
-            "name": "019",
-            "alt": "Skilifte Sonnenkopf",
-            "date": "2012-12-24T11:08:03.000+01:00",
-            "width": 1920,
-            "height": 998
-          }
-        ],
-        "videos": [],
-        "text": "Die Mitte des Skigebiets ist etwas ungünstig, weshalb es dort 4 kleine Lifte gibt, um die kleinen Buckel und Flachstücke zu überwinden."
-      },
-      {
-        "photos": [
-          {
-            "name": "020",
-            "alt": "Schwarze Piste 10",
-            "date": "2012-12-24T11:09:53.000+01:00",
-            "width": 1048,
-            "height": 1080
-          },
-          {
-            "name": "021",
-            "alt": "Schwarze Piste Sonnenkopf",
-            "date": "2012-12-24T11:13:36.000+01:00",
-            "width": 810,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Bin dann auf die einzige schwarze Piste geraten, die aber eher tief schwarz ist. Insbesondere bei dem harten Schnee hat es nicht wirklich Spaß gemacht. Ich war auch der erste, der an dem Tag hinunter gefahren war. Die Piste ist von oben nicht einsehbar und wird laufend steiler, bei gutem Schnee sehr interessant."
-      },
-      {
-        "photos": [
-          {
-            "name": "022",
-            "alt": "Panorama Glattingrat",
-            "date": "2012-12-24T11:36:57.000+01:00",
-            "width": 1920,
-            "height": 647
-          }
-        ],
-        "videos": [],
-        "text": "Blick vom höchstem Punkt über das Skigebiet."
-      },
-      {
-        "photos": [
-          {
-            "name": "023",
-            "alt": "Skipiste Glattingrat",
-            "date": "2012-12-24T13:30:12.000+01:00",
-            "width": 1077,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "An dieser Zweier-Sesselbahn auch die einzigen Pulverschneepisten. Schön, aber die Bahn etwas zu langsam."
-      },
-      {
-        "photos": [
-          {
-            "name": "024",
-            "alt": "Talstation Obermoos",
-            "date": "2012-12-24T13:35:11.000+01:00",
-            "width": 1515,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Talstation der Obermoos-Zweier-Sesselbahn mit Anstehbrücke."
-      },
-      {
-        "photos": [
-          {
-            "name": "025",
-            "alt": "Parkplatz Sonnenkopf",
-            "date": "2012-12-24T13:44:53.000+01:00",
-            "width": 1440,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Nochmal die rote Talabfahrt, die inzwischen angesulzt war und damit gut zu fahren war. Der Parkplatz war inzwischen voll, was man aber im Skigebiet nicht gemerkt hat. Anstehen musste ich nie."
-      },
-      {
-        "photos": [
-          {
-            "name": "026",
-            "alt": "Mittelstation Sonnenkopfbahn",
-            "date": "2012-12-24T13:51:27.000+01:00",
-            "width": 810,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Mittelstation der Achter-Gondelbahn. Da könnte man auch Toblerone-Werbung draus machen."
-      },
-      {
-        "photos": [
-          {
-            "name": "027",
-            "alt": "Föhnwolken",
-            "date": "2012-12-24T14:08:49.000+01:00",
-            "width": 1827,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Inzwischen hatte der Föhn richtig losgelegt, wie man an den Wolken sehen kann. Am Sonnenkopf wehte aber nur ein schwacher warmer Wind. Ich schätze, es war oben so 5°."
-      },
-      {
-        "photos": [
-          {
-            "name": "028",
-            "alt": "Skipiste Riedkopf",
-            "date": "2012-12-24T14:20:22.000+01:00",
-            "width": 1920,
-            "height": 1009
-          }
-        ],
-        "videos": [],
-        "text": "Wieder bei der Riedkopf, wo die Pisten inzwischen schön weich waren - mehr nach meinem Geschmack."
-      },
-      {
-        "photos": [
-          {
-            "name": "029",
-            "alt": "Föhn",
-            "date": "2012-12-24T14:24:45.000+01:00",
-            "width": 1920,
-            "height": 762
-          }
-        ],
-        "videos": [],
-        "text": "Klasse Wolkenstimmung."
-      },
-      {
-        "photos": [
-          {
-            "name": "030",
-            "alt": "Skigebiet Sonnenkopf",
-            "date": "2012-12-24T14:26:09.000+01:00",
-            "width": 1801,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Hier sieht man, das die anderen Pisten des Gebiets im Dezember nur spärlich von der Sonne bedient werden."
-      },
-      {
-        "photos": [
-          {
-            "name": "track1",
-            "alt": "Pisten Sonnenkopf",
-            "width": 1024,
-            "height": 900
-          },
-          {
-            "name": "track2",
-            "alt": "Höhenprofil Sonnenkopf",
-            "width": 1005,
-            "height": 283
-          }
-        ],
-        "videos": [],
-        "text": "Gefahrene Strecke, hatte schon um 14:45 Schluß gemacht."
-      }
-    ],
-    "outro": "Fazit: kleines Gebiet, was besonders bei Neuschnee viele Varianten anbieten dürfte. Ich hatte leider recht schlechten Schnee, war dafür aber alles sehr entspannt."
-  }
-]
+{
+  "destination": "arlberg",
+  "date": "d20121224",
+  "track": true,
+  "detailMap": "austria",
+  "timeShift": -30,
+  "shortTitle": "Sonnenkopf",
+  "title": "Sonnenkopf",
+  "intro": "Aus gegebenem Anlaß ein etwas verkürzter Skitag am Sonnenkopf vorm Arlberg. Eigentlich stand Pizol auf dem Programm, habe mich dann aber auf Grund des angesagten Föhnsturm umentschieden.<br />\nSuperpünktliche Ankunft um 8:30 an der Talstation, Tageskarte 37€ + 5€ Pfand. Musste dann noch bis 8:45 warten, bis die erste Gondel fuhr.",
+  "landmarks": [
+    {
+      "photos": [
+        {
+          "name": "001",
+          "alt": "Pistenplan Sonnenkopf",
+          "date": "2012-12-24T08:35:54.000+01:00",
+          "width": 1920,
+          "height": 849
+        }
+      ],
+      "videos": [],
+      "text": "Alles in Betrieb."
+    },
+    {
+      "photos": [
+        {
+          "name": "002",
+          "alt": "Panorama Sonnenkopf",
+          "date": "2012-12-24T09:06:53.000+01:00",
+          "width": 1920,
+          "height": 919
+        }
+      ],
+      "videos": [],
+      "text": "Nach der Auffahrt mit der Achter-Gondelbahn. Blick Richtung Hochjoch in Silvretta Montafon."
+    },
+    {
+      "photos": [
+        {
+          "name": "003",
+          "alt": "Glattingrat",
+          "date": "2012-12-24T09:15:20.000+01:00",
+          "width": 1739,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Als erstes gleich zum höchsten Punkt: dem Glattingrat, 2300m.<br />\nDie abgebildete Route war geschlossen, führt aber auch sehr wagemutig direkt auf der Schneewechte entlang."
+    },
+    {
+      "photos": [
+        {
+          "name": "004",
+          "alt": "Eisige Piste",
+          "date": "2012-12-24T09:20:19.000+01:00",
+          "width": 868,
+          "height": 1080
+        },
+        {
+          "name": "005",
+          "alt": "Talabfahrt Sonnenkopf",
+          "date": "2012-12-24T09:27:09.000+01:00",
+          "width": 1041,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Anschließend morgentliche Talabfahrt wieder hinunter auf 1000m. Ganz oben (über 2000m) noch Pulver, danach pickelhart, weil es tags zuvor drauf geregnet hatte - nur was für gute Kanten. Außerdem waren die Piste zum Teil sehr brüchig präpariert."
+    },
+    {
+      "photos": [
+        {
+          "name": "006",
+          "alt": "Riedkopf",
+          "date": "2012-12-24T09:44:30.000+01:00",
+          "width": 1704,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Wieder oben, Blick zur Riedkopf Vierer-Sesselbahn (gebaut 2011). Dieser Hang liegt (im Gegensatz zum restlichen Gebiet) auch im Dezember den ganzen Tag in der Sonne."
+    },
+    {
+      "photos": [
+        {
+          "name": "007",
+          "alt": "Sesselbahn Riedkopf",
+          "date": "2012-12-24T09:50:21.000+01:00",
+          "width": 1920,
+          "height": 1050
+        },
+        {
+          "name": "008",
+          "alt": "Bergrestaurand Muttjöchle",
+          "date": "2012-12-24T09:51:13.000+01:00",
+          "width": 1920,
+          "height": 1013
+        }
+      ],
+      "videos": [],
+      "text": "Oben an dieser Bahn, ziemlich schickes Restaurant mit klasse Aussicht."
+    },
+    {
+      "photos": [
+        {
+          "name": "009",
+          "alt": "Sesselbahn vor Sonne",
+          "date": "2012-12-24T09:53:19.000+01:00",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "name": "010",
+          "alt": "Talstation Sesselbahn Riedkopf",
+          "date": "2012-12-24T10:01:55.000+01:00",
+          "width": 997,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Abfahrt zur Talstation der Bahn."
+    },
+    {
+      "photos": [
+        {
+          "name": "011",
+          "alt": "Skilift Riedboden",
+          "date": "2012-12-24T10:02:15.000+01:00",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "name": "012",
+          "alt": "Glänzender Tiefschnee",
+          "date": "2012-12-24T10:03:25.000+01:00",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "name": "013",
+          "alt": "Tiefschnee nach Regen",
+          "date": "2012-12-24T10:03:33.000+01:00",
+          "width": 1074,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Sieht der Tiefschnee nicht verlockend aus? Einer hats unter dem Lift versucht und alle prächtig unterhalten."
+    },
+    {
+      "photos": [
+        {
+          "name": "014",
+          "alt": "Winterwanderweg Sonnenkopf",
+          "date": "2012-12-24T10:09:50.000+01:00",
+          "width": 1920,
+          "height": 971
+        }
+      ],
+      "videos": [],
+      "text": "Winterwanderweg von der Bergstation der Riedkopf zum Muttjöchle. Dort waren später einige unterwegs."
+    },
+    {
+      "photos": [
+        {
+          "name": "015",
+          "alt": "Bergstation Sonnenkopfbahn",
+          "date": "2012-12-24T10:11:41.000+01:00",
+          "width": 1440,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Blaue Piste zurück zur Bergstation der Achter-Gondelbahn (und Hauptzentrum des Skigebiets)."
+    },
+    {
+      "photos": [
+        {
+          "name": "016",
+          "alt": "Skipiste Sonnenkopf",
+          "date": "2012-12-24T10:33:15.000+01:00",
+          "width": 1865,
+          "height": 1080
+        },
+        {
+          "name": "017",
+          "alt": "Abfahrt Obermuribahn",
+          "date": "2012-12-24T10:35:15.000+01:00",
+          "width": 1736,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Langsam kroch die Sonne herum und beschien auch andere Pisten, hier die schöne blaue 5, die auf einem Grat von der Bergstation der Vierer-Sesselbahn Obermuribahn hinab führt."
+    },
+    {
+      "photos": [
+        {
+          "name": "018",
+          "alt": "Regen im Schnee",
+          "date": "2012-12-24T10:39:08.000+01:00",
+          "width": 1920,
+          "height": 923
+        },
+        {
+          "name": "019",
+          "alt": "Skilifte Sonnenkopf",
+          "date": "2012-12-24T11:08:03.000+01:00",
+          "width": 1920,
+          "height": 998
+        }
+      ],
+      "videos": [],
+      "text": "Die Mitte des Skigebiets ist etwas ungünstig, weshalb es dort 4 kleine Lifte gibt, um die kleinen Buckel und Flachstücke zu überwinden."
+    },
+    {
+      "photos": [
+        {
+          "name": "020",
+          "alt": "Schwarze Piste 10",
+          "date": "2012-12-24T11:09:53.000+01:00",
+          "width": 1048,
+          "height": 1080
+        },
+        {
+          "name": "021",
+          "alt": "Schwarze Piste Sonnenkopf",
+          "date": "2012-12-24T11:13:36.000+01:00",
+          "width": 810,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Bin dann auf die einzige schwarze Piste geraten, die aber eher tief schwarz ist. Insbesondere bei dem harten Schnee hat es nicht wirklich Spaß gemacht. Ich war auch der erste, der an dem Tag hinunter gefahren war. Die Piste ist von oben nicht einsehbar und wird laufend steiler, bei gutem Schnee sehr interessant."
+    },
+    {
+      "photos": [
+        {
+          "name": "022",
+          "alt": "Panorama Glattingrat",
+          "date": "2012-12-24T11:36:57.000+01:00",
+          "width": 1920,
+          "height": 647
+        }
+      ],
+      "videos": [],
+      "text": "Blick vom höchstem Punkt über das Skigebiet."
+    },
+    {
+      "photos": [
+        {
+          "name": "023",
+          "alt": "Skipiste Glattingrat",
+          "date": "2012-12-24T13:30:12.000+01:00",
+          "width": 1077,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "An dieser Zweier-Sesselbahn auch die einzigen Pulverschneepisten. Schön, aber die Bahn etwas zu langsam."
+    },
+    {
+      "photos": [
+        {
+          "name": "024",
+          "alt": "Talstation Obermoos",
+          "date": "2012-12-24T13:35:11.000+01:00",
+          "width": 1515,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Talstation der Obermoos-Zweier-Sesselbahn mit Anstehbrücke."
+    },
+    {
+      "photos": [
+        {
+          "name": "025",
+          "alt": "Parkplatz Sonnenkopf",
+          "date": "2012-12-24T13:44:53.000+01:00",
+          "width": 1440,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Nochmal die rote Talabfahrt, die inzwischen angesulzt war und damit gut zu fahren war. Der Parkplatz war inzwischen voll, was man aber im Skigebiet nicht gemerkt hat. Anstehen musste ich nie."
+    },
+    {
+      "photos": [
+        {
+          "name": "026",
+          "alt": "Mittelstation Sonnenkopfbahn",
+          "date": "2012-12-24T13:51:27.000+01:00",
+          "width": 810,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Mittelstation der Achter-Gondelbahn. Da könnte man auch Toblerone-Werbung draus machen."
+    },
+    {
+      "photos": [
+        {
+          "name": "027",
+          "alt": "Föhnwolken",
+          "date": "2012-12-24T14:08:49.000+01:00",
+          "width": 1827,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Inzwischen hatte der Föhn richtig losgelegt, wie man an den Wolken sehen kann. Am Sonnenkopf wehte aber nur ein schwacher warmer Wind. Ich schätze, es war oben so 5°."
+    },
+    {
+      "photos": [
+        {
+          "name": "028",
+          "alt": "Skipiste Riedkopf",
+          "date": "2012-12-24T14:20:22.000+01:00",
+          "width": 1920,
+          "height": 1009
+        }
+      ],
+      "videos": [],
+      "text": "Wieder bei der Riedkopf, wo die Pisten inzwischen schön weich waren - mehr nach meinem Geschmack."
+    },
+    {
+      "photos": [
+        {
+          "name": "029",
+          "alt": "Föhn",
+          "date": "2012-12-24T14:24:45.000+01:00",
+          "width": 1920,
+          "height": 762
+        }
+      ],
+      "videos": [],
+      "text": "Klasse Wolkenstimmung."
+    },
+    {
+      "photos": [
+        {
+          "name": "030",
+          "alt": "Skigebiet Sonnenkopf",
+          "date": "2012-12-24T14:26:09.000+01:00",
+          "width": 1801,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Hier sieht man, das die anderen Pisten des Gebiets im Dezember nur spärlich von der Sonne bedient werden."
+    },
+    {
+      "photos": [
+        {
+          "name": "track1",
+          "alt": "Pisten Sonnenkopf",
+          "width": 1024,
+          "height": 900
+        },
+        {
+          "name": "track2",
+          "alt": "Höhenprofil Sonnenkopf",
+          "width": 1005,
+          "height": 283
+        }
+      ],
+      "videos": [],
+      "text": "Gefahrene Strecke, hatte schon um 14:45 Schluß gemacht."
+    }
+  ],
+  "outro": "Fazit: kleines Gebiet, was besonders bei Neuschnee viele Varianten anbieten dürfte. Ich hatte leider recht schlechten Schnee, war dafür aber alles sehr entspannt."
+}

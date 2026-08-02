@@ -9,10 +9,7 @@ export function getDestinations() {
 }
 
 export function getReports() {
-  return Object.values(reportsGlob).map((module) => {
-    const data = module.default || module;
-    return Array.isArray(data) ? data[0] : data;
-  });
+  return Object.values(reportsGlob).map((module) => module.default || module);
 }
 
 // Pre-compute the menu structure at build time.

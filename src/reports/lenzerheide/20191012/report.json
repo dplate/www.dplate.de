@@ -1,692 +1,690 @@
-[
-  {
-    "destination": "lenzerheide",
-    "date": "d20191012",
-    "datePublished": "2019-10-12T12:00:00+02:00",
-    "dateModified": "2026-03-01T13:00:00+01:00",
-    "type": "hike",
-    "track": true,
-    "detailMap": "swiss",
-    "shortTitle": "Hochwang",
-    "title": "Hochwang - Mattjisch Horn",
-    "title3d": {
-      "offsetY": 1,
-      "fontSize": 6.8,
-      "width": 1920,
-      "height": 432
+{
+  "destination": "lenzerheide",
+  "date": "d20191012",
+  "datePublished": "2019-10-12T12:00:00+02:00",
+  "dateModified": "2026-03-01T13:00:00+01:00",
+  "type": "hike",
+  "track": true,
+  "detailMap": "swiss",
+  "shortTitle": "Hochwang",
+  "title": "Hochwang - Mattjisch Horn",
+  "title3d": {
+    "offsetY": 1,
+    "fontSize": 6.8,
+    "width": 1920,
+    "height": 432
+  },
+  "movie": "ut4bXWiT7QQ",
+  "intro": "Ein goldenes Oktoberwochenende stand an und ich nahm mir den Höhenzug bei Schanfigg vor. Dieser liegt oberhalb der Straße, die von Chur nach Arosa führt. Mein Plan war von der Bergstation der Sesselbahn Hochwang (Triemel) erst auf den Hochwang zu steigen und dann den Grat bis zum Mattjisch Horn entlangzuwandern. <br />Leider stellte ich fest, dass die Sesselbahn diesen Sommer und Herbst nicht in Betrieb war. Als Alternative kann man auch mit dem Auto hinauffahren, nach dem man sich eine Bewilligung für 10CHF per App kauft. Dies habe ich aber nicht auf die Reihe bekommen.<br />Also fuhr ich stattdessen zur Talstation der Sesselbahn nach Fatschel und stellte mein Auto dort auf dem großen Parkplatz gratis ab.",
+  "landmarks": [
+    {
+      "photos": [
+        {
+          "name": "001",
+          "alt": "Sesselbahn Hochwang",
+          "date": "2019-10-12T08:46:10.000+02:00",
+          "width": 1920,
+          "height": 1280
+        },
+        {
+          "name": "002",
+          "alt": "Wanderweg Fatschel - Triemel",
+          "date": "2019-10-12T08:49:27.000+02:00",
+          "width": 1920,
+          "height": 770
+        }
+      ],
+      "videos": [],
+      "text": "Gegen 8:30 lief ich dann schließlich los. Die 300 zusätzlichen Höhenmeter bis nach Triemel leider hauptsächlich auf einer Straße. Dafür aber nicht besonders steil und nach 45min war ich auch oben.<br />An dem schon ganz gut besetzten Parkplatz in Triemel ging ich dann vorbei und folgte dem Wegweiser Hochwang."
     },
-    "movie": "ut4bXWiT7QQ",
-    "intro": "Ein goldenes Oktoberwochenende stand an und ich nahm mir den Höhenzug bei Schanfigg vor. Dieser liegt oberhalb der Straße, die von Chur nach Arosa führt. Mein Plan war von der Bergstation der Sesselbahn Hochwang (Triemel) erst auf den Hochwang zu steigen und dann den Grat bis zum Mattjisch Horn entlangzuwandern. <br />Leider stellte ich fest, dass die Sesselbahn diesen Sommer und Herbst nicht in Betrieb war. Als Alternative kann man auch mit dem Auto hinauffahren, nach dem man sich eine Bewilligung für 10CHF per App kauft. Dies habe ich aber nicht auf die Reihe bekommen.<br />Also fuhr ich stattdessen zur Talstation der Sesselbahn nach Fatschel und stellte mein Auto dort auf dem großen Parkplatz gratis ab.",
-    "landmarks": [
-      {
-        "photos": [
-          {
-            "name": "001",
-            "alt": "Sesselbahn Hochwang",
-            "date": "2019-10-12T08:46:10.000+02:00",
-            "width": 1920,
-            "height": 1280
-          },
-          {
-            "name": "002",
-            "alt": "Wanderweg Fatschel - Triemel",
-            "date": "2019-10-12T08:49:27.000+02:00",
-            "width": 1920,
-            "height": 770
-          }
-        ],
-        "videos": [],
-        "text": "Gegen 8:30 lief ich dann schließlich los. Die 300 zusätzlichen Höhenmeter bis nach Triemel leider hauptsächlich auf einer Straße. Dafür aber nicht besonders steil und nach 45min war ich auch oben.<br />An dem schon ganz gut besetzten Parkplatz in Triemel ging ich dann vorbei und folgte dem Wegweiser Hochwang."
-      },
-      {
-        "photos": [
-          {
-            "name": "003",
-            "alt": "Berg Nelkenwurz",
-            "date": "2019-10-12T09:26:55.000+02:00",
-            "width": 1920,
-            "height": 1280
-          },
-          {
-            "name": "004",
-            "alt": "Windschiefe Hütte",
-            "date": "2019-10-12T09:31:12.000+02:00",
-            "width": 1920,
-            "height": 840
-          },
-          {
-            "name": "005",
-            "alt": "Arosa Weisshorn",
-            "date": "2019-10-12T09:36:20.000+02:00",
-            "width": 1920,
-            "height": 2675
-          }
-        ],
-        "videos": [],
-        "text": "Nach Triemel kürzt der Wanderweg die Serpentine des weiter hinaufführenden Fahrwegs ab und es geht ziemlich steil über diese Wiese hinauf. Vorbei an einer Berg Nelkenwurz und einer sehr windschiefen Hütte. Auf der anderen Seite des Tals erhebt sich das schon leicht verschneite Arosa Weisshorn (2650m)."
-      },
-      {
-        "photos": [
-          {
-            "name": "006",
-            "alt": "Bleis",
-            "date": "2019-10-12T09:47:51.000+02:00",
-            "width": 1920,
-            "height": 2427
-          }
-        ],
-        "videos": [],
-        "text": "Dann ging es wieder auf die flachere Alpstraße, die bis zu der malerischen Häuseransammlung Bleis führt. Im Hintergrund wieder das Weisshorn."
-      },
-      {
-        "photos": [
-          {
-            "name": "007",
-            "alt": "Wanderweg Hochwang",
-            "date": "2019-10-12T09:53:08.000+02:00",
-            "width": 1920,
-            "height": 834
-          },
-          {
-            "name": "008",
-            "alt": "Herbstliches Gras",
-            "date": "2019-10-12T09:54:07.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Nach Bleis ist der Weg zwar theoretisch immer noch befahrbar, aber komplett vom herbstlichen Gras bewachsen, so dass es mich nicht mehr gestört hat.<br />Nun ging es mit einer leichten Kurve in einen Talkessel Richtung Norden."
-      },
-      {
-        "photos": [
-          {
-            "name": "009",
-            "alt": "Schnee zwischen Gras",
-            "date": "2019-10-12T10:15:22.000+02:00",
-            "width": 1920,
-            "height": 1006
-          },
-          {
-            "name": "010",
-            "alt": "Pfad durch Schnee an Bach",
-            "date": "2019-10-12T10:18:14.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Im Talkessel angekommen biegt der Weg nach rechts ab. Dabei führt der Weg zwischen der Nordseite eines kleinen Buckels und einem Bach entlang. Da ich nun schon 2300m hoch war, ging es dabei auch etwas durch Schnee."
-      },
-      {
-        "photos": [
-          {
-            "name": "011",
-            "alt": "Aufstieg Hochwang",
-            "date": "2019-10-12T10:30:02.000+02:00",
-            "width": 1920,
-            "height": 899
-          },
-          {
-            "name": "012",
-            "alt": "Herbstwanderung Hochwang",
-            "date": "2019-10-12T10:35:37.000+02:00",
-            "width": 1920,
-            "height": 787
-          }
-        ],
-        "videos": [],
-        "text": "Jeweils der Blick zurück beim Aufstieg auf den Grat zwischen Ratoser Stein und Hochwang. Den Grat erreicht man bei 2400m, zum Hochwang waren es jetzt nur noch 100m. Bis zu diesem Punkt musste ich auch nach dem Gipfel wieder auf dem gleichen Weg zurück.<br />Etwas Sorgen machte mir zu diesem Zeitpunkt der viele Schnee auf der Nordseite des Ratoser Steins, wollte ich doch diesen nach dem Hochwang überwandern."
-      },
-      {
-        "photos": [
-          {
-            "name": "013",
-            "alt": "Tüfelsch Chopf",
-            "date": "2019-10-12T10:44:53.000+02:00",
-            "width": 1920,
-            "height": 916
-          }
-        ],
-        "videos": [],
-        "text": "Blick beim Aufstieg nach Westen zum benachbarten steilen Tüfelsch Chopf."
-      },
-      {
-        "photos": [
-          {
-            "name": "014",
-            "alt": "Schwierigkeit Hochwang",
-            "date": "2019-10-12T10:53:12.000+02:00",
-            "width": 1920,
-            "height": 709
-          }
-        ],
-        "videos": [],
-        "text": "Der Weg auf den Hochwang ist dagegen total harmlos. Hier schon nah vor dem Gipfel."
-      },
-      {
-        "photos": [
-          {
-            "name": "015",
-            "alt": "Hochwang",
-            "date": "2019-10-12T10:53:48.000+02:00",
-            "width": 1920,
-            "height": 909
-          }
-        ],
-        "videos": [],
-        "text": "Kurz vor dem Gipfel erreicht man den Grat. Auf der Westseite fällt der Hochwang ziemlich steil in ein Seitental vor dem Rheintal ab."
-      },
-      {
-        "photos": [
-          {
-            "name": "016",
-            "alt": "Gipfel Hochwang",
-            "date": "2019-10-12T10:54:42.000+02:00",
-            "width": 1920,
-            "height": 1140
-          }
-        ],
-        "videos": [],
-        "text": "Um 11:00 war ich auf dem Gipfel des 2500m hohen Hochwang. Das Wetter war weiterhin wunderbar und die Sicht praktisch unbegrenzt."
-      },
-      {
-        "photos": [
-          {
-            "name": "017",
-            "alt": "Aussicht Hochwang Prättigau",
-            "date": "2019-10-12T10:55:20.000+02:00",
-            "width": 1920,
-            "height": 594
-          }
-        ],
-        "videos": [],
-        "text": "Blick vom Hochwang nach Norden ins <a href='/alpine/praettigau' target='_blank'>Prättigau</a>. Von links nach rechts meine bisherigen Wanderungen dort: <a href='/alpine/praettigau/20171015' target='_blank'>Drusentor</a>, <a href='/alpine/praettigau/20141012' target='_blank'>Sulzfluh</a>, <a href='/alpine/praettigau/20151031' target='_blank'>Chrüz</a>, <a href='/alpine/praettigau/20190921' target='_blank'>Riedkopf</a> und <a href='/alpine/gargellen/20150822' target='_blank'>Rätschenhorn</a>."
-      },
-      {
-        "photos": [
-          {
-            "name": "018",
-            "alt": "Schnee auf Nordhängen",
-            "date": "2019-10-12T10:55:34.000+02:00",
-            "width": 1920,
-            "height": 854
-          }
-        ],
-        "videos": [],
-        "text": "Tele noch Osten. Rechts die Weissfluh bei Davos, links der Silvretta Gletscher unterhalb des 3300m hohen Piz Buin."
-      },
-      {
-        "photos": [
-          {
-            "name": "019",
-            "alt": "Wanderung Hochwang",
-            "date": "2019-10-12T10:55:58.000+02:00",
-            "width": 1920,
-            "height": 1328
-          }
-        ],
-        "videos": [],
-        "text": "Blick nach Westen am Ful Berg und über den Montalin ins Rheintal.<br />Ich machte auf dem Gipfel nur kurz Pause, da ich noch einiges vor hatte und auch ein paar andere Wanderer oben ankamen."
-      },
-      {
-        "photos": [
-          {
-            "name": "020",
-            "alt": "Varneza",
-            "date": "2019-10-12T11:19:04.000+02:00",
-            "width": 1920,
-            "height": 1332
-          }
-        ],
-        "videos": [],
-        "text": "Blick beim Abstieg nach links in das Tal Varneza. Schön zu sehen, welche Rolle die Hangneigung in dieser Jahreszeit in Sachen Schneebedeckung spielt."
-      },
-      {
-        "photos": [
-          {
-            "name": "021",
-            "alt": "Wanderweg durch Schnee",
-            "date": "2019-10-12T11:27:50.000+02:00",
-            "width": 1920,
-            "height": 820
-          }
-        ],
-        "videos": [],
-        "text": "Beim anschließenden Aufstieg auf den Ratoser Stein ging auch mein Weg kurz auf die Nordseite und damit in den Schnee. Aber zum Glück auf einem recht harmlosen Abschnitt."
-      },
-      {
-        "photos": [
-          {
-            "name": "022",
-            "alt": "Gratweg",
-            "date": "2019-10-12T11:29:38.000+02:00",
-            "width": 1920,
-            "height": 1280
-          },
-          {
-            "name": "023",
-            "alt": "Ratoser Stein",
-            "date": "2019-10-12T11:33:42.000+02:00",
-            "width": 1920,
-            "height": 733
-          }
-        ],
-        "videos": [],
-        "text": "Nach einer kleinen steileren Stelle, bei der ich die Hände brauchte, ging es schön auf dem markanten Grat hinauf auf den Gipfel des Ratoser Steins. Beide Seiten des Grats sind aber nicht sehr steil, somit keine Höhenangst."
-      },
-      {
-        "photos": [
-          {
-            "name": "024",
-            "alt": "Wanderweg Ratoser Stein Hochwang",
-            "date": "2019-10-12T11:34:34.000+02:00",
-            "width": 1920,
-            "height": 744
-          }
-        ],
-        "videos": [],
-        "text": "Blick vom 2470m hohen Ratoser Stein zurück zum Hochwang (rechts). Links durch das Tal war ich auf den Hochwang aufgestiegen."
-      },
-      {
-        "photos": [
-          {
-            "name": "025",
-            "alt": "Gratweg Schanfigg",
-            "date": "2019-10-12T11:55:12.000+02:00",
-            "width": 1920,
-            "height": 1060
-          }
-        ],
-        "videos": [],
-        "text": "Nach einer weiteren Pause auf dem Gipfel ging es weiter auf dem Grat nach Westen. Ebenfalls gut zu gehen und schneefrei.<br />Der ganze sichtbare Höhenzug war nun das Programm für den Rest des Tages."
-      },
-      {
-        "photos": [
-          {
-            "name": "026",
-            "alt": "Skilift Hochwang",
-            "date": "2019-10-12T11:58:01.000+02:00",
-            "width": 1920,
-            "height": 918
-          }
-        ],
-        "videos": [],
-        "text": "Auf dem Grat geht es oberhalb des Skilifts Hochwang vorbei, der von Triemel hinaufführt. Dies ist neben der Sesselbahn die einzige Liftanlage des Skigebiets Hochwang. Rechts ist Triemel zu sehen und hinten in der Mitte Fatschel, wo ich mein Auto abgestellt hatte - das ganze ist aber deutlich weitläufiger, als es hier in der Teleaufnahme aussieht."
-      },
-      {
-        "photos": [
-          {
-            "name": "027",
-            "alt": "Mittagspitz",
-            "date": "2019-10-12T12:14:30.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Erst mal ging es weiter sehr schön auf dem Grat weiter Richtung Cunggel (Bildmitte). An diesem Berg wird der Weg aber an der rechten Seite vorbeiführen."
-      },
-      {
-        "photos": [
-          {
-            "name": "028",
-            "alt": "Gratweg Hochwang",
-            "date": "2019-10-12T12:26:18.000+02:00",
-            "width": 1920,
-            "height": 791
-          }
-        ],
-        "videos": [],
-        "text": "Blick zurück zum Ratoser Stein und Hochwang. Der offiziell ausgeschilderte Weg bog vom Grat weg und hinab zum Skihaus Hochwang. Aber der Weg auf dem Grat ist trotzdem markiert und auch gut in Schuss... also kein Grund nicht hier oben zu bleiben."
-      },
-      {
-        "photos": [
-          {
-            "name": "029",
-            "alt": "Wanderung Schanfigg",
-            "date": "2019-10-12T12:43:03.000+02:00",
-            "width": 1920,
-            "height": 904
-          }
-        ],
-        "videos": [],
-        "text": "Wie schon angekündigt geht es am Cunggel am Südhang vorbei. Dabei war der Weg von Kühen total zertreten und sehr matschig. Auf dem eigentlichen Weg konnte ich deshalb nur selten gehen...<br />Hier außerhalb des Alpgebiets wurde es dann aber steiler und trockener, so dass der Weg angenehm war."
-      },
-      {
-        "photos": [
-          {
-            "name": "030",
-            "alt": "Alpgebiet",
-            "date": "2019-10-12T12:44:49.000+02:00",
-            "width": 1920,
-            "height": 618
-          }
-        ],
-        "videos": [],
-        "text": "Nach dem Cunggel öffnete sich ein neuer Blick nach Osten auf die weitläufigen Weiden und Moore von Schanfigg. Nun ging der Weg kurz steiler hinab, um den Pass links zu erreichen... passenderweise auf der Karte Schwiloch genannt, denn es war weiterhin alles sehr schlammig."
-      },
-      {
-        "photos": [
-          {
-            "name": "031",
-            "alt": "Weissfluh",
-            "date": "2019-10-12T13:05:26.000+02:00",
-            "width": 1920,
-            "height": 988
-          }
-        ],
-        "videos": [],
-        "text": "Auch am nächsten Gipfel, der Mittagspitz, ging es seitlich vorbei. Tele zur Davoser Weissfluh. Rechts das Mattjisch Horn, das ich an diesem Tag noch besteigen wollte."
-      },
-      {
-        "photos": [
-          {
-            "name": "032",
-            "alt": "Faniner Galtihütte",
-            "date": "2019-10-12T13:19:45.000+02:00",
-            "width": 1920,
-            "height": 828
-          }
-        ],
-        "videos": [],
-        "text": "Auffällig - da das einzige Bauwerk hier oben - die kleine Faniner Galtihütte. Rechts hinten ist übrigens die <a href='/alpine/brandnertal/20150829' target='_blank'>Schesaplana</a> zu sehen."
-      },
-      {
-        "photos": [
-          {
-            "name": "033",
-            "alt": "Wegweiser Faninpass",
-            "date": "2019-10-12T13:24:55.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Um 13:30 erreichte ich schließlich den 2200m hohen Faninpass und damit auch wieder offiziell ausgezeichnete Wanderwege. Auch kann man hier mit dem Mountainbike hinauf."
-      },
-      {
-        "photos": [
-          {
-            "name": "034",
-            "alt": "Faninpass",
-            "date": "2019-10-12T13:33:12.000+02:00",
-            "width": 1920,
-            "height": 674
-          }
-        ],
-        "videos": [],
-        "text": "Hier der Blick zurück zum sehr flachen Faninpass. Links der Cunggel, rechts die Mittagspitz und darunter die kleine, einsame Faniner Galtihütte."
-      },
-      {
-        "photos": [
-          {
-            "name": "035",
-            "alt": "Wegweiser Arflinafurgga",
-            "date": "2019-10-12T13:36:19.000+02:00",
-            "width": 1920,
-            "height": 2880
-          }
-        ],
-        "videos": [],
-        "text": "Nach einem kleinen Aufstieg erreichte ich schnell die Arflinafurgga, der Übergang von den Fideriser Heubergen nach Schanfigg.<br />Jetzt musste ich etwas rechnen, denn zurück zum Auto waren es von hier noch über 2h, und zu meinem Ziel, dem Mattjisch Horn in die andere Richtung auch noch eine Stunde... also insgesamt musste ich wohl noch knapp 4h einplanen - damit am Auto noch gerade vor 18:00.<br />Ich entschied mich trotzdem zum Weitergehen."
-      },
-      {
-        "photos": [
-          {
-            "name": "036",
-            "alt": "Wanderweg Mattjisch Horn Arflinafurgga",
-            "date": "2019-10-12T13:43:51.000+02:00",
-            "width": 1920,
-            "height": 1234
-          }
-        ],
-        "videos": [],
-        "text": "Weiter ging es nun immer noch nah am Grat entlang, hinten das Mattjisch Horn."
-      },
-      {
-        "photos": [
-          {
-            "name": "037",
-            "alt": "Cluner See",
-            "date": "2019-10-12T13:53:05.000+02:00",
-            "width": 1920,
-            "height": 778
-          }
-        ],
-        "videos": [],
-        "text": "Blick vom Grat hinab Richtung Fideriser Heuberge und den Cluner Seen."
-      },
-      {
-        "photos": [
-          {
-            "name": "038",
-            "alt": "Wanderung Arosa",
-            "date": "2019-10-12T14:08:10.000+02:00",
-            "width": 1920,
-            "height": 766
-          }
-        ],
-        "videos": [],
-        "text": "Dann wurde der Weg steiler und anstrengender und es ging die 200 Höhenmeter zum Gipfel hinauf. Hier der Blick über die bisherige Tagesarbeit - genau in der Bildmitte der Ratoser Stein."
-      },
-      {
-        "photos": [
-          {
-            "name": "039",
-            "alt": "Wanderweg Mattjisch Horn",
-            "date": "2019-10-12T14:20:50.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Und so ging es auf das Mattjisch Horn hinauf."
-      },
-      {
-        "photos": [
-          {
-            "name": "040",
-            "alt": "Fideriser Heuberg",
-            "date": "2019-10-12T14:22:54.000+02:00",
-            "width": 1920,
-            "height": 659
-          }
-        ],
-        "videos": [],
-        "text": "Tele hinab zum Gasthaus und Hotel auf dem Fideriser Heuberg. Dort gibt es im Winter auch zwei Skilifte und eine lange Rodelbahn."
-      },
-      {
-        "photos": [
-          {
-            "name": "041",
-            "alt": "Wegweiser Mattjisch Horn",
-            "date": "2019-10-12T14:28:39.000+02:00",
-            "width": 1920,
-            "height": 907
-          }
-        ],
-        "videos": [],
-        "text": "Den breiten Gipfel erreichte ich ziemlich erschöpft um 14:30. Hier der Blick nach Osten zum Weissfluh."
-      },
-      {
-        "photos": [
-          {
-            "name": "042",
-            "alt": "Aussicht Mattjisch Horn",
-            "date": "2019-10-12T14:28:55.000+02:00",
-            "width": 1920,
-            "height": 695
-          }
-        ],
-        "videos": [],
-        "text": "Und noch einmal den schneebedeckten Nordhang hinab zum Fideriser Heuberg."
-      },
-      {
-        "photos": [
-          {
-            "name": "043",
-            "alt": "Fondei",
-            "date": "2019-10-12T14:30:49.000+02:00",
-            "width": 1920,
-            "height": 994
-          }
-        ],
-        "videos": [],
-        "text": "Die schönste Aussicht hinab ins Tal Fondei, das von Langwies hinaufführt und sich unterhalb des Davoser Weisshorns befindet. Von dort geht hier ebenfalls ein Weg rauf."
-      },
-      {
-        "photos": [
-          {
-            "name": "044",
-            "alt": "Aroser Rothorn",
-            "date": "2019-10-12T14:36:01.000+02:00",
-            "width": 1920,
-            "height": 797
-          }
-        ],
-        "videos": [],
-        "text": "Tele nach Arosa und dahinter das 3000m hohe Aroser Rothorn. Rechts das Aroser Weisshorn."
-      },
-      {
-        "photos": [
-          {
-            "name": "045",
-            "alt": "Mederger Flue",
-            "date": "2019-10-12T14:37:01.000+02:00",
-            "width": 1920,
-            "height": 2409
-          }
-        ],
-        "videos": [],
-        "text": "Blick hinab zum Südgrat des Mattjisch Horns, über den ebenfalls ein Weg über die Blackter Flüe hinauf führt. Im Hintergrund ist die Mederger Alp vor der Mederger Flue zu sehen.<br />Nach dem ich mich erholt hatte ging ich diesen Südgrat hinab, aber nicht ganz bis zur steilen Blackter Flüe."
-      },
-      {
-        "photos": [
-          {
-            "name": "046",
-            "alt": "Weite Wiesen",
-            "date": "2019-10-12T15:03:07.000+02:00",
-            "width": 1920,
-            "height": 774
-          }
-        ],
-        "videos": [],
-        "text": "100m unterhalb des Gipfels ging mein Weg nach rechts vom Grat weg und schön über diese Wiesen hinab. Weiter unten folgte ich dem Weg aber nicht weiter und kürzte eine unnötige Ecke einfach über die weite Fläche ab."
-      },
-      {
-        "photos": [
-          {
-            "name": "047",
-            "alt": "Moorweg",
-            "date": "2019-10-12T15:31:32.000+02:00",
-            "width": 1920,
-            "height": 1280
-          },
-          {
-            "name": "048",
-            "alt": "Schanfigger Höhenweg",
-            "date": "2019-10-12T15:33:31.000+02:00",
-            "width": 1920,
-            "height": 640
-          },
-          {
-            "name": "049",
-            "alt": "Schanfigg Feuchtgebiet",
-            "date": "2019-10-12T15:38:53.000+02:00",
-            "width": 1920,
-            "height": 826
-          }
-        ],
-        "videos": [],
-        "text": "Nun befand ich mich auf dem schön angelegten Schanfigger Höhenweg, der die gesamte Fläche von Schanfigg auf halber Höhe quert. Einerseits war es schade, dass nun durch die hohen Wolken alles etwas trüb wirkte, aber andererseits kamen mir die niedrigeren Temperaturen entgegen, denn ich war schon ziemlich kaputt."
-      },
-      {
-        "photos": [
-          {
-            "name": "050",
-            "alt": "Schanfigg Mattjisch Horn",
-            "date": "2019-10-12T16:12:37.000+02:00",
-            "width": 1920,
-            "height": 1219
-          }
-        ],
-        "videos": [],
-        "text": "Blick zurück zum Mattjisch Horn. Links war ich hinaufgegangen und rechts hinunter."
-      },
-      {
-        "photos": [
-          {
-            "name": "051",
-            "alt": "Picknicktisch",
-            "date": "2019-10-12T16:19:35.000+02:00",
-            "width": 1920,
-            "height": 574
-          }
-        ],
-        "videos": [],
-        "text": "Nach einem sehr langen und sehr feuchtem Wiesenweg erreichte ich diesen Picknicktisch. Zeit für eine Pause denn langsam wurde das Ziel der Wanderung absehbar."
-      },
-      {
-        "photos": [
-          {
-            "name": "052",
-            "alt": "Skihaus Hochwang",
-            "date": "2019-10-12T16:34:54.000+02:00",
-            "width": 1920,
-            "height": 923
-          }
-        ],
-        "videos": [],
-        "text": "Nun ging es kurz etwas steiler bergab und ich konnte zum bewirtschafteten Skihaus Hochwang schauen. An diesem vorbei würde der Weg zurück zum Parkplatz auf Triemel führen, ich musste aber noch nach links hinunter nach Fatschel."
-      },
-      {
-        "photos": [
-          {
-            "name": "053",
-            "alt": "Abstieg Skihaus Hochwang Fatschel",
-            "date": "2019-10-12T16:42:24.000+02:00",
-            "width": 1920,
-            "height": 1155
-          }
-        ],
-        "videos": [],
-        "text": "Offiziell gibt es keinen direkten Weg vom Skihaus nach Fatschel und man wird auf der Straße über Triemel geführt. Darauf hatte ich aber keine Lust und ging einfach direkt die Wiesen runter."
-      },
-      {
-        "photos": [
-          {
-            "name": "054",
-            "alt": "Tümpel mit Tanne",
-            "date": "2019-10-12T16:48:00.000+02:00",
-            "width": 1920,
-            "height": 2874
-          }
-        ],
-        "videos": [],
-        "text": "An diesem Tümpel machte ich noch eine kleine Pause, zog die schwer gewordenen Bergschuhe aus, kühlte die Füße im Wasser und wechselte auf Sandalen. Bei der Hütte im Hintergrund kam ich auf einen steilen Feldweg, den ich nun bis zum Parkplatz folgen konnte."
-      },
-      {
-        "photos": [
-          {
-            "name": "055",
-            "alt": "Sotfanas",
-            "date": "2019-10-12T17:13:23.000+02:00",
-            "width": 1920,
-            "height": 861
-          },
-          {
-            "name": "056",
-            "alt": "Forstweg Fatschel",
-            "date": "2019-10-12T17:32:28.000+02:00",
-            "width": 1920,
-            "height": 2539
-          }
-        ],
-        "videos": [],
-        "text": "Nur noch dahinschlürfend dann die letzten Kilometer nach Fatschel. Ankunft um Halbsechs am Auto."
-      }
-    ],
-    "outro": "Fazit: Eine Höhenwanderung bei größtenteils schönstem Wetter. Der schönste Abschnitt des Wegs ist vom Hochwang über den Grat bis zum Cunggel. Auch der Schanfigger Höhenweg zurück ist sicher schön, wenn man dabei noch etwas frischer ist. ;)<br />Da ich in Fatschel gestartet war, hätte ich wahrscheinlich doch das Mattjisch Horn auslassen sollen. Wenn man die Gebühren für Triemel in den Griff bekommt und dort parkt, kann man es aber auch komplett machen.<br />Ich war lange 25km unterwegs, dabei auch noch 1500 Höhenmeter und habe 9h gebraucht. Von Triemel aus wären es 20km und weniger als 8h gewesen."
-  }
-]
+    {
+      "photos": [
+        {
+          "name": "003",
+          "alt": "Berg Nelkenwurz",
+          "date": "2019-10-12T09:26:55.000+02:00",
+          "width": 1920,
+          "height": 1280
+        },
+        {
+          "name": "004",
+          "alt": "Windschiefe Hütte",
+          "date": "2019-10-12T09:31:12.000+02:00",
+          "width": 1920,
+          "height": 840
+        },
+        {
+          "name": "005",
+          "alt": "Arosa Weisshorn",
+          "date": "2019-10-12T09:36:20.000+02:00",
+          "width": 1920,
+          "height": 2675
+        }
+      ],
+      "videos": [],
+      "text": "Nach Triemel kürzt der Wanderweg die Serpentine des weiter hinaufführenden Fahrwegs ab und es geht ziemlich steil über diese Wiese hinauf. Vorbei an einer Berg Nelkenwurz und einer sehr windschiefen Hütte. Auf der anderen Seite des Tals erhebt sich das schon leicht verschneite Arosa Weisshorn (2650m)."
+    },
+    {
+      "photos": [
+        {
+          "name": "006",
+          "alt": "Bleis",
+          "date": "2019-10-12T09:47:51.000+02:00",
+          "width": 1920,
+          "height": 2427
+        }
+      ],
+      "videos": [],
+      "text": "Dann ging es wieder auf die flachere Alpstraße, die bis zu der malerischen Häuseransammlung Bleis führt. Im Hintergrund wieder das Weisshorn."
+    },
+    {
+      "photos": [
+        {
+          "name": "007",
+          "alt": "Wanderweg Hochwang",
+          "date": "2019-10-12T09:53:08.000+02:00",
+          "width": 1920,
+          "height": 834
+        },
+        {
+          "name": "008",
+          "alt": "Herbstliches Gras",
+          "date": "2019-10-12T09:54:07.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Nach Bleis ist der Weg zwar theoretisch immer noch befahrbar, aber komplett vom herbstlichen Gras bewachsen, so dass es mich nicht mehr gestört hat.<br />Nun ging es mit einer leichten Kurve in einen Talkessel Richtung Norden."
+    },
+    {
+      "photos": [
+        {
+          "name": "009",
+          "alt": "Schnee zwischen Gras",
+          "date": "2019-10-12T10:15:22.000+02:00",
+          "width": 1920,
+          "height": 1006
+        },
+        {
+          "name": "010",
+          "alt": "Pfad durch Schnee an Bach",
+          "date": "2019-10-12T10:18:14.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Im Talkessel angekommen biegt der Weg nach rechts ab. Dabei führt der Weg zwischen der Nordseite eines kleinen Buckels und einem Bach entlang. Da ich nun schon 2300m hoch war, ging es dabei auch etwas durch Schnee."
+    },
+    {
+      "photos": [
+        {
+          "name": "011",
+          "alt": "Aufstieg Hochwang",
+          "date": "2019-10-12T10:30:02.000+02:00",
+          "width": 1920,
+          "height": 899
+        },
+        {
+          "name": "012",
+          "alt": "Herbstwanderung Hochwang",
+          "date": "2019-10-12T10:35:37.000+02:00",
+          "width": 1920,
+          "height": 787
+        }
+      ],
+      "videos": [],
+      "text": "Jeweils der Blick zurück beim Aufstieg auf den Grat zwischen Ratoser Stein und Hochwang. Den Grat erreicht man bei 2400m, zum Hochwang waren es jetzt nur noch 100m. Bis zu diesem Punkt musste ich auch nach dem Gipfel wieder auf dem gleichen Weg zurück.<br />Etwas Sorgen machte mir zu diesem Zeitpunkt der viele Schnee auf der Nordseite des Ratoser Steins, wollte ich doch diesen nach dem Hochwang überwandern."
+    },
+    {
+      "photos": [
+        {
+          "name": "013",
+          "alt": "Tüfelsch Chopf",
+          "date": "2019-10-12T10:44:53.000+02:00",
+          "width": 1920,
+          "height": 916
+        }
+      ],
+      "videos": [],
+      "text": "Blick beim Aufstieg nach Westen zum benachbarten steilen Tüfelsch Chopf."
+    },
+    {
+      "photos": [
+        {
+          "name": "014",
+          "alt": "Schwierigkeit Hochwang",
+          "date": "2019-10-12T10:53:12.000+02:00",
+          "width": 1920,
+          "height": 709
+        }
+      ],
+      "videos": [],
+      "text": "Der Weg auf den Hochwang ist dagegen total harmlos. Hier schon nah vor dem Gipfel."
+    },
+    {
+      "photos": [
+        {
+          "name": "015",
+          "alt": "Hochwang",
+          "date": "2019-10-12T10:53:48.000+02:00",
+          "width": 1920,
+          "height": 909
+        }
+      ],
+      "videos": [],
+      "text": "Kurz vor dem Gipfel erreicht man den Grat. Auf der Westseite fällt der Hochwang ziemlich steil in ein Seitental vor dem Rheintal ab."
+    },
+    {
+      "photos": [
+        {
+          "name": "016",
+          "alt": "Gipfel Hochwang",
+          "date": "2019-10-12T10:54:42.000+02:00",
+          "width": 1920,
+          "height": 1140
+        }
+      ],
+      "videos": [],
+      "text": "Um 11:00 war ich auf dem Gipfel des 2500m hohen Hochwang. Das Wetter war weiterhin wunderbar und die Sicht praktisch unbegrenzt."
+    },
+    {
+      "photos": [
+        {
+          "name": "017",
+          "alt": "Aussicht Hochwang Prättigau",
+          "date": "2019-10-12T10:55:20.000+02:00",
+          "width": 1920,
+          "height": 594
+        }
+      ],
+      "videos": [],
+      "text": "Blick vom Hochwang nach Norden ins <a href='/alpine/praettigau' target='_blank'>Prättigau</a>. Von links nach rechts meine bisherigen Wanderungen dort: <a href='/alpine/praettigau/20171015' target='_blank'>Drusentor</a>, <a href='/alpine/praettigau/20141012' target='_blank'>Sulzfluh</a>, <a href='/alpine/praettigau/20151031' target='_blank'>Chrüz</a>, <a href='/alpine/praettigau/20190921' target='_blank'>Riedkopf</a> und <a href='/alpine/gargellen/20150822' target='_blank'>Rätschenhorn</a>."
+    },
+    {
+      "photos": [
+        {
+          "name": "018",
+          "alt": "Schnee auf Nordhängen",
+          "date": "2019-10-12T10:55:34.000+02:00",
+          "width": 1920,
+          "height": 854
+        }
+      ],
+      "videos": [],
+      "text": "Tele noch Osten. Rechts die Weissfluh bei Davos, links der Silvretta Gletscher unterhalb des 3300m hohen Piz Buin."
+    },
+    {
+      "photos": [
+        {
+          "name": "019",
+          "alt": "Wanderung Hochwang",
+          "date": "2019-10-12T10:55:58.000+02:00",
+          "width": 1920,
+          "height": 1328
+        }
+      ],
+      "videos": [],
+      "text": "Blick nach Westen am Ful Berg und über den Montalin ins Rheintal.<br />Ich machte auf dem Gipfel nur kurz Pause, da ich noch einiges vor hatte und auch ein paar andere Wanderer oben ankamen."
+    },
+    {
+      "photos": [
+        {
+          "name": "020",
+          "alt": "Varneza",
+          "date": "2019-10-12T11:19:04.000+02:00",
+          "width": 1920,
+          "height": 1332
+        }
+      ],
+      "videos": [],
+      "text": "Blick beim Abstieg nach links in das Tal Varneza. Schön zu sehen, welche Rolle die Hangneigung in dieser Jahreszeit in Sachen Schneebedeckung spielt."
+    },
+    {
+      "photos": [
+        {
+          "name": "021",
+          "alt": "Wanderweg durch Schnee",
+          "date": "2019-10-12T11:27:50.000+02:00",
+          "width": 1920,
+          "height": 820
+        }
+      ],
+      "videos": [],
+      "text": "Beim anschließenden Aufstieg auf den Ratoser Stein ging auch mein Weg kurz auf die Nordseite und damit in den Schnee. Aber zum Glück auf einem recht harmlosen Abschnitt."
+    },
+    {
+      "photos": [
+        {
+          "name": "022",
+          "alt": "Gratweg",
+          "date": "2019-10-12T11:29:38.000+02:00",
+          "width": 1920,
+          "height": 1280
+        },
+        {
+          "name": "023",
+          "alt": "Ratoser Stein",
+          "date": "2019-10-12T11:33:42.000+02:00",
+          "width": 1920,
+          "height": 733
+        }
+      ],
+      "videos": [],
+      "text": "Nach einer kleinen steileren Stelle, bei der ich die Hände brauchte, ging es schön auf dem markanten Grat hinauf auf den Gipfel des Ratoser Steins. Beide Seiten des Grats sind aber nicht sehr steil, somit keine Höhenangst."
+    },
+    {
+      "photos": [
+        {
+          "name": "024",
+          "alt": "Wanderweg Ratoser Stein Hochwang",
+          "date": "2019-10-12T11:34:34.000+02:00",
+          "width": 1920,
+          "height": 744
+        }
+      ],
+      "videos": [],
+      "text": "Blick vom 2470m hohen Ratoser Stein zurück zum Hochwang (rechts). Links durch das Tal war ich auf den Hochwang aufgestiegen."
+    },
+    {
+      "photos": [
+        {
+          "name": "025",
+          "alt": "Gratweg Schanfigg",
+          "date": "2019-10-12T11:55:12.000+02:00",
+          "width": 1920,
+          "height": 1060
+        }
+      ],
+      "videos": [],
+      "text": "Nach einer weiteren Pause auf dem Gipfel ging es weiter auf dem Grat nach Westen. Ebenfalls gut zu gehen und schneefrei.<br />Der ganze sichtbare Höhenzug war nun das Programm für den Rest des Tages."
+    },
+    {
+      "photos": [
+        {
+          "name": "026",
+          "alt": "Skilift Hochwang",
+          "date": "2019-10-12T11:58:01.000+02:00",
+          "width": 1920,
+          "height": 918
+        }
+      ],
+      "videos": [],
+      "text": "Auf dem Grat geht es oberhalb des Skilifts Hochwang vorbei, der von Triemel hinaufführt. Dies ist neben der Sesselbahn die einzige Liftanlage des Skigebiets Hochwang. Rechts ist Triemel zu sehen und hinten in der Mitte Fatschel, wo ich mein Auto abgestellt hatte - das ganze ist aber deutlich weitläufiger, als es hier in der Teleaufnahme aussieht."
+    },
+    {
+      "photos": [
+        {
+          "name": "027",
+          "alt": "Mittagspitz",
+          "date": "2019-10-12T12:14:30.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Erst mal ging es weiter sehr schön auf dem Grat weiter Richtung Cunggel (Bildmitte). An diesem Berg wird der Weg aber an der rechten Seite vorbeiführen."
+    },
+    {
+      "photos": [
+        {
+          "name": "028",
+          "alt": "Gratweg Hochwang",
+          "date": "2019-10-12T12:26:18.000+02:00",
+          "width": 1920,
+          "height": 791
+        }
+      ],
+      "videos": [],
+      "text": "Blick zurück zum Ratoser Stein und Hochwang. Der offiziell ausgeschilderte Weg bog vom Grat weg und hinab zum Skihaus Hochwang. Aber der Weg auf dem Grat ist trotzdem markiert und auch gut in Schuss... also kein Grund nicht hier oben zu bleiben."
+    },
+    {
+      "photos": [
+        {
+          "name": "029",
+          "alt": "Wanderung Schanfigg",
+          "date": "2019-10-12T12:43:03.000+02:00",
+          "width": 1920,
+          "height": 904
+        }
+      ],
+      "videos": [],
+      "text": "Wie schon angekündigt geht es am Cunggel am Südhang vorbei. Dabei war der Weg von Kühen total zertreten und sehr matschig. Auf dem eigentlichen Weg konnte ich deshalb nur selten gehen...<br />Hier außerhalb des Alpgebiets wurde es dann aber steiler und trockener, so dass der Weg angenehm war."
+    },
+    {
+      "photos": [
+        {
+          "name": "030",
+          "alt": "Alpgebiet",
+          "date": "2019-10-12T12:44:49.000+02:00",
+          "width": 1920,
+          "height": 618
+        }
+      ],
+      "videos": [],
+      "text": "Nach dem Cunggel öffnete sich ein neuer Blick nach Osten auf die weitläufigen Weiden und Moore von Schanfigg. Nun ging der Weg kurz steiler hinab, um den Pass links zu erreichen... passenderweise auf der Karte Schwiloch genannt, denn es war weiterhin alles sehr schlammig."
+    },
+    {
+      "photos": [
+        {
+          "name": "031",
+          "alt": "Weissfluh",
+          "date": "2019-10-12T13:05:26.000+02:00",
+          "width": 1920,
+          "height": 988
+        }
+      ],
+      "videos": [],
+      "text": "Auch am nächsten Gipfel, der Mittagspitz, ging es seitlich vorbei. Tele zur Davoser Weissfluh. Rechts das Mattjisch Horn, das ich an diesem Tag noch besteigen wollte."
+    },
+    {
+      "photos": [
+        {
+          "name": "032",
+          "alt": "Faniner Galtihütte",
+          "date": "2019-10-12T13:19:45.000+02:00",
+          "width": 1920,
+          "height": 828
+        }
+      ],
+      "videos": [],
+      "text": "Auffällig - da das einzige Bauwerk hier oben - die kleine Faniner Galtihütte. Rechts hinten ist übrigens die <a href='/alpine/brandnertal/20150829' target='_blank'>Schesaplana</a> zu sehen."
+    },
+    {
+      "photos": [
+        {
+          "name": "033",
+          "alt": "Wegweiser Faninpass",
+          "date": "2019-10-12T13:24:55.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Um 13:30 erreichte ich schließlich den 2200m hohen Faninpass und damit auch wieder offiziell ausgezeichnete Wanderwege. Auch kann man hier mit dem Mountainbike hinauf."
+    },
+    {
+      "photos": [
+        {
+          "name": "034",
+          "alt": "Faninpass",
+          "date": "2019-10-12T13:33:12.000+02:00",
+          "width": 1920,
+          "height": 674
+        }
+      ],
+      "videos": [],
+      "text": "Hier der Blick zurück zum sehr flachen Faninpass. Links der Cunggel, rechts die Mittagspitz und darunter die kleine, einsame Faniner Galtihütte."
+    },
+    {
+      "photos": [
+        {
+          "name": "035",
+          "alt": "Wegweiser Arflinafurgga",
+          "date": "2019-10-12T13:36:19.000+02:00",
+          "width": 1920,
+          "height": 2880
+        }
+      ],
+      "videos": [],
+      "text": "Nach einem kleinen Aufstieg erreichte ich schnell die Arflinafurgga, der Übergang von den Fideriser Heubergen nach Schanfigg.<br />Jetzt musste ich etwas rechnen, denn zurück zum Auto waren es von hier noch über 2h, und zu meinem Ziel, dem Mattjisch Horn in die andere Richtung auch noch eine Stunde... also insgesamt musste ich wohl noch knapp 4h einplanen - damit am Auto noch gerade vor 18:00.<br />Ich entschied mich trotzdem zum Weitergehen."
+    },
+    {
+      "photos": [
+        {
+          "name": "036",
+          "alt": "Wanderweg Mattjisch Horn Arflinafurgga",
+          "date": "2019-10-12T13:43:51.000+02:00",
+          "width": 1920,
+          "height": 1234
+        }
+      ],
+      "videos": [],
+      "text": "Weiter ging es nun immer noch nah am Grat entlang, hinten das Mattjisch Horn."
+    },
+    {
+      "photos": [
+        {
+          "name": "037",
+          "alt": "Cluner See",
+          "date": "2019-10-12T13:53:05.000+02:00",
+          "width": 1920,
+          "height": 778
+        }
+      ],
+      "videos": [],
+      "text": "Blick vom Grat hinab Richtung Fideriser Heuberge und den Cluner Seen."
+    },
+    {
+      "photos": [
+        {
+          "name": "038",
+          "alt": "Wanderung Arosa",
+          "date": "2019-10-12T14:08:10.000+02:00",
+          "width": 1920,
+          "height": 766
+        }
+      ],
+      "videos": [],
+      "text": "Dann wurde der Weg steiler und anstrengender und es ging die 200 Höhenmeter zum Gipfel hinauf. Hier der Blick über die bisherige Tagesarbeit - genau in der Bildmitte der Ratoser Stein."
+    },
+    {
+      "photos": [
+        {
+          "name": "039",
+          "alt": "Wanderweg Mattjisch Horn",
+          "date": "2019-10-12T14:20:50.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Und so ging es auf das Mattjisch Horn hinauf."
+    },
+    {
+      "photos": [
+        {
+          "name": "040",
+          "alt": "Fideriser Heuberg",
+          "date": "2019-10-12T14:22:54.000+02:00",
+          "width": 1920,
+          "height": 659
+        }
+      ],
+      "videos": [],
+      "text": "Tele hinab zum Gasthaus und Hotel auf dem Fideriser Heuberg. Dort gibt es im Winter auch zwei Skilifte und eine lange Rodelbahn."
+    },
+    {
+      "photos": [
+        {
+          "name": "041",
+          "alt": "Wegweiser Mattjisch Horn",
+          "date": "2019-10-12T14:28:39.000+02:00",
+          "width": 1920,
+          "height": 907
+        }
+      ],
+      "videos": [],
+      "text": "Den breiten Gipfel erreichte ich ziemlich erschöpft um 14:30. Hier der Blick nach Osten zum Weissfluh."
+    },
+    {
+      "photos": [
+        {
+          "name": "042",
+          "alt": "Aussicht Mattjisch Horn",
+          "date": "2019-10-12T14:28:55.000+02:00",
+          "width": 1920,
+          "height": 695
+        }
+      ],
+      "videos": [],
+      "text": "Und noch einmal den schneebedeckten Nordhang hinab zum Fideriser Heuberg."
+    },
+    {
+      "photos": [
+        {
+          "name": "043",
+          "alt": "Fondei",
+          "date": "2019-10-12T14:30:49.000+02:00",
+          "width": 1920,
+          "height": 994
+        }
+      ],
+      "videos": [],
+      "text": "Die schönste Aussicht hinab ins Tal Fondei, das von Langwies hinaufführt und sich unterhalb des Davoser Weisshorns befindet. Von dort geht hier ebenfalls ein Weg rauf."
+    },
+    {
+      "photos": [
+        {
+          "name": "044",
+          "alt": "Aroser Rothorn",
+          "date": "2019-10-12T14:36:01.000+02:00",
+          "width": 1920,
+          "height": 797
+        }
+      ],
+      "videos": [],
+      "text": "Tele nach Arosa und dahinter das 3000m hohe Aroser Rothorn. Rechts das Aroser Weisshorn."
+    },
+    {
+      "photos": [
+        {
+          "name": "045",
+          "alt": "Mederger Flue",
+          "date": "2019-10-12T14:37:01.000+02:00",
+          "width": 1920,
+          "height": 2409
+        }
+      ],
+      "videos": [],
+      "text": "Blick hinab zum Südgrat des Mattjisch Horns, über den ebenfalls ein Weg über die Blackter Flüe hinauf führt. Im Hintergrund ist die Mederger Alp vor der Mederger Flue zu sehen.<br />Nach dem ich mich erholt hatte ging ich diesen Südgrat hinab, aber nicht ganz bis zur steilen Blackter Flüe."
+    },
+    {
+      "photos": [
+        {
+          "name": "046",
+          "alt": "Weite Wiesen",
+          "date": "2019-10-12T15:03:07.000+02:00",
+          "width": 1920,
+          "height": 774
+        }
+      ],
+      "videos": [],
+      "text": "100m unterhalb des Gipfels ging mein Weg nach rechts vom Grat weg und schön über diese Wiesen hinab. Weiter unten folgte ich dem Weg aber nicht weiter und kürzte eine unnötige Ecke einfach über die weite Fläche ab."
+    },
+    {
+      "photos": [
+        {
+          "name": "047",
+          "alt": "Moorweg",
+          "date": "2019-10-12T15:31:32.000+02:00",
+          "width": 1920,
+          "height": 1280
+        },
+        {
+          "name": "048",
+          "alt": "Schanfigger Höhenweg",
+          "date": "2019-10-12T15:33:31.000+02:00",
+          "width": 1920,
+          "height": 640
+        },
+        {
+          "name": "049",
+          "alt": "Schanfigg Feuchtgebiet",
+          "date": "2019-10-12T15:38:53.000+02:00",
+          "width": 1920,
+          "height": 826
+        }
+      ],
+      "videos": [],
+      "text": "Nun befand ich mich auf dem schön angelegten Schanfigger Höhenweg, der die gesamte Fläche von Schanfigg auf halber Höhe quert. Einerseits war es schade, dass nun durch die hohen Wolken alles etwas trüb wirkte, aber andererseits kamen mir die niedrigeren Temperaturen entgegen, denn ich war schon ziemlich kaputt."
+    },
+    {
+      "photos": [
+        {
+          "name": "050",
+          "alt": "Schanfigg Mattjisch Horn",
+          "date": "2019-10-12T16:12:37.000+02:00",
+          "width": 1920,
+          "height": 1219
+        }
+      ],
+      "videos": [],
+      "text": "Blick zurück zum Mattjisch Horn. Links war ich hinaufgegangen und rechts hinunter."
+    },
+    {
+      "photos": [
+        {
+          "name": "051",
+          "alt": "Picknicktisch",
+          "date": "2019-10-12T16:19:35.000+02:00",
+          "width": 1920,
+          "height": 574
+        }
+      ],
+      "videos": [],
+      "text": "Nach einem sehr langen und sehr feuchtem Wiesenweg erreichte ich diesen Picknicktisch. Zeit für eine Pause denn langsam wurde das Ziel der Wanderung absehbar."
+    },
+    {
+      "photos": [
+        {
+          "name": "052",
+          "alt": "Skihaus Hochwang",
+          "date": "2019-10-12T16:34:54.000+02:00",
+          "width": 1920,
+          "height": 923
+        }
+      ],
+      "videos": [],
+      "text": "Nun ging es kurz etwas steiler bergab und ich konnte zum bewirtschafteten Skihaus Hochwang schauen. An diesem vorbei würde der Weg zurück zum Parkplatz auf Triemel führen, ich musste aber noch nach links hinunter nach Fatschel."
+    },
+    {
+      "photos": [
+        {
+          "name": "053",
+          "alt": "Abstieg Skihaus Hochwang Fatschel",
+          "date": "2019-10-12T16:42:24.000+02:00",
+          "width": 1920,
+          "height": 1155
+        }
+      ],
+      "videos": [],
+      "text": "Offiziell gibt es keinen direkten Weg vom Skihaus nach Fatschel und man wird auf der Straße über Triemel geführt. Darauf hatte ich aber keine Lust und ging einfach direkt die Wiesen runter."
+    },
+    {
+      "photos": [
+        {
+          "name": "054",
+          "alt": "Tümpel mit Tanne",
+          "date": "2019-10-12T16:48:00.000+02:00",
+          "width": 1920,
+          "height": 2874
+        }
+      ],
+      "videos": [],
+      "text": "An diesem Tümpel machte ich noch eine kleine Pause, zog die schwer gewordenen Bergschuhe aus, kühlte die Füße im Wasser und wechselte auf Sandalen. Bei der Hütte im Hintergrund kam ich auf einen steilen Feldweg, den ich nun bis zum Parkplatz folgen konnte."
+    },
+    {
+      "photos": [
+        {
+          "name": "055",
+          "alt": "Sotfanas",
+          "date": "2019-10-12T17:13:23.000+02:00",
+          "width": 1920,
+          "height": 861
+        },
+        {
+          "name": "056",
+          "alt": "Forstweg Fatschel",
+          "date": "2019-10-12T17:32:28.000+02:00",
+          "width": 1920,
+          "height": 2539
+        }
+      ],
+      "videos": [],
+      "text": "Nur noch dahinschlürfend dann die letzten Kilometer nach Fatschel. Ankunft um Halbsechs am Auto."
+    }
+  ],
+  "outro": "Fazit: Eine Höhenwanderung bei größtenteils schönstem Wetter. Der schönste Abschnitt des Wegs ist vom Hochwang über den Grat bis zum Cunggel. Auch der Schanfigger Höhenweg zurück ist sicher schön, wenn man dabei noch etwas frischer ist. ;)<br />Da ich in Fatschel gestartet war, hätte ich wahrscheinlich doch das Mattjisch Horn auslassen sollen. Wenn man die Gebühren für Triemel in den Griff bekommt und dort parkt, kann man es aber auch komplett machen.<br />Ich war lange 25km unterwegs, dabei auch noch 1500 Höhenmeter und habe 9h gebraucht. Von Triemel aus wären es 20km und weniger als 8h gewesen."
+}

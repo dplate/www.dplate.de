@@ -1,510 +1,508 @@
-[
-  {
-    "destination": "davos",
-    "date": "d20151010",
-    "type": "hike",
-    "track": true,
-    "detailMap": "swiss",
-    "shortTitle": "Schatzalp",
-    "title": "Schatzalp - Maienfelder Furgga",
-    "title3d": {
-      "offsetY": 2,
-      "fontSize": 8,
-      "align": "center",
-      "width": 1920,
-      "height": 654
+{
+  "destination": "davos",
+  "date": "d20151010",
+  "type": "hike",
+  "track": true,
+  "detailMap": "swiss",
+  "shortTitle": "Schatzalp",
+  "title": "Schatzalp - Maienfelder Furgga",
+  "title3d": {
+    "offsetY": 2,
+    "fontSize": 8,
+    "align": "center",
+    "width": 1920,
+    "height": 654
+  },
+  "movie": "4m22dBaPmtA",
+  "intro": "Eigentlich hatte ich die Schatzalp nicht auf dem Plan, denn ursprünglich wollte ich oberhalb von Pany eine Tour unternehmen. Aber als ich dort auf dem Parkplatz ankam, waren alle Gipfel nebelverhangen. Auch die Wettervorhersagen hatten sich geändert und berichteten nun von einer Nebelobergrenze bis zu 2000m statt der angesagten 1500m. Deshalb stieg ich wieder in's Auto und fuhr weiter nach Davos. Auch dort herrschte noch dicke Nebelsuppe. Ich stellte mein Auto auf dem Parkplatz der Jakobshornbahn ab (im Sommer gratis) und lief quer zur Schatzalp-Standseilbahn. 8 CHF ärmer ging die kurze Fahrt gleich los und ich entfloh dem Nebel auf die 1800m hohe Schatzalp.",
+  "landmarks": [
+    {
+      "photos": [
+        {
+          "name": "001",
+          "date": "2015-10-10T09:45:46.000+02:00",
+          "width": 1848,
+          "height": 1080,
+          "alt": "Restaurant Schatzalp"
+        }
+      ],
+      "videos": [],
+      "text": "Restaurant auf der Schatzalp. Es war seltsam leer und auch in der Bahn waren nur fünf andere Fahrgäste. Komisch für ein Wochenende Anfang Oktober bei Nebel im Flachland.<br />\nAb hier ging es nun schließlich zu Fuß los. Durch das ganze hin und her bei der Anfahrt war es schon 9:45."
     },
-    "movie": "4m22dBaPmtA",
-    "intro": "Eigentlich hatte ich die Schatzalp nicht auf dem Plan, denn ursprünglich wollte ich oberhalb von Pany eine Tour unternehmen. Aber als ich dort auf dem Parkplatz ankam, waren alle Gipfel nebelverhangen. Auch die Wettervorhersagen hatten sich geändert und berichteten nun von einer Nebelobergrenze bis zu 2000m statt der angesagten 1500m. Deshalb stieg ich wieder in's Auto und fuhr weiter nach Davos. Auch dort herrschte noch dicke Nebelsuppe. Ich stellte mein Auto auf dem Parkplatz der Jakobshornbahn ab (im Sommer gratis) und lief quer zur Schatzalp-Standseilbahn. 8 CHF ärmer ging die kurze Fahrt gleich los und ich entfloh dem Nebel auf die 1800m hohe Schatzalp.",
-    "landmarks": [
-      {
-        "photos": [
-          {
-            "name": "001",
-            "date": "2015-10-10T09:45:46.000+02:00",
-            "width": 1848,
-            "height": 1080,
-            "alt": "Restaurant Schatzalp"
-          }
-        ],
-        "videos": [],
-        "text": "Restaurant auf der Schatzalp. Es war seltsam leer und auch in der Bahn waren nur fünf andere Fahrgäste. Komisch für ein Wochenende Anfang Oktober bei Nebel im Flachland.<br />\nAb hier ging es nun schließlich zu Fuß los. Durch das ganze hin und her bei der Anfahrt war es schon 9:45."
-      },
-      {
-        "photos": [
-          {
-            "name": "002",
-            "date": "2015-10-10T09:51:46.000+02:00",
-            "width": 1920,
-            "height": 996,
-            "alt": "Sesselbahn Schatzalp"
-          }
-        ],
-        "videos": [],
-        "text": "Ich wählte den Aufstieg zum Strelapass. Zu Begin unterquert man dafür die Zweier-Sesselbahn, die aber nicht in Betrieb war. Im Hintergrund das Nebelmeer über Davos und im Hintergrund die Seilbahn auf das Jakobshorn."
-      },
-      {
-        "photos": [
-          {
-            "name": "003",
-            "date": "2015-10-10T09:57:59.000+02:00",
-            "width": 1920,
-            "height": 994,
-            "alt": "Lärchen im Herbst"
-          },
-          {
-            "name": "004",
-            "date": "2015-10-10T10:01:39.000+02:00",
-            "width": 1825,
-            "height": 1080,
-            "alt": "Herbstfarben"
-          }
-        ],
-        "videos": [],
-        "text": "Da ich so lange im Nebelgrau unterwegs war, leuchteten die Herbstfarben in der Sonne gleich noch schöner. 😃"
-      },
-      {
-        "photos": [
-          {
-            "name": "005",
-            "date": "2015-10-10T10:09:00.000+02:00",
-            "width": 1620,
-            "height": 1080,
-            "alt": "Nebel über Davos"
-          },
-          {
-            "name": "006",
-            "date": "2015-10-10T10:10:00.000+02:00",
-            "width": 1620,
-            "height": 1080,
-            "alt": "Blick zum Jakobshorn"
-          }
-        ],
-        "videos": [],
-        "text": "Im Tal auch weiterhin der Nebel. Der Weg führte zügig nach oben und der Schweiß tropfte bereits."
-      },
-      {
-        "photos": [
-          {
-            "name": "007",
-            "date": "2015-10-10T10:15:16.000+02:00",
-            "width": 1620,
-            "height": 1080,
-            "alt": "Wanderweg im Herbst"
-          }
-        ],
-        "videos": [],
-        "text": "Farbenspiel."
-      },
-      {
-        "photos": [
-          {
-            "name": "008",
-            "date": "2015-10-10T10:38:02.000+02:00",
-            "width": 1920,
-            "height": 920,
-            "alt": "Pischahorn"
-          }
-        ],
-        "videos": [],
-        "text": "Tele und deutlich nachbearbeiteter Blick zum Pischa-Gebiet. Auf der anderen Talseite hatte es irgendwie deutlich mehr Neuschnee."
-      },
-      {
-        "photos": [
-          {
-            "name": "009",
-            "date": "2015-10-10T10:46:43.000+02:00",
-            "width": 1620,
-            "height": 1080,
-            "alt": "Restaurant Strelapass"
-          }
-        ],
-        "videos": [],
-        "text": "Nach einer Stunde Aufstieg Ankunft auf dem Strelapass. Auch hier total leer. Ich glaube aber, es war zumindest ein Gast auf der Terrasse."
-      },
-      {
-        "photos": [
-          {
-            "name": "010",
-            "date": "2015-10-10T10:49:17.000+02:00",
-            "width": 1580,
-            "height": 1080,
-            "alt": "Aussicht Strelapass"
-          }
-        ],
-        "videos": [],
-        "text": "Blick hinunter auf der anderen Seite Richtung Chur."
-      },
-      {
-        "photos": [
-          {
-            "name": "011",
-            "date": "2015-10-10T10:49:55.000+02:00",
-            "width": 1620,
-            "height": 1080,
-            "alt": "Weissfluh"
-          }
-        ],
-        "videos": [],
-        "text": "Und Richtung Weissfluhgipfel links und der stillgelegten Verbindungsbahn zum Parsenngebiet rechts."
-      },
-      {
-        "photos": [
-          {
-            "name": "012",
-            "date": "2015-10-10T10:50:11.000+02:00",
-            "width": 1746,
-            "height": 1080,
-            "alt": "Weissfluhjoch ohne Schnee"
-          }
-        ],
-        "videos": [],
-        "text": "Tele zum Weissfluhjoch. Nicht wirklich schön anzuschauen."
-      },
-      {
-        "photos": [
-          {
-            "name": "013",
-            "date": "2015-10-10T11:08:25.000+02:00",
-            "width": 1920,
-            "height": 862,
-            "alt": "Strelaberg"
-          }
-        ],
-        "videos": [],
-        "text": "Ich ging aber nicht in diese Richtung weiter, sondern statt dessen am Hang lang Richtung Süd/West. Schnell verließ ich dabei das nostalgische Skigebiet Schatzalp (andere würden Schrottplatz sagen)."
-      },
-      {
-        "photos": [
-          {
-            "name": "014",
-            "date": "2015-10-10T11:15:14.000+02:00",
-            "width": 1513,
-            "height": 1080,
-            "alt": "Strelasee"
-          },
-          {
-            "name": "015",
-            "date": "2015-10-10T11:16:02.000+02:00",
-            "width": 1920,
-            "height": 1076,
-            "alt": "Bergsee"
-          }
-        ],
-        "videos": [],
-        "text": "Schnell erreichte ich den Strelasee, der natürlich für die obligatorischen Bergsee-Fotos herhalten musste."
-      },
-      {
-        "photos": [
-          {
-            "name": "016",
-            "date": "2015-10-10T11:20:00.000+02:00",
-            "width": 1620,
-            "height": 1080,
-            "alt": "Höhenweg Strela"
-          },
-          {
-            "name": "017",
-            "date": "2015-10-10T11:24:06.000+02:00",
-            "width": 1782,
-            "height": 1080,
-            "alt": "Wanderweg Strela"
-          }
-        ],
-        "videos": [],
-        "text": "Und es ging weiter eben immer am Hang lang. Dabei überholten mich zwei/drei Mountainbiker, ansonsten total einsam."
-      },
-      {
-        "photos": [
-          {
-            "name": "018",
-            "date": "2015-10-10T11:27:32.000+02:00",
-            "width": 1620,
-            "height": 1080,
-            "alt": "Latschüelfurgga"
-          }
-        ],
-        "videos": [],
-        "text": "Hier im Bild ist bereits die Latschüelfurgga zu sehen, dich ich um 11:40 erreichte. Und keine Angst: es kommen noch seltsamere Ortsbezeichnungen, die ich hier nur per Copy/Pase erwähnen kann. 😉"
-      },
-      {
-        "photos": [
-          {
-            "name": "019",
-            "date": "2015-10-10T11:57:36.000+02:00",
-            "width": 1920,
-            "height": 703,
-            "alt": "Aufstieg Chörbschhorn"
-          }
-        ],
-        "videos": [],
-        "text": "Und schon vorbei an der Furgga (links) und ich befinde mich auf dem nicht sehr steilen Aufstieg zum Chörbschhorn. Der Nebel im Tal hatte sich inzwischen aufgelöst, dafür bildeten sich (jahreszeituntypisch) Quellwolken über den Bergen."
-      },
-      {
-        "photos": [
-          {
-            "name": "020",
-            "date": "2015-10-10T12:05:24.000+02:00",
-            "width": 1736,
-            "height": 1080,
-            "alt": "Chörbschhorn"
-          }
-        ],
-        "videos": [],
-        "text": "Ebenfalls beim Aufstieg erreichte ich den ersten Schnee."
-      },
-      {
-        "photos": [
-          {
-            "name": "021",
-            "date": "2015-10-10T12:07:36.000+02:00",
-            "width": 1920,
-            "height": 1020,
-            "alt": "Chörbschhornhütte"
-          }
-        ],
-        "videos": [],
-        "text": "Blick hinüber zur Chörbschhornhütte, einer kleinen Schutzhütte. Statt über den Gipfel kann man auch direkt dort hin, aber da es auf der Tour sonst keine Gipfel gab, musste der Umweg natürlich sein."
-      },
-      {
-        "photos": [
-          {
-            "name": "022",
-            "date": "2015-10-10T12:20:41.000+02:00",
-            "width": 1920,
-            "height": 837,
-            "alt": "Aussicht Chörbschhorn"
-          }
-        ],
-        "videos": [],
-        "text": "Auf dem 2600m hohen Gipfel der Blick nach Westen. Der Pass beim Schneefeld links (die Tiejer Fürggli) war mein nächstes Etappenziel."
-      },
-      {
-        "photos": [
-          {
-            "name": "023",
-            "date": "2015-10-10T12:21:05.000+02:00",
-            "width": 1920,
-            "height": 1043,
-            "alt": "Wegweiser Chörbschhorn"
-          }
-        ],
-        "videos": [],
-        "text": "Und Aussicht in die andere Richtung."
-      },
-      {
-        "photos": [
-          {
-            "name": "024",
-            "date": "2015-10-10T12:56:59.000+02:00",
-            "width": 1920,
-            "height": 1059,
-            "alt": "Schwifurgga"
-          }
-        ],
-        "videos": [],
-        "text": "Um den besagten Pass zu erreichen, musste ich zuerst die Schwifurgga überqueren, auf der ich mich nun befinde. Erstmals ist nun der Blick hinunter auf Arosa möglich."
-      },
-      {
-        "photos": [
-          {
-            "name": "025",
-            "date": "2015-10-10T13:29:19.000+02:00",
-            "width": 1620,
-            "height": 1080,
-            "alt": "Aufstieg Tiejer Fürggli"
-          }
-        ],
-        "videos": [],
-        "text": "Blick zurück zur Schwifurgga. Gemeinerweise musste man von dort 150 Höhenmeter steil absteigen, nur um sie gleich anschließend (ebenso steil) wieder hoch zu müssen. Hier habe ich aber bereits den halben Aufstieg geschafft, war mit meinen Kräften aber auch schon ziemlich am Limit."
-      },
-      {
-        "photos": [
-          {
-            "name": "026",
-            "date": "2015-10-10T13:45:54.000+02:00",
-            "width": 1920,
-            "height": 975,
-            "alt": "Wanderweg Tiejer Fürggli"
-          }
-        ],
-        "videos": [],
-        "text": "Puh, geschafft. Auf der anderen Seite der fast 2700m hohen Tiejer Fürggli ging es deutlich flacher wieder bergab."
-      },
-      {
-        "photos": [
-          {
-            "name": "027",
-            "date": "2015-10-10T13:52:26.000+02:00",
-            "width": 1620,
-            "height": 1080,
-            "alt": "Maienfelder Furgga"
-          }
-        ],
-        "videos": [],
-        "text": "Schöner Weg zum Ausschreiten. Vor dem dunklen Berg ist die Schutzhütte auf der Maienfelder Furgga zu erkennen."
-      },
-      {
-        "photos": [
-          {
-            "name": "028",
-            "date": "2015-10-10T14:04:49.000+02:00",
-            "width": 1620,
-            "height": 1080,
-            "alt": "Blick zur Tiejer Fürggli"
-          }
-        ],
-        "videos": [],
-        "text": "Blick zurück zur Tiejer Fürggli."
-      },
-      {
-        "photos": [
-          {
-            "name": "029",
-            "date": "2015-10-10T14:09:22.000+02:00",
-            "width": 1620,
-            "height": 1080,
-            "alt": "See auf Maienfelder Furgga"
-          }
-        ],
-        "videos": [],
-        "text": "Ankunft auf der 2400m hohen Maienfelder Furgga. Schon seltsam, warum es auf Pässen so oft Seen gibt. Eigentlich gibt es dort ja immer zwei Möglichkeiten, wohin das Wasser abfließen könnte."
-      },
-      {
-        "photos": [
-          {
-            "name": "030",
-            "date": "2015-10-10T14:09:45.000+02:00",
-            "width": 1728,
-            "height": 1080,
-            "alt": "Wegweiser Maienfelder Furgga"
-          }
-        ],
-        "videos": [],
-        "text": "Wegweiser auf dem Pass. Wie man sieht zeitlich genau zwischen Davos und Arosa.<br />\nNun musste ich mich langsam aber auf den Rückweg machen, denn es war bereits 14:00."
-      },
-      {
-        "photos": [
-          {
-            "name": "031",
-            "date": "2015-10-10T14:42:01.000+02:00",
-            "width": 1920,
-            "height": 1008,
-            "alt": "Mountainbike Trail"
-          }
-        ],
-        "videos": [],
-        "text": "Der Weg führte nun das sehr flache Tal hinab. Der einzige, dem ich auf der ganzen Strecke begegnete, war natürlich wieder ein Radler."
-      },
-      {
-        "photos": [
-          {
-            "name": "032",
-            "date": "2015-10-10T14:43:03.000+02:00",
-            "width": 1822,
-            "height": 1080,
-            "alt": "Wanderweg vor Rinerhorn"
-          }
-        ],
-        "videos": [],
-        "text": "Blick hinüber zur anderen Talseite zum Skigebiet Rinerhorn. Deutlich zu erkennen waren die Trassen der Schlepplifte."
-      },
-      {
-        "photos": [
-          {
-            "name": "033",
-            "date": "2015-10-10T14:59:32.000+02:00",
-            "width": 1620,
-            "height": 1080,
-            "alt": "Pause im Gras"
-          }
-        ],
-        "videos": [],
-        "text": "Erschöpft legte ich mich ins warme Gras und genoss die rarer werdenden Sonnenstrahlen."
-      },
-      {
-        "photos": [
-          {
-            "name": "034",
-            "date": "2015-10-10T15:12:10.000+02:00",
-            "width": 1529,
-            "height": 1080,
-            "alt": "Bunter Bewuchs"
-          }
-        ],
-        "videos": [],
-        "text": "Zuviel Zeit konnte ich mir aber nicht lassen, also ging es weiter. Nach dem ein Bergrücken überquert war, ging es nun steiler bergab Richtung Stafelalp. Die herbstlichen Farben waren weiterhin beeindruckend."
-      },
-      {
-        "photos": [
-          {
-            "name": "035",
-            "date": "2015-10-10T15:37:26.000+02:00",
-            "width": 1918,
-            "height": 1080,
-            "alt": "Abstieg Stafelalp"
-          }
-        ],
-        "videos": [],
-        "text": "Baumgrenze erreicht. Der Blick zurück zum Bergrücken links, von dem ich hinunterkam."
-      },
-      {
-        "photos": [
-          {
-            "name": "036",
-            "date": "2015-10-10T15:43:21.000+02:00",
-            "width": 1920,
-            "height": 641,
-            "alt": "Stafelalp"
-          },
-          {
-            "name": "037",
-            "date": "2015-10-10T15:47:52.000+02:00",
-            "width": 1920,
-            "height": 895,
-            "alt": "Holzhäuser"
-          },
-          {
-            "name": "038",
-            "date": "2015-10-10T15:50:02.000+02:00",
-            "width": 1620,
-            "height": 1080,
-            "alt": "Alte Alp"
-          }
-        ],
-        "videos": [],
-        "text": "Ankunft um 15:45 auf der 1900m hohen Stafelalp. Ein schönes Ensemble alter Holzhäusern. Hier gäbe es auch ein kleines Restaurant, aber dafür hatte ich nicht mehr wirklich Zeit."
-      },
-      {
-        "photos": [
-          {
-            "name": "039",
-            "date": "2015-10-10T16:54:59.000+02:00",
-            "width": 1917,
-            "height": 1080,
-            "alt": "Davos"
-          }
-        ],
-        "videos": [],
-        "text": "Nach einem eher langweiligen, über einstündigem Abstieg teils auf Fahrstraße erreichte ich das 1500m hohe Davos Platz und um 17:20 schließlich das Auto."
-      },
-      {
-        "photos": [
-          {
-            "name": "track1",
-            "width": 1280,
-            "height": 409
-          },
-          {
-            "name": "track2",
-            "width": 1280,
-            "height": 655
-          }
-        ],
-        "videos": [],
-        "text": "Zurückgelegte Strecke. 1500m Auf- und 1800m Abstieg auf 24km in 8:15h."
-      }
-    ],
-    "outro": "Fazit: Die im Herbst sehr schönen Farben waren sehr beeindruckend. Dem Weg insgesamt fehlt es etwas an Highlights, ist aber immer aussichtsreich, einfach und gut zu gehen. Den (sehr weiten) Umweg über die Tiejer Fürggli und Maienfelder Furgga hätte ich mir lieber sparen sollen. So wurde es zu lang und die letzten Kilometer haben nicht mehr wirklich Spaß gemacht. Ich empfehle daher eher den Abstieg direkt vom Chörbschhorn zur Stafelalp."
-  }
-]
+    {
+      "photos": [
+        {
+          "name": "002",
+          "date": "2015-10-10T09:51:46.000+02:00",
+          "width": 1920,
+          "height": 996,
+          "alt": "Sesselbahn Schatzalp"
+        }
+      ],
+      "videos": [],
+      "text": "Ich wählte den Aufstieg zum Strelapass. Zu Begin unterquert man dafür die Zweier-Sesselbahn, die aber nicht in Betrieb war. Im Hintergrund das Nebelmeer über Davos und im Hintergrund die Seilbahn auf das Jakobshorn."
+    },
+    {
+      "photos": [
+        {
+          "name": "003",
+          "date": "2015-10-10T09:57:59.000+02:00",
+          "width": 1920,
+          "height": 994,
+          "alt": "Lärchen im Herbst"
+        },
+        {
+          "name": "004",
+          "date": "2015-10-10T10:01:39.000+02:00",
+          "width": 1825,
+          "height": 1080,
+          "alt": "Herbstfarben"
+        }
+      ],
+      "videos": [],
+      "text": "Da ich so lange im Nebelgrau unterwegs war, leuchteten die Herbstfarben in der Sonne gleich noch schöner. 😃"
+    },
+    {
+      "photos": [
+        {
+          "name": "005",
+          "date": "2015-10-10T10:09:00.000+02:00",
+          "width": 1620,
+          "height": 1080,
+          "alt": "Nebel über Davos"
+        },
+        {
+          "name": "006",
+          "date": "2015-10-10T10:10:00.000+02:00",
+          "width": 1620,
+          "height": 1080,
+          "alt": "Blick zum Jakobshorn"
+        }
+      ],
+      "videos": [],
+      "text": "Im Tal auch weiterhin der Nebel. Der Weg führte zügig nach oben und der Schweiß tropfte bereits."
+    },
+    {
+      "photos": [
+        {
+          "name": "007",
+          "date": "2015-10-10T10:15:16.000+02:00",
+          "width": 1620,
+          "height": 1080,
+          "alt": "Wanderweg im Herbst"
+        }
+      ],
+      "videos": [],
+      "text": "Farbenspiel."
+    },
+    {
+      "photos": [
+        {
+          "name": "008",
+          "date": "2015-10-10T10:38:02.000+02:00",
+          "width": 1920,
+          "height": 920,
+          "alt": "Pischahorn"
+        }
+      ],
+      "videos": [],
+      "text": "Tele und deutlich nachbearbeiteter Blick zum Pischa-Gebiet. Auf der anderen Talseite hatte es irgendwie deutlich mehr Neuschnee."
+    },
+    {
+      "photos": [
+        {
+          "name": "009",
+          "date": "2015-10-10T10:46:43.000+02:00",
+          "width": 1620,
+          "height": 1080,
+          "alt": "Restaurant Strelapass"
+        }
+      ],
+      "videos": [],
+      "text": "Nach einer Stunde Aufstieg Ankunft auf dem Strelapass. Auch hier total leer. Ich glaube aber, es war zumindest ein Gast auf der Terrasse."
+    },
+    {
+      "photos": [
+        {
+          "name": "010",
+          "date": "2015-10-10T10:49:17.000+02:00",
+          "width": 1580,
+          "height": 1080,
+          "alt": "Aussicht Strelapass"
+        }
+      ],
+      "videos": [],
+      "text": "Blick hinunter auf der anderen Seite Richtung Chur."
+    },
+    {
+      "photos": [
+        {
+          "name": "011",
+          "date": "2015-10-10T10:49:55.000+02:00",
+          "width": 1620,
+          "height": 1080,
+          "alt": "Weissfluh"
+        }
+      ],
+      "videos": [],
+      "text": "Und Richtung Weissfluhgipfel links und der stillgelegten Verbindungsbahn zum Parsenngebiet rechts."
+    },
+    {
+      "photos": [
+        {
+          "name": "012",
+          "date": "2015-10-10T10:50:11.000+02:00",
+          "width": 1746,
+          "height": 1080,
+          "alt": "Weissfluhjoch ohne Schnee"
+        }
+      ],
+      "videos": [],
+      "text": "Tele zum Weissfluhjoch. Nicht wirklich schön anzuschauen."
+    },
+    {
+      "photos": [
+        {
+          "name": "013",
+          "date": "2015-10-10T11:08:25.000+02:00",
+          "width": 1920,
+          "height": 862,
+          "alt": "Strelaberg"
+        }
+      ],
+      "videos": [],
+      "text": "Ich ging aber nicht in diese Richtung weiter, sondern statt dessen am Hang lang Richtung Süd/West. Schnell verließ ich dabei das nostalgische Skigebiet Schatzalp (andere würden Schrottplatz sagen)."
+    },
+    {
+      "photos": [
+        {
+          "name": "014",
+          "date": "2015-10-10T11:15:14.000+02:00",
+          "width": 1513,
+          "height": 1080,
+          "alt": "Strelasee"
+        },
+        {
+          "name": "015",
+          "date": "2015-10-10T11:16:02.000+02:00",
+          "width": 1920,
+          "height": 1076,
+          "alt": "Bergsee"
+        }
+      ],
+      "videos": [],
+      "text": "Schnell erreichte ich den Strelasee, der natürlich für die obligatorischen Bergsee-Fotos herhalten musste."
+    },
+    {
+      "photos": [
+        {
+          "name": "016",
+          "date": "2015-10-10T11:20:00.000+02:00",
+          "width": 1620,
+          "height": 1080,
+          "alt": "Höhenweg Strela"
+        },
+        {
+          "name": "017",
+          "date": "2015-10-10T11:24:06.000+02:00",
+          "width": 1782,
+          "height": 1080,
+          "alt": "Wanderweg Strela"
+        }
+      ],
+      "videos": [],
+      "text": "Und es ging weiter eben immer am Hang lang. Dabei überholten mich zwei/drei Mountainbiker, ansonsten total einsam."
+    },
+    {
+      "photos": [
+        {
+          "name": "018",
+          "date": "2015-10-10T11:27:32.000+02:00",
+          "width": 1620,
+          "height": 1080,
+          "alt": "Latschüelfurgga"
+        }
+      ],
+      "videos": [],
+      "text": "Hier im Bild ist bereits die Latschüelfurgga zu sehen, dich ich um 11:40 erreichte. Und keine Angst: es kommen noch seltsamere Ortsbezeichnungen, die ich hier nur per Copy/Pase erwähnen kann. 😉"
+    },
+    {
+      "photos": [
+        {
+          "name": "019",
+          "date": "2015-10-10T11:57:36.000+02:00",
+          "width": 1920,
+          "height": 703,
+          "alt": "Aufstieg Chörbschhorn"
+        }
+      ],
+      "videos": [],
+      "text": "Und schon vorbei an der Furgga (links) und ich befinde mich auf dem nicht sehr steilen Aufstieg zum Chörbschhorn. Der Nebel im Tal hatte sich inzwischen aufgelöst, dafür bildeten sich (jahreszeituntypisch) Quellwolken über den Bergen."
+    },
+    {
+      "photos": [
+        {
+          "name": "020",
+          "date": "2015-10-10T12:05:24.000+02:00",
+          "width": 1736,
+          "height": 1080,
+          "alt": "Chörbschhorn"
+        }
+      ],
+      "videos": [],
+      "text": "Ebenfalls beim Aufstieg erreichte ich den ersten Schnee."
+    },
+    {
+      "photos": [
+        {
+          "name": "021",
+          "date": "2015-10-10T12:07:36.000+02:00",
+          "width": 1920,
+          "height": 1020,
+          "alt": "Chörbschhornhütte"
+        }
+      ],
+      "videos": [],
+      "text": "Blick hinüber zur Chörbschhornhütte, einer kleinen Schutzhütte. Statt über den Gipfel kann man auch direkt dort hin, aber da es auf der Tour sonst keine Gipfel gab, musste der Umweg natürlich sein."
+    },
+    {
+      "photos": [
+        {
+          "name": "022",
+          "date": "2015-10-10T12:20:41.000+02:00",
+          "width": 1920,
+          "height": 837,
+          "alt": "Aussicht Chörbschhorn"
+        }
+      ],
+      "videos": [],
+      "text": "Auf dem 2600m hohen Gipfel der Blick nach Westen. Der Pass beim Schneefeld links (die Tiejer Fürggli) war mein nächstes Etappenziel."
+    },
+    {
+      "photos": [
+        {
+          "name": "023",
+          "date": "2015-10-10T12:21:05.000+02:00",
+          "width": 1920,
+          "height": 1043,
+          "alt": "Wegweiser Chörbschhorn"
+        }
+      ],
+      "videos": [],
+      "text": "Und Aussicht in die andere Richtung."
+    },
+    {
+      "photos": [
+        {
+          "name": "024",
+          "date": "2015-10-10T12:56:59.000+02:00",
+          "width": 1920,
+          "height": 1059,
+          "alt": "Schwifurgga"
+        }
+      ],
+      "videos": [],
+      "text": "Um den besagten Pass zu erreichen, musste ich zuerst die Schwifurgga überqueren, auf der ich mich nun befinde. Erstmals ist nun der Blick hinunter auf Arosa möglich."
+    },
+    {
+      "photos": [
+        {
+          "name": "025",
+          "date": "2015-10-10T13:29:19.000+02:00",
+          "width": 1620,
+          "height": 1080,
+          "alt": "Aufstieg Tiejer Fürggli"
+        }
+      ],
+      "videos": [],
+      "text": "Blick zurück zur Schwifurgga. Gemeinerweise musste man von dort 150 Höhenmeter steil absteigen, nur um sie gleich anschließend (ebenso steil) wieder hoch zu müssen. Hier habe ich aber bereits den halben Aufstieg geschafft, war mit meinen Kräften aber auch schon ziemlich am Limit."
+    },
+    {
+      "photos": [
+        {
+          "name": "026",
+          "date": "2015-10-10T13:45:54.000+02:00",
+          "width": 1920,
+          "height": 975,
+          "alt": "Wanderweg Tiejer Fürggli"
+        }
+      ],
+      "videos": [],
+      "text": "Puh, geschafft. Auf der anderen Seite der fast 2700m hohen Tiejer Fürggli ging es deutlich flacher wieder bergab."
+    },
+    {
+      "photos": [
+        {
+          "name": "027",
+          "date": "2015-10-10T13:52:26.000+02:00",
+          "width": 1620,
+          "height": 1080,
+          "alt": "Maienfelder Furgga"
+        }
+      ],
+      "videos": [],
+      "text": "Schöner Weg zum Ausschreiten. Vor dem dunklen Berg ist die Schutzhütte auf der Maienfelder Furgga zu erkennen."
+    },
+    {
+      "photos": [
+        {
+          "name": "028",
+          "date": "2015-10-10T14:04:49.000+02:00",
+          "width": 1620,
+          "height": 1080,
+          "alt": "Blick zur Tiejer Fürggli"
+        }
+      ],
+      "videos": [],
+      "text": "Blick zurück zur Tiejer Fürggli."
+    },
+    {
+      "photos": [
+        {
+          "name": "029",
+          "date": "2015-10-10T14:09:22.000+02:00",
+          "width": 1620,
+          "height": 1080,
+          "alt": "See auf Maienfelder Furgga"
+        }
+      ],
+      "videos": [],
+      "text": "Ankunft auf der 2400m hohen Maienfelder Furgga. Schon seltsam, warum es auf Pässen so oft Seen gibt. Eigentlich gibt es dort ja immer zwei Möglichkeiten, wohin das Wasser abfließen könnte."
+    },
+    {
+      "photos": [
+        {
+          "name": "030",
+          "date": "2015-10-10T14:09:45.000+02:00",
+          "width": 1728,
+          "height": 1080,
+          "alt": "Wegweiser Maienfelder Furgga"
+        }
+      ],
+      "videos": [],
+      "text": "Wegweiser auf dem Pass. Wie man sieht zeitlich genau zwischen Davos und Arosa.<br />\nNun musste ich mich langsam aber auf den Rückweg machen, denn es war bereits 14:00."
+    },
+    {
+      "photos": [
+        {
+          "name": "031",
+          "date": "2015-10-10T14:42:01.000+02:00",
+          "width": 1920,
+          "height": 1008,
+          "alt": "Mountainbike Trail"
+        }
+      ],
+      "videos": [],
+      "text": "Der Weg führte nun das sehr flache Tal hinab. Der einzige, dem ich auf der ganzen Strecke begegnete, war natürlich wieder ein Radler."
+    },
+    {
+      "photos": [
+        {
+          "name": "032",
+          "date": "2015-10-10T14:43:03.000+02:00",
+          "width": 1822,
+          "height": 1080,
+          "alt": "Wanderweg vor Rinerhorn"
+        }
+      ],
+      "videos": [],
+      "text": "Blick hinüber zur anderen Talseite zum Skigebiet Rinerhorn. Deutlich zu erkennen waren die Trassen der Schlepplifte."
+    },
+    {
+      "photos": [
+        {
+          "name": "033",
+          "date": "2015-10-10T14:59:32.000+02:00",
+          "width": 1620,
+          "height": 1080,
+          "alt": "Pause im Gras"
+        }
+      ],
+      "videos": [],
+      "text": "Erschöpft legte ich mich ins warme Gras und genoss die rarer werdenden Sonnenstrahlen."
+    },
+    {
+      "photos": [
+        {
+          "name": "034",
+          "date": "2015-10-10T15:12:10.000+02:00",
+          "width": 1529,
+          "height": 1080,
+          "alt": "Bunter Bewuchs"
+        }
+      ],
+      "videos": [],
+      "text": "Zuviel Zeit konnte ich mir aber nicht lassen, also ging es weiter. Nach dem ein Bergrücken überquert war, ging es nun steiler bergab Richtung Stafelalp. Die herbstlichen Farben waren weiterhin beeindruckend."
+    },
+    {
+      "photos": [
+        {
+          "name": "035",
+          "date": "2015-10-10T15:37:26.000+02:00",
+          "width": 1918,
+          "height": 1080,
+          "alt": "Abstieg Stafelalp"
+        }
+      ],
+      "videos": [],
+      "text": "Baumgrenze erreicht. Der Blick zurück zum Bergrücken links, von dem ich hinunterkam."
+    },
+    {
+      "photos": [
+        {
+          "name": "036",
+          "date": "2015-10-10T15:43:21.000+02:00",
+          "width": 1920,
+          "height": 641,
+          "alt": "Stafelalp"
+        },
+        {
+          "name": "037",
+          "date": "2015-10-10T15:47:52.000+02:00",
+          "width": 1920,
+          "height": 895,
+          "alt": "Holzhäuser"
+        },
+        {
+          "name": "038",
+          "date": "2015-10-10T15:50:02.000+02:00",
+          "width": 1620,
+          "height": 1080,
+          "alt": "Alte Alp"
+        }
+      ],
+      "videos": [],
+      "text": "Ankunft um 15:45 auf der 1900m hohen Stafelalp. Ein schönes Ensemble alter Holzhäusern. Hier gäbe es auch ein kleines Restaurant, aber dafür hatte ich nicht mehr wirklich Zeit."
+    },
+    {
+      "photos": [
+        {
+          "name": "039",
+          "date": "2015-10-10T16:54:59.000+02:00",
+          "width": 1917,
+          "height": 1080,
+          "alt": "Davos"
+        }
+      ],
+      "videos": [],
+      "text": "Nach einem eher langweiligen, über einstündigem Abstieg teils auf Fahrstraße erreichte ich das 1500m hohe Davos Platz und um 17:20 schließlich das Auto."
+    },
+    {
+      "photos": [
+        {
+          "name": "track1",
+          "width": 1280,
+          "height": 409
+        },
+        {
+          "name": "track2",
+          "width": 1280,
+          "height": 655
+        }
+      ],
+      "videos": [],
+      "text": "Zurückgelegte Strecke. 1500m Auf- und 1800m Abstieg auf 24km in 8:15h."
+    }
+  ],
+  "outro": "Fazit: Die im Herbst sehr schönen Farben waren sehr beeindruckend. Dem Weg insgesamt fehlt es etwas an Highlights, ist aber immer aussichtsreich, einfach und gut zu gehen. Den (sehr weiten) Umweg über die Tiejer Fürggli und Maienfelder Furgga hätte ich mir lieber sparen sollen. So wurde es zu lang und die letzten Kilometer haben nicht mehr wirklich Spaß gemacht. Ich empfehle daher eher den Abstieg direkt vom Chörbschhorn zur Stafelalp."
+}

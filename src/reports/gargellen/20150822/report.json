@@ -1,618 +1,616 @@
-[
-  {
-    "destination": "gargellen",
-    "date": "d20150822",
-    "type": "hike",
-    "track": true,
-    "shortTitle": "Madrisa Rundtour",
-    "title": "Gargellen - Madrisa-Rundtour",
-    "title3d": {
-      "offsetY": 0,
-      "fontSize": 8,
-      "align": "center",
-      "width": 1920,
-      "height": 483
+{
+  "destination": "gargellen",
+  "date": "d20150822",
+  "type": "hike",
+  "track": true,
+  "shortTitle": "Madrisa Rundtour",
+  "title": "Gargellen - Madrisa-Rundtour",
+  "title3d": {
+    "offsetY": 0,
+    "fontSize": 8,
+    "align": "center",
+    "width": 1920,
+    "height": 483
+  },
+  "movie": "8wlkANKIwuE",
+  "intro": "Schon lange auf meiner Liste für Wanderungen steht die recht bekannte <a href=\"https://touren.montafon.at/de/tour/wanderung/madrisa-rundtour-zweitaegig-auf-den-spuren-der-schmuggler/6877160/\" onclick=\"this.target='_blank';\">Madrisa-Rundtour</a>. Um die an einem Tag zu schaffen, startet man am besten von der Bergstation der Gondelbahn von Gargellen.<br />\nAls ich um 8:30 am Parkplatz der Bahn ankam, war ich erst mal verblüfft: Parkplatz schon halb voll, Wartezeit an den Kassen und eine lange Schlange vor den Gondeln. Als ich aber schließlich um 9:00 an der Bergstation ankam stellte sich zum Glück heraus, dass fast alle nur zum Bergfrühstück nach oben fuhren und kaum jemand sich auf den Wanderweg begab.",
+  "landmarks": [
+    {
+      "photos": [
+        {
+          "name": "001",
+          "date": "2015-08-22T09:09:35.000+02:00",
+          "width": 1914,
+          "height": 1080,
+          "alt": "Bergstation Gargellen"
+        }
+      ],
+      "videos": [],
+      "text": "Blick zurück auf das erste Stück Weg und die Bergstation auf 2100m."
     },
-    "movie": "8wlkANKIwuE",
-    "intro": "Schon lange auf meiner Liste für Wanderungen steht die recht bekannte <a href=\"https://touren.montafon.at/de/tour/wanderung/madrisa-rundtour-zweitaegig-auf-den-spuren-der-schmuggler/6877160/\" onclick=\"this.target='_blank';\">Madrisa-Rundtour</a>. Um die an einem Tag zu schaffen, startet man am besten von der Bergstation der Gondelbahn von Gargellen.<br />\nAls ich um 8:30 am Parkplatz der Bahn ankam, war ich erst mal verblüfft: Parkplatz schon halb voll, Wartezeit an den Kassen und eine lange Schlange vor den Gondeln. Als ich aber schließlich um 9:00 an der Bergstation ankam stellte sich zum Glück heraus, dass fast alle nur zum Bergfrühstück nach oben fuhren und kaum jemand sich auf den Wanderweg begab.",
-    "landmarks": [
-      {
-        "photos": [
-          {
-            "name": "001",
-            "date": "2015-08-22T09:09:35.000+02:00",
-            "width": 1914,
-            "height": 1080,
-            "alt": "Bergstation Gargellen"
-          }
-        ],
-        "videos": [],
-        "text": "Blick zurück auf das erste Stück Weg und die Bergstation auf 2100m."
-      },
-      {
-        "photos": [
-          {
-            "name": "002",
-            "date": "2015-08-22T09:13:08.000+02:00",
-            "width": 1909,
-            "height": 1080,
-            "alt": "Wanderweg Gargellen Gafierjoch"
-          }
-        ],
-        "videos": [],
-        "text": "Und dieser Pass dort ist das erste Etappenziel: das Gafierjoch auf 2400m."
-      },
-      {
-        "photos": [
-          {
-            "name": "003",
-            "date": "2015-08-22T09:36:26.000+02:00",
-            "width": 1800,
-            "height": 1080,
-            "alt": "Speichersee Gargellen"
-          }
-        ],
-        "videos": [],
-        "text": "Vorbei ging es an einem fast leeren Speichersee für das Skigebiet Gargellen. Nur bis zu diesem See ging es auf einem Fahrweg, ab dort dann auf normalem Wanderweg."
-      },
-      {
-        "photos": [
-          {
-            "name": "004",
-            "date": "2015-08-22T09:51:15.000+02:00",
-            "width": 1920,
-            "height": 782,
-            "alt": "Gafierjoch St. Antönien"
-          }
-        ],
-        "videos": [],
-        "text": "Nach einer knappen Stunde Aufstieg erreichte ich den Pass. Dieser stellt auch gleichzeitig die Grenze zur Schweiz da. Der (steile) Blick hinab auf der anderen Seite geht Richtung St. Antönien. Gleichzeitig mit mir kamen von dort die ersten zwei Wanderer an."
-      },
-      {
-        "photos": [
-          {
-            "name": "005",
-            "date": "2015-08-22T09:53:29.000+02:00",
-            "width": 1920,
-            "height": 1012,
-            "alt": "Rätschenflue"
-          }
-        ],
-        "videos": [],
-        "text": "Der Blick etwas nach links geschwenkt zeigt die auffällige Rätschenfluh: das nächste Ziel."
-      },
-      {
-        "photos": [
-          {
-            "name": "006",
-            "date": "2015-08-22T09:55:58.000+02:00",
-            "width": 1620,
-            "height": 1080,
-            "alt": "Wegweiser Gafier Joch"
-          }
-        ],
-        "videos": [],
-        "text": "Davor aber noch eine kleine Pause mit Blick zurück Richtung Gargellen."
-      },
-      {
-        "photos": [
-          {
-            "name": "007",
-            "date": "2015-08-22T10:13:01.000+02:00",
-            "width": 1620,
-            "height": 1080,
-            "alt": "Abstieg Gafier Joch"
-          }
-        ],
-        "videos": [],
-        "text": "Bevor aber die nächsten Wanderer am Pass ankamen, ging ich lieber weiter. Dabei geht es sehr steil bergab zum unteren Ende des markanten Kalkfelsens."
-      },
-      {
-        "photos": [
-          {
-            "name": "008",
-            "date": "2015-08-22T10:18:40.000+02:00",
-            "width": 1920,
-            "height": 1040,
-            "alt": "Steiler Wegabschnitt"
-          }
-        ],
-        "videos": [],
-        "text": "Puh, Blick zurück auf den Abstieg. Sieht hier recht harmlos aus, ich fand ihn aber ziemlich steil, schmal und wenig gesichert. Außerdem war der schottrige Untergrund recht rutschig."
-      },
-      {
-        "photos": [
-          {
-            "name": "009",
-            "date": "2015-08-22T10:19:56.000+02:00",
-            "width": 1743,
-            "height": 1080,
-            "alt": "Murmeltier"
-          }
-        ],
-        "videos": [],
-        "text": "Dann ging es aber deutlich angenehmer weiter. Da ich der erste an dem Tag beim Aufstieg war, scheuchte ich mehrere Murmeltiere auf. Die waren leider aber nicht besonders scharf darauf, fotografiert zu werden. 😉"
-      },
-      {
-        "photos": [
-          {
-            "name": "011",
-            "date": "2015-08-22T10:31:31.000+02:00",
-            "width": 1620,
-            "height": 1080,
-            "alt": "Bergblumenwiese"
-          }
-        ],
-        "videos": [],
-        "text": "Beim nicht allzu steilen Aufstieg."
-      },
-      {
-        "photos": [
-          {
-            "name": "012",
-            "date": "2015-08-22T10:49:50.000+02:00",
-            "width": 1620,
-            "height": 1080,
-            "alt": "Kalkfelsen"
-          }
-        ],
-        "videos": [],
-        "text": "Der Weg führte immer genau an der Grenze zwischen schwarz-braunem Geröll und weißem Kalkfelsen hinauf. Der schönste Abschnitt der ganzen Tour."
-      },
-      {
-        "photos": [
-          {
-            "name": "014",
-            "date": "2015-08-22T10:53:18.000+02:00",
-            "width": 1643,
-            "height": 1080,
-            "alt": "Steinlabyrinth"
-          }
-        ],
-        "videos": [],
-        "text": "Die Wiesen entlang des Felsen hatten Wanderer mit diversen Kunstwerken und Stein-Graffitis verschönert."
-      },
-      {
-        "photos": [
-          {
-            "name": "015",
-            "date": "2015-08-22T10:57:12.000+02:00",
-            "width": 1620,
-            "height": 1080,
-            "alt": "Madrisa"
-          }
-        ],
-        "videos": [],
-        "text": "Blick zurück. Der hohe Berg ist die eigentliche Madrisa, um die die gesamte Wanderung herum führt."
-      },
-      {
-        "photos": [
-          {
-            "name": "016",
-            "date": "2015-08-22T11:08:25.000+02:00",
-            "width": 1548,
-            "height": 1080,
-            "alt": "Aufstieg Rätschenhorn"
-          }
-        ],
-        "videos": [],
-        "text": "Dann geht der Weg endlich doch direkt auf den Kalkfelsen zu... wo genau er hoch führt, konnte man aber nicht erkennen.<br />\nDer Aufstieg auf das Rätschenhorn gehört eigentlich nicht zur Rundtour, aber die 100m Extraaufstieg nahm ich in Kauf."
-      },
-      {
-        "photos": [
-          {
-            "name": "017",
-            "date": "2015-08-22T11:09:31.000+02:00",
-            "width": 1920,
-            "height": 836,
-            "alt": "Erosionen im Kalkstein"
-          }
-        ],
-        "videos": [],
-        "text": "Nur spärliche Erosion im Kalk."
-      },
-      {
-        "photos": [
-          {
-            "name": "018",
-            "date": "2015-08-22T11:15:35.000+02:00",
-            "width": 1620,
-            "height": 1080,
-            "alt": "Weg durch Kalkfelsen"
-          }
-        ],
-        "videos": [],
-        "text": "Und hier kann man zumindest die Wegzeichen erkennen. Der Aufstieg war zwar nicht besonders schwer, aber man musste zum Teil die Hände zur Hilfe nehmen."
-      },
-      {
-        "photos": [
-          {
-            "name": "019",
-            "date": "2015-08-22T11:20:54.000+02:00",
-            "width": 1920,
-            "height": 498,
-            "alt": "Gipfelplateau Rätschenhorn"
-          }
-        ],
-        "videos": [],
-        "text": "Kurz vor dem Gipfel ist es dann sehr flach und erinnert an eine Mondlandschaft."
-      },
-      {
-        "photos": [
-          {
-            "name": "020",
-            "date": "2015-08-22T11:33:30.000+02:00",
-            "width": 1920,
-            "height": 1079,
-            "alt": "Aussicht Rätschenhorn mit Segelflugzeug"
-          }
-        ],
-        "videos": [],
-        "text": "Den 2700m hohen Gipfel um 11:30 erreicht. 😃<br />\nAuf der anderen Seite fällt der Berg rund 500m senkrecht ab... ganz an die Kante habe ich mich nicht getraut.<br />\nDer ins Foto geflogene Segelflieger steuerte übrigens genau auf den Felsen zu, um dann knapp zwischen ihnen hindurch zu gleiten."
-      },
-      {
-        "photos": [
-          {
-            "name": "021",
-            "date": "2015-08-22T11:35:15.000+02:00",
-            "width": 1920,
-            "height": 765,
-            "alt": "Abbruchkante"
-          }
-        ],
-        "videos": [],
-        "text": "Blick etwas mehr nach rechts, nach Norden/Westen."
-      },
-      {
-        "photos": [
-          {
-            "name": "022",
-            "date": "2015-08-22T11:37:11.000+02:00",
-            "width": 1920,
-            "height": 662,
-            "alt": "Gipfel Rätschenhorn"
-          }
-        ],
-        "videos": [],
-        "text": "Hier kann man noch mal gut erkennen, wie flach der Gipfel oben ist."
-      },
-      {
-        "photos": [
-          {
-            "name": "023",
-            "date": "2015-08-22T11:39:12.000+02:00",
-            "width": 1920,
-            "height": 1020,
-            "alt": "Panorama Rätschenhorn"
-          }
-        ],
-        "videos": [],
-        "text": "Und die Aussicht nach Norden. Hinten ist die Sulzfluh zu entdecken. Auch nicht all zu weit entfernt und aus der gleichen Gesteinsschicht aufgebaut."
-      },
-      {
-        "photos": [
-          {
-            "name": "024",
-            "date": "2015-08-22T11:44:53.000+02:00",
-            "width": 1920,
-            "height": 678,
-            "alt": "Madrisahorn"
-          }
-        ],
-        "videos": [],
-        "text": "Nach einer Pause ging ich auf dem selben Weg wieder nach unten. In der Mitte des Bilds das 2800m hohe Madrisahorn."
-      },
-      {
-        "photos": [
-          {
-            "name": "025",
-            "date": "2015-08-22T11:59:50.000+02:00",
-            "width": 1920,
-            "height": 689,
-            "alt": "Rätschenjoch"
-          }
-        ],
-        "videos": [],
-        "text": "Nun bin ich wieder auf der offiziellen Rundtour, genauer gesagt auf dem 2600m hohen Rätschenjoch. Hinten das gerade eben bestiegene Rätschenhorn."
-      },
-      {
-        "photos": [
-          {
-            "name": "026",
-            "date": "2015-08-22T12:01:47.000+02:00",
-            "width": 1620,
-            "height": 1080,
-            "alt": "Wanderweg Rätschenjoch"
-          }
-        ],
-        "videos": [],
-        "text": "Und so ging der Weg weiter. Allerdings nicht auf dem Grat, sondern rechts abbiegend zu dem kleinen schwarzen Haus, welches die Bergstation des Schlepplifts Madrisa ist - der höchste Punkt des Skigebiets Klosters-Madrisa."
-      },
-      {
-        "photos": [
-          {
-            "name": "027",
-            "date": "2015-08-22T12:04:23.000+02:00",
-            "width": 1920,
-            "height": 1033,
-            "alt": "Rätschenfluh"
-          }
-        ],
-        "videos": [],
-        "text": "Letzter Blick zurück auf die Rätschenfluh. Rechts hinten ist der Pass, über den ich von Gargellen hinüberkam."
-      },
-      {
-        "photos": [
-          {
-            "name": "028",
-            "date": "2015-08-22T12:12:27.000+02:00",
-            "width": 1620,
-            "height": 1080,
-            "alt": "Parsenn"
-          }
-        ],
-        "videos": [],
-        "text": "Und Aussicht in die andere Richtung. Auf der anderen Seite des Tals ist der Weissfluhgipfel des Skigebiets Davos-Parsenn zu sehen."
-      },
-      {
-        "photos": [
-          {
-            "name": "030",
-            "date": "2015-08-22T12:23:21.000+02:00",
-            "width": 1873,
-            "height": 1080,
-            "alt": "Silvrettagletscher"
-          }
-        ],
-        "videos": [],
-        "text": "Blick von der Bergstation des Schlepplifts nach Süd/Osten zum Silvrettagletscher. Ansonsten nicht mehr viel Schnee zu entdecken."
-      },
-      {
-        "photos": [
-          {
-            "name": "031",
-            "date": "2015-08-22T12:35:34.000+02:00",
-            "width": 1620,
-            "height": 1080,
-            "alt": "Blauer Eisenhut"
-          }
-        ],
-        "videos": [],
-        "text": "Anschließend ging es über Geröll und Wiesen entlang des Schlepplifts rund 500 Höhenmeter bergab."
-      },
-      {
-        "photos": [
-          {
-            "name": "032",
-            "date": "2015-08-22T12:35:54.000+02:00",
-            "width": 1899,
-            "height": 1080,
-            "alt": "Schafcalanda"
-          }
-        ],
-        "videos": [],
-        "text": "Insgesamt war es nun sehr einsam. Und da ich irgendwie den Hauptweg verpasste war ich viel mit der Suche nach verblassten Wegzeichen beschäftigt."
-      },
-      {
-        "photos": [
-          {
-            "name": "033",
-            "date": "2015-08-22T12:38:33.000+02:00",
-            "width": 1829,
-            "height": 1080,
-            "alt": "Pilz"
-          },
-          {
-            "name": "034",
-            "date": "2015-08-22T12:43:01.000+02:00",
-            "width": 1779,
-            "height": 1080,
-            "alt": "Eisenhut vor Fels"
-          }
-        ],
-        "videos": [],
-        "text": "Dabei gab's aber auch noch ein paar Fotomotive zu entdecken. 😃"
-      },
-      {
-        "photos": [
-          {
-            "name": "035",
-            "date": "2015-08-22T12:47:01.000+02:00",
-            "width": 1920,
-            "height": 721,
-            "alt": "Wanderung Madrisa"
-          }
-        ],
-        "videos": [],
-        "text": "Blick zurück auf den Abstieg."
-      },
-      {
-        "photos": [
-          {
-            "name": "036",
-            "date": "2015-08-22T13:17:05.000+02:00",
-            "width": 1620,
-            "height": 1080,
-            "alt": "Kleiner Bergbach"
-          },
-          {
-            "name": "037",
-            "date": "2015-08-22T13:19:06.000+02:00",
-            "width": 1920,
-            "height": 1060,
-            "alt": "Schlappintal"
-          }
-        ],
-        "videos": [],
-        "text": "Dann führte der Pfad sehr schön an einem kleinen Bach weiter. So ziemlich das erste fließende Gewässer an diesem Tag und damit eine Erfrischung wert."
-      },
-      {
-        "photos": [
-          {
-            "name": "038",
-            "date": "2015-08-22T13:27:47.000+02:00",
-            "width": 1742,
-            "height": 1080,
-            "alt": "Kleine Bäche"
-          }
-        ],
-        "videos": [],
-        "text": "Dann fand ich auch endlich den Hauptweg wieder. War aber kein größeres Problem, da die Landschaft einfach ist und ich wusste, dass der Hauptweg den Hang queren würde."
-      },
-      {
-        "photos": [
-          {
-            "name": "039",
-            "date": "2015-08-22T13:49:12.000+02:00",
-            "width": 1620,
-            "height": 1080,
-            "alt": "Hangweg Schlappiner Joch"
-          }
-        ],
-        "videos": [],
-        "text": "Nach diesem Abstieg führte der Weg nun aussichtsreich am Hang entlang."
-      },
-      {
-        "photos": [
-          {
-            "name": "040",
-            "date": "2015-08-22T14:23:00.000+02:00",
-            "width": 1620,
-            "height": 1080,
-            "alt": "Blick nach Davos"
-          }
-        ],
-        "videos": [],
-        "text": "Bis ich schließlich nach wieder 100m Aufstieg das 2200m hohe Schlappiner Joch erreichte. Blick hier nach Süden nach Davos und in der Sonne funkelnd die Gotschnagrat-Bahn von Klosters."
-      },
-      {
-        "photos": [
-          {
-            "name": "041",
-            "date": "2015-08-22T14:23:30.000+02:00",
-            "width": 1620,
-            "height": 1080,
-            "alt": "Blick nach Gargellen"
-          }
-        ],
-        "videos": [],
-        "text": "Und da dieser Pass wieder genau auf der Grenze liegt, kann man in der anderen Richtung nach Gargellen schauen.<br />\nDa es nun schon 14:30 war und die Quellwolken die wärmende Sonne verdeckten, machte ich nur eine kurze Pause und begann den Abstieg ins Valzifenz."
-      },
-      {
-        "photos": [
-          {
-            "name": "042",
-            "date": "2015-08-22T14:35:04.000+02:00",
-            "width": 1920,
-            "height": 1076,
-            "alt": "Wanderweg Schlappiner Joch"
-          }
-        ],
-        "videos": [],
-        "text": "Der Weg führte dabei steil über unzählige Serpentinen bergab. Insgesamt sind so 400 Höhenmeter zu bewältigen."
-      },
-      {
-        "photos": [
-          {
-            "name": "043",
-            "date": "2015-08-22T14:36:44.000+02:00",
-            "width": 1920,
-            "height": 925,
-            "alt": "Bergmassiv Madrisa"
-          }
-        ],
-        "videos": [],
-        "text": "Linker Hand ist wieder die Madrisa zu sehen, diesmal von der anderen Seite."
-      },
-      {
-        "photos": [
-          {
-            "name": "044",
-            "date": "2015-08-22T14:51:04.000+02:00",
-            "width": 1920,
-            "height": 856,
-            "alt": "Wanderweg durch hohe Büsche"
-          }
-        ],
-        "videos": [],
-        "text": "Am Schluss führt der Weg durch hohes Buschwerk, trotzdem schön."
-      },
-      {
-        "photos": [
-          {
-            "name": "045",
-            "date": "2015-08-22T15:13:32.000+02:00",
-            "width": 1523,
-            "height": 1080,
-            "alt": "Valzifenzbach"
-          }
-        ],
-        "videos": [],
-        "text": "Ankunft am Talboden. Blick zurück zum Schlappiner Joch. Am Bach säuberte ich erst mal meine Bergschuhe, verpackte sie im Rucksack und stieg auf Sandalen um."
-      },
-      {
-        "photos": [
-          {
-            "name": "046",
-            "date": "2015-08-22T15:21:53.000+02:00",
-            "width": 1789,
-            "height": 1080,
-            "alt": "Kuhherde"
-          },
-          {
-            "name": "047",
-            "date": "2015-08-22T15:31:26.000+02:00",
-            "width": 1770,
-            "height": 1080,
-            "alt": "Spazierweg Valzifenztal"
-          }
-        ],
-        "videos": [],
-        "text": "Nun führte der Weg nämlich ein Stück auf einem asphaltierten Fahrweg entlang. Nach einer langen Tour durch's Geröll nicht unbedingt unangenehm. 😉"
-      },
-      {
-        "photos": [
-          {
-            "name": "048",
-            "date": "2015-08-22T15:54:18.000+02:00",
-            "width": 1620,
-            "height": 1080,
-            "alt": "Wanderung Gargellen"
-          }
-        ],
-        "videos": [],
-        "text": "Die letzten 30min dann aber doch wieder uriger direkt am Bach. Nun aber schon im Einzugsgebiet von Gargellen und damit waren auch ein paar andere unterwegs."
-      },
-      {
-        "photos": [
-          {
-            "name": "049",
-            "date": "2015-08-22T16:06:12.000+02:00",
-            "width": 1620,
-            "height": 1080,
-            "alt": "Gargellen"
-          }
-        ],
-        "videos": [],
-        "text": "Schließlich erreichte ich die ersten Häuser von Gargellen und 10min später auch das Auto gegen 16:30."
-      },
-      {
-        "photos": [
-          {
-            "name": "track1",
-            "width": 1280,
-            "height": 655
-          },
-          {
-            "name": "track2",
-            "width": 1280,
-            "height": 324
-          }
-        ],
-        "videos": [],
-        "text": "Zurückgelegte Strecke. 8h war ich unterwegs, davon knappe 7h reine Gehzeit. Dabei 900m Aufstieg und 1600m Abstieg."
-      }
-    ],
-    "outro": "Fazit: Schöne längere Tour, aber durch die Bahnfahrt zu Beginn gut machbar. Die Landschaft ist sehr abwechslungsreich und der Weg überraschend wenig begangen. Den Abstecher aufs Rätschenhorn würde ich auf jeden Fall empfehlen."
-  }
-]
+    {
+      "photos": [
+        {
+          "name": "002",
+          "date": "2015-08-22T09:13:08.000+02:00",
+          "width": 1909,
+          "height": 1080,
+          "alt": "Wanderweg Gargellen Gafierjoch"
+        }
+      ],
+      "videos": [],
+      "text": "Und dieser Pass dort ist das erste Etappenziel: das Gafierjoch auf 2400m."
+    },
+    {
+      "photos": [
+        {
+          "name": "003",
+          "date": "2015-08-22T09:36:26.000+02:00",
+          "width": 1800,
+          "height": 1080,
+          "alt": "Speichersee Gargellen"
+        }
+      ],
+      "videos": [],
+      "text": "Vorbei ging es an einem fast leeren Speichersee für das Skigebiet Gargellen. Nur bis zu diesem See ging es auf einem Fahrweg, ab dort dann auf normalem Wanderweg."
+    },
+    {
+      "photos": [
+        {
+          "name": "004",
+          "date": "2015-08-22T09:51:15.000+02:00",
+          "width": 1920,
+          "height": 782,
+          "alt": "Gafierjoch St. Antönien"
+        }
+      ],
+      "videos": [],
+      "text": "Nach einer knappen Stunde Aufstieg erreichte ich den Pass. Dieser stellt auch gleichzeitig die Grenze zur Schweiz da. Der (steile) Blick hinab auf der anderen Seite geht Richtung St. Antönien. Gleichzeitig mit mir kamen von dort die ersten zwei Wanderer an."
+    },
+    {
+      "photos": [
+        {
+          "name": "005",
+          "date": "2015-08-22T09:53:29.000+02:00",
+          "width": 1920,
+          "height": 1012,
+          "alt": "Rätschenflue"
+        }
+      ],
+      "videos": [],
+      "text": "Der Blick etwas nach links geschwenkt zeigt die auffällige Rätschenfluh: das nächste Ziel."
+    },
+    {
+      "photos": [
+        {
+          "name": "006",
+          "date": "2015-08-22T09:55:58.000+02:00",
+          "width": 1620,
+          "height": 1080,
+          "alt": "Wegweiser Gafier Joch"
+        }
+      ],
+      "videos": [],
+      "text": "Davor aber noch eine kleine Pause mit Blick zurück Richtung Gargellen."
+    },
+    {
+      "photos": [
+        {
+          "name": "007",
+          "date": "2015-08-22T10:13:01.000+02:00",
+          "width": 1620,
+          "height": 1080,
+          "alt": "Abstieg Gafier Joch"
+        }
+      ],
+      "videos": [],
+      "text": "Bevor aber die nächsten Wanderer am Pass ankamen, ging ich lieber weiter. Dabei geht es sehr steil bergab zum unteren Ende des markanten Kalkfelsens."
+    },
+    {
+      "photos": [
+        {
+          "name": "008",
+          "date": "2015-08-22T10:18:40.000+02:00",
+          "width": 1920,
+          "height": 1040,
+          "alt": "Steiler Wegabschnitt"
+        }
+      ],
+      "videos": [],
+      "text": "Puh, Blick zurück auf den Abstieg. Sieht hier recht harmlos aus, ich fand ihn aber ziemlich steil, schmal und wenig gesichert. Außerdem war der schottrige Untergrund recht rutschig."
+    },
+    {
+      "photos": [
+        {
+          "name": "009",
+          "date": "2015-08-22T10:19:56.000+02:00",
+          "width": 1743,
+          "height": 1080,
+          "alt": "Murmeltier"
+        }
+      ],
+      "videos": [],
+      "text": "Dann ging es aber deutlich angenehmer weiter. Da ich der erste an dem Tag beim Aufstieg war, scheuchte ich mehrere Murmeltiere auf. Die waren leider aber nicht besonders scharf darauf, fotografiert zu werden. 😉"
+    },
+    {
+      "photos": [
+        {
+          "name": "011",
+          "date": "2015-08-22T10:31:31.000+02:00",
+          "width": 1620,
+          "height": 1080,
+          "alt": "Bergblumenwiese"
+        }
+      ],
+      "videos": [],
+      "text": "Beim nicht allzu steilen Aufstieg."
+    },
+    {
+      "photos": [
+        {
+          "name": "012",
+          "date": "2015-08-22T10:49:50.000+02:00",
+          "width": 1620,
+          "height": 1080,
+          "alt": "Kalkfelsen"
+        }
+      ],
+      "videos": [],
+      "text": "Der Weg führte immer genau an der Grenze zwischen schwarz-braunem Geröll und weißem Kalkfelsen hinauf. Der schönste Abschnitt der ganzen Tour."
+    },
+    {
+      "photos": [
+        {
+          "name": "014",
+          "date": "2015-08-22T10:53:18.000+02:00",
+          "width": 1643,
+          "height": 1080,
+          "alt": "Steinlabyrinth"
+        }
+      ],
+      "videos": [],
+      "text": "Die Wiesen entlang des Felsen hatten Wanderer mit diversen Kunstwerken und Stein-Graffitis verschönert."
+    },
+    {
+      "photos": [
+        {
+          "name": "015",
+          "date": "2015-08-22T10:57:12.000+02:00",
+          "width": 1620,
+          "height": 1080,
+          "alt": "Madrisa"
+        }
+      ],
+      "videos": [],
+      "text": "Blick zurück. Der hohe Berg ist die eigentliche Madrisa, um die die gesamte Wanderung herum führt."
+    },
+    {
+      "photos": [
+        {
+          "name": "016",
+          "date": "2015-08-22T11:08:25.000+02:00",
+          "width": 1548,
+          "height": 1080,
+          "alt": "Aufstieg Rätschenhorn"
+        }
+      ],
+      "videos": [],
+      "text": "Dann geht der Weg endlich doch direkt auf den Kalkfelsen zu... wo genau er hoch führt, konnte man aber nicht erkennen.<br />\nDer Aufstieg auf das Rätschenhorn gehört eigentlich nicht zur Rundtour, aber die 100m Extraaufstieg nahm ich in Kauf."
+    },
+    {
+      "photos": [
+        {
+          "name": "017",
+          "date": "2015-08-22T11:09:31.000+02:00",
+          "width": 1920,
+          "height": 836,
+          "alt": "Erosionen im Kalkstein"
+        }
+      ],
+      "videos": [],
+      "text": "Nur spärliche Erosion im Kalk."
+    },
+    {
+      "photos": [
+        {
+          "name": "018",
+          "date": "2015-08-22T11:15:35.000+02:00",
+          "width": 1620,
+          "height": 1080,
+          "alt": "Weg durch Kalkfelsen"
+        }
+      ],
+      "videos": [],
+      "text": "Und hier kann man zumindest die Wegzeichen erkennen. Der Aufstieg war zwar nicht besonders schwer, aber man musste zum Teil die Hände zur Hilfe nehmen."
+    },
+    {
+      "photos": [
+        {
+          "name": "019",
+          "date": "2015-08-22T11:20:54.000+02:00",
+          "width": 1920,
+          "height": 498,
+          "alt": "Gipfelplateau Rätschenhorn"
+        }
+      ],
+      "videos": [],
+      "text": "Kurz vor dem Gipfel ist es dann sehr flach und erinnert an eine Mondlandschaft."
+    },
+    {
+      "photos": [
+        {
+          "name": "020",
+          "date": "2015-08-22T11:33:30.000+02:00",
+          "width": 1920,
+          "height": 1079,
+          "alt": "Aussicht Rätschenhorn mit Segelflugzeug"
+        }
+      ],
+      "videos": [],
+      "text": "Den 2700m hohen Gipfel um 11:30 erreicht. 😃<br />\nAuf der anderen Seite fällt der Berg rund 500m senkrecht ab... ganz an die Kante habe ich mich nicht getraut.<br />\nDer ins Foto geflogene Segelflieger steuerte übrigens genau auf den Felsen zu, um dann knapp zwischen ihnen hindurch zu gleiten."
+    },
+    {
+      "photos": [
+        {
+          "name": "021",
+          "date": "2015-08-22T11:35:15.000+02:00",
+          "width": 1920,
+          "height": 765,
+          "alt": "Abbruchkante"
+        }
+      ],
+      "videos": [],
+      "text": "Blick etwas mehr nach rechts, nach Norden/Westen."
+    },
+    {
+      "photos": [
+        {
+          "name": "022",
+          "date": "2015-08-22T11:37:11.000+02:00",
+          "width": 1920,
+          "height": 662,
+          "alt": "Gipfel Rätschenhorn"
+        }
+      ],
+      "videos": [],
+      "text": "Hier kann man noch mal gut erkennen, wie flach der Gipfel oben ist."
+    },
+    {
+      "photos": [
+        {
+          "name": "023",
+          "date": "2015-08-22T11:39:12.000+02:00",
+          "width": 1920,
+          "height": 1020,
+          "alt": "Panorama Rätschenhorn"
+        }
+      ],
+      "videos": [],
+      "text": "Und die Aussicht nach Norden. Hinten ist die Sulzfluh zu entdecken. Auch nicht all zu weit entfernt und aus der gleichen Gesteinsschicht aufgebaut."
+    },
+    {
+      "photos": [
+        {
+          "name": "024",
+          "date": "2015-08-22T11:44:53.000+02:00",
+          "width": 1920,
+          "height": 678,
+          "alt": "Madrisahorn"
+        }
+      ],
+      "videos": [],
+      "text": "Nach einer Pause ging ich auf dem selben Weg wieder nach unten. In der Mitte des Bilds das 2800m hohe Madrisahorn."
+    },
+    {
+      "photos": [
+        {
+          "name": "025",
+          "date": "2015-08-22T11:59:50.000+02:00",
+          "width": 1920,
+          "height": 689,
+          "alt": "Rätschenjoch"
+        }
+      ],
+      "videos": [],
+      "text": "Nun bin ich wieder auf der offiziellen Rundtour, genauer gesagt auf dem 2600m hohen Rätschenjoch. Hinten das gerade eben bestiegene Rätschenhorn."
+    },
+    {
+      "photos": [
+        {
+          "name": "026",
+          "date": "2015-08-22T12:01:47.000+02:00",
+          "width": 1620,
+          "height": 1080,
+          "alt": "Wanderweg Rätschenjoch"
+        }
+      ],
+      "videos": [],
+      "text": "Und so ging der Weg weiter. Allerdings nicht auf dem Grat, sondern rechts abbiegend zu dem kleinen schwarzen Haus, welches die Bergstation des Schlepplifts Madrisa ist - der höchste Punkt des Skigebiets Klosters-Madrisa."
+    },
+    {
+      "photos": [
+        {
+          "name": "027",
+          "date": "2015-08-22T12:04:23.000+02:00",
+          "width": 1920,
+          "height": 1033,
+          "alt": "Rätschenfluh"
+        }
+      ],
+      "videos": [],
+      "text": "Letzter Blick zurück auf die Rätschenfluh. Rechts hinten ist der Pass, über den ich von Gargellen hinüberkam."
+    },
+    {
+      "photos": [
+        {
+          "name": "028",
+          "date": "2015-08-22T12:12:27.000+02:00",
+          "width": 1620,
+          "height": 1080,
+          "alt": "Parsenn"
+        }
+      ],
+      "videos": [],
+      "text": "Und Aussicht in die andere Richtung. Auf der anderen Seite des Tals ist der Weissfluhgipfel des Skigebiets Davos-Parsenn zu sehen."
+    },
+    {
+      "photos": [
+        {
+          "name": "030",
+          "date": "2015-08-22T12:23:21.000+02:00",
+          "width": 1873,
+          "height": 1080,
+          "alt": "Silvrettagletscher"
+        }
+      ],
+      "videos": [],
+      "text": "Blick von der Bergstation des Schlepplifts nach Süd/Osten zum Silvrettagletscher. Ansonsten nicht mehr viel Schnee zu entdecken."
+    },
+    {
+      "photos": [
+        {
+          "name": "031",
+          "date": "2015-08-22T12:35:34.000+02:00",
+          "width": 1620,
+          "height": 1080,
+          "alt": "Blauer Eisenhut"
+        }
+      ],
+      "videos": [],
+      "text": "Anschließend ging es über Geröll und Wiesen entlang des Schlepplifts rund 500 Höhenmeter bergab."
+    },
+    {
+      "photos": [
+        {
+          "name": "032",
+          "date": "2015-08-22T12:35:54.000+02:00",
+          "width": 1899,
+          "height": 1080,
+          "alt": "Schafcalanda"
+        }
+      ],
+      "videos": [],
+      "text": "Insgesamt war es nun sehr einsam. Und da ich irgendwie den Hauptweg verpasste war ich viel mit der Suche nach verblassten Wegzeichen beschäftigt."
+    },
+    {
+      "photos": [
+        {
+          "name": "033",
+          "date": "2015-08-22T12:38:33.000+02:00",
+          "width": 1829,
+          "height": 1080,
+          "alt": "Pilz"
+        },
+        {
+          "name": "034",
+          "date": "2015-08-22T12:43:01.000+02:00",
+          "width": 1779,
+          "height": 1080,
+          "alt": "Eisenhut vor Fels"
+        }
+      ],
+      "videos": [],
+      "text": "Dabei gab's aber auch noch ein paar Fotomotive zu entdecken. 😃"
+    },
+    {
+      "photos": [
+        {
+          "name": "035",
+          "date": "2015-08-22T12:47:01.000+02:00",
+          "width": 1920,
+          "height": 721,
+          "alt": "Wanderung Madrisa"
+        }
+      ],
+      "videos": [],
+      "text": "Blick zurück auf den Abstieg."
+    },
+    {
+      "photos": [
+        {
+          "name": "036",
+          "date": "2015-08-22T13:17:05.000+02:00",
+          "width": 1620,
+          "height": 1080,
+          "alt": "Kleiner Bergbach"
+        },
+        {
+          "name": "037",
+          "date": "2015-08-22T13:19:06.000+02:00",
+          "width": 1920,
+          "height": 1060,
+          "alt": "Schlappintal"
+        }
+      ],
+      "videos": [],
+      "text": "Dann führte der Pfad sehr schön an einem kleinen Bach weiter. So ziemlich das erste fließende Gewässer an diesem Tag und damit eine Erfrischung wert."
+    },
+    {
+      "photos": [
+        {
+          "name": "038",
+          "date": "2015-08-22T13:27:47.000+02:00",
+          "width": 1742,
+          "height": 1080,
+          "alt": "Kleine Bäche"
+        }
+      ],
+      "videos": [],
+      "text": "Dann fand ich auch endlich den Hauptweg wieder. War aber kein größeres Problem, da die Landschaft einfach ist und ich wusste, dass der Hauptweg den Hang queren würde."
+    },
+    {
+      "photos": [
+        {
+          "name": "039",
+          "date": "2015-08-22T13:49:12.000+02:00",
+          "width": 1620,
+          "height": 1080,
+          "alt": "Hangweg Schlappiner Joch"
+        }
+      ],
+      "videos": [],
+      "text": "Nach diesem Abstieg führte der Weg nun aussichtsreich am Hang entlang."
+    },
+    {
+      "photos": [
+        {
+          "name": "040",
+          "date": "2015-08-22T14:23:00.000+02:00",
+          "width": 1620,
+          "height": 1080,
+          "alt": "Blick nach Davos"
+        }
+      ],
+      "videos": [],
+      "text": "Bis ich schließlich nach wieder 100m Aufstieg das 2200m hohe Schlappiner Joch erreichte. Blick hier nach Süden nach Davos und in der Sonne funkelnd die Gotschnagrat-Bahn von Klosters."
+    },
+    {
+      "photos": [
+        {
+          "name": "041",
+          "date": "2015-08-22T14:23:30.000+02:00",
+          "width": 1620,
+          "height": 1080,
+          "alt": "Blick nach Gargellen"
+        }
+      ],
+      "videos": [],
+      "text": "Und da dieser Pass wieder genau auf der Grenze liegt, kann man in der anderen Richtung nach Gargellen schauen.<br />\nDa es nun schon 14:30 war und die Quellwolken die wärmende Sonne verdeckten, machte ich nur eine kurze Pause und begann den Abstieg ins Valzifenz."
+    },
+    {
+      "photos": [
+        {
+          "name": "042",
+          "date": "2015-08-22T14:35:04.000+02:00",
+          "width": 1920,
+          "height": 1076,
+          "alt": "Wanderweg Schlappiner Joch"
+        }
+      ],
+      "videos": [],
+      "text": "Der Weg führte dabei steil über unzählige Serpentinen bergab. Insgesamt sind so 400 Höhenmeter zu bewältigen."
+    },
+    {
+      "photos": [
+        {
+          "name": "043",
+          "date": "2015-08-22T14:36:44.000+02:00",
+          "width": 1920,
+          "height": 925,
+          "alt": "Bergmassiv Madrisa"
+        }
+      ],
+      "videos": [],
+      "text": "Linker Hand ist wieder die Madrisa zu sehen, diesmal von der anderen Seite."
+    },
+    {
+      "photos": [
+        {
+          "name": "044",
+          "date": "2015-08-22T14:51:04.000+02:00",
+          "width": 1920,
+          "height": 856,
+          "alt": "Wanderweg durch hohe Büsche"
+        }
+      ],
+      "videos": [],
+      "text": "Am Schluss führt der Weg durch hohes Buschwerk, trotzdem schön."
+    },
+    {
+      "photos": [
+        {
+          "name": "045",
+          "date": "2015-08-22T15:13:32.000+02:00",
+          "width": 1523,
+          "height": 1080,
+          "alt": "Valzifenzbach"
+        }
+      ],
+      "videos": [],
+      "text": "Ankunft am Talboden. Blick zurück zum Schlappiner Joch. Am Bach säuberte ich erst mal meine Bergschuhe, verpackte sie im Rucksack und stieg auf Sandalen um."
+    },
+    {
+      "photos": [
+        {
+          "name": "046",
+          "date": "2015-08-22T15:21:53.000+02:00",
+          "width": 1789,
+          "height": 1080,
+          "alt": "Kuhherde"
+        },
+        {
+          "name": "047",
+          "date": "2015-08-22T15:31:26.000+02:00",
+          "width": 1770,
+          "height": 1080,
+          "alt": "Spazierweg Valzifenztal"
+        }
+      ],
+      "videos": [],
+      "text": "Nun führte der Weg nämlich ein Stück auf einem asphaltierten Fahrweg entlang. Nach einer langen Tour durch's Geröll nicht unbedingt unangenehm. 😉"
+    },
+    {
+      "photos": [
+        {
+          "name": "048",
+          "date": "2015-08-22T15:54:18.000+02:00",
+          "width": 1620,
+          "height": 1080,
+          "alt": "Wanderung Gargellen"
+        }
+      ],
+      "videos": [],
+      "text": "Die letzten 30min dann aber doch wieder uriger direkt am Bach. Nun aber schon im Einzugsgebiet von Gargellen und damit waren auch ein paar andere unterwegs."
+    },
+    {
+      "photos": [
+        {
+          "name": "049",
+          "date": "2015-08-22T16:06:12.000+02:00",
+          "width": 1620,
+          "height": 1080,
+          "alt": "Gargellen"
+        }
+      ],
+      "videos": [],
+      "text": "Schließlich erreichte ich die ersten Häuser von Gargellen und 10min später auch das Auto gegen 16:30."
+    },
+    {
+      "photos": [
+        {
+          "name": "track1",
+          "width": 1280,
+          "height": 655
+        },
+        {
+          "name": "track2",
+          "width": 1280,
+          "height": 324
+        }
+      ],
+      "videos": [],
+      "text": "Zurückgelegte Strecke. 8h war ich unterwegs, davon knappe 7h reine Gehzeit. Dabei 900m Aufstieg und 1600m Abstieg."
+    }
+  ],
+  "outro": "Fazit: Schöne längere Tour, aber durch die Bahnfahrt zu Beginn gut machbar. Die Landschaft ist sehr abwechslungsreich und der Weg überraschend wenig begangen. Den Abstecher aufs Rätschenhorn würde ich auf jeden Fall empfehlen."
+}

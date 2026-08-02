@@ -43,8 +43,7 @@ const processReport = (destination, report) => {
   const reportPath = destination + '/' + report + '/';
   const photosPath = '../public/photos/' + reportPath;
   const file = '../src/reports/' + reportPath + 'report.json';
-  const json = jsonfile.readFileSync(file);
-  const reportJson = json[0];
+  const reportJson = jsonfile.readFileSync(file);
 
   if (reportJson.title3d && (!reportJson.title3d.width || !reportJson.title3d.height)) {
     const size = sizeOf(photosPath + 'title.jpg');

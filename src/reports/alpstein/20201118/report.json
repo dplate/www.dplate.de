@@ -1,791 +1,789 @@
-[
-  {
-    "destination": "alpstein",
-    "date": "d20201118",
-    "datePublished": "2020-11-19T12:00:00+01:00",
-    "dateModified": "2026-03-29T18:00:00+01:00",
-    "type": "hike",
-    "track": true,
-    "timeShift": 60,
-    "detailMap": "swiss",
-    "shortTitle": "Schäfler",
-    "title": "Schäfler - Seealpsee",
-    "title3d": {
-      "offsetY": 4,
-      "fontSize": 7,
-      "align": "left",
-      "width": 1920,
-      "height": 503
+{
+  "destination": "alpstein",
+  "date": "d20201118",
+  "datePublished": "2020-11-19T12:00:00+01:00",
+  "dateModified": "2026-03-29T18:00:00+01:00",
+  "type": "hike",
+  "track": true,
+  "timeShift": 60,
+  "detailMap": "swiss",
+  "shortTitle": "Schäfler",
+  "title": "Schäfler - Seealpsee",
+  "title3d": {
+    "offsetY": 4,
+    "fontSize": 7,
+    "align": "left",
+    "width": 1920,
+    "height": 503
+  },
+  "movie": "4TUsWAdBj7c",
+  "intro": "An einem Mittwoch wollte ich noch einmal das überaus schöne Novemberwetter nutzen. Da die Nordhänge inzwischen weit hinab weiß waren, suchte ich mir eine nicht zu hohe Wanderung mit Südhängen raus. Meine Wahl viel von Wasserauen auf den Schäfler, Abstieg zum Seealpsee und dann zurück nach Wasserauen. Diese schöne Gegend ist sehr bekannt und an Wochenenden etwas überlaufen, aber werktags und Mitte November sollte es nicht sehr voll sein.",
+  "landmarks": [
+    {
+      "photos": [
+        {
+          "name": "001",
+          "alt": "Gefrorenes Gras",
+          "date": "2020-11-18T07:58:40.000+01:00",
+          "width": 1920,
+          "height": 1203
+        }
+      ],
+      "videos": [],
+      "text": "Mein Auto stellte ich bei sehr frostigen Temperaturen um 7:45 auf dem kostenpflichtigen Parkplatz in Wasserauen ab. Die Seilbahn zur Ebenalp fuhr erst ab 9:00, aber ich hatte ohnehin den direkten Aufstieg zu Fuß vor.<br />Hier bin ich bereits beim Einstieg in den Waldhang."
     },
-    "movie": "4TUsWAdBj7c",
-    "intro": "An einem Mittwoch wollte ich noch einmal das überaus schöne Novemberwetter nutzen. Da die Nordhänge inzwischen weit hinab weiß waren, suchte ich mir eine nicht zu hohe Wanderung mit Südhängen raus. Meine Wahl viel von Wasserauen auf den Schäfler, Abstieg zum Seealpsee und dann zurück nach Wasserauen. Diese schöne Gegend ist sehr bekannt und an Wochenenden etwas überlaufen, aber werktags und Mitte November sollte es nicht sehr voll sein.",
-    "landmarks": [
-      {
-        "photos": [
-          {
-            "name": "001",
-            "alt": "Gefrorenes Gras",
-            "date": "2020-11-18T07:58:40.000+01:00",
-            "width": 1920,
-            "height": 1203
-          }
-        ],
-        "videos": [],
-        "text": "Mein Auto stellte ich bei sehr frostigen Temperaturen um 7:45 auf dem kostenpflichtigen Parkplatz in Wasserauen ab. Die Seilbahn zur Ebenalp fuhr erst ab 9:00, aber ich hatte ohnehin den direkten Aufstieg zu Fuß vor.<br />Hier bin ich bereits beim Einstieg in den Waldhang."
-      },
-      {
-        "photos": [
-          {
-            "name": "002",
-            "alt": "Wanderweg im Wald",
-            "date": "2020-11-18T08:16:31.000+01:00",
-            "width": 1920,
-            "height": 2585
-          }
-        ],
-        "videos": [],
-        "text": "Wenig interessant ging es nun in einigen Serpentinen rund 300 Höhenmeter im Wald hinauf. Der Weg ist einfach, aber zum Teil durch die Steine und den lehmigen Grund rutschig."
-      },
-      {
-        "photos": [
-          {
-            "name": "003",
-            "alt": "Wanderung Wasserauen Ebenalp",
-            "date": "2020-11-18T08:30:41.000+01:00",
-            "width": 1920,
-            "height": 1235
-          },
-          {
-            "name": "004",
-            "alt": "Bommen",
-            "date": "2020-11-18T08:38:56.000+01:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Nach dem Aufstieg durch den Wald erreichte ich die Alp Bommen auf 1200m. Auf dem Fels darüber konnte ich nun bereits die Bergstation der Ebenalp in der Sonne sehen. Bei mir war es leider immer noch schattig."
-      },
-      {
-        "photos": [
-          {
-            "name": "005",
-            "alt": "Wanderung Appenzeller Land",
-            "date": "2020-11-18T08:41:30.000+01:00",
-            "width": 1920,
-            "height": 633
-          }
-        ],
-        "videos": [],
-        "text": "Während der Überquerung der Alpwiesen der Blick ins Flachland Richtung Appenzell. Auch dort bereits alles sonnig."
-      },
-      {
-        "photos": [
-          {
-            "name": "006",
-            "alt": "Wandern am Morgen",
-            "date": "2020-11-18T08:53:11.000+01:00",
-            "width": 1920,
-            "height": 2477
-          }
-        ],
-        "videos": [],
-        "text": "Beim Aufstieg zur Felswand lief aber nun auch ich aus dem Schatten heraus und es wurde gleich deutlich wärmer."
-      },
-      {
-        "photos": [
-          {
-            "name": "007",
-            "alt": "Seilbahn Ebenalp",
-            "date": "2020-11-18T09:02:52.000+01:00",
-            "width": 1920,
-            "height": 1144
-          }
-        ],
-        "videos": [],
-        "text": "Pünktlich um 9:00 überholte mich dann die erste und vollbesetzte Bahn auf die Ebenalp. Im Hintergrund der Nebel im Rheintal."
-      },
-      {
-        "photos": [
-          {
-            "name": "008",
-            "alt": "Wanderweg Äscher",
-            "date": "2020-11-18T09:05:12.000+01:00",
-            "width": 1920,
-            "height": 2477
-          }
-        ],
-        "videos": [],
-        "text": "Kurz danach erreichte ich die erste Attraktion des Tages - das kleine Gasthaus Äscher, das unter einer überhängenden Felswand errichtet wurde."
-      },
-      {
-        "photos": [
-          {
-            "name": "009",
-            "alt": "Wanderung Ebenalp Äscher",
-            "date": "2020-11-18T09:06:09.000+01:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Am Gasthaus hielt ich mich nicht auf und ging gleich den sehr gut ausgebauten Weg durch die Felswand zur Ebenalp weiter."
-      },
-      {
-        "photos": [
-          {
-            "name": "010",
-            "alt": "Gasthaus Äscher",
-            "date": "2020-11-18T09:06:34.000+01:00",
-            "width": 1920,
-            "height": 2432
-          },
-          {
-            "name": "011",
-            "alt": "Alpstein Äscher",
-            "date": "2020-11-18T09:06:53.000+01:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Das Gasthaus Äscher noch zweimal vom Standardblick aus. So leer kann man das nur fotografieren, wenn man vor den ersten Seilbahnfahrgästen dort ist. Außerdem wird es auch nur morgens so günstig von der Sonne beschienen."
-      },
-      {
-        "photos": [
-          {
-            "name": "012",
-            "alt": "Felsenweg Äscher",
-            "date": "2020-11-18T09:08:19.000+01:00",
-            "width": 1920,
-            "height": 1280
-          },
-          {
-            "name": "013",
-            "alt": "Wildkirchli",
-            "date": "2020-11-18T09:09:18.000+01:00",
-            "width": 1920,
-            "height": 1274
-          },
-          {
-            "name": "014",
-            "alt": "Ebenalp Höhle",
-            "date": "2020-11-18T09:12:35.000+01:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Toll ging der Weg dann weiter durch die Felswand, vorbei am Wildkirchli zu einem Höhleneingang. Durch die Höhle ging es dann rauf zur Ebenalp. Hier der Blick aus der Höhle raus zum <a href='/alpine/alpstein/20131019' target='_blank'>Hohen Kasten</a>, links ist ein kleines Museum über die prähistorischen Funde in der Höhle."
-      },
-      {
-        "photos": [
-          {
-            "name": "015",
-            "alt": "Fänerenspitz",
-            "date": "2020-11-18T09:15:59.000+01:00",
-            "width": 1920,
-            "height": 1280
-          },
-          {
-            "name": "016",
-            "alt": "Panorama Ebenalp",
-            "date": "2020-11-18T09:20:26.000+01:00",
-            "width": 1920,
-            "height": 697
-          },
-          {
-            "name": "017",
-            "alt": "Wanderweg Ebenalp Äscher",
-            "date": "2020-11-18T09:24:00.000+01:00",
-            "width": 1920,
-            "height": 1173
-          }
-        ],
-        "videos": [],
-        "text": "Ankunft auf der Ebenalp. Jeweils der Blick zurück ins Tal.<br />Inzwischen war ich 1 Stunde und 40 Minuten unterwegs, also Zeit für eine erste Pause in der warmen Sonne. Hier kamen mir dann auch die ersten Fahrgäste entgegen, die zum Äscher eilten."
-      },
-      {
-        "photos": [
-          {
-            "name": "018",
-            "alt": "Aussicht Ebenalp",
-            "date": "2020-11-18T09:32:21.000+01:00",
-            "width": 1920,
-            "height": 1189
-          }
-        ],
-        "videos": [],
-        "text": "Blick von der leeren Terrasse des Restaurants Ebenalp. Ganz hinten ist der schneebedeckte Altmann zu sehen. Rechts mein nächstes Ziel, der Schäfler und unten links im Schatten mein übernächstes Ziel, der Seealpsee."
-      },
-      {
-        "photos": [
-          {
-            "name": "019",
-            "alt": "Schäfler und Säntis",
-            "date": "2020-11-18T09:34:12.000+01:00",
-            "width": 1920,
-            "height": 1280
-          },
-          {
-            "name": "020",
-            "alt": "Wanderweg Ebenalp Schäfler",
-            "date": "2020-11-18T09:34:28.000+01:00",
-            "width": 1920,
-            "height": 799
-          },
-          {
-            "name": "021",
-            "alt": "Schneebedeckter Wanderweg mit Säntis",
-            "date": "2020-11-18T09:49:27.000+01:00",
-            "width": 1920,
-            "height": 2880
-          }
-        ],
-        "videos": [],
-        "text": "Zuerst führte der Weg entlang des Bergrückens wenig ansteigend Richtung Schäfler. Dabei auch zum Teil auf der schneebedeckten Nordseite.<br />Beim letzten Bild ist der <a href='/alpine/alpstein/20160911' target='_blank'>Säntis</a> zu sehen, den ich schon mal (ohne Schnee) von der Ebenalp aus bestiegen hatte."
-      },
-      {
-        "photos": [
-          {
-            "name": "022",
-            "alt": "Skilift Ebenalp",
-            "date": "2020-11-18T10:04:14.000+01:00",
-            "width": 1920,
-            "height": 775
-          },
-          {
-            "name": "023",
-            "alt": "Nebelmeer Rheintal",
-            "date": "2020-11-18T10:04:36.000+01:00",
-            "width": 1920,
-            "height": 635
-          }
-        ],
-        "videos": [],
-        "text": "Nun hatte ich den Hang des Schäflers erreicht. Blick zurück Richtung Ebenalp und Rheintal. Im Talkessel ist die Bergstation einer der Skilifte der Ebenalp zu sehen."
-      },
-      {
-        "photos": [
-          {
-            "name": "025",
-            "alt": "Bergweg Schäfler",
-            "date": "2020-11-18T10:12:27.000+01:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Gut ausgebaut und ungefährlich geht der Weg den Grashang des Schäflers hinauf. Von der Ebenalp aus ist es eine kleine Wanderung - für jeden geeignet der Treppen gehen kann."
-      },
-      {
-        "photos": [
-          {
-            "name": "026",
-            "alt": "Kronberg",
-            "date": "2020-11-18T10:15:45.000+01:00",
-            "width": 1920,
-            "height": 850
-          }
-        ],
-        "videos": [],
-        "text": "Nachdem ich den Grat des Schäflers erreicht hatte, konnte ich auf der steilen Rückseite hinuntersehen. Hier ist der benachbarte <a href='/alpine/alpstein/20190801' target='_blank'>Kronberg</a> zu sehen. Und ganz weit hinten sogar der Schwarzwald mit dem <a href='/alpine/schwarzwald/20180321' target='_blank'>Feldberg</a>. Wieder mal beste Fernsicht an diesem Tag."
-      },
-      {
-        "photos": [
-          {
-            "name": "027",
-            "alt": "Alphütte auf Felsen",
-            "date": "2020-11-18T10:19:05.000+01:00",
-            "width": 1920,
-            "height": 1131
-          }
-        ],
-        "videos": [],
-        "text": "Blick zurück zur Alp Chlus, an der ich links vorbeikam. Der hier sichtbare Weg unterhalb des Felsen wird später relevant werden."
-      },
-      {
-        "photos": [
-          {
-            "name": "028",
-            "alt": "Gipfelkreuz Schäfler",
-            "date": "2020-11-18T10:23:31.000+01:00",
-            "width": 1920,
-            "height": 919
-          },
-          {
-            "name": "029",
-            "alt": "Panorama Schäfler",
-            "date": "2020-11-18T10:24:17.000+01:00",
-            "width": 1920,
-            "height": 682
-          }
-        ],
-        "videos": [],
-        "text": "Ankunft am Gipfelkreuz des Schäflers um 10:30 auf 1900m. Das Kreuz steht allerdings nicht auf dem höchsten Punkt, sondern auf einem Buckel nebenan."
-      },
-      {
-        "photos": [
-          {
-            "name": "030",
-            "alt": "Wanderung Schäfler",
-            "date": "2020-11-18T10:29:53.000+01:00",
-            "width": 1920,
-            "height": 744
-          },
-          {
-            "name": "031",
-            "alt": "Schäfler Säntis",
-            "date": "2020-11-18T10:30:08.000+01:00",
-            "width": 1920,
-            "height": 2328
-          }
-        ],
-        "videos": [],
-        "text": "Vom richtigen Gipfel des Schäflers hat man einen tollen Blick über den scharfkantigen Grat zum Säntis. Links unterhalb des Grats kann man den Bergweg vom Schäfler Richtung Säntis und Mesmer sehen... den hatte ich eigentlich geplant zu gehen."
-      },
-      {
-        "photos": [
-          {
-            "name": "032",
-            "alt": "Gasthaus Schäfler",
-            "date": "2020-11-18T10:33:40.000+01:00",
-            "width": 1920,
-            "height": 991
-          }
-        ],
-        "videos": [],
-        "text": "Blick zurück zum Gasthaus Schäfler, das nicht mehr geöffnet hatte. Ich versuchte dann auf dem Gipfel eine Pause zu machen, aber der Boden war doch etwas zu feucht."
-      },
-      {
-        "photos": [
-          {
-            "name": "033",
-            "alt": "Alpstein",
-            "date": "2020-11-18T10:34:26.000+01:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Deshalb noch einmal ein Foto zum Säntis mit den spektakulären Formen des Alpsteins. Von diesem Blick kann ich nicht genug bekommen. :)"
-      },
-      {
-        "photos": [
-          {
-            "name": "034",
-            "alt": "Gefährlicher Weg Schäfler",
-            "date": "2020-11-18T10:36:33.000+01:00",
-            "width": 1920,
-            "height": 1163
-          }
-        ],
-        "videos": [],
-        "text": "Und hier nun der Grund, warum ich nicht den eigentlich geplanten Weg weitergegangen bin. Das erste Stück vom Schäfler geht der Wanderweg leider auf der Nordseite um den Gipfel herum. Das dort Schnee sein würde, war mir schon vorher bewusst geworden - aber leider waren auch die Drahtseile für den Winter abmontiert worden. Schweren Herzens siegte die Vernunft und ich entschied, hier nicht weiterzugehen. <span data-silent>Wer sich für diesen weiteren Weg interessiert, wird in meinen alten Berichten von der</span> <a href='/alpine/alpstein/20140622#drahtseil-am-sch%C3%A4fler_033' target='_blank'><span data-silent>Umrundung des Seealpsees</span></a> <span data-silent>und von der</span> <a href='/alpine/alpstein/20160911#bergweg-mit-drahtseil-an-abgrund_009' target='_blank'><span data-silent>Wanderung von der Ebenalp zum Säntis</span></a> <span data-silent>fündig.</span>"
-      },
-      {
-        "photos": [
-          {
-            "name": "035",
-            "alt": "Wanderweg Schäfler",
-            "date": "2020-11-18T10:53:05.000+01:00",
-            "width": 1920,
-            "height": 736
-          }
-        ],
-        "videos": [],
-        "text": "Nach einer Pause auf der trockenen Bank des Gasthaus Schäfler ging ich nun also den gleichen Weg zurück bis zur Alp Chlus. Hier schon rechts unten zu sehen. Dort zweigte ich aber dann von meinem Hinweg ab und ging den Weg unterhalb der Felsen weiter."
-      },
-      {
-        "photos": [
-          {
-            "name": "036",
-            "alt": "Wanderung Schäfler Äscher",
-            "date": "2020-11-18T11:13:52.000+01:00",
-            "width": 1920,
-            "height": 2880
-          },
-          {
-            "name": "037",
-            "alt": "Wanderung Wasserauen",
-            "date": "2020-11-18T11:15:48.000+01:00",
-            "width": 1920,
-            "height": 1350
-          }
-        ],
-        "videos": [],
-        "text": "Diesen alternativen Weg vom Schäfler zurück Richtung Äscher war ich noch nie gegangen und ich fand ihn wunderbar. Er führt immer direkt unterhalb der Felswand entlang. Schon war die Enttäuschung über meinen Abbruch der ursprünglichen Wanderung am Schäfler verflogen. :)"
-      },
-      {
-        "photos": [
-          {
-            "name": "038",
-            "alt": "Wanderung Alpstein",
-            "date": "2020-11-18T11:18:01.000+01:00",
-            "width": 1920,
-            "height": 1280
-          },
-          {
-            "name": "039",
-            "alt": "Weg an Felswand",
-            "date": "2020-11-18T11:19:40.000+01:00",
-            "width": 1920,
-            "height": 1280
-          },
-          {
-            "name": "040",
-            "alt": "Ebenalp Säntis",
-            "date": "2020-11-18T11:23:16.000+01:00",
-            "width": 1920,
-            "height": 1280
-          },
-          {
-            "name": "041",
-            "alt": "Felswand",
-            "date": "2020-11-18T11:29:00.000+01:00",
-            "width": 1920,
-            "height": 2880
-          }
-        ],
-        "videos": [],
-        "text": "Noch mehr Fotos von diesem tollen Weg-Abschnitt. Den werde ich sicher in Zukunft noch einmal laufen.<br />Die Sonne knallte nun voll auf diese Felswand und den Grashang unterhalb und es war richtig heiß, so dass ich trotz Abstieg schwitzte... und das Mitte November..."
-      },
-      {
-        "photos": [
-          {
-            "name": "042",
-            "alt": "Herbstweg mit Sonnenschein",
-            "date": "2020-11-18T11:40:33.000+01:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Dieser Weg geht eigentlich weiter bis zum Äscher, aber ich bog vorher scharf rechts Richtung Altenalp/Mesmer ab, also praktisch wieder zurück."
-      },
-      {
-        "photos": [
-          {
-            "name": "043",
-            "alt": "Meglisalp Altmann",
-            "date": "2020-11-18T11:53:05.000+01:00",
-            "width": 1920,
-            "height": 1230
-          }
-        ],
-        "videos": [],
-        "text": "Tele zum Altmann und darunter die Meglisalp. Diese schöne Siedlung erreicht um diese Jahreszeit anscheinend keine Sonne mehr, da sollte man also besser im Sommer hinwandern."
-      },
-      {
-        "photos": [
-          {
-            "name": "044",
-            "alt": "Steile Alpwiese",
-            "date": "2020-11-18T12:17:54.000+01:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Bei mir gab es dagegen Sonne satt und es ging über diese steile Wiese der Alp Weesen (hier der Blick zurück). Der Weg ist dabei nicht gefährlich, aber auch nicht sehr breit."
-      },
-      {
-        "photos": [
-          {
-            "name": "045",
-            "alt": "Wanderweg Altenalp",
-            "date": "2020-11-18T12:19:40.000+01:00",
-            "width": 1920,
-            "height": 1280
-          },
-          {
-            "name": "046",
-            "alt": "Altenalptürme",
-            "date": "2020-11-18T12:19:50.000+01:00",
-            "width": 1920,
-            "height": 2880
-          },
-          {
-            "name": "047",
-            "alt": "Altenalp",
-            "date": "2020-11-18T12:32:53.000+01:00",
-            "width": 1920,
-            "height": 1270
-          }
-        ],
-        "videos": [],
-        "text": "Dann folgte ein kleiner Aufstieg (sogar mit einer Serpentine). Dabei ging es nun immer auf die eindrucksvollen Altenalptürme zu, bis ich die Hütten der Altenalp erreicht hatte.<br />Zeit für eine längere Pause und die tolle Landschaft dort zu genießen. Inzwischen war es 12:30."
-      },
-      {
-        "photos": [
-          {
-            "name": "048",
-            "alt": "Bergwald im Herbst",
-            "date": "2020-11-18T13:00:55.000+01:00",
-            "width": 1920,
-            "height": 1391
-          }
-        ],
-        "videos": [],
-        "text": "Von der Altenalp stieg ich nun zum Seealpsee ab. Erst relativ flach über die Wiesen, dann aber schon deutlich steiler in diesem Wald."
-      },
-      {
-        "photos": [
-          {
-            "name": "049",
-            "alt": "Wanderweg Seealpsee Altenalp",
-            "date": "2020-11-18T13:07:56.000+01:00",
-            "width": 1920,
-            "height": 2341
-          },
-          {
-            "name": "050",
-            "alt": "Schwierigkeit Altenalp",
-            "date": "2020-11-18T13:12:45.000+01:00",
-            "width": 1920,
-            "height": 1709
-          }
-        ],
-        "videos": [],
-        "text": "Und dann noch mal steiler in einigen Serpentinen hier hinunter. Hier war der Weg aber immer sehr gut mit Drahtseil abgesichert, was auch notwendig war."
-      },
-      {
-        "photos": [
-          {
-            "name": "051",
-            "alt": "Picknick Seealpsee",
-            "date": "2020-11-18T13:21:11.000+01:00",
-            "width": 1920,
-            "height": 1107
-          }
-        ],
-        "videos": [],
-        "text": "Puh, geschafft. Nach 400m Abstieg von der Altenalp erreichte ich die flachen Wiesen am Seealpsee. Dort picknickten einige Familien am Hang, da der Rest des Tals im Schatten lag."
-      },
-      {
-        "photos": [
-          {
-            "name": "052",
-            "alt": "Steiler Weg Altenalp",
-            "date": "2020-11-18T13:22:40.000+01:00",
-            "width": 1920,
-            "height": 2472
-          }
-        ],
-        "videos": [],
-        "text": "Blick zurück zum Hang, in dem der Weg hinunter ging."
-      },
-      {
-        "photos": [
-          {
-            "name": "053",
-            "alt": "Spazierweg Seealpsee",
-            "date": "2020-11-18T13:24:56.000+01:00",
-            "width": 1920,
-            "height": 1230
-          }
-        ],
-        "videos": [],
-        "text": "Auch ich machte noch mal eine weitere Pause, denn es war absehbar, dass ich bald keine Sonne mehr haben würde.<br />Hier der Blick auf den schattigen Seealpsee und die beiden Gasthäuser (beide waren geschlossen)."
-      },
-      {
-        "photos": [
-          {
-            "name": "054",
-            "alt": "Schattiger Bergsee",
-            "date": "2020-11-18T13:45:34.000+01:00",
-            "width": 1920,
-            "height": 916
-          }
-        ],
-        "videos": [],
-        "text": "Nun Ankunft am Seealpsee. Trotz Schatten eine schöne Stimmung, so beschloss ich noch den Rundweg rechts um den See zu machen."
-      },
-      {
-        "photos": [
-          {
-            "name": "055",
-            "alt": "Abendstimmung Alpstein",
-            "date": "2020-11-18T13:45:47.000+01:00",
-            "width": 1920,
-            "height": 999
-          }
-        ],
-        "videos": [],
-        "text": "Blick zurück. Rechts war ich hinunter gekommen."
-      },
-      {
-        "photos": [
-          {
-            "name": "056",
-            "alt": "Wanderweg Mesmer",
-            "date": "2020-11-18T13:46:57.000+01:00",
-            "width": 1920,
-            "height": 2880
-          }
-        ],
-        "videos": [],
-        "text": "Und praktisch der gleiche Blick, diesmal mit Tele zum Säntis. Oben in diesem Tal liegt das Gasthaus Mesmer."
-      },
-      {
-        "photos": [
-          {
-            "name": "057",
-            "alt": "Seealpkäserei",
-            "date": "2020-11-18T13:48:50.000+01:00",
-            "width": 1920,
-            "height": 1280
-          },
-          {
-            "name": "058",
-            "alt": "Wanderung Schweizer Alpen",
-            "date": "2020-11-18T13:49:58.000+01:00",
-            "width": 1920,
-            "height": 851
-          }
-        ],
-        "videos": [],
-        "text": "Tolle Lichtstimmung mit dem Sonnenfenster rund um die Seealpkäserei. Rechts/oben ist die Altenalp und die Altenalptürme zu sehen."
-      },
-      {
-        "photos": [
-          {
-            "name": "059",
-            "alt": "Reflexion",
-            "date": "2020-11-18T13:53:25.000+01:00",
-            "width": 1920,
-            "height": 1096
-          }
-        ],
-        "videos": [],
-        "text": "Merke: Helles spiegelt sich besonders gut in schattigen Seen. :)"
-      },
-      {
-        "photos": [
-          {
-            "name": "060",
-            "alt": "Rundweg Seealpsee",
-            "date": "2020-11-18T13:56:03.000+01:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Und weiter ging es auf dem Rundweg um den Seealpsee. Dick verpackt kamen mir hier die Spaziergänger entgegen, während ich noch von der Wärme des Südhangs in kurzer Hose zehrte."
-      },
-      {
-        "photos": [
-          {
-            "name": "061",
-            "alt": "Steckenberg",
-            "date": "2020-11-18T14:01:51.000+01:00",
-            "width": 1920,
-            "height": 2616
-          },
-          {
-            "name": "062",
-            "alt": "Bergsee im Herbst",
-            "date": "2020-11-18T14:02:11.000+01:00",
-            "width": 1920,
-            "height": 1280
-          },
-          {
-            "name": "063",
-            "alt": "Seealpsee",
-            "date": "2020-11-18T14:02:51.000+01:00",
-            "width": 1920,
-            "height": 886
-          }
-        ],
-        "videos": [],
-        "text": "Drei verschiedene Ausschnitte des selben schönen Anblicks."
-      },
-      {
-        "photos": [
-          {
-            "name": "064",
-            "alt": "Alpstein See",
-            "date": "2020-11-18T14:03:34.000+01:00",
-            "width": 1920,
-            "height": 1369
-          },
-          {
-            "name": "065",
-            "alt": "Dunkler Seealpsee",
-            "date": "2020-11-18T14:08:46.000+01:00",
-            "width": 1920,
-            "height": 1377
-          }
-        ],
-        "videos": [],
-        "text": "Und noch zweimal die Reflexionen im Seealpsee.<br />Dann erreichte ich wieder den Hauptweg und ich begann den Abstieg nach Wasserauen."
-      },
-      {
-        "photos": [
-          {
-            "name": "066",
-            "alt": "Wanderung Seealpsee",
-            "date": "2020-11-18T14:20:47.000+01:00",
-            "width": 1920,
-            "height": 1049
-          }
-        ],
-        "videos": [],
-        "text": "Nachdem ich die beiden Gasthäuser passiert hatte, noch einmal der Blick zurück. Hier hätte ich auch abseits des Fahrwegs einen Wanderweg wählen können, da aber beides im Schatten gewesen wäre, wählte ich den schnelleren Abstieg auf der Straße."
-      },
-      {
-        "photos": [
-          {
-            "name": "067",
-            "alt": "Fahrstraße Seealpsee",
-            "date": "2020-11-18T14:24:45.000+01:00",
-            "width": 1920,
-            "height": 1288
-          }
-        ],
-        "videos": [],
-        "text": "Die Straße ist zum Teil sehr steil, aber asphaltiert. Hier ist sie sogar in den Fels geschlagen worden."
-      },
-      {
-        "photos": [
-          {
-            "name": "068",
-            "alt": "Feuchte Straße",
-            "date": "2020-11-18T14:50:58.000+01:00",
-            "width": 1920,
-            "height": 1165
-          }
-        ],
-        "videos": [],
-        "text": "Nach 150m zügigem Abstiegs Ankunft im Tal bei Wasserauen. Es war zum Glück über 0°, so dass die feuchte Straße nicht rutschig war."
-      },
-      {
-        "photos": [
-          {
-            "name": "069",
-            "alt": "Bahnhof Wasserauen",
-            "date": "2020-11-18T14:58:39.000+01:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Am Bahnhof von Wasserauen schien dann tatsächlich noch mal die Sonne. Eigentlich sollte die Bahn mal von hier aus weiter am Seealpsee und der Meglisalp vorbei zum Säntis gebaut werden. Ich denke es ist ganz gut, dass das nicht umgesetzt wurde."
-      },
-      {
-        "photos": [
-          {
-            "name": "070",
-            "alt": "Seilbahn Wasserauen Ebenalp",
-            "date": "2020-11-18T15:00:06.000+01:00",
-            "width": 1920,
-            "height": 1107
-          }
-        ],
-        "videos": [],
-        "text": "Der riesige Parkplatz war nun sehr gut gefüllt, obwohl ich gar nicht so vielen Leuten begegnet war.<br />Ich beendete dann meine Wanderung mit der Ankunft am Auto um 15:00."
-      }
-    ],
-    "outro": "Fazit: Auch wenn meine Wanderung nicht so verlief, wie geplant, war sie doch sehr schön. Im Morgenlicht das Gasthaus Äscher, dann der tolle Blick vom Schäfler, der interessante Weg unterhalb der Felswand der Ebenalp, die eindrucksvollen Altenalptürme und zum Abschluss die tollen Lichtstimmungen am Seealpsee.<br />Es waren gut 18km und 1400 Höhenmeter, für die ich gut 7h gebraucht habe."
-  }
-]
+    {
+      "photos": [
+        {
+          "name": "002",
+          "alt": "Wanderweg im Wald",
+          "date": "2020-11-18T08:16:31.000+01:00",
+          "width": 1920,
+          "height": 2585
+        }
+      ],
+      "videos": [],
+      "text": "Wenig interessant ging es nun in einigen Serpentinen rund 300 Höhenmeter im Wald hinauf. Der Weg ist einfach, aber zum Teil durch die Steine und den lehmigen Grund rutschig."
+    },
+    {
+      "photos": [
+        {
+          "name": "003",
+          "alt": "Wanderung Wasserauen Ebenalp",
+          "date": "2020-11-18T08:30:41.000+01:00",
+          "width": 1920,
+          "height": 1235
+        },
+        {
+          "name": "004",
+          "alt": "Bommen",
+          "date": "2020-11-18T08:38:56.000+01:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Nach dem Aufstieg durch den Wald erreichte ich die Alp Bommen auf 1200m. Auf dem Fels darüber konnte ich nun bereits die Bergstation der Ebenalp in der Sonne sehen. Bei mir war es leider immer noch schattig."
+    },
+    {
+      "photos": [
+        {
+          "name": "005",
+          "alt": "Wanderung Appenzeller Land",
+          "date": "2020-11-18T08:41:30.000+01:00",
+          "width": 1920,
+          "height": 633
+        }
+      ],
+      "videos": [],
+      "text": "Während der Überquerung der Alpwiesen der Blick ins Flachland Richtung Appenzell. Auch dort bereits alles sonnig."
+    },
+    {
+      "photos": [
+        {
+          "name": "006",
+          "alt": "Wandern am Morgen",
+          "date": "2020-11-18T08:53:11.000+01:00",
+          "width": 1920,
+          "height": 2477
+        }
+      ],
+      "videos": [],
+      "text": "Beim Aufstieg zur Felswand lief aber nun auch ich aus dem Schatten heraus und es wurde gleich deutlich wärmer."
+    },
+    {
+      "photos": [
+        {
+          "name": "007",
+          "alt": "Seilbahn Ebenalp",
+          "date": "2020-11-18T09:02:52.000+01:00",
+          "width": 1920,
+          "height": 1144
+        }
+      ],
+      "videos": [],
+      "text": "Pünktlich um 9:00 überholte mich dann die erste und vollbesetzte Bahn auf die Ebenalp. Im Hintergrund der Nebel im Rheintal."
+    },
+    {
+      "photos": [
+        {
+          "name": "008",
+          "alt": "Wanderweg Äscher",
+          "date": "2020-11-18T09:05:12.000+01:00",
+          "width": 1920,
+          "height": 2477
+        }
+      ],
+      "videos": [],
+      "text": "Kurz danach erreichte ich die erste Attraktion des Tages - das kleine Gasthaus Äscher, das unter einer überhängenden Felswand errichtet wurde."
+    },
+    {
+      "photos": [
+        {
+          "name": "009",
+          "alt": "Wanderung Ebenalp Äscher",
+          "date": "2020-11-18T09:06:09.000+01:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Am Gasthaus hielt ich mich nicht auf und ging gleich den sehr gut ausgebauten Weg durch die Felswand zur Ebenalp weiter."
+    },
+    {
+      "photos": [
+        {
+          "name": "010",
+          "alt": "Gasthaus Äscher",
+          "date": "2020-11-18T09:06:34.000+01:00",
+          "width": 1920,
+          "height": 2432
+        },
+        {
+          "name": "011",
+          "alt": "Alpstein Äscher",
+          "date": "2020-11-18T09:06:53.000+01:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Das Gasthaus Äscher noch zweimal vom Standardblick aus. So leer kann man das nur fotografieren, wenn man vor den ersten Seilbahnfahrgästen dort ist. Außerdem wird es auch nur morgens so günstig von der Sonne beschienen."
+    },
+    {
+      "photos": [
+        {
+          "name": "012",
+          "alt": "Felsenweg Äscher",
+          "date": "2020-11-18T09:08:19.000+01:00",
+          "width": 1920,
+          "height": 1280
+        },
+        {
+          "name": "013",
+          "alt": "Wildkirchli",
+          "date": "2020-11-18T09:09:18.000+01:00",
+          "width": 1920,
+          "height": 1274
+        },
+        {
+          "name": "014",
+          "alt": "Ebenalp Höhle",
+          "date": "2020-11-18T09:12:35.000+01:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Toll ging der Weg dann weiter durch die Felswand, vorbei am Wildkirchli zu einem Höhleneingang. Durch die Höhle ging es dann rauf zur Ebenalp. Hier der Blick aus der Höhle raus zum <a href='/alpine/alpstein/20131019' target='_blank'>Hohen Kasten</a>, links ist ein kleines Museum über die prähistorischen Funde in der Höhle."
+    },
+    {
+      "photos": [
+        {
+          "name": "015",
+          "alt": "Fänerenspitz",
+          "date": "2020-11-18T09:15:59.000+01:00",
+          "width": 1920,
+          "height": 1280
+        },
+        {
+          "name": "016",
+          "alt": "Panorama Ebenalp",
+          "date": "2020-11-18T09:20:26.000+01:00",
+          "width": 1920,
+          "height": 697
+        },
+        {
+          "name": "017",
+          "alt": "Wanderweg Ebenalp Äscher",
+          "date": "2020-11-18T09:24:00.000+01:00",
+          "width": 1920,
+          "height": 1173
+        }
+      ],
+      "videos": [],
+      "text": "Ankunft auf der Ebenalp. Jeweils der Blick zurück ins Tal.<br />Inzwischen war ich 1 Stunde und 40 Minuten unterwegs, also Zeit für eine erste Pause in der warmen Sonne. Hier kamen mir dann auch die ersten Fahrgäste entgegen, die zum Äscher eilten."
+    },
+    {
+      "photos": [
+        {
+          "name": "018",
+          "alt": "Aussicht Ebenalp",
+          "date": "2020-11-18T09:32:21.000+01:00",
+          "width": 1920,
+          "height": 1189
+        }
+      ],
+      "videos": [],
+      "text": "Blick von der leeren Terrasse des Restaurants Ebenalp. Ganz hinten ist der schneebedeckte Altmann zu sehen. Rechts mein nächstes Ziel, der Schäfler und unten links im Schatten mein übernächstes Ziel, der Seealpsee."
+    },
+    {
+      "photos": [
+        {
+          "name": "019",
+          "alt": "Schäfler und Säntis",
+          "date": "2020-11-18T09:34:12.000+01:00",
+          "width": 1920,
+          "height": 1280
+        },
+        {
+          "name": "020",
+          "alt": "Wanderweg Ebenalp Schäfler",
+          "date": "2020-11-18T09:34:28.000+01:00",
+          "width": 1920,
+          "height": 799
+        },
+        {
+          "name": "021",
+          "alt": "Schneebedeckter Wanderweg mit Säntis",
+          "date": "2020-11-18T09:49:27.000+01:00",
+          "width": 1920,
+          "height": 2880
+        }
+      ],
+      "videos": [],
+      "text": "Zuerst führte der Weg entlang des Bergrückens wenig ansteigend Richtung Schäfler. Dabei auch zum Teil auf der schneebedeckten Nordseite.<br />Beim letzten Bild ist der <a href='/alpine/alpstein/20160911' target='_blank'>Säntis</a> zu sehen, den ich schon mal (ohne Schnee) von der Ebenalp aus bestiegen hatte."
+    },
+    {
+      "photos": [
+        {
+          "name": "022",
+          "alt": "Skilift Ebenalp",
+          "date": "2020-11-18T10:04:14.000+01:00",
+          "width": 1920,
+          "height": 775
+        },
+        {
+          "name": "023",
+          "alt": "Nebelmeer Rheintal",
+          "date": "2020-11-18T10:04:36.000+01:00",
+          "width": 1920,
+          "height": 635
+        }
+      ],
+      "videos": [],
+      "text": "Nun hatte ich den Hang des Schäflers erreicht. Blick zurück Richtung Ebenalp und Rheintal. Im Talkessel ist die Bergstation einer der Skilifte der Ebenalp zu sehen."
+    },
+    {
+      "photos": [
+        {
+          "name": "025",
+          "alt": "Bergweg Schäfler",
+          "date": "2020-11-18T10:12:27.000+01:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Gut ausgebaut und ungefährlich geht der Weg den Grashang des Schäflers hinauf. Von der Ebenalp aus ist es eine kleine Wanderung - für jeden geeignet der Treppen gehen kann."
+    },
+    {
+      "photos": [
+        {
+          "name": "026",
+          "alt": "Kronberg",
+          "date": "2020-11-18T10:15:45.000+01:00",
+          "width": 1920,
+          "height": 850
+        }
+      ],
+      "videos": [],
+      "text": "Nachdem ich den Grat des Schäflers erreicht hatte, konnte ich auf der steilen Rückseite hinuntersehen. Hier ist der benachbarte <a href='/alpine/alpstein/20190801' target='_blank'>Kronberg</a> zu sehen. Und ganz weit hinten sogar der Schwarzwald mit dem <a href='/alpine/schwarzwald/20180321' target='_blank'>Feldberg</a>. Wieder mal beste Fernsicht an diesem Tag."
+    },
+    {
+      "photos": [
+        {
+          "name": "027",
+          "alt": "Alphütte auf Felsen",
+          "date": "2020-11-18T10:19:05.000+01:00",
+          "width": 1920,
+          "height": 1131
+        }
+      ],
+      "videos": [],
+      "text": "Blick zurück zur Alp Chlus, an der ich links vorbeikam. Der hier sichtbare Weg unterhalb des Felsen wird später relevant werden."
+    },
+    {
+      "photos": [
+        {
+          "name": "028",
+          "alt": "Gipfelkreuz Schäfler",
+          "date": "2020-11-18T10:23:31.000+01:00",
+          "width": 1920,
+          "height": 919
+        },
+        {
+          "name": "029",
+          "alt": "Panorama Schäfler",
+          "date": "2020-11-18T10:24:17.000+01:00",
+          "width": 1920,
+          "height": 682
+        }
+      ],
+      "videos": [],
+      "text": "Ankunft am Gipfelkreuz des Schäflers um 10:30 auf 1900m. Das Kreuz steht allerdings nicht auf dem höchsten Punkt, sondern auf einem Buckel nebenan."
+    },
+    {
+      "photos": [
+        {
+          "name": "030",
+          "alt": "Wanderung Schäfler",
+          "date": "2020-11-18T10:29:53.000+01:00",
+          "width": 1920,
+          "height": 744
+        },
+        {
+          "name": "031",
+          "alt": "Schäfler Säntis",
+          "date": "2020-11-18T10:30:08.000+01:00",
+          "width": 1920,
+          "height": 2328
+        }
+      ],
+      "videos": [],
+      "text": "Vom richtigen Gipfel des Schäflers hat man einen tollen Blick über den scharfkantigen Grat zum Säntis. Links unterhalb des Grats kann man den Bergweg vom Schäfler Richtung Säntis und Mesmer sehen... den hatte ich eigentlich geplant zu gehen."
+    },
+    {
+      "photos": [
+        {
+          "name": "032",
+          "alt": "Gasthaus Schäfler",
+          "date": "2020-11-18T10:33:40.000+01:00",
+          "width": 1920,
+          "height": 991
+        }
+      ],
+      "videos": [],
+      "text": "Blick zurück zum Gasthaus Schäfler, das nicht mehr geöffnet hatte. Ich versuchte dann auf dem Gipfel eine Pause zu machen, aber der Boden war doch etwas zu feucht."
+    },
+    {
+      "photos": [
+        {
+          "name": "033",
+          "alt": "Alpstein",
+          "date": "2020-11-18T10:34:26.000+01:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Deshalb noch einmal ein Foto zum Säntis mit den spektakulären Formen des Alpsteins. Von diesem Blick kann ich nicht genug bekommen. :)"
+    },
+    {
+      "photos": [
+        {
+          "name": "034",
+          "alt": "Gefährlicher Weg Schäfler",
+          "date": "2020-11-18T10:36:33.000+01:00",
+          "width": 1920,
+          "height": 1163
+        }
+      ],
+      "videos": [],
+      "text": "Und hier nun der Grund, warum ich nicht den eigentlich geplanten Weg weitergegangen bin. Das erste Stück vom Schäfler geht der Wanderweg leider auf der Nordseite um den Gipfel herum. Das dort Schnee sein würde, war mir schon vorher bewusst geworden - aber leider waren auch die Drahtseile für den Winter abmontiert worden. Schweren Herzens siegte die Vernunft und ich entschied, hier nicht weiterzugehen. <span data-silent>Wer sich für diesen weiteren Weg interessiert, wird in meinen alten Berichten von der</span> <a href='/alpine/alpstein/20140622#drahtseil-am-sch%C3%A4fler_033' target='_blank'><span data-silent>Umrundung des Seealpsees</span></a> <span data-silent>und von der</span> <a href='/alpine/alpstein/20160911#bergweg-mit-drahtseil-an-abgrund_009' target='_blank'><span data-silent>Wanderung von der Ebenalp zum Säntis</span></a> <span data-silent>fündig.</span>"
+    },
+    {
+      "photos": [
+        {
+          "name": "035",
+          "alt": "Wanderweg Schäfler",
+          "date": "2020-11-18T10:53:05.000+01:00",
+          "width": 1920,
+          "height": 736
+        }
+      ],
+      "videos": [],
+      "text": "Nach einer Pause auf der trockenen Bank des Gasthaus Schäfler ging ich nun also den gleichen Weg zurück bis zur Alp Chlus. Hier schon rechts unten zu sehen. Dort zweigte ich aber dann von meinem Hinweg ab und ging den Weg unterhalb der Felsen weiter."
+    },
+    {
+      "photos": [
+        {
+          "name": "036",
+          "alt": "Wanderung Schäfler Äscher",
+          "date": "2020-11-18T11:13:52.000+01:00",
+          "width": 1920,
+          "height": 2880
+        },
+        {
+          "name": "037",
+          "alt": "Wanderung Wasserauen",
+          "date": "2020-11-18T11:15:48.000+01:00",
+          "width": 1920,
+          "height": 1350
+        }
+      ],
+      "videos": [],
+      "text": "Diesen alternativen Weg vom Schäfler zurück Richtung Äscher war ich noch nie gegangen und ich fand ihn wunderbar. Er führt immer direkt unterhalb der Felswand entlang. Schon war die Enttäuschung über meinen Abbruch der ursprünglichen Wanderung am Schäfler verflogen. :)"
+    },
+    {
+      "photos": [
+        {
+          "name": "038",
+          "alt": "Wanderung Alpstein",
+          "date": "2020-11-18T11:18:01.000+01:00",
+          "width": 1920,
+          "height": 1280
+        },
+        {
+          "name": "039",
+          "alt": "Weg an Felswand",
+          "date": "2020-11-18T11:19:40.000+01:00",
+          "width": 1920,
+          "height": 1280
+        },
+        {
+          "name": "040",
+          "alt": "Ebenalp Säntis",
+          "date": "2020-11-18T11:23:16.000+01:00",
+          "width": 1920,
+          "height": 1280
+        },
+        {
+          "name": "041",
+          "alt": "Felswand",
+          "date": "2020-11-18T11:29:00.000+01:00",
+          "width": 1920,
+          "height": 2880
+        }
+      ],
+      "videos": [],
+      "text": "Noch mehr Fotos von diesem tollen Weg-Abschnitt. Den werde ich sicher in Zukunft noch einmal laufen.<br />Die Sonne knallte nun voll auf diese Felswand und den Grashang unterhalb und es war richtig heiß, so dass ich trotz Abstieg schwitzte... und das Mitte November..."
+    },
+    {
+      "photos": [
+        {
+          "name": "042",
+          "alt": "Herbstweg mit Sonnenschein",
+          "date": "2020-11-18T11:40:33.000+01:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Dieser Weg geht eigentlich weiter bis zum Äscher, aber ich bog vorher scharf rechts Richtung Altenalp/Mesmer ab, also praktisch wieder zurück."
+    },
+    {
+      "photos": [
+        {
+          "name": "043",
+          "alt": "Meglisalp Altmann",
+          "date": "2020-11-18T11:53:05.000+01:00",
+          "width": 1920,
+          "height": 1230
+        }
+      ],
+      "videos": [],
+      "text": "Tele zum Altmann und darunter die Meglisalp. Diese schöne Siedlung erreicht um diese Jahreszeit anscheinend keine Sonne mehr, da sollte man also besser im Sommer hinwandern."
+    },
+    {
+      "photos": [
+        {
+          "name": "044",
+          "alt": "Steile Alpwiese",
+          "date": "2020-11-18T12:17:54.000+01:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Bei mir gab es dagegen Sonne satt und es ging über diese steile Wiese der Alp Weesen (hier der Blick zurück). Der Weg ist dabei nicht gefährlich, aber auch nicht sehr breit."
+    },
+    {
+      "photos": [
+        {
+          "name": "045",
+          "alt": "Wanderweg Altenalp",
+          "date": "2020-11-18T12:19:40.000+01:00",
+          "width": 1920,
+          "height": 1280
+        },
+        {
+          "name": "046",
+          "alt": "Altenalptürme",
+          "date": "2020-11-18T12:19:50.000+01:00",
+          "width": 1920,
+          "height": 2880
+        },
+        {
+          "name": "047",
+          "alt": "Altenalp",
+          "date": "2020-11-18T12:32:53.000+01:00",
+          "width": 1920,
+          "height": 1270
+        }
+      ],
+      "videos": [],
+      "text": "Dann folgte ein kleiner Aufstieg (sogar mit einer Serpentine). Dabei ging es nun immer auf die eindrucksvollen Altenalptürme zu, bis ich die Hütten der Altenalp erreicht hatte.<br />Zeit für eine längere Pause und die tolle Landschaft dort zu genießen. Inzwischen war es 12:30."
+    },
+    {
+      "photos": [
+        {
+          "name": "048",
+          "alt": "Bergwald im Herbst",
+          "date": "2020-11-18T13:00:55.000+01:00",
+          "width": 1920,
+          "height": 1391
+        }
+      ],
+      "videos": [],
+      "text": "Von der Altenalp stieg ich nun zum Seealpsee ab. Erst relativ flach über die Wiesen, dann aber schon deutlich steiler in diesem Wald."
+    },
+    {
+      "photos": [
+        {
+          "name": "049",
+          "alt": "Wanderweg Seealpsee Altenalp",
+          "date": "2020-11-18T13:07:56.000+01:00",
+          "width": 1920,
+          "height": 2341
+        },
+        {
+          "name": "050",
+          "alt": "Schwierigkeit Altenalp",
+          "date": "2020-11-18T13:12:45.000+01:00",
+          "width": 1920,
+          "height": 1709
+        }
+      ],
+      "videos": [],
+      "text": "Und dann noch mal steiler in einigen Serpentinen hier hinunter. Hier war der Weg aber immer sehr gut mit Drahtseil abgesichert, was auch notwendig war."
+    },
+    {
+      "photos": [
+        {
+          "name": "051",
+          "alt": "Picknick Seealpsee",
+          "date": "2020-11-18T13:21:11.000+01:00",
+          "width": 1920,
+          "height": 1107
+        }
+      ],
+      "videos": [],
+      "text": "Puh, geschafft. Nach 400m Abstieg von der Altenalp erreichte ich die flachen Wiesen am Seealpsee. Dort picknickten einige Familien am Hang, da der Rest des Tals im Schatten lag."
+    },
+    {
+      "photos": [
+        {
+          "name": "052",
+          "alt": "Steiler Weg Altenalp",
+          "date": "2020-11-18T13:22:40.000+01:00",
+          "width": 1920,
+          "height": 2472
+        }
+      ],
+      "videos": [],
+      "text": "Blick zurück zum Hang, in dem der Weg hinunter ging."
+    },
+    {
+      "photos": [
+        {
+          "name": "053",
+          "alt": "Spazierweg Seealpsee",
+          "date": "2020-11-18T13:24:56.000+01:00",
+          "width": 1920,
+          "height": 1230
+        }
+      ],
+      "videos": [],
+      "text": "Auch ich machte noch mal eine weitere Pause, denn es war absehbar, dass ich bald keine Sonne mehr haben würde.<br />Hier der Blick auf den schattigen Seealpsee und die beiden Gasthäuser (beide waren geschlossen)."
+    },
+    {
+      "photos": [
+        {
+          "name": "054",
+          "alt": "Schattiger Bergsee",
+          "date": "2020-11-18T13:45:34.000+01:00",
+          "width": 1920,
+          "height": 916
+        }
+      ],
+      "videos": [],
+      "text": "Nun Ankunft am Seealpsee. Trotz Schatten eine schöne Stimmung, so beschloss ich noch den Rundweg rechts um den See zu machen."
+    },
+    {
+      "photos": [
+        {
+          "name": "055",
+          "alt": "Abendstimmung Alpstein",
+          "date": "2020-11-18T13:45:47.000+01:00",
+          "width": 1920,
+          "height": 999
+        }
+      ],
+      "videos": [],
+      "text": "Blick zurück. Rechts war ich hinunter gekommen."
+    },
+    {
+      "photos": [
+        {
+          "name": "056",
+          "alt": "Wanderweg Mesmer",
+          "date": "2020-11-18T13:46:57.000+01:00",
+          "width": 1920,
+          "height": 2880
+        }
+      ],
+      "videos": [],
+      "text": "Und praktisch der gleiche Blick, diesmal mit Tele zum Säntis. Oben in diesem Tal liegt das Gasthaus Mesmer."
+    },
+    {
+      "photos": [
+        {
+          "name": "057",
+          "alt": "Seealpkäserei",
+          "date": "2020-11-18T13:48:50.000+01:00",
+          "width": 1920,
+          "height": 1280
+        },
+        {
+          "name": "058",
+          "alt": "Wanderung Schweizer Alpen",
+          "date": "2020-11-18T13:49:58.000+01:00",
+          "width": 1920,
+          "height": 851
+        }
+      ],
+      "videos": [],
+      "text": "Tolle Lichtstimmung mit dem Sonnenfenster rund um die Seealpkäserei. Rechts/oben ist die Altenalp und die Altenalptürme zu sehen."
+    },
+    {
+      "photos": [
+        {
+          "name": "059",
+          "alt": "Reflexion",
+          "date": "2020-11-18T13:53:25.000+01:00",
+          "width": 1920,
+          "height": 1096
+        }
+      ],
+      "videos": [],
+      "text": "Merke: Helles spiegelt sich besonders gut in schattigen Seen. :)"
+    },
+    {
+      "photos": [
+        {
+          "name": "060",
+          "alt": "Rundweg Seealpsee",
+          "date": "2020-11-18T13:56:03.000+01:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Und weiter ging es auf dem Rundweg um den Seealpsee. Dick verpackt kamen mir hier die Spaziergänger entgegen, während ich noch von der Wärme des Südhangs in kurzer Hose zehrte."
+    },
+    {
+      "photos": [
+        {
+          "name": "061",
+          "alt": "Steckenberg",
+          "date": "2020-11-18T14:01:51.000+01:00",
+          "width": 1920,
+          "height": 2616
+        },
+        {
+          "name": "062",
+          "alt": "Bergsee im Herbst",
+          "date": "2020-11-18T14:02:11.000+01:00",
+          "width": 1920,
+          "height": 1280
+        },
+        {
+          "name": "063",
+          "alt": "Seealpsee",
+          "date": "2020-11-18T14:02:51.000+01:00",
+          "width": 1920,
+          "height": 886
+        }
+      ],
+      "videos": [],
+      "text": "Drei verschiedene Ausschnitte des selben schönen Anblicks."
+    },
+    {
+      "photos": [
+        {
+          "name": "064",
+          "alt": "Alpstein See",
+          "date": "2020-11-18T14:03:34.000+01:00",
+          "width": 1920,
+          "height": 1369
+        },
+        {
+          "name": "065",
+          "alt": "Dunkler Seealpsee",
+          "date": "2020-11-18T14:08:46.000+01:00",
+          "width": 1920,
+          "height": 1377
+        }
+      ],
+      "videos": [],
+      "text": "Und noch zweimal die Reflexionen im Seealpsee.<br />Dann erreichte ich wieder den Hauptweg und ich begann den Abstieg nach Wasserauen."
+    },
+    {
+      "photos": [
+        {
+          "name": "066",
+          "alt": "Wanderung Seealpsee",
+          "date": "2020-11-18T14:20:47.000+01:00",
+          "width": 1920,
+          "height": 1049
+        }
+      ],
+      "videos": [],
+      "text": "Nachdem ich die beiden Gasthäuser passiert hatte, noch einmal der Blick zurück. Hier hätte ich auch abseits des Fahrwegs einen Wanderweg wählen können, da aber beides im Schatten gewesen wäre, wählte ich den schnelleren Abstieg auf der Straße."
+    },
+    {
+      "photos": [
+        {
+          "name": "067",
+          "alt": "Fahrstraße Seealpsee",
+          "date": "2020-11-18T14:24:45.000+01:00",
+          "width": 1920,
+          "height": 1288
+        }
+      ],
+      "videos": [],
+      "text": "Die Straße ist zum Teil sehr steil, aber asphaltiert. Hier ist sie sogar in den Fels geschlagen worden."
+    },
+    {
+      "photos": [
+        {
+          "name": "068",
+          "alt": "Feuchte Straße",
+          "date": "2020-11-18T14:50:58.000+01:00",
+          "width": 1920,
+          "height": 1165
+        }
+      ],
+      "videos": [],
+      "text": "Nach 150m zügigem Abstiegs Ankunft im Tal bei Wasserauen. Es war zum Glück über 0°, so dass die feuchte Straße nicht rutschig war."
+    },
+    {
+      "photos": [
+        {
+          "name": "069",
+          "alt": "Bahnhof Wasserauen",
+          "date": "2020-11-18T14:58:39.000+01:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Am Bahnhof von Wasserauen schien dann tatsächlich noch mal die Sonne. Eigentlich sollte die Bahn mal von hier aus weiter am Seealpsee und der Meglisalp vorbei zum Säntis gebaut werden. Ich denke es ist ganz gut, dass das nicht umgesetzt wurde."
+    },
+    {
+      "photos": [
+        {
+          "name": "070",
+          "alt": "Seilbahn Wasserauen Ebenalp",
+          "date": "2020-11-18T15:00:06.000+01:00",
+          "width": 1920,
+          "height": 1107
+        }
+      ],
+      "videos": [],
+      "text": "Der riesige Parkplatz war nun sehr gut gefüllt, obwohl ich gar nicht so vielen Leuten begegnet war.<br />Ich beendete dann meine Wanderung mit der Ankunft am Auto um 15:00."
+    }
+  ],
+  "outro": "Fazit: Auch wenn meine Wanderung nicht so verlief, wie geplant, war sie doch sehr schön. Im Morgenlicht das Gasthaus Äscher, dann der tolle Blick vom Schäfler, der interessante Weg unterhalb der Felswand der Ebenalp, die eindrucksvollen Altenalptürme und zum Abschluss die tollen Lichtstimmungen am Seealpsee.<br />Es waren gut 18km und 1400 Höhenmeter, für die ich gut 7h gebraucht habe."
+}

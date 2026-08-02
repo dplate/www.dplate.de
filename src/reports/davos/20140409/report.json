@@ -1,456 +1,454 @@
-[
-  {
-    "destination": "davos",
-    "date": "d20140409",
-    "track": false,
-    "shortTitle": "Parsenn",
-    "title": "Davos/Parsenn",
-    "intro": "Am siebten Skitag meines Frühlingsurlaubs ging es an diesem Mittwoch nach Davos Parsenn. Knapp die erste Gondel um 8:00 in Klosters erwischt. Tageskarte hatte ich bereits über's Internet für 52CHF erstanden. Leider kamen noch 10CHF Parkgebühren dazu.<br />\nAnkunft mit 10 anderen Frühaufstehern 15min später auf dem Gotschnagrat (2300m). Landschaft war leicht überzuckert und es war mit -7° sehr frisch... 27° kälter, als ich zwei Tage zuvor die Skier in Fiss abgeschnallt hatte. Schwierig zur Zeit, die optimale Kleidung dabei zu haben...",
-    "landmarks": [
-      {
-        "photos": [
-          {
-            "name": "WtJHJ2c",
-            "width": 1280,
-            "height": 644
-          }
-        ],
-        "videos": [],
-        "text": "Frisch freigefegter Pistenplan. Außer Seetäli und Schwarzseealp war alles in Betrieb."
-      },
-      {
-        "photos": [
-          {
-            "name": "4rz8V0D",
-            "width": 1280,
-            "height": 397
-          }
-        ],
-        "videos": [],
-        "text": "Fahrt hinab zum Zwischeneinstieg am Parsennmäder-Schlepplift. Während der Gotschnagrat noch in einer Wolke fest hing, konnte man hier schon erahnen, dass es ein recht freundlicher Tag werden würde."
-      },
-      {
-        "photos": [
-          {
-            "name": "zqXsnfL",
-            "width": 1280,
-            "height": 615
-          },
-          {
-            "name": "DFe5BZy",
-            "width": 1280,
-            "height": 781
-          }
-        ],
-        "videos": [],
-        "text": "Anschließend weiter zur Gruobenalp-Sesselbahn. Pisten natürlich noch hart, aber durch den Hauch Neuschnee griffig genug."
-      },
-      {
-        "photos": [
-          {
-            "name": "DNZMp5y",
-            "width": 1280,
-            "height": 672
-          }
-        ],
-        "videos": [],
-        "text": "Und weiter zum Furka-Doppel-Schlepplift mit Blick zurück zur Gruobenalp."
-      },
-      {
-        "photos": [
-          {
-            "name": "M7oN7hn",
-            "width": 1280,
-            "height": 773
-          }
-        ],
-        "videos": [],
-        "text": "Kleiner Sprung zu den Abfahrten entlang der Parsennbahn zum Höhenweg. Dort schon etwas mehr los."
-      },
-      {
-        "photos": [
-          {
-            "name": "IbC6d4Z",
-            "width": 1280,
-            "height": 853
-          }
-        ],
-        "videos": [],
-        "text": "Danach bietet sich der Schlepplift im Hauptertäli an. Zu den kalten Temperaturen wehte auch noch ein sehr kalter Wind... *brrr*"
-      },
-      {
-        "photos": [
-          {
-            "name": "elSuoHm",
-            "width": 1280,
-            "height": 853
-          }
-        ],
-        "videos": [],
-        "text": "Weiter zum erst jetzt Betrieb aufnehmenden Meierhoftäli. Die Piste verleitet zum heizen... ist aber auch immer schön leer."
-      },
-      {
-        "photos": [
-          {
-            "name": "s3TSZvh",
-            "width": 1280,
-            "height": 814
-          },
-          {
-            "name": "aB0r2vI",
-            "width": 1280,
-            "height": 853
-          }
-        ],
-        "videos": [],
-        "text": "Darauf folgte die lange Abfahrt entlang der Schiferbahn bis auf 1500m. Unten im Wald leider noch ziemlich eisig, aber zumindest kein Wind mehr."
-      },
-      {
-        "photos": [
-          {
-            "name": "dtWNq0o",
-            "width": 1280,
-            "height": 1581
-          }
-        ],
-        "videos": [],
-        "text": "Nach der langen 25min Auffahrt mit der Schiferbahn gleich weiter mit der im 10min Takt fahrenden Seilbahn auf den Weissfluhgipfel (2800m). Oben zog leider gerade eine Wolke auf, so dass statt schöner Panoramen das Pistenbegrenzungsschild als Motiv erhalten musste."
-      },
-      {
-        "photos": [
-          {
-            "name": "RaGIvHX",
-            "width": 1280,
-            "height": 747
-          }
-        ],
-        "videos": [],
-        "text": "Nach der Abfahrt auf der pulvrigen schwarzen 1 gleich noch mal hoch und die ebenfalls pulvrige schwarze 2 gefahren. Blick von dieser Piste auf das Weissfluhjoch, dem Zentrum des Skigebiet.."
-      },
-      {
-        "photos": [
-          {
-            "name": "GHApTqb",
-            "width": 1280,
-            "height": 858
-          }
-        ],
-        "videos": [],
-        "text": "Nach der Mittagspause in der Parsennhütte ging es nochmal Richtung Gotschnagrat. Hier in der Sesselbahn Gruobenalp. Dieser Sektor hat am wenigsten Schnee, deshalb auch verständlich, dass die Schwarzseealp-Zweier-Sesselbahn nicht mehr in Betrieb war."
-      },
-      {
-        "photos": [
-          {
-            "name": "DWopR2I",
-            "width": 1280,
-            "height": 441
-          },
-          {
-            "name": "We5oF2H",
-            "width": 1280,
-            "height": 767
-          }
-        ],
-        "videos": [],
-        "text": "Danach entlang des Abgrunds oberhalb Klosters die 47 vom Gotschnagrat nach Schifer."
-      },
-      {
-        "photos": [
-          {
-            "name": "cHdSnMP",
-            "width": 1280,
-            "height": 853
-          }
-        ],
-        "videos": [],
-        "text": "Und wieder mit der langen Bahn nach oben. Blick aus der Gondel auf die Piste vom Weissfluhgipfel, jetzt natürlich wieder ohne Wolke."
-      },
-      {
-        "photos": [
-          {
-            "name": "tSGrdaW",
-            "width": 1280,
-            "height": 853
-          }
-        ],
-        "videos": [],
-        "text": "Also wieder weiter hoch und die schöne Piste nochmal bei Sicht genossen. Nur schade, dass man oben Kondition beweisen muss und bis zur Abfahrt hochsteigen muss."
-      },
-      {
-        "photos": [
-          {
-            "name": "ix923MW",
-            "width": 1280,
-            "height": 795
-          }
-        ],
-        "videos": [],
-        "text": "Blick zurück vom kurzen Verbindungs-Schlepplift Kreuzweg."
-      },
-      {
-        "photos": [
-          {
-            "name": "Y2dM824",
-            "width": 1280,
-            "height": 442
-          }
-        ],
-        "videos": [],
-        "text": "Wieder beim Hauptertäli, Blick hinüber zum Skigebiet Schatzalp. Und nein, dass ist nicht das Matterhorn, sondern das Tinzenhorn (3200m)."
-      },
-      {
-        "photos": [
-          {
-            "name": "Y7Wu4Ja",
-            "width": 1280,
-            "height": 610
-          }
-        ],
-        "videos": [],
-        "text": "Wetter wurde jetzt rasch wolkenloser, also noch schnell die verbleibenden einfangen. Hier am Meierhoftäli."
-      },
-      {
-        "photos": [
-          {
-            "name": "8ak9pcG",
-            "width": 1280,
-            "height": 667
-          }
-        ],
-        "videos": [],
-        "text": "Und ebenfalls dort: Tele zurück. Links das Weissfluhjoch, hinten der Weissfluhgipfel."
-      },
-      {
-        "photos": [
-          {
-            "name": "VzXez5w",
-            "width": 1280,
-            "height": 721
-          }
-        ],
-        "videos": [],
-        "text": "Schifergondel."
-      },
-      {
-        "photos": [
-          {
-            "name": "kotv7sP",
-            "width": 1280,
-            "height": 698
-          }
-        ],
-        "videos": [],
-        "text": "Weiter auf der noch nicht gefahrenen Hintenrum-Piste 24 nach Schifer. Nicht mehr offiziell geöffnet und es wurde auch per Laufschrift gewarnt, dass sie nicht mehr durchgehend befahrbar ist (netter Service)."
-      },
-      {
-        "photos": [
-          {
-            "name": "sXjQSa3",
-            "width": 1280,
-            "height": 286
-          }
-        ],
-        "videos": [],
-        "text": "Blick hinüber zur Mittelstation der Schiferbahn."
-      },
-      {
-        "photos": [
-          {
-            "name": "NmciLsn",
-            "width": 1280,
-            "height": 526
-          }
-        ],
-        "videos": [],
-        "text": "Weiterer Verlauf der Piste. Hier schon etwas erdig, aber problemlos."
-      },
-      {
-        "photos": [
-          {
-            "name": "N5Rrm9D",
-            "width": 1280,
-            "height": 892
-          }
-        ],
-        "videos": [],
-        "text": "Und noch ein Stück weiter... sehr schön und völlig einsam."
-      },
-      {
-        "photos": [
-          {
-            "name": "eTqbJro",
-            "width": 1280,
-            "height": 594
-          }
-        ],
-        "videos": [],
-        "text": "Letzter Abschnitt über die gewohnt grünen Wiesen in Schifer. Ein kurzes Stück musste man abschnallen und unten noch durch einen Bach stiefeln."
-      },
-      {
-        "photos": [
-          {
-            "name": "7rMYhCj",
-            "width": 1280,
-            "height": 853
-          }
-        ],
-        "videos": [],
-        "text": "Das musste ich fotografieren, wie geschickt diese große Skischule sich vor dem Eingang der Schiferbahn plaziert hatte. Da musste man sich recht rabiat durchkämpfen."
-      },
-      {
-        "photos": [
-          {
-            "name": "3q5YSma",
-            "width": 1280,
-            "height": 750
-          }
-        ],
-        "videos": [],
-        "text": "Wieder oben, Blick auf den Doppel-Schlepplift Furka, der ruhig mal durch eine Sesselbahn ersetzt werden könnte."
-      },
-      {
-        "photos": [
-          {
-            "name": "b2lc8fk",
-            "width": 1280,
-            "height": 389
-          }
-        ],
-        "videos": [],
-        "text": "Und nochmal zur Gruobenalp."
-      },
-      {
-        "photos": [
-          {
-            "name": "o4UsY2y",
-            "width": 1280,
-            "height": 626
-          },
-          {
-            "name": "JbZXL47",
-            "width": 1280,
-            "height": 736
-          }
-        ],
-        "videos": [],
-        "text": "Danach etwas gehetzt (deshalb keine Fotos) zur letzten Bergfahrt um 16:00 zur Schiferbahn. Wetter nun sehr schön und angenehm warm."
-      },
-      {
-        "photos": [
-          {
-            "name": "jvBQqti",
-            "width": 1280,
-            "height": 537
-          }
-        ],
-        "videos": [],
-        "text": "Und weiter mit der letzten Gondel um 16:30 auf's Weissfluhjoch. Mit mir nur noch die Pistenkontrolle in der Bahn. Komisch, denn sonst ist die letzte Gondel eigentlich immer ganz gut besucht."
-      },
-      {
-        "photos": [
-          {
-            "name": "rCatgPJ",
-            "width": 1280,
-            "height": 853
-          }
-        ],
-        "videos": [],
-        "text": "Pisten vom Gipfel immer noch sehr schön."
-      },
-      {
-        "photos": [
-          {
-            "name": "tvH7n11",
-            "width": 1280,
-            "height": 679
-          }
-        ],
-        "videos": [],
-        "text": "Und weiter auf der laaangen Talabfahrt nach Klosters (1700m Höhenunterschied)."
-      },
-      {
-        "photos": [
-          {
-            "name": "7fpRzMN",
-            "width": 1280,
-            "height": 515
-          }
-        ],
-        "videos": [],
-        "text": "Vorbei am Kreuzungspunkt, wo die Piste vom Gotschnagrat nach Schifer führt."
-      },
-      {
-        "photos": [
-          {
-            "name": "Kybe5wp",
-            "width": 1280,
-            "height": 853
-          }
-        ],
-        "videos": [],
-        "text": "Irgendwann holt man dann auch die langsameren auf der Talabfahrt ein... das waren aber die einzigen, denen ich begegnet bin. Das Schild warnt vor schneefreien Abschnitten, aber hier oben war noch alles ok."
-      },
-      {
-        "photos": [
-          {
-            "name": "XMsT2i1",
-            "width": 1280,
-            "height": 358
-          }
-        ],
-        "videos": [],
-        "text": "Gaststätte &quot;Alte Schwendi&quot;, ab dort wurde es dann etwas schneearm."
-      },
-      {
-        "photos": [
-          {
-            "name": "DBwrvje",
-            "width": 1280,
-            "height": 1017
-          }
-        ],
-        "videos": [],
-        "text": "Und das war das kritischste Stück. Ging gerade noch ohne abschnallen, aber sicher nicht mehr lange."
-      },
-      {
-        "photos": [
-          {
-            "name": "BfV7OYC",
-            "width": 1280,
-            "height": 848
-          }
-        ],
-        "videos": [],
-        "text": "Blümchen am Pistenrand."
-      },
-      {
-        "photos": [
-          {
-            "name": "ILiUNUM",
-            "width": 1280,
-            "height": 853
-          }
-        ],
-        "videos": [],
-        "text": "Und Ankunft auf dem Parkplatz neben dem Bahnhof in Klosters. Herrliche klares Wetter mit strahlend weißen Gipfeln."
-      },
-      {
-        "photos": [
-          {
-            "name": "yIwHZxU",
-            "width": 1280,
-            "height": 655
-          },
-          {
-            "name": "fAlFAZK",
-            "width": 1280,
-            "height": 301
-          }
-        ],
-        "videos": [],
-        "text": "Gefahrene Strecke. 145km und 14 Höhenkilometern innerhalb von 9h."
-      }
-    ],
-    "outro": "Fazit: Ein gewohnt entspannter Tag in Davos Parsenn. Ziemlich leer, fotogenes Wetter (ich hoffe es waren nicht zuviele Bilder?) und sehr gute Pistenverhältnisse. <br />\nAußerdem sieht es hier, im Gegensatz zu jenseits des Arlbergs, noch richtig nach Winter aus."
-  }
-]
+{
+  "destination": "davos",
+  "date": "d20140409",
+  "track": false,
+  "shortTitle": "Parsenn",
+  "title": "Davos/Parsenn",
+  "intro": "Am siebten Skitag meines Frühlingsurlaubs ging es an diesem Mittwoch nach Davos Parsenn. Knapp die erste Gondel um 8:00 in Klosters erwischt. Tageskarte hatte ich bereits über's Internet für 52CHF erstanden. Leider kamen noch 10CHF Parkgebühren dazu.<br />\nAnkunft mit 10 anderen Frühaufstehern 15min später auf dem Gotschnagrat (2300m). Landschaft war leicht überzuckert und es war mit -7° sehr frisch... 27° kälter, als ich zwei Tage zuvor die Skier in Fiss abgeschnallt hatte. Schwierig zur Zeit, die optimale Kleidung dabei zu haben...",
+  "landmarks": [
+    {
+      "photos": [
+        {
+          "name": "WtJHJ2c",
+          "width": 1280,
+          "height": 644
+        }
+      ],
+      "videos": [],
+      "text": "Frisch freigefegter Pistenplan. Außer Seetäli und Schwarzseealp war alles in Betrieb."
+    },
+    {
+      "photos": [
+        {
+          "name": "4rz8V0D",
+          "width": 1280,
+          "height": 397
+        }
+      ],
+      "videos": [],
+      "text": "Fahrt hinab zum Zwischeneinstieg am Parsennmäder-Schlepplift. Während der Gotschnagrat noch in einer Wolke fest hing, konnte man hier schon erahnen, dass es ein recht freundlicher Tag werden würde."
+    },
+    {
+      "photos": [
+        {
+          "name": "zqXsnfL",
+          "width": 1280,
+          "height": 615
+        },
+        {
+          "name": "DFe5BZy",
+          "width": 1280,
+          "height": 781
+        }
+      ],
+      "videos": [],
+      "text": "Anschließend weiter zur Gruobenalp-Sesselbahn. Pisten natürlich noch hart, aber durch den Hauch Neuschnee griffig genug."
+    },
+    {
+      "photos": [
+        {
+          "name": "DNZMp5y",
+          "width": 1280,
+          "height": 672
+        }
+      ],
+      "videos": [],
+      "text": "Und weiter zum Furka-Doppel-Schlepplift mit Blick zurück zur Gruobenalp."
+    },
+    {
+      "photos": [
+        {
+          "name": "M7oN7hn",
+          "width": 1280,
+          "height": 773
+        }
+      ],
+      "videos": [],
+      "text": "Kleiner Sprung zu den Abfahrten entlang der Parsennbahn zum Höhenweg. Dort schon etwas mehr los."
+    },
+    {
+      "photos": [
+        {
+          "name": "IbC6d4Z",
+          "width": 1280,
+          "height": 853
+        }
+      ],
+      "videos": [],
+      "text": "Danach bietet sich der Schlepplift im Hauptertäli an. Zu den kalten Temperaturen wehte auch noch ein sehr kalter Wind... *brrr*"
+    },
+    {
+      "photos": [
+        {
+          "name": "elSuoHm",
+          "width": 1280,
+          "height": 853
+        }
+      ],
+      "videos": [],
+      "text": "Weiter zum erst jetzt Betrieb aufnehmenden Meierhoftäli. Die Piste verleitet zum heizen... ist aber auch immer schön leer."
+    },
+    {
+      "photos": [
+        {
+          "name": "s3TSZvh",
+          "width": 1280,
+          "height": 814
+        },
+        {
+          "name": "aB0r2vI",
+          "width": 1280,
+          "height": 853
+        }
+      ],
+      "videos": [],
+      "text": "Darauf folgte die lange Abfahrt entlang der Schiferbahn bis auf 1500m. Unten im Wald leider noch ziemlich eisig, aber zumindest kein Wind mehr."
+    },
+    {
+      "photos": [
+        {
+          "name": "dtWNq0o",
+          "width": 1280,
+          "height": 1581
+        }
+      ],
+      "videos": [],
+      "text": "Nach der langen 25min Auffahrt mit der Schiferbahn gleich weiter mit der im 10min Takt fahrenden Seilbahn auf den Weissfluhgipfel (2800m). Oben zog leider gerade eine Wolke auf, so dass statt schöner Panoramen das Pistenbegrenzungsschild als Motiv erhalten musste."
+    },
+    {
+      "photos": [
+        {
+          "name": "RaGIvHX",
+          "width": 1280,
+          "height": 747
+        }
+      ],
+      "videos": [],
+      "text": "Nach der Abfahrt auf der pulvrigen schwarzen 1 gleich noch mal hoch und die ebenfalls pulvrige schwarze 2 gefahren. Blick von dieser Piste auf das Weissfluhjoch, dem Zentrum des Skigebiet.."
+    },
+    {
+      "photos": [
+        {
+          "name": "GHApTqb",
+          "width": 1280,
+          "height": 858
+        }
+      ],
+      "videos": [],
+      "text": "Nach der Mittagspause in der Parsennhütte ging es nochmal Richtung Gotschnagrat. Hier in der Sesselbahn Gruobenalp. Dieser Sektor hat am wenigsten Schnee, deshalb auch verständlich, dass die Schwarzseealp-Zweier-Sesselbahn nicht mehr in Betrieb war."
+    },
+    {
+      "photos": [
+        {
+          "name": "DWopR2I",
+          "width": 1280,
+          "height": 441
+        },
+        {
+          "name": "We5oF2H",
+          "width": 1280,
+          "height": 767
+        }
+      ],
+      "videos": [],
+      "text": "Danach entlang des Abgrunds oberhalb Klosters die 47 vom Gotschnagrat nach Schifer."
+    },
+    {
+      "photos": [
+        {
+          "name": "cHdSnMP",
+          "width": 1280,
+          "height": 853
+        }
+      ],
+      "videos": [],
+      "text": "Und wieder mit der langen Bahn nach oben. Blick aus der Gondel auf die Piste vom Weissfluhgipfel, jetzt natürlich wieder ohne Wolke."
+    },
+    {
+      "photos": [
+        {
+          "name": "tSGrdaW",
+          "width": 1280,
+          "height": 853
+        }
+      ],
+      "videos": [],
+      "text": "Also wieder weiter hoch und die schöne Piste nochmal bei Sicht genossen. Nur schade, dass man oben Kondition beweisen muss und bis zur Abfahrt hochsteigen muss."
+    },
+    {
+      "photos": [
+        {
+          "name": "ix923MW",
+          "width": 1280,
+          "height": 795
+        }
+      ],
+      "videos": [],
+      "text": "Blick zurück vom kurzen Verbindungs-Schlepplift Kreuzweg."
+    },
+    {
+      "photos": [
+        {
+          "name": "Y2dM824",
+          "width": 1280,
+          "height": 442
+        }
+      ],
+      "videos": [],
+      "text": "Wieder beim Hauptertäli, Blick hinüber zum Skigebiet Schatzalp. Und nein, dass ist nicht das Matterhorn, sondern das Tinzenhorn (3200m)."
+    },
+    {
+      "photos": [
+        {
+          "name": "Y7Wu4Ja",
+          "width": 1280,
+          "height": 610
+        }
+      ],
+      "videos": [],
+      "text": "Wetter wurde jetzt rasch wolkenloser, also noch schnell die verbleibenden einfangen. Hier am Meierhoftäli."
+    },
+    {
+      "photos": [
+        {
+          "name": "8ak9pcG",
+          "width": 1280,
+          "height": 667
+        }
+      ],
+      "videos": [],
+      "text": "Und ebenfalls dort: Tele zurück. Links das Weissfluhjoch, hinten der Weissfluhgipfel."
+    },
+    {
+      "photos": [
+        {
+          "name": "VzXez5w",
+          "width": 1280,
+          "height": 721
+        }
+      ],
+      "videos": [],
+      "text": "Schifergondel."
+    },
+    {
+      "photos": [
+        {
+          "name": "kotv7sP",
+          "width": 1280,
+          "height": 698
+        }
+      ],
+      "videos": [],
+      "text": "Weiter auf der noch nicht gefahrenen Hintenrum-Piste 24 nach Schifer. Nicht mehr offiziell geöffnet und es wurde auch per Laufschrift gewarnt, dass sie nicht mehr durchgehend befahrbar ist (netter Service)."
+    },
+    {
+      "photos": [
+        {
+          "name": "sXjQSa3",
+          "width": 1280,
+          "height": 286
+        }
+      ],
+      "videos": [],
+      "text": "Blick hinüber zur Mittelstation der Schiferbahn."
+    },
+    {
+      "photos": [
+        {
+          "name": "NmciLsn",
+          "width": 1280,
+          "height": 526
+        }
+      ],
+      "videos": [],
+      "text": "Weiterer Verlauf der Piste. Hier schon etwas erdig, aber problemlos."
+    },
+    {
+      "photos": [
+        {
+          "name": "N5Rrm9D",
+          "width": 1280,
+          "height": 892
+        }
+      ],
+      "videos": [],
+      "text": "Und noch ein Stück weiter... sehr schön und völlig einsam."
+    },
+    {
+      "photos": [
+        {
+          "name": "eTqbJro",
+          "width": 1280,
+          "height": 594
+        }
+      ],
+      "videos": [],
+      "text": "Letzter Abschnitt über die gewohnt grünen Wiesen in Schifer. Ein kurzes Stück musste man abschnallen und unten noch durch einen Bach stiefeln."
+    },
+    {
+      "photos": [
+        {
+          "name": "7rMYhCj",
+          "width": 1280,
+          "height": 853
+        }
+      ],
+      "videos": [],
+      "text": "Das musste ich fotografieren, wie geschickt diese große Skischule sich vor dem Eingang der Schiferbahn plaziert hatte. Da musste man sich recht rabiat durchkämpfen."
+    },
+    {
+      "photos": [
+        {
+          "name": "3q5YSma",
+          "width": 1280,
+          "height": 750
+        }
+      ],
+      "videos": [],
+      "text": "Wieder oben, Blick auf den Doppel-Schlepplift Furka, der ruhig mal durch eine Sesselbahn ersetzt werden könnte."
+    },
+    {
+      "photos": [
+        {
+          "name": "b2lc8fk",
+          "width": 1280,
+          "height": 389
+        }
+      ],
+      "videos": [],
+      "text": "Und nochmal zur Gruobenalp."
+    },
+    {
+      "photos": [
+        {
+          "name": "o4UsY2y",
+          "width": 1280,
+          "height": 626
+        },
+        {
+          "name": "JbZXL47",
+          "width": 1280,
+          "height": 736
+        }
+      ],
+      "videos": [],
+      "text": "Danach etwas gehetzt (deshalb keine Fotos) zur letzten Bergfahrt um 16:00 zur Schiferbahn. Wetter nun sehr schön und angenehm warm."
+    },
+    {
+      "photos": [
+        {
+          "name": "jvBQqti",
+          "width": 1280,
+          "height": 537
+        }
+      ],
+      "videos": [],
+      "text": "Und weiter mit der letzten Gondel um 16:30 auf's Weissfluhjoch. Mit mir nur noch die Pistenkontrolle in der Bahn. Komisch, denn sonst ist die letzte Gondel eigentlich immer ganz gut besucht."
+    },
+    {
+      "photos": [
+        {
+          "name": "rCatgPJ",
+          "width": 1280,
+          "height": 853
+        }
+      ],
+      "videos": [],
+      "text": "Pisten vom Gipfel immer noch sehr schön."
+    },
+    {
+      "photos": [
+        {
+          "name": "tvH7n11",
+          "width": 1280,
+          "height": 679
+        }
+      ],
+      "videos": [],
+      "text": "Und weiter auf der laaangen Talabfahrt nach Klosters (1700m Höhenunterschied)."
+    },
+    {
+      "photos": [
+        {
+          "name": "7fpRzMN",
+          "width": 1280,
+          "height": 515
+        }
+      ],
+      "videos": [],
+      "text": "Vorbei am Kreuzungspunkt, wo die Piste vom Gotschnagrat nach Schifer führt."
+    },
+    {
+      "photos": [
+        {
+          "name": "Kybe5wp",
+          "width": 1280,
+          "height": 853
+        }
+      ],
+      "videos": [],
+      "text": "Irgendwann holt man dann auch die langsameren auf der Talabfahrt ein... das waren aber die einzigen, denen ich begegnet bin. Das Schild warnt vor schneefreien Abschnitten, aber hier oben war noch alles ok."
+    },
+    {
+      "photos": [
+        {
+          "name": "XMsT2i1",
+          "width": 1280,
+          "height": 358
+        }
+      ],
+      "videos": [],
+      "text": "Gaststätte &quot;Alte Schwendi&quot;, ab dort wurde es dann etwas schneearm."
+    },
+    {
+      "photos": [
+        {
+          "name": "DBwrvje",
+          "width": 1280,
+          "height": 1017
+        }
+      ],
+      "videos": [],
+      "text": "Und das war das kritischste Stück. Ging gerade noch ohne abschnallen, aber sicher nicht mehr lange."
+    },
+    {
+      "photos": [
+        {
+          "name": "BfV7OYC",
+          "width": 1280,
+          "height": 848
+        }
+      ],
+      "videos": [],
+      "text": "Blümchen am Pistenrand."
+    },
+    {
+      "photos": [
+        {
+          "name": "ILiUNUM",
+          "width": 1280,
+          "height": 853
+        }
+      ],
+      "videos": [],
+      "text": "Und Ankunft auf dem Parkplatz neben dem Bahnhof in Klosters. Herrliche klares Wetter mit strahlend weißen Gipfeln."
+    },
+    {
+      "photos": [
+        {
+          "name": "yIwHZxU",
+          "width": 1280,
+          "height": 655
+        },
+        {
+          "name": "fAlFAZK",
+          "width": 1280,
+          "height": 301
+        }
+      ],
+      "videos": [],
+      "text": "Gefahrene Strecke. 145km und 14 Höhenkilometern innerhalb von 9h."
+    }
+  ],
+  "outro": "Fazit: Ein gewohnt entspannter Tag in Davos Parsenn. Ziemlich leer, fotogenes Wetter (ich hoffe es waren nicht zuviele Bilder?) und sehr gute Pistenverhältnisse. <br />\nAußerdem sieht es hier, im Gegensatz zu jenseits des Arlbergs, noch richtig nach Winter aus."
+}

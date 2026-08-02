@@ -1,451 +1,449 @@
-[
-  {
-    "destination": "glarus",
-    "date": "d20160709",
-    "type": "hike",
-    "track": true,
-    "detailMap": "swiss",
-    "timeShift": 0,
-    "shortTitle": "Murgseen",
-    "title": "Murgseen",
-    "title3d": {
-      "offsetY": 6,
-      "fontSize": 9,
-      "align": "center",
-      "width": 1920,
-      "height": 584
+{
+  "destination": "glarus",
+  "date": "d20160709",
+  "type": "hike",
+  "track": true,
+  "detailMap": "swiss",
+  "timeShift": 0,
+  "shortTitle": "Murgseen",
+  "title": "Murgseen",
+  "title3d": {
+    "offsetY": 6,
+    "fontSize": 9,
+    "align": "center",
+    "width": 1920,
+    "height": 584
+  },
+  "movie": "TukIn0MgC4s",
+  "intro": "Ein wenig verzögert startete auch meine Wandersaison. Letztes Wochenende ging es dafür zu den Murgseen oberhalb des Walensees. Den Startpunkt der relativ bekannten Rundtour erreicht man über eine kostenpflichtige Straße von Murg aus. Die Maut (inkl. Parkgebühr) betrug 10CHF, die ich in Münzen bezahlen musste. Die einspurige Straße führt in vielen Serpentinen das Tal bis auf 1100m hinauf. Ich parkte um 8:00 auf dem unteren der beiden Parkplätze, der für die Rundtour besser geeignet ist, da man sonst entweder am Anfang bergab oder am Ende bergauf steigen müsste (beides seltsam beim Wandern). Ich entschied mich die Tour entgegen des Uhrzeigersinns zu unternehmen.",
+  "landmarks": [
+    {
+      "photos": [
+        {
+          "name": "001",
+          "alt": "Brücke über Bergbach",
+          "date": "2016-07-09T08:16:11.000+02:00",
+          "width": 1920,
+          "height": 906
+        },
+        {
+          "name": "002",
+          "alt": "Bach mit Steinen",
+          "date": "2016-07-09T08:17:23.000+02:00",
+          "width": 1920,
+          "height": 1388
+        }
+      ],
+      "videos": [],
+      "text": "Deshalb ging es zuerst über den rauschenden Bach. Da es noch ziemlich bewölkt war, konnte ich mich auch ohne Graufilter an einer längeren Belichtungszeit versuchen."
     },
-    "movie": "TukIn0MgC4s",
-    "intro": "Ein wenig verzögert startete auch meine Wandersaison. Letztes Wochenende ging es dafür zu den Murgseen oberhalb des Walensees. Den Startpunkt der relativ bekannten Rundtour erreicht man über eine kostenpflichtige Straße von Murg aus. Die Maut (inkl. Parkgebühr) betrug 10CHF, die ich in Münzen bezahlen musste. Die einspurige Straße führt in vielen Serpentinen das Tal bis auf 1100m hinauf. Ich parkte um 8:00 auf dem unteren der beiden Parkplätze, der für die Rundtour besser geeignet ist, da man sonst entweder am Anfang bergab oder am Ende bergauf steigen müsste (beides seltsam beim Wandern). Ich entschied mich die Tour entgegen des Uhrzeigersinns zu unternehmen.",
-    "landmarks": [
-      {
-        "photos": [
-          {
-            "name": "001",
-            "alt": "Brücke über Bergbach",
-            "date": "2016-07-09T08:16:11.000+02:00",
-            "width": 1920,
-            "height": 906
-          },
-          {
-            "name": "002",
-            "alt": "Bach mit Steinen",
-            "date": "2016-07-09T08:17:23.000+02:00",
-            "width": 1920,
-            "height": 1388
-          }
-        ],
-        "videos": [],
-        "text": "Deshalb ging es zuerst über den rauschenden Bach. Da es noch ziemlich bewölkt war, konnte ich mich auch ohne Graufilter an einer längeren Belichtungszeit versuchen."
-      },
-      {
-        "photos": [
-          {
-            "name": "003",
-            "alt": "Moos",
-            "date": "2016-07-09T08:31:44.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Der Weg führte steil, aber schön, durch den total vermoosten Wald den Hang hinauf."
-      },
-      {
-        "photos": [
-          {
-            "name": "004",
-            "alt": "Churfirsten in Wolken",
-            "date": "2016-07-09T08:39:05.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Schon etwas weiter oben der Blick das Tal hinab. Im Hintergrund die Churfirsten hinter dem Walensee <span data-silent>(nicht der kleine Teich vorne 😉)</span>."
-      },
-      {
-        "photos": [
-          {
-            "name": "005",
-            "alt": "Wanderweg mit Holzstufen",
-            "date": "2016-07-09T08:49:08.000+02:00",
-            "width": 1920,
-            "height": 1218
-          }
-        ],
-        "videos": [],
-        "text": "Nach etwa 45 min Aufstieg erreichte ich ein Hochtal. Diesen Aufstieg überbrücken die oben gelegenen Alpen mittels einer Transportseilbahn."
-      },
-      {
-        "photos": [
-          {
-            "name": "006",
-            "alt": "Weg über Wiese",
-            "date": "2016-07-09T08:52:52.000+02:00",
-            "width": 1920,
-            "height": 1280
-          },
-          {
-            "name": "007",
-            "alt": "Bergbach",
-            "date": "2016-07-09T09:00:37.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Oben gings dann deutlich flacher weiter durch das Tal. Immer entlang des frei fließenden Flusses."
-      },
-      {
-        "photos": [
-          {
-            "name": "008",
-            "alt": "Felssturz",
-            "date": "2016-07-09T09:04:56.000+02:00",
-            "width": 1920,
-            "height": 1280
-          },
-          {
-            "name": "009",
-            "alt": "Abgestorbener Baum vor Fels",
-            "date": "2016-07-09T09:05:22.000+02:00",
-            "width": 1920,
-            "height": 1280
-          },
-          {
-            "name": "010",
-            "alt": "Violette Blümchen",
-            "date": "2016-07-09T09:05:58.000+02:00",
-            "width": 1920,
-            "height": 1280
-          },
-          {
-            "name": "011",
-            "alt": "Kleiner Wasserfall",
-            "date": "2016-07-09T09:11:05.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Dort oben ist abseits der Alpwiesen wilde Natur."
-      },
-      {
-        "photos": [
-          {
-            "name": "012",
-            "alt": "Gsponbach",
-            "date": "2016-07-09T09:19:33.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Es ging immer weiter am Fluss entlang bergauf. Netterweise wurde es auch sonniger."
-      },
-      {
-        "photos": [
-          {
-            "name": "013",
-            "alt": "Alp mit dunklen Wolken",
-            "date": "2016-07-09T09:22:14.000+02:00",
-            "width": 1920,
-            "height": 1134
-          },
-          {
-            "name": "014",
-            "alt": "Alpwiese mit Bach",
-            "date": "2016-07-09T09:28:11.000+02:00",
-            "width": 1920,
-            "height": 1280
-          },
-          {
-            "name": "015",
-            "alt": "Alpweg",
-            "date": "2016-07-09T09:50:13.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Immer wieder kam ich auch über bewirtschaftete Weiden."
-      },
-      {
-        "photos": [
-          {
-            "name": "016",
-            "alt": "Wanderweg zum Murgseefurggel",
-            "date": "2016-07-09T10:05:56.000+02:00",
-            "width": 1920,
-            "height": 768
-          },
-          {
-            "name": "018",
-            "alt": "Murgsee Rundweg",
-            "date": "2016-07-09T10:28:03.000+02:00",
-            "width": 1920,
-            "height": 1280
-          },
-          {
-            "name": "019",
-            "alt": "Alpenrosen",
-            "date": "2016-07-09T10:29:01.000+02:00",
-            "width": 1920,
-            "height": 1032
-          }
-        ],
-        "videos": [],
-        "text": "Klasse Weg durch eine klasse Landschaft. Ich kam mir zum Teil vor, als würde ich durch einen künstlich angelegten Park spazieren."
-      },
-      {
-        "photos": [
-          {
-            "name": "020",
-            "alt": "Bach in den Bergen",
-            "date": "2016-07-09T10:29:51.000+02:00",
-            "width": 1920,
-            "height": 1280
-          },
-          {
-            "name": "021",
-            "alt": "Holzbrücke über Gebirgsbach",
-            "date": "2016-07-09T10:38:40.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Am Ende des Tals ging es über den Bach nach links. Danach wurde es steiler, da es nun darum ging die Murgseefurggel zu überwinden. Einen Pass der dieses Tal mit dem Haupttal verbindet."
-      },
-      {
-        "photos": [
-          {
-            "name": "023",
-            "alt": "Mürtschenstock",
-            "date": "2016-07-09T11:10:06.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Schon ein Stück höher erreichte ich die ersten Schneefelder des zurückliegenden Winters. Blick zurück. Im Hintergrund das beeindruckende Massiv des Mürtschenstocks."
-      },
-      {
-        "photos": [
-          {
-            "name": "024",
-            "alt": "Alpenrosen",
-            "date": "2016-07-09T11:14:45.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Alpenrosen beim schweißtreibenden Aufstieg."
-      },
-      {
-        "photos": [
-          {
-            "name": "025",
-            "alt": "Oberer Murgsee",
-            "date": "2016-07-09T11:30:27.000+02:00",
-            "width": 1920,
-            "height": 717
-          },
-          {
-            "name": "026",
-            "alt": "Murgseehütte",
-            "date": "2016-07-09T11:38:29.000+02:00",
-            "width": 1920,
-            "height": 871
-          },
-          {
-            "name": "027",
-            "alt": "Alpenrosen am Murgsee",
-            "date": "2016-07-09T11:52:17.000+02:00",
-            "width": 1920,
-            "height": 1058
-          }
-        ],
-        "videos": [],
-        "text": "Puh, geschafft. Auf der anderen Seite des 2000m hohen Passes tauchen die zwei oberen der Murgseen auf."
-      },
-      {
-        "photos": [
-          {
-            "name": "028",
-            "alt": "Blumenwiese am Murgsee",
-            "date": "2016-07-09T12:02:23.000+02:00",
-            "width": 1920,
-            "height": 1280
-          },
-          {
-            "name": "029",
-            "alt": "Insel auf Murgsee",
-            "date": "2016-07-09T12:07:06.000+02:00",
-            "width": 1920,
-            "height": 970
-          }
-        ],
-        "videos": [],
-        "text": "Nach einer Pause am höchsten Punkt der Tour war ich auch recht schnell hinab zu den Seen. Badezeug hatte ich zwar dabei, aber da es nicht so richtig sonnig wurde, hatte ich mich dann doch um den Sprung ins Nass gedrückt."
-      },
-      {
-        "photos": [
-          {
-            "name": "030",
-            "alt": "Wanderweg zwischen Murgseen",
-            "date": "2016-07-09T12:07:28.000+02:00",
-            "width": 1920,
-            "height": 791
-          },
-          {
-            "name": "031",
-            "alt": "Staumauer Murgsee",
-            "date": "2016-07-09T12:11:27.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Der oberste See ist leicht aufgestaut."
-      },
-      {
-        "photos": [
-          {
-            "name": "033",
-            "alt": "Murgseehütte",
-            "date": "2016-07-09T12:15:04.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Am See befindet sich eine kleine Gaststätte, an der ich aber nur vorbeigegangen bin."
-      },
-      {
-        "photos": [
-          {
-            "name": "034",
-            "alt": "Mittlerer Murgsee",
-            "date": "2016-07-09T12:17:03.000+02:00",
-            "width": 1920,
-            "height": 1280
-          },
-          {
-            "name": "035",
-            "alt": "Mittlerer Murgsee",
-            "date": "2016-07-09T12:18:00.000+02:00",
-            "width": 1920,
-            "height": 868
-          }
-        ],
-        "videos": [],
-        "text": "Weiter ging es nun auf recht breitem Weg am mittleren der drei Murgseen vorbei."
-      },
-      {
-        "photos": [
-          {
-            "name": "036",
-            "alt": "Unterer Murgsee",
-            "date": "2016-07-09T12:26:44.000+02:00",
-            "width": 1920,
-            "height": 998
-          },
-          {
-            "name": "037",
-            "alt": "Unterer Murgsee",
-            "date": "2016-07-09T12:26:55.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Auf der nächsten Steilstufe tauchte dann etwas unterhalb der sehr naturbelassene unterste Murgsee auf. Zu dem kommt man auf offiziellem Weg nicht hin, man bestaunt ihn also nur von oben."
-      },
-      {
-        "photos": [
-          {
-            "name": "039",
-            "alt": "Lila Blume mit Farn",
-            "date": "2016-07-09T12:47:17.000+02:00",
-            "width": 1920,
-            "height": 2880
-          }
-        ],
-        "videos": [],
-        "text": "Pflanzen am Wegrand."
-      },
-      {
-        "photos": [
-          {
-            "name": "040",
-            "alt": "Alp unter Felswand",
-            "date": "2016-07-09T12:56:20.000+02:00",
-            "width": 1920,
-            "height": 1245
-          }
-        ],
-        "videos": [],
-        "text": "Eine Alp eine weitere Steilstufe weiter unten."
-      },
-      {
-        "photos": [
-          {
-            "name": "041",
-            "alt": "Steile Serpentine",
-            "date": "2016-07-09T13:16:48.000+02:00",
-            "width": 1920,
-            "height": 1498
-          }
-        ],
-        "videos": [],
-        "text": "Und anschließend ging es auf sehr steilem gepflasterten Weg rasch bergab. Die entgegenkommenden Wanderer taten mir etwas leid. 😉"
-      },
-      {
-        "photos": [
-          {
-            "name": "042",
-            "alt": "Fahrweg zu den Murgseen",
-            "date": "2016-07-09T13:40:47.000+02:00",
-            "width": 1920,
-            "height": 858
-          }
-        ],
-        "videos": [],
-        "text": "Dann wurde es etwas öde und der Weg führte erst auf Schotterweg und dann ab dem oberen Parkplatz auf der Fahrstraße zum Auto, welches ich um 14:00 erreichte."
-      },
-      {
-        "photos": [
-          {
-            "name": "043",
-            "alt": "Straße Walensee Murgseen",
-            "date": "2016-07-09T14:13:30.000+02:00",
-            "width": 1920,
-            "height": 1280
-          }
-        ],
-        "videos": [],
-        "text": "Dann ging es mit dem Auto wieder die Straße bergab zum Walensee."
-      },
-      {
-        "photos": [
-          {
-            "name": "track1",
-            "width": 1280,
-            "height": 647
-          },
-          {
-            "name": "track2",
-            "width": 1280,
-            "height": 254
-          }
-        ],
-        "videos": [],
-        "text": "Wie man sieht war es eine sehr gleichmäßige Tour. Die erste Hälfte immer bergauf und die zweite Hälfte immer bergab. Mit Pausen war ich 6h unterwegs, wobei ich mir ziemlich viel Zeit gelassen habe."
-      }
-    ],
-    "outro": "Fazit: Landschaftlich sehr schöne Wanderung. Das Wetter hätte sonniger sein können, denn Wasser zum Abkühlen hätte es wahrlich genug gehabt. Der Weg ist auch immer ungefährlich, kann man also auch gut mit Kindern bzw. mit weniger Berg-Erfahrenen machen."
-  }
-]
+    {
+      "photos": [
+        {
+          "name": "003",
+          "alt": "Moos",
+          "date": "2016-07-09T08:31:44.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Der Weg führte steil, aber schön, durch den total vermoosten Wald den Hang hinauf."
+    },
+    {
+      "photos": [
+        {
+          "name": "004",
+          "alt": "Churfirsten in Wolken",
+          "date": "2016-07-09T08:39:05.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Schon etwas weiter oben der Blick das Tal hinab. Im Hintergrund die Churfirsten hinter dem Walensee <span data-silent>(nicht der kleine Teich vorne 😉)</span>."
+    },
+    {
+      "photos": [
+        {
+          "name": "005",
+          "alt": "Wanderweg mit Holzstufen",
+          "date": "2016-07-09T08:49:08.000+02:00",
+          "width": 1920,
+          "height": 1218
+        }
+      ],
+      "videos": [],
+      "text": "Nach etwa 45 min Aufstieg erreichte ich ein Hochtal. Diesen Aufstieg überbrücken die oben gelegenen Alpen mittels einer Transportseilbahn."
+    },
+    {
+      "photos": [
+        {
+          "name": "006",
+          "alt": "Weg über Wiese",
+          "date": "2016-07-09T08:52:52.000+02:00",
+          "width": 1920,
+          "height": 1280
+        },
+        {
+          "name": "007",
+          "alt": "Bergbach",
+          "date": "2016-07-09T09:00:37.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Oben gings dann deutlich flacher weiter durch das Tal. Immer entlang des frei fließenden Flusses."
+    },
+    {
+      "photos": [
+        {
+          "name": "008",
+          "alt": "Felssturz",
+          "date": "2016-07-09T09:04:56.000+02:00",
+          "width": 1920,
+          "height": 1280
+        },
+        {
+          "name": "009",
+          "alt": "Abgestorbener Baum vor Fels",
+          "date": "2016-07-09T09:05:22.000+02:00",
+          "width": 1920,
+          "height": 1280
+        },
+        {
+          "name": "010",
+          "alt": "Violette Blümchen",
+          "date": "2016-07-09T09:05:58.000+02:00",
+          "width": 1920,
+          "height": 1280
+        },
+        {
+          "name": "011",
+          "alt": "Kleiner Wasserfall",
+          "date": "2016-07-09T09:11:05.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Dort oben ist abseits der Alpwiesen wilde Natur."
+    },
+    {
+      "photos": [
+        {
+          "name": "012",
+          "alt": "Gsponbach",
+          "date": "2016-07-09T09:19:33.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Es ging immer weiter am Fluss entlang bergauf. Netterweise wurde es auch sonniger."
+    },
+    {
+      "photos": [
+        {
+          "name": "013",
+          "alt": "Alp mit dunklen Wolken",
+          "date": "2016-07-09T09:22:14.000+02:00",
+          "width": 1920,
+          "height": 1134
+        },
+        {
+          "name": "014",
+          "alt": "Alpwiese mit Bach",
+          "date": "2016-07-09T09:28:11.000+02:00",
+          "width": 1920,
+          "height": 1280
+        },
+        {
+          "name": "015",
+          "alt": "Alpweg",
+          "date": "2016-07-09T09:50:13.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Immer wieder kam ich auch über bewirtschaftete Weiden."
+    },
+    {
+      "photos": [
+        {
+          "name": "016",
+          "alt": "Wanderweg zum Murgseefurggel",
+          "date": "2016-07-09T10:05:56.000+02:00",
+          "width": 1920,
+          "height": 768
+        },
+        {
+          "name": "018",
+          "alt": "Murgsee Rundweg",
+          "date": "2016-07-09T10:28:03.000+02:00",
+          "width": 1920,
+          "height": 1280
+        },
+        {
+          "name": "019",
+          "alt": "Alpenrosen",
+          "date": "2016-07-09T10:29:01.000+02:00",
+          "width": 1920,
+          "height": 1032
+        }
+      ],
+      "videos": [],
+      "text": "Klasse Weg durch eine klasse Landschaft. Ich kam mir zum Teil vor, als würde ich durch einen künstlich angelegten Park spazieren."
+    },
+    {
+      "photos": [
+        {
+          "name": "020",
+          "alt": "Bach in den Bergen",
+          "date": "2016-07-09T10:29:51.000+02:00",
+          "width": 1920,
+          "height": 1280
+        },
+        {
+          "name": "021",
+          "alt": "Holzbrücke über Gebirgsbach",
+          "date": "2016-07-09T10:38:40.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Am Ende des Tals ging es über den Bach nach links. Danach wurde es steiler, da es nun darum ging die Murgseefurggel zu überwinden. Einen Pass der dieses Tal mit dem Haupttal verbindet."
+    },
+    {
+      "photos": [
+        {
+          "name": "023",
+          "alt": "Mürtschenstock",
+          "date": "2016-07-09T11:10:06.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Schon ein Stück höher erreichte ich die ersten Schneefelder des zurückliegenden Winters. Blick zurück. Im Hintergrund das beeindruckende Massiv des Mürtschenstocks."
+    },
+    {
+      "photos": [
+        {
+          "name": "024",
+          "alt": "Alpenrosen",
+          "date": "2016-07-09T11:14:45.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Alpenrosen beim schweißtreibenden Aufstieg."
+    },
+    {
+      "photos": [
+        {
+          "name": "025",
+          "alt": "Oberer Murgsee",
+          "date": "2016-07-09T11:30:27.000+02:00",
+          "width": 1920,
+          "height": 717
+        },
+        {
+          "name": "026",
+          "alt": "Murgseehütte",
+          "date": "2016-07-09T11:38:29.000+02:00",
+          "width": 1920,
+          "height": 871
+        },
+        {
+          "name": "027",
+          "alt": "Alpenrosen am Murgsee",
+          "date": "2016-07-09T11:52:17.000+02:00",
+          "width": 1920,
+          "height": 1058
+        }
+      ],
+      "videos": [],
+      "text": "Puh, geschafft. Auf der anderen Seite des 2000m hohen Passes tauchen die zwei oberen der Murgseen auf."
+    },
+    {
+      "photos": [
+        {
+          "name": "028",
+          "alt": "Blumenwiese am Murgsee",
+          "date": "2016-07-09T12:02:23.000+02:00",
+          "width": 1920,
+          "height": 1280
+        },
+        {
+          "name": "029",
+          "alt": "Insel auf Murgsee",
+          "date": "2016-07-09T12:07:06.000+02:00",
+          "width": 1920,
+          "height": 970
+        }
+      ],
+      "videos": [],
+      "text": "Nach einer Pause am höchsten Punkt der Tour war ich auch recht schnell hinab zu den Seen. Badezeug hatte ich zwar dabei, aber da es nicht so richtig sonnig wurde, hatte ich mich dann doch um den Sprung ins Nass gedrückt."
+    },
+    {
+      "photos": [
+        {
+          "name": "030",
+          "alt": "Wanderweg zwischen Murgseen",
+          "date": "2016-07-09T12:07:28.000+02:00",
+          "width": 1920,
+          "height": 791
+        },
+        {
+          "name": "031",
+          "alt": "Staumauer Murgsee",
+          "date": "2016-07-09T12:11:27.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Der oberste See ist leicht aufgestaut."
+    },
+    {
+      "photos": [
+        {
+          "name": "033",
+          "alt": "Murgseehütte",
+          "date": "2016-07-09T12:15:04.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Am See befindet sich eine kleine Gaststätte, an der ich aber nur vorbeigegangen bin."
+    },
+    {
+      "photos": [
+        {
+          "name": "034",
+          "alt": "Mittlerer Murgsee",
+          "date": "2016-07-09T12:17:03.000+02:00",
+          "width": 1920,
+          "height": 1280
+        },
+        {
+          "name": "035",
+          "alt": "Mittlerer Murgsee",
+          "date": "2016-07-09T12:18:00.000+02:00",
+          "width": 1920,
+          "height": 868
+        }
+      ],
+      "videos": [],
+      "text": "Weiter ging es nun auf recht breitem Weg am mittleren der drei Murgseen vorbei."
+    },
+    {
+      "photos": [
+        {
+          "name": "036",
+          "alt": "Unterer Murgsee",
+          "date": "2016-07-09T12:26:44.000+02:00",
+          "width": 1920,
+          "height": 998
+        },
+        {
+          "name": "037",
+          "alt": "Unterer Murgsee",
+          "date": "2016-07-09T12:26:55.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Auf der nächsten Steilstufe tauchte dann etwas unterhalb der sehr naturbelassene unterste Murgsee auf. Zu dem kommt man auf offiziellem Weg nicht hin, man bestaunt ihn also nur von oben."
+    },
+    {
+      "photos": [
+        {
+          "name": "039",
+          "alt": "Lila Blume mit Farn",
+          "date": "2016-07-09T12:47:17.000+02:00",
+          "width": 1920,
+          "height": 2880
+        }
+      ],
+      "videos": [],
+      "text": "Pflanzen am Wegrand."
+    },
+    {
+      "photos": [
+        {
+          "name": "040",
+          "alt": "Alp unter Felswand",
+          "date": "2016-07-09T12:56:20.000+02:00",
+          "width": 1920,
+          "height": 1245
+        }
+      ],
+      "videos": [],
+      "text": "Eine Alp eine weitere Steilstufe weiter unten."
+    },
+    {
+      "photos": [
+        {
+          "name": "041",
+          "alt": "Steile Serpentine",
+          "date": "2016-07-09T13:16:48.000+02:00",
+          "width": 1920,
+          "height": 1498
+        }
+      ],
+      "videos": [],
+      "text": "Und anschließend ging es auf sehr steilem gepflasterten Weg rasch bergab. Die entgegenkommenden Wanderer taten mir etwas leid. 😉"
+    },
+    {
+      "photos": [
+        {
+          "name": "042",
+          "alt": "Fahrweg zu den Murgseen",
+          "date": "2016-07-09T13:40:47.000+02:00",
+          "width": 1920,
+          "height": 858
+        }
+      ],
+      "videos": [],
+      "text": "Dann wurde es etwas öde und der Weg führte erst auf Schotterweg und dann ab dem oberen Parkplatz auf der Fahrstraße zum Auto, welches ich um 14:00 erreichte."
+    },
+    {
+      "photos": [
+        {
+          "name": "043",
+          "alt": "Straße Walensee Murgseen",
+          "date": "2016-07-09T14:13:30.000+02:00",
+          "width": 1920,
+          "height": 1280
+        }
+      ],
+      "videos": [],
+      "text": "Dann ging es mit dem Auto wieder die Straße bergab zum Walensee."
+    },
+    {
+      "photos": [
+        {
+          "name": "track1",
+          "width": 1280,
+          "height": 647
+        },
+        {
+          "name": "track2",
+          "width": 1280,
+          "height": 254
+        }
+      ],
+      "videos": [],
+      "text": "Wie man sieht war es eine sehr gleichmäßige Tour. Die erste Hälfte immer bergauf und die zweite Hälfte immer bergab. Mit Pausen war ich 6h unterwegs, wobei ich mir ziemlich viel Zeit gelassen habe."
+    }
+  ],
+  "outro": "Fazit: Landschaftlich sehr schöne Wanderung. Das Wetter hätte sonniger sein können, denn Wasser zum Abkühlen hätte es wahrlich genug gehabt. Der Weg ist auch immer ungefährlich, kann man also auch gut mit Kindern bzw. mit weniger Berg-Erfahrenen machen."
+}

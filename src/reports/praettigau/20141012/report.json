@@ -1,887 +1,885 @@
-[
-  {
-    "destination": "praettigau",
-    "date": "d20141012",
-    "type": "hike",
-    "track": true,
-    "detailMap": "austria",
-    "shortTitle": "Sulzfluh",
-    "title": "Partnun - Sulzfluh - Plasseggenpass",
-    "title3d": {
-      "offsetY": 0,
-      "fontSize": 7.5,
-      "align": "center",
-      "width": 1920,
-      "height": 574
+{
+  "destination": "praettigau",
+  "date": "d20141012",
+  "type": "hike",
+  "track": true,
+  "detailMap": "austria",
+  "shortTitle": "Sulzfluh",
+  "title": "Partnun - Sulzfluh - Plasseggenpass",
+  "title3d": {
+    "offsetY": 0,
+    "fontSize": 7.5,
+    "align": "center",
+    "width": 1920,
+    "height": 574
+  },
+  "movie": "djccpoONIFA",
+  "intro": "Solange der erste richtige Wintereinbruch auf sich warten lässt, ermöglicht dieser Herbst noch problemlos Wanderungen im höheren Gebirge. Ich entschloss mich diesen Sonntag zur Besteigung der 2800m hohen Sulzfluh, direkt an der Grenze zwischen Schweiz und Österreich.<br />\nIch wählte die Erklimmung von der Schweiz aus, genauer gesagt vom kleinen Ort Partnun aus. Um dort hin zu gelangen geht es zuerst am Rhein lang bis nach Landquart, dann ab ins Prättigau Richtung Davos. In Küblis geht es dann links ab nach St. Antönien und anschließend einspurig bis nach Partnun. Da in Partnun keine öffentlichen Parkplätze existieren, muss man ca. 500m davor halten und 6CHF für einen Tag bezahlen.",
+  "landmarks": [
+    {
+      "photos": [
+        {
+          "name": "001",
+          "alt": "Partnun am Morgen",
+          "date": "2014-10-12T07:46:07.000+02:00",
+          "width": 1920,
+          "height": 758
+        }
+      ],
+      "videos": [],
+      "text": "Nach der doch ziemlich langen Anfahrt von fast zwei Stunden, geht es um 7:45 endlich zu Fuß weiter. Zuerst entlang des Bachs und der Fahrstraße nach Partnun. Noch ist es dämmrig und ziemlich frisch. Links strahlt die Sonne aber bereits das Ziel der Wanderung an, die Sulzfluh."
     },
-    "movie": "djccpoONIFA",
-    "intro": "Solange der erste richtige Wintereinbruch auf sich warten lässt, ermöglicht dieser Herbst noch problemlos Wanderungen im höheren Gebirge. Ich entschloss mich diesen Sonntag zur Besteigung der 2800m hohen Sulzfluh, direkt an der Grenze zwischen Schweiz und Österreich.<br />\nIch wählte die Erklimmung von der Schweiz aus, genauer gesagt vom kleinen Ort Partnun aus. Um dort hin zu gelangen geht es zuerst am Rhein lang bis nach Landquart, dann ab ins Prättigau Richtung Davos. In Küblis geht es dann links ab nach St. Antönien und anschließend einspurig bis nach Partnun. Da in Partnun keine öffentlichen Parkplätze existieren, muss man ca. 500m davor halten und 6CHF für einen Tag bezahlen.",
-    "landmarks": [
-      {
-        "photos": [
-          {
-            "name": "001",
-            "alt": "Partnun am Morgen",
-            "date": "2014-10-12T07:46:07.000+02:00",
-            "width": 1920,
-            "height": 758
-          }
-        ],
-        "videos": [],
-        "text": "Nach der doch ziemlich langen Anfahrt von fast zwei Stunden, geht es um 7:45 endlich zu Fuß weiter. Zuerst entlang des Bachs und der Fahrstraße nach Partnun. Noch ist es dämmrig und ziemlich frisch. Links strahlt die Sonne aber bereits das Ziel der Wanderung an, die Sulzfluh."
-      },
-      {
-        "photos": [
-          {
-            "name": "002",
-            "alt": "Brunnen aus Holz",
-            "date": "2014-10-12T08:03:46.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Etwas weiter. Der Blick zurück Richtung Parkplatz."
-      },
-      {
-        "photos": [
-          {
-            "name": "003",
-            "alt": "Sulzfluh am Morgen",
-            "date": "2014-10-12T08:10:44.000+02:00",
-            "width": 1920,
-            "height": 801
-          }
-        ],
-        "videos": [],
-        "text": "Am Ort (eigentlich nur ein paar Häuser) biegt der Weg links ab und es geht direkt auf die Sulzfluh zu, ein ziemlich felsiges Ungetüm."
-      },
-      {
-        "photos": [
-          {
-            "name": "004",
-            "alt": "Rätschenhorn",
-            "date": "2014-10-12T08:33:12.000+02:00",
-            "width": 1920,
-            "height": 836
-          }
-        ],
-        "videos": [],
-        "text": "Anschließend geht es steil die Wiesen bergauf."
-      },
-      {
-        "photos": [
-          {
-            "name": "005",
-            "alt": "Partnunsee",
-            "date": "2014-10-12T08:35:36.000+02:00",
-            "width": 1682,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Der Weg führt oberhalb der Partnunsees vorbei (etwas schlecht rechts erkennbar)."
-      },
-      {
-        "photos": [
-          {
-            "name": "006",
-            "alt": "Hütte mit ersten Sonnenstrahlen",
-            "date": "2014-10-12T08:39:13.000+02:00",
-            "width": 1899,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Der Sonnenaufgang rückt näher... aber auch leider einige dunkle Wolken."
-      },
-      {
-        "photos": [
-          {
-            "name": "007",
-            "alt": "Wegweiser Klettersteig",
-            "date": "2014-10-12T08:48:06.000+02:00",
-            "width": 1920,
-            "height": 1048
-          }
-        ],
-        "videos": [],
-        "text": "Der Weg ist einfach zu finden, immer dem Wegweiser Sulzfluh nach. Neben dem Bergweg führt von dieser Seite auch noch ein bekannter Klettersteig zum Gipfel."
-      },
-      {
-        "photos": [
-          {
-            "name": "008",
-            "alt": "Sonnenaufgang hinter Bergen",
-            "date": "2014-10-12T08:54:35.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Ahh, endlich Sonnenaufgang. Da wird es temperaturmäßig gleich angenehmer."
-      },
-      {
-        "photos": [
-          {
-            "name": "009",
-            "alt": "Weg über Schuttkegel",
-            "date": "2014-10-12T08:56:16.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Zu gleich sind die Felsen und Schuttkegel der Sulzfluh erreicht. Schon eine Stunde unterwegs und die ersten 500 Höhenmeter hat man hinter sich."
-      },
-      {
-        "photos": [
-          {
-            "name": "010",
-            "alt": "Felsenkessel",
-            "date": "2014-10-12T09:01:49.000+02:00",
-            "width": 1920,
-            "height": 940
-          }
-        ],
-        "videos": [],
-        "text": "Dann geht es hinein in einen beeindruckenden - von Felswänden umgebenen - Kessel. Der Wanderweg geht beim kleinen gelben Schild rechts den Fels hinauf."
-      },
-      {
-        "photos": [
-          {
-            "name": "011",
-            "alt": "Schotterfelder",
-            "date": "2014-10-12T09:06:05.000+02:00",
-            "width": 1920,
-            "height": 808
-          }
-        ],
-        "videos": [],
-        "text": "Genau dort, wo ich mich jetzt befinde. Hier der Blick zurück."
-      },
-      {
-        "photos": [
-          {
-            "name": "012",
-            "alt": "Kraxelabschnitt",
-            "date": "2014-10-12T09:07:39.000+02:00",
-            "width": 1845,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Und noch ein Stück weiter schon heftig am Kraxeln, den kettengesicherten Weg hinauf."
-      },
-      {
-        "photos": [
-          {
-            "name": "013",
-            "alt": "Gämsen im Fels",
-            "date": "2014-10-12T09:14:03.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Blick auf eine Höhle auf der anderen Seite des Kessels. Wer kann den Grund erkennen, warum dieses Tal Gemstobel heißt?"
-      },
-      {
-        "photos": [
-          {
-            "name": "014",
-            "alt": "Blick zurück nach Partnun",
-            "date": "2014-10-12T09:19:18.000+02:00",
-            "width": 1920,
-            "height": 783
-          }
-        ],
-        "videos": [],
-        "text": "Geschafft - nach dem Steilstück ist es im eigentlichen Tal richtig harmlos. Links unten ist Partnun zu erahnen."
-      },
-      {
-        "photos": [
-          {
-            "name": "015",
-            "alt": "Gruobenpass",
-            "date": "2014-10-12T09:39:50.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Im Tal geht es zum Teil über Gras, aber hauptsächlich über Schutt und Felsen bergauf. Eingerahmt von massiven Felswänden."
-      },
-      {
-        "photos": [
-          {
-            "name": "016",
-            "alt": "Steiler Bergweg",
-            "date": "2014-10-12T09:50:35.000+02:00",
-            "width": 1920,
-            "height": 767
-          }
-        ],
-        "videos": [],
-        "text": "Und zwischendurch kommen auch ein paar steilere Passagen, die aber nicht wirklich gefährlich sind... aber zum Teil braucht man die Hände.<br />\nUnangenehm war der starke durch das Tal wehende Wind."
-      },
-      {
-        "photos": [
-          {
-            "name": "017",
-            "alt": "Weg durch Fels",
-            "date": "2014-10-12T10:16:36.000+02:00",
-            "width": 1620,
-            "height": 1080
-          },
-          {
-            "name": "018",
-            "alt": "Viele Wegzeichen",
-            "date": "2014-10-12T10:17:53.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Kurz vor dem Grat richtig durch die Felsen. Wie man sieht, ausreichend gekennzeichnet."
-      },
-      {
-        "photos": [
-          {
-            "name": "019",
-            "alt": "Blick ins Montafon",
-            "date": "2014-10-12T10:19:39.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Die österreichische Grenze befindet sich genau auf dem Grat, folgerichtig fällt der Blick nun erstmals ins Montafon."
-      },
-      {
-        "photos": [
-          {
-            "name": "020",
-            "alt": "Gipfel der Sulzfluh",
-            "date": "2014-10-12T10:21:20.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Aber der höchste Punkt ist noch nicht erreicht."
-      },
-      {
-        "photos": [
-          {
-            "name": "021",
-            "alt": "Verwirrender Weg",
-            "date": "2014-10-12T10:23:54.000+02:00",
-            "width": 1920,
-            "height": 939
-          }
-        ],
-        "videos": [],
-        "text": "Es geht weiter über reinen Fels hinauf. Die Wegzeichen waren etwas chaotisch - evt. schweizerisches-österreichisches Konkurrenzgehabe? 😉"
-      },
-      {
-        "photos": [
-          {
-            "name": "022",
-            "alt": "Aufstieg zur Sulzfluh",
-            "date": "2014-10-12T10:29:35.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Immer noch nicht oben..."
-      },
-      {
-        "photos": [
-          {
-            "name": "023",
-            "alt": "Am Abgrund entlang",
-            "date": "2014-10-12T10:33:03.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Wieder einen Grat erreicht, diesmal Richtung Süd-West zum Rheintal."
-      },
-      {
-        "photos": [
-          {
-            "name": "024",
-            "alt": "Gipfelkreuz Sulzfluh",
-            "date": "2014-10-12T10:35:11.000+02:00",
-            "width": 1894,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Der Gipfel. Oben recht flach, mit monströsem Kreuz gekrönt."
-      },
-      {
-        "photos": [
-          {
-            "name": "025",
-            "alt": "Aussicht Sulzfluh",
-            "date": "2014-10-12T10:39:02.000+02:00",
-            "width": 1920,
-            "height": 966
-          },
-          {
-            "name": "026",
-            "alt": "Vorarlberg",
-            "date": "2014-10-12T10:51:23.000+02:00",
-            "width": 1920,
-            "height": 801
-          }
-        ],
-        "videos": [],
-        "text": "Oben um 10:45 nach 1200m Aufstieg. Verdiente Pause bei stürmischem Wind. Die Aussicht ist phantastisch, zuerst Richtung Süden nach Vorarlberg.<br />\nDer Berg in der Mitte ist das Hochjoch vom Skigebiet Silvretta Montafon. Gerade zu mickrig von hier oben."
-      },
-      {
-        "photos": [
-          {
-            "name": "027",
-            "alt": "Prättigau Panorama",
-            "date": "2014-10-12T10:54:59.000+02:00",
-            "width": 1920,
-            "height": 682
-          }
-        ],
-        "videos": [],
-        "text": "Und nun nach Süden nach Davos. Braune Herbstwiesen sehen einfach super aus. 😃"
-      },
-      {
-        "photos": [
-          {
-            "name": "028",
-            "alt": "Drusenfluh und Schesaplana",
-            "date": "2014-10-12T10:56:37.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Zuletzt der Blick nach Westen, Richtung Aufstieg. Wie man sieht, gab's sogar ein paar Restschneeflecken."
-      },
-      {
-        "photos": [
-          {
-            "name": "029",
-            "alt": "Braune Herbstwiesen",
-            "date": "2014-10-12T10:56:47.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Noch mal ein Zoom auf die rötlich-brauchen Wiesen."
-      },
-      {
-        "photos": [
-          {
-            "name": "030",
-            "alt": "Wanderung Sulzfluh",
-            "date": "2014-10-12T11:27:42.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Auf Grund des starken Winds befinde ich mich doch recht schnell wieder auf dem Abstieg. Der Blick fällt noch mal zurück zum Gipfel."
-      },
-      {
-        "photos": [
-          {
-            "name": "031",
-            "alt": "Karrenfeld",
-            "date": "2014-10-12T11:33:12.000+02:00",
-            "width": 1920,
-            "height": 642
-          }
-        ],
-        "videos": [],
-        "text": "Nun geht es aber nicht wieder durch den Gemstobel bergab, sondern auf dem großen Felsrücken Richtung Tilisuna-Hütte."
-      },
-      {
-        "photos": [
-          {
-            "name": "032",
-            "alt": "Weg mit Steinmännchen",
-            "date": "2014-10-12T11:35:28.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Der Weg ist durch unzählige Steinmännchen gekennzeichnet, geht aber recht angenehm flach bergab."
-      },
-      {
-        "photos": [
-          {
-            "name": "033",
-            "alt": "Tilisunasee und Hochjoch",
-            "date": "2014-10-12T11:48:33.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Der Tilisunasee (direkt neben der Tilisuna-Hütte), das nächste Etappenziel. Im Hintergrund wieder das Hochjoch."
-      },
-      {
-        "photos": [
-          {
-            "name": "034",
-            "alt": "Weg über Felsplatte",
-            "date": "2014-10-12T11:49:45.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Über diese beeindruckende Felsplatte führt der weitere Weg. Könnt ihr die beiden Wanderer entdecken? Dann wird einem die Größenordnung erst bewusst."
-      },
-      {
-        "photos": [
-          {
-            "name": "035",
-            "alt": "Mondlandschaft",
-            "date": "2014-10-12T11:57:16.000+02:00",
-            "width": 1920,
-            "height": 500
-          }
-        ],
-        "videos": [],
-        "text": "Steine, Felsen, Steine... ziemlich mondig hier."
-      },
-      {
-        "photos": [
-          {
-            "name": "036",
-            "alt": "Langer Weg über Karrenfeld",
-            "date": "2014-10-12T12:01:36.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Nun bin ich ebenfalls auf der Steinplatte. Die Steinmännchen weisen den Weg. Wo genau er führt ist aber ziemlich egal, man kann einfach quer-feld-ein gehen."
-      },
-      {
-        "photos": [
-          {
-            "name": "037",
-            "alt": "Hochgebirgswanderung",
-            "date": "2014-10-12T12:04:27.000+02:00",
-            "width": 1920,
-            "height": 741
-          }
-        ],
-        "videos": [],
-        "text": "Einfach schön."
-      },
-      {
-        "photos": [
-          {
-            "name": "038",
-            "alt": "Blick über das Karrenfeld",
-            "date": "2014-10-12T12:09:05.000+02:00",
-            "width": 1920,
-            "height": 620
-          }
-        ],
-        "videos": [],
-        "text": "Blick zurück. Der dunkle Buckel in der Mitte ist die Sulzfluh."
-      },
-      {
-        "photos": [
-          {
-            "name": "039",
-            "alt": "Karstgebiet",
-            "date": "2014-10-12T12:11:53.000+02:00",
-            "width": 812,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Die Felsplatte ist ziemlich intakt, aber diese kleine Spalte musste man überspringen."
-      },
-      {
-        "photos": [
-          {
-            "name": "040",
-            "alt": "Skigebiet Golm",
-            "date": "2014-10-12T12:15:27.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Zoom nach Norden zum Skigebiet Golm, wo ich selbst noch nie war."
-      },
-      {
-        "photos": [
-          {
-            "name": "041",
-            "alt": "Wanderung Tilisuna Hütte",
-            "date": "2014-10-12T12:16:55.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Urplötzlich verlässt man das felsige Gebiet und man findet sich auf sanften Wiesen wieder. Im Blick schon die Tilisuna-Hütte."
-      },
-      {
-        "photos": [
-          {
-            "name": "042",
-            "alt": "Gras und Fels",
-            "date": "2014-10-12T12:19:28.000+02:00",
-            "width": 1920,
-            "height": 663
-          }
-        ],
-        "videos": [],
-        "text": "Hier kann man gut die scharfe Grenze zwischen Fels und Wiese erkennen."
-      },
-      {
-        "photos": [
-          {
-            "name": "043",
-            "alt": "Wanderwegweiser Österreich",
-            "date": "2014-10-12T12:29:15.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Nun auch endgültig in Österreich, was man gut an den Wegweisern erkennen kann."
-      },
-      {
-        "photos": [
-          {
-            "name": "044",
-            "alt": "Tilisuna Hütte",
-            "date": "2014-10-12T12:34:05.000+02:00",
-            "width": 1920,
-            "height": 936
-          }
-        ],
-        "videos": [],
-        "text": "Ankunft an der Tilisuna-Hütte auf 2200m um 12:30. Zum draußen sitzen war es zu frisch, da es jetzt neben dem Wind zwar nicht wolkig, aber doch ziemlich diesig war. Ich habe deshalb auf eine Pause verzichtet."
-      },
-      {
-        "photos": [
-          {
-            "name": "045",
-            "alt": "Tilisunasee",
-            "date": "2014-10-12T12:43:34.000+02:00",
-            "width": 1920,
-            "height": 837
-          }
-        ],
-        "videos": [],
-        "text": "Blick auf den Tilisunasee."
-      },
-      {
-        "photos": [
-          {
-            "name": "046",
-            "alt": "Rundwanderung Tilisuna",
-            "date": "2014-10-12T12:55:34.000+02:00",
-            "width": 1920,
-            "height": 823
-          }
-        ],
-        "videos": [],
-        "text": "Aussicht zurück auf die Tilisuna-Hütte und den Felsgletscher, über den ich abgestiegen war. Der diffuse Himmel hat nun sehr schnell einem föhnig blauen Himmel Platz gemacht. Der starke Wind muss ja auch für was gut sein."
-      },
-      {
-        "photos": [
-          {
-            "name": "047",
-            "alt": "Gruobenpass",
-            "date": "2014-10-12T13:07:14.000+02:00",
-            "width": 1920,
-            "height": 821
-          }
-        ],
-        "videos": [],
-        "text": "Hier würde es über die Grenze nach Partnun führen. Nach etwas überlegen geht es aber jetzt doch nicht auf direktem Weg zurück, sondern weiter auf der österreichischen Seite.<br />\nIm Hintergrund die Sulzfluh."
-      },
-      {
-        "photos": [
-          {
-            "name": "048",
-            "alt": "Grenzhütte",
-            "date": "2014-10-12T13:08:20.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Grenzhütte. Hatte aber keinen Ausfuhrschein zum Abstempeln dabei...<br />\nNach rechts runter geht's jetzt weiter."
-      },
-      {
-        "photos": [
-          {
-            "name": "049",
-            "alt": "Wanderweg über Wiesen",
-            "date": "2014-10-12T13:24:18.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Nun sehr schön über Wiesen, Felsen und an kleinen Seen vorbei weiter."
-      },
-      {
-        "photos": [
-          {
-            "name": "050",
-            "alt": "Weg an Felsengrenze",
-            "date": "2014-10-12T13:41:38.000+02:00",
-            "width": 1620,
-            "height": 1080
-          },
-          {
-            "name": "051",
-            "alt": "Wiss Platte",
-            "date": "2014-10-12T13:43:06.000+02:00",
-            "width": 1920,
-            "height": 591
-          }
-        ],
-        "videos": [],
-        "text": "Umrundet wird dabei ein weiterer massiver Felsblock, der den Berg Schijenflue bildet, auf den kein normaler Weg geht."
-      },
-      {
-        "photos": [
-          {
-            "name": "052",
-            "alt": "Kleiner Bergsee",
-            "date": "2014-10-12T13:48:03.000+02:00",
-            "width": 1920,
-            "height": 1078
-          }
-        ],
-        "videos": [],
-        "text": "Der Wanderweg führt dagegen geruhsam, nur langsam aufsteigend, hinauf."
-      },
-      {
-        "photos": [
-          {
-            "name": "053",
-            "alt": "Wanderweg Plasseggenpass",
-            "date": "2014-10-12T13:54:29.000+02:00",
-            "width": 1920,
-            "height": 815
-          }
-        ],
-        "videos": [],
-        "text": "Fast oben auf dem Plasseggenpass. Blick zurück."
-      },
-      {
-        "photos": [
-          {
-            "name": "054",
-            "alt": "Plasseggenpass",
-            "date": "2014-10-12T13:58:37.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Pass und Grenze um 14:00 auf 2300m erreicht."
-      },
-      {
-        "photos": [
-          {
-            "name": "055",
-            "alt": "Röbispitzen",
-            "date": "2014-10-12T14:00:59.000+02:00",
-            "width": 1603,
-            "height": 1080
-          },
-          {
-            "name": "056",
-            "alt": "Skandinavische Landschaft",
-            "date": "2014-10-12T14:03:29.000+02:00",
-            "width": 1920,
-            "height": 703
-          }
-        ],
-        "videos": [],
-        "text": "Auf der Schweizer Seite sieht die Landschaft schon wieder völlig verändert aus und weckt Erinnerungen an Island oder Grönland (auch wenn ich da noch nie war)."
-      },
-      {
-        "photos": [
-          {
-            "name": "057",
-            "alt": "Mountainbike",
-            "date": "2014-10-12T14:06:53.000+02:00",
-            "width": 1620,
-            "height": 1080
-          },
-          {
-            "name": "058",
-            "alt": "Rotspitz",
-            "date": "2014-10-12T14:08:28.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Ein Biker überholt mich in ansonsten totaler Einsamkeit. Eine tolle Stimmung."
-      },
-      {
-        "photos": [
-          {
-            "name": "059",
-            "alt": "Sulzfluh",
-            "date": "2014-10-12T14:34:19.000+02:00",
-            "width": 1920,
-            "height": 852
-          },
-          {
-            "name": "060",
-            "alt": "Bergmassiv Sulzfluh",
-            "date": "2014-10-12T14:34:47.000+02:00",
-            "width": 1572,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Die Schijenflue ist nach etwas Abstieg nun komplett umrundet, so dass sich wieder der Blick zur Sulzfluh öffnet. Kaum zu glauben, dass man ein paar Stunden zuvor noch dort oben stand. Rechts ist übrigens der Gemstobel zu sehen, durch den der Aufstieg führte."
-      },
-      {
-        "photos": [
-          {
-            "name": "061",
-            "alt": "Steiler Abstieg",
-            "date": "2014-10-12T14:43:08.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Am Ende der nordischen Hochfläche geht der Weg ziemlich steil bergab. Mit dem Rad wäre das für mich auf jeden Fall nichts."
-      },
-      {
-        "photos": [
-          {
-            "name": "062",
-            "alt": "Abstieg nach Partnun",
-            "date": "2014-10-12T14:51:24.000+02:00",
-            "width": 1920,
-            "height": 738
-          }
-        ],
-        "videos": [],
-        "text": "Steilstück überwunden. Partnun unterhalb der Sulzfluh rückt ins Blickfeld."
-      },
-      {
-        "photos": [
-          {
-            "name": "063",
-            "alt": "Weberlisch Höli",
-            "date": "2014-10-12T14:56:37.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Vorbei geht es an einer Felswand mit sehr vielen Höhlen und Kletterseilen."
-      },
-      {
-        "photos": [
-          {
-            "name": "064",
-            "alt": "Fahrweg durch das Tal",
-            "date": "2014-10-12T15:16:51.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Nach dem ganzen Abstieg ist ein Fahrweg erreicht, was für die geschundenen Beine sehr angenehm ist."
-      },
-      {
-        "photos": [
-          {
-            "name": "065",
-            "alt": "Tällibach",
-            "date": "2014-10-12T15:18:34.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Kleine Pause am Bach und Blick zurück. Da hinten in der Mitte ging es durch."
-      },
-      {
-        "photos": [
-          {
-            "name": "066",
-            "alt": "Partnun mit Sulzfluh",
-            "date": "2014-10-12T15:28:25.000+02:00",
-            "width": 1920,
-            "height": 841
-          }
-        ],
-        "videos": [],
-        "text": "Partnun erreicht. Nun könnte man sich auch für 5CHF eine Trottinett leihen und damit zum Parkplatz abfahren... aber das letzte Stück schaffe ich auch noch aus eigener Kraft."
-      },
-      {
-        "photos": [
-          {
-            "name": "067",
-            "alt": "Weg zurück zum Parkplatz",
-            "date": "2014-10-12T15:42:32.000+02:00",
-            "width": 1920,
-            "height": 1051
-          }
-        ],
-        "videos": [],
-        "text": "Letztes Stück auf der Straße zum Parkplatz. Hier unten nun fast kein Wind mehr und es ist angenehm warm. Ankunft am Auto um 15:45."
-      },
-      {
-        "photos": [
-          {
-            "name": "068",
-            "alt": "Einspurige Straße",
-            "date": "2014-10-12T16:23:28.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Anschließend mit dem Auto bei schöner Herbststimmung über kleine Straßen zurück zur Autobahn."
-      },
-      {
-        "photos": [
-          {
-            "name": "track1",
-            "width": 1280,
-            "height": 655
-          },
-          {
-            "name": "track2",
-            "width": 1280,
-            "height": 300
-          }
-        ],
-        "videos": [],
-        "text": "Zurückgelegte Strecke. 1500 Höhenmeter (hoch und runter) innerhalb von 8h auf 18km Länge."
-      }
-    ],
-    "outro": "Fazit: Schönes Gipfelerlebnis in beeindruckender Landschaft. Am Ende war ich aber auch ganz schön geschafft."
-  }
-]
+    {
+      "photos": [
+        {
+          "name": "002",
+          "alt": "Brunnen aus Holz",
+          "date": "2014-10-12T08:03:46.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Etwas weiter. Der Blick zurück Richtung Parkplatz."
+    },
+    {
+      "photos": [
+        {
+          "name": "003",
+          "alt": "Sulzfluh am Morgen",
+          "date": "2014-10-12T08:10:44.000+02:00",
+          "width": 1920,
+          "height": 801
+        }
+      ],
+      "videos": [],
+      "text": "Am Ort (eigentlich nur ein paar Häuser) biegt der Weg links ab und es geht direkt auf die Sulzfluh zu, ein ziemlich felsiges Ungetüm."
+    },
+    {
+      "photos": [
+        {
+          "name": "004",
+          "alt": "Rätschenhorn",
+          "date": "2014-10-12T08:33:12.000+02:00",
+          "width": 1920,
+          "height": 836
+        }
+      ],
+      "videos": [],
+      "text": "Anschließend geht es steil die Wiesen bergauf."
+    },
+    {
+      "photos": [
+        {
+          "name": "005",
+          "alt": "Partnunsee",
+          "date": "2014-10-12T08:35:36.000+02:00",
+          "width": 1682,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Der Weg führt oberhalb der Partnunsees vorbei (etwas schlecht rechts erkennbar)."
+    },
+    {
+      "photos": [
+        {
+          "name": "006",
+          "alt": "Hütte mit ersten Sonnenstrahlen",
+          "date": "2014-10-12T08:39:13.000+02:00",
+          "width": 1899,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Der Sonnenaufgang rückt näher... aber auch leider einige dunkle Wolken."
+    },
+    {
+      "photos": [
+        {
+          "name": "007",
+          "alt": "Wegweiser Klettersteig",
+          "date": "2014-10-12T08:48:06.000+02:00",
+          "width": 1920,
+          "height": 1048
+        }
+      ],
+      "videos": [],
+      "text": "Der Weg ist einfach zu finden, immer dem Wegweiser Sulzfluh nach. Neben dem Bergweg führt von dieser Seite auch noch ein bekannter Klettersteig zum Gipfel."
+    },
+    {
+      "photos": [
+        {
+          "name": "008",
+          "alt": "Sonnenaufgang hinter Bergen",
+          "date": "2014-10-12T08:54:35.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Ahh, endlich Sonnenaufgang. Da wird es temperaturmäßig gleich angenehmer."
+    },
+    {
+      "photos": [
+        {
+          "name": "009",
+          "alt": "Weg über Schuttkegel",
+          "date": "2014-10-12T08:56:16.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Zu gleich sind die Felsen und Schuttkegel der Sulzfluh erreicht. Schon eine Stunde unterwegs und die ersten 500 Höhenmeter hat man hinter sich."
+    },
+    {
+      "photos": [
+        {
+          "name": "010",
+          "alt": "Felsenkessel",
+          "date": "2014-10-12T09:01:49.000+02:00",
+          "width": 1920,
+          "height": 940
+        }
+      ],
+      "videos": [],
+      "text": "Dann geht es hinein in einen beeindruckenden - von Felswänden umgebenen - Kessel. Der Wanderweg geht beim kleinen gelben Schild rechts den Fels hinauf."
+    },
+    {
+      "photos": [
+        {
+          "name": "011",
+          "alt": "Schotterfelder",
+          "date": "2014-10-12T09:06:05.000+02:00",
+          "width": 1920,
+          "height": 808
+        }
+      ],
+      "videos": [],
+      "text": "Genau dort, wo ich mich jetzt befinde. Hier der Blick zurück."
+    },
+    {
+      "photos": [
+        {
+          "name": "012",
+          "alt": "Kraxelabschnitt",
+          "date": "2014-10-12T09:07:39.000+02:00",
+          "width": 1845,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Und noch ein Stück weiter schon heftig am Kraxeln, den kettengesicherten Weg hinauf."
+    },
+    {
+      "photos": [
+        {
+          "name": "013",
+          "alt": "Gämsen im Fels",
+          "date": "2014-10-12T09:14:03.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Blick auf eine Höhle auf der anderen Seite des Kessels. Wer kann den Grund erkennen, warum dieses Tal Gemstobel heißt?"
+    },
+    {
+      "photos": [
+        {
+          "name": "014",
+          "alt": "Blick zurück nach Partnun",
+          "date": "2014-10-12T09:19:18.000+02:00",
+          "width": 1920,
+          "height": 783
+        }
+      ],
+      "videos": [],
+      "text": "Geschafft - nach dem Steilstück ist es im eigentlichen Tal richtig harmlos. Links unten ist Partnun zu erahnen."
+    },
+    {
+      "photos": [
+        {
+          "name": "015",
+          "alt": "Gruobenpass",
+          "date": "2014-10-12T09:39:50.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Im Tal geht es zum Teil über Gras, aber hauptsächlich über Schutt und Felsen bergauf. Eingerahmt von massiven Felswänden."
+    },
+    {
+      "photos": [
+        {
+          "name": "016",
+          "alt": "Steiler Bergweg",
+          "date": "2014-10-12T09:50:35.000+02:00",
+          "width": 1920,
+          "height": 767
+        }
+      ],
+      "videos": [],
+      "text": "Und zwischendurch kommen auch ein paar steilere Passagen, die aber nicht wirklich gefährlich sind... aber zum Teil braucht man die Hände.<br />\nUnangenehm war der starke durch das Tal wehende Wind."
+    },
+    {
+      "photos": [
+        {
+          "name": "017",
+          "alt": "Weg durch Fels",
+          "date": "2014-10-12T10:16:36.000+02:00",
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "name": "018",
+          "alt": "Viele Wegzeichen",
+          "date": "2014-10-12T10:17:53.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Kurz vor dem Grat richtig durch die Felsen. Wie man sieht, ausreichend gekennzeichnet."
+    },
+    {
+      "photos": [
+        {
+          "name": "019",
+          "alt": "Blick ins Montafon",
+          "date": "2014-10-12T10:19:39.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Die österreichische Grenze befindet sich genau auf dem Grat, folgerichtig fällt der Blick nun erstmals ins Montafon."
+    },
+    {
+      "photos": [
+        {
+          "name": "020",
+          "alt": "Gipfel der Sulzfluh",
+          "date": "2014-10-12T10:21:20.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Aber der höchste Punkt ist noch nicht erreicht."
+    },
+    {
+      "photos": [
+        {
+          "name": "021",
+          "alt": "Verwirrender Weg",
+          "date": "2014-10-12T10:23:54.000+02:00",
+          "width": 1920,
+          "height": 939
+        }
+      ],
+      "videos": [],
+      "text": "Es geht weiter über reinen Fels hinauf. Die Wegzeichen waren etwas chaotisch - evt. schweizerisches-österreichisches Konkurrenzgehabe? 😉"
+    },
+    {
+      "photos": [
+        {
+          "name": "022",
+          "alt": "Aufstieg zur Sulzfluh",
+          "date": "2014-10-12T10:29:35.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Immer noch nicht oben..."
+    },
+    {
+      "photos": [
+        {
+          "name": "023",
+          "alt": "Am Abgrund entlang",
+          "date": "2014-10-12T10:33:03.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Wieder einen Grat erreicht, diesmal Richtung Süd-West zum Rheintal."
+    },
+    {
+      "photos": [
+        {
+          "name": "024",
+          "alt": "Gipfelkreuz Sulzfluh",
+          "date": "2014-10-12T10:35:11.000+02:00",
+          "width": 1894,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Der Gipfel. Oben recht flach, mit monströsem Kreuz gekrönt."
+    },
+    {
+      "photos": [
+        {
+          "name": "025",
+          "alt": "Aussicht Sulzfluh",
+          "date": "2014-10-12T10:39:02.000+02:00",
+          "width": 1920,
+          "height": 966
+        },
+        {
+          "name": "026",
+          "alt": "Vorarlberg",
+          "date": "2014-10-12T10:51:23.000+02:00",
+          "width": 1920,
+          "height": 801
+        }
+      ],
+      "videos": [],
+      "text": "Oben um 10:45 nach 1200m Aufstieg. Verdiente Pause bei stürmischem Wind. Die Aussicht ist phantastisch, zuerst Richtung Süden nach Vorarlberg.<br />\nDer Berg in der Mitte ist das Hochjoch vom Skigebiet Silvretta Montafon. Gerade zu mickrig von hier oben."
+    },
+    {
+      "photos": [
+        {
+          "name": "027",
+          "alt": "Prättigau Panorama",
+          "date": "2014-10-12T10:54:59.000+02:00",
+          "width": 1920,
+          "height": 682
+        }
+      ],
+      "videos": [],
+      "text": "Und nun nach Süden nach Davos. Braune Herbstwiesen sehen einfach super aus. 😃"
+    },
+    {
+      "photos": [
+        {
+          "name": "028",
+          "alt": "Drusenfluh und Schesaplana",
+          "date": "2014-10-12T10:56:37.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Zuletzt der Blick nach Westen, Richtung Aufstieg. Wie man sieht, gab's sogar ein paar Restschneeflecken."
+    },
+    {
+      "photos": [
+        {
+          "name": "029",
+          "alt": "Braune Herbstwiesen",
+          "date": "2014-10-12T10:56:47.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Noch mal ein Zoom auf die rötlich-brauchen Wiesen."
+    },
+    {
+      "photos": [
+        {
+          "name": "030",
+          "alt": "Wanderung Sulzfluh",
+          "date": "2014-10-12T11:27:42.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Auf Grund des starken Winds befinde ich mich doch recht schnell wieder auf dem Abstieg. Der Blick fällt noch mal zurück zum Gipfel."
+    },
+    {
+      "photos": [
+        {
+          "name": "031",
+          "alt": "Karrenfeld",
+          "date": "2014-10-12T11:33:12.000+02:00",
+          "width": 1920,
+          "height": 642
+        }
+      ],
+      "videos": [],
+      "text": "Nun geht es aber nicht wieder durch den Gemstobel bergab, sondern auf dem großen Felsrücken Richtung Tilisuna-Hütte."
+    },
+    {
+      "photos": [
+        {
+          "name": "032",
+          "alt": "Weg mit Steinmännchen",
+          "date": "2014-10-12T11:35:28.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Der Weg ist durch unzählige Steinmännchen gekennzeichnet, geht aber recht angenehm flach bergab."
+    },
+    {
+      "photos": [
+        {
+          "name": "033",
+          "alt": "Tilisunasee und Hochjoch",
+          "date": "2014-10-12T11:48:33.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Der Tilisunasee (direkt neben der Tilisuna-Hütte), das nächste Etappenziel. Im Hintergrund wieder das Hochjoch."
+    },
+    {
+      "photos": [
+        {
+          "name": "034",
+          "alt": "Weg über Felsplatte",
+          "date": "2014-10-12T11:49:45.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Über diese beeindruckende Felsplatte führt der weitere Weg. Könnt ihr die beiden Wanderer entdecken? Dann wird einem die Größenordnung erst bewusst."
+    },
+    {
+      "photos": [
+        {
+          "name": "035",
+          "alt": "Mondlandschaft",
+          "date": "2014-10-12T11:57:16.000+02:00",
+          "width": 1920,
+          "height": 500
+        }
+      ],
+      "videos": [],
+      "text": "Steine, Felsen, Steine... ziemlich mondig hier."
+    },
+    {
+      "photos": [
+        {
+          "name": "036",
+          "alt": "Langer Weg über Karrenfeld",
+          "date": "2014-10-12T12:01:36.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Nun bin ich ebenfalls auf der Steinplatte. Die Steinmännchen weisen den Weg. Wo genau er führt ist aber ziemlich egal, man kann einfach quer-feld-ein gehen."
+    },
+    {
+      "photos": [
+        {
+          "name": "037",
+          "alt": "Hochgebirgswanderung",
+          "date": "2014-10-12T12:04:27.000+02:00",
+          "width": 1920,
+          "height": 741
+        }
+      ],
+      "videos": [],
+      "text": "Einfach schön."
+    },
+    {
+      "photos": [
+        {
+          "name": "038",
+          "alt": "Blick über das Karrenfeld",
+          "date": "2014-10-12T12:09:05.000+02:00",
+          "width": 1920,
+          "height": 620
+        }
+      ],
+      "videos": [],
+      "text": "Blick zurück. Der dunkle Buckel in der Mitte ist die Sulzfluh."
+    },
+    {
+      "photos": [
+        {
+          "name": "039",
+          "alt": "Karstgebiet",
+          "date": "2014-10-12T12:11:53.000+02:00",
+          "width": 812,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Die Felsplatte ist ziemlich intakt, aber diese kleine Spalte musste man überspringen."
+    },
+    {
+      "photos": [
+        {
+          "name": "040",
+          "alt": "Skigebiet Golm",
+          "date": "2014-10-12T12:15:27.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Zoom nach Norden zum Skigebiet Golm, wo ich selbst noch nie war."
+    },
+    {
+      "photos": [
+        {
+          "name": "041",
+          "alt": "Wanderung Tilisuna Hütte",
+          "date": "2014-10-12T12:16:55.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Urplötzlich verlässt man das felsige Gebiet und man findet sich auf sanften Wiesen wieder. Im Blick schon die Tilisuna-Hütte."
+    },
+    {
+      "photos": [
+        {
+          "name": "042",
+          "alt": "Gras und Fels",
+          "date": "2014-10-12T12:19:28.000+02:00",
+          "width": 1920,
+          "height": 663
+        }
+      ],
+      "videos": [],
+      "text": "Hier kann man gut die scharfe Grenze zwischen Fels und Wiese erkennen."
+    },
+    {
+      "photos": [
+        {
+          "name": "043",
+          "alt": "Wanderwegweiser Österreich",
+          "date": "2014-10-12T12:29:15.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Nun auch endgültig in Österreich, was man gut an den Wegweisern erkennen kann."
+    },
+    {
+      "photos": [
+        {
+          "name": "044",
+          "alt": "Tilisuna Hütte",
+          "date": "2014-10-12T12:34:05.000+02:00",
+          "width": 1920,
+          "height": 936
+        }
+      ],
+      "videos": [],
+      "text": "Ankunft an der Tilisuna-Hütte auf 2200m um 12:30. Zum draußen sitzen war es zu frisch, da es jetzt neben dem Wind zwar nicht wolkig, aber doch ziemlich diesig war. Ich habe deshalb auf eine Pause verzichtet."
+    },
+    {
+      "photos": [
+        {
+          "name": "045",
+          "alt": "Tilisunasee",
+          "date": "2014-10-12T12:43:34.000+02:00",
+          "width": 1920,
+          "height": 837
+        }
+      ],
+      "videos": [],
+      "text": "Blick auf den Tilisunasee."
+    },
+    {
+      "photos": [
+        {
+          "name": "046",
+          "alt": "Rundwanderung Tilisuna",
+          "date": "2014-10-12T12:55:34.000+02:00",
+          "width": 1920,
+          "height": 823
+        }
+      ],
+      "videos": [],
+      "text": "Aussicht zurück auf die Tilisuna-Hütte und den Felsgletscher, über den ich abgestiegen war. Der diffuse Himmel hat nun sehr schnell einem föhnig blauen Himmel Platz gemacht. Der starke Wind muss ja auch für was gut sein."
+    },
+    {
+      "photos": [
+        {
+          "name": "047",
+          "alt": "Gruobenpass",
+          "date": "2014-10-12T13:07:14.000+02:00",
+          "width": 1920,
+          "height": 821
+        }
+      ],
+      "videos": [],
+      "text": "Hier würde es über die Grenze nach Partnun führen. Nach etwas überlegen geht es aber jetzt doch nicht auf direktem Weg zurück, sondern weiter auf der österreichischen Seite.<br />\nIm Hintergrund die Sulzfluh."
+    },
+    {
+      "photos": [
+        {
+          "name": "048",
+          "alt": "Grenzhütte",
+          "date": "2014-10-12T13:08:20.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Grenzhütte. Hatte aber keinen Ausfuhrschein zum Abstempeln dabei...<br />\nNach rechts runter geht's jetzt weiter."
+    },
+    {
+      "photos": [
+        {
+          "name": "049",
+          "alt": "Wanderweg über Wiesen",
+          "date": "2014-10-12T13:24:18.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Nun sehr schön über Wiesen, Felsen und an kleinen Seen vorbei weiter."
+    },
+    {
+      "photos": [
+        {
+          "name": "050",
+          "alt": "Weg an Felsengrenze",
+          "date": "2014-10-12T13:41:38.000+02:00",
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "name": "051",
+          "alt": "Wiss Platte",
+          "date": "2014-10-12T13:43:06.000+02:00",
+          "width": 1920,
+          "height": 591
+        }
+      ],
+      "videos": [],
+      "text": "Umrundet wird dabei ein weiterer massiver Felsblock, der den Berg Schijenflue bildet, auf den kein normaler Weg geht."
+    },
+    {
+      "photos": [
+        {
+          "name": "052",
+          "alt": "Kleiner Bergsee",
+          "date": "2014-10-12T13:48:03.000+02:00",
+          "width": 1920,
+          "height": 1078
+        }
+      ],
+      "videos": [],
+      "text": "Der Wanderweg führt dagegen geruhsam, nur langsam aufsteigend, hinauf."
+    },
+    {
+      "photos": [
+        {
+          "name": "053",
+          "alt": "Wanderweg Plasseggenpass",
+          "date": "2014-10-12T13:54:29.000+02:00",
+          "width": 1920,
+          "height": 815
+        }
+      ],
+      "videos": [],
+      "text": "Fast oben auf dem Plasseggenpass. Blick zurück."
+    },
+    {
+      "photos": [
+        {
+          "name": "054",
+          "alt": "Plasseggenpass",
+          "date": "2014-10-12T13:58:37.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Pass und Grenze um 14:00 auf 2300m erreicht."
+    },
+    {
+      "photos": [
+        {
+          "name": "055",
+          "alt": "Röbispitzen",
+          "date": "2014-10-12T14:00:59.000+02:00",
+          "width": 1603,
+          "height": 1080
+        },
+        {
+          "name": "056",
+          "alt": "Skandinavische Landschaft",
+          "date": "2014-10-12T14:03:29.000+02:00",
+          "width": 1920,
+          "height": 703
+        }
+      ],
+      "videos": [],
+      "text": "Auf der Schweizer Seite sieht die Landschaft schon wieder völlig verändert aus und weckt Erinnerungen an Island oder Grönland (auch wenn ich da noch nie war)."
+    },
+    {
+      "photos": [
+        {
+          "name": "057",
+          "alt": "Mountainbike",
+          "date": "2014-10-12T14:06:53.000+02:00",
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "name": "058",
+          "alt": "Rotspitz",
+          "date": "2014-10-12T14:08:28.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Ein Biker überholt mich in ansonsten totaler Einsamkeit. Eine tolle Stimmung."
+    },
+    {
+      "photos": [
+        {
+          "name": "059",
+          "alt": "Sulzfluh",
+          "date": "2014-10-12T14:34:19.000+02:00",
+          "width": 1920,
+          "height": 852
+        },
+        {
+          "name": "060",
+          "alt": "Bergmassiv Sulzfluh",
+          "date": "2014-10-12T14:34:47.000+02:00",
+          "width": 1572,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Die Schijenflue ist nach etwas Abstieg nun komplett umrundet, so dass sich wieder der Blick zur Sulzfluh öffnet. Kaum zu glauben, dass man ein paar Stunden zuvor noch dort oben stand. Rechts ist übrigens der Gemstobel zu sehen, durch den der Aufstieg führte."
+    },
+    {
+      "photos": [
+        {
+          "name": "061",
+          "alt": "Steiler Abstieg",
+          "date": "2014-10-12T14:43:08.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Am Ende der nordischen Hochfläche geht der Weg ziemlich steil bergab. Mit dem Rad wäre das für mich auf jeden Fall nichts."
+    },
+    {
+      "photos": [
+        {
+          "name": "062",
+          "alt": "Abstieg nach Partnun",
+          "date": "2014-10-12T14:51:24.000+02:00",
+          "width": 1920,
+          "height": 738
+        }
+      ],
+      "videos": [],
+      "text": "Steilstück überwunden. Partnun unterhalb der Sulzfluh rückt ins Blickfeld."
+    },
+    {
+      "photos": [
+        {
+          "name": "063",
+          "alt": "Weberlisch Höli",
+          "date": "2014-10-12T14:56:37.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Vorbei geht es an einer Felswand mit sehr vielen Höhlen und Kletterseilen."
+    },
+    {
+      "photos": [
+        {
+          "name": "064",
+          "alt": "Fahrweg durch das Tal",
+          "date": "2014-10-12T15:16:51.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Nach dem ganzen Abstieg ist ein Fahrweg erreicht, was für die geschundenen Beine sehr angenehm ist."
+    },
+    {
+      "photos": [
+        {
+          "name": "065",
+          "alt": "Tällibach",
+          "date": "2014-10-12T15:18:34.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Kleine Pause am Bach und Blick zurück. Da hinten in der Mitte ging es durch."
+    },
+    {
+      "photos": [
+        {
+          "name": "066",
+          "alt": "Partnun mit Sulzfluh",
+          "date": "2014-10-12T15:28:25.000+02:00",
+          "width": 1920,
+          "height": 841
+        }
+      ],
+      "videos": [],
+      "text": "Partnun erreicht. Nun könnte man sich auch für 5CHF eine Trottinett leihen und damit zum Parkplatz abfahren... aber das letzte Stück schaffe ich auch noch aus eigener Kraft."
+    },
+    {
+      "photos": [
+        {
+          "name": "067",
+          "alt": "Weg zurück zum Parkplatz",
+          "date": "2014-10-12T15:42:32.000+02:00",
+          "width": 1920,
+          "height": 1051
+        }
+      ],
+      "videos": [],
+      "text": "Letztes Stück auf der Straße zum Parkplatz. Hier unten nun fast kein Wind mehr und es ist angenehm warm. Ankunft am Auto um 15:45."
+    },
+    {
+      "photos": [
+        {
+          "name": "068",
+          "alt": "Einspurige Straße",
+          "date": "2014-10-12T16:23:28.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Anschließend mit dem Auto bei schöner Herbststimmung über kleine Straßen zurück zur Autobahn."
+    },
+    {
+      "photos": [
+        {
+          "name": "track1",
+          "width": 1280,
+          "height": 655
+        },
+        {
+          "name": "track2",
+          "width": 1280,
+          "height": 300
+        }
+      ],
+      "videos": [],
+      "text": "Zurückgelegte Strecke. 1500 Höhenmeter (hoch und runter) innerhalb von 8h auf 18km Länge."
+    }
+  ],
+  "outro": "Fazit: Schönes Gipfelerlebnis in beeindruckender Landschaft. Am Ende war ich aber auch ganz schön geschafft."
+}

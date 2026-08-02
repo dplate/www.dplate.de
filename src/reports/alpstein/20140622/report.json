@@ -1,864 +1,862 @@
-[
-  {
-    "destination": "alpstein",
-    "date": "d20140622",
-    "type": "hike",
-    "track": true,
-    "detailMap": "swiss",
-    "shortTitle": "Schäfler",
-    "title": "Schäfler - Mesmer - Meglisalp",
-    "title3d": {
-      "align": "right",
-      "offsetY": 3,
-      "fontSize": 6.5,
-      "width": 1920,
-      "height": 486
+{
+  "destination": "alpstein",
+  "date": "d20140622",
+  "type": "hike",
+  "track": true,
+  "detailMap": "swiss",
+  "shortTitle": "Schäfler",
+  "title": "Schäfler - Mesmer - Meglisalp",
+  "title3d": {
+    "align": "right",
+    "offsetY": 3,
+    "fontSize": 6.5,
+    "width": 1920,
+    "height": 486
+  },
+  "movie": "16knndXtjP0",
+  "intro": "Nachdem ich im letzten Herbst bereits eine bekannte Wanderung am Hohen Kasten im Alpsteingebiet unternommen hatte <span data-silent>(<a href=\"/alpine/alpstein/20131019\">Bericht</a>)</span>, machte ich mich diesen Sonntag zu einer weiteren Tour in diesem Gebirgsmassiv auf, die mich rund um den Seealpsee führte.<br />\nDa ich mir gerne Zeit beim Wandern lasse, war ich bereits um halb acht am Parkplatz in Wasserauen angekommen. Während auf der Fahrt fast niemand unterwegs war, waren überraschenderweise die Parkflächen bereits halb belegt - wahrscheinlich von vielen Mehrtageswanderer.",
+  "landmarks": [
+    {
+      "photos": [
+        {
+          "name": "001",
+          "alt": "Talstation Ebenalp Seilbahn",
+          "date": "2014-06-22T07:37:58.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Wasserauen besteht praktisch nur aus einem Parkplatz, einem Bahnhof, zwei Restaurants und der Talstation der Ebenalpbahn. Die Seilbahn führt von 876m auf die 1644m hohe Ebenalp, die auch mein erstes Etappenziel darstellte."
     },
-    "movie": "16knndXtjP0",
-    "intro": "Nachdem ich im letzten Herbst bereits eine bekannte Wanderung am Hohen Kasten im Alpsteingebiet unternommen hatte <span data-silent>(<a href=\"/alpine/alpstein/20131019\">Bericht</a>)</span>, machte ich mich diesen Sonntag zu einer weiteren Tour in diesem Gebirgsmassiv auf, die mich rund um den Seealpsee führte.<br />\nDa ich mir gerne Zeit beim Wandern lasse, war ich bereits um halb acht am Parkplatz in Wasserauen angekommen. Während auf der Fahrt fast niemand unterwegs war, waren überraschenderweise die Parkflächen bereits halb belegt - wahrscheinlich von vielen Mehrtageswanderer.",
-    "landmarks": [
-      {
-        "photos": [
-          {
-            "name": "001",
-            "alt": "Talstation Ebenalp Seilbahn",
-            "date": "2014-06-22T07:37:58.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Wasserauen besteht praktisch nur aus einem Parkplatz, einem Bahnhof, zwei Restaurants und der Talstation der Ebenalpbahn. Die Seilbahn führt von 876m auf die 1644m hohe Ebenalp, die auch mein erstes Etappenziel darstellte."
-      },
-      {
-        "photos": [
-          {
-            "name": "002",
-            "alt": "Wanderweg am Waldrand",
-            "date": "2014-06-22T07:58:48.000+02:00",
-            "width": 1920,
-            "height": 605
-          }
-        ],
-        "videos": [],
-        "text": "Zu Beginn führt der Weg über viele Stufen im Wald hinauf. Zwischendurch ging's auch mal entlang dieser Wiese, so dass der Blick hinüber zum Hohen Kasten frei wurde."
-      },
-      {
-        "photos": [
-          {
-            "name": "003",
-            "alt": "Blick aus dunklem Wald zur Ebenalp",
-            "date": "2014-06-22T08:14:48.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Etwas später ging es dann endgültig aus dem Wald hinaus und die Ebenalp wurde sichtbar."
-      },
-      {
-        "photos": [
-          {
-            "name": "004",
-            "alt": "Blühende Weiden vor Ebenalp",
-            "date": "2014-06-22T08:18:45.000+02:00",
-            "width": 1920,
-            "height": 734
-          }
-        ],
-        "videos": [],
-        "text": "Weiter ging es deutlich flacher über blühende Weiden."
-      },
-      {
-        "photos": [
-          {
-            "name": "005",
-            "alt": "Seilbahntrasse Hoher Kasten",
-            "date": "2014-06-22T08:19:22.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Nochmal der Blick zurück auf den Hohen Kasten und die Trasse dessen Seilbahn."
-      },
-      {
-        "photos": [
-          {
-            "name": "006",
-            "alt": "Ebenalp Seilbahn vor Felswand",
-            "date": "2014-06-22T08:20:42.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Die Ebenalpbahn fuhr pausenlos, und da sie nicht besonders lang ist, war es sehr einfach sie für die Fotos abzupassen."
-      },
-      {
-        "photos": [
-          {
-            "name": "007",
-            "alt": "Idyllische Alp",
-            "date": "2014-06-22T08:25:24.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Idyllisch."
-      },
-      {
-        "photos": [
-          {
-            "name": "008",
-            "alt": "Wanderweg mit Holzstufen",
-            "date": "2014-06-22T08:47:09.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Am anderen Ende der Wiesen ging es wieder deutlich steiler hinauf Richtung Felswand... es war schon richtig heiß."
-      },
-      {
-        "photos": [
-          {
-            "name": "009",
-            "alt": "Gondel der Ebenalp Seilbahn",
-            "date": "2014-06-22T08:48:36.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Und da fuhr die Seilbahn schon wieder..."
-      },
-      {
-        "photos": [
-          {
-            "name": "010",
-            "alt": "Wanderweg mit Blick ins Appenzeller Land",
-            "date": "2014-06-22T08:51:05.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Blick zurück auf's Appenzeller Land."
-      },
-      {
-        "photos": [
-          {
-            "name": "011",
-            "alt": "Weg unterhalb von Felswand",
-            "date": "2014-06-22T09:00:06.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Nun war ich an der Felswand angekommen."
-      },
-      {
-        "photos": [
-          {
-            "name": "012",
-            "alt": "Panorama Äscher",
-            "date": "2014-06-22T09:02:31.000+02:00",
-            "width": 1920,
-            "height": 766
-          },
-          {
-            "name": "013",
-            "alt": "Restaurant Äscher in Felswand",
-            "date": "2014-06-22T09:03:26.000+02:00",
-            "width": 720,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Unter der überhängenden Felswand kauert fotogen das Restaurant Äscher, eines der bekanntesten Motive im Alpstein."
-      },
-      {
-        "photos": [
-          {
-            "name": "014",
-            "alt": "Weg von Restaurant Äscher zur Kapelle Wildkirchli",
-            "date": "2014-06-22T09:05:14.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Danach ging es auf gut ausgebautem Weg in der Felswand weiter, vorbei an der kleinen Grottenkapelle Wildkirchli."
-      },
-      {
-        "photos": [
-          {
-            "name": "015",
-            "alt": "Höhleneingang Wildkirchli mit Seilbahn",
-            "date": "2014-06-22T09:07:08.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Und noch ein Stück weiter kommt man zu einem großen Höhleneingang mit kleinem Museum, das über die prähistorische Geschichte dieser Höhle informiert."
-      },
-      {
-        "photos": [
-          {
-            "name": "016",
-            "alt": "Höhle hinter Wildkirchli",
-            "date": "2014-06-22T09:07:53.000+02:00",
-            "width": 1920,
-            "height": 1030
-          },
-          {
-            "name": "017",
-            "alt": "Höhle unterhalb Ebenalp",
-            "date": "2014-06-22T09:09:48.000+02:00",
-            "width": 1920,
-            "height": 751
-          }
-        ],
-        "videos": [],
-        "text": "Dann ging der Weg durch die Höhle (vorbei an unzähligen Steinmännchen) weiter nach oben..."
-      },
-      {
-        "photos": [
-          {
-            "name": "018",
-            "alt": "Weg von Ebenalp zur Höhle",
-            "date": "2014-06-22T09:14:16.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "... und ich kam oberhalb der Felswand wieder hinaus."
-      },
-      {
-        "photos": [
-          {
-            "name": "019",
-            "alt": "Bank auf Ebenalp vor Seilbahn",
-            "date": "2014-06-22T09:17:31.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Damit war ich auch schon fast an der Bergstation auf der Ebenalp angekommen, inzwischen war es auch schon 9:20."
-      },
-      {
-        "photos": [
-          {
-            "name": "020",
-            "alt": "Wegweiser zum Schäfler",
-            "date": "2014-06-22T09:25:56.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Der Wegweiser zeigt zum nächsten Ziel, dem nochmal 300m höher gelegenem Schäfler (1924m)."
-      },
-      {
-        "photos": [
-          {
-            "name": "021",
-            "alt": "Blick von Ebenalp zum Schäfler",
-            "date": "2014-06-22T09:27:17.000+02:00",
-            "width": 1920,
-            "height": 729
-          }
-        ],
-        "videos": [],
-        "text": "Hier links im Bild ist der Schäfler bereits zu sehen."
-      },
-      {
-        "photos": [
-          {
-            "name": "022",
-            "alt": "Blick von Ebenalp zum Seealpsee",
-            "date": "2014-06-22T09:31:40.000+02:00",
-            "width": 1046,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Der Weg führt auf der Oberkante der Felswand entlang, unten ist auch zum ersten mal der Seealpsee sichtbar."
-      },
-      {
-        "photos": [
-          {
-            "name": "023",
-            "alt": "Wanderweg zum Schäfler",
-            "date": "2014-06-22T09:34:13.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Die Gaststätte Schäfler, die oben auf dem Gipfel thront."
-      },
-      {
-        "photos": [
-          {
-            "name": "024",
-            "alt": "Hauptweg zum Schäfler",
-            "date": "2014-06-22T09:47:43.000+02:00",
-            "width": 1920,
-            "height": 824
-          }
-        ],
-        "videos": [],
-        "text": "Hier der Blick auf den weiteren Weg. Dieser Abschnitt war gut besucht, da der Schäfler das Ziel vieler Seilbahnauffahrer ist."
-      },
-      {
-        "photos": [
-          {
-            "name": "025",
-            "alt": "Pferd mit Altmann",
-            "date": "2014-06-22T09:52:51.000+02:00",
-            "width": 1705,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Pferd mit Altmann (2436m)."
-      },
-      {
-        "photos": [
-          {
-            "name": "026",
-            "alt": "Skilift Ebenalp im Sommer",
-            "date": "2014-06-22T09:56:11.000+02:00",
-            "width": 1920,
-            "height": 676
-          }
-        ],
-        "videos": [],
-        "text": "Vorbei an der Bergstation des höchsten Schlepplifts des Skigebiets Ebenalp. Es gibt allerdings auch nur zwei Schlepplifte."
-      },
-      {
-        "photos": [
-          {
-            "name": "027",
-            "alt": "Kuh mit Blick auf Kronberg",
-            "date": "2014-06-22T10:09:51.000+02:00",
-            "width": 1662,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Nun war ich oben an der Kante des Schäflers angekommen, der nach Norden hin steil abfällt. Die Kuh genoss den Ausblick zum Kronberg."
-      },
-      {
-        "photos": [
-          {
-            "name": "028",
-            "alt": "Alpendohle über Appenzeller Land",
-            "date": "2014-06-22T10:20:25.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Und auch die Alpendohle profitierte vom steilen Abbruch."
-      },
-      {
-        "photos": [
-          {
-            "name": "029",
-            "alt": "Gaststätte Schäfler",
-            "date": "2014-06-22T10:21:05.000+02:00",
-            "width": 1920,
-            "height": 591
-          }
-        ],
-        "videos": [],
-        "text": "Puh, um 10:30 hatte ich es fast geschafft. Die Gaststätte wird von einer Transportseilbahn vom Norden her versorgt. Dort führt auch ein Weg hinab, der aber nur etwas für hart gesottene ist."
-      },
-      {
-        "photos": [
-          {
-            "name": "030",
-            "alt": "Panorama vom Schäfler",
-            "date": "2014-06-22T10:26:52.000+02:00",
-            "width": 1920,
-            "height": 698
-          },
-          {
-            "name": "031",
-            "alt": "Steiler Weg am Schäfler",
-            "date": "2014-06-22T10:27:42.000+02:00",
-            "width": 720,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Blick vom Gipfel des Schäflers auf den weiteren Verlauf des Wegs, <span data-silent>*brrr* -</span> ganz schön Respekt einflößend. Im Hintergrund der Säntis mit der markanten Antenne."
-      },
-      {
-        "photos": [
-          {
-            "name": "032",
-            "alt": "Gasthaus Schäfler mit Wiese",
-            "date": "2014-06-22T10:33:56.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Die Gaststätte vom Gipfel aus aufgenommen."
-      },
-      {
-        "photos": [
-          {
-            "name": "033",
-            "alt": "Drahtseil am Schäfler",
-            "date": "2014-06-22T10:36:16.000+02:00",
-            "width": 1920,
-            "height": 866
-          },
-          {
-            "name": "034",
-            "alt": "Weg um Felswand",
-            "date": "2014-06-22T10:37:32.000+02:00",
-            "width": 1920,
-            "height": 878
-          }
-        ],
-        "videos": [],
-        "text": "Vorbei an einem Warnschild (nur Geübte mit guten Schuhen) ging es erst auf der Nordseite herum um den Gipfel. Rechts geht's ordentlich bergab."
-      },
-      {
-        "photos": [
-          {
-            "name": "035",
-            "alt": "Rostige Treppe am Schäfler",
-            "date": "2014-06-22T10:38:31.000+02:00",
-            "width": 1620,
-            "height": 1080
-          },
-          {
-            "name": "036",
-            "alt": "Treppe mit Drahtseil",
-            "date": "2014-06-22T10:39:47.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Dann gelangt man über eine alte Treppe auf die Südseite, wo es ebenfalls nicht gerade flach Richtung Seealpsee abfällt <span data-silent>(auf 2D-Fotos einfach nicht einzufangen)</span>."
-      },
-      {
-        "photos": [
-          {
-            "name": "037",
-            "alt": "Treppe mit Hangweg",
-            "date": "2014-06-22T10:40:00.000+02:00",
-            "width": 595,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Und weiter ging es über eine neue Treppe zum eigentlichen Hangweg."
-      },
-      {
-        "photos": [
-          {
-            "name": "038",
-            "alt": "Steiler Hangweg mit Drahtseil",
-            "date": "2014-06-22T10:46:04.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Auch anschließend ist der Weg alles andere als harmlos und ich war froh, dass dort ein psychologisch wichtiges Drahtseil vorhanden ist."
-      },
-      {
-        "photos": [
-          {
-            "name": "039",
-            "alt": "Wanderweg am Steilhang",
-            "date": "2014-06-22T10:52:58.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Der Blick nach vorne auf den weiteren Weg."
-      },
-      {
-        "photos": [
-          {
-            "name": "040",
-            "alt": "Bergweg zum Schäfler",
-            "date": "2014-06-22T10:56:39.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Und der Blick zurück zum Schäfler."
-      },
-      {
-        "photos": [
-          {
-            "name": "041",
-            "alt": "Blick auf Schäfler und Seealpsee",
-            "date": "2014-06-22T11:06:39.000+02:00",
-            "width": 1920,
-            "height": 921
-          }
-        ],
-        "videos": [],
-        "text": "Dann wurde es etwas flacher und wieder der Blick zurück zum Schäfler und dem Seealpsee."
-      },
-      {
-        "photos": [
-          {
-            "name": "042",
-            "alt": "Weg über Scharte",
-            "date": "2014-06-22T11:14:58.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Weiter ging es zu einer Scharte, an der ich eine schöne Pause machen konnte."
-      },
-      {
-        "photos": [
-          {
-            "name": "043",
-            "alt": "Blick von Scharte zum Gasthaus Mesmer",
-            "date": "2014-06-22T11:24:47.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Auf der anderen Seite der Scharte war das nächste Ziel sichtbar, das Restaurant Mesmer (der kleine braune Fleck in der Mitte des Tals)."
-      },
-      {
-        "photos": [
-          {
-            "name": "044",
-            "alt": "Bergschuhe mit Seealpsee",
-            "date": "2014-06-22T11:25:12.000+02:00",
-            "width": 720,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Da ich oben auf der Kante saß, konnte ich auch in die andere Richtung zum Seealpsee fotografieren."
-      },
-      {
-        "photos": [
-          {
-            "name": "045",
-            "alt": "Sonniger Abstieg von Scharte",
-            "date": "2014-06-22T11:47:13.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Nach der Pause ging es steil hinab. Die in der prallen Sonne Entgegenkommenden taten mir richtig leid."
-      },
-      {
-        "photos": [
-          {
-            "name": "046",
-            "alt": "Seealpsee von Mesmer",
-            "date": "2014-06-22T12:11:42.000+02:00",
-            "width": 1920,
-            "height": 826
-          }
-        ],
-        "videos": [],
-        "text": "Anschließend ging es aber auch leider für mich wieder bergauf, aber der Blick zurück entschädigte. Links ist übrigens die Scharte zu sehen, durch die ich gekommen war."
-      },
-      {
-        "photos": [
-          {
-            "name": "047",
-            "alt": "Miniaturaufnahme Gasthaus Mesmer",
-            "date": "2014-06-22T12:12:10.000+02:00",
-            "width": 1685,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Gasthaus Mesmer mit Tiltshift-Effekt."
-      },
-      {
-        "photos": [
-          {
-            "name": "048",
-            "alt": "Kühe vor Säntis",
-            "date": "2014-06-22T12:18:33.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Blick vom Gasthaus zum Säntis (2500m), für den aber noch zu viel Schnee lag.<br />\nDa es noch recht früh war (12:30) beschloss ich von hier aus links zur Ageteplatte aufzusteigen. Von unten konnte ich unmöglich ausmachen, wie dort ein Weg hinaufführen soll."
-      },
-      {
-        "photos": [
-          {
-            "name": "049",
-            "alt": "Steiler Weg zur Ageteplatte",
-            "date": "2014-06-22T13:20:37.000+02:00",
-            "width": 720,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Zuerst führte der Weg nur steil über eine Wiese hinauf, bis ich die Felswand erreichte. Ab dort musste ich etwas kraxeln, aber der Weg ist dort durchgängig mit Drahtseil abgesichert. Abwärts würde ich es aber nicht empfehlen."
-      },
-      {
-        "photos": [
-          {
-            "name": "050",
-            "alt": "Unterhalb der Ageteplatte",
-            "date": "2014-06-22T13:28:04.000+02:00",
-            "width": 1920,
-            "height": 601
-          }
-        ],
-        "videos": [],
-        "text": "Ich hatte kaum Möglichkeiten den Fotoapparat heraus zu kramen. Hier war ich schon fast oben, direkt an den überhängenden Felswänden."
-      },
-      {
-        "photos": [
-          {
-            "name": "051",
-            "alt": "Aussicht von Ageteplatte",
-            "date": "2014-06-22T13:31:57.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Als Belohnung gab es eine Art Gipfelerlebnis. Auf der Südseite ist fast durchgängig Wiese, so dass man oben recht angenehm pausieren kann."
-      },
-      {
-        "photos": [
-          {
-            "name": "052",
-            "alt": "Blick von Ageteplatte",
-            "date": "2014-06-22T13:39:36.000+02:00",
-            "width": 1920,
-            "height": 842
-          },
-          {
-            "name": "055",
-            "alt": "Meglisalp von oben",
-            "date": "2014-06-22T13:49:18.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Blick auf das nächste Ziel unten im Tal, die Meglisalp. Der Weg war hier recht entspannend, endlich mal nicht direkt an einem Abgrund. 😉"
-      },
-      {
-        "photos": [
-          {
-            "name": "057",
-            "alt": "Miniaturaufnahme Meglisalp",
-            "date": "2014-06-22T14:07:08.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Miniaturaufnahme der Meglisalp."
-      },
-      {
-        "photos": [
-          {
-            "name": "058",
-            "alt": "Abstieg Ageteplatte",
-            "date": "2014-06-22T14:10:36.000+02:00",
-            "width": 1920,
-            "height": 1010
-          }
-        ],
-        "videos": [],
-        "text": "Noch vor der Meglisalp der Blick auf den Seealpsee. Links befindet sich der Schäfler."
-      },
-      {
-        "photos": [
-          {
-            "name": "061",
-            "alt": "Meglisalp",
-            "date": "2014-06-22T14:23:08.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Ich kam auf der Meglisalp um 14:20 an. Jetzt zog es vom Säntis etwas zu, was aber auf Grund der hohen Temperaturen sehr angenehm war."
-      },
-      {
-        "photos": [
-          {
-            "name": "062",
-            "alt": "Hochtal Meglisalp",
-            "date": "2014-06-22T14:26:17.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Das blühende Hochtal rund um die Meglisalp."
-      },
-      {
-        "photos": [
-          {
-            "name": "063",
-            "alt": "Gottesdienst Kapelle Meglisalp",
-            "date": "2014-06-22T14:27:47.000+02:00",
-            "width": 1920,
-            "height": 919
-          }
-        ],
-        "videos": [],
-        "text": "An der kleinen Kirche fand ein Openair-Gottesdienst statt, an dem richtig Viele teilnahmen. Für mich diente es aber nur als Fotomotiv."
-      },
-      {
-        "photos": [
-          {
-            "name": "064",
-            "alt": "Meglisalp und Ageteplatte",
-            "date": "2014-06-22T14:37:20.000+02:00",
-            "width": 1920,
-            "height": 844
-          }
-        ],
-        "videos": [],
-        "text": "Von der Meglisalp führt ein breiterer Weg weiter, aber Waren erreichen die Alp nur per Transportseilbahn vom Seealpsee her.<br />\nRechts ist übrigens die Ageteplatte zu sehen."
-      },
-      {
-        "photos": [
-          {
-            "name": "065",
-            "alt": "Steiler Abstieg zum Seealpsee",
-            "date": "2014-06-22T14:59:56.000+02:00",
-            "width": 1620,
-            "height": 1080
-          },
-          {
-            "name": "066",
-            "alt": "Weg durch Felswand zum Seealpsee",
-            "date": "2014-06-22T15:08:32.000+02:00",
-            "width": 1920,
-            "height": 1026
-          }
-        ],
-        "videos": [],
-        "text": "Nach den nun harmloseren Wegen ging es nun wieder richtig zur Sache, der steile Abstieg durch eine Felswand zum 400m tiefer gelegenen Seealpsee."
-      },
-      {
-        "photos": [
-          {
-            "name": "067",
-            "alt": "Steile Stufen oberhalb des Sees",
-            "date": "2014-06-22T15:23:26.000+02:00",
-            "width": 720,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Es war ganz schön steil, ausgesetzt und es gab viele, viele Stufen."
-      },
-      {
-        "photos": [
-          {
-            "name": "069",
-            "alt": "Ufer des Seealpsee",
-            "date": "2014-06-22T16:18:25.000+02:00",
-            "width": 1620,
-            "height": 1080
-          },
-          {
-            "name": "068",
-            "alt": "Baden im Seealpsee",
-            "date": "2014-06-22T16:18:25.000+02:00",
-            "width": 1920,
-            "height": 572
-          }
-        ],
-        "videos": [],
-        "text": "Ziemlich erschöpft war ich nun endlich am Ufer des Seealpsees. Ich zog die Badehose an und ging rein ins kalte Nass. Erst schmerzten die Füße, aber dann hatte ich mit Genuss die Salzkrusten vom Körper abgewaschen. Nach ein paar Zügen wurde es dann aber doch etwas zu frisch. 😉"
-      },
-      {
-        "photos": [
-          {
-            "name": "070",
-            "alt": "Grillstellen am Seealpsee",
-            "date": "2014-06-22T16:33:46.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Um 16:30 ging's dann weiter auf viel begangenem Weg entlang des Seealpsees, wo auch fleißig am Ufer gegrillt wurde. Ganz hinten im Tal unterhalb des Schneefelds ist übrigens das Gasthaus Mesmer zu sehen."
-      },
-      {
-        "photos": [
-          {
-            "name": "071",
-            "alt": "Wasserfall im Dunklen Wald",
-            "date": "2014-06-22T17:18:14.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Dann hat man die Wahl, ob man die (für Autos gesperrte) Fahrstraße durch die Schlucht absteigen will oder lieber den Wanderweg etwas oberhalb nimmt. Ich war natürlich den Wanderweg gegangen, der mich dann aber doch ziemlich geschlaucht hatte. Denn es ging wieder gefühlt tausende Treppenstufen bergab."
-      },
-      {
-        "photos": [
-          {
-            "name": "072",
-            "alt": "Historische Säntisbahn",
-            "date": "2014-06-22T17:50:02.000+02:00",
-            "width": 1737,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Ankunft mit schmerzendem Knie und Blase am Fuß um 17:50 in Wasserauen. Dort stehen noch historische Waggons der Säntisbahn auf den Gleisen. Eigentlich sollte von dort mal eine Eisenbahn vorbei am Seealpsee auf den Säntis führen, aber aus dem Projekt ist (außer dem Namen der Bahn) nichts geworden."
-      },
-      {
-        "photos": [
-          {
-            "name": "track1",
-            "alt": "Wegstrecke um den Seealpsee",
-            "width": 800,
-            "height": 685
-          },
-          {
-            "name": "track2",
-            "alt": "Höhenprofil um den Seealpsee",
-            "width": 800,
-            "height": 325
-          }
-        ],
-        "videos": [],
-        "text": "Gelaufene Strecke. Addiert 1800 Höhenmeter auf 20km Strecke bei rund 7.5h Gehzeit + 2h Pausen."
-      }
-    ],
-    "outro": "Fazit: Sehr schöner Rundweg - schwindelfrei sollte man aber auf jeden Fall sein, da die Wege ziemlich ausgesetzt sind. Verkürzen kann man die Tour zum einen mit einer Auffahrt zur Ebenalp, zum anderen kann man auch schon von der Mesmer-Hütte zum Seealpsee absteigen. Wer allergisch auf andere Wanderer reagiert sollte lieber einen Werktag wählen, da am Wochenende immer recht viel los ist. Ich empfand es aber nicht als störend."
-  }
-]
+    {
+      "photos": [
+        {
+          "name": "002",
+          "alt": "Wanderweg am Waldrand",
+          "date": "2014-06-22T07:58:48.000+02:00",
+          "width": 1920,
+          "height": 605
+        }
+      ],
+      "videos": [],
+      "text": "Zu Beginn führt der Weg über viele Stufen im Wald hinauf. Zwischendurch ging's auch mal entlang dieser Wiese, so dass der Blick hinüber zum Hohen Kasten frei wurde."
+    },
+    {
+      "photos": [
+        {
+          "name": "003",
+          "alt": "Blick aus dunklem Wald zur Ebenalp",
+          "date": "2014-06-22T08:14:48.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Etwas später ging es dann endgültig aus dem Wald hinaus und die Ebenalp wurde sichtbar."
+    },
+    {
+      "photos": [
+        {
+          "name": "004",
+          "alt": "Blühende Weiden vor Ebenalp",
+          "date": "2014-06-22T08:18:45.000+02:00",
+          "width": 1920,
+          "height": 734
+        }
+      ],
+      "videos": [],
+      "text": "Weiter ging es deutlich flacher über blühende Weiden."
+    },
+    {
+      "photos": [
+        {
+          "name": "005",
+          "alt": "Seilbahntrasse Hoher Kasten",
+          "date": "2014-06-22T08:19:22.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Nochmal der Blick zurück auf den Hohen Kasten und die Trasse dessen Seilbahn."
+    },
+    {
+      "photos": [
+        {
+          "name": "006",
+          "alt": "Ebenalp Seilbahn vor Felswand",
+          "date": "2014-06-22T08:20:42.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Die Ebenalpbahn fuhr pausenlos, und da sie nicht besonders lang ist, war es sehr einfach sie für die Fotos abzupassen."
+    },
+    {
+      "photos": [
+        {
+          "name": "007",
+          "alt": "Idyllische Alp",
+          "date": "2014-06-22T08:25:24.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Idyllisch."
+    },
+    {
+      "photos": [
+        {
+          "name": "008",
+          "alt": "Wanderweg mit Holzstufen",
+          "date": "2014-06-22T08:47:09.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Am anderen Ende der Wiesen ging es wieder deutlich steiler hinauf Richtung Felswand... es war schon richtig heiß."
+    },
+    {
+      "photos": [
+        {
+          "name": "009",
+          "alt": "Gondel der Ebenalp Seilbahn",
+          "date": "2014-06-22T08:48:36.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Und da fuhr die Seilbahn schon wieder..."
+    },
+    {
+      "photos": [
+        {
+          "name": "010",
+          "alt": "Wanderweg mit Blick ins Appenzeller Land",
+          "date": "2014-06-22T08:51:05.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Blick zurück auf's Appenzeller Land."
+    },
+    {
+      "photos": [
+        {
+          "name": "011",
+          "alt": "Weg unterhalb von Felswand",
+          "date": "2014-06-22T09:00:06.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Nun war ich an der Felswand angekommen."
+    },
+    {
+      "photos": [
+        {
+          "name": "012",
+          "alt": "Panorama Äscher",
+          "date": "2014-06-22T09:02:31.000+02:00",
+          "width": 1920,
+          "height": 766
+        },
+        {
+          "name": "013",
+          "alt": "Restaurant Äscher in Felswand",
+          "date": "2014-06-22T09:03:26.000+02:00",
+          "width": 720,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Unter der überhängenden Felswand kauert fotogen das Restaurant Äscher, eines der bekanntesten Motive im Alpstein."
+    },
+    {
+      "photos": [
+        {
+          "name": "014",
+          "alt": "Weg von Restaurant Äscher zur Kapelle Wildkirchli",
+          "date": "2014-06-22T09:05:14.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Danach ging es auf gut ausgebautem Weg in der Felswand weiter, vorbei an der kleinen Grottenkapelle Wildkirchli."
+    },
+    {
+      "photos": [
+        {
+          "name": "015",
+          "alt": "Höhleneingang Wildkirchli mit Seilbahn",
+          "date": "2014-06-22T09:07:08.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Und noch ein Stück weiter kommt man zu einem großen Höhleneingang mit kleinem Museum, das über die prähistorische Geschichte dieser Höhle informiert."
+    },
+    {
+      "photos": [
+        {
+          "name": "016",
+          "alt": "Höhle hinter Wildkirchli",
+          "date": "2014-06-22T09:07:53.000+02:00",
+          "width": 1920,
+          "height": 1030
+        },
+        {
+          "name": "017",
+          "alt": "Höhle unterhalb Ebenalp",
+          "date": "2014-06-22T09:09:48.000+02:00",
+          "width": 1920,
+          "height": 751
+        }
+      ],
+      "videos": [],
+      "text": "Dann ging der Weg durch die Höhle (vorbei an unzähligen Steinmännchen) weiter nach oben..."
+    },
+    {
+      "photos": [
+        {
+          "name": "018",
+          "alt": "Weg von Ebenalp zur Höhle",
+          "date": "2014-06-22T09:14:16.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "... und ich kam oberhalb der Felswand wieder hinaus."
+    },
+    {
+      "photos": [
+        {
+          "name": "019",
+          "alt": "Bank auf Ebenalp vor Seilbahn",
+          "date": "2014-06-22T09:17:31.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Damit war ich auch schon fast an der Bergstation auf der Ebenalp angekommen, inzwischen war es auch schon 9:20."
+    },
+    {
+      "photos": [
+        {
+          "name": "020",
+          "alt": "Wegweiser zum Schäfler",
+          "date": "2014-06-22T09:25:56.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Der Wegweiser zeigt zum nächsten Ziel, dem nochmal 300m höher gelegenem Schäfler (1924m)."
+    },
+    {
+      "photos": [
+        {
+          "name": "021",
+          "alt": "Blick von Ebenalp zum Schäfler",
+          "date": "2014-06-22T09:27:17.000+02:00",
+          "width": 1920,
+          "height": 729
+        }
+      ],
+      "videos": [],
+      "text": "Hier links im Bild ist der Schäfler bereits zu sehen."
+    },
+    {
+      "photos": [
+        {
+          "name": "022",
+          "alt": "Blick von Ebenalp zum Seealpsee",
+          "date": "2014-06-22T09:31:40.000+02:00",
+          "width": 1046,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Der Weg führt auf der Oberkante der Felswand entlang, unten ist auch zum ersten mal der Seealpsee sichtbar."
+    },
+    {
+      "photos": [
+        {
+          "name": "023",
+          "alt": "Wanderweg zum Schäfler",
+          "date": "2014-06-22T09:34:13.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Die Gaststätte Schäfler, die oben auf dem Gipfel thront."
+    },
+    {
+      "photos": [
+        {
+          "name": "024",
+          "alt": "Hauptweg zum Schäfler",
+          "date": "2014-06-22T09:47:43.000+02:00",
+          "width": 1920,
+          "height": 824
+        }
+      ],
+      "videos": [],
+      "text": "Hier der Blick auf den weiteren Weg. Dieser Abschnitt war gut besucht, da der Schäfler das Ziel vieler Seilbahnauffahrer ist."
+    },
+    {
+      "photos": [
+        {
+          "name": "025",
+          "alt": "Pferd mit Altmann",
+          "date": "2014-06-22T09:52:51.000+02:00",
+          "width": 1705,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Pferd mit Altmann (2436m)."
+    },
+    {
+      "photos": [
+        {
+          "name": "026",
+          "alt": "Skilift Ebenalp im Sommer",
+          "date": "2014-06-22T09:56:11.000+02:00",
+          "width": 1920,
+          "height": 676
+        }
+      ],
+      "videos": [],
+      "text": "Vorbei an der Bergstation des höchsten Schlepplifts des Skigebiets Ebenalp. Es gibt allerdings auch nur zwei Schlepplifte."
+    },
+    {
+      "photos": [
+        {
+          "name": "027",
+          "alt": "Kuh mit Blick auf Kronberg",
+          "date": "2014-06-22T10:09:51.000+02:00",
+          "width": 1662,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Nun war ich oben an der Kante des Schäflers angekommen, der nach Norden hin steil abfällt. Die Kuh genoss den Ausblick zum Kronberg."
+    },
+    {
+      "photos": [
+        {
+          "name": "028",
+          "alt": "Alpendohle über Appenzeller Land",
+          "date": "2014-06-22T10:20:25.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Und auch die Alpendohle profitierte vom steilen Abbruch."
+    },
+    {
+      "photos": [
+        {
+          "name": "029",
+          "alt": "Gaststätte Schäfler",
+          "date": "2014-06-22T10:21:05.000+02:00",
+          "width": 1920,
+          "height": 591
+        }
+      ],
+      "videos": [],
+      "text": "Puh, um 10:30 hatte ich es fast geschafft. Die Gaststätte wird von einer Transportseilbahn vom Norden her versorgt. Dort führt auch ein Weg hinab, der aber nur etwas für hart gesottene ist."
+    },
+    {
+      "photos": [
+        {
+          "name": "030",
+          "alt": "Panorama vom Schäfler",
+          "date": "2014-06-22T10:26:52.000+02:00",
+          "width": 1920,
+          "height": 698
+        },
+        {
+          "name": "031",
+          "alt": "Steiler Weg am Schäfler",
+          "date": "2014-06-22T10:27:42.000+02:00",
+          "width": 720,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Blick vom Gipfel des Schäflers auf den weiteren Verlauf des Wegs, <span data-silent>*brrr* -</span> ganz schön Respekt einflößend. Im Hintergrund der Säntis mit der markanten Antenne."
+    },
+    {
+      "photos": [
+        {
+          "name": "032",
+          "alt": "Gasthaus Schäfler mit Wiese",
+          "date": "2014-06-22T10:33:56.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Die Gaststätte vom Gipfel aus aufgenommen."
+    },
+    {
+      "photos": [
+        {
+          "name": "033",
+          "alt": "Drahtseil am Schäfler",
+          "date": "2014-06-22T10:36:16.000+02:00",
+          "width": 1920,
+          "height": 866
+        },
+        {
+          "name": "034",
+          "alt": "Weg um Felswand",
+          "date": "2014-06-22T10:37:32.000+02:00",
+          "width": 1920,
+          "height": 878
+        }
+      ],
+      "videos": [],
+      "text": "Vorbei an einem Warnschild (nur Geübte mit guten Schuhen) ging es erst auf der Nordseite herum um den Gipfel. Rechts geht's ordentlich bergab."
+    },
+    {
+      "photos": [
+        {
+          "name": "035",
+          "alt": "Rostige Treppe am Schäfler",
+          "date": "2014-06-22T10:38:31.000+02:00",
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "name": "036",
+          "alt": "Treppe mit Drahtseil",
+          "date": "2014-06-22T10:39:47.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Dann gelangt man über eine alte Treppe auf die Südseite, wo es ebenfalls nicht gerade flach Richtung Seealpsee abfällt <span data-silent>(auf 2D-Fotos einfach nicht einzufangen)</span>."
+    },
+    {
+      "photos": [
+        {
+          "name": "037",
+          "alt": "Treppe mit Hangweg",
+          "date": "2014-06-22T10:40:00.000+02:00",
+          "width": 595,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Und weiter ging es über eine neue Treppe zum eigentlichen Hangweg."
+    },
+    {
+      "photos": [
+        {
+          "name": "038",
+          "alt": "Steiler Hangweg mit Drahtseil",
+          "date": "2014-06-22T10:46:04.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Auch anschließend ist der Weg alles andere als harmlos und ich war froh, dass dort ein psychologisch wichtiges Drahtseil vorhanden ist."
+    },
+    {
+      "photos": [
+        {
+          "name": "039",
+          "alt": "Wanderweg am Steilhang",
+          "date": "2014-06-22T10:52:58.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Der Blick nach vorne auf den weiteren Weg."
+    },
+    {
+      "photos": [
+        {
+          "name": "040",
+          "alt": "Bergweg zum Schäfler",
+          "date": "2014-06-22T10:56:39.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Und der Blick zurück zum Schäfler."
+    },
+    {
+      "photos": [
+        {
+          "name": "041",
+          "alt": "Blick auf Schäfler und Seealpsee",
+          "date": "2014-06-22T11:06:39.000+02:00",
+          "width": 1920,
+          "height": 921
+        }
+      ],
+      "videos": [],
+      "text": "Dann wurde es etwas flacher und wieder der Blick zurück zum Schäfler und dem Seealpsee."
+    },
+    {
+      "photos": [
+        {
+          "name": "042",
+          "alt": "Weg über Scharte",
+          "date": "2014-06-22T11:14:58.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Weiter ging es zu einer Scharte, an der ich eine schöne Pause machen konnte."
+    },
+    {
+      "photos": [
+        {
+          "name": "043",
+          "alt": "Blick von Scharte zum Gasthaus Mesmer",
+          "date": "2014-06-22T11:24:47.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Auf der anderen Seite der Scharte war das nächste Ziel sichtbar, das Restaurant Mesmer (der kleine braune Fleck in der Mitte des Tals)."
+    },
+    {
+      "photos": [
+        {
+          "name": "044",
+          "alt": "Bergschuhe mit Seealpsee",
+          "date": "2014-06-22T11:25:12.000+02:00",
+          "width": 720,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Da ich oben auf der Kante saß, konnte ich auch in die andere Richtung zum Seealpsee fotografieren."
+    },
+    {
+      "photos": [
+        {
+          "name": "045",
+          "alt": "Sonniger Abstieg von Scharte",
+          "date": "2014-06-22T11:47:13.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Nach der Pause ging es steil hinab. Die in der prallen Sonne Entgegenkommenden taten mir richtig leid."
+    },
+    {
+      "photos": [
+        {
+          "name": "046",
+          "alt": "Seealpsee von Mesmer",
+          "date": "2014-06-22T12:11:42.000+02:00",
+          "width": 1920,
+          "height": 826
+        }
+      ],
+      "videos": [],
+      "text": "Anschließend ging es aber auch leider für mich wieder bergauf, aber der Blick zurück entschädigte. Links ist übrigens die Scharte zu sehen, durch die ich gekommen war."
+    },
+    {
+      "photos": [
+        {
+          "name": "047",
+          "alt": "Miniaturaufnahme Gasthaus Mesmer",
+          "date": "2014-06-22T12:12:10.000+02:00",
+          "width": 1685,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Gasthaus Mesmer mit Tiltshift-Effekt."
+    },
+    {
+      "photos": [
+        {
+          "name": "048",
+          "alt": "Kühe vor Säntis",
+          "date": "2014-06-22T12:18:33.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Blick vom Gasthaus zum Säntis (2500m), für den aber noch zu viel Schnee lag.<br />\nDa es noch recht früh war (12:30) beschloss ich von hier aus links zur Ageteplatte aufzusteigen. Von unten konnte ich unmöglich ausmachen, wie dort ein Weg hinaufführen soll."
+    },
+    {
+      "photos": [
+        {
+          "name": "049",
+          "alt": "Steiler Weg zur Ageteplatte",
+          "date": "2014-06-22T13:20:37.000+02:00",
+          "width": 720,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Zuerst führte der Weg nur steil über eine Wiese hinauf, bis ich die Felswand erreichte. Ab dort musste ich etwas kraxeln, aber der Weg ist dort durchgängig mit Drahtseil abgesichert. Abwärts würde ich es aber nicht empfehlen."
+    },
+    {
+      "photos": [
+        {
+          "name": "050",
+          "alt": "Unterhalb der Ageteplatte",
+          "date": "2014-06-22T13:28:04.000+02:00",
+          "width": 1920,
+          "height": 601
+        }
+      ],
+      "videos": [],
+      "text": "Ich hatte kaum Möglichkeiten den Fotoapparat heraus zu kramen. Hier war ich schon fast oben, direkt an den überhängenden Felswänden."
+    },
+    {
+      "photos": [
+        {
+          "name": "051",
+          "alt": "Aussicht von Ageteplatte",
+          "date": "2014-06-22T13:31:57.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Als Belohnung gab es eine Art Gipfelerlebnis. Auf der Südseite ist fast durchgängig Wiese, so dass man oben recht angenehm pausieren kann."
+    },
+    {
+      "photos": [
+        {
+          "name": "052",
+          "alt": "Blick von Ageteplatte",
+          "date": "2014-06-22T13:39:36.000+02:00",
+          "width": 1920,
+          "height": 842
+        },
+        {
+          "name": "055",
+          "alt": "Meglisalp von oben",
+          "date": "2014-06-22T13:49:18.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Blick auf das nächste Ziel unten im Tal, die Meglisalp. Der Weg war hier recht entspannend, endlich mal nicht direkt an einem Abgrund. 😉"
+    },
+    {
+      "photos": [
+        {
+          "name": "057",
+          "alt": "Miniaturaufnahme Meglisalp",
+          "date": "2014-06-22T14:07:08.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Miniaturaufnahme der Meglisalp."
+    },
+    {
+      "photos": [
+        {
+          "name": "058",
+          "alt": "Abstieg Ageteplatte",
+          "date": "2014-06-22T14:10:36.000+02:00",
+          "width": 1920,
+          "height": 1010
+        }
+      ],
+      "videos": [],
+      "text": "Noch vor der Meglisalp der Blick auf den Seealpsee. Links befindet sich der Schäfler."
+    },
+    {
+      "photos": [
+        {
+          "name": "061",
+          "alt": "Meglisalp",
+          "date": "2014-06-22T14:23:08.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Ich kam auf der Meglisalp um 14:20 an. Jetzt zog es vom Säntis etwas zu, was aber auf Grund der hohen Temperaturen sehr angenehm war."
+    },
+    {
+      "photos": [
+        {
+          "name": "062",
+          "alt": "Hochtal Meglisalp",
+          "date": "2014-06-22T14:26:17.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Das blühende Hochtal rund um die Meglisalp."
+    },
+    {
+      "photos": [
+        {
+          "name": "063",
+          "alt": "Gottesdienst Kapelle Meglisalp",
+          "date": "2014-06-22T14:27:47.000+02:00",
+          "width": 1920,
+          "height": 919
+        }
+      ],
+      "videos": [],
+      "text": "An der kleinen Kirche fand ein Openair-Gottesdienst statt, an dem richtig Viele teilnahmen. Für mich diente es aber nur als Fotomotiv."
+    },
+    {
+      "photos": [
+        {
+          "name": "064",
+          "alt": "Meglisalp und Ageteplatte",
+          "date": "2014-06-22T14:37:20.000+02:00",
+          "width": 1920,
+          "height": 844
+        }
+      ],
+      "videos": [],
+      "text": "Von der Meglisalp führt ein breiterer Weg weiter, aber Waren erreichen die Alp nur per Transportseilbahn vom Seealpsee her.<br />\nRechts ist übrigens die Ageteplatte zu sehen."
+    },
+    {
+      "photos": [
+        {
+          "name": "065",
+          "alt": "Steiler Abstieg zum Seealpsee",
+          "date": "2014-06-22T14:59:56.000+02:00",
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "name": "066",
+          "alt": "Weg durch Felswand zum Seealpsee",
+          "date": "2014-06-22T15:08:32.000+02:00",
+          "width": 1920,
+          "height": 1026
+        }
+      ],
+      "videos": [],
+      "text": "Nach den nun harmloseren Wegen ging es nun wieder richtig zur Sache, der steile Abstieg durch eine Felswand zum 400m tiefer gelegenen Seealpsee."
+    },
+    {
+      "photos": [
+        {
+          "name": "067",
+          "alt": "Steile Stufen oberhalb des Sees",
+          "date": "2014-06-22T15:23:26.000+02:00",
+          "width": 720,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Es war ganz schön steil, ausgesetzt und es gab viele, viele Stufen."
+    },
+    {
+      "photos": [
+        {
+          "name": "069",
+          "alt": "Ufer des Seealpsee",
+          "date": "2014-06-22T16:18:25.000+02:00",
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "name": "068",
+          "alt": "Baden im Seealpsee",
+          "date": "2014-06-22T16:18:25.000+02:00",
+          "width": 1920,
+          "height": 572
+        }
+      ],
+      "videos": [],
+      "text": "Ziemlich erschöpft war ich nun endlich am Ufer des Seealpsees. Ich zog die Badehose an und ging rein ins kalte Nass. Erst schmerzten die Füße, aber dann hatte ich mit Genuss die Salzkrusten vom Körper abgewaschen. Nach ein paar Zügen wurde es dann aber doch etwas zu frisch. 😉"
+    },
+    {
+      "photos": [
+        {
+          "name": "070",
+          "alt": "Grillstellen am Seealpsee",
+          "date": "2014-06-22T16:33:46.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Um 16:30 ging's dann weiter auf viel begangenem Weg entlang des Seealpsees, wo auch fleißig am Ufer gegrillt wurde. Ganz hinten im Tal unterhalb des Schneefelds ist übrigens das Gasthaus Mesmer zu sehen."
+    },
+    {
+      "photos": [
+        {
+          "name": "071",
+          "alt": "Wasserfall im Dunklen Wald",
+          "date": "2014-06-22T17:18:14.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Dann hat man die Wahl, ob man die (für Autos gesperrte) Fahrstraße durch die Schlucht absteigen will oder lieber den Wanderweg etwas oberhalb nimmt. Ich war natürlich den Wanderweg gegangen, der mich dann aber doch ziemlich geschlaucht hatte. Denn es ging wieder gefühlt tausende Treppenstufen bergab."
+    },
+    {
+      "photos": [
+        {
+          "name": "072",
+          "alt": "Historische Säntisbahn",
+          "date": "2014-06-22T17:50:02.000+02:00",
+          "width": 1737,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Ankunft mit schmerzendem Knie und Blase am Fuß um 17:50 in Wasserauen. Dort stehen noch historische Waggons der Säntisbahn auf den Gleisen. Eigentlich sollte von dort mal eine Eisenbahn vorbei am Seealpsee auf den Säntis führen, aber aus dem Projekt ist (außer dem Namen der Bahn) nichts geworden."
+    },
+    {
+      "photos": [
+        {
+          "name": "track1",
+          "alt": "Wegstrecke um den Seealpsee",
+          "width": 800,
+          "height": 685
+        },
+        {
+          "name": "track2",
+          "alt": "Höhenprofil um den Seealpsee",
+          "width": 800,
+          "height": 325
+        }
+      ],
+      "videos": [],
+      "text": "Gelaufene Strecke. Addiert 1800 Höhenmeter auf 20km Strecke bei rund 7.5h Gehzeit + 2h Pausen."
+    }
+  ],
+  "outro": "Fazit: Sehr schöner Rundweg - schwindelfrei sollte man aber auf jeden Fall sein, da die Wege ziemlich ausgesetzt sind. Verkürzen kann man die Tour zum einen mit einer Auffahrt zur Ebenalp, zum anderen kann man auch schon von der Mesmer-Hütte zum Seealpsee absteigen. Wer allergisch auf andere Wanderer reagiert sollte lieber einen Werktag wählen, da am Wochenende immer recht viel los ist. Ich empfand es aber nicht als störend."
+}

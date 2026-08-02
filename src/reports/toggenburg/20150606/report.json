@@ -1,422 +1,420 @@
-[
-  {
-    "destination": "toggenburg",
-    "date": "d20150606",
-    "type": "hike",
-    "track": true,
-    "detailMap": "swiss",
-    "shortTitle": "Speer",
-    "title": "Amden - Speer",
-    "title3d": {
-      "offsetY": 1,
-      "fontSize": 11,
-      "width": 1920,
-      "height": 655
+{
+  "destination": "toggenburg",
+  "date": "d20150606",
+  "type": "hike",
+  "track": true,
+  "detailMap": "swiss",
+  "shortTitle": "Speer",
+  "title": "Amden - Speer",
+  "title3d": {
+    "offsetY": 1,
+    "fontSize": 11,
+    "width": 1920,
+    "height": 655
+  },
+  "movie": "sSXPI7ApPJg",
+  "intro": "So langsam geht der Schnee in den Bergen dahin, deshalb werden Wanderungen bis etwa 2000m Höhe möglich. Ich entschied mich diesen Samstag trotz der gewittrigen Vorhersage auf eine Tour auf den Speer, der oberhalb des Walensees liegt.<br />\nAuf Grund des für den Nachmittag angekündigten Unwetters, kam ich bereits um 7:30 in Amden (einem kleinen Ort auf einer Hochebene) an, dort parkte ich auf einem der wenigen Gratisparkplätze am Hallenbad.<br />\nNoch schnell die Bergschuhe anziehen und dann los... aber wo waren sie gleich - oh Mist, zuhause fertig vorbereitet liegen gelassen. 😞 Während ich mich noch über meine Verplantheit aufregte, entschied ich mich mit Sandalen loszulaufen und bei zu schlechtem Weg die Wanderung halt abzubrechen.",
+  "landmarks": [
+    {
+      "photos": [
+        {
+          "name": "001",
+          "alt": "Weg durch Blumenwiese",
+          "date": "2015-06-06T08:20:03.000+02:00",
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "name": "002",
+          "alt": "Schlangenknöterich",
+          "date": "2015-06-06T08:20:56.000+02:00",
+          "width": 1742,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Zuerst ging es über blumenreiche Wiesen von 900m auf etwas 1200m bergauf. Diesen ersten Aufstieg könnte man auch mit einer Sesselbahn, die täglich ab 8:30 in Betrieb ist, abkürzen."
     },
-    "movie": "sSXPI7ApPJg",
-    "intro": "So langsam geht der Schnee in den Bergen dahin, deshalb werden Wanderungen bis etwa 2000m Höhe möglich. Ich entschied mich diesen Samstag trotz der gewittrigen Vorhersage auf eine Tour auf den Speer, der oberhalb des Walensees liegt.<br />\nAuf Grund des für den Nachmittag angekündigten Unwetters, kam ich bereits um 7:30 in Amden (einem kleinen Ort auf einer Hochebene) an, dort parkte ich auf einem der wenigen Gratisparkplätze am Hallenbad.<br />\nNoch schnell die Bergschuhe anziehen und dann los... aber wo waren sie gleich - oh Mist, zuhause fertig vorbereitet liegen gelassen. 😞 Während ich mich noch über meine Verplantheit aufregte, entschied ich mich mit Sandalen loszulaufen und bei zu schlechtem Weg die Wanderung halt abzubrechen.",
-    "landmarks": [
-      {
-        "photos": [
-          {
-            "name": "001",
-            "alt": "Weg durch Blumenwiese",
-            "date": "2015-06-06T08:20:03.000+02:00",
-            "width": 1620,
-            "height": 1080
-          },
-          {
-            "name": "002",
-            "alt": "Schlangenknöterich",
-            "date": "2015-06-06T08:20:56.000+02:00",
-            "width": 1742,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Zuerst ging es über blumenreiche Wiesen von 900m auf etwas 1200m bergauf. Diesen ersten Aufstieg könnte man auch mit einer Sesselbahn, die täglich ab 8:30 in Betrieb ist, abkürzen."
-      },
-      {
-        "photos": [
-          {
-            "name": "003",
-            "alt": "Hochmoor mit Säntis",
-            "date": "2015-06-06T08:49:45.000+02:00",
-            "width": 1920,
-            "height": 1016
-          }
-        ],
-        "videos": [],
-        "text": "Oben angelangt erreichte ich den Pass, der hinüber zum Toggenburg führt. Hinter dem dort befindlichen Hochmoor tauchte auch der Säntis auf."
-      },
-      {
-        "photos": [
-          {
-            "name": "004",
-            "alt": "Mürtschenstock",
-            "date": "2015-06-06T08:54:22.000+02:00",
-            "width": 1920,
-            "height": 525
-          }
-        ],
-        "videos": [],
-        "text": "Blick zurück auf den Mürtschenstock, der sich hinter dem Walensee befindet. Ab nun ging es auf einem Schotterweg weiter."
-      },
-      {
-        "photos": [
-          {
-            "name": "005",
-            "alt": "Weg um den Mattstock",
-            "date": "2015-06-06T09:05:09.000+02:00",
-            "width": 1920,
-            "height": 913
-          }
-        ],
-        "videos": [],
-        "text": "Der Weg führte auf der Südseite um den Mattstock (hier links) herum, der sich genau zwischen Amden und Speer befindet. Hinten konnte man schon das Ziel - den Speer - entdecken."
-      },
-      {
-        "photos": [
-          {
-            "name": "006",
-            "alt": "Blick ins Toggenburg",
-            "date": "2015-06-06T09:14:22.000+02:00",
-            "width": 1920,
-            "height": 781
-          }
-        ],
-        "videos": [],
-        "text": "Blick zurück Richtung Toggenburg und Säntis."
-      },
-      {
-        "photos": [
-          {
-            "name": "007",
-            "alt": "Hangweg",
-            "date": "2015-06-06T09:23:22.000+02:00",
-            "width": 1920,
-            "height": 1072
-          }
-        ],
-        "videos": [],
-        "text": "Nun verließ der Weg die Straße und es ging schöner den Hang entlang. Zeit für eine erste Pause im (raren) Schatten. Blick wieder zurück zum Säntis."
-      },
-      {
-        "photos": [
-          {
-            "name": "008",
-            "alt": "Wanderweg durch Felslücke",
-            "date": "2015-06-06T09:28:04.000+02:00",
-            "width": 720,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Nett angelegt."
-      },
-      {
-        "photos": [
-          {
-            "name": "009",
-            "alt": "Alp Hinter-Höhi",
-            "date": "2015-06-06T09:30:28.000+02:00",
-            "width": 1860,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Dann erreichte ich die Alp Hinter-Höhi, die ich aber nur streifte. Links immer noch der Mattstock.<br />\nDanach ging es schattenlos (ich sollte vielleicht erwähnen, dass es sehr heiß war) steiler hinauf nach Oberkäseren."
-      },
-      {
-        "photos": [
-          {
-            "name": "010",
-            "alt": "Federispitz",
-            "date": "2015-06-06T10:01:55.000+02:00",
-            "width": 1920,
-            "height": 814
-          }
-        ],
-        "videos": [],
-        "text": "Ankunft um 10:00 auf 1700m am zweiten Pass, der wieder zurück zum Walensee führt. Aber bevor es da wieder runter ging, stand zuerst noch der wichtige Abstecher zum Speer auf der Agenda."
-      },
-      {
-        "photos": [
-          {
-            "name": "011",
-            "alt": "Farbenfrohe Alpwiese",
-            "date": "2015-06-06T10:09:46.000+02:00",
-            "width": 1830,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Farbenfrohe Alpwiesen entlang des Wegs."
-      },
-      {
-        "photos": [
-          {
-            "name": "012",
-            "alt": "Blick ins Glarus",
-            "date": "2015-06-06T10:18:06.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Blick hinab Richtung Glarus."
-      },
-      {
-        "photos": [
-          {
-            "name": "013",
-            "alt": "Bergweg Speer",
-            "date": "2015-06-06T10:42:53.000+02:00",
-            "width": 1920,
-            "height": 709
-          }
-        ],
-        "videos": [],
-        "text": "Es wurde zwar nun felsiger, aber der Weg ist so gut ausgebaut und es war auch absolut trocken, so dass es auch mit meinem schäbigen Material an den Füßen kein Problem war."
-      },
-      {
-        "photos": [
-          {
-            "name": "014",
-            "alt": "Panorama Speer",
-            "date": "2015-06-06T10:57:03.000+02:00",
-            "width": 1920,
-            "height": 982
-          }
-        ],
-        "videos": [],
-        "text": "Der fast 2000m hohe Gipfel war um kurz vor elf erreicht. Oben überrascht das sehr große Panorama, was daran liegt, dass der Gipfel auf der anderen Seite deutlich steiler abfällt. Zudem gibt es Richtung Norden (bei weitem) keine höheren Gipfel mehr.<br />\nHier der Blick nach Osten, in der Mitte der Säntis und rechts die Churfirsten."
-      },
-      {
-        "photos": [
-          {
-            "name": "015",
-            "alt": "Aussicht Speer",
-            "date": "2015-06-06T10:58:11.000+02:00",
-            "width": 1920,
-            "height": 818
-          }
-        ],
-        "videos": [],
-        "text": "Panorama genau in die andere Richtung. Rechts der Zürichsee, links das Glarus."
-      },
-      {
-        "photos": [
-          {
-            "name": "016",
-            "alt": "Höhe Speer",
-            "date": "2015-06-06T10:59:14.000+02:00",
-            "width": 1894,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Mit fast 2000m ist der Speer übrigens der höchste Berg in Europa aus dem doch recht bröckeligen Nagelfluh-Gestein."
-      },
-      {
-        "photos": [
-          {
-            "name": "017",
-            "alt": "Wegweiser Speer",
-            "date": "2015-06-06T11:01:23.000+02:00",
-            "width": 1851,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Um 11:00 machte ich mich dann schon wieder auf dem Abstieg, obwohl von den angekündigten Gewittern und Stürmen noch absolut nichts zu sehen war."
-      },
-      {
-        "photos": [
-          {
-            "name": "018",
-            "alt": "Gipfelplattform Speer",
-            "date": "2015-06-06T11:02:22.000+02:00",
-            "width": 1920,
-            "height": 844
-          }
-        ],
-        "videos": [],
-        "text": "Blick zurück auf die große Aussichtsplattform auf dem Gipfel."
-      },
-      {
-        "photos": [
-          {
-            "name": "019",
-            "alt": "Serpentinen auf den Speer",
-            "date": "2015-06-06T11:11:59.000+02:00",
-            "width": 1920,
-            "height": 839
-          }
-        ],
-        "videos": [],
-        "text": "Etwas weiter unten noch mal ein Blick zurück.<br />\nNachdem die ganze Wanderung bisher sehr einsam war, kamen mir auf dem Abstieg dann doch einige Wanderer entgegen, anscheinend war ich denen voraus gewesen."
-      },
-      {
-        "photos": [
-          {
-            "name": "020",
-            "alt": "Weg nach Oberkäseren",
-            "date": "2015-06-06T11:25:24.000+02:00",
-            "width": 1920,
-            "height": 945
-          }
-        ],
-        "videos": [],
-        "text": "Der Weg führte bis nach Oberkäseren auf der selben Route zurück."
-      },
-      {
-        "photos": [
-          {
-            "name": "021",
-            "alt": "Alpenblumen",
-            "date": "2015-06-06T11:31:22.000+02:00",
-            "width": 1800,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Und wieder an den selben Blumen vorbei."
-      },
-      {
-        "photos": [
-          {
-            "name": "022",
-            "alt": "Alpwirtschaft Oberkäseren",
-            "date": "2015-06-06T11:32:10.000+02:00",
-            "width": 1659,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Ankunft bei Oberkäseren, wo im Sommer eine kleine Alpwirtschaft betrieben wird."
-      },
-      {
-        "photos": [
-          {
-            "name": "023",
-            "alt": "Rundwanderung Speer",
-            "date": "2015-06-06T11:33:24.000+02:00",
-            "width": 1920,
-            "height": 690
-          }
-        ],
-        "videos": [],
-        "text": "Noch einmal der Blick zurück."
-      },
-      {
-        "photos": [
-          {
-            "name": "024",
-            "alt": "Abstieg durch Rippen",
-            "date": "2015-06-06T11:45:24.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Ich ging aber gleich weiter, nach rechts abbiegend hinab. Dabei führte der Weg durch natürliche Landschaftsrippen."
-      },
-      {
-        "photos": [
-          {
-            "name": "025",
-            "alt": "Kleine Alp",
-            "date": "2015-06-06T12:12:27.000+02:00",
-            "width": 1813,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Schließlich erreichte ich eine weitere kleine Alp, ab der es dann leider nur noch auf einer Fahrstraße weiterging."
-      },
-      {
-        "photos": [
-          {
-            "name": "026",
-            "alt": "Spannende Geologie",
-            "date": "2015-06-06T12:13:46.000+02:00",
-            "width": 1920,
-            "height": 1020
-          }
-        ],
-        "videos": [],
-        "text": "Tele zu einer anderen Alp auf die andere Talseite. Wie in der ganzen Gegend auch dort eine interessante Geologie."
-      },
-      {
-        "photos": [
-          {
-            "name": "027",
-            "alt": "Abstieg auf Fahrstraße",
-            "date": "2015-06-06T12:17:44.000+02:00",
-            "width": 1920,
-            "height": 886
-          }
-        ],
-        "videos": [],
-        "text": "Nun folgte der Abstieg auf der Schotterstraße"
-      },
-      {
-        "photos": [
-          {
-            "name": "028",
-            "alt": "Tiefblick nach Wesen",
-            "date": "2015-06-06T13:14:30.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Nach einem recht langen langweiligen Weg im Wald (den ich euch fotografisch hier vorenthalte), erreichte ich den Aussichtspunkt Durchschlegi um 13:15. Steil geht es dort hinab bis zum Walensee und dem Ort Wesen."
-      },
-      {
-        "photos": [
-          {
-            "name": "029",
-            "alt": "Walensee",
-            "date": "2015-06-06T13:30:40.000+02:00",
-            "width": 1920,
-            "height": 1034
-          }
-        ],
-        "videos": [],
-        "text": "Von fast der selben Stelle Blick entlang des Walensees. Zum Glück gab es dort einen kleinen Kiosk, wo ich mir ein kühles Getränk (alles im Rucksack war bereits aufgebraucht) und etwas Schatten gönnte - es war extrem drückend und heiß. Von schattenspendenden Wolken und erfrischendem Wind auch weiter keine Spur."
-      },
-      {
-        "photos": [
-          {
-            "name": "030",
-            "alt": "Amden",
-            "date": "2015-06-06T13:40:25.000+02:00",
-            "width": 1920,
-            "height": 907
-          }
-        ],
-        "videos": [],
-        "text": "Das letzte Stück ging es dann auf asphaltierte Straße nach Amden zurück. Ausgelaugt und nach einer weiteren Pause an einem kalten Gebirgsbach erreichte ich schließlich bei 32° das Auto in Amden um 14:15."
-      },
-      {
-        "photos": [
-          {
-            "name": "track1",
-            "width": 1280,
-            "height": 655
-          },
-          {
-            "name": "track2",
-            "width": 1280,
-            "height": 380
-          }
-        ],
-        "videos": [],
-        "text": "Zurückgelegt Strecke. Insgesamt 1200 Höhenmeter auf gut 17km."
-      }
-    ],
-    "outro": "Fazit: Schöne Runde mit eindrucksvollem Gipfelerlebnis.<br />Tipp: Den etwas öden Schluss hätte man mit einer etwas längeren Variante zur Bergstation der Sesselbahn auflockern können, dafür fehlte mir auf Grund der Hitze aber an diesem Tag die Motivation.<br />Btw: auch auf der Rückfahrt und am Abend am Bodensee habe ich kein Gewitter, geschweige denn Regen erlebt. Und von einem Temperaturabfall ist bei zur Zeit 33° auch nicht wirklich was zu sehen. 😉"
-  }
-]
+    {
+      "photos": [
+        {
+          "name": "003",
+          "alt": "Hochmoor mit Säntis",
+          "date": "2015-06-06T08:49:45.000+02:00",
+          "width": 1920,
+          "height": 1016
+        }
+      ],
+      "videos": [],
+      "text": "Oben angelangt erreichte ich den Pass, der hinüber zum Toggenburg führt. Hinter dem dort befindlichen Hochmoor tauchte auch der Säntis auf."
+    },
+    {
+      "photos": [
+        {
+          "name": "004",
+          "alt": "Mürtschenstock",
+          "date": "2015-06-06T08:54:22.000+02:00",
+          "width": 1920,
+          "height": 525
+        }
+      ],
+      "videos": [],
+      "text": "Blick zurück auf den Mürtschenstock, der sich hinter dem Walensee befindet. Ab nun ging es auf einem Schotterweg weiter."
+    },
+    {
+      "photos": [
+        {
+          "name": "005",
+          "alt": "Weg um den Mattstock",
+          "date": "2015-06-06T09:05:09.000+02:00",
+          "width": 1920,
+          "height": 913
+        }
+      ],
+      "videos": [],
+      "text": "Der Weg führte auf der Südseite um den Mattstock (hier links) herum, der sich genau zwischen Amden und Speer befindet. Hinten konnte man schon das Ziel - den Speer - entdecken."
+    },
+    {
+      "photos": [
+        {
+          "name": "006",
+          "alt": "Blick ins Toggenburg",
+          "date": "2015-06-06T09:14:22.000+02:00",
+          "width": 1920,
+          "height": 781
+        }
+      ],
+      "videos": [],
+      "text": "Blick zurück Richtung Toggenburg und Säntis."
+    },
+    {
+      "photos": [
+        {
+          "name": "007",
+          "alt": "Hangweg",
+          "date": "2015-06-06T09:23:22.000+02:00",
+          "width": 1920,
+          "height": 1072
+        }
+      ],
+      "videos": [],
+      "text": "Nun verließ der Weg die Straße und es ging schöner den Hang entlang. Zeit für eine erste Pause im (raren) Schatten. Blick wieder zurück zum Säntis."
+    },
+    {
+      "photos": [
+        {
+          "name": "008",
+          "alt": "Wanderweg durch Felslücke",
+          "date": "2015-06-06T09:28:04.000+02:00",
+          "width": 720,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Nett angelegt."
+    },
+    {
+      "photos": [
+        {
+          "name": "009",
+          "alt": "Alp Hinter-Höhi",
+          "date": "2015-06-06T09:30:28.000+02:00",
+          "width": 1860,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Dann erreichte ich die Alp Hinter-Höhi, die ich aber nur streifte. Links immer noch der Mattstock.<br />\nDanach ging es schattenlos (ich sollte vielleicht erwähnen, dass es sehr heiß war) steiler hinauf nach Oberkäseren."
+    },
+    {
+      "photos": [
+        {
+          "name": "010",
+          "alt": "Federispitz",
+          "date": "2015-06-06T10:01:55.000+02:00",
+          "width": 1920,
+          "height": 814
+        }
+      ],
+      "videos": [],
+      "text": "Ankunft um 10:00 auf 1700m am zweiten Pass, der wieder zurück zum Walensee führt. Aber bevor es da wieder runter ging, stand zuerst noch der wichtige Abstecher zum Speer auf der Agenda."
+    },
+    {
+      "photos": [
+        {
+          "name": "011",
+          "alt": "Farbenfrohe Alpwiese",
+          "date": "2015-06-06T10:09:46.000+02:00",
+          "width": 1830,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Farbenfrohe Alpwiesen entlang des Wegs."
+    },
+    {
+      "photos": [
+        {
+          "name": "012",
+          "alt": "Blick ins Glarus",
+          "date": "2015-06-06T10:18:06.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Blick hinab Richtung Glarus."
+    },
+    {
+      "photos": [
+        {
+          "name": "013",
+          "alt": "Bergweg Speer",
+          "date": "2015-06-06T10:42:53.000+02:00",
+          "width": 1920,
+          "height": 709
+        }
+      ],
+      "videos": [],
+      "text": "Es wurde zwar nun felsiger, aber der Weg ist so gut ausgebaut und es war auch absolut trocken, so dass es auch mit meinem schäbigen Material an den Füßen kein Problem war."
+    },
+    {
+      "photos": [
+        {
+          "name": "014",
+          "alt": "Panorama Speer",
+          "date": "2015-06-06T10:57:03.000+02:00",
+          "width": 1920,
+          "height": 982
+        }
+      ],
+      "videos": [],
+      "text": "Der fast 2000m hohe Gipfel war um kurz vor elf erreicht. Oben überrascht das sehr große Panorama, was daran liegt, dass der Gipfel auf der anderen Seite deutlich steiler abfällt. Zudem gibt es Richtung Norden (bei weitem) keine höheren Gipfel mehr.<br />\nHier der Blick nach Osten, in der Mitte der Säntis und rechts die Churfirsten."
+    },
+    {
+      "photos": [
+        {
+          "name": "015",
+          "alt": "Aussicht Speer",
+          "date": "2015-06-06T10:58:11.000+02:00",
+          "width": 1920,
+          "height": 818
+        }
+      ],
+      "videos": [],
+      "text": "Panorama genau in die andere Richtung. Rechts der Zürichsee, links das Glarus."
+    },
+    {
+      "photos": [
+        {
+          "name": "016",
+          "alt": "Höhe Speer",
+          "date": "2015-06-06T10:59:14.000+02:00",
+          "width": 1894,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Mit fast 2000m ist der Speer übrigens der höchste Berg in Europa aus dem doch recht bröckeligen Nagelfluh-Gestein."
+    },
+    {
+      "photos": [
+        {
+          "name": "017",
+          "alt": "Wegweiser Speer",
+          "date": "2015-06-06T11:01:23.000+02:00",
+          "width": 1851,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Um 11:00 machte ich mich dann schon wieder auf dem Abstieg, obwohl von den angekündigten Gewittern und Stürmen noch absolut nichts zu sehen war."
+    },
+    {
+      "photos": [
+        {
+          "name": "018",
+          "alt": "Gipfelplattform Speer",
+          "date": "2015-06-06T11:02:22.000+02:00",
+          "width": 1920,
+          "height": 844
+        }
+      ],
+      "videos": [],
+      "text": "Blick zurück auf die große Aussichtsplattform auf dem Gipfel."
+    },
+    {
+      "photos": [
+        {
+          "name": "019",
+          "alt": "Serpentinen auf den Speer",
+          "date": "2015-06-06T11:11:59.000+02:00",
+          "width": 1920,
+          "height": 839
+        }
+      ],
+      "videos": [],
+      "text": "Etwas weiter unten noch mal ein Blick zurück.<br />\nNachdem die ganze Wanderung bisher sehr einsam war, kamen mir auf dem Abstieg dann doch einige Wanderer entgegen, anscheinend war ich denen voraus gewesen."
+    },
+    {
+      "photos": [
+        {
+          "name": "020",
+          "alt": "Weg nach Oberkäseren",
+          "date": "2015-06-06T11:25:24.000+02:00",
+          "width": 1920,
+          "height": 945
+        }
+      ],
+      "videos": [],
+      "text": "Der Weg führte bis nach Oberkäseren auf der selben Route zurück."
+    },
+    {
+      "photos": [
+        {
+          "name": "021",
+          "alt": "Alpenblumen",
+          "date": "2015-06-06T11:31:22.000+02:00",
+          "width": 1800,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Und wieder an den selben Blumen vorbei."
+    },
+    {
+      "photos": [
+        {
+          "name": "022",
+          "alt": "Alpwirtschaft Oberkäseren",
+          "date": "2015-06-06T11:32:10.000+02:00",
+          "width": 1659,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Ankunft bei Oberkäseren, wo im Sommer eine kleine Alpwirtschaft betrieben wird."
+    },
+    {
+      "photos": [
+        {
+          "name": "023",
+          "alt": "Rundwanderung Speer",
+          "date": "2015-06-06T11:33:24.000+02:00",
+          "width": 1920,
+          "height": 690
+        }
+      ],
+      "videos": [],
+      "text": "Noch einmal der Blick zurück."
+    },
+    {
+      "photos": [
+        {
+          "name": "024",
+          "alt": "Abstieg durch Rippen",
+          "date": "2015-06-06T11:45:24.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Ich ging aber gleich weiter, nach rechts abbiegend hinab. Dabei führte der Weg durch natürliche Landschaftsrippen."
+    },
+    {
+      "photos": [
+        {
+          "name": "025",
+          "alt": "Kleine Alp",
+          "date": "2015-06-06T12:12:27.000+02:00",
+          "width": 1813,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Schließlich erreichte ich eine weitere kleine Alp, ab der es dann leider nur noch auf einer Fahrstraße weiterging."
+    },
+    {
+      "photos": [
+        {
+          "name": "026",
+          "alt": "Spannende Geologie",
+          "date": "2015-06-06T12:13:46.000+02:00",
+          "width": 1920,
+          "height": 1020
+        }
+      ],
+      "videos": [],
+      "text": "Tele zu einer anderen Alp auf die andere Talseite. Wie in der ganzen Gegend auch dort eine interessante Geologie."
+    },
+    {
+      "photos": [
+        {
+          "name": "027",
+          "alt": "Abstieg auf Fahrstraße",
+          "date": "2015-06-06T12:17:44.000+02:00",
+          "width": 1920,
+          "height": 886
+        }
+      ],
+      "videos": [],
+      "text": "Nun folgte der Abstieg auf der Schotterstraße"
+    },
+    {
+      "photos": [
+        {
+          "name": "028",
+          "alt": "Tiefblick nach Wesen",
+          "date": "2015-06-06T13:14:30.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Nach einem recht langen langweiligen Weg im Wald (den ich euch fotografisch hier vorenthalte), erreichte ich den Aussichtspunkt Durchschlegi um 13:15. Steil geht es dort hinab bis zum Walensee und dem Ort Wesen."
+    },
+    {
+      "photos": [
+        {
+          "name": "029",
+          "alt": "Walensee",
+          "date": "2015-06-06T13:30:40.000+02:00",
+          "width": 1920,
+          "height": 1034
+        }
+      ],
+      "videos": [],
+      "text": "Von fast der selben Stelle Blick entlang des Walensees. Zum Glück gab es dort einen kleinen Kiosk, wo ich mir ein kühles Getränk (alles im Rucksack war bereits aufgebraucht) und etwas Schatten gönnte - es war extrem drückend und heiß. Von schattenspendenden Wolken und erfrischendem Wind auch weiter keine Spur."
+    },
+    {
+      "photos": [
+        {
+          "name": "030",
+          "alt": "Amden",
+          "date": "2015-06-06T13:40:25.000+02:00",
+          "width": 1920,
+          "height": 907
+        }
+      ],
+      "videos": [],
+      "text": "Das letzte Stück ging es dann auf asphaltierte Straße nach Amden zurück. Ausgelaugt und nach einer weiteren Pause an einem kalten Gebirgsbach erreichte ich schließlich bei 32° das Auto in Amden um 14:15."
+    },
+    {
+      "photos": [
+        {
+          "name": "track1",
+          "width": 1280,
+          "height": 655
+        },
+        {
+          "name": "track2",
+          "width": 1280,
+          "height": 380
+        }
+      ],
+      "videos": [],
+      "text": "Zurückgelegt Strecke. Insgesamt 1200 Höhenmeter auf gut 17km."
+    }
+  ],
+  "outro": "Fazit: Schöne Runde mit eindrucksvollem Gipfelerlebnis.<br />Tipp: Den etwas öden Schluss hätte man mit einer etwas längeren Variante zur Bergstation der Sesselbahn auflockern können, dafür fehlte mir auf Grund der Hitze aber an diesem Tag die Motivation.<br />Btw: auch auf der Rückfahrt und am Abend am Bodensee habe ich kein Gewitter, geschweige denn Regen erlebt. Und von einem Temperaturabfall ist bei zur Zeit 33° auch nicht wirklich was zu sehen. 😉"
+}

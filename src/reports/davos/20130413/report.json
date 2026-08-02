@@ -1,101 +1,99 @@
-[
-  {
-    "destination": "davos",
-    "date": "d20130413",
-    "track": false,
-    "shortTitle": "Parsenn",
-    "title": "Davos Parsenn",
-    "intro": "Skitag 7 meines Frühlingsurlaubs.<br />\nMit Kollegen zusammen ging es an diesem Samstag nach Davos Parsenn. Ankunft gegen 9:00 in Klosters an der Gotschnabahn. Da der (bei Saisonende gratis) Parkplatz direkt an der Bahn schon belegt war, mussten wir auf der anderen Straßenseite für 8CHF parken. Tageskarte etwas vergünstig für 60CHF (von Montag bis Donnerstag hätte sie nur 48CHF gekostet).<br />\nVom Morgen weg bereits schönstes Wetter, nachdem es am Bodensee noch genieselt hatte. Oben vormittags noch feste Pisten mit Pulverschnee vom Vortag. Im Skigebiet nicht voll, aber auch nicht übermäßig leer. Anstehen musste man aber nicht.",
-    "landmarks": [
-      {
-        "photos": [
-          {
-            "name": "jHDvFlz",
-            "width": 1024,
-            "height": 683
-          }
-        ],
-        "videos": [],
-        "text": "Abfahrt nach Schifer. Bis unten auf beiden Pisten noch genug Schnee."
-      },
-      {
-        "photos": [
-          {
-            "name": "zLjOK35",
-            "width": 1024,
-            "height": 390
-          }
-        ],
-        "videos": [],
-        "text": "Blick von der Gruobenalp Richtung Parsennhütte und Weissfluhjoch."
-      },
-      {
-        "photos": [
-          {
-            "name": "EhF8p19",
-            "width": 1024,
-            "height": 550
-          }
-        ],
-        "videos": [],
-        "text": "Und in die andere Richtung zur Gruobenalp. Restaurant war bereits geschlossen, die Vierer-Sesselbahn lief aber (im Gegensatz zur Schwarzseealp-Zweier-Sesselbahn)."
-      },
-      {
-        "photos": [
-          {
-            "name": "48dIBJL",
-            "width": 1024,
-            "height": 326
-          }
-        ],
-        "videos": [],
-        "text": "Panorama vom Weissfluhgipfel. Die Sicht war fantastisch."
-      },
-      {
-        "photos": [
-          {
-            "name": "HEoofkw",
-            "width": 1024,
-            "height": 525
-          }
-        ],
-        "videos": [],
-        "text": "Nach der (auch nachmittags noch schön pulvrigen) Piste vom Weissfluhgipfel. Leider die einzige steilere Strecke im Skigebiet."
-      },
-      {
-        "photos": [
-          {
-            "name": "z8aRxhr",
-            "width": 1024,
-            "height": 683
-          }
-        ],
-        "videos": [],
-        "text": "Parsennbahn zwischen Höhenweg und Weissfluhjoch."
-      },
-      {
-        "photos": [
-          {
-            "name": "eaohRyz",
-            "width": 1024,
-            "height": 529
-          }
-        ],
-        "videos": [],
-        "text": "Am Hauptertäli-Lift fuhr fast niemand, dabei ist die Piste immer ganz schön.<br />\nAnschließend Talabfahrt nach Kosters, die bis ganz unten noch bestens war. Kurz vor Ende wird eine neue Unterführung unter der Bahn gebaut, so dass man etwas weiter laufen muss."
-      },
-      {
-        "photos": [
-          {
-            "name": "Snj9bnO",
-            "width": 1024,
-            "height": 524
-          }
-        ],
-        "videos": [],
-        "text": "Gefahrene Strecke. Erste Auffahrt mit der Seilbahn von Klosters fehlt."
-      }
-    ],
-    "outro": "Fazit: Perfekte Bedingungen, insbesondere für Mitte April."
-  }
-]
+{
+  "destination": "davos",
+  "date": "d20130413",
+  "track": false,
+  "shortTitle": "Parsenn",
+  "title": "Davos Parsenn",
+  "intro": "Skitag 7 meines Frühlingsurlaubs.<br />\nMit Kollegen zusammen ging es an diesem Samstag nach Davos Parsenn. Ankunft gegen 9:00 in Klosters an der Gotschnabahn. Da der (bei Saisonende gratis) Parkplatz direkt an der Bahn schon belegt war, mussten wir auf der anderen Straßenseite für 8CHF parken. Tageskarte etwas vergünstig für 60CHF (von Montag bis Donnerstag hätte sie nur 48CHF gekostet).<br />\nVom Morgen weg bereits schönstes Wetter, nachdem es am Bodensee noch genieselt hatte. Oben vormittags noch feste Pisten mit Pulverschnee vom Vortag. Im Skigebiet nicht voll, aber auch nicht übermäßig leer. Anstehen musste man aber nicht.",
+  "landmarks": [
+    {
+      "photos": [
+        {
+          "name": "jHDvFlz",
+          "width": 1024,
+          "height": 683
+        }
+      ],
+      "videos": [],
+      "text": "Abfahrt nach Schifer. Bis unten auf beiden Pisten noch genug Schnee."
+    },
+    {
+      "photos": [
+        {
+          "name": "zLjOK35",
+          "width": 1024,
+          "height": 390
+        }
+      ],
+      "videos": [],
+      "text": "Blick von der Gruobenalp Richtung Parsennhütte und Weissfluhjoch."
+    },
+    {
+      "photos": [
+        {
+          "name": "EhF8p19",
+          "width": 1024,
+          "height": 550
+        }
+      ],
+      "videos": [],
+      "text": "Und in die andere Richtung zur Gruobenalp. Restaurant war bereits geschlossen, die Vierer-Sesselbahn lief aber (im Gegensatz zur Schwarzseealp-Zweier-Sesselbahn)."
+    },
+    {
+      "photos": [
+        {
+          "name": "48dIBJL",
+          "width": 1024,
+          "height": 326
+        }
+      ],
+      "videos": [],
+      "text": "Panorama vom Weissfluhgipfel. Die Sicht war fantastisch."
+    },
+    {
+      "photos": [
+        {
+          "name": "HEoofkw",
+          "width": 1024,
+          "height": 525
+        }
+      ],
+      "videos": [],
+      "text": "Nach der (auch nachmittags noch schön pulvrigen) Piste vom Weissfluhgipfel. Leider die einzige steilere Strecke im Skigebiet."
+    },
+    {
+      "photos": [
+        {
+          "name": "z8aRxhr",
+          "width": 1024,
+          "height": 683
+        }
+      ],
+      "videos": [],
+      "text": "Parsennbahn zwischen Höhenweg und Weissfluhjoch."
+    },
+    {
+      "photos": [
+        {
+          "name": "eaohRyz",
+          "width": 1024,
+          "height": 529
+        }
+      ],
+      "videos": [],
+      "text": "Am Hauptertäli-Lift fuhr fast niemand, dabei ist die Piste immer ganz schön.<br />\nAnschließend Talabfahrt nach Kosters, die bis ganz unten noch bestens war. Kurz vor Ende wird eine neue Unterführung unter der Bahn gebaut, so dass man etwas weiter laufen muss."
+    },
+    {
+      "photos": [
+        {
+          "name": "Snj9bnO",
+          "width": 1024,
+          "height": 524
+        }
+      ],
+      "videos": [],
+      "text": "Gefahrene Strecke. Erste Auffahrt mit der Seilbahn von Klosters fehlt."
+    }
+  ],
+  "outro": "Fazit: Perfekte Bedingungen, insbesondere für Mitte April."
+}

@@ -1,625 +1,623 @@
-[
-  {
-    "destination": "flumserberg",
-    "date": "d20150726",
-    "type": "hike",
-    "track": true,
-    "timeShift": 60,
-    "detailMap": "swiss",
-    "shortTitle": "7 Gipfel Tour",
-    "title": "Flumserberg - 7-Gipfel-Tour",
-    "title3d": {
-      "offsetY": 4,
-      "fontSize": 8,
-      "align": "center",
-      "width": 1920,
-      "height": 597
+{
+  "destination": "flumserberg",
+  "date": "d20150726",
+  "type": "hike",
+  "track": true,
+  "timeShift": 60,
+  "detailMap": "swiss",
+  "shortTitle": "7 Gipfel Tour",
+  "title": "Flumserberg - 7-Gipfel-Tour",
+  "title3d": {
+    "offsetY": 4,
+    "fontSize": 8,
+    "align": "center",
+    "width": 1920,
+    "height": 597
+  },
+  "movie": "td_LCyp83I4",
+  "intro": "Am letzten Sonntag nahm ich mir die <a href=\"https://www.flumserberg.ch/de/tour/7-Gipfel-Tour_23430142\" onclick=\"this.target='_blank';\">7-Gipfel &amp; 14-Seeblick-Tour</a> in Flumserberg vor.",
+  "landmarks": [
+    {
+      "photos": [
+        {
+          "name": "001",
+          "alt": "Sonnenaufgang Bodensee",
+          "width": 1715,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Um kurz nach sechs ging es am Bodensee los. Gerade noch früh genug, um einen schönen Sonnenaufgang zu erleben. Demnächst wird man ja nicht mehr so früh dafür aufstehen müssen. 😉"
     },
-    "movie": "td_LCyp83I4",
-    "intro": "Am letzten Sonntag nahm ich mir die <a href=\"https://www.flumserberg.ch/de/tour/7-Gipfel-Tour_23430142\" onclick=\"this.target='_blank';\">7-Gipfel &amp; 14-Seeblick-Tour</a> in Flumserberg vor.",
-    "landmarks": [
-      {
-        "photos": [
-          {
-            "name": "001",
-            "alt": "Sonnenaufgang Bodensee",
-            "width": 1715,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Um kurz nach sechs ging es am Bodensee los. Gerade noch früh genug, um einen schönen Sonnenaufgang zu erleben. Demnächst wird man ja nicht mehr so früh dafür aufstehen müssen. 😉"
-      },
-      {
-        "photos": [
-          {
-            "name": "002",
-            "alt": "Wiesen bei Tannenboden",
-            "date": "2015-07-26T07:50:43.000+02:00",
-            "width": 1894,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Um 7:45 ging es dann von Tannenboden aus los. Ich beschloss die Tour andersherum als vorgesehen zu machen: d.h. statt morgens mit der Bahn auf Maschgenkamm zu fahren und abzusteigen, ging es für mich gleich zu Fuß los.<br />\nObwohl es mit 10° noch ziemlich frisch war, wurde mir durch den Aufstieg schnell warm. Hier noch fast ganz unten auf der blauen Talabfahrt."
-      },
-      {
-        "photos": [
-          {
-            "name": "003",
-            "alt": "Blick auf Walensee",
-            "date": "2015-07-26T07:59:59.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Dann ging es erst mal auf einem Fahrweg nach Seeben weiter. Dabei gibt's aber schöne Tiefblicke zum Walensee zu erleben."
-      },
-      {
-        "photos": [
-          {
-            "name": "004",
-            "alt": "Spazierweg zur Seebenalp",
-            "date": "2015-07-26T08:01:08.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Und hier konnte ich auch schon das Ziel der Wanderung sehen - den Maschgenkamm. Allerdings führt der Weg dort in einem großen Bogen hin... also so schnell ging's nicht."
-      },
-      {
-        "photos": [
-          {
-            "name": "006",
-            "alt": "Alp Winkelzahn",
-            "date": "2015-07-26T08:20:22.000+02:00",
-            "width": 1854,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Vorbei ging es an der Alp Winkelzahn. Im Hintergrund wieder der Walensee und dahinter die Churfirsten."
-      },
-      {
-        "photos": [
-          {
-            "name": "007",
-            "alt": "Leist und Sächsmoor",
-            "date": "2015-07-26T08:26:43.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Dann erreichte ich die Hochebene der Seeben. Im Hintergrund der Leist (mit dem der neuen Sesselbahn) und rechts daneben der felsige Sächsmoor."
-      },
-      {
-        "photos": [
-          {
-            "name": "008",
-            "alt": "Gasthaus Seeben",
-            "date": "2015-07-26T08:32:39.000+02:00",
-            "width": 1874,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Nach insgesamt 45min Ankunft an den Seeben-Seen. Alles war noch sehr ruhig."
-      },
-      {
-        "photos": [
-          {
-            "name": "010",
-            "alt": "Nebel über dunklem See",
-            "date": "2015-07-26T08:36:33.000+02:00",
-            "width": 1509,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Durch die kühlen Temperaturen trieb noch leichter Nebel über den See und durch die dunklen Wälder."
-      },
-      {
-        "photos": [
-          {
-            "name": "011",
-            "alt": "Sesselbahn Seeben-Sechser",
-            "date": "2015-07-26T08:37:08.000+02:00",
-            "width": 1920,
-            "height": 1068
-          }
-        ],
-        "videos": [],
-        "text": "Der kurze Seeben-Sechser."
-      },
-      {
-        "photos": [
-          {
-            "name": "012",
-            "alt": "Seeben Seen",
-            "date": "2015-07-26T08:46:05.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Danach ging es auch an dem zweiten der Seeben-Seen vorbei. Dieser wird zur Zeit zur Beschneiung ausgebaut."
-      },
-      {
-        "photos": [
-          {
-            "name": "014",
-            "alt": "Bank vor Churfirsten",
-            "date": "2015-07-26T08:53:09.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Anschließend ging es steiler bergauf, da kam diese Aussichtsbank für eine erste Pause gerade recht."
-      },
-      {
-        "photos": [
-          {
-            "name": "015",
-            "alt": "Zugewachsener Güslenweg",
-            "date": "2015-07-26T09:01:30.000+02:00",
-            "width": 1920,
-            "height": 1059
-          }
-        ],
-        "videos": [],
-        "text": "Auch der Weg wurde nun deutlich schmaler und unbegangener."
-      },
-      {
-        "photos": [
-          {
-            "name": "016",
-            "alt": "Bunter Wanderweg",
-            "date": "2015-07-26T09:05:22.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Aber so zugewuchert hätte ich ihn nicht erwartet, denn er ist ja immerhin ein groß beworbener Weg."
-      },
-      {
-        "photos": [
-          {
-            "name": "018",
-            "alt": "Wanderung Walensee",
-            "date": "2015-07-26T09:15:04.000+02:00",
-            "width": 1920,
-            "height": 757
-          },
-          {
-            "name": "019",
-            "alt": "Aussicht Grosser Güslen",
-            "date": "2015-07-26T09:17:18.000+02:00",
-            "width": 1920,
-            "height": 735
-          }
-        ],
-        "videos": [],
-        "text": "Nachdem ich einen Grat erklommen hatte, ging es mittels einem 10min Abstecher zum Gross Güslen, dem ersten der sieben Gipfel.<br />\nDer Gratweg dort hin ist ziemlich knifflig, aber die Aussicht entschädigt. Insgesamt nun 1:30 unterwegs."
-      },
-      {
-        "photos": [
-          {
-            "name": "020",
-            "alt": "Kleiner Güslen",
-            "date": "2015-07-26T09:41:31.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Anschließend ging es auf dem Grat zurück und weiter bergauf. Hier Blick zurück zum Chli Güslen, dem zweiten Gipfel. Mir ist nicht ganz klar, ob es dieser Felsen, oder der Pass dahinter ist."
-      },
-      {
-        "photos": [
-          {
-            "name": "021",
-            "alt": "Churfirsten mit Säntis",
-            "date": "2015-07-26T09:47:16.000+02:00",
-            "width": 1920,
-            "height": 1046
-          }
-        ],
-        "videos": [],
-        "text": "Nach einem steilen Anstieg erreichte ich den Cuncels, den dritten Gipfel. Dieser liegt ebenfalls auf diesem Grat. Wieder Blick zurück zu den Churfirsten und dem dahinter liegendem Säntis."
-      },
-      {
-        "photos": [
-          {
-            "name": "022",
-            "alt": "Sächsmoor mit Wolken",
-            "date": "2015-07-26T09:48:46.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Und Blick in die andere Richtung zum Sächsmoor und dem nun in Wolken liegendem Leist. Wirklich beunruhigend waren diese Wolken aber zum Glück nicht.<br />\nAuf diesem Bild kann man auch den weiteren Verlauf des Wegs sehen, nämlich rechts am Sächsmoor vorbei."
-      },
-      {
-        "photos": [
-          {
-            "name": "023",
-            "alt": "Bergweg durch Steine",
-            "date": "2015-07-26T10:00:46.000+02:00",
-            "width": 1316,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Ab dort wurde die Landschaft dann deutlich hochgebirgiger und der Weg führte schön durch ein Geröllfeld."
-      },
-      {
-        "photos": [
-          {
-            "name": "024",
-            "alt": "Einsame Hütte im Tal",
-            "date": "2015-07-26T10:10:59.000+02:00",
-            "width": 1920,
-            "height": 836
-          }
-        ],
-        "videos": [],
-        "text": "Dann erreichte ich eine Hochebene mit Fluss und kleiner Hütte."
-      },
-      {
-        "photos": [
-          {
-            "name": "025",
-            "alt": "Blümchen mit Morgentau",
-            "date": "2015-07-26T10:14:46.000+02:00",
-            "width": 1813,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Blümchen gab es hier sehr viele - auch dekorativ mit Tau."
-      },
-      {
-        "photos": [
-          {
-            "name": "026",
-            "alt": "Wanderer auf Grat",
-            "date": "2015-07-26T10:33:08.000+02:00",
-            "width": 1920,
-            "height": 908
-          }
-        ],
-        "videos": [],
-        "text": "Auf dem Grat vom Leist hinter dem Hochtal konnte ich schon die ersten Wanderer entdecken, die die Tour in der vorgesehenen Richtung unternahmen.<br />\nBei mir war es aber auch weiterhin sehr einsam."
-      },
-      {
-        "photos": [
-          {
-            "name": "027",
-            "alt": "Bergsee mit Reflexion",
-            "date": "2015-07-26T10:40:46.000+02:00",
-            "width": 1920,
-            "height": 855
-          },
-          {
-            "name": "028",
-            "alt": "Harfenseeli",
-            "date": "2015-07-26T10:41:42.000+02:00",
-            "width": 1920,
-            "height": 996
-          }
-        ],
-        "videos": [],
-        "text": "Oberhalb des Hochtals passierte ich ein paar kleinere Seen."
-      },
-      {
-        "photos": [
-          {
-            "name": "029",
-            "alt": "Oberhalb des Murgtals",
-            "date": "2015-07-26T10:53:59.000+02:00",
-            "width": 1920,
-            "height": 663
-          }
-        ],
-        "videos": [],
-        "text": "Nach diesem Anstieg öffnet sich wieder eine völlig neuer Blick, nämlich der ins bekannte Murgtal."
-      },
-      {
-        "photos": [
-          {
-            "name": "031",
-            "alt": "Alp mit Murgtal",
-            "date": "2015-07-26T11:05:04.000+02:00",
-            "width": 1920,
-            "height": 838
-          }
-        ],
-        "videos": [],
-        "text": "Dann verlor ich leider wieder ein gutes Stück an Höhe und kam an dieser Alp oberhalb des Murgtals vorbei."
-      },
-      {
-        "photos": [
-          {
-            "name": "032",
-            "alt": "Scheuchzer Wollgras",
-            "date": "2015-07-26T11:30:54.000+02:00",
-            "width": 1920,
-            "height": 918
-          }
-        ],
-        "videos": [],
-        "text": "Anschließend ging es steil zum Grat (der vom Leist zum Spitzmeilen führt) hinauf. Hier wurde es aber mal flacher, als es über eine moorige Wiese ging."
-      },
-      {
-        "photos": [
-          {
-            "name": "033",
-            "alt": "Mürtschenstock",
-            "date": "2015-07-26T11:43:22.000+02:00",
-            "width": 1920,
-            "height": 900
-          }
-        ],
-        "videos": [],
-        "text": "Puh, Grat erreicht. Tele zurück zum felsigen Mürtschenstock, auf den kein normaler Weg führt."
-      },
-      {
-        "photos": [
-          {
-            "name": "034",
-            "alt": "Spitzmeilen",
-            "date": "2015-07-26T11:46:08.000+02:00",
-            "width": 1920,
-            "height": 984
-          }
-        ],
-        "videos": [],
-        "text": "Da nun oben auf dem Grat, konnte ich nun auch auf der anderen Seite hinunter schauen, hier Richtung Spitzmeilen: der markante Berg hinten."
-      },
-      {
-        "photos": [
-          {
-            "name": "035",
-            "alt": "Aufstieg Mütschüelergulmen",
-            "date": "2015-07-26T11:48:08.000+02:00",
-            "width": 1920,
-            "height": 929
-          }
-        ],
-        "videos": [],
-        "text": "&quot;Leider&quot; hatte ich aber noch nicht den höchsten Punkt der Wanderung erreicht, den 2317m hohen Gulmen. Dafür musste noch dieser steile Grashang erklommen werden. Da ich schon vier Stunden hinter mir hatte, zerrte das doch schon ziemlich an den Kräften."
-      },
-      {
-        "photos": [
-          {
-            "name": "036",
-            "alt": "Blick zum Leist",
-            "date": "2015-07-26T11:48:32.000+02:00",
-            "width": 1920,
-            "height": 1034
-          }
-        ],
-        "videos": [],
-        "text": "Beim Aufstieg schon mal die Vorschau auf den weiteren Verlauf des Wegs zum Leist."
-      },
-      {
-        "photos": [
-          {
-            "name": "037",
-            "alt": "Berg-Nelkenwurz",
-            "date": "2015-07-26T11:58:18.000+02:00",
-            "width": 1729,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Und auch auf dieser Wiese gab es viele unterschiedliche Blumen. Wenn ich irgendeine Ahnung davon hätte, könnte ich euch auch sagen, wie diese heißt. 😉"
-      },
-      {
-        "photos": [
-          {
-            "name": "038",
-            "alt": "Murgseen",
-            "date": "2015-07-26T12:02:16.000+02:00",
-            "width": 1797,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Tele ins Murgtal zu den Murgseen. Die Rundtour, die dort vorbei führt, steht auch noch auf meiner ToDo-Liste."
-      },
-      {
-        "photos": [
-          {
-            "name": "039",
-            "alt": "Gratwanderung Flumserberg",
-            "date": "2015-07-26T12:05:00.000+02:00",
-            "width": 1920,
-            "height": 784
-          }
-        ],
-        "videos": [],
-        "text": "Ziemlich verschwitzt kam ich endlich auf diesem vierten Gipfel an. Vor den Wolken der Leist, rechts kann man Panüöl erkennen."
-      },
-      {
-        "photos": [
-          {
-            "name": "040",
-            "alt": "Aussicht vom Rainissalts",
-            "date": "2015-07-26T12:21:56.000+02:00",
-            "width": 1920,
-            "height": 780
-          }
-        ],
-        "videos": [],
-        "text": "Da es runter schneller geht, bin ich hier bereits auf dem fünftem Gipfel, dem Rainissalts. Blick zurück zum Gulmen (rechts)."
-      },
-      {
-        "photos": [
-          {
-            "name": "041",
-            "alt": "Runderwanderung Flumserberg",
-            "date": "2015-07-26T12:25:00.000+02:00",
-            "width": 1920,
-            "height": 675
-          }
-        ],
-        "videos": [],
-        "text": "Und Blick nach vorne wieder zum Leist (rechts). Links das Hochtal von vorhin mit der kleinen Hütte."
-      },
-      {
-        "photos": [
-          {
-            "name": "042",
-            "alt": "Wanderweg Leist",
-            "date": "2015-07-26T12:33:01.000+02:00",
-            "width": 1920,
-            "height": 768
-          }
-        ],
-        "videos": [],
-        "text": "Vorbei an Kühen ging es weiter zum Leist. Nun kamen mir ständig Wanderer entgegen, aber auch nicht übermäßig viele."
-      },
-      {
-        "photos": [
-          {
-            "name": "044",
-            "alt": "Blick vom Leist nach Seeben",
-            "date": "2015-07-26T12:51:37.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Längere Pause auf dem Leist, dem sechsten Gipfel. Blick hinab nach Seeben und auf die Trasse der Leist-Sesselbahn. Inzwischen war es 13:00."
-      },
-      {
-        "photos": [
-          {
-            "name": "045",
-            "alt": "Panorama Leist",
-            "date": "2015-07-26T12:57:20.000+02:00",
-            "width": 1920,
-            "height": 535
-          }
-        ],
-        "videos": [],
-        "text": "Danach ging es auf dem Grat hinab zur Zigerlücke, dem Pass zwischen Maschgenkamm/Ziger und Leist."
-      },
-      {
-        "photos": [
-          {
-            "name": "046",
-            "alt": "Vom Ziger zum Maschgenkamm",
-            "date": "2015-07-26T13:34:50.000+02:00",
-            "width": 1920,
-            "height": 912
-          }
-        ],
-        "videos": [],
-        "text": "Und mit den letzten Kräften auf den steilen Ziger, dem siebten Gipfel. Den hätte ich auch bequem rechts oder links auf breitem Weg umgehen können, aber die sieben Gipfel mussten schon sein. 😉<br />\nVom Ziger ist man dann schnell an der Bergstation vom Maschgenkamm. Obwohl ich jetzt schon sechs Stunden unterwegs war, entschied ich mich doch noch für den manuellen Abstieg."
-      },
-      {
-        "photos": [
-          {
-            "name": "047",
-            "alt": "Gasthaus Maschgenlücke",
-            "date": "2015-07-26T13:52:05.000+02:00",
-            "width": 1920,
-            "height": 995
-          }
-        ],
-        "videos": [],
-        "text": "Deshalb an der Bergstation vorbei hinab zur Maschgenlücke. Rechts die neue Sesselbahn von Panüöl. Hier war es nun natürlich viel belebter."
-      },
-      {
-        "photos": [
-          {
-            "name": "048",
-            "alt": "Panoramaweg Prodkamm",
-            "date": "2015-07-26T14:00:51.000+02:00",
-            "width": 1652,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Von der Maschgenlücke führt ein schön angelegter Weg zum Prodkamm... endlich mal weder steil bergauf oder steil bergab. 😃"
-      },
-      {
-        "photos": [
-          {
-            "name": "050",
-            "alt": "Aussicht Prodkamm",
-            "date": "2015-07-26T14:26:11.000+02:00",
-            "width": 1920,
-            "height": 464
-          }
-        ],
-        "videos": [],
-        "text": "Blick vom Prodkamm. Ein Großteil des zurückgelegten Wegs ist hier sichtbar."
-      },
-      {
-        "photos": [
-          {
-            "name": "051",
-            "alt": "Sommerrodelbahn Flumserberg",
-            "date": "2015-07-26T15:08:34.000+02:00",
-            "width": 1618,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Vom Prodkamm ist man ruck-zuck unten bei Chrüz, wo die Sesselbahn von Tannenboden endet, die Sommerrodelbahn nach Tannenboden beginnt und die Gondelbahn auf den Maschgenkamm vorbei führt. Entsprechend viel ist da los.<br />\nDort zog ich meine (inzwischen recht schweren) Bergschuhe aus und ging auf Sandalen weiter."
-      },
-      {
-        "photos": [
-          {
-            "name": "052",
-            "alt": "Spazierweg Chrüz",
-            "date": "2015-07-26T15:17:58.000+02:00",
-            "width": 1716,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Aber nicht auf dem vorgesehenen Schotterweg, sondern über Wiesen auf der Waldpiste."
-      },
-      {
-        "photos": [
-          {
-            "name": "053",
-            "alt": "Tannenboden",
-            "date": "2015-07-26T15:26:06.000+02:00",
-            "width": 1589,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Ankunft um 15:30 in Tannenboden, wo eine große Bühne aufgebaut war."
-      },
-      {
-        "photos": [
-          {
-            "name": "track1",
-            "width": 1280,
-            "height": 459
-          },
-          {
-            "name": "track2",
-            "width": 1280,
-            "height": 374
-          }
-        ],
-        "videos": [],
-        "text": "Die ganze Strecke im Überblick. Fast 8h unterwegs und rund 1500 Höhenmeter. Wie man sieht ging es ganz schön hoch und runter."
-      }
-    ],
-    "outro": "Fazit: Konditionell ziemlich anstrengende Tour - aber man kann sie natürlich auch deutlich entspannter gestalten. Was sehr schön ist, sind die ständig wechselnden Ausblicke und Landschaften. Vom  zugebautem Flumserberg-Skigebiet bekommt man eigentlich nur recht wenig mit.<br />\nVon dem Werbesprech mit den 7 Gipfeln und 14 Seen-Blicken sollte man sich aber nicht zu viel versprechen. Wirkliche Gipfel sind es eigentlich nur fünf und von den 14 Seen konnte ich auch nur ein Bruchteil erahnen. Ich denke auf fast jeder Wanderung könnte man sich so etwas zusammendichten. 😉"
-  }
-]
+    {
+      "photos": [
+        {
+          "name": "002",
+          "alt": "Wiesen bei Tannenboden",
+          "date": "2015-07-26T07:50:43.000+02:00",
+          "width": 1894,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Um 7:45 ging es dann von Tannenboden aus los. Ich beschloss die Tour andersherum als vorgesehen zu machen: d.h. statt morgens mit der Bahn auf Maschgenkamm zu fahren und abzusteigen, ging es für mich gleich zu Fuß los.<br />\nObwohl es mit 10° noch ziemlich frisch war, wurde mir durch den Aufstieg schnell warm. Hier noch fast ganz unten auf der blauen Talabfahrt."
+    },
+    {
+      "photos": [
+        {
+          "name": "003",
+          "alt": "Blick auf Walensee",
+          "date": "2015-07-26T07:59:59.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Dann ging es erst mal auf einem Fahrweg nach Seeben weiter. Dabei gibt's aber schöne Tiefblicke zum Walensee zu erleben."
+    },
+    {
+      "photos": [
+        {
+          "name": "004",
+          "alt": "Spazierweg zur Seebenalp",
+          "date": "2015-07-26T08:01:08.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Und hier konnte ich auch schon das Ziel der Wanderung sehen - den Maschgenkamm. Allerdings führt der Weg dort in einem großen Bogen hin... also so schnell ging's nicht."
+    },
+    {
+      "photos": [
+        {
+          "name": "006",
+          "alt": "Alp Winkelzahn",
+          "date": "2015-07-26T08:20:22.000+02:00",
+          "width": 1854,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Vorbei ging es an der Alp Winkelzahn. Im Hintergrund wieder der Walensee und dahinter die Churfirsten."
+    },
+    {
+      "photos": [
+        {
+          "name": "007",
+          "alt": "Leist und Sächsmoor",
+          "date": "2015-07-26T08:26:43.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Dann erreichte ich die Hochebene der Seeben. Im Hintergrund der Leist (mit dem der neuen Sesselbahn) und rechts daneben der felsige Sächsmoor."
+    },
+    {
+      "photos": [
+        {
+          "name": "008",
+          "alt": "Gasthaus Seeben",
+          "date": "2015-07-26T08:32:39.000+02:00",
+          "width": 1874,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Nach insgesamt 45min Ankunft an den Seeben-Seen. Alles war noch sehr ruhig."
+    },
+    {
+      "photos": [
+        {
+          "name": "010",
+          "alt": "Nebel über dunklem See",
+          "date": "2015-07-26T08:36:33.000+02:00",
+          "width": 1509,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Durch die kühlen Temperaturen trieb noch leichter Nebel über den See und durch die dunklen Wälder."
+    },
+    {
+      "photos": [
+        {
+          "name": "011",
+          "alt": "Sesselbahn Seeben-Sechser",
+          "date": "2015-07-26T08:37:08.000+02:00",
+          "width": 1920,
+          "height": 1068
+        }
+      ],
+      "videos": [],
+      "text": "Der kurze Seeben-Sechser."
+    },
+    {
+      "photos": [
+        {
+          "name": "012",
+          "alt": "Seeben Seen",
+          "date": "2015-07-26T08:46:05.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Danach ging es auch an dem zweiten der Seeben-Seen vorbei. Dieser wird zur Zeit zur Beschneiung ausgebaut."
+    },
+    {
+      "photos": [
+        {
+          "name": "014",
+          "alt": "Bank vor Churfirsten",
+          "date": "2015-07-26T08:53:09.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Anschließend ging es steiler bergauf, da kam diese Aussichtsbank für eine erste Pause gerade recht."
+    },
+    {
+      "photos": [
+        {
+          "name": "015",
+          "alt": "Zugewachsener Güslenweg",
+          "date": "2015-07-26T09:01:30.000+02:00",
+          "width": 1920,
+          "height": 1059
+        }
+      ],
+      "videos": [],
+      "text": "Auch der Weg wurde nun deutlich schmaler und unbegangener."
+    },
+    {
+      "photos": [
+        {
+          "name": "016",
+          "alt": "Bunter Wanderweg",
+          "date": "2015-07-26T09:05:22.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Aber so zugewuchert hätte ich ihn nicht erwartet, denn er ist ja immerhin ein groß beworbener Weg."
+    },
+    {
+      "photos": [
+        {
+          "name": "018",
+          "alt": "Wanderung Walensee",
+          "date": "2015-07-26T09:15:04.000+02:00",
+          "width": 1920,
+          "height": 757
+        },
+        {
+          "name": "019",
+          "alt": "Aussicht Grosser Güslen",
+          "date": "2015-07-26T09:17:18.000+02:00",
+          "width": 1920,
+          "height": 735
+        }
+      ],
+      "videos": [],
+      "text": "Nachdem ich einen Grat erklommen hatte, ging es mittels einem 10min Abstecher zum Gross Güslen, dem ersten der sieben Gipfel.<br />\nDer Gratweg dort hin ist ziemlich knifflig, aber die Aussicht entschädigt. Insgesamt nun 1:30 unterwegs."
+    },
+    {
+      "photos": [
+        {
+          "name": "020",
+          "alt": "Kleiner Güslen",
+          "date": "2015-07-26T09:41:31.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Anschließend ging es auf dem Grat zurück und weiter bergauf. Hier Blick zurück zum Chli Güslen, dem zweiten Gipfel. Mir ist nicht ganz klar, ob es dieser Felsen, oder der Pass dahinter ist."
+    },
+    {
+      "photos": [
+        {
+          "name": "021",
+          "alt": "Churfirsten mit Säntis",
+          "date": "2015-07-26T09:47:16.000+02:00",
+          "width": 1920,
+          "height": 1046
+        }
+      ],
+      "videos": [],
+      "text": "Nach einem steilen Anstieg erreichte ich den Cuncels, den dritten Gipfel. Dieser liegt ebenfalls auf diesem Grat. Wieder Blick zurück zu den Churfirsten und dem dahinter liegendem Säntis."
+    },
+    {
+      "photos": [
+        {
+          "name": "022",
+          "alt": "Sächsmoor mit Wolken",
+          "date": "2015-07-26T09:48:46.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Und Blick in die andere Richtung zum Sächsmoor und dem nun in Wolken liegendem Leist. Wirklich beunruhigend waren diese Wolken aber zum Glück nicht.<br />\nAuf diesem Bild kann man auch den weiteren Verlauf des Wegs sehen, nämlich rechts am Sächsmoor vorbei."
+    },
+    {
+      "photos": [
+        {
+          "name": "023",
+          "alt": "Bergweg durch Steine",
+          "date": "2015-07-26T10:00:46.000+02:00",
+          "width": 1316,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Ab dort wurde die Landschaft dann deutlich hochgebirgiger und der Weg führte schön durch ein Geröllfeld."
+    },
+    {
+      "photos": [
+        {
+          "name": "024",
+          "alt": "Einsame Hütte im Tal",
+          "date": "2015-07-26T10:10:59.000+02:00",
+          "width": 1920,
+          "height": 836
+        }
+      ],
+      "videos": [],
+      "text": "Dann erreichte ich eine Hochebene mit Fluss und kleiner Hütte."
+    },
+    {
+      "photos": [
+        {
+          "name": "025",
+          "alt": "Blümchen mit Morgentau",
+          "date": "2015-07-26T10:14:46.000+02:00",
+          "width": 1813,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Blümchen gab es hier sehr viele - auch dekorativ mit Tau."
+    },
+    {
+      "photos": [
+        {
+          "name": "026",
+          "alt": "Wanderer auf Grat",
+          "date": "2015-07-26T10:33:08.000+02:00",
+          "width": 1920,
+          "height": 908
+        }
+      ],
+      "videos": [],
+      "text": "Auf dem Grat vom Leist hinter dem Hochtal konnte ich schon die ersten Wanderer entdecken, die die Tour in der vorgesehenen Richtung unternahmen.<br />\nBei mir war es aber auch weiterhin sehr einsam."
+    },
+    {
+      "photos": [
+        {
+          "name": "027",
+          "alt": "Bergsee mit Reflexion",
+          "date": "2015-07-26T10:40:46.000+02:00",
+          "width": 1920,
+          "height": 855
+        },
+        {
+          "name": "028",
+          "alt": "Harfenseeli",
+          "date": "2015-07-26T10:41:42.000+02:00",
+          "width": 1920,
+          "height": 996
+        }
+      ],
+      "videos": [],
+      "text": "Oberhalb des Hochtals passierte ich ein paar kleinere Seen."
+    },
+    {
+      "photos": [
+        {
+          "name": "029",
+          "alt": "Oberhalb des Murgtals",
+          "date": "2015-07-26T10:53:59.000+02:00",
+          "width": 1920,
+          "height": 663
+        }
+      ],
+      "videos": [],
+      "text": "Nach diesem Anstieg öffnet sich wieder eine völlig neuer Blick, nämlich der ins bekannte Murgtal."
+    },
+    {
+      "photos": [
+        {
+          "name": "031",
+          "alt": "Alp mit Murgtal",
+          "date": "2015-07-26T11:05:04.000+02:00",
+          "width": 1920,
+          "height": 838
+        }
+      ],
+      "videos": [],
+      "text": "Dann verlor ich leider wieder ein gutes Stück an Höhe und kam an dieser Alp oberhalb des Murgtals vorbei."
+    },
+    {
+      "photos": [
+        {
+          "name": "032",
+          "alt": "Scheuchzer Wollgras",
+          "date": "2015-07-26T11:30:54.000+02:00",
+          "width": 1920,
+          "height": 918
+        }
+      ],
+      "videos": [],
+      "text": "Anschließend ging es steil zum Grat (der vom Leist zum Spitzmeilen führt) hinauf. Hier wurde es aber mal flacher, als es über eine moorige Wiese ging."
+    },
+    {
+      "photos": [
+        {
+          "name": "033",
+          "alt": "Mürtschenstock",
+          "date": "2015-07-26T11:43:22.000+02:00",
+          "width": 1920,
+          "height": 900
+        }
+      ],
+      "videos": [],
+      "text": "Puh, Grat erreicht. Tele zurück zum felsigen Mürtschenstock, auf den kein normaler Weg führt."
+    },
+    {
+      "photos": [
+        {
+          "name": "034",
+          "alt": "Spitzmeilen",
+          "date": "2015-07-26T11:46:08.000+02:00",
+          "width": 1920,
+          "height": 984
+        }
+      ],
+      "videos": [],
+      "text": "Da nun oben auf dem Grat, konnte ich nun auch auf der anderen Seite hinunter schauen, hier Richtung Spitzmeilen: der markante Berg hinten."
+    },
+    {
+      "photos": [
+        {
+          "name": "035",
+          "alt": "Aufstieg Mütschüelergulmen",
+          "date": "2015-07-26T11:48:08.000+02:00",
+          "width": 1920,
+          "height": 929
+        }
+      ],
+      "videos": [],
+      "text": "&quot;Leider&quot; hatte ich aber noch nicht den höchsten Punkt der Wanderung erreicht, den 2317m hohen Gulmen. Dafür musste noch dieser steile Grashang erklommen werden. Da ich schon vier Stunden hinter mir hatte, zerrte das doch schon ziemlich an den Kräften."
+    },
+    {
+      "photos": [
+        {
+          "name": "036",
+          "alt": "Blick zum Leist",
+          "date": "2015-07-26T11:48:32.000+02:00",
+          "width": 1920,
+          "height": 1034
+        }
+      ],
+      "videos": [],
+      "text": "Beim Aufstieg schon mal die Vorschau auf den weiteren Verlauf des Wegs zum Leist."
+    },
+    {
+      "photos": [
+        {
+          "name": "037",
+          "alt": "Berg-Nelkenwurz",
+          "date": "2015-07-26T11:58:18.000+02:00",
+          "width": 1729,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Und auch auf dieser Wiese gab es viele unterschiedliche Blumen. Wenn ich irgendeine Ahnung davon hätte, könnte ich euch auch sagen, wie diese heißt. 😉"
+    },
+    {
+      "photos": [
+        {
+          "name": "038",
+          "alt": "Murgseen",
+          "date": "2015-07-26T12:02:16.000+02:00",
+          "width": 1797,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Tele ins Murgtal zu den Murgseen. Die Rundtour, die dort vorbei führt, steht auch noch auf meiner ToDo-Liste."
+    },
+    {
+      "photos": [
+        {
+          "name": "039",
+          "alt": "Gratwanderung Flumserberg",
+          "date": "2015-07-26T12:05:00.000+02:00",
+          "width": 1920,
+          "height": 784
+        }
+      ],
+      "videos": [],
+      "text": "Ziemlich verschwitzt kam ich endlich auf diesem vierten Gipfel an. Vor den Wolken der Leist, rechts kann man Panüöl erkennen."
+    },
+    {
+      "photos": [
+        {
+          "name": "040",
+          "alt": "Aussicht vom Rainissalts",
+          "date": "2015-07-26T12:21:56.000+02:00",
+          "width": 1920,
+          "height": 780
+        }
+      ],
+      "videos": [],
+      "text": "Da es runter schneller geht, bin ich hier bereits auf dem fünftem Gipfel, dem Rainissalts. Blick zurück zum Gulmen (rechts)."
+    },
+    {
+      "photos": [
+        {
+          "name": "041",
+          "alt": "Runderwanderung Flumserberg",
+          "date": "2015-07-26T12:25:00.000+02:00",
+          "width": 1920,
+          "height": 675
+        }
+      ],
+      "videos": [],
+      "text": "Und Blick nach vorne wieder zum Leist (rechts). Links das Hochtal von vorhin mit der kleinen Hütte."
+    },
+    {
+      "photos": [
+        {
+          "name": "042",
+          "alt": "Wanderweg Leist",
+          "date": "2015-07-26T12:33:01.000+02:00",
+          "width": 1920,
+          "height": 768
+        }
+      ],
+      "videos": [],
+      "text": "Vorbei an Kühen ging es weiter zum Leist. Nun kamen mir ständig Wanderer entgegen, aber auch nicht übermäßig viele."
+    },
+    {
+      "photos": [
+        {
+          "name": "044",
+          "alt": "Blick vom Leist nach Seeben",
+          "date": "2015-07-26T12:51:37.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Längere Pause auf dem Leist, dem sechsten Gipfel. Blick hinab nach Seeben und auf die Trasse der Leist-Sesselbahn. Inzwischen war es 13:00."
+    },
+    {
+      "photos": [
+        {
+          "name": "045",
+          "alt": "Panorama Leist",
+          "date": "2015-07-26T12:57:20.000+02:00",
+          "width": 1920,
+          "height": 535
+        }
+      ],
+      "videos": [],
+      "text": "Danach ging es auf dem Grat hinab zur Zigerlücke, dem Pass zwischen Maschgenkamm/Ziger und Leist."
+    },
+    {
+      "photos": [
+        {
+          "name": "046",
+          "alt": "Vom Ziger zum Maschgenkamm",
+          "date": "2015-07-26T13:34:50.000+02:00",
+          "width": 1920,
+          "height": 912
+        }
+      ],
+      "videos": [],
+      "text": "Und mit den letzten Kräften auf den steilen Ziger, dem siebten Gipfel. Den hätte ich auch bequem rechts oder links auf breitem Weg umgehen können, aber die sieben Gipfel mussten schon sein. 😉<br />\nVom Ziger ist man dann schnell an der Bergstation vom Maschgenkamm. Obwohl ich jetzt schon sechs Stunden unterwegs war, entschied ich mich doch noch für den manuellen Abstieg."
+    },
+    {
+      "photos": [
+        {
+          "name": "047",
+          "alt": "Gasthaus Maschgenlücke",
+          "date": "2015-07-26T13:52:05.000+02:00",
+          "width": 1920,
+          "height": 995
+        }
+      ],
+      "videos": [],
+      "text": "Deshalb an der Bergstation vorbei hinab zur Maschgenlücke. Rechts die neue Sesselbahn von Panüöl. Hier war es nun natürlich viel belebter."
+    },
+    {
+      "photos": [
+        {
+          "name": "048",
+          "alt": "Panoramaweg Prodkamm",
+          "date": "2015-07-26T14:00:51.000+02:00",
+          "width": 1652,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Von der Maschgenlücke führt ein schön angelegter Weg zum Prodkamm... endlich mal weder steil bergauf oder steil bergab. 😃"
+    },
+    {
+      "photos": [
+        {
+          "name": "050",
+          "alt": "Aussicht Prodkamm",
+          "date": "2015-07-26T14:26:11.000+02:00",
+          "width": 1920,
+          "height": 464
+        }
+      ],
+      "videos": [],
+      "text": "Blick vom Prodkamm. Ein Großteil des zurückgelegten Wegs ist hier sichtbar."
+    },
+    {
+      "photos": [
+        {
+          "name": "051",
+          "alt": "Sommerrodelbahn Flumserberg",
+          "date": "2015-07-26T15:08:34.000+02:00",
+          "width": 1618,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Vom Prodkamm ist man ruck-zuck unten bei Chrüz, wo die Sesselbahn von Tannenboden endet, die Sommerrodelbahn nach Tannenboden beginnt und die Gondelbahn auf den Maschgenkamm vorbei führt. Entsprechend viel ist da los.<br />\nDort zog ich meine (inzwischen recht schweren) Bergschuhe aus und ging auf Sandalen weiter."
+    },
+    {
+      "photos": [
+        {
+          "name": "052",
+          "alt": "Spazierweg Chrüz",
+          "date": "2015-07-26T15:17:58.000+02:00",
+          "width": 1716,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Aber nicht auf dem vorgesehenen Schotterweg, sondern über Wiesen auf der Waldpiste."
+    },
+    {
+      "photos": [
+        {
+          "name": "053",
+          "alt": "Tannenboden",
+          "date": "2015-07-26T15:26:06.000+02:00",
+          "width": 1589,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Ankunft um 15:30 in Tannenboden, wo eine große Bühne aufgebaut war."
+    },
+    {
+      "photos": [
+        {
+          "name": "track1",
+          "width": 1280,
+          "height": 459
+        },
+        {
+          "name": "track2",
+          "width": 1280,
+          "height": 374
+        }
+      ],
+      "videos": [],
+      "text": "Die ganze Strecke im Überblick. Fast 8h unterwegs und rund 1500 Höhenmeter. Wie man sieht ging es ganz schön hoch und runter."
+    }
+  ],
+  "outro": "Fazit: Konditionell ziemlich anstrengende Tour - aber man kann sie natürlich auch deutlich entspannter gestalten. Was sehr schön ist, sind die ständig wechselnden Ausblicke und Landschaften. Vom  zugebautem Flumserberg-Skigebiet bekommt man eigentlich nur recht wenig mit.<br />\nVon dem Werbesprech mit den 7 Gipfeln und 14 Seen-Blicken sollte man sich aber nicht zu viel versprechen. Wirkliche Gipfel sind es eigentlich nur fünf und von den 14 Seen konnte ich auch nur ein Bruchteil erahnen. Ich denke auf fast jeder Wanderung könnte man sich so etwas zusammendichten. 😉"
+}

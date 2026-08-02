@@ -1,334 +1,332 @@
-[
-  {
-    "destination": "alpstein",
-    "date": "d20260502",
-    "datePublished": "2026-05-14T12:28:50.839+02:00",
-    "dateModified": "2026-05-14T12:28:50.839+02:00",
-    "type": "hike",
-    "track": true,
-    "detailMap": "swiss",
-    "shortTitle": "Hoher Kasten",
-    "title": "Fähnerenspitz - Kamor - Hoher Kasten",
-    "title3d": {
-      "offsetY": 0,
-      "fontSize": 7,
-      "align": "center",
-      "width": 1920,
-      "height": 479
+{
+  "destination": "alpstein",
+  "date": "d20260502",
+  "datePublished": "2026-05-14T12:28:50.839+02:00",
+  "dateModified": "2026-05-14T12:28:50.839+02:00",
+  "type": "hike",
+  "track": true,
+  "detailMap": "swiss",
+  "shortTitle": "Hoher Kasten",
+  "title": "Fähnerenspitz - Kamor - Hoher Kasten",
+  "title3d": {
+    "offsetY": 0,
+    "fontSize": 7,
+    "align": "center",
+    "width": 1920,
+    "height": 479
+  },
+  "movie": "iL1dBSd8ceA",
+  "intro": "Zum Einstieg in die Wandersaison ging es am Samstag Anfang Mai auf eine Wanderung von Brülisau bei Appenzell über die Fähnerenspitz und den Kamor auf den Hohen Kasten.",
+  "landmarks": [
+    {
+      "photos": [
+        {
+          "name": "001",
+          "alt": "Brülisau",
+          "date": "2026-05-02T09:11:51.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "text": "Nach dem das Auto auf einem der zahlreichen kostenpflichtigen Parkplätze abgestellt war, ging es etwas vor 9:00 los. Bei einer kleinen Brücke wurde der Hauptweg zum Hohen Kasten verlassen und es ging Richtung Fähnerenspitz weiter.<br />Hier der Blick zurück nach Brülisau und im Hintergrund der noch weiße <a href='/alpine/alpstein/20250705' target='_blank'>Säntis</a>."
     },
-    "movie": "iL1dBSd8ceA",
-    "intro": "Zum Einstieg in die Wandersaison ging es am Samstag Anfang Mai auf eine Wanderung von Brülisau bei Appenzell über die Fähnerenspitz und den Kamor auf den Hohen Kasten.",
-    "landmarks": [
-      {
-        "photos": [
-          {
-            "name": "001",
-            "alt": "Brülisau",
-            "date": "2026-05-02T09:11:51.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "text": "Nach dem das Auto auf einem der zahlreichen kostenpflichtigen Parkplätze abgestellt war, ging es etwas vor 9:00 los. Bei einer kleinen Brücke wurde der Hauptweg zum Hohen Kasten verlassen und es ging Richtung Fähnerenspitz weiter.<br />Hier der Blick zurück nach Brülisau und im Hintergrund der noch weiße <a href='/alpine/alpstein/20250705' target='_blank'>Säntis</a>."
-      },
-      {
-        "photos": [
-          {
-            "name": "002",
-            "alt": "Wiesenweg",
-            "date": "2026-05-02T09:25:07.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "text": "Schön, aber schon anstrengend ging es über bunte Wiesen weiter hinauf. Wieder der Blick zurück, der Berg links ist die <a href='/alpine/alpstein/20230709' target='_blank'>Alp Sigel</a>."
-      },
-      {
-        "photos": [
-          {
-            "name": "003",
-            "alt": "Appenzeller Land",
-            "date": "2026-05-02T10:10:27.000+02:00",
-            "width": 1908,
-            "height": 1080
-          }
-        ],
-        "text": "Nach rund 400m Aufstieg war Zeit für eine erste Pause bei der Alp Guggeier. Immer noch gab es den gleichen Blick Richtung Alpstein."
-      },
-      {
-        "photos": [
-          {
-            "name": "004",
-            "alt": "Alpweg",
-            "date": "2026-05-02T10:10:59.000+02:00",
-            "width": 1784,
-            "height": 1080
-          }
-        ],
-        "text": "Bei Guggeier verließ ich den ausgeschilderten Wanderweg und ging auf diesem Alpweg links um die Fähnerenspitz herum."
-      },
-      {
-        "photos": [
-          {
-            "name": "005",
-            "alt": "Alp Fähneren",
-            "date": "2026-05-02T10:22:35.000+02:00",
-            "width": 1698,
-            "height": 1080
-          }
-        ],
-        "text": "Der Weg ging bis zur Alp Fähneren, bei dem ich wieder auf einen anderen Wanderweg kam. Nun war es nicht mehr weit bis zum Gipfel."
-      },
-      {
-        "photos": [
-          {
-            "name": "006",
-            "alt": "Rheintal",
-            "date": "2026-05-02T10:37:35.000+02:00",
-            "width": 1920,
-            "height": 740
-          }
-        ],
-        "text": "Nun konnte ich auch das erste mal nach Nord-Osten in das Rheintal blicken."
-      },
-      {
-        "photos": [
-          {
-            "name": "007",
-            "alt": "Wanderung Appenzell",
-            "date": "2026-05-02T10:58:47.000+02:00",
-            "width": 1920,
-            "height": 1056
-          }
-        ],
-        "text": "Den Gipfel der 1500m hohen Fähnerenspitz erreichte ich um 11:00, also nach gut zwei Stunden Aufstieg.<br />Hier der Blick Richtung Norden, links ist der Ort Appenzell zu sehen."
-      },
-      {
-        "photos": [
-          {
-            "name": "008",
-            "alt": "Fähnerenspitz",
-            "date": "2026-05-02T11:00:54.000+02:00",
-            "width": 1920,
-            "height": 1033
-          }
-        ],
-        "text": "Wie es sich für einen Gipfel gehört, gibt es auch auf der Fähnerenspitz ein Gipfelkreuz mit Gipfelbuch. Nun kamen auch ein paar andere Wanderer von Süden hinauf, wohin ich nun absteigen wollte."
-      },
-      {
-        "photos": [
-          {
-            "name": "009",
-            "alt": "Wanderweg Fähnerenspitz",
-            "date": "2026-05-02T11:08:07.000+02:00",
-            "width": 895,
-            "height": 1080
-          }
-        ],
-        "text": "Der Abstieg von der Fähnerenspitz ging über einen schönen bewaldeten Grat und war abwechslungsreich."
-      },
-      {
-        "photos": [
-          {
-            "name": "010",
-            "alt": "Gratweg",
-            "date": "2026-05-02T11:14:20.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "text": "Auf einer Lichtung wurden dann auch meine nächsten Ziele sichtbar. In der Bildmitte der Kamor und rechts dahinter (mit Antenne) der Hohe Kasten.<br />Um zum Kamor zu kommen, musste ich nun zum Resspass und zum Zapfen gut 200m absteigen."
-      },
-      {
-        "photos": [
-          {
-            "name": "011",
-            "alt": "Mauer auf Zapfen",
-            "date": "2026-05-02T11:53:59.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "text": "Nach dem Resspass erreichte ich den tiefsten Punkt bei Zapfen, wo es diese schöne Mauer zu sehen gab.<br />Als nächstes standen die knapp 300m Aufstieg zum Kamor an."
-      },
-      {
-        "photos": [
-          {
-            "name": "012",
-            "alt": "Fahrweg Kamor",
-            "date": "2026-05-02T13:01:31.000+02:00",
-            "width": 1920,
-            "height": 764
-          }
-        ],
-        "text": "Den steilen und heißen Aufstieg über eine Wiese habe ich fotolos übersprungen und ich befinde mich nun bereits auf dem Fahrweg zum Kamor. Dieser ist asphaltiert und führt zu einer Militäranlage die in den Kamor eingegraben ist. Die Straße wird aber vor allem von Radfahrern geschätzt, für Wanderer gibt es meist alternative Wege daneben."
-      },
-      {
-        "photos": [
-          {
-            "name": "013",
-            "alt": "Wanderung Kamor",
-            "date": "2026-05-02T13:12:49.000+02:00",
-            "width": 1920,
-            "height": 1057
-          }
-        ],
-        "text": "Ich entschied mich hier zum Beispiel auf einem kleinen Pfad über den Grat die Straße zu verlassen und direkt auf den Kamor (hier links) hinauf zu laufen."
-      },
-      {
-        "photos": [
-          {
-            "name": "014",
-            "alt": "Kamor im Alpstein",
-            "date": "2026-05-02T13:20:46.000+02:00",
-            "width": 1920,
-            "height": 830
-          }
-        ],
-        "text": "Direkt vor dem Gipfel des Kamors wird diese Abkürzung steiler, aber weiter ungefährlich. Unten rechts hinter dem Paraglider ist mein Ausgangspunkt Brülisau zu erkennen."
-      },
-      {
-        "photos": [
-          {
-            "name": "015",
-            "alt": "Hoher Kasten",
-            "date": "2026-05-02T13:21:44.000+02:00",
-            "width": 1616,
-            "height": 1080
-          }
-        ],
-        "text": "Den Gipfel des 1750m hohen Kamors erreichte ich um 13:20. Von dort hat man einen schönen Blick auf den benachbarten Hohen Kasten und auch der Sämtisersee tauchte bereits auf."
-      },
-      {
-        "photos": [
-          {
-            "name": "016",
-            "alt": "Kamor",
-            "date": "2026-05-02T13:45:28.000+02:00",
-            "width": 1920,
-            "height": 809
-          }
-        ],
-        "text": "Nach einer Pause ging es weiter über den Kastensattel zum Hohen Kasten. Hier der Blick zurück zum Gipfel des Kamors."
-      },
-      {
-        "photos": [
-          {
-            "name": "017",
-            "alt": "Drahtseil Hoher Kasten",
-            "date": "2026-05-02T13:58:35.000+02:00",
-            "width": 1620,
-            "height": 1080
-          },
-          {
-            "name": "018",
-            "alt": "Felsenweg Hoher Kasten",
-            "date": "2026-05-02T14:00:11.000+02:00",
-            "width": 720,
-            "height": 1080
-          }
-        ],
-        "text": "Vom Kastensattel führen zwei Wege auf den Hohen Kasten. Ein in den Fels geschlagener mit Drahtseil gesicherter Bergweg oder ein breiter Spazierweg. Für den Aufstieg wählte ich den steilen Weg, um auf dieser einfachen Wanderung noch etwas Nervenkitzel zu haben."
-      },
-      {
-        "photos": [
-          {
-            "name": "019",
-            "alt": "Fähnerenspitz und Kamor",
-            "date": "2026-05-02T14:14:41.000+02:00",
-            "width": 1659,
-            "height": 1080
-          }
-        ],
-        "text": "Um 14:15 erreichte ich schließlich erschöpft meinen dritten Gipfel des Tages. Mit knapp 1800m war damit auch der höchste Punkt der Wanderung erreicht.<br />Beim Blick zurück konnte ich hier links die Fähnerenspitz und rechts den Kamor sehen."
-      },
-      {
-        "photos": [
-          {
-            "name": "020",
-            "alt": "Alpstein mit Sämtisersee",
-            "date": "2026-05-02T14:25:19.000+02:00",
-            "width": 1620,
-            "height": 1080
-          },
-          {
-            "name": "021",
-            "alt": "Aussicht Hoher Kasten",
-            "date": "2026-05-02T14:26:18.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "text": "Der Paradeblick des Hohen Kasten ist aber zweifellos die Aussicht Richtung Sämtisersee, dahinter der Altmann und der Säntis. Leider war es an diesem Tag etwas diesig, aber schön war es trotzdem.<br />Es war auch noch Zeit auf der Terrasse des Restaurants eine Pause zu machen, denn ich hatte für die hohen Temperaturen zu wenig zu Trinken in den Rucksack gepackt."
-      },
-      {
-        "photos": [
-          {
-            "name": "022",
-            "alt": "Blick ins Rheintal",
-            "date": "2026-05-02T15:19:00.000+02:00",
-            "width": 1795,
-            "height": 1080
-          },
-          {
-            "name": "023",
-            "alt": "Kastensattel",
-            "date": "2026-05-02T15:23:45.000+02:00",
-            "width": 1874,
-            "height": 1080
-          }
-        ],
-        "text": "Frisch gestärkt ging es nicht mit der Seilbahn hinab nach Brülisau, sondern weiter zu Fuß.<br />Bis zum Kastensattel auf dem eigentlich einfachen Weg. Aber da dort noch schmieriger Schnee lag, war es am Ende schwieriger als der Drahtseilweg."
-      },
-      {
-        "photos": [
-          {
-            "name": "024",
-            "alt": "Kamor mit Hoher Kasten",
-            "date": "2026-05-02T16:09:07.000+02:00",
-            "width": 1920,
-            "height": 804
-          }
-        ],
-        "text": "Nach einem nicht zu steilen Serpentinenweg durch den lichten Wald erreichte ich die Alpwiesen unterhalb der Felsen des Kamors. Auf dem Gipfel waren einem diese Felswände gar nicht so bewusst."
-      },
-      {
-        "photos": [
-          {
-            "name": "025",
-            "alt": "Gasthaus Ruhsitz",
-            "date": "2026-05-02T16:42:12.000+02:00",
-            "width": 1869,
-            "height": 1080
-          }
-        ],
-        "text": "An dem Gasthaus Ruhsitz (hier links) ging ich vorbei und lief nun auf viel begangenem Weg über die Wiesen weiter hinab. Bei Ruhsitz könnte man sich auch Trottinetts leihen und eine Straße nach Brülisau hinunterfahren."
-      },
-      {
-        "photos": [
-          {
-            "name": "026",
-            "alt": "Spazierweg Ruhsitz",
-            "date": "2026-05-02T16:45:25.000+02:00",
-            "width": 1902,
-            "height": 1080
-          }
-        ],
-        "text": "Vorbei ging es noch an typischen Appenzeller Bauernhöfen."
-      },
-      {
-        "photos": [
-          {
-            "name": "027",
-            "alt": "Pusteblumen oberhalb Brülisau",
-            "date": "2026-05-02T16:51:42.000+02:00",
-            "width": 1716,
-            "height": 1080
-          }
-        ],
-        "text": "Beim Abstieg verwandelten sich die zahlreichen Hundeblumen in Pusteblumen und ich erreichte gegen 17:00 mein Auto in Brülisau."
-      }
-    ],
-    "outro": "Fazit: Der Weg über die zwei Extragipfel auf den Hohen Kasten war abwechslungsreich und gut als Einstieg in die Wandersaison geeignet. Auch wenn es nicht sehr lang war, sind die drei Aufstiege nicht zu unterschätzen und es war anstrengend. Man könnte das ganze natürlich auch umgekehrt machen und zu Beginn die Seilbahn nehmen, dann ist es eine einfache Wanderung mit weniger Anstrengung."
-  }
-]
+    {
+      "photos": [
+        {
+          "name": "002",
+          "alt": "Wiesenweg",
+          "date": "2026-05-02T09:25:07.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "text": "Schön, aber schon anstrengend ging es über bunte Wiesen weiter hinauf. Wieder der Blick zurück, der Berg links ist die <a href='/alpine/alpstein/20230709' target='_blank'>Alp Sigel</a>."
+    },
+    {
+      "photos": [
+        {
+          "name": "003",
+          "alt": "Appenzeller Land",
+          "date": "2026-05-02T10:10:27.000+02:00",
+          "width": 1908,
+          "height": 1080
+        }
+      ],
+      "text": "Nach rund 400m Aufstieg war Zeit für eine erste Pause bei der Alp Guggeier. Immer noch gab es den gleichen Blick Richtung Alpstein."
+    },
+    {
+      "photos": [
+        {
+          "name": "004",
+          "alt": "Alpweg",
+          "date": "2026-05-02T10:10:59.000+02:00",
+          "width": 1784,
+          "height": 1080
+        }
+      ],
+      "text": "Bei Guggeier verließ ich den ausgeschilderten Wanderweg und ging auf diesem Alpweg links um die Fähnerenspitz herum."
+    },
+    {
+      "photos": [
+        {
+          "name": "005",
+          "alt": "Alp Fähneren",
+          "date": "2026-05-02T10:22:35.000+02:00",
+          "width": 1698,
+          "height": 1080
+        }
+      ],
+      "text": "Der Weg ging bis zur Alp Fähneren, bei dem ich wieder auf einen anderen Wanderweg kam. Nun war es nicht mehr weit bis zum Gipfel."
+    },
+    {
+      "photos": [
+        {
+          "name": "006",
+          "alt": "Rheintal",
+          "date": "2026-05-02T10:37:35.000+02:00",
+          "width": 1920,
+          "height": 740
+        }
+      ],
+      "text": "Nun konnte ich auch das erste mal nach Nord-Osten in das Rheintal blicken."
+    },
+    {
+      "photos": [
+        {
+          "name": "007",
+          "alt": "Wanderung Appenzell",
+          "date": "2026-05-02T10:58:47.000+02:00",
+          "width": 1920,
+          "height": 1056
+        }
+      ],
+      "text": "Den Gipfel der 1500m hohen Fähnerenspitz erreichte ich um 11:00, also nach gut zwei Stunden Aufstieg.<br />Hier der Blick Richtung Norden, links ist der Ort Appenzell zu sehen."
+    },
+    {
+      "photos": [
+        {
+          "name": "008",
+          "alt": "Fähnerenspitz",
+          "date": "2026-05-02T11:00:54.000+02:00",
+          "width": 1920,
+          "height": 1033
+        }
+      ],
+      "text": "Wie es sich für einen Gipfel gehört, gibt es auch auf der Fähnerenspitz ein Gipfelkreuz mit Gipfelbuch. Nun kamen auch ein paar andere Wanderer von Süden hinauf, wohin ich nun absteigen wollte."
+    },
+    {
+      "photos": [
+        {
+          "name": "009",
+          "alt": "Wanderweg Fähnerenspitz",
+          "date": "2026-05-02T11:08:07.000+02:00",
+          "width": 895,
+          "height": 1080
+        }
+      ],
+      "text": "Der Abstieg von der Fähnerenspitz ging über einen schönen bewaldeten Grat und war abwechslungsreich."
+    },
+    {
+      "photos": [
+        {
+          "name": "010",
+          "alt": "Gratweg",
+          "date": "2026-05-02T11:14:20.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "text": "Auf einer Lichtung wurden dann auch meine nächsten Ziele sichtbar. In der Bildmitte der Kamor und rechts dahinter (mit Antenne) der Hohe Kasten.<br />Um zum Kamor zu kommen, musste ich nun zum Resspass und zum Zapfen gut 200m absteigen."
+    },
+    {
+      "photos": [
+        {
+          "name": "011",
+          "alt": "Mauer auf Zapfen",
+          "date": "2026-05-02T11:53:59.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "text": "Nach dem Resspass erreichte ich den tiefsten Punkt bei Zapfen, wo es diese schöne Mauer zu sehen gab.<br />Als nächstes standen die knapp 300m Aufstieg zum Kamor an."
+    },
+    {
+      "photos": [
+        {
+          "name": "012",
+          "alt": "Fahrweg Kamor",
+          "date": "2026-05-02T13:01:31.000+02:00",
+          "width": 1920,
+          "height": 764
+        }
+      ],
+      "text": "Den steilen und heißen Aufstieg über eine Wiese habe ich fotolos übersprungen und ich befinde mich nun bereits auf dem Fahrweg zum Kamor. Dieser ist asphaltiert und führt zu einer Militäranlage die in den Kamor eingegraben ist. Die Straße wird aber vor allem von Radfahrern geschätzt, für Wanderer gibt es meist alternative Wege daneben."
+    },
+    {
+      "photos": [
+        {
+          "name": "013",
+          "alt": "Wanderung Kamor",
+          "date": "2026-05-02T13:12:49.000+02:00",
+          "width": 1920,
+          "height": 1057
+        }
+      ],
+      "text": "Ich entschied mich hier zum Beispiel auf einem kleinen Pfad über den Grat die Straße zu verlassen und direkt auf den Kamor (hier links) hinauf zu laufen."
+    },
+    {
+      "photos": [
+        {
+          "name": "014",
+          "alt": "Kamor im Alpstein",
+          "date": "2026-05-02T13:20:46.000+02:00",
+          "width": 1920,
+          "height": 830
+        }
+      ],
+      "text": "Direkt vor dem Gipfel des Kamors wird diese Abkürzung steiler, aber weiter ungefährlich. Unten rechts hinter dem Paraglider ist mein Ausgangspunkt Brülisau zu erkennen."
+    },
+    {
+      "photos": [
+        {
+          "name": "015",
+          "alt": "Hoher Kasten",
+          "date": "2026-05-02T13:21:44.000+02:00",
+          "width": 1616,
+          "height": 1080
+        }
+      ],
+      "text": "Den Gipfel des 1750m hohen Kamors erreichte ich um 13:20. Von dort hat man einen schönen Blick auf den benachbarten Hohen Kasten und auch der Sämtisersee tauchte bereits auf."
+    },
+    {
+      "photos": [
+        {
+          "name": "016",
+          "alt": "Kamor",
+          "date": "2026-05-02T13:45:28.000+02:00",
+          "width": 1920,
+          "height": 809
+        }
+      ],
+      "text": "Nach einer Pause ging es weiter über den Kastensattel zum Hohen Kasten. Hier der Blick zurück zum Gipfel des Kamors."
+    },
+    {
+      "photos": [
+        {
+          "name": "017",
+          "alt": "Drahtseil Hoher Kasten",
+          "date": "2026-05-02T13:58:35.000+02:00",
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "name": "018",
+          "alt": "Felsenweg Hoher Kasten",
+          "date": "2026-05-02T14:00:11.000+02:00",
+          "width": 720,
+          "height": 1080
+        }
+      ],
+      "text": "Vom Kastensattel führen zwei Wege auf den Hohen Kasten. Ein in den Fels geschlagener mit Drahtseil gesicherter Bergweg oder ein breiter Spazierweg. Für den Aufstieg wählte ich den steilen Weg, um auf dieser einfachen Wanderung noch etwas Nervenkitzel zu haben."
+    },
+    {
+      "photos": [
+        {
+          "name": "019",
+          "alt": "Fähnerenspitz und Kamor",
+          "date": "2026-05-02T14:14:41.000+02:00",
+          "width": 1659,
+          "height": 1080
+        }
+      ],
+      "text": "Um 14:15 erreichte ich schließlich erschöpft meinen dritten Gipfel des Tages. Mit knapp 1800m war damit auch der höchste Punkt der Wanderung erreicht.<br />Beim Blick zurück konnte ich hier links die Fähnerenspitz und rechts den Kamor sehen."
+    },
+    {
+      "photos": [
+        {
+          "name": "020",
+          "alt": "Alpstein mit Sämtisersee",
+          "date": "2026-05-02T14:25:19.000+02:00",
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "name": "021",
+          "alt": "Aussicht Hoher Kasten",
+          "date": "2026-05-02T14:26:18.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "text": "Der Paradeblick des Hohen Kasten ist aber zweifellos die Aussicht Richtung Sämtisersee, dahinter der Altmann und der Säntis. Leider war es an diesem Tag etwas diesig, aber schön war es trotzdem.<br />Es war auch noch Zeit auf der Terrasse des Restaurants eine Pause zu machen, denn ich hatte für die hohen Temperaturen zu wenig zu Trinken in den Rucksack gepackt."
+    },
+    {
+      "photos": [
+        {
+          "name": "022",
+          "alt": "Blick ins Rheintal",
+          "date": "2026-05-02T15:19:00.000+02:00",
+          "width": 1795,
+          "height": 1080
+        },
+        {
+          "name": "023",
+          "alt": "Kastensattel",
+          "date": "2026-05-02T15:23:45.000+02:00",
+          "width": 1874,
+          "height": 1080
+        }
+      ],
+      "text": "Frisch gestärkt ging es nicht mit der Seilbahn hinab nach Brülisau, sondern weiter zu Fuß.<br />Bis zum Kastensattel auf dem eigentlich einfachen Weg. Aber da dort noch schmieriger Schnee lag, war es am Ende schwieriger als der Drahtseilweg."
+    },
+    {
+      "photos": [
+        {
+          "name": "024",
+          "alt": "Kamor mit Hoher Kasten",
+          "date": "2026-05-02T16:09:07.000+02:00",
+          "width": 1920,
+          "height": 804
+        }
+      ],
+      "text": "Nach einem nicht zu steilen Serpentinenweg durch den lichten Wald erreichte ich die Alpwiesen unterhalb der Felsen des Kamors. Auf dem Gipfel waren einem diese Felswände gar nicht so bewusst."
+    },
+    {
+      "photos": [
+        {
+          "name": "025",
+          "alt": "Gasthaus Ruhsitz",
+          "date": "2026-05-02T16:42:12.000+02:00",
+          "width": 1869,
+          "height": 1080
+        }
+      ],
+      "text": "An dem Gasthaus Ruhsitz (hier links) ging ich vorbei und lief nun auf viel begangenem Weg über die Wiesen weiter hinab. Bei Ruhsitz könnte man sich auch Trottinetts leihen und eine Straße nach Brülisau hinunterfahren."
+    },
+    {
+      "photos": [
+        {
+          "name": "026",
+          "alt": "Spazierweg Ruhsitz",
+          "date": "2026-05-02T16:45:25.000+02:00",
+          "width": 1902,
+          "height": 1080
+        }
+      ],
+      "text": "Vorbei ging es noch an typischen Appenzeller Bauernhöfen."
+    },
+    {
+      "photos": [
+        {
+          "name": "027",
+          "alt": "Pusteblumen oberhalb Brülisau",
+          "date": "2026-05-02T16:51:42.000+02:00",
+          "width": 1716,
+          "height": 1080
+        }
+      ],
+      "text": "Beim Abstieg verwandelten sich die zahlreichen Hundeblumen in Pusteblumen und ich erreichte gegen 17:00 mein Auto in Brülisau."
+    }
+  ],
+  "outro": "Fazit: Der Weg über die zwei Extragipfel auf den Hohen Kasten war abwechslungsreich und gut als Einstieg in die Wandersaison geeignet. Auch wenn es nicht sehr lang war, sind die drei Aufstiege nicht zu unterschätzen und es war anstrengend. Man könnte das ganze natürlich auch umgekehrt machen und zu Beginn die Seilbahn nehmen, dann ist es eine einfache Wanderung mit weniger Anstrengung."
+}

@@ -1,589 +1,587 @@
-[
-  {
-    "destination": "alpstein",
-    "date": "d20141102",
-    "type": "hike",
-    "track": true,
-    "detailMap": "swiss",
-    "shortTitle": "Kronberg",
-    "title": "Jakobsbad - Kronberg",
-    "title3d": {
-      "align": "center",
-      "offsetY": 3,
-      "fontSize": 9,
-      "width": 1920,
-      "height": 519
+{
+  "destination": "alpstein",
+  "date": "d20141102",
+  "type": "hike",
+  "track": true,
+  "detailMap": "swiss",
+  "shortTitle": "Kronberg",
+  "title": "Jakobsbad - Kronberg",
+  "title3d": {
+    "align": "center",
+    "offsetY": 3,
+    "fontSize": 9,
+    "width": 1920,
+    "height": 519
+  },
+  "movie": "w7drrXSyFhg",
+  "intro": "Es war der 2. November und es gab immer noch sommerliche Temperaturen. In den Bergen gab es aber oberhalb 1800m trotzdem zuviel Schnee zum Wandern. Deshalb entschied ich mich zu einer Fahrt zum Kronberg im Appenzeller Land, um eine letzte Tour vor dem richtigen Start der Skisaison zu unternehmen.<br />\nNach der Fahrt durch überwiegend dichten Nebel (endlich mal die Nebelschlussleuchte erlaubt), kam ich bei strahlendem Sonnenschein an der Talstation der Kronbergbahn in Jakobsbad an. Der Parkplatz war um kurz vor 9:00 noch ziemlich leer.",
+  "landmarks": [
+    {
+      "photos": [
+        {
+          "name": "001",
+          "alt": "Kronbergbahn vor Kuhweide",
+          "date": "2014-11-02T08:54:23.000+01:00",
+          "width": 1920,
+          "height": 973
+        }
+      ],
+      "videos": [],
+      "text": "Ich nahm allerdings nicht die Bahn, sondern machte mich zu Fuss an den Aufstieg. Die ersten paar Meter noch mit Jacke, auf die ich aber gleich beim ersten Aufstieg verzichten konnte."
     },
-    "movie": "w7drrXSyFhg",
-    "intro": "Es war der 2. November und es gab immer noch sommerliche Temperaturen. In den Bergen gab es aber oberhalb 1800m trotzdem zuviel Schnee zum Wandern. Deshalb entschied ich mich zu einer Fahrt zum Kronberg im Appenzeller Land, um eine letzte Tour vor dem richtigen Start der Skisaison zu unternehmen.<br />\nNach der Fahrt durch überwiegend dichten Nebel (endlich mal die Nebelschlussleuchte erlaubt), kam ich bei strahlendem Sonnenschein an der Talstation der Kronbergbahn in Jakobsbad an. Der Parkplatz war um kurz vor 9:00 noch ziemlich leer.",
-    "landmarks": [
-      {
-        "photos": [
-          {
-            "name": "001",
-            "alt": "Kronbergbahn vor Kuhweide",
-            "date": "2014-11-02T08:54:23.000+01:00",
-            "width": 1920,
-            "height": 973
-          }
-        ],
-        "videos": [],
-        "text": "Ich nahm allerdings nicht die Bahn, sondern machte mich zu Fuss an den Aufstieg. Die ersten paar Meter noch mit Jacke, auf die ich aber gleich beim ersten Aufstieg verzichten konnte."
-      },
-      {
-        "photos": [
-          {
-            "name": "002",
-            "alt": "Schleierwolken und Wiese",
-            "date": "2014-11-02T09:19:28.000+01:00",
-            "width": 1920,
-            "height": 925
-          }
-        ],
-        "videos": [],
-        "text": "Der Weg Richtung Scheidegg führt durch Wald und Wiesen hinauf."
-      },
-      {
-        "photos": [
-          {
-            "name": "003",
-            "alt": "Rosen an alter Wand mit Schindeln",
-            "date": "2014-11-02T09:21:31.000+01:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Vorbei an alten Bauernhäusern."
-      },
-      {
-        "photos": [
-          {
-            "name": "004",
-            "alt": "Blick auf Säntis mit Herbstlaub",
-            "date": "2014-11-02T09:27:14.000+01:00",
-            "width": 1920,
-            "height": 827
-          }
-        ],
-        "videos": [],
-        "text": "Auf der ersten Anhöhe der Blick auf das Ziel. Die Bäume waren selbst auf dieser Höhe noch schön belaubt."
-      },
-      {
-        "photos": [
-          {
-            "name": "005",
-            "alt": "Fahrweg zur Scheidegg mit Blick auf das Appenzeller Land",
-            "date": "2014-11-02T09:37:50.000+01:00",
-            "width": 1920,
-            "height": 883
-          }
-        ],
-        "videos": [],
-        "text": "Etwas später erreicht man die Asphaltstraße, die zur Scheidegg führt. Im Hintergrund das typische Appenzeller Land."
-      },
-      {
-        "photos": [
-          {
-            "name": "006",
-            "alt": "Steile Straße im Schatten",
-            "date": "2014-11-02T09:59:30.000+01:00",
-            "width": 1776,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Steilstück im Wald. Hier sieht man, dass früher auf dieser Strecke die Skiabfahrt vom Kronberg führte. Inzwischen gibt es aber keinen Skibetrieb mehr und diese Trasse wird als Rodelbahn verwendet."
-      },
-      {
-        "photos": [
-          {
-            "name": "007",
-            "alt": "Grat des Kronbergs mit Säntis",
-            "date": "2014-11-02T10:00:07.000+01:00",
-            "width": 1920,
-            "height": 957
-          }
-        ],
-        "videos": [],
-        "text": "Der Grat vom Kronberg hatte ich hier erreicht und der Säntis, der sich hinter dem Kronberg versteckt hatte, wurde sichtbar."
-      },
-      {
-        "photos": [
-          {
-            "name": "008",
-            "alt": "Weg zur Scheidegg",
-            "date": "2014-11-02T10:05:02.000+01:00",
-            "width": 1920,
-            "height": 695
-          },
-          {
-            "name": "009",
-            "alt": "Gasthaus Scheidegg",
-            "date": "2014-11-02T10:08:12.000+01:00",
-            "width": 1920,
-            "height": 789
-          }
-        ],
-        "videos": [],
-        "text": "Nach einer guten Stunde und 500m Aufstieg hatte ich das Gasthaus Scheidegg auf 1300m erreicht. Ab hier wurde es dann deutlich belebter, da viele den Abstieg vom Kronberg machten."
-      },
-      {
-        "photos": [
-          {
-            "name": "010",
-            "alt": "Jakobskapelle auf dem Grat des Kronbergs",
-            "date": "2014-11-02T10:35:26.000+01:00",
-            "width": 1920,
-            "height": 518
-          }
-        ],
-        "videos": [],
-        "text": "Ab der Scheidegg ging es auf dem breiten Rücken des Kronbergs weiter, vorbei an der schön gelegenen Jakobskapelle."
-      },
-      {
-        "photos": [
-          {
-            "name": "011",
-            "alt": "Grasrücken auf dem Kronberg",
-            "date": "2014-11-02T10:46:44.000+01:00",
-            "width": 1920,
-            "height": 879
-          }
-        ],
-        "videos": [],
-        "text": "Blick zurück, es ist alles sehr harmlos hier."
-      },
-      {
-        "photos": [
-          {
-            "name": "012",
-            "alt": "Ausgetretener Weg zum Gipfel",
-            "date": "2014-11-02T10:54:49.000+01:00",
-            "width": 1920,
-            "height": 564
-          }
-        ],
-        "videos": [],
-        "text": "Und nach vorne Richtung Bergstation, die gerade eine weitere Ladung Wanderer ausgespuckt hatte."
-      },
-      {
-        "photos": [
-          {
-            "name": "013",
-            "alt": "Sehr Lange Bank",
-            "date": "2014-11-02T10:55:44.000+01:00",
-            "width": 1920,
-            "height": 399
-          }
-        ],
-        "videos": [],
-        "text": "Eine lange Bank auf dem Grat."
-      },
-      {
-        "photos": [
-          {
-            "name": "014",
-            "alt": "Blick vom Gipfel zur Bergstation der Kronbergbahn",
-            "date": "2014-11-02T11:03:23.000+01:00",
-            "width": 1920,
-            "height": 707
-          }
-        ],
-        "videos": [],
-        "text": "Den Gipfel hatte ich nach 2h Aufstieg auf 1660m erreicht. Neben den sonnensuchenden Spaziergängern waren auch einige Paraglider unterwegs."
-      },
-      {
-        "photos": [
-          {
-            "name": "015",
-            "alt": "Holzliegen mit Aussicht auf das Nebelmeer",
-            "date": "2014-11-02T11:05:08.000+01:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Der Blick auf das Nebelmeer rund um den Bodensee."
-      },
-      {
-        "photos": [
-          {
-            "name": "016",
-            "alt": "Wegweiser auf Kronberg vor Säntis",
-            "date": "2014-11-02T11:13:33.000+01:00",
-            "width": 1592,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Ein Wegweiser an der Bergstation. Im Hintergrund der alles überragende Säntis."
-      },
-      {
-        "photos": [
-          {
-            "name": "017",
-            "alt": "Paraglider auf Kronberg",
-            "date": "2014-11-02T11:17:18.000+01:00",
-            "width": 1726,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Ich hatte mich dann ziemlich schnell an den Abstieg gemacht, zuerst Richtung Säntis. Die Paraglider starteten ebenfalls in diese Richtung, um dann aber schnell rechts herum abzubiegen."
-      },
-      {
-        "photos": [
-          {
-            "name": "018",
-            "alt": "Zaun vor dem Säntis",
-            "date": "2014-11-02T11:31:30.000+01:00",
-            "width": 1920,
-            "height": 555
-          }
-        ],
-        "videos": [],
-        "text": "So bog auch ich nach rechts ab, weiterhin immer auf dem Grat lang."
-      },
-      {
-        "photos": [
-          {
-            "name": "019",
-            "alt": "Wanderweg auf Grat Entlang Eines Zauns",
-            "date": "2014-11-02T11:33:17.000+01:00",
-            "width": 1920,
-            "height": 816
-          }
-        ],
-        "videos": [],
-        "text": "Die Vorschau auf den weiteren Weg. Es ging eigentlich immer entlang dieses Höhenzugs."
-      },
-      {
-        "photos": [
-          {
-            "name": "020",
-            "alt": "Kronberg von Osten",
-            "date": "2014-11-02T11:41:00.000+01:00",
-            "width": 1920,
-            "height": 775
-          }
-        ],
-        "videos": [],
-        "text": "Blick zurück zum Kronberg."
-      },
-      {
-        "photos": [
-          {
-            "name": "021",
-            "alt": "Hangweg zur Petersalp",
-            "date": "2014-11-02T12:09:33.000+01:00",
-            "width": 1920,
-            "height": 811
-          },
-          {
-            "name": "022",
-            "alt": "Petersalp",
-            "date": "2014-11-02T12:11:01.000+01:00",
-            "width": 1920,
-            "height": 855
-          }
-        ],
-        "videos": [],
-        "text": "Nach einem weiteren kleinen Aufstieg erreichte ich die Petersalp (1570m), die einen steilen kleinen Grashang für die Landwirtschaft erschließt."
-      },
-      {
-        "photos": [
-          {
-            "name": "023",
-            "alt": "Grashang mit Aussicht",
-            "date": "2014-11-02T12:18:57.000+01:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Hier ebenfalls eine ziemlich schöne Aussicht, so dass ich erst mal eine längere Mittagspause einlegte. Es war inzwischen 12:20."
-      },
-      {
-        "photos": [
-          {
-            "name": "024",
-            "alt": "Nackte Füsse im November",
-            "date": "2014-11-02T12:27:55.000+01:00",
-            "width": 1533,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Ja, typisch November in den Bergen..."
-      },
-      {
-        "photos": [
-          {
-            "name": "025",
-            "alt": "Schneereste vor dem Kronberg",
-            "date": "2014-11-02T12:45:08.000+01:00",
-            "width": 1920,
-            "height": 575
-          }
-        ],
-        "videos": [],
-        "text": "Blick zurück auf den Kronberg und ein paar klägliche Schneereste."
-      },
-      {
-        "photos": [
-          {
-            "name": "026",
-            "alt": "Blick auf Urnäsch",
-            "date": "2014-11-02T12:53:47.000+01:00",
-            "width": 1495,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Anschließend ging es deutlich steiler bergab, um den Bergrücken des Lauftegg zu erreichen. Im Hintergrund befindet sich der kleine Ort Urnäsch."
-      },
-      {
-        "photos": [
-          {
-            "name": "027",
-            "alt": "Rücken des Laufteggs",
-            "date": "2014-11-02T13:08:58.000+01:00",
-            "width": 1920,
-            "height": 726
-          }
-        ],
-        "videos": [],
-        "text": "Nun hatte ich den Rücken des Laufteggs auf 1200m erreicht und nun war ich endgültig aus dem steileren Gelände raus."
-      },
-      {
-        "photos": [
-          {
-            "name": "028",
-            "alt": "Miniaturaufnahme Gross Eugst",
-            "date": "2014-11-02T13:14:27.000+01:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Tele auf Gross Eugst auf der anderen Talseite."
-      },
-      {
-        "photos": [
-          {
-            "name": "029",
-            "alt": "Schleierwolkem am Kronberg",
-            "date": "2014-11-02T13:19:36.000+01:00",
-            "width": 1920,
-            "height": 723
-          },
-          {
-            "name": "030",
-            "alt": "Eiswolken über dem Gipfel",
-            "date": "2014-11-02T13:20:00.000+01:00",
-            "width": 1920,
-            "height": 1048
-          }
-        ],
-        "videos": [],
-        "text": "Schöne Eiswolken rund um den Kronberg."
-      },
-      {
-        "photos": [
-          {
-            "name": "031",
-            "alt": "Fahrweg Lauftegg mit Bauernhaus",
-            "date": "2014-11-02T13:24:07.000+01:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Ab jetzt war es wieder hauptsächlich Fahrweg - weiterhin immer auf dem Grat lang."
-      },
-      {
-        "photos": [
-          {
-            "name": "032",
-            "alt": "Panorama Kronberg Säntis Zimmermanns",
-            "date": "2014-11-02T13:30:38.000+01:00",
-            "width": 1920,
-            "height": 397
-          }
-        ],
-        "videos": [],
-        "text": "Da es sich langsam abzeichnete, dass ich zu früh am Auto sein würde, war Zeit für eine weitere gemütliche Pause bei Zimmermanns - Lauftegg. Hier ist fast der gesamte Weg sichtbar. Von links gings hinauf auf den Kronberg, dann über den kleinen Pass auf die rechten Höhen und anschließend zum aktuellen Standpunkt."
-      },
-      {
-        "photos": [
-          {
-            "name": "033",
-            "alt": "Stachlige Blume vor Zaun",
-            "date": "2014-11-02T13:47:12.000+01:00",
-            "width": 1620,
-            "height": 1080
-          },
-          {
-            "name": "034",
-            "alt": "Gänseblumen",
-            "date": "2014-11-02T13:48:08.000+01:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Blümchen."
-      },
-      {
-        "photos": [
-          {
-            "name": "035",
-            "alt": "Kondensstreifen vor abgestorbenem Baum",
-            "date": "2014-11-02T14:01:29.000+01:00",
-            "width": 1673,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Die Wolken und Kondensstreifen hatten es mir irgendwie angetan."
-      },
-      {
-        "photos": [
-          {
-            "name": "036",
-            "alt": "Skilift Lauftegg mit Pferden vor Gonten",
-            "date": "2014-11-02T14:03:16.000+01:00",
-            "width": 1791,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "An der Bergstation des eingestellten Skilift Lauftegg. Im Hintergrund der Ort Gonten."
-      },
-      {
-        "photos": [
-          {
-            "name": "038",
-            "alt": "Wanderweg in herbstlichen Wald",
-            "date": "2014-11-02T14:10:05.000+01:00",
-            "width": 1605,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Ab hier wurde es wieder steiler und ich verließ den Fahrweg."
-      },
-      {
-        "photos": [
-          {
-            "name": "040",
-            "alt": "Steile Trasse des Skilift Lauftegg",
-            "date": "2014-11-02T14:12:17.000+01:00",
-            "width": 845,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Die steile Trasse des ehemaligen Schlepplifts Lauftegg. Da sind die Kinder früher im Skikurs regelmäßig rausgeflogen..."
-      },
-      {
-        "photos": [
-          {
-            "name": "041",
-            "alt": "Skilift Lauftegg vor Gonten",
-            "date": "2014-11-02T14:16:39.000+01:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Für Skilift-Nostalgiker hier noch ein weiteres Bild des Schlepplifts und Gonten."
-      },
-      {
-        "photos": [
-          {
-            "name": "042",
-            "alt": "Talstation Seilbahn Kronberg mit vollem Parkplatz",
-            "date": "2014-11-02T14:24:02.000+01:00",
-            "width": 1815,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Inzwischen war ordentlich Rummel an der Talstation in Jakobsbad. Die Abkehr der Bergbahnen vom Skibetrieb dürfte sich ausgezahlt haben."
-      },
-      {
-        "photos": [
-          {
-            "name": "043",
-            "alt": "Miniaturaufnahme Kloster Jakobsbad",
-            "date": "2014-11-02T14:26:01.000+01:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Das Kloster neben der Talstation (das eigentliche Jakobsbad)."
-      },
-      {
-        "photos": [
-          {
-            "name": "044",
-            "alt": "Miniaturaufnahme Appenzeller Bauernhof",
-            "date": "2014-11-02T14:26:22.000+01:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Und dahinter Bauernhäuser in der typischen Appenzeller Bauweise."
-      },
-      {
-        "photos": [
-          {
-            "name": "045",
-            "alt": "Kronbergbahn Talstation",
-            "date": "2014-11-02T14:29:23.000+01:00",
-            "width": 1920,
-            "height": 853
-          }
-        ],
-        "videos": [],
-        "text": "Die Talstation hatte ich um 14:30 erreicht. Neben der Seilbahn gibt es dort inzwischen eine Sommerrodelbahn mit langer Warteschlange, ein Hochseilpark, ein Abenteuerspielplatz und ein modernes, kleines Restaurant."
-      },
-      {
-        "photos": [
-          {
-            "name": "046",
-            "alt": "Wanderkarte Appenzellerland",
-            "date": "2014-11-02T14:35:26.000+01:00",
-            "width": 1782,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Wanderkarte. Etwas übertrieben, denn von diesem Standort dürfte nur ein Bruchteil erreichbar sein."
-      },
-      {
-        "photos": [
-          {
-            "name": "track1",
-            "alt": "Wegstrecke Jakobsbad Kronberg",
-            "width": 1280,
-            "height": 655
-          },
-          {
-            "name": "track2",
-            "alt": "Höhenprofil Jakobsbad Kronberg",
-            "width": 1280,
-            "height": 289
-          }
-        ],
-        "videos": [],
-        "text": "Gelaufene Strecke. 15km und 1100m rauf + runter in 5:30h."
-      }
-    ],
-    "outro": "Fazit: Schöne, einfache Runde bei bestem Wetter. Zum Teil aber etwas überlaufen und zu gut ausgebaut.<br />\n<span data-silent>Jetzt sind aber die Winterreifen drauf und die Skier beim Schleifen, d.h. bald Schluss mit Wandern.</span>"
-  }
-]
+    {
+      "photos": [
+        {
+          "name": "002",
+          "alt": "Schleierwolken und Wiese",
+          "date": "2014-11-02T09:19:28.000+01:00",
+          "width": 1920,
+          "height": 925
+        }
+      ],
+      "videos": [],
+      "text": "Der Weg Richtung Scheidegg führt durch Wald und Wiesen hinauf."
+    },
+    {
+      "photos": [
+        {
+          "name": "003",
+          "alt": "Rosen an alter Wand mit Schindeln",
+          "date": "2014-11-02T09:21:31.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Vorbei an alten Bauernhäusern."
+    },
+    {
+      "photos": [
+        {
+          "name": "004",
+          "alt": "Blick auf Säntis mit Herbstlaub",
+          "date": "2014-11-02T09:27:14.000+01:00",
+          "width": 1920,
+          "height": 827
+        }
+      ],
+      "videos": [],
+      "text": "Auf der ersten Anhöhe der Blick auf das Ziel. Die Bäume waren selbst auf dieser Höhe noch schön belaubt."
+    },
+    {
+      "photos": [
+        {
+          "name": "005",
+          "alt": "Fahrweg zur Scheidegg mit Blick auf das Appenzeller Land",
+          "date": "2014-11-02T09:37:50.000+01:00",
+          "width": 1920,
+          "height": 883
+        }
+      ],
+      "videos": [],
+      "text": "Etwas später erreicht man die Asphaltstraße, die zur Scheidegg führt. Im Hintergrund das typische Appenzeller Land."
+    },
+    {
+      "photos": [
+        {
+          "name": "006",
+          "alt": "Steile Straße im Schatten",
+          "date": "2014-11-02T09:59:30.000+01:00",
+          "width": 1776,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Steilstück im Wald. Hier sieht man, dass früher auf dieser Strecke die Skiabfahrt vom Kronberg führte. Inzwischen gibt es aber keinen Skibetrieb mehr und diese Trasse wird als Rodelbahn verwendet."
+    },
+    {
+      "photos": [
+        {
+          "name": "007",
+          "alt": "Grat des Kronbergs mit Säntis",
+          "date": "2014-11-02T10:00:07.000+01:00",
+          "width": 1920,
+          "height": 957
+        }
+      ],
+      "videos": [],
+      "text": "Der Grat vom Kronberg hatte ich hier erreicht und der Säntis, der sich hinter dem Kronberg versteckt hatte, wurde sichtbar."
+    },
+    {
+      "photos": [
+        {
+          "name": "008",
+          "alt": "Weg zur Scheidegg",
+          "date": "2014-11-02T10:05:02.000+01:00",
+          "width": 1920,
+          "height": 695
+        },
+        {
+          "name": "009",
+          "alt": "Gasthaus Scheidegg",
+          "date": "2014-11-02T10:08:12.000+01:00",
+          "width": 1920,
+          "height": 789
+        }
+      ],
+      "videos": [],
+      "text": "Nach einer guten Stunde und 500m Aufstieg hatte ich das Gasthaus Scheidegg auf 1300m erreicht. Ab hier wurde es dann deutlich belebter, da viele den Abstieg vom Kronberg machten."
+    },
+    {
+      "photos": [
+        {
+          "name": "010",
+          "alt": "Jakobskapelle auf dem Grat des Kronbergs",
+          "date": "2014-11-02T10:35:26.000+01:00",
+          "width": 1920,
+          "height": 518
+        }
+      ],
+      "videos": [],
+      "text": "Ab der Scheidegg ging es auf dem breiten Rücken des Kronbergs weiter, vorbei an der schön gelegenen Jakobskapelle."
+    },
+    {
+      "photos": [
+        {
+          "name": "011",
+          "alt": "Grasrücken auf dem Kronberg",
+          "date": "2014-11-02T10:46:44.000+01:00",
+          "width": 1920,
+          "height": 879
+        }
+      ],
+      "videos": [],
+      "text": "Blick zurück, es ist alles sehr harmlos hier."
+    },
+    {
+      "photos": [
+        {
+          "name": "012",
+          "alt": "Ausgetretener Weg zum Gipfel",
+          "date": "2014-11-02T10:54:49.000+01:00",
+          "width": 1920,
+          "height": 564
+        }
+      ],
+      "videos": [],
+      "text": "Und nach vorne Richtung Bergstation, die gerade eine weitere Ladung Wanderer ausgespuckt hatte."
+    },
+    {
+      "photos": [
+        {
+          "name": "013",
+          "alt": "Sehr Lange Bank",
+          "date": "2014-11-02T10:55:44.000+01:00",
+          "width": 1920,
+          "height": 399
+        }
+      ],
+      "videos": [],
+      "text": "Eine lange Bank auf dem Grat."
+    },
+    {
+      "photos": [
+        {
+          "name": "014",
+          "alt": "Blick vom Gipfel zur Bergstation der Kronbergbahn",
+          "date": "2014-11-02T11:03:23.000+01:00",
+          "width": 1920,
+          "height": 707
+        }
+      ],
+      "videos": [],
+      "text": "Den Gipfel hatte ich nach 2h Aufstieg auf 1660m erreicht. Neben den sonnensuchenden Spaziergängern waren auch einige Paraglider unterwegs."
+    },
+    {
+      "photos": [
+        {
+          "name": "015",
+          "alt": "Holzliegen mit Aussicht auf das Nebelmeer",
+          "date": "2014-11-02T11:05:08.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Der Blick auf das Nebelmeer rund um den Bodensee."
+    },
+    {
+      "photos": [
+        {
+          "name": "016",
+          "alt": "Wegweiser auf Kronberg vor Säntis",
+          "date": "2014-11-02T11:13:33.000+01:00",
+          "width": 1592,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Ein Wegweiser an der Bergstation. Im Hintergrund der alles überragende Säntis."
+    },
+    {
+      "photos": [
+        {
+          "name": "017",
+          "alt": "Paraglider auf Kronberg",
+          "date": "2014-11-02T11:17:18.000+01:00",
+          "width": 1726,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Ich hatte mich dann ziemlich schnell an den Abstieg gemacht, zuerst Richtung Säntis. Die Paraglider starteten ebenfalls in diese Richtung, um dann aber schnell rechts herum abzubiegen."
+    },
+    {
+      "photos": [
+        {
+          "name": "018",
+          "alt": "Zaun vor dem Säntis",
+          "date": "2014-11-02T11:31:30.000+01:00",
+          "width": 1920,
+          "height": 555
+        }
+      ],
+      "videos": [],
+      "text": "So bog auch ich nach rechts ab, weiterhin immer auf dem Grat lang."
+    },
+    {
+      "photos": [
+        {
+          "name": "019",
+          "alt": "Wanderweg auf Grat Entlang Eines Zauns",
+          "date": "2014-11-02T11:33:17.000+01:00",
+          "width": 1920,
+          "height": 816
+        }
+      ],
+      "videos": [],
+      "text": "Die Vorschau auf den weiteren Weg. Es ging eigentlich immer entlang dieses Höhenzugs."
+    },
+    {
+      "photos": [
+        {
+          "name": "020",
+          "alt": "Kronberg von Osten",
+          "date": "2014-11-02T11:41:00.000+01:00",
+          "width": 1920,
+          "height": 775
+        }
+      ],
+      "videos": [],
+      "text": "Blick zurück zum Kronberg."
+    },
+    {
+      "photos": [
+        {
+          "name": "021",
+          "alt": "Hangweg zur Petersalp",
+          "date": "2014-11-02T12:09:33.000+01:00",
+          "width": 1920,
+          "height": 811
+        },
+        {
+          "name": "022",
+          "alt": "Petersalp",
+          "date": "2014-11-02T12:11:01.000+01:00",
+          "width": 1920,
+          "height": 855
+        }
+      ],
+      "videos": [],
+      "text": "Nach einem weiteren kleinen Aufstieg erreichte ich die Petersalp (1570m), die einen steilen kleinen Grashang für die Landwirtschaft erschließt."
+    },
+    {
+      "photos": [
+        {
+          "name": "023",
+          "alt": "Grashang mit Aussicht",
+          "date": "2014-11-02T12:18:57.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Hier ebenfalls eine ziemlich schöne Aussicht, so dass ich erst mal eine längere Mittagspause einlegte. Es war inzwischen 12:20."
+    },
+    {
+      "photos": [
+        {
+          "name": "024",
+          "alt": "Nackte Füsse im November",
+          "date": "2014-11-02T12:27:55.000+01:00",
+          "width": 1533,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Ja, typisch November in den Bergen..."
+    },
+    {
+      "photos": [
+        {
+          "name": "025",
+          "alt": "Schneereste vor dem Kronberg",
+          "date": "2014-11-02T12:45:08.000+01:00",
+          "width": 1920,
+          "height": 575
+        }
+      ],
+      "videos": [],
+      "text": "Blick zurück auf den Kronberg und ein paar klägliche Schneereste."
+    },
+    {
+      "photos": [
+        {
+          "name": "026",
+          "alt": "Blick auf Urnäsch",
+          "date": "2014-11-02T12:53:47.000+01:00",
+          "width": 1495,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Anschließend ging es deutlich steiler bergab, um den Bergrücken des Lauftegg zu erreichen. Im Hintergrund befindet sich der kleine Ort Urnäsch."
+    },
+    {
+      "photos": [
+        {
+          "name": "027",
+          "alt": "Rücken des Laufteggs",
+          "date": "2014-11-02T13:08:58.000+01:00",
+          "width": 1920,
+          "height": 726
+        }
+      ],
+      "videos": [],
+      "text": "Nun hatte ich den Rücken des Laufteggs auf 1200m erreicht und nun war ich endgültig aus dem steileren Gelände raus."
+    },
+    {
+      "photos": [
+        {
+          "name": "028",
+          "alt": "Miniaturaufnahme Gross Eugst",
+          "date": "2014-11-02T13:14:27.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Tele auf Gross Eugst auf der anderen Talseite."
+    },
+    {
+      "photos": [
+        {
+          "name": "029",
+          "alt": "Schleierwolkem am Kronberg",
+          "date": "2014-11-02T13:19:36.000+01:00",
+          "width": 1920,
+          "height": 723
+        },
+        {
+          "name": "030",
+          "alt": "Eiswolken über dem Gipfel",
+          "date": "2014-11-02T13:20:00.000+01:00",
+          "width": 1920,
+          "height": 1048
+        }
+      ],
+      "videos": [],
+      "text": "Schöne Eiswolken rund um den Kronberg."
+    },
+    {
+      "photos": [
+        {
+          "name": "031",
+          "alt": "Fahrweg Lauftegg mit Bauernhaus",
+          "date": "2014-11-02T13:24:07.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Ab jetzt war es wieder hauptsächlich Fahrweg - weiterhin immer auf dem Grat lang."
+    },
+    {
+      "photos": [
+        {
+          "name": "032",
+          "alt": "Panorama Kronberg Säntis Zimmermanns",
+          "date": "2014-11-02T13:30:38.000+01:00",
+          "width": 1920,
+          "height": 397
+        }
+      ],
+      "videos": [],
+      "text": "Da es sich langsam abzeichnete, dass ich zu früh am Auto sein würde, war Zeit für eine weitere gemütliche Pause bei Zimmermanns - Lauftegg. Hier ist fast der gesamte Weg sichtbar. Von links gings hinauf auf den Kronberg, dann über den kleinen Pass auf die rechten Höhen und anschließend zum aktuellen Standpunkt."
+    },
+    {
+      "photos": [
+        {
+          "name": "033",
+          "alt": "Stachlige Blume vor Zaun",
+          "date": "2014-11-02T13:47:12.000+01:00",
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "name": "034",
+          "alt": "Gänseblumen",
+          "date": "2014-11-02T13:48:08.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Blümchen."
+    },
+    {
+      "photos": [
+        {
+          "name": "035",
+          "alt": "Kondensstreifen vor abgestorbenem Baum",
+          "date": "2014-11-02T14:01:29.000+01:00",
+          "width": 1673,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Die Wolken und Kondensstreifen hatten es mir irgendwie angetan."
+    },
+    {
+      "photos": [
+        {
+          "name": "036",
+          "alt": "Skilift Lauftegg mit Pferden vor Gonten",
+          "date": "2014-11-02T14:03:16.000+01:00",
+          "width": 1791,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "An der Bergstation des eingestellten Skilift Lauftegg. Im Hintergrund der Ort Gonten."
+    },
+    {
+      "photos": [
+        {
+          "name": "038",
+          "alt": "Wanderweg in herbstlichen Wald",
+          "date": "2014-11-02T14:10:05.000+01:00",
+          "width": 1605,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Ab hier wurde es wieder steiler und ich verließ den Fahrweg."
+    },
+    {
+      "photos": [
+        {
+          "name": "040",
+          "alt": "Steile Trasse des Skilift Lauftegg",
+          "date": "2014-11-02T14:12:17.000+01:00",
+          "width": 845,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Die steile Trasse des ehemaligen Schlepplifts Lauftegg. Da sind die Kinder früher im Skikurs regelmäßig rausgeflogen..."
+    },
+    {
+      "photos": [
+        {
+          "name": "041",
+          "alt": "Skilift Lauftegg vor Gonten",
+          "date": "2014-11-02T14:16:39.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Für Skilift-Nostalgiker hier noch ein weiteres Bild des Schlepplifts und Gonten."
+    },
+    {
+      "photos": [
+        {
+          "name": "042",
+          "alt": "Talstation Seilbahn Kronberg mit vollem Parkplatz",
+          "date": "2014-11-02T14:24:02.000+01:00",
+          "width": 1815,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Inzwischen war ordentlich Rummel an der Talstation in Jakobsbad. Die Abkehr der Bergbahnen vom Skibetrieb dürfte sich ausgezahlt haben."
+    },
+    {
+      "photos": [
+        {
+          "name": "043",
+          "alt": "Miniaturaufnahme Kloster Jakobsbad",
+          "date": "2014-11-02T14:26:01.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Das Kloster neben der Talstation (das eigentliche Jakobsbad)."
+    },
+    {
+      "photos": [
+        {
+          "name": "044",
+          "alt": "Miniaturaufnahme Appenzeller Bauernhof",
+          "date": "2014-11-02T14:26:22.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Und dahinter Bauernhäuser in der typischen Appenzeller Bauweise."
+    },
+    {
+      "photos": [
+        {
+          "name": "045",
+          "alt": "Kronbergbahn Talstation",
+          "date": "2014-11-02T14:29:23.000+01:00",
+          "width": 1920,
+          "height": 853
+        }
+      ],
+      "videos": [],
+      "text": "Die Talstation hatte ich um 14:30 erreicht. Neben der Seilbahn gibt es dort inzwischen eine Sommerrodelbahn mit langer Warteschlange, ein Hochseilpark, ein Abenteuerspielplatz und ein modernes, kleines Restaurant."
+    },
+    {
+      "photos": [
+        {
+          "name": "046",
+          "alt": "Wanderkarte Appenzellerland",
+          "date": "2014-11-02T14:35:26.000+01:00",
+          "width": 1782,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Wanderkarte. Etwas übertrieben, denn von diesem Standort dürfte nur ein Bruchteil erreichbar sein."
+    },
+    {
+      "photos": [
+        {
+          "name": "track1",
+          "alt": "Wegstrecke Jakobsbad Kronberg",
+          "width": 1280,
+          "height": 655
+        },
+        {
+          "name": "track2",
+          "alt": "Höhenprofil Jakobsbad Kronberg",
+          "width": 1280,
+          "height": 289
+        }
+      ],
+      "videos": [],
+      "text": "Gelaufene Strecke. 15km und 1100m rauf + runter in 5:30h."
+    }
+  ],
+  "outro": "Fazit: Schöne, einfache Runde bei bestem Wetter. Zum Teil aber etwas überlaufen und zu gut ausgebaut.<br />\n<span data-silent>Jetzt sind aber die Winterreifen drauf und die Skier beim Schleifen, d.h. bald Schluss mit Wandern.</span>"
+}

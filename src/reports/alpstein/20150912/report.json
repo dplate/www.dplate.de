@@ -1,914 +1,912 @@
-[
-  {
-    "destination": "alpstein",
-    "date": "d20150912",
-    "type": "hike",
-    "track": true,
-    "detailMap": "swiss",
-    "shortTitle": "Lisengrat",
-    "title": "Wildhaus - Lisengrat",
-    "title3d": {
-      "align": "left",
-      "offsetY": 0,
-      "fontSize": 8.2,
-      "width": 1920,
-      "height": 482
+{
+  "destination": "alpstein",
+  "date": "d20150912",
+  "type": "hike",
+  "track": true,
+  "detailMap": "swiss",
+  "shortTitle": "Lisengrat",
+  "title": "Wildhaus - Lisengrat",
+  "title3d": {
+    "align": "left",
+    "offsetY": 0,
+    "fontSize": 8.2,
+    "width": 1920,
+    "height": 482
+  },
+  "movie": "eJE7RJtdqB4",
+  "intro": "Ohne große Vorplanung entschloss ich mich diesen Samstag eine Wanderung im Alpstein zu unternehmen. Der ursprüngliche, grobe Plan war von Wildhaus auf den Rotsteinpass zu laufen, dann hinüber zur Zwinglipasshütte und wieder runter nach Wildhaus.<br />\nNoch im Dunklen ging es mit dem Auto los und um kurz vor halb acht erreichte ich den Parkplatz der kleinen Gondelbahn Gamplüt. Da diese Bahn aber nur knapp 300 Höhenmeter überwindet und zu dem erst ab 8:30 fahren würde, verzichtete ich.",
+  "landmarks": [
+    {
+      "photos": [
+        {
+          "name": "001",
+          "alt": "Sonnenaufgang Wildhaus",
+          "date": "2015-09-12T07:24:38.000+02:00",
+          "width": 1920,
+          "height": 568
+        }
+      ],
+      "videos": [],
+      "text": "Der Himmel war noch bewölkt, aber die ersten Sonnenstrahlen kämpften sich bereits über die österreichischen Gipfel."
     },
-    "movie": "eJE7RJtdqB4",
-    "intro": "Ohne große Vorplanung entschloss ich mich diesen Samstag eine Wanderung im Alpstein zu unternehmen. Der ursprüngliche, grobe Plan war von Wildhaus auf den Rotsteinpass zu laufen, dann hinüber zur Zwinglipasshütte und wieder runter nach Wildhaus.<br />\nNoch im Dunklen ging es mit dem Auto los und um kurz vor halb acht erreichte ich den Parkplatz der kleinen Gondelbahn Gamplüt. Da diese Bahn aber nur knapp 300 Höhenmeter überwindet und zu dem erst ab 8:30 fahren würde, verzichtete ich.",
-    "landmarks": [
-      {
-        "photos": [
-          {
-            "name": "001",
-            "alt": "Sonnenaufgang Wildhaus",
-            "date": "2015-09-12T07:24:38.000+02:00",
-            "width": 1920,
-            "height": 568
-          }
-        ],
-        "videos": [],
-        "text": "Der Himmel war noch bewölkt, aber die ersten Sonnenstrahlen kämpften sich bereits über die österreichischen Gipfel."
-      },
-      {
-        "photos": [
-          {
-            "name": "002",
-            "alt": "Waldweg in Morgenlicht mit Bank",
-            "date": "2015-09-12T07:27:52.000+02:00",
-            "width": 1920,
-            "height": 890
-          }
-        ],
-        "videos": [],
-        "text": "Auf altem Weg ging es ein paar Serpentinen im Wald hinauf."
-      },
-      {
-        "photos": [
-          {
-            "name": "005",
-            "alt": "Fahrweg auf Gamplüt",
-            "date": "2015-09-12T07:52:02.000+02:00",
-            "width": 1920,
-            "height": 1018
-          }
-        ],
-        "videos": [],
-        "text": "Von Gamplüt ging es dann auf einem Fahrweg leicht bergab. Es ist immer etwas traurig, unnötig Höhenmeter zu verlieren..."
-      },
-      {
-        "photos": [
-          {
-            "name": "006",
-            "alt": "Wanderweg Gamplüt Rotsteinpass",
-            "date": "2015-09-12T08:16:22.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Dann ging es aber wieder von der Straße runter und der Weg führte (quer zum Hang) hinüber ins Tal, das zum Rotsteinpass geht. Zum ersten Mal tauchte hier der markante Säntisgipfel auf. Bis dort hin sind es aber mehr als 4h Aufstieg."
-      },
-      {
-        "photos": [
-          {
-            "name": "008",
-            "alt": "Serpentinen zum Rotsteinpass",
-            "date": "2015-09-12T09:09:17.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "In besagtem Tal ging es erst steil auf einer Fahrstraße bergauf und dann weiter auf einem Bergweg über viele kleine Kurven. Hier der Blick hinab. Alles noch schattig - was beim Aufstieg aber nicht das Schlimmste ist."
-      },
-      {
-        "photos": [
-          {
-            "name": "009",
-            "alt": "Silhouette Pferd am Gasthaus Schafboden",
-            "date": "2015-09-12T09:20:29.000+02:00",
-            "width": 1535,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Vorbei ging es am 1700m hohen Gasthaus Schafboden. Neben dem Pferd gab es dort noch Schweine und Ziegen - aber keine Schafe.<br />\nIch war schon 2 Stunden unterwegs und hatte 700 Höhenmeter geschafft."
-      },
-      {
-        "photos": [
-          {
-            "name": "010",
-            "alt": "Schmaler Pfad an steilem Grashang",
-            "date": "2015-09-12T09:43:52.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Etwas verführt vom optimistischen Wegweiser mit einer Stunde und zehn Minuten zum Säntis, entschied ich mich vom schattigen Talweg abzuzweigen und statt dessen den Direktaufstieg in Richtung Säntis zu nehmen. Dieser Weg führt zuerst steil den Grashang hinauf."
-      },
-      {
-        "photos": [
-          {
-            "name": "011",
-            "alt": "Blick ins Toggenburg",
-            "date": "2015-09-12T10:03:05.000+02:00",
-            "width": 1920,
-            "height": 815
-          }
-        ],
-        "videos": [],
-        "text": "Der Weg war zum Teil ziemlich ausgesetzt und auch nicht übermäßig gesichert, aber die Aussicht wurde schnell lohnend."
-      },
-      {
-        "photos": [
-          {
-            "name": "012",
-            "alt": "Steile Felsen am Säntis",
-            "date": "2015-09-12T10:14:42.000+02:00",
-            "width": 1920,
-            "height": 823
-          }
-        ],
-        "videos": [],
-        "text": "Noch ein Stück weiter - typisch Alpstein."
-      },
-      {
-        "photos": [
-          {
-            "name": "013",
-            "alt": "Weg am Abgrund",
-            "date": "2015-09-12T10:15:02.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Und ja, es war angsteinflößend steil."
-      },
-      {
-        "photos": [
-          {
-            "name": "014",
-            "alt": "Antenne des Säntis bei steilem Aufstieg",
-            "date": "2015-09-12T10:15:57.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Dann erreichte der Weg einen Grat und die Antenne des Säntis wirkte schon recht nah."
-      },
-      {
-        "photos": [
-          {
-            "name": "015",
-            "alt": "Steiler Weg zum Säntis",
-            "date": "2015-09-12T10:18:55.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "So ging es bergauf. Es war eine ganz schöne Kraxelei. Murmeltiere und Gämsen wurden von mir aufgeschreckt und flüchteten vor der Kamera durch das steile Gelände."
-      },
-      {
-        "photos": [
-          {
-            "name": "017",
-            "alt": "Wanderweg mit Blick ins Toggenburg",
-            "date": "2015-09-12T10:33:28.000+02:00",
-            "width": 1920,
-            "height": 843
-          }
-        ],
-        "videos": [],
-        "text": "Der Weg: wie man sieht war er auch nicht übermäßig begangen."
-      },
-      {
-        "photos": [
-          {
-            "name": "018",
-            "alt": "Alter Doppeldecker am Säntis",
-            "date": "2015-09-12T10:41:00.000+02:00",
-            "width": 1830,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Ein alter Doppeldecker, der lautstark ein paar Runden um den Säntis drehte."
-      },
-      {
-        "photos": [
-          {
-            "name": "019",
-            "alt": "Panorama vom Säntis zum Toggenburg",
-            "date": "2015-09-12T10:50:31.000+02:00",
-            "width": 1920,
-            "height": 702
-          },
-          {
-            "name": "020",
-            "alt": "Schotterweg mit Abgrund",
-            "date": "2015-09-12T10:50:48.000+02:00",
-            "width": 1920,
-            "height": 669
-          }
-        ],
-        "videos": [],
-        "text": "Hier war ich fast oben. Blick hinab auf den bewältigten Aufstieg. Abwärts würde ich ihn aber nicht gerne machen."
-      },
-      {
-        "photos": [
-          {
-            "name": "021",
-            "alt": "Gipfel des Säntis",
-            "date": "2015-09-12T10:54:26.000+02:00",
-            "width": 1778,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Nach viel Gekeuche und Geschwitze erreichte ich den Lisengrat beim <a href=\"/alpine/alpstein/20160911\">Säntis</a>. Nun wären es noch 20min bis zum zugebauten 2500m hohen Gipfel. Aber darauf verzichtete ich, denn ich hatte noch einiges Andere vor."
-      },
-      {
-        "photos": [
-          {
-            "name": "022",
-            "alt": "Panorama Säntis Richtung Seealpsee",
-            "date": "2015-09-12T10:56:12.000+02:00",
-            "width": 1920,
-            "height": 598
-          }
-        ],
-        "videos": [],
-        "text": "Inzwischen war ich 3,5h mit hauptsächlich Aufstieg unterwegs, deshalb eine verdiente Pause auf dem Grat und Blick auf der anderen Seite hinab Richtung Appenzell."
-      },
-      {
-        "photos": [
-          {
-            "name": "023",
-            "alt": "Schäfler und Ebenalp vom Säntis",
-            "date": "2015-09-12T10:56:45.000+02:00",
-            "width": 1920,
-            "height": 1041
-          }
-        ],
-        "videos": [],
-        "text": "Tele <a href=\"/alpine/alpstein/20140622\">zum Schäfler und zur Ebenalp</a>. Im Hintergrund das östliche Ende des Bodensees."
-      },
-      {
-        "photos": [
-          {
-            "name": "024",
-            "alt": "Wegweiser Lisengrat mit Churfirsten",
-            "date": "2015-09-12T10:57:23.000+02:00",
-            "width": 1734,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Nun aber los zum Rotsteinpass. Dieser Weg ist der bekannte (und wie man sieht schon sehr alte) Lisengratweg. Den wollte ich schon immer mal gehen und ich freute mich, dass es nun (mehr zufällig) dazu kam.<br />\nIm Hintergrund übrigens die Churfirsten."
-      },
-      {
-        "photos": [
-          {
-            "name": "025",
-            "alt": "Einstieg zum Lisengrat",
-            "date": "2015-09-12T11:03:46.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Zu Beginn war der Weg noch harmlos, aber bereits gut gesichert."
-      },
-      {
-        "photos": [
-          {
-            "name": "026",
-            "alt": "Felswand des Lisengrat",
-            "date": "2015-09-12T11:11:17.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Dann wurde es aber schnell wahnsinnig spektakulär. 😃"
-      },
-      {
-        "photos": [
-          {
-            "name": "027",
-            "alt": "Drahtseil am Weg des Lisengrats",
-            "date": "2015-09-12T11:12:19.000+02:00",
-            "width": 720,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Und immer weiter ging es mitten durch eine Felswand."
-      },
-      {
-        "photos": [
-          {
-            "name": "028",
-            "alt": "Extremer Wanderweg durch den Fels",
-            "date": "2015-09-12T11:14:55.000+02:00",
-            "width": 1378,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Und hier ging es durch den Fels hinauf."
-      },
-      {
-        "photos": [
-          {
-            "name": "029",
-            "alt": "Steintreppe auf Lisengrat",
-            "date": "2015-09-12T11:18:24.000+02:00",
-            "width": 720,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Und dann auf die andere Seite des Grats zum verrücktesten Abschnitt des Wegs. Rechts gings übrigens weit runter."
-      },
-      {
-        "photos": [
-          {
-            "name": "030",
-            "alt": "Blick vom Lisengrat zum Säntis",
-            "date": "2015-09-12T11:20:03.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Blick zurück auf den bisher zurückgelegten Weg. Ehrlich gesagt habe ich keine Ahnung, wie man auf die Idee kommt hier einen Weg hindurch zu bauen."
-      },
-      {
-        "photos": [
-          {
-            "name": "031",
-            "alt": "Panorama Listengrat",
-            "date": "2015-09-12T11:21:24.000+02:00",
-            "width": 1920,
-            "height": 777
-          }
-        ],
-        "videos": [],
-        "text": "Und noch mal der selbe Blick, weil es so unglaublich ist."
-      },
-      {
-        "photos": [
-          {
-            "name": "032",
-            "alt": "Blick vom Lisengrat zum Rotsteinpass",
-            "date": "2015-09-12T11:22:20.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Ausblick auf den weiteren Verlauf des Wegs. Am Ende des Wegs und noch im Schatten ist bereits die Rotsteinpasshütte zu sehen. Der Berg rechts ist der Altmann und die Felswand dazwischen wird noch relevant werden."
-      },
-      {
-        "photos": [
-          {
-            "name": "033",
-            "alt": "Hoher Kasten neben Altmann",
-            "date": "2015-09-12T11:40:25.000+02:00",
-            "width": 1920,
-            "height": 932
-          }
-        ],
-        "videos": [],
-        "text": "Tele zum Hohen Kasten."
-      },
-      {
-        "photos": [
-          {
-            "name": "034",
-            "alt": "Blick vom Rotsteinpass zum Säntis",
-            "date": "2015-09-12T11:41:44.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Nach dem Abstieg nun in harmloserem Gelände. Von der Spitze links des Säntis ging der Weg runter (ja, wirklich!)."
-      },
-      {
-        "photos": [
-          {
-            "name": "035",
-            "alt": "Route zum Altmannsattel",
-            "date": "2015-09-12T11:44:50.000+02:00",
-            "width": 1891,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Am Rotsteinpass kam ich gegen 12:00 an."
-      },
-      {
-        "photos": [
-          {
-            "name": "036",
-            "alt": "Wanderweg Meglisalp Rotsteinpass",
-            "date": "2015-09-12T12:01:28.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Aber bevor ich weiter ging, gab es erst mal ein erfrischendes Getränk auf der Terrasse der Hütte. Hier der Blick hinab Richtung Appenzell."
-      },
-      {
-        "photos": [
-          {
-            "name": "037",
-            "alt": "Gasthaus Rotsteinpass",
-            "date": "2015-09-12T12:07:29.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Die Rotsteinpasshütte mit ihrer neuen Transportseilbahn."
-      },
-      {
-        "photos": [
-          {
-            "name": "038",
-            "alt": "Bergweg mit Drahtseil und Metalltritten",
-            "date": "2015-09-12T12:11:17.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Der Weg hinauf zum Altmannsattel fing gleich knackig an. Da er aber ebenfalls sehr gut abgesichert ist, war es nicht wirklich gefährlich."
-      },
-      {
-        "photos": [
-          {
-            "name": "039",
-            "alt": "Felsiger Wanderweg von Rotsteinpass zum Altmannsattel",
-            "date": "2015-09-12T12:12:54.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Und weiter ging es... ein Höhepunkt nach dem anderen."
-      },
-      {
-        "photos": [
-          {
-            "name": "040",
-            "alt": "Rotsteinpass vom Altmannsattel",
-            "date": "2015-09-12T12:16:26.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Der Blick hinab zum Rotsteinpass."
-      },
-      {
-        "photos": [
-          {
-            "name": "041",
-            "alt": "Steile Rinne zum Altmannsattel",
-            "date": "2015-09-12T12:26:32.000+02:00",
-            "width": 720,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Das letzte Stück führt durch eine sehr steile Rinne bergauf. Zum Teil muss man sich am Seil nach oben ziehen."
-      },
-      {
-        "photos": [
-          {
-            "name": "042",
-            "alt": "Gefährlicher Abgrund am Altmannsattel",
-            "date": "2015-09-12T12:29:12.000+02:00",
-            "width": 1920,
-            "height": 892
-          }
-        ],
-        "videos": [],
-        "text": "Hier hatte ich es fast geschafft. Der Blick hinab. Es gab nicht viele Möglichkeiten, die Kamera herauszukramen."
-      },
-      {
-        "photos": [
-          {
-            "name": "043",
-            "alt": "Blick vom Altmannsattel zum Lisengrat und Säntis",
-            "date": "2015-09-12T12:34:22.000+02:00",
-            "width": 1489,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Und der Blick hinüber zum Lisengrat und Säntis."
-      },
-      {
-        "photos": [
-          {
-            "name": "044",
-            "alt": "Altmannsattel Richtung Schafberg",
-            "date": "2015-09-12T12:37:58.000+02:00",
-            "width": 1920,
-            "height": 736
-          }
-        ],
-        "videos": [],
-        "text": "Hier hatte ich den Grat erreicht. 😃 Auf der anderen Seite ist er zwar nicht so steil, aber auch nicht gerade flach. Der Grat führt zum Schafberg und auf diesem Grat führt auch ein Weg dorthin. Dieser ist aber ein schlechter gesicherter blau/weiß markierter Weg... nichts für mich."
-      },
-      {
-        "photos": [
-          {
-            "name": "045",
-            "alt": "Gipfel des Altmanns",
-            "date": "2015-09-12T12:40:34.000+02:00",
-            "width": 1920,
-            "height": 809
-          }
-        ],
-        "videos": [],
-        "text": "Und auch den Altmann-Gipfel ließ ich links liegen. Auch wenn da einige drauf unterwegs waren, bin ich dafür nicht mutig genug."
-      },
-      {
-        "photos": [
-          {
-            "name": "046",
-            "alt": "Altmann",
-            "date": "2015-09-12T12:59:24.000+02:00",
-            "width": 720,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Hier bereits beim Abstieg: der Altmann von der Seite aus betrachtet. Ein sehr krasser Gipfel, auf dem auch einige Kletterer unterwegs waren."
-      },
-      {
-        "photos": [
-          {
-            "name": "047",
-            "alt": "Wanderweg Altmann Zwinglipass",
-            "date": "2015-09-12T13:03:58.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Mein Weg führte dagegen nun deutlich entspannter durch das schöne Karstgebiet."
-      },
-      {
-        "photos": [
-          {
-            "name": "048",
-            "alt": "Gasthaus Zwinglipass",
-            "date": "2015-09-12T13:23:34.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Bis hin zur Zwinglipasshütte. Ich machte aber nur nebenan im Gras eine weitere Pause."
-      },
-      {
-        "photos": [
-          {
-            "name": "049",
-            "alt": "Blick Zwinglipass Altmannsattel",
-            "date": "2015-09-12T13:23:45.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Der Blick zurück auf den Abstieg.<br />\nDa es erst um 13:30 war, entschied ich mich, nicht den direkt Abstieg zu machen, sondern weiter auf dem Bergrücken zum Mutschensattel zu gehen. Dieser Umweg bedeutete gut 1.5h zusätzlich."
-      },
-      {
-        "photos": [
-          {
-            "name": "050",
-            "alt": "Gämsen am Zwinglipass",
-            "date": "2015-09-12T13:38:33.000+02:00",
-            "width": 1652,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Auf dem Zwinglipass rannte eine Gruppe Gämsen vorbei. Diesmal entkamen sie aber nicht meiner Kamera. 😃"
-      },
-      {
-        "photos": [
-          {
-            "name": "051",
-            "alt": "Blick vom Zwinglipass zum Fälensee und Hoher Kasten",
-            "date": "2015-09-12T13:38:59.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Der Blick vom Zwinglipass runter zum Fälensee, an dessen Ende das große Berggasthaus Bollenwees liegt. Im Hintergrund wieder der <a href=\"/alpine/alpstein/20131019\">Hohe Kasten</a>."
-      },
-      {
-        "photos": [
-          {
-            "name": "052",
-            "alt": "Wanderweg Zwinglipass Mutschensattel",
-            "date": "2015-09-12T13:49:16.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Hier kann man den weiteren Verlauf des Wegs sehen. Praktisch immer auf dem Rücken lang."
-      },
-      {
-        "photos": [
-          {
-            "name": "053",
-            "alt": "Altmann von Süden",
-            "date": "2015-09-12T13:52:18.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Der Blick zurück zum Altmann. Links davon war ich durchgekommen."
-      },
-      {
-        "photos": [
-          {
-            "name": "055",
-            "alt": "Grasrücken im Alpstein",
-            "date": "2015-09-12T13:57:00.000+02:00",
-            "width": 1920,
-            "height": 1026
-          },
-          {
-            "name": "056",
-            "alt": "Harmloser Wanderweg zum Mutschen",
-            "date": "2015-09-12T13:58:13.000+02:00",
-            "width": 1920,
-            "height": 818
-          }
-        ],
-        "videos": [],
-        "text": "Und so harmlos sah es oben auf dem Rücken aus. Erst der Blick zurück und dann nach vorne."
-      },
-      {
-        "photos": [
-          {
-            "name": "057",
-            "alt": "Felswände im Alpstein",
-            "date": "2015-09-12T14:00:59.000+02:00",
-            "width": 1620,
-            "height": 1080
-          },
-          {
-            "name": "058",
-            "alt": "Felsformationen und Altmann",
-            "date": "2015-09-12T14:04:28.000+02:00",
-            "width": 1920,
-            "height": 1074
-          }
-        ],
-        "videos": [],
-        "text": "Von diesem beschaulichen Weg aus hat man aber die ganze Zeit die krassen Felsformationen des Alpsteins im Blick."
-      },
-      {
-        "photos": [
-          {
-            "name": "059",
-            "alt": "Mutschensattel",
-            "date": "2015-09-12T14:11:41.000+02:00",
-            "width": 1897,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Der Mutschensattel war nun fast erreicht. Rechts davon der Mutschen."
-      },
-      {
-        "photos": [
-          {
-            "name": "060",
-            "alt": "Felsen im Alpstein",
-            "date": "2015-09-12T14:16:03.000+02:00",
-            "width": 1920,
-            "height": 825
-          }
-        ],
-        "videos": [],
-        "text": "Davor aber noch mal der Blick in die Felslandschaft."
-      },
-      {
-        "photos": [
-          {
-            "name": "061",
-            "alt": "Blick vom Mutschensattel zu Kreuzbergen",
-            "date": "2015-09-12T14:21:57.000+02:00",
-            "width": 1920,
-            "height": 945
-          }
-        ],
-        "videos": [],
-        "text": "Auf dem Mutschensattel angekommen konnte ich nun auch die Kreuzberge sehen."
-      },
-      {
-        "photos": [
-          {
-            "name": "062",
-            "alt": "Panorama Mutschen Rheintal",
-            "date": "2015-09-12T14:47:03.000+02:00",
-            "width": 1920,
-            "height": 650
-          }
-        ],
-        "videos": [],
-        "text": "Da ich nun schon so weit gelaufen war, mussten natürlich die zusätzlich 10min hoch zum Mutschen auch noch sein. Auf der Rückseite fällt dieser Grasbuckel 1500m steil zum Rheintal ab. Auf diesen Panoramabildern kommt das immer nicht so rüber: Aber es kostete schon Überwindung, sich überhaupt über die Kante zu trauen, um sich hinzusetzen."
-      },
-      {
-        "photos": [
-          {
-            "name": "063",
-            "alt": "Blick Mutschen Altmann",
-            "date": "2015-09-12T14:48:05.000+02:00",
-            "width": 1920,
-            "height": 866
-          }
-        ],
-        "videos": [],
-        "text": "Der Blick vom Gipfel Richtung Altmann."
-      },
-      {
-        "photos": [
-          {
-            "name": "064",
-            "alt": "Vom Mutschen zu den Kreuzbergen",
-            "date": "2015-09-12T14:50:28.000+02:00",
-            "width": 1920,
-            "height": 867
-          }
-        ],
-        "videos": [],
-        "text": "Und noch mal die Kreuzberge."
-      },
-      {
-        "photos": [
-          {
-            "name": "065",
-            "alt": "Wanderweg Mutschen Wildhaus",
-            "date": "2015-09-12T14:58:36.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Da es jetzt doch schon kurz vor drei war, musste ich mich mal langsam an den Abstieg machen... denn das sind auch noch 2,5h Gehzeit und 1000 Höhenmeter. Insgesamt ging es aber nun nur noch durch dieses Tal bergab."
-      },
-      {
-        "photos": [
-          {
-            "name": "066",
-            "alt": "Lila Blumenwiese",
-            "date": "2015-09-12T15:26:52.000+02:00",
-            "width": 1620,
-            "height": 1080
-          },
-          {
-            "name": "067",
-            "alt": "Blauer kleiner Käfer",
-            "date": "2015-09-12T15:28:24.000+02:00",
-            "width": 1896,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Lila Blumenwiesen und lila Käfer. Leider ist er mir immer wieder aus dem Fokus gekrabbelt."
-      },
-      {
-        "photos": [
-          {
-            "name": "068",
-            "alt": "Alp Grueb in Felssturz",
-            "date": "2015-09-12T15:34:05.000+02:00",
-            "width": 1920,
-            "height": 836
-          }
-        ],
-        "videos": [],
-        "text": "Vorbei an der Alp Grueb, die mitten in einem Felsbruch gebaut ist und wo gerade der Alpabtrieb der Ziegen vorbereitet wurde."
-      },
-      {
-        "photos": [
-          {
-            "name": "069",
-            "alt": "Felswände Schafberg",
-            "date": "2015-09-12T16:06:39.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Und es ging immer weiter bergab. Rechts die steilen Felswände des Schafbergs."
-      },
-      {
-        "photos": [
-          {
-            "name": "070",
-            "alt": "Ziegen in Alpen",
-            "date": "2015-09-12T16:13:46.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Und verfolgt wurde ich unter lautem Gebimmel von Ziegen."
-      },
-      {
-        "photos": [
-          {
-            "name": "071",
-            "alt": "Wanderweg Teselalp",
-            "date": "2015-09-12T16:19:25.000+02:00",
-            "width": 1620,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Ab der Teselalp ging es ein Stück auf Schotterweg weiter. Trotz zügigem Wind war es ziemlich warm..."
-      },
-      {
-        "photos": [
-          {
-            "name": "072",
-            "alt": "Flürentobel",
-            "date": "2015-09-12T16:43:24.000+02:00",
-            "width": 813,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Dann ging der Wanderweg von der Straße (die nach Gamplüt führt) ab und führte durch den Flürentobel hinab. Für die landschaftliche Schönheit hatte ich nun nicht mehr viel übrig. Meine Beine hatten einfach genug."
-      },
-      {
-        "photos": [
-          {
-            "name": "073",
-            "alt": "Vermoostes Bachbett",
-            "date": "2015-09-12T17:14:40.000+02:00",
-            "width": 918,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Am Schluss noch durch ein total vermoostes Bachbett. Leider - wie alle an diesem Tag - ausgetrocknet."
-      },
-      {
-        "photos": [
-          {
-            "name": "074",
-            "alt": "Wildhaus",
-            "date": "2015-09-12T17:19:34.000+02:00",
-            "width": 1833,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Geschafft. Um 17:30 wieder am Auto in Wildhaus und auf der Rückfahrt noch ein erfrischendes Bad bei Sonnenuntergang im Bodensee."
-      },
-      {
-        "photos": [
-          {
-            "name": "track1",
-            "alt": "Wegstrecke Lisengrat Zwinglipass Mutschen",
-            "width": 1280,
-            "height": 655
-          },
-          {
-            "name": "track2",
-            "alt": "Höhenprofil Listengrat Zwinglipass Mutschen",
-            "width": 1280,
-            "height": 211
-          }
-        ],
-        "videos": [],
-        "text": "Zurückgelegte Strecke. Lange 21km mit 2000 Höhenmetern innerhalb von 10h."
-      }
-    ],
-    "outro": "Fazit: Eine Tour mit einem Spektakel nach dem anderen. Für einen Tag waren es fast zu viele Eindrücke und Erlebnisse (deshalb auch so viele Fotos). Auch von der Wegstrecke würde ich eher empfehlen, es aus mehrere Tage aufzuteilen. Oder man beginnt beim Säntis und fährt anschließend mit dem Postauto zurück zur Schwägalp."
-  }
-]
+    {
+      "photos": [
+        {
+          "name": "002",
+          "alt": "Waldweg in Morgenlicht mit Bank",
+          "date": "2015-09-12T07:27:52.000+02:00",
+          "width": 1920,
+          "height": 890
+        }
+      ],
+      "videos": [],
+      "text": "Auf altem Weg ging es ein paar Serpentinen im Wald hinauf."
+    },
+    {
+      "photos": [
+        {
+          "name": "005",
+          "alt": "Fahrweg auf Gamplüt",
+          "date": "2015-09-12T07:52:02.000+02:00",
+          "width": 1920,
+          "height": 1018
+        }
+      ],
+      "videos": [],
+      "text": "Von Gamplüt ging es dann auf einem Fahrweg leicht bergab. Es ist immer etwas traurig, unnötig Höhenmeter zu verlieren..."
+    },
+    {
+      "photos": [
+        {
+          "name": "006",
+          "alt": "Wanderweg Gamplüt Rotsteinpass",
+          "date": "2015-09-12T08:16:22.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Dann ging es aber wieder von der Straße runter und der Weg führte (quer zum Hang) hinüber ins Tal, das zum Rotsteinpass geht. Zum ersten Mal tauchte hier der markante Säntisgipfel auf. Bis dort hin sind es aber mehr als 4h Aufstieg."
+    },
+    {
+      "photos": [
+        {
+          "name": "008",
+          "alt": "Serpentinen zum Rotsteinpass",
+          "date": "2015-09-12T09:09:17.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "In besagtem Tal ging es erst steil auf einer Fahrstraße bergauf und dann weiter auf einem Bergweg über viele kleine Kurven. Hier der Blick hinab. Alles noch schattig - was beim Aufstieg aber nicht das Schlimmste ist."
+    },
+    {
+      "photos": [
+        {
+          "name": "009",
+          "alt": "Silhouette Pferd am Gasthaus Schafboden",
+          "date": "2015-09-12T09:20:29.000+02:00",
+          "width": 1535,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Vorbei ging es am 1700m hohen Gasthaus Schafboden. Neben dem Pferd gab es dort noch Schweine und Ziegen - aber keine Schafe.<br />\nIch war schon 2 Stunden unterwegs und hatte 700 Höhenmeter geschafft."
+    },
+    {
+      "photos": [
+        {
+          "name": "010",
+          "alt": "Schmaler Pfad an steilem Grashang",
+          "date": "2015-09-12T09:43:52.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Etwas verführt vom optimistischen Wegweiser mit einer Stunde und zehn Minuten zum Säntis, entschied ich mich vom schattigen Talweg abzuzweigen und statt dessen den Direktaufstieg in Richtung Säntis zu nehmen. Dieser Weg führt zuerst steil den Grashang hinauf."
+    },
+    {
+      "photos": [
+        {
+          "name": "011",
+          "alt": "Blick ins Toggenburg",
+          "date": "2015-09-12T10:03:05.000+02:00",
+          "width": 1920,
+          "height": 815
+        }
+      ],
+      "videos": [],
+      "text": "Der Weg war zum Teil ziemlich ausgesetzt und auch nicht übermäßig gesichert, aber die Aussicht wurde schnell lohnend."
+    },
+    {
+      "photos": [
+        {
+          "name": "012",
+          "alt": "Steile Felsen am Säntis",
+          "date": "2015-09-12T10:14:42.000+02:00",
+          "width": 1920,
+          "height": 823
+        }
+      ],
+      "videos": [],
+      "text": "Noch ein Stück weiter - typisch Alpstein."
+    },
+    {
+      "photos": [
+        {
+          "name": "013",
+          "alt": "Weg am Abgrund",
+          "date": "2015-09-12T10:15:02.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Und ja, es war angsteinflößend steil."
+    },
+    {
+      "photos": [
+        {
+          "name": "014",
+          "alt": "Antenne des Säntis bei steilem Aufstieg",
+          "date": "2015-09-12T10:15:57.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Dann erreichte der Weg einen Grat und die Antenne des Säntis wirkte schon recht nah."
+    },
+    {
+      "photos": [
+        {
+          "name": "015",
+          "alt": "Steiler Weg zum Säntis",
+          "date": "2015-09-12T10:18:55.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "So ging es bergauf. Es war eine ganz schöne Kraxelei. Murmeltiere und Gämsen wurden von mir aufgeschreckt und flüchteten vor der Kamera durch das steile Gelände."
+    },
+    {
+      "photos": [
+        {
+          "name": "017",
+          "alt": "Wanderweg mit Blick ins Toggenburg",
+          "date": "2015-09-12T10:33:28.000+02:00",
+          "width": 1920,
+          "height": 843
+        }
+      ],
+      "videos": [],
+      "text": "Der Weg: wie man sieht war er auch nicht übermäßig begangen."
+    },
+    {
+      "photos": [
+        {
+          "name": "018",
+          "alt": "Alter Doppeldecker am Säntis",
+          "date": "2015-09-12T10:41:00.000+02:00",
+          "width": 1830,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Ein alter Doppeldecker, der lautstark ein paar Runden um den Säntis drehte."
+    },
+    {
+      "photos": [
+        {
+          "name": "019",
+          "alt": "Panorama vom Säntis zum Toggenburg",
+          "date": "2015-09-12T10:50:31.000+02:00",
+          "width": 1920,
+          "height": 702
+        },
+        {
+          "name": "020",
+          "alt": "Schotterweg mit Abgrund",
+          "date": "2015-09-12T10:50:48.000+02:00",
+          "width": 1920,
+          "height": 669
+        }
+      ],
+      "videos": [],
+      "text": "Hier war ich fast oben. Blick hinab auf den bewältigten Aufstieg. Abwärts würde ich ihn aber nicht gerne machen."
+    },
+    {
+      "photos": [
+        {
+          "name": "021",
+          "alt": "Gipfel des Säntis",
+          "date": "2015-09-12T10:54:26.000+02:00",
+          "width": 1778,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Nach viel Gekeuche und Geschwitze erreichte ich den Lisengrat beim <a href=\"/alpine/alpstein/20160911\">Säntis</a>. Nun wären es noch 20min bis zum zugebauten 2500m hohen Gipfel. Aber darauf verzichtete ich, denn ich hatte noch einiges Andere vor."
+    },
+    {
+      "photos": [
+        {
+          "name": "022",
+          "alt": "Panorama Säntis Richtung Seealpsee",
+          "date": "2015-09-12T10:56:12.000+02:00",
+          "width": 1920,
+          "height": 598
+        }
+      ],
+      "videos": [],
+      "text": "Inzwischen war ich 3,5h mit hauptsächlich Aufstieg unterwegs, deshalb eine verdiente Pause auf dem Grat und Blick auf der anderen Seite hinab Richtung Appenzell."
+    },
+    {
+      "photos": [
+        {
+          "name": "023",
+          "alt": "Schäfler und Ebenalp vom Säntis",
+          "date": "2015-09-12T10:56:45.000+02:00",
+          "width": 1920,
+          "height": 1041
+        }
+      ],
+      "videos": [],
+      "text": "Tele <a href=\"/alpine/alpstein/20140622\">zum Schäfler und zur Ebenalp</a>. Im Hintergrund das östliche Ende des Bodensees."
+    },
+    {
+      "photos": [
+        {
+          "name": "024",
+          "alt": "Wegweiser Lisengrat mit Churfirsten",
+          "date": "2015-09-12T10:57:23.000+02:00",
+          "width": 1734,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Nun aber los zum Rotsteinpass. Dieser Weg ist der bekannte (und wie man sieht schon sehr alte) Lisengratweg. Den wollte ich schon immer mal gehen und ich freute mich, dass es nun (mehr zufällig) dazu kam.<br />\nIm Hintergrund übrigens die Churfirsten."
+    },
+    {
+      "photos": [
+        {
+          "name": "025",
+          "alt": "Einstieg zum Lisengrat",
+          "date": "2015-09-12T11:03:46.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Zu Beginn war der Weg noch harmlos, aber bereits gut gesichert."
+    },
+    {
+      "photos": [
+        {
+          "name": "026",
+          "alt": "Felswand des Lisengrat",
+          "date": "2015-09-12T11:11:17.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Dann wurde es aber schnell wahnsinnig spektakulär. 😃"
+    },
+    {
+      "photos": [
+        {
+          "name": "027",
+          "alt": "Drahtseil am Weg des Lisengrats",
+          "date": "2015-09-12T11:12:19.000+02:00",
+          "width": 720,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Und immer weiter ging es mitten durch eine Felswand."
+    },
+    {
+      "photos": [
+        {
+          "name": "028",
+          "alt": "Extremer Wanderweg durch den Fels",
+          "date": "2015-09-12T11:14:55.000+02:00",
+          "width": 1378,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Und hier ging es durch den Fels hinauf."
+    },
+    {
+      "photos": [
+        {
+          "name": "029",
+          "alt": "Steintreppe auf Lisengrat",
+          "date": "2015-09-12T11:18:24.000+02:00",
+          "width": 720,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Und dann auf die andere Seite des Grats zum verrücktesten Abschnitt des Wegs. Rechts gings übrigens weit runter."
+    },
+    {
+      "photos": [
+        {
+          "name": "030",
+          "alt": "Blick vom Lisengrat zum Säntis",
+          "date": "2015-09-12T11:20:03.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Blick zurück auf den bisher zurückgelegten Weg. Ehrlich gesagt habe ich keine Ahnung, wie man auf die Idee kommt hier einen Weg hindurch zu bauen."
+    },
+    {
+      "photos": [
+        {
+          "name": "031",
+          "alt": "Panorama Listengrat",
+          "date": "2015-09-12T11:21:24.000+02:00",
+          "width": 1920,
+          "height": 777
+        }
+      ],
+      "videos": [],
+      "text": "Und noch mal der selbe Blick, weil es so unglaublich ist."
+    },
+    {
+      "photos": [
+        {
+          "name": "032",
+          "alt": "Blick vom Lisengrat zum Rotsteinpass",
+          "date": "2015-09-12T11:22:20.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Ausblick auf den weiteren Verlauf des Wegs. Am Ende des Wegs und noch im Schatten ist bereits die Rotsteinpasshütte zu sehen. Der Berg rechts ist der Altmann und die Felswand dazwischen wird noch relevant werden."
+    },
+    {
+      "photos": [
+        {
+          "name": "033",
+          "alt": "Hoher Kasten neben Altmann",
+          "date": "2015-09-12T11:40:25.000+02:00",
+          "width": 1920,
+          "height": 932
+        }
+      ],
+      "videos": [],
+      "text": "Tele zum Hohen Kasten."
+    },
+    {
+      "photos": [
+        {
+          "name": "034",
+          "alt": "Blick vom Rotsteinpass zum Säntis",
+          "date": "2015-09-12T11:41:44.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Nach dem Abstieg nun in harmloserem Gelände. Von der Spitze links des Säntis ging der Weg runter (ja, wirklich!)."
+    },
+    {
+      "photos": [
+        {
+          "name": "035",
+          "alt": "Route zum Altmannsattel",
+          "date": "2015-09-12T11:44:50.000+02:00",
+          "width": 1891,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Am Rotsteinpass kam ich gegen 12:00 an."
+    },
+    {
+      "photos": [
+        {
+          "name": "036",
+          "alt": "Wanderweg Meglisalp Rotsteinpass",
+          "date": "2015-09-12T12:01:28.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Aber bevor ich weiter ging, gab es erst mal ein erfrischendes Getränk auf der Terrasse der Hütte. Hier der Blick hinab Richtung Appenzell."
+    },
+    {
+      "photos": [
+        {
+          "name": "037",
+          "alt": "Gasthaus Rotsteinpass",
+          "date": "2015-09-12T12:07:29.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Die Rotsteinpasshütte mit ihrer neuen Transportseilbahn."
+    },
+    {
+      "photos": [
+        {
+          "name": "038",
+          "alt": "Bergweg mit Drahtseil und Metalltritten",
+          "date": "2015-09-12T12:11:17.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Der Weg hinauf zum Altmannsattel fing gleich knackig an. Da er aber ebenfalls sehr gut abgesichert ist, war es nicht wirklich gefährlich."
+    },
+    {
+      "photos": [
+        {
+          "name": "039",
+          "alt": "Felsiger Wanderweg von Rotsteinpass zum Altmannsattel",
+          "date": "2015-09-12T12:12:54.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Und weiter ging es... ein Höhepunkt nach dem anderen."
+    },
+    {
+      "photos": [
+        {
+          "name": "040",
+          "alt": "Rotsteinpass vom Altmannsattel",
+          "date": "2015-09-12T12:16:26.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Der Blick hinab zum Rotsteinpass."
+    },
+    {
+      "photos": [
+        {
+          "name": "041",
+          "alt": "Steile Rinne zum Altmannsattel",
+          "date": "2015-09-12T12:26:32.000+02:00",
+          "width": 720,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Das letzte Stück führt durch eine sehr steile Rinne bergauf. Zum Teil muss man sich am Seil nach oben ziehen."
+    },
+    {
+      "photos": [
+        {
+          "name": "042",
+          "alt": "Gefährlicher Abgrund am Altmannsattel",
+          "date": "2015-09-12T12:29:12.000+02:00",
+          "width": 1920,
+          "height": 892
+        }
+      ],
+      "videos": [],
+      "text": "Hier hatte ich es fast geschafft. Der Blick hinab. Es gab nicht viele Möglichkeiten, die Kamera herauszukramen."
+    },
+    {
+      "photos": [
+        {
+          "name": "043",
+          "alt": "Blick vom Altmannsattel zum Lisengrat und Säntis",
+          "date": "2015-09-12T12:34:22.000+02:00",
+          "width": 1489,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Und der Blick hinüber zum Lisengrat und Säntis."
+    },
+    {
+      "photos": [
+        {
+          "name": "044",
+          "alt": "Altmannsattel Richtung Schafberg",
+          "date": "2015-09-12T12:37:58.000+02:00",
+          "width": 1920,
+          "height": 736
+        }
+      ],
+      "videos": [],
+      "text": "Hier hatte ich den Grat erreicht. 😃 Auf der anderen Seite ist er zwar nicht so steil, aber auch nicht gerade flach. Der Grat führt zum Schafberg und auf diesem Grat führt auch ein Weg dorthin. Dieser ist aber ein schlechter gesicherter blau/weiß markierter Weg... nichts für mich."
+    },
+    {
+      "photos": [
+        {
+          "name": "045",
+          "alt": "Gipfel des Altmanns",
+          "date": "2015-09-12T12:40:34.000+02:00",
+          "width": 1920,
+          "height": 809
+        }
+      ],
+      "videos": [],
+      "text": "Und auch den Altmann-Gipfel ließ ich links liegen. Auch wenn da einige drauf unterwegs waren, bin ich dafür nicht mutig genug."
+    },
+    {
+      "photos": [
+        {
+          "name": "046",
+          "alt": "Altmann",
+          "date": "2015-09-12T12:59:24.000+02:00",
+          "width": 720,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Hier bereits beim Abstieg: der Altmann von der Seite aus betrachtet. Ein sehr krasser Gipfel, auf dem auch einige Kletterer unterwegs waren."
+    },
+    {
+      "photos": [
+        {
+          "name": "047",
+          "alt": "Wanderweg Altmann Zwinglipass",
+          "date": "2015-09-12T13:03:58.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Mein Weg führte dagegen nun deutlich entspannter durch das schöne Karstgebiet."
+    },
+    {
+      "photos": [
+        {
+          "name": "048",
+          "alt": "Gasthaus Zwinglipass",
+          "date": "2015-09-12T13:23:34.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Bis hin zur Zwinglipasshütte. Ich machte aber nur nebenan im Gras eine weitere Pause."
+    },
+    {
+      "photos": [
+        {
+          "name": "049",
+          "alt": "Blick Zwinglipass Altmannsattel",
+          "date": "2015-09-12T13:23:45.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Der Blick zurück auf den Abstieg.<br />\nDa es erst um 13:30 war, entschied ich mich, nicht den direkt Abstieg zu machen, sondern weiter auf dem Bergrücken zum Mutschensattel zu gehen. Dieser Umweg bedeutete gut 1.5h zusätzlich."
+    },
+    {
+      "photos": [
+        {
+          "name": "050",
+          "alt": "Gämsen am Zwinglipass",
+          "date": "2015-09-12T13:38:33.000+02:00",
+          "width": 1652,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Auf dem Zwinglipass rannte eine Gruppe Gämsen vorbei. Diesmal entkamen sie aber nicht meiner Kamera. 😃"
+    },
+    {
+      "photos": [
+        {
+          "name": "051",
+          "alt": "Blick vom Zwinglipass zum Fälensee und Hoher Kasten",
+          "date": "2015-09-12T13:38:59.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Der Blick vom Zwinglipass runter zum Fälensee, an dessen Ende das große Berggasthaus Bollenwees liegt. Im Hintergrund wieder der <a href=\"/alpine/alpstein/20131019\">Hohe Kasten</a>."
+    },
+    {
+      "photos": [
+        {
+          "name": "052",
+          "alt": "Wanderweg Zwinglipass Mutschensattel",
+          "date": "2015-09-12T13:49:16.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Hier kann man den weiteren Verlauf des Wegs sehen. Praktisch immer auf dem Rücken lang."
+    },
+    {
+      "photos": [
+        {
+          "name": "053",
+          "alt": "Altmann von Süden",
+          "date": "2015-09-12T13:52:18.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Der Blick zurück zum Altmann. Links davon war ich durchgekommen."
+    },
+    {
+      "photos": [
+        {
+          "name": "055",
+          "alt": "Grasrücken im Alpstein",
+          "date": "2015-09-12T13:57:00.000+02:00",
+          "width": 1920,
+          "height": 1026
+        },
+        {
+          "name": "056",
+          "alt": "Harmloser Wanderweg zum Mutschen",
+          "date": "2015-09-12T13:58:13.000+02:00",
+          "width": 1920,
+          "height": 818
+        }
+      ],
+      "videos": [],
+      "text": "Und so harmlos sah es oben auf dem Rücken aus. Erst der Blick zurück und dann nach vorne."
+    },
+    {
+      "photos": [
+        {
+          "name": "057",
+          "alt": "Felswände im Alpstein",
+          "date": "2015-09-12T14:00:59.000+02:00",
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "name": "058",
+          "alt": "Felsformationen und Altmann",
+          "date": "2015-09-12T14:04:28.000+02:00",
+          "width": 1920,
+          "height": 1074
+        }
+      ],
+      "videos": [],
+      "text": "Von diesem beschaulichen Weg aus hat man aber die ganze Zeit die krassen Felsformationen des Alpsteins im Blick."
+    },
+    {
+      "photos": [
+        {
+          "name": "059",
+          "alt": "Mutschensattel",
+          "date": "2015-09-12T14:11:41.000+02:00",
+          "width": 1897,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Der Mutschensattel war nun fast erreicht. Rechts davon der Mutschen."
+    },
+    {
+      "photos": [
+        {
+          "name": "060",
+          "alt": "Felsen im Alpstein",
+          "date": "2015-09-12T14:16:03.000+02:00",
+          "width": 1920,
+          "height": 825
+        }
+      ],
+      "videos": [],
+      "text": "Davor aber noch mal der Blick in die Felslandschaft."
+    },
+    {
+      "photos": [
+        {
+          "name": "061",
+          "alt": "Blick vom Mutschensattel zu Kreuzbergen",
+          "date": "2015-09-12T14:21:57.000+02:00",
+          "width": 1920,
+          "height": 945
+        }
+      ],
+      "videos": [],
+      "text": "Auf dem Mutschensattel angekommen konnte ich nun auch die Kreuzberge sehen."
+    },
+    {
+      "photos": [
+        {
+          "name": "062",
+          "alt": "Panorama Mutschen Rheintal",
+          "date": "2015-09-12T14:47:03.000+02:00",
+          "width": 1920,
+          "height": 650
+        }
+      ],
+      "videos": [],
+      "text": "Da ich nun schon so weit gelaufen war, mussten natürlich die zusätzlich 10min hoch zum Mutschen auch noch sein. Auf der Rückseite fällt dieser Grasbuckel 1500m steil zum Rheintal ab. Auf diesen Panoramabildern kommt das immer nicht so rüber: Aber es kostete schon Überwindung, sich überhaupt über die Kante zu trauen, um sich hinzusetzen."
+    },
+    {
+      "photos": [
+        {
+          "name": "063",
+          "alt": "Blick Mutschen Altmann",
+          "date": "2015-09-12T14:48:05.000+02:00",
+          "width": 1920,
+          "height": 866
+        }
+      ],
+      "videos": [],
+      "text": "Der Blick vom Gipfel Richtung Altmann."
+    },
+    {
+      "photos": [
+        {
+          "name": "064",
+          "alt": "Vom Mutschen zu den Kreuzbergen",
+          "date": "2015-09-12T14:50:28.000+02:00",
+          "width": 1920,
+          "height": 867
+        }
+      ],
+      "videos": [],
+      "text": "Und noch mal die Kreuzberge."
+    },
+    {
+      "photos": [
+        {
+          "name": "065",
+          "alt": "Wanderweg Mutschen Wildhaus",
+          "date": "2015-09-12T14:58:36.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Da es jetzt doch schon kurz vor drei war, musste ich mich mal langsam an den Abstieg machen... denn das sind auch noch 2,5h Gehzeit und 1000 Höhenmeter. Insgesamt ging es aber nun nur noch durch dieses Tal bergab."
+    },
+    {
+      "photos": [
+        {
+          "name": "066",
+          "alt": "Lila Blumenwiese",
+          "date": "2015-09-12T15:26:52.000+02:00",
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "name": "067",
+          "alt": "Blauer kleiner Käfer",
+          "date": "2015-09-12T15:28:24.000+02:00",
+          "width": 1896,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Lila Blumenwiesen und lila Käfer. Leider ist er mir immer wieder aus dem Fokus gekrabbelt."
+    },
+    {
+      "photos": [
+        {
+          "name": "068",
+          "alt": "Alp Grueb in Felssturz",
+          "date": "2015-09-12T15:34:05.000+02:00",
+          "width": 1920,
+          "height": 836
+        }
+      ],
+      "videos": [],
+      "text": "Vorbei an der Alp Grueb, die mitten in einem Felsbruch gebaut ist und wo gerade der Alpabtrieb der Ziegen vorbereitet wurde."
+    },
+    {
+      "photos": [
+        {
+          "name": "069",
+          "alt": "Felswände Schafberg",
+          "date": "2015-09-12T16:06:39.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Und es ging immer weiter bergab. Rechts die steilen Felswände des Schafbergs."
+    },
+    {
+      "photos": [
+        {
+          "name": "070",
+          "alt": "Ziegen in Alpen",
+          "date": "2015-09-12T16:13:46.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Und verfolgt wurde ich unter lautem Gebimmel von Ziegen."
+    },
+    {
+      "photos": [
+        {
+          "name": "071",
+          "alt": "Wanderweg Teselalp",
+          "date": "2015-09-12T16:19:25.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Ab der Teselalp ging es ein Stück auf Schotterweg weiter. Trotz zügigem Wind war es ziemlich warm..."
+    },
+    {
+      "photos": [
+        {
+          "name": "072",
+          "alt": "Flürentobel",
+          "date": "2015-09-12T16:43:24.000+02:00",
+          "width": 813,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Dann ging der Wanderweg von der Straße (die nach Gamplüt führt) ab und führte durch den Flürentobel hinab. Für die landschaftliche Schönheit hatte ich nun nicht mehr viel übrig. Meine Beine hatten einfach genug."
+    },
+    {
+      "photos": [
+        {
+          "name": "073",
+          "alt": "Vermoostes Bachbett",
+          "date": "2015-09-12T17:14:40.000+02:00",
+          "width": 918,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Am Schluss noch durch ein total vermoostes Bachbett. Leider - wie alle an diesem Tag - ausgetrocknet."
+    },
+    {
+      "photos": [
+        {
+          "name": "074",
+          "alt": "Wildhaus",
+          "date": "2015-09-12T17:19:34.000+02:00",
+          "width": 1833,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Geschafft. Um 17:30 wieder am Auto in Wildhaus und auf der Rückfahrt noch ein erfrischendes Bad bei Sonnenuntergang im Bodensee."
+    },
+    {
+      "photos": [
+        {
+          "name": "track1",
+          "alt": "Wegstrecke Lisengrat Zwinglipass Mutschen",
+          "width": 1280,
+          "height": 655
+        },
+        {
+          "name": "track2",
+          "alt": "Höhenprofil Listengrat Zwinglipass Mutschen",
+          "width": 1280,
+          "height": 211
+        }
+      ],
+      "videos": [],
+      "text": "Zurückgelegte Strecke. Lange 21km mit 2000 Höhenmetern innerhalb von 10h."
+    }
+  ],
+  "outro": "Fazit: Eine Tour mit einem Spektakel nach dem anderen. Für einen Tag waren es fast zu viele Eindrücke und Erlebnisse (deshalb auch so viele Fotos). Auch von der Wegstrecke würde ich eher empfehlen, es aus mehrere Tage aufzuteilen. Oder man beginnt beim Säntis und fährt anschließend mit dem Postauto zurück zur Schwägalp."
+}

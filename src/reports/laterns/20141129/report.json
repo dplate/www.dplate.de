@@ -1,436 +1,434 @@
-[
-  {
-    "destination": "laterns",
-    "date": "d20141129",
-    "type": "hike",
-    "track": true,
-    "detailMap": "austria",
-    "shortTitle": "Hoher Freschen",
-    "title": "Bad Laterns - Hoher Freschen",
-    "title3d": {
-      "offsetY": 1,
-      "fontSize": 8.0,
-      "align": "center",
-      "width": 1920,
-      "height": 586
+{
+  "destination": "laterns",
+  "date": "d20141129",
+  "type": "hike",
+  "track": true,
+  "detailMap": "austria",
+  "shortTitle": "Hoher Freschen",
+  "title": "Bad Laterns - Hoher Freschen",
+  "title3d": {
+    "offsetY": 1,
+    "fontSize": 8.0,
+    "align": "center",
+    "width": 1920,
+    "height": 586
+  },
+  "movie": "jJfmEjkR2kk",
+  "intro": "Zu Beginn eine formelle Entschuldigung für einen Wanderbericht Ende November. Liebend gerne hätte ich statt dessen über einen Skitag bei einem halben Meter Neuschnee geschrieben. Aber irgendwie ist das Wetter noch so wenig winterlich, dass eine stundenlange Autofahrt zu einem teuren, nur in Ansätzen geöffneten, Skigebiet selbst mir zu gewollt vorgekommen wäre.<br />\nAlso ging es schweren Herzens zum Wandern. Nach einer guten Stunde Fahrt kam ich um 8:30 in Bad Laterns an, einem Restaurant am Ende des Laternser Tals vor dem Furkajoch (ein Pass der hinüber nach Damüls führt).",
+  "landmarks": [
+    {
+      "photos": [
+        {
+          "name": "001",
+          "date": "2014-11-29T08:34:54.000+01:00",
+          "width": 1920,
+          "height": 941,
+          "alt": "Bad Laterns"
+        }
+      ],
+      "videos": [],
+      "text": "Ich beschloss den Hohen Freschen nicht auf dem Hauptweg zu besteigen, sondern von Richtung Furkajoch. Deshalb ging es zuerst in die falsche Richtung, dem Wegweiser Furka Joch nach."
     },
-    "movie": "jJfmEjkR2kk",
-    "intro": "Zu Beginn eine formelle Entschuldigung für einen Wanderbericht Ende November. Liebend gerne hätte ich statt dessen über einen Skitag bei einem halben Meter Neuschnee geschrieben. Aber irgendwie ist das Wetter noch so wenig winterlich, dass eine stundenlange Autofahrt zu einem teuren, nur in Ansätzen geöffneten, Skigebiet selbst mir zu gewollt vorgekommen wäre.<br />\nAlso ging es schweren Herzens zum Wandern. Nach einer guten Stunde Fahrt kam ich um 8:30 in Bad Laterns an, einem Restaurant am Ende des Laternser Tals vor dem Furkajoch (ein Pass der hinüber nach Damüls führt).",
-    "landmarks": [
-      {
-        "photos": [
-          {
-            "name": "001",
-            "date": "2014-11-29T08:34:54.000+01:00",
-            "width": 1920,
-            "height": 941,
-            "alt": "Bad Laterns"
-          }
-        ],
-        "videos": [],
-        "text": "Ich beschloss den Hohen Freschen nicht auf dem Hauptweg zu besteigen, sondern von Richtung Furkajoch. Deshalb ging es zuerst in die falsche Richtung, dem Wegweiser Furka Joch nach."
-      },
-      {
-        "photos": [
-          {
-            "name": "002",
-            "date": "2014-11-29T08:51:50.000+01:00",
-            "width": 1620,
-            "height": 1080,
-            "alt": "Agtawaldalpe"
-          }
-        ],
-        "videos": [],
-        "text": "Nach einem Aufstieg im Wald ging es ein Stück auf diesem Feldweg. Auch wenn es auf den Fotos noch sehr schattig und kalt aussieht, war es schon rund 10° warm und ich konnte mich meiner Jacke entledigen. Ab nun nur noch im T-Shirt (der Aufstieg sorgte für eine ausreichende innere Wärme)."
-      },
-      {
-        "photos": [
-          {
-            "name": "003",
-            "date": "2014-11-29T09:20:47.000+01:00",
-            "width": 1620,
-            "height": 1080,
-            "alt": "Laternser Tal"
-          }
-        ],
-        "videos": [],
-        "text": "Nach einem weiteren knackigen Aufstieg im Wald erreichte ich auf 1500m nach 400m Aufstieg die ersten Schneeflecken. Der Blick fällt zurück ins Laternsertal Richtung Rheintal."
-      },
-      {
-        "photos": [
-          {
-            "name": "004",
-            "date": "2014-11-29T09:35:25.000+01:00",
-            "width": 1920,
-            "height": 735,
-            "alt": "Furkajoch Straße"
-          }
-        ],
-        "videos": [],
-        "text": "Und noch ein Stück weiter überquert der Weg die (größtenteils einspurige) Passstrasse, die bereits Wintersperre hatte. Näher ans eigentlich Furkajoch bin ich nicht gegangen, ab nun ging es auf den Höhen Richtung Hoher Freschen."
-      },
-      {
-        "photos": [
-          {
-            "name": "005",
-            "date": "2014-11-29T09:43:15.000+01:00",
-            "width": 1920,
-            "height": 788,
-            "alt": "Novembersonne"
-          }
-        ],
-        "videos": [],
-        "text": "Ahh, endlich Morgensonne - wirkt doch gleich freundlicher. Das Haus war das erste Ziel, die Altgerachalpe. Wie man sieht waren die Sonnenhänge ziemlich schneefrei, hier immerhin auf 1700m."
-      },
-      {
-        "photos": [
-          {
-            "name": "006",
-            "date": "2014-11-29T09:51:09.000+01:00",
-            "width": 1620,
-            "height": 1080,
-            "alt": "Neugerachalpe"
-          }
-        ],
-        "videos": [],
-        "text": "Blick von dort hinab auf die Neugerachalpe. Im Hintergrund auf der anderen Seite des Rheintals zwei andere Wanderziele meines Bergsommers: <a href=\"/alpine/toggenburg/20140928\">Chäserrugg</a> und <a href=\"/alpine/alviergruppe/20140907\">Alvier</a>."
-      },
-      {
-        "photos": [
-          {
-            "name": "007",
-            "date": "2014-11-29T10:20:14.000+01:00",
-            "width": 1920,
-            "height": 860,
-            "alt": "Wanderung durch Restschnee"
-          }
-        ],
-        "videos": [],
-        "text": "Nun ging es leicht ansteigend entlang des Hangs. Immer auf den Nordseiten jedes gequerten Grats musste man durch den angefrorenen Schnee. Es waren aber schon ein paar Wanderspuren des vergangenen Wochenendes vorhanden."
-      },
-      {
-        "photos": [
-          {
-            "name": "008",
-            "date": "2014-11-29T10:29:38.000+01:00",
-            "width": 1920,
-            "height": 523,
-            "alt": "Höhenweg Hoher Freschen"
-          }
-        ],
-        "videos": [],
-        "text": "Nach dem Hang ging es auf den flachen Grat. Nun öffnete sich der Blick nach Nord-Osten Richtung Skigebiet Damüls, das aber auf der Rückseite dieser Berge liegt. Zu sehen ist links die <a href='/alpine/damuels/20130824'>Sünser Spitze</a> und daneben der Ragazer Blanken und das Portla Horn."
-      },
-      {
-        "photos": [
-          {
-            "name": "009",
-            "date": "2014-11-29T10:35:48.000+01:00",
-            "width": 1620,
-            "height": 1080,
-            "alt": "Gefrorener Schnee"
-          }
-        ],
-        "videos": [],
-        "text": "Auf dem Grat lag noch mehr Schnee. Zum Teil bin ich auch durch die gefrorene Oberfläche gebrochen."
-      },
-      {
-        "photos": [
-          {
-            "name": "010",
-            "date": "2014-11-29T10:42:06.000+01:00",
-            "width": 1920,
-            "height": 909,
-            "alt": "Tal Richtung Mellau"
-          }
-        ],
-        "videos": [],
-        "text": "Der Weg geht entlang der steil abfallenden Flanke. Rechts wieder die Sünser Spitze. Das Tal führt hinab nach Mellau."
-      },
-      {
-        "photos": [
-          {
-            "name": "011",
-            "date": "2014-11-29T11:07:29.000+01:00",
-            "width": 1920,
-            "height": 599,
-            "alt": "Panorama Matona"
-          }
-        ],
-        "videos": [],
-        "text": "Das Ende des Gratwegs ist erreicht. Auf einer aussichtsreichen Bank ist nun erstmals der Hohe Freschen zu sehen. Passenderweise hier genau hinter den Bäumen rechts. 😉<br />\nDafür kann man den Blick nach Nord-Westen genießen. Der weiße Berg hinten der Säntis, davor das Nebelmeer im Rheintal und dahinter der (wohlbekannte) Nebel über dem Bodensee. Die letzten Spuren im Schnee endeten hier, also musste ich nun Pionierarbeit leisten."
-      },
-      {
-        "photos": [
-          {
-            "name": "012",
-            "date": "2014-11-29T11:16:37.000+01:00",
-            "width": 1620,
-            "height": 1080,
-            "alt": "Einsame Spur im Schnee"
-          }
-        ],
-        "videos": [],
-        "text": "Nämlich quer zu diesem Hang (siehe meine einsame Spur). Der Schnee war hier aber sehr angenehm zu laufen und zum Glück kaum eisig."
-      },
-      {
-        "photos": [
-          {
-            "name": "013",
-            "date": "2014-11-29T11:16:51.000+01:00",
-            "width": 1920,
-            "height": 585,
-            "alt": "Freschen Hütte vor Nebelmeer"
-          }
-        ],
-        "videos": [],
-        "text": "Noch mal Panorama über das Nebelmeer des Rheintals. Hinten der Säntis und rechts die Freschen Hütte."
-      },
-      {
-        "photos": [
-          {
-            "name": "014",
-            "date": "2014-11-29T11:30:00.000+01:00",
-            "width": 1920,
-            "height": 733,
-            "alt": "Wandern im Spätherbst"
-          }
-        ],
-        "videos": [],
-        "text": "Die Hochfläche zwischen Freschen Hütte und Hoher Freschen war noch ziemlich verschneit."
-      },
-      {
-        "photos": [
-          {
-            "name": "015",
-            "date": "2014-11-29T11:33:49.000+01:00",
-            "width": 1620,
-            "height": 1080,
-            "alt": "Riesenspitze"
-          }
-        ],
-        "videos": [],
-        "text": "Der Blick nach Norden auf die Südhänge des Bregenzerwalds zeigt aber die traurige Realität dieses Spätherbst."
-      },
-      {
-        "photos": [
-          {
-            "name": "016",
-            "date": "2014-11-29T12:07:29.000+01:00",
-            "width": 1920,
-            "height": 680,
-            "alt": "Panorama Hoher Freschen"
-          }
-        ],
-        "videos": [],
-        "text": "Gipfel um 12:00 erreicht. Hier das super Panorama Richtung Norden. Auf dieser Seite fällt der Berg steil ab."
-      },
-      {
-        "photos": [
-          {
-            "name": "017",
-            "date": "2014-11-29T12:10:07.000+01:00",
-            "width": 1920,
-            "height": 714,
-            "alt": "Aussicht Hoher Freschen"
-          }
-        ],
-        "videos": [],
-        "text": "Genau nach Süden ist es deutlich flacher. Hier oben wehte der Föhn, so dass nun für die Pause doch wieder die Jacke ausgepackt werden musste."
-      },
-      {
-        "photos": [
-          {
-            "name": "018",
-            "date": "2014-11-29T12:16:52.000+01:00",
-            "width": 1920,
-            "height": 670,
-            "alt": "Gipfel Hoher Freschen"
-          }
-        ],
-        "videos": [],
-        "text": "Blick zurück auf den Gipfel des Hohen Freschen (2000m). Hier begegnete ich auch den ersten anderen Wanderern des Tages."
-      },
-      {
-        "photos": [
-          {
-            "name": "019",
-            "date": "2014-11-29T12:22:36.000+01:00",
-            "width": 1920,
-            "height": 693,
-            "alt": "Wanderung Hoher Freschen"
-          }
-        ],
-        "videos": [],
-        "text": "Nun ging ich auf dem Hauptweg zurück nach Laterns Bad. Hier noch mal der Blick zurück auf den Gipfel."
-      },
-      {
-        "photos": [
-          {
-            "name": "020",
-            "date": "2014-11-29T12:33:00.000+01:00",
-            "width": 1920,
-            "height": 796,
-            "alt": "Wandern im Schnee"
-          },
-          {
-            "name": "021",
-            "date": "2014-11-29T12:34:22.000+01:00",
-            "width": 720,
-            "height": 1080,
-            "alt": "Wanderweg über Schneefläche"
-          }
-        ],
-        "videos": [],
-        "text": "Über die Schneeflächen Richtung Freschen Hütte. Man könnte fast meinen, es wäre Winter."
-      },
-      {
-        "photos": [
-          {
-            "name": "022",
-            "date": "2014-11-29T12:44:31.000+01:00",
-            "width": 1920,
-            "height": 865,
-            "alt": "Freschenhaus"
-          }
-        ],
-        "videos": [],
-        "text": "(Geschlossene) Freschen Hütte rechts mit Kapelle links."
-      },
-      {
-        "photos": [
-          {
-            "name": "023",
-            "date": "2014-11-29T12:53:09.000+01:00",
-            "width": 1620,
-            "height": 1080,
-            "alt": "Tele zum Alpstein"
-          }
-        ],
-        "videos": [],
-        "text": "Tele zum Alpstein. In der Mitte wieder der <a href=\"/alpine/alpstein/20140801\">Säntis</a>, rechts der <a href=\"/alpine/alpstein/20131019\">Hohe Kasten</a>.<br />\nDas Nebelmeer des Rheintals wurde vom Föhn aufgewirbelt und gegen die Hänge des Alpsteins gedrückt."
-      },
-      {
-        "photos": [
-          {
-            "name": "024",
-            "date": "2014-11-29T12:55:26.000+01:00",
-            "width": 1920,
-            "height": 843,
-            "alt": "Rundwanderung Hoher Freschen"
-          }
-        ],
-        "videos": [],
-        "text": "Der Weg unterhalb der Freschen Hütte. Dank der Aussicht sehr schön. 😃"
-      },
-      {
-        "photos": [
-          {
-            "name": "025",
-            "date": "2014-11-29T13:06:37.000+01:00",
-            "width": 720,
-            "height": 1080,
-            "alt": "Holzweg durch morastigen Wald"
-          }
-        ],
-        "videos": [],
-        "text": "Im Sommer ist der Weg sehr stark begangen und entsprechend komfortabel ausgebaut. Durch diesen Dreck wäre es ohne den Steg auch ziemlich unangenehm geworden."
-      },
-      {
-        "photos": [
-          {
-            "name": "026",
-            "date": "2014-11-29T13:14:49.000+01:00",
-            "width": 1920,
-            "height": 729,
-            "alt": "Untere Saluveralpe"
-          }
-        ],
-        "videos": [],
-        "text": "Nach einem ersten Abstieg ist die Untere Saluveralpe (1600m) erreicht. Von hier geht eine Transportseilbahn zur Freschen Hütte hinauf."
-      },
-      {
-        "photos": [
-          {
-            "name": "027",
-            "date": "2014-11-29T13:32:05.000+01:00",
-            "width": 1644,
-            "height": 1080,
-            "alt": "Unscharfe Blindschleiche"
-          }
-        ],
-        "videos": [],
-        "text": "Anschließend geht quer zu einem steilen Hang weiter hinab. Diese Blindschleiche auf dem Weg habe ich leider falsch fokussiert und einem zweiten Versuch entzog sie sich mir. <br />\nSie zeigt aber, dass es selbst beim Abstieg ordentlich warm war. Die Gesichter der entgegenkommenden Wanderer zeugten ebenfalls davon."
-      },
-      {
-        "photos": [
-          {
-            "name": "028",
-            "date": "2014-11-29T13:51:11.000+01:00",
-            "width": 1920,
-            "height": 840,
-            "alt": "Garnitzaalpe"
-          }
-        ],
-        "videos": [],
-        "text": "Das Hochtal der Garnitzaalpe ist erreicht. Leider nun (14:00) schon im Schatten."
-      },
-      {
-        "photos": [
-          {
-            "name": "029",
-            "date": "2014-11-29T13:59:03.000+01:00",
-            "width": 1620,
-            "height": 1080,
-            "alt": "Alphütten"
-          }
-        ],
-        "videos": [],
-        "text": "Die Hütten der Garnitzaalpe. Ab hier ging der Weg auf einem Feldweg weiter."
-      },
-      {
-        "photos": [
-          {
-            "name": "030",
-            "date": "2014-11-29T14:14:43.000+01:00",
-            "width": 1620,
-            "height": 1080,
-            "alt": "Garnitzabach"
-          }
-        ],
-        "videos": [],
-        "text": "Und nach dem Hochtal durch eine Schlucht bergab nach Laterns Bad und zur Furkajoch Straße. Auto um 14:20 erreicht - Temperatur 15° auf 1100m."
-      },
-      {
-        "photos": [
-          {
-            "name": "031",
-            "date": "2014-11-29T14:35:42.000+01:00",
-            "width": 1920,
-            "height": 571,
-            "alt": "Laterns bei der Rückfahrt"
-          }
-        ],
-        "videos": [],
-        "text": "Letzte Fotopause in Laterns kurz vor dem Eintauchen in den Nebel. Im Nebel Temperatursturz auf 2°! Extreme Inversionswetterlage."
-      },
-      {
-        "photos": [
-          {
-            "name": "track1",
-            "width": 1280,
-            "height": 655
-          },
-          {
-            "name": "track2",
-            "width": 1280,
-            "height": 235
-          }
-        ],
-        "videos": [],
-        "text": "Gelaufene Strecke. 1100m rauf und runter auf 18km bei 5:30h reine Gehzeit."
-      }
-    ],
-    "outro": "Fazit: Schöne aussichtsreiche Runde bei bestem Wanderwetter. Zum Teil etwas arg einsam und verlassen, aber es ist wohl so: genauso wie im April niemand mehr zum Skifahren geht, geht auch niemand mehr im November zum Wandern.<br />Ps: Ich hoffe es waren auch genug Schneebilder dabei, so dass das Lesen des Berichts nichts zu schlimm war."
-  }
-]
+    {
+      "photos": [
+        {
+          "name": "002",
+          "date": "2014-11-29T08:51:50.000+01:00",
+          "width": 1620,
+          "height": 1080,
+          "alt": "Agtawaldalpe"
+        }
+      ],
+      "videos": [],
+      "text": "Nach einem Aufstieg im Wald ging es ein Stück auf diesem Feldweg. Auch wenn es auf den Fotos noch sehr schattig und kalt aussieht, war es schon rund 10° warm und ich konnte mich meiner Jacke entledigen. Ab nun nur noch im T-Shirt (der Aufstieg sorgte für eine ausreichende innere Wärme)."
+    },
+    {
+      "photos": [
+        {
+          "name": "003",
+          "date": "2014-11-29T09:20:47.000+01:00",
+          "width": 1620,
+          "height": 1080,
+          "alt": "Laternser Tal"
+        }
+      ],
+      "videos": [],
+      "text": "Nach einem weiteren knackigen Aufstieg im Wald erreichte ich auf 1500m nach 400m Aufstieg die ersten Schneeflecken. Der Blick fällt zurück ins Laternsertal Richtung Rheintal."
+    },
+    {
+      "photos": [
+        {
+          "name": "004",
+          "date": "2014-11-29T09:35:25.000+01:00",
+          "width": 1920,
+          "height": 735,
+          "alt": "Furkajoch Straße"
+        }
+      ],
+      "videos": [],
+      "text": "Und noch ein Stück weiter überquert der Weg die (größtenteils einspurige) Passstrasse, die bereits Wintersperre hatte. Näher ans eigentlich Furkajoch bin ich nicht gegangen, ab nun ging es auf den Höhen Richtung Hoher Freschen."
+    },
+    {
+      "photos": [
+        {
+          "name": "005",
+          "date": "2014-11-29T09:43:15.000+01:00",
+          "width": 1920,
+          "height": 788,
+          "alt": "Novembersonne"
+        }
+      ],
+      "videos": [],
+      "text": "Ahh, endlich Morgensonne - wirkt doch gleich freundlicher. Das Haus war das erste Ziel, die Altgerachalpe. Wie man sieht waren die Sonnenhänge ziemlich schneefrei, hier immerhin auf 1700m."
+    },
+    {
+      "photos": [
+        {
+          "name": "006",
+          "date": "2014-11-29T09:51:09.000+01:00",
+          "width": 1620,
+          "height": 1080,
+          "alt": "Neugerachalpe"
+        }
+      ],
+      "videos": [],
+      "text": "Blick von dort hinab auf die Neugerachalpe. Im Hintergrund auf der anderen Seite des Rheintals zwei andere Wanderziele meines Bergsommers: <a href=\"/alpine/toggenburg/20140928\">Chäserrugg</a> und <a href=\"/alpine/alviergruppe/20140907\">Alvier</a>."
+    },
+    {
+      "photos": [
+        {
+          "name": "007",
+          "date": "2014-11-29T10:20:14.000+01:00",
+          "width": 1920,
+          "height": 860,
+          "alt": "Wanderung durch Restschnee"
+        }
+      ],
+      "videos": [],
+      "text": "Nun ging es leicht ansteigend entlang des Hangs. Immer auf den Nordseiten jedes gequerten Grats musste man durch den angefrorenen Schnee. Es waren aber schon ein paar Wanderspuren des vergangenen Wochenendes vorhanden."
+    },
+    {
+      "photos": [
+        {
+          "name": "008",
+          "date": "2014-11-29T10:29:38.000+01:00",
+          "width": 1920,
+          "height": 523,
+          "alt": "Höhenweg Hoher Freschen"
+        }
+      ],
+      "videos": [],
+      "text": "Nach dem Hang ging es auf den flachen Grat. Nun öffnete sich der Blick nach Nord-Osten Richtung Skigebiet Damüls, das aber auf der Rückseite dieser Berge liegt. Zu sehen ist links die <a href='/alpine/damuels/20130824'>Sünser Spitze</a> und daneben der Ragazer Blanken und das Portla Horn."
+    },
+    {
+      "photos": [
+        {
+          "name": "009",
+          "date": "2014-11-29T10:35:48.000+01:00",
+          "width": 1620,
+          "height": 1080,
+          "alt": "Gefrorener Schnee"
+        }
+      ],
+      "videos": [],
+      "text": "Auf dem Grat lag noch mehr Schnee. Zum Teil bin ich auch durch die gefrorene Oberfläche gebrochen."
+    },
+    {
+      "photos": [
+        {
+          "name": "010",
+          "date": "2014-11-29T10:42:06.000+01:00",
+          "width": 1920,
+          "height": 909,
+          "alt": "Tal Richtung Mellau"
+        }
+      ],
+      "videos": [],
+      "text": "Der Weg geht entlang der steil abfallenden Flanke. Rechts wieder die Sünser Spitze. Das Tal führt hinab nach Mellau."
+    },
+    {
+      "photos": [
+        {
+          "name": "011",
+          "date": "2014-11-29T11:07:29.000+01:00",
+          "width": 1920,
+          "height": 599,
+          "alt": "Panorama Matona"
+        }
+      ],
+      "videos": [],
+      "text": "Das Ende des Gratwegs ist erreicht. Auf einer aussichtsreichen Bank ist nun erstmals der Hohe Freschen zu sehen. Passenderweise hier genau hinter den Bäumen rechts. 😉<br />\nDafür kann man den Blick nach Nord-Westen genießen. Der weiße Berg hinten der Säntis, davor das Nebelmeer im Rheintal und dahinter der (wohlbekannte) Nebel über dem Bodensee. Die letzten Spuren im Schnee endeten hier, also musste ich nun Pionierarbeit leisten."
+    },
+    {
+      "photos": [
+        {
+          "name": "012",
+          "date": "2014-11-29T11:16:37.000+01:00",
+          "width": 1620,
+          "height": 1080,
+          "alt": "Einsame Spur im Schnee"
+        }
+      ],
+      "videos": [],
+      "text": "Nämlich quer zu diesem Hang (siehe meine einsame Spur). Der Schnee war hier aber sehr angenehm zu laufen und zum Glück kaum eisig."
+    },
+    {
+      "photos": [
+        {
+          "name": "013",
+          "date": "2014-11-29T11:16:51.000+01:00",
+          "width": 1920,
+          "height": 585,
+          "alt": "Freschen Hütte vor Nebelmeer"
+        }
+      ],
+      "videos": [],
+      "text": "Noch mal Panorama über das Nebelmeer des Rheintals. Hinten der Säntis und rechts die Freschen Hütte."
+    },
+    {
+      "photos": [
+        {
+          "name": "014",
+          "date": "2014-11-29T11:30:00.000+01:00",
+          "width": 1920,
+          "height": 733,
+          "alt": "Wandern im Spätherbst"
+        }
+      ],
+      "videos": [],
+      "text": "Die Hochfläche zwischen Freschen Hütte und Hoher Freschen war noch ziemlich verschneit."
+    },
+    {
+      "photos": [
+        {
+          "name": "015",
+          "date": "2014-11-29T11:33:49.000+01:00",
+          "width": 1620,
+          "height": 1080,
+          "alt": "Riesenspitze"
+        }
+      ],
+      "videos": [],
+      "text": "Der Blick nach Norden auf die Südhänge des Bregenzerwalds zeigt aber die traurige Realität dieses Spätherbst."
+    },
+    {
+      "photos": [
+        {
+          "name": "016",
+          "date": "2014-11-29T12:07:29.000+01:00",
+          "width": 1920,
+          "height": 680,
+          "alt": "Panorama Hoher Freschen"
+        }
+      ],
+      "videos": [],
+      "text": "Gipfel um 12:00 erreicht. Hier das super Panorama Richtung Norden. Auf dieser Seite fällt der Berg steil ab."
+    },
+    {
+      "photos": [
+        {
+          "name": "017",
+          "date": "2014-11-29T12:10:07.000+01:00",
+          "width": 1920,
+          "height": 714,
+          "alt": "Aussicht Hoher Freschen"
+        }
+      ],
+      "videos": [],
+      "text": "Genau nach Süden ist es deutlich flacher. Hier oben wehte der Föhn, so dass nun für die Pause doch wieder die Jacke ausgepackt werden musste."
+    },
+    {
+      "photos": [
+        {
+          "name": "018",
+          "date": "2014-11-29T12:16:52.000+01:00",
+          "width": 1920,
+          "height": 670,
+          "alt": "Gipfel Hoher Freschen"
+        }
+      ],
+      "videos": [],
+      "text": "Blick zurück auf den Gipfel des Hohen Freschen (2000m). Hier begegnete ich auch den ersten anderen Wanderern des Tages."
+    },
+    {
+      "photos": [
+        {
+          "name": "019",
+          "date": "2014-11-29T12:22:36.000+01:00",
+          "width": 1920,
+          "height": 693,
+          "alt": "Wanderung Hoher Freschen"
+        }
+      ],
+      "videos": [],
+      "text": "Nun ging ich auf dem Hauptweg zurück nach Laterns Bad. Hier noch mal der Blick zurück auf den Gipfel."
+    },
+    {
+      "photos": [
+        {
+          "name": "020",
+          "date": "2014-11-29T12:33:00.000+01:00",
+          "width": 1920,
+          "height": 796,
+          "alt": "Wandern im Schnee"
+        },
+        {
+          "name": "021",
+          "date": "2014-11-29T12:34:22.000+01:00",
+          "width": 720,
+          "height": 1080,
+          "alt": "Wanderweg über Schneefläche"
+        }
+      ],
+      "videos": [],
+      "text": "Über die Schneeflächen Richtung Freschen Hütte. Man könnte fast meinen, es wäre Winter."
+    },
+    {
+      "photos": [
+        {
+          "name": "022",
+          "date": "2014-11-29T12:44:31.000+01:00",
+          "width": 1920,
+          "height": 865,
+          "alt": "Freschenhaus"
+        }
+      ],
+      "videos": [],
+      "text": "(Geschlossene) Freschen Hütte rechts mit Kapelle links."
+    },
+    {
+      "photos": [
+        {
+          "name": "023",
+          "date": "2014-11-29T12:53:09.000+01:00",
+          "width": 1620,
+          "height": 1080,
+          "alt": "Tele zum Alpstein"
+        }
+      ],
+      "videos": [],
+      "text": "Tele zum Alpstein. In der Mitte wieder der <a href=\"/alpine/alpstein/20140801\">Säntis</a>, rechts der <a href=\"/alpine/alpstein/20131019\">Hohe Kasten</a>.<br />\nDas Nebelmeer des Rheintals wurde vom Föhn aufgewirbelt und gegen die Hänge des Alpsteins gedrückt."
+    },
+    {
+      "photos": [
+        {
+          "name": "024",
+          "date": "2014-11-29T12:55:26.000+01:00",
+          "width": 1920,
+          "height": 843,
+          "alt": "Rundwanderung Hoher Freschen"
+        }
+      ],
+      "videos": [],
+      "text": "Der Weg unterhalb der Freschen Hütte. Dank der Aussicht sehr schön. 😃"
+    },
+    {
+      "photos": [
+        {
+          "name": "025",
+          "date": "2014-11-29T13:06:37.000+01:00",
+          "width": 720,
+          "height": 1080,
+          "alt": "Holzweg durch morastigen Wald"
+        }
+      ],
+      "videos": [],
+      "text": "Im Sommer ist der Weg sehr stark begangen und entsprechend komfortabel ausgebaut. Durch diesen Dreck wäre es ohne den Steg auch ziemlich unangenehm geworden."
+    },
+    {
+      "photos": [
+        {
+          "name": "026",
+          "date": "2014-11-29T13:14:49.000+01:00",
+          "width": 1920,
+          "height": 729,
+          "alt": "Untere Saluveralpe"
+        }
+      ],
+      "videos": [],
+      "text": "Nach einem ersten Abstieg ist die Untere Saluveralpe (1600m) erreicht. Von hier geht eine Transportseilbahn zur Freschen Hütte hinauf."
+    },
+    {
+      "photos": [
+        {
+          "name": "027",
+          "date": "2014-11-29T13:32:05.000+01:00",
+          "width": 1644,
+          "height": 1080,
+          "alt": "Unscharfe Blindschleiche"
+        }
+      ],
+      "videos": [],
+      "text": "Anschließend geht quer zu einem steilen Hang weiter hinab. Diese Blindschleiche auf dem Weg habe ich leider falsch fokussiert und einem zweiten Versuch entzog sie sich mir. <br />\nSie zeigt aber, dass es selbst beim Abstieg ordentlich warm war. Die Gesichter der entgegenkommenden Wanderer zeugten ebenfalls davon."
+    },
+    {
+      "photos": [
+        {
+          "name": "028",
+          "date": "2014-11-29T13:51:11.000+01:00",
+          "width": 1920,
+          "height": 840,
+          "alt": "Garnitzaalpe"
+        }
+      ],
+      "videos": [],
+      "text": "Das Hochtal der Garnitzaalpe ist erreicht. Leider nun (14:00) schon im Schatten."
+    },
+    {
+      "photos": [
+        {
+          "name": "029",
+          "date": "2014-11-29T13:59:03.000+01:00",
+          "width": 1620,
+          "height": 1080,
+          "alt": "Alphütten"
+        }
+      ],
+      "videos": [],
+      "text": "Die Hütten der Garnitzaalpe. Ab hier ging der Weg auf einem Feldweg weiter."
+    },
+    {
+      "photos": [
+        {
+          "name": "030",
+          "date": "2014-11-29T14:14:43.000+01:00",
+          "width": 1620,
+          "height": 1080,
+          "alt": "Garnitzabach"
+        }
+      ],
+      "videos": [],
+      "text": "Und nach dem Hochtal durch eine Schlucht bergab nach Laterns Bad und zur Furkajoch Straße. Auto um 14:20 erreicht - Temperatur 15° auf 1100m."
+    },
+    {
+      "photos": [
+        {
+          "name": "031",
+          "date": "2014-11-29T14:35:42.000+01:00",
+          "width": 1920,
+          "height": 571,
+          "alt": "Laterns bei der Rückfahrt"
+        }
+      ],
+      "videos": [],
+      "text": "Letzte Fotopause in Laterns kurz vor dem Eintauchen in den Nebel. Im Nebel Temperatursturz auf 2°! Extreme Inversionswetterlage."
+    },
+    {
+      "photos": [
+        {
+          "name": "track1",
+          "width": 1280,
+          "height": 655
+        },
+        {
+          "name": "track2",
+          "width": 1280,
+          "height": 235
+        }
+      ],
+      "videos": [],
+      "text": "Gelaufene Strecke. 1100m rauf und runter auf 18km bei 5:30h reine Gehzeit."
+    }
+  ],
+  "outro": "Fazit: Schöne aussichtsreiche Runde bei bestem Wanderwetter. Zum Teil etwas arg einsam und verlassen, aber es ist wohl so: genauso wie im April niemand mehr zum Skifahren geht, geht auch niemand mehr im November zum Wandern.<br />Ps: Ich hoffe es waren auch genug Schneebilder dabei, so dass das Lesen des Berichts nichts zu schlimm war."
+}

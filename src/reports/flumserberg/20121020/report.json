@@ -1,199 +1,197 @@
-[
-  {
-    "destination": "flumserberg",
-    "date": "d20121020",
-    "type": "hike",
-    "track": false,
-    "shortTitle": "Prodkamm",
-    "title": "Tannenboden - Prodkamm",
-    "intro": "Das extrem schöne Wetter an diesem Wochenende musste genutzt werden. Deshalb ging es (mit zum Teil weniger bergerfahrenen) Kollegen zu einer abwechslungsreichen Wanderung nach Flumserberg.<br />\nAnkunft um 10:00 auf dem nur wenig gefüllten Parkplatz der Kabinenbahn in Tannenboden auf rund 1400m. Es war bereits sehr warm, so dass ich gleich mit kurzer Hose und T-Shirt losgelaufen bin und die Jacke im Auto lassen konnte.<br />\nZuerst ging es auf breiten Wegen quer über den Schwammkopf. Dabei wurde deutlich, warum der Hügel Schwammkopf heißt: Überall am Wegrand Pilze verschiedenster Art - auf Grund mangelnder Erfahrung und Lebensmüdigkeit aber keine gesammelt.",
-    "landmarks": [
-      {
-        "photos": [
-          {
-            "name": "002",
-            "date": "2012-10-20T10:55:14.000+02:00",
-            "width": 1440,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Nach Durchquerung der sumpfigen Wiese Madils, steiler Direktaufstieg zur Prodalp auf rund 1600m. Es ist immer wieder überraschend, welch steile Hänge man mit Ski bewältigt."
-      },
-      {
-        "photos": [
-          {
-            "name": "004",
-            "date": "2012-10-20T11:25:59.000+02:00",
-            "width": 1440,
-            "height": 1080
-          },
-          {
-            "name": "005",
-            "date": "2012-10-20T11:26:15.000+02:00",
-            "width": 1440,
-            "height": 1080
-          },
-          {
-            "name": "006",
-            "date": "2012-10-20T11:28:15.000+02:00",
-            "width": 1440,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Anschließend ausgiebige Besichtigung des Kletterturms auf der Prodalp. Hat schon Lust drauf gemacht, einige der phantasievollen Pfade auszuprobieren, aber der einzige mögliche Tarif (3h für 29CHF) war uns dann doch zu teuer."
-      },
-      {
-        "photos": [
-          {
-            "name": "008",
-            "date": "2012-10-20T11:34:20.000+02:00",
-            "width": 1440,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Anschließend ging es weiter auf dem Fahrweg Richtung Alp Panüol am Langlaufgebiet der Prodalp vorbei."
-      },
-      {
-        "photos": [
-          {
-            "name": "010",
-            "date": "2012-10-20T11:59:57.000+02:00",
-            "width": 1440,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Bevor es in den Wald ging, sind wir auf den Sagenweg abgebogen. Da dieser Weg nur von der anderen Richtung ausgewiesen ist, haben wir ihn zuerst verpasst. War aber Dank diverser GPS (mindestens drei Gadgets hatte jeder dabei) nur ein kleiner Umweg. Der Sagenweg ist ein schön angelegter Pfad vom Prodkamm zur Prodalp mit vielen Info- und Mitmachstationen vor allem für Kinder. Da der Weg seltsamerweise wenig begangen ist, ist er schön natürnah (der weiße Pfahl links vom Haus markiert den Weg - wie man sieht kann man ihn oft nur erahnen)."
-      },
-      {
-        "photos": [
-          {
-            "name": "012",
-            "date": "2012-10-20T12:02:26.000+02:00",
-            "width": 1440,
-            "height": 1080
-          },
-          {
-            "name": "018",
-            "date": "2012-10-20T12:53:32.000+02:00",
-            "width": 1723,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Erst führt er durch den Wald, anschließend über Wiesen mit Aussicht ins Schilstal und den weißen höheren Bergen"
-      },
-      {
-        "photos": [
-          {
-            "name": "021",
-            "date": "2012-10-20T13:47:31.000+02:00",
-            "width": 1920,
-            "height": 720
-          }
-        ],
-        "videos": [],
-        "text": "Ankunft auf dem (weglosen) Gipfel des Prodkamms (knapp über 2000m). Hier der Blick nach Süden zum Spitzmeilen."
-      },
-      {
-        "photos": [
-          {
-            "name": "023",
-            "date": "2012-10-20T13:57:58.000+02:00",
-            "width": 1531,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Und Blick nach Westen auf den Maschgenkamm (vorne) und Leist (hinten). In zwei Monaten ist auf den hier kaum sichtbaren Pisten sicher mehr los. 😉"
-      },
-      {
-        "photos": [
-          {
-            "name": "024",
-            "date": "2012-10-20T13:58:16.000+02:00",
-            "width": 1920,
-            "height": 867
-          }
-        ],
-        "videos": [],
-        "text": "Dann fehlt noch der Blick nach Süden. Vorne die Bergstation Prodkamm, dahinter der Walensee vor den Churfirsten."
-      },
-      {
-        "photos": [
-          {
-            "name": "025",
-            "date": "2012-10-20T13:58:33.000+02:00",
-            "width": 1440,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Und da es hier das Alpinforum ist, Zoom auf die Bergstationen der Vierer-Sesselbahn Stelli und der Sechser-Sesselbahn Seeben."
-      },
-      {
-        "photos": [
-          {
-            "name": "027",
-            "date": "2012-10-20T14:15:48.000+02:00",
-            "width": 1440,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Mittagspause auf der Terrasse des Restaurants Prodkamm. Blick auf die bereitstehenden Schneekanonen des meistbefahrenen Hangs des Skigebiets Flumserberg."
-      },
-      {
-        "photos": [
-          {
-            "name": "031",
-            "date": "2012-10-20T15:59:11.000+02:00",
-            "width": 1440,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Danach steiler Abstieg nach Chrüz (1600m) zum Start der Sommerrodelbahn Floomzer, die uns zurück zum Parkplatz bringen sollte. Nicht besonders günstig: 13CHF eine Talfahrt ohne Auffahrt (die wir ja auch nicht brauchten)."
-      },
-      {
-        "photos": [
-          {
-            "name": "032",
-            "date": "2012-10-20T16:12:18.000+02:00",
-            "width": 1467,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Der Startbereich der Bahn. Nachdem die ganzen Wanderwege wenig gefüllt waren, war ich doch überrascht, dass wir sogar 10min anstehen mussten.<br />\nDie Fahrt macht wirklich Spaß: Die Strecke führt immer knapp über dem Boden durch viele Kehren, durch Tunnel und über Buckel. Insgesamt ist man so 3-4min unterwegs."
-      },
-      {
-        "photos": [
-          {
-            "name": "034",
-            "date": "2012-10-20T16:21:18.000+02:00",
-            "width": 1440,
-            "height": 1080
-          }
-        ],
-        "videos": [],
-        "text": "Am Schluß geht es durch einen langen Tunnel (unter der Piste hindurch) zur unterirdischen Talstation."
-      },
-      {
-        "photos": [
-          {
-            "name": "track1",
-            "width": 1024,
-            "height": 571
-          }
-        ],
-        "videos": [],
-        "text": "Hier ein Überblick über die Wanderung (habe ich schon Gadgets erwähnt?). Insgesamt 840m hoch und runter und 12km Wegstrecke - etwas mit dem Floomzer erschummelt."
-      }
-    ],
-    "outro": "Sehr schöne (kleine) Wanderung bei perfekten Bedingungen. 😃"
-  }
-]
+{
+  "destination": "flumserberg",
+  "date": "d20121020",
+  "type": "hike",
+  "track": false,
+  "shortTitle": "Prodkamm",
+  "title": "Tannenboden - Prodkamm",
+  "intro": "Das extrem schöne Wetter an diesem Wochenende musste genutzt werden. Deshalb ging es (mit zum Teil weniger bergerfahrenen) Kollegen zu einer abwechslungsreichen Wanderung nach Flumserberg.<br />\nAnkunft um 10:00 auf dem nur wenig gefüllten Parkplatz der Kabinenbahn in Tannenboden auf rund 1400m. Es war bereits sehr warm, so dass ich gleich mit kurzer Hose und T-Shirt losgelaufen bin und die Jacke im Auto lassen konnte.<br />\nZuerst ging es auf breiten Wegen quer über den Schwammkopf. Dabei wurde deutlich, warum der Hügel Schwammkopf heißt: Überall am Wegrand Pilze verschiedenster Art - auf Grund mangelnder Erfahrung und Lebensmüdigkeit aber keine gesammelt.",
+  "landmarks": [
+    {
+      "photos": [
+        {
+          "name": "002",
+          "date": "2012-10-20T10:55:14.000+02:00",
+          "width": 1440,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Nach Durchquerung der sumpfigen Wiese Madils, steiler Direktaufstieg zur Prodalp auf rund 1600m. Es ist immer wieder überraschend, welch steile Hänge man mit Ski bewältigt."
+    },
+    {
+      "photos": [
+        {
+          "name": "004",
+          "date": "2012-10-20T11:25:59.000+02:00",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "name": "005",
+          "date": "2012-10-20T11:26:15.000+02:00",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "name": "006",
+          "date": "2012-10-20T11:28:15.000+02:00",
+          "width": 1440,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Anschließend ausgiebige Besichtigung des Kletterturms auf der Prodalp. Hat schon Lust drauf gemacht, einige der phantasievollen Pfade auszuprobieren, aber der einzige mögliche Tarif (3h für 29CHF) war uns dann doch zu teuer."
+    },
+    {
+      "photos": [
+        {
+          "name": "008",
+          "date": "2012-10-20T11:34:20.000+02:00",
+          "width": 1440,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Anschließend ging es weiter auf dem Fahrweg Richtung Alp Panüol am Langlaufgebiet der Prodalp vorbei."
+    },
+    {
+      "photos": [
+        {
+          "name": "010",
+          "date": "2012-10-20T11:59:57.000+02:00",
+          "width": 1440,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Bevor es in den Wald ging, sind wir auf den Sagenweg abgebogen. Da dieser Weg nur von der anderen Richtung ausgewiesen ist, haben wir ihn zuerst verpasst. War aber Dank diverser GPS (mindestens drei Gadgets hatte jeder dabei) nur ein kleiner Umweg. Der Sagenweg ist ein schön angelegter Pfad vom Prodkamm zur Prodalp mit vielen Info- und Mitmachstationen vor allem für Kinder. Da der Weg seltsamerweise wenig begangen ist, ist er schön natürnah (der weiße Pfahl links vom Haus markiert den Weg - wie man sieht kann man ihn oft nur erahnen)."
+    },
+    {
+      "photos": [
+        {
+          "name": "012",
+          "date": "2012-10-20T12:02:26.000+02:00",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "name": "018",
+          "date": "2012-10-20T12:53:32.000+02:00",
+          "width": 1723,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Erst führt er durch den Wald, anschließend über Wiesen mit Aussicht ins Schilstal und den weißen höheren Bergen"
+    },
+    {
+      "photos": [
+        {
+          "name": "021",
+          "date": "2012-10-20T13:47:31.000+02:00",
+          "width": 1920,
+          "height": 720
+        }
+      ],
+      "videos": [],
+      "text": "Ankunft auf dem (weglosen) Gipfel des Prodkamms (knapp über 2000m). Hier der Blick nach Süden zum Spitzmeilen."
+    },
+    {
+      "photos": [
+        {
+          "name": "023",
+          "date": "2012-10-20T13:57:58.000+02:00",
+          "width": 1531,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Und Blick nach Westen auf den Maschgenkamm (vorne) und Leist (hinten). In zwei Monaten ist auf den hier kaum sichtbaren Pisten sicher mehr los. 😉"
+    },
+    {
+      "photos": [
+        {
+          "name": "024",
+          "date": "2012-10-20T13:58:16.000+02:00",
+          "width": 1920,
+          "height": 867
+        }
+      ],
+      "videos": [],
+      "text": "Dann fehlt noch der Blick nach Süden. Vorne die Bergstation Prodkamm, dahinter der Walensee vor den Churfirsten."
+    },
+    {
+      "photos": [
+        {
+          "name": "025",
+          "date": "2012-10-20T13:58:33.000+02:00",
+          "width": 1440,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Und da es hier das Alpinforum ist, Zoom auf die Bergstationen der Vierer-Sesselbahn Stelli und der Sechser-Sesselbahn Seeben."
+    },
+    {
+      "photos": [
+        {
+          "name": "027",
+          "date": "2012-10-20T14:15:48.000+02:00",
+          "width": 1440,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Mittagspause auf der Terrasse des Restaurants Prodkamm. Blick auf die bereitstehenden Schneekanonen des meistbefahrenen Hangs des Skigebiets Flumserberg."
+    },
+    {
+      "photos": [
+        {
+          "name": "031",
+          "date": "2012-10-20T15:59:11.000+02:00",
+          "width": 1440,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Danach steiler Abstieg nach Chrüz (1600m) zum Start der Sommerrodelbahn Floomzer, die uns zurück zum Parkplatz bringen sollte. Nicht besonders günstig: 13CHF eine Talfahrt ohne Auffahrt (die wir ja auch nicht brauchten)."
+    },
+    {
+      "photos": [
+        {
+          "name": "032",
+          "date": "2012-10-20T16:12:18.000+02:00",
+          "width": 1467,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Der Startbereich der Bahn. Nachdem die ganzen Wanderwege wenig gefüllt waren, war ich doch überrascht, dass wir sogar 10min anstehen mussten.<br />\nDie Fahrt macht wirklich Spaß: Die Strecke führt immer knapp über dem Boden durch viele Kehren, durch Tunnel und über Buckel. Insgesamt ist man so 3-4min unterwegs."
+    },
+    {
+      "photos": [
+        {
+          "name": "034",
+          "date": "2012-10-20T16:21:18.000+02:00",
+          "width": 1440,
+          "height": 1080
+        }
+      ],
+      "videos": [],
+      "text": "Am Schluß geht es durch einen langen Tunnel (unter der Piste hindurch) zur unterirdischen Talstation."
+    },
+    {
+      "photos": [
+        {
+          "name": "track1",
+          "width": 1024,
+          "height": 571
+        }
+      ],
+      "videos": [],
+      "text": "Hier ein Überblick über die Wanderung (habe ich schon Gadgets erwähnt?). Insgesamt 840m hoch und runter und 12km Wegstrecke - etwas mit dem Floomzer erschummelt."
+    }
+  ],
+  "outro": "Sehr schöne (kleine) Wanderung bei perfekten Bedingungen. 😃"
+}
