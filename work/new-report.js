@@ -80,7 +80,7 @@ const newReport = async () => {
   } else {
     const report = {
       destination,
-      date: 'd' + reportDate,
+      date: reportDate,
       datePublished,
       dateModified: datePublished,
       type: 'hike',
@@ -101,7 +101,7 @@ const newReport = async () => {
       outro: 'TODO'
     };
     fs.mkdirSync(reportPath, { recursive: true });
-    fs.writeFileSync(reportFile, JSON.stringify([report], null, 2));
+    fs.writeFileSync(reportFile, JSON.stringify(report, null, 2));
     console.log(reportFile, 'created');
   }
 };

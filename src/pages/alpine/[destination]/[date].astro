@@ -2,6 +2,7 @@
 import Layout from '../../../layouts/Layout.astro';
 import PageReport from '../../../components/PageReport.jsx';
 import { getReports, getDestinations } from '../../../utils/dataLoader.js';
+import getReportPath from '../../../utils/getReportPath';
 
 export async function getStaticPaths() {
   const destinations = getDestinations();
@@ -12,7 +13,7 @@ export async function getStaticPaths() {
     return {
       params: {
         destination: report.destination,
-        date: report.date.substring(1),
+        date: report.date,
       },
       props: {
         reportData: report,
@@ -30,10 +31,6 @@ const data = {
   destinationJson: destinationData,
 };
 
-const getReportPath = (destination: string, date: string) => {
-  return '/' + destination + '/' + date.substring(1);
-};
-
 const buildPageTitle = (title: string, type: string) => {
   if (type === 'hike') {
     return `⛰ ${title} Wanderung`;
@@ -45,7 +42,7 @@ const buildPageTitle = (title: string, type: string) => {
 };
 
 const buildPageDescription = (destinationName: string, title: string, type: string, date: string) => {
-  const monthNumber = date.substring(5, 7);
+  const monthNumber = date.substring(4, 6);
   const months = [
     'Januar', 'Februar', 'März', 'April', 'Mai', 'Juni',
     'Juli', 'August', 'September', 'Oktober', 'November', 'Dezember'
@@ -79,7 +76,7 @@ const photoUrls = selectedPhotos.map((photo) => {
 });
 
 const datePublishedWithFallback =
-  reportData.datePublished || selectedPhotos[0].date || reportData.date.substring(1, 5) + '-' + reportData.date.substring(5, 7) + '-' + reportData.date.substring(7, 9);
+  reportData.datePublished || selectedPhotos[0].date || reportData.date.substring(0, 4) + '-' + reportData.date.substring(4, 6) + '-' + reportData.date.substring(6, 8);
 
 const hike = reportData.type === 'hike' || reportData.type === 'winterHike';
 

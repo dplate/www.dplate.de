@@ -7,10 +7,7 @@ import gpxIcon from '../icons/gpx.svg?url';
 import Link from './Link.jsx';
 import { videoContainerStyle } from '../styles/basestyle.js';
 import styles from './PageReport.module.css';
-
-const getReportPath = (destination, date) => {
-  return '/' + destination + '/' + date.substring(1);
-};
+import getReportPath from '../utils/getReportPath.js';
 
 const buildPageTitle = (title, type) => {
   if (type === 'hike') {
@@ -162,7 +159,7 @@ class PageReport extends React.Component {
       'www-dplate-de-' +
       this.props.data.reportJson.destination +
       '-' +
-      this.props.data.reportJson.date.substring(1) +
+      this.props.data.reportJson.date +
       '.gpx';
     return (
       <a

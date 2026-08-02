@@ -1,6 +1,7 @@
 ---
 import PageReportMovie from '../../../../components/PageReportMovie.jsx';
 import { getReports, getDestinations } from '../../../../utils/dataLoader.js';
+import getReportPath from '../../../../utils/getReportPath';
 
 export async function getStaticPaths() {
   const destinations = getDestinations();
@@ -14,7 +15,7 @@ export async function getStaticPaths() {
     return {
       params: {
         destination: report.destination,
-        date: report.date.substring(1),
+        date: report.date,
       },
       props: {
         reportData: report,
@@ -31,9 +32,6 @@ const data = {
   destinationJson: destinationData,
 };
 
-const getReportPath = (destination: string, date: string) => {
-  return '/' + destination + '/' + date.substring(1);
-};
 const reportPath = getReportPath(reportData.destination, reportData.date);
 ---
 <html lang="de-de">

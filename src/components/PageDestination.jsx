@@ -5,7 +5,7 @@ import { cardStyle } from '../styles/basestyle.js';
 import styles from './PageDestination.module.css';
 
 const renderReport = (report) => {
-  const path = `/alpine/${report.destination}/${report.date.substring(1)}`;
+  const path = `/alpine/${report.destination}/${report.date}`;
   return (
     <Link key={path} className={styles.reportLink} to={path}>
       {formatDate(report.date)} - {report.title}

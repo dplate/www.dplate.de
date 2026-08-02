@@ -1,4 +1,5 @@
 import destinationsData from '../destinations/destination.json';
+import formatDate from './formatDate.js';
 
 // Eagerly import all report JSON files at module level so Vite can statically
 // analyze the glob once instead of creating a new module context on every call.
@@ -16,15 +17,11 @@ export function getReports() {
 // Returns a lightweight data structure containing only the fields needed
 // for navigation, without the full report objects that bloat the HTML.
 export function getMenuData(reports, destinations, currentPath) {
-  const formatDate = (date) => {
-    return date.substring(7, 9) + '.' + date.substring(5, 7) + '.' + date.substring(1, 5);
-  };
-
   const createAlpineItem = (report) => {
     return {
       id: report.date,
       name: (report.type === 'hike' ? '☀' : '❄') + ' ' + report.shortTitle + ' — ' + formatDate(report.date),
-      path: '/alpine/' + report.destination + '/' + report.date.substring(1)
+      path: '/alpine/' + report.destination + '/' + report.date
     };
   };
 

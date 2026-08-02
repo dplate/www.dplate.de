@@ -11,6 +11,7 @@ import Soundtrack from './reportMovie/Soundtrack.jsx';
 import loadTrack from '../utils/loadTrack.js';
 import Summary from './reportMovie/Summary.jsx';
 import setupAudio from '../utils/setupAudio';
+import getReportPath from '../utils/getReportPath.js';
 const Map = React.lazy(() => import('./map.jsx'));
 
 const minPhotoDuration = 5;
@@ -18,10 +19,6 @@ const minPhotoDuration = 5;
 const loadVoiceOver = async (audio, reportPath, name) => {
   const path = `/voiceOver${reportPath}/${name}.ogg`;
   return await audio.load(path);
-};
-
-const getReportPath = (destination, date) => {
-  return '/' + destination + '/' + date.substring(1);
 };
 
 const findNextPhoto = (photos, currentPhoto) => {
