@@ -1,4 +1,4 @@
-(Get-Item test.pack).Length# www.dplate.de - Website
+# www.dplate.de - Website
 
 ### Used color scheme
 
@@ -14,7 +14,7 @@ Install required dependencies:
 
 This command serves the app at `http://localhost:8000` and provides basic URL routing for the app:
 
-    npm run develop
+    npm run dev
 
 ### Build
 

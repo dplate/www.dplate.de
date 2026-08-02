@@ -1,10 +1,10 @@
-const textToSpeech = require('@google-cloud/text-to-speech');
-const jsonfile = require('jsonfile');
-const fs = require('fs');
+import textToSpeech from '@google-cloud/text-to-speech';
+import jsonfile from 'jsonfile';
+import fs from 'fs';
 
-const projectPath = 'C:/Users/Roger/web/Dp3';
-const destination = 'pizol';
-const reportDate = '20220709';
+const projectPath = 'C:/Users/Roger/web/Dp4';
+const destination = 'ebnit';
+const reportDate = '20220724';
 
 const client = new textToSpeech.TextToSpeechClient();
 

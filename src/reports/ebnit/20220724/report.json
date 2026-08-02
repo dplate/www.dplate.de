@@ -2,9 +2,12 @@
   {
     "destination": "ebnit",
     "date": "d20220724",
+    "datePublished": "2022-07-25T12:00:00+02:00",
+    "dateModified": "2026-08-02T15:00:00+02:00",
     "type": "hike",
     "track": true,
-    "detailMap": "austria",
+    "detailMap": null,
+    "timeShift": 400,
     "shortTitle": "Rappenlochschlucht",
     "title": "Karren - Rappenlochschlucht",
     "title3d": {
@@ -14,7 +17,7 @@
       "width": 1920,
       "height": 519
     },
-    "movie": "s3VtAkI8QME",
+    "movie": "T0x0sTTX2Vo",
     "intro": "An einem heißen Sonntag im Juli nahmen wir uns diese kleinere Wanderung vor, die möglichst durch viel Wald und Schlucht mit kaltem Wasser führen sollte.<br />Das Auto stellten wir auf dem schon recht vollen Parkplatz der Karrenbahn bei Dornbirn ab. Etwas weiter das Tal hinauf hätten wir auch noch parken können und uns zu dem die 6€ Parkgebühren sparen können. Für einen Erwachsenen kostete die Bergfahrt mit der Seilbahn rund 9€.",
     "landmarks": [
       {
@@ -27,7 +30,7 @@
             "height": 1012
           }
         ],
-        "text": "Um 11:00 waren wir dann schließlich oben auf dem Karren, einer fast 1000m hohe Bergnase oberhalb von Dornbirn.<br />Der Blick hinab ins 500m tiefere Rheintal ist dort immer sehr toll. Auch kann man da eigentlich gut essen, aber dafür war es noch etwas zu früh."
+        "text": "Um 11:00 waren wir dann schließlich oben auf dem Karren, einer fast 1000m hohen Bergnase oberhalb von Dornbirn.<br />Der Blick hinab ins 500m tiefere Rheintal ist dort immer sehr toll. Auch kann man da eigentlich gut essen, aber dafür war es noch etwas zu früh."
       },
       {
         "photos": [
@@ -111,7 +114,7 @@
             "height": 1080
           }
         ],
-        "text": "Kurz vor dem Ankunft am Staufensee konnten wir hier die Brückenbaustelle in der Rappenlochschlucht sehen. Auf Grund dieser Baustelle müssen alle Autos auf dem Weg nach Ebnit um den Staufensee umgeleitet werden, so dass dort viel Verkehr war. Außerdem war der See fast ausgetrocknet, so dass man auch nicht baden konnte.<br />Wir gingen trotzdem auf der Straße noch an das andere Ende des Sees zum Alploch."
+        "text": "Kurz vor der Ankunft am Staufensee konnten wir hier die Brückenbaustelle in der Rappenlochschlucht sehen. Auf Grund dieser Baustelle müssen alle Autos auf dem Weg nach Ebnit um den Staufensee umgeleitet werden, so dass dort viel Verkehr war. Außerdem war der See fast ausgetrocknet, so dass man auch nicht baden konnte.<br />Wir gingen trotzdem auf der Straße noch an das andere Ende des Sees zum Alploch."
       },
       {
         "photos": [
@@ -207,7 +210,7 @@
             "height": 1080
           }
         ],
-        "text": "Der anschließende Weg durch die Rappenlochschlucht unterhalb des Staufensee geht auf neu gebautem Steg - recht weit oberhalb des Bachs - an der Felswand. Hier unterquert man dabei die wagemutige Brückenbaustelle."
+        "text": "Der anschließende Weg durch die Rappenlochschlucht unterhalb des Staufensees geht auf neu gebautem Steg - recht weit oberhalb des Bachs - an der Felswand. Hier unterquert man dabei die wagemutige Brückenbaustelle."
       },
       {
         "photos": [
@@ -234,6 +237,6 @@
         "text": "Vom Ende der Rappenlochschlucht geht der Weg immer an der Dornbirner Aach entlang zurück zur Talstation der Karrenbahn. Dabei leider auch zum Teil direkt auf der Straße. Für dieses letzte Stück könnte man auch den Bus nehmen - ein entsprechendes Kombiticket gibt es ebenfalls bei der Karrenbahn."
       }
     ],
-    "outro": "Fazit: Die Wanderung vom Karren zum Staufensee und durch die Rappenlochschlucht lässt sich auch bei fast 35° machen. Ohne große Pausen wäre es eine 3h Wanderung. Den Abstecher zum Alploch sollte man aber auf jeden Fall machen, denn das ist die eigentlich beeindruckende Schlucht. Der Staufensee ist zur Zeit wegen der Baustelle, dem Straßenverkehr und weil er fast ausgetrocknet ist eher das Lowlight.<br />Wer eine richtig lange Wanderung machen will, kann auch vom Karren bis nach Ebnit laufen und dann die gesamte Schlucht durchqueren."
+    "outro": "Fazit: Die Wanderung vom Karren zum Staufensee und durch die Rappenlochschlucht lässt sich auch bei fast 35° machen. Ohne große Pausen wäre es eine 3h Wanderung. Den Abstecher zum Alploch sollte man aber auf jeden Fall machen, denn das ist die eigentlich beeindruckende Schlucht. Der Staufensee ist zur Zeit wegen der Baustelle, dem Straßenverkehr und weil er fast ausgetrocknet ist eher das Lowlight."
   }
 ]

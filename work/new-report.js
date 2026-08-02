@@ -5,7 +5,7 @@ const exif = require('jpeg-exif');
 const sizeOf = require('image-size');
 const { DateTime } = require('luxon');
 
-const projectPath = 'C:/Users/Roger/web/Dp3';
+const projectPath = 'C:/Users/Roger/web/Dp4';
 const sourcePath = 'D:/Bilder/2026/20260613_sardonahütte';
 const destination = 'pizol';
 const reportDate = '20260613';
