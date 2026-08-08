@@ -1,6 +1,8 @@
 {
   "destination": "malbun",
   "date": "20220809",
+  "datePublished": "2022-08-10T12:00:00.000+02:00",
+  "dateModified": "2026-08-08T17:00:00.000+02:00",
   "type": "hike",
   "track": true,
   "detailMap": "swiss",
@@ -13,8 +15,8 @@
     "width": 1920,
     "height": 499
   },
-  "movie": "ejHS_fawMz8",
-  "intro": "Den Fürstensteig in Liechtenstein war ich bereits vor einigen Jahre in Kombination mit einer längeren Wanderung gegangen. Leider war er damals am Morgen noch im Schatten, so dass ich mir vornahm ihn noch einmal am Abend zu gehen.<br />Diesen Dienstag machte ich deshalb etwas früher Feierabend und stellt mein Auto um 17:00 in Gaflei ab, von wo der Fürstensteig am Schnellsten erreichbar ist.",
+  "movie": "NebcT6mVA-Y",
+  "intro": "Den Fürstensteig in Liechtenstein war ich bereits vor einigen Jahre in Kombination mit einer längeren Wanderung gegangen. Leider war er damals am Morgen noch im Schatten, so dass ich mir vornahm ihn noch einmal am Abend zu gehen.<br />Diesen Dienstag machte ich deshalb etwas früher Feierabend und stellte mein Auto um 17:00 in Gaflei ab, von wo der Fürstensteig am Schnellsten erreichbar ist.",
   "landmarks": [
     {
       "photos": [
@@ -177,7 +179,7 @@
           "height": 1080
         }
       ],
-      "text": "Zum Teil ist der Weg sogar mit Geländern gesichert. Ich denke aber, dass sie diese nicht mehr neu bauen und jetzt eher auf Drahtseile zum Festhalten konzentrieren. Wirklich brauchen tut man aber beides hier nicht."
+      "text": "Zum Teil ist der Weg sogar mit Geländern gesichert. Ich denke aber, dass sie diese nicht mehr neu bauen und sich jetzt eher auf Drahtseile zum Festhalten konzentrieren. Wirklich brauchen tut man aber beides hier nicht."
     },
     {
       "photos": [
@@ -201,7 +203,7 @@
           "height": 936
         }
       ],
-      "text": "Der weitere Verlauf der Felswand. Suchspiel: Wer finden den anderen Wanderer auf dem Bild?<br />Insgesamt waren mir nur vier Leute im ganzen Fürstensteig begegnet - ein Vorteil der späten Stunde."
+      "text": "Der weitere Verlauf der Felswand. Suchspiel: Wer findet den anderen Wanderer auf dem Bild?<br />Insgesamt waren mir nur vier Leute im ganzen Fürstensteig begegnet - ein Vorteil der späten Stunde."
     },
     {
       "photos": [
@@ -213,7 +215,7 @@
           "height": 1080
         }
       ],
-      "text": "Der (für mich) schwierigste Abschnitt des Fürstensteig. Hier ging es in drei kleinen Serpentinen bergab und leider auch ein kleines Stück ohne erreichbares Drahseil. Danach ging es aber gleich wieder angenehmer weiter."
+      "text": "Der für mich schwierigste Abschnitt des Fürstensteigs. Hier ging es in drei kleinen Serpentinen bergab und leider auch ein kleines Stück ohne erreichbares Drahtseil. Danach ging es aber gleich wieder angenehmer weiter."
     },
     {
       "photos": [
@@ -378,7 +380,7 @@
           "height": 1047
         }
       ],
-      "text": "Auf Südseite des Grats ist es deutlich idyllischer.<br />Nun muss man aber aufpassen nicht einfach den Hauptweg weiterzulaufen, sondern (ohne Wegweiser) direkt nach rechts auf den Grat abzubiegen. Sonst verpasst man die Alpspitz."
+      "text": "Auf der Südseite des Grats ist es deutlich idyllischer.<br />Nun muss man aber aufpassen nicht einfach den Hauptweg weiterzulaufen, sondern ohne Wegweiser direkt nach rechts auf den Grat abzubiegen. Sonst verpasst man die Alpspitz."
     },
     {
       "photos": [
@@ -390,7 +392,7 @@
           "height": 1080
         }
       ],
-      "text": "Der Weg hinauf auf die Alpspitz geht durch Latschkiefern und über viele Wurzeln, ist aber nicht schwierig."
+      "text": "Der Weg hinauf auf die Alpspitz geht durch Latschenkiefern und über viele Wurzeln, ist aber nicht schwierig."
     },
     {
       "photos": [
@@ -514,7 +516,7 @@
           "height": 1080
         }
       ],
-      "text": "Vom Bargällasattel folgte ich nun dem direkten Weg zurück nach Gaflei. Bis zu dieser (bewirteten) Alp kann man den Fahrweg noch vermeiden und die Serpentinen auf einem richtigen Wanderweg abkürzen."
+      "text": "Vom Bargällasattel folgte ich nun dem direkten Weg zurück nach Gaflei. Bis zu dieser bewirteten Alp kann man den Fahrweg noch vermeiden und die Serpentinen auf einem richtigen Wanderweg abkürzen."
     },
     {
       "photos": [
@@ -545,7 +547,7 @@
           "height": 938
         }
       ],
-      "text": "Von der Alp bis nach Gaflei geht dann ausschließlich auf der Schotterstraße die noch fehlenden knapp 200m hinab. Durch das schöne Abendlicht und die Aussicht trotzdem sehr schön."
+      "text": "Von der Alp bis nach Gaflei geht es dann ausschließlich auf der Schotterstraße die noch fehlenden knapp 200m hinab. Durch das schöne Abendlicht und die Aussicht trotzdem sehr schön."
     },
     {
       "photos": [
@@ -576,7 +578,7 @@
           "height": 1080
         }
       ],
-      "text": "Da es noch hell war, habe ich noch einen zusätzlichen (10min) Abstecher zum Aussichtsturm von Gaflei gemacht. Dieser liegt etwas unterhalb von Gaflei."
+      "text": "Da es noch hell war, habe ich noch einen zusätzlichen 10min Abstecher zum Aussichtsturm von Gaflei gemacht. Dieser liegt etwas unterhalb von Gaflei."
     },
     {
       "photos": [
@@ -636,5 +638,5 @@
       "text": "Und stark vergrößertes Bild vom Mond und daneben der <a href='/alpine/malbun/20161016' target='_blank'>Naafkopf</a>"
     }
   ],
-  "outro": "Fazit: Sicher eine der interessantesten 3h Rundwanderungen in der Gegend. Der Fürstensteig ist abends sehr sinnvoll, da die Sonne in die Felswand scheint, es kein Problem mehr beim Parken gibt und nur Wenige unterwegs sind. Natürlich sollte man nicht zu knapp mit dem Sonnenuntergang kalkulieren, so dass man sich Zeit lassen kann.<br />Der Fürstensteig selbst ist nicht schwieriger als andere Bergwege (rot/weiß) und zum größten Teil gut gesichert."
+  "outro": "Fazit: Sicher eine der interessantesten 3h Rundwanderungen in der Gegend. Der Fürstensteig ist abends sehr sinnvoll, da die Sonne in die Felswand scheint, es kein Problem mehr beim Parken gibt und nur Wenige unterwegs sind. Natürlich sollte man nicht zu knapp mit dem Sonnenuntergang kalkulieren, so dass man sich Zeit lassen kann.<br />Der Fürstensteig selbst ist nicht schwieriger als andere rot-weiße Bergwege und zum größten Teil gut gesichert."
 }

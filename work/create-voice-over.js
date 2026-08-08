@@ -3,8 +3,8 @@ import jsonfile from 'jsonfile';
 import fs from 'fs';
 
 const projectPath = 'C:/Users/Roger/web/Dp4';
-const destination = 'ebnit';
-const reportDate = '20220724';
+const destination = 'malbun';
+const reportDate = '20220809';
 
 const client = new textToSpeech.TextToSpeechClient();
 
