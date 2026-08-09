@@ -3,12 +3,24 @@ import jsonfile from 'jsonfile';
 import fs from 'fs';
 
 const projectPath = 'C:/Users/Roger/web/Dp4';
-const destination = 'malbun';
-const reportDate = '20220809';
+const destination = 'lenzerheide';
+const reportDate = '20220828';
 
 const client = new textToSpeech.TextToSpeechClient();
 
 const pronunciations = [
+  {
+    regex: /(safientals)/gi,
+    replace: 'Safien-Tals'
+  },
+  {
+    regex: /(bruchalp)/gi,
+    replace: 'Bruch-Alp'
+  },
+  {
+    regex: /(alpinweg)/gi,
+    replace: 'Alpin-Weg'
+  },
   {
     regex: /(mapraggsee)/gi,
     replace: 'Ma-pragg-see'

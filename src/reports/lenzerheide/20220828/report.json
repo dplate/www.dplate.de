@@ -1,6 +1,8 @@
 {
   "destination": "lenzerheide",
   "date": "20220828",
+  "datePublished": "2022-08-29T12:00:00.000+02:00",
+  "dateModified": "2026-08-09T16:00:00.000+02:00",
   "type": "hike",
   "track": true,
   "detailMap": "swiss",
@@ -13,8 +15,8 @@
     "width": 1920,
     "height": 448
   },
-  "movie": "gLfTAqhAPBg",
-  "intro": "Für den letzten Augustsonntag war die Wettervorhersage zuerst noch ziemlich unsicher, mit dem stabilsten Wetter rund um Lenzerheide. Nach etwas Suchen fand ich die Heinzenberger Gratwanderung. Da ich keine Lust auf ein zusätzliche Busfahrt hatte, verwandelte ich sie in eine Rundwanderung. Als Startpunkt wählte ich unverändert den 1800m hohen Glaspass, den ich über eine (teilweise einspurige) Asphaltstraße von Thusis aus um kurz nach 9:00 erreichte. Neben dem Wanderparkplatz (5CHF), gibt es dort noch ein Gasthaus und eine Postbushaltestelle.",
+  "movie": "vqCCh5r2IC4",
+  "intro": "Für den letzten Augustsonntag war die Wettervorhersage zuerst noch ziemlich unsicher, mit dem stabilsten Wetter rund um Lenzerheide. Nach etwas Suchen fand ich die Heinzenberger Gratwanderung. Da ich keine Lust auf eine zusätzliche Busfahrt hatte, verwandelte ich sie in eine Rundwanderung. Als Startpunkt wählte ich unverändert den 1800m hohen Glaspass, den ich über eine teilweise einspurige Asphaltstraße von Thusis aus um kurz nach 9:00 erreichte. Neben dem Wanderparkplatz für 5CHF, gibt es dort noch ein Gasthaus und eine Postbushaltestelle.",
   "landmarks": [
     {
       "photos": [
@@ -26,7 +28,7 @@
           "height": 820
         }
       ],
-      "text": "Blick auf den eigentliche Glaspass. Die Straße endet dort, zu Fuß kann man aber auf der anderen Seite in das Safiental absteigen. Für mich ging es aber den Berg hinauf nach Süden zum Glaser Grat."
+      "text": "Blick auf den eigentlichen Glaspass. Die Straße endet dort, zu Fuß kann man aber auf der anderen Seite in das Safiental absteigen. Für mich ging es aber den Berg hinauf nach Süden zum Glaser Grat."
     },
     {
       "photos": [
@@ -38,7 +40,7 @@
           "height": 1080
         }
       ],
-      "text": "Nach den ersten Höhenmetern der Blick zurück über den Glaspass hinweg zum beeindruckenden, fast 3000m hohen, <a href='/alpine/lenzerheide/20231001' target='_blank'>Piz Beverin</a>. Vom Glaspass aus führt dort nur ein blauer Alpinweg hinauf.<br />Das Wetter übrigens schon deutlich besser als erwartet."
+      "text": "Nach den ersten Höhenmetern der Blick zurück über den Glaspass hinweg zum beeindruckenden fast 3000m hohen <a href='/alpine/lenzerheide/20231001' target='_blank'>Piz Beverin</a>. Vom Glaspass aus führt dort nur ein blauer Alpinweg hinauf.<br />Das Wetter übrigens schon deutlich besser als erwartet."
     },
     {
       "photos": [
@@ -131,7 +133,7 @@
           "height": 1080
         }
       ],
-      "text": "Und hier zur Abwechslung der Blick nach vorne. Nach dem Glaser Grat ist der nächste Berg des Grat eigentlich der Lüschgrat hier links im Bild. Über diesen führt ebenfalls ein Weg, aber da der offizielle Wanderung rechts daran vorbei führt, werde ich ihn ebenfalls ausgelassen... und natürlich spare ich so ein paar Höhenmeter."
+      "text": "Und hier zur Abwechslung der Blick nach vorne. Nach dem Glaser Grat ist der nächste Berg des Grats eigentlich der Lüschgrat hier links im Bild. Über diesen führt ebenfalls ein Weg, aber da der offizielle Wanderweg rechts daran vorbei führt, habe ich ihn ebenfalls ausgelassen... und natürlich spare ich so ein paar Höhenmeter."
     },
     {
       "photos": [
@@ -162,7 +164,7 @@
           "height": 743
         }
       ],
-      "text": "Aussicht während der Umwanderung des Lüschgrats auf einem Feldweg.<br />Rechts der Glaser Grat, das buckelige Geländer unterhalb nennte sich Bruchalp. Und links ist der Lüschersee zu sehen, der beim Rückweg besucht werden wird."
+      "text": "Aussicht während der Umwanderung des Lüschgrats auf einem Feldweg.<br />Rechts der Glaser Grat, das buckelige Geländer unterhalb nennt sich Bruchalp. Und links ist der Lüschersee zu sehen, der beim Rückweg besucht werden wird."
     },
     {
       "photos": [
@@ -260,7 +262,7 @@
           "height": 1080
         }
       ],
-      "text": "Ankunft auf dem 2160m hohen Tguma schließlich nach 2,5h Stunden vom Glaspass. Kein besonders spektakulärer Gipfel, aber mit Kreuz und Gipfelbuch. Bei der Wanderung an diesem Tag ging es aber ohnehin nicht um Gipfel und viele Höhenmetern, sondern um den Gratweg selbst."
+      "text": "Ankunft auf dem 2160m hohen Tguma schließlich nach 2,5 Stunden vom Glaspass. Kein besonders spektakulärer Gipfel, aber mit Kreuz und Gipfelbuch. Bei der Wanderung an diesem Tag ging es aber ohnehin nicht um Gipfel und viele Höhenmeter, sondern um den Gratweg selbst."
     },
     {
       "photos": [
@@ -399,7 +401,7 @@
           "height": 1080
         }
       ],
-      "text": "Ankunft nach dem tollen Weg auf der 2120m hohen Präzer Höhi, die auch Mutta heißt. Inzwischen war ich knapp 4h unterwegs - aber in meiner geplanten Runde war das nun das Ende des Grats. Von nun würde es zurück zum Glaspass gehen."
+      "text": "Ankunft nach dem tollen Weg auf der 2120m hohen Präzer Höhi, die auch Mutta heißt. Inzwischen war ich knapp 4h unterwegs - aber in meiner geplanten Runde war das nun das Ende des Grats. Von nun an ging es zurück zum Glaspass."
     },
     {
       "photos": [
@@ -423,7 +425,7 @@
           "height": 801
         }
       ],
-      "text": "Und Tele nach Tenna und dessen mit Solarplatten ausgestattetem (kurzen) Skilift."
+      "text": "Und Tele nach Tenna und dessen mit Solarplatten ausgestattetem kurzen Skilift."
     },
     {
       "photos": [
@@ -447,7 +449,7 @@
           "height": 874
         }
       ],
-      "text": "Dann zweigte ich aber vom Grat zur (bewirtschafteten) Sarner Alp ab. Von dort ging es dann eine Serpentine auf diesem betonierten Fahrweg hinab, den man auch mit privatem Auto befahren darf."
+      "text": "Dann zweigte ich aber vom Grat zur bewirtschafteten Sarner Alp ab. Von dort ging es dann eine Serpentine auf diesem betonierten Fahrweg hinab, den man auch mit privatem Auto befahren darf."
     },
     {
       "photos": [
@@ -536,5 +538,5 @@
       "text": "Hier kann man die ehemaligen Ausmaße des Sees erahnen. Dahinter der am Morgen umwanderte Lüschgrat.<br />Anschließend nur noch etwas Abstieg auf einem Feldweg hinunter zum Parkplatz auf dem Glaspass, den ich um 17:00 erreichte"
     }
   ],
-  "outro": "Fazit: Die Heinzenberger Gratwanderung ist eine tolle Tour auf nicht zu schwierigen Wanderwegen und meistens über 2000m. Wer (wie ich( keine Lust auf den Aufwand mit der Rückfahrt mit Postbussen hat, kann den abwechslungsreichen Gratweg jederzeit abbrechen und (auf ebenfalls schönen) Wegen zum Glaspass zurückkehren. Mit 20km war meine gewählte Runde recht lang, aber es waren keine großen Höhenunterschiede dabei."
+  "outro": "Fazit: Die Heinzenberger Gratwanderung ist eine tolle Tour auf nicht zu schwierigen Wanderwegen und meistens über 2000m. Wer wie ich keine Lust auf den Aufwand mit der Rückfahrt mit Postbussen hat, kann den abwechslungsreichen Gratweg jederzeit abbrechen und auf ebenfalls schönen Wegen zum Glaspass zurückkehren. Mit 20km war meine gewählte Runde recht lang, aber es waren keine großen Höhenunterschiede dabei."
 }
