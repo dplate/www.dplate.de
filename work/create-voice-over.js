@@ -4,11 +4,23 @@ import fs from 'fs';
 
 const projectPath = 'C:/Users/Roger/web/Dp4';
 const destination = 'alpstein';
-const reportDate = '20220902';
+const reportDate = '20260903';
 
 const client = new textToSpeech.TextToSpeechClient();
 
 const pronunciations = [
+  {
+    regex: /(Chälbersäntis)/gi,
+    replace: 'Kälber-Säntis'
+  },
+  {
+    regex: /(D\.h\.)/gi,
+    replace: 'Das heißt'
+  },
+  {
+    regex: /(Verschnaufspause)/gi,
+    replace: 'Verschnaufs-Pause'
+  },
   {
     regex: /(Chreialpfirst)/gi,
     replace: 'Krei-Alp-First'

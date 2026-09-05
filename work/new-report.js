@@ -1,14 +1,15 @@
-const fs = require('fs');
-const tinify = require('tinify');
-tinify.key = require('./tinify-key.js');
-const exif = require('jpeg-exif');
-const sizeOf = require('image-size');
-const { DateTime } = require('luxon');
+import fs from 'fs';
+import tinify from 'tinify';
+import tinifyKey from './tinify-key.js';
+import exif from 'jpeg-exif';
+import sizeOf from 'image-size';
+import { DateTime } from 'luxon';
+tinify.key = tinifyKey;
 
 const projectPath = 'C:/Users/Roger/web/Dp4';
-const sourcePath = 'D:/Bilder/2026/20260613_sardonahütte';
-const destination = 'pizol';
-const reportDate = '20260613';
+const sourcePath = 'D:/Bilder/2026/20260903_säntis';
+const destination = 'alpstein';
+const reportDate = '20260903';
 
 const newPhoto = async (sourcePhoto, targetPhotosPath, index) => {
   const photoNumber = (index + 1).toLocaleString('en-US', {

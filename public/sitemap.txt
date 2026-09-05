@@ -272,3 +272,4 @@ https://www.dplate.de/alpine/alpstein/20260101
 https://www.dplate.de/alpine/alpstein/20260502
 https://www.dplate.de/alpine/schwarzwald/20260525
 https://www.dplate.de/alpine/pizol/20260613
+https://www.dplate.de/alpine/alpstein/20260903

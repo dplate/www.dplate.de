@@ -68,7 +68,7 @@ Title3D.propTypes = {
   width: PropTypes.number.isRequired,
   height: PropTypes.number.isRequired,
   align: PropTypes.string,
-  scrollTrigger: PropTypes.object
+  scrollTrigger: PropTypes.number
 };
 
 export default Title3D;
