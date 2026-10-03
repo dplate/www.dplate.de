@@ -3,12 +3,16 @@ import jsonfile from 'jsonfile';
 import fs from 'fs';
 
 const projectPath = 'C:/Users/Roger/web/Dp4';
-const destination = 'alpstein';
-const reportDate = '20260903';
+const destination = 'savognin';
+const reportDate = '20260912';
 
 const client = new textToSpeech.TextToSpeechClient();
 
 const pronunciations = [
+  {
+    regex: /(tga)/gi,
+    replace: 'tscha'
+  },
   {
     regex: /(Chälbersäntis)/gi,
     replace: 'Kälber-Säntis'
