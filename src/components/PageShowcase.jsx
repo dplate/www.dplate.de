@@ -18,64 +18,73 @@ const PageShowcase = () => {
       </div>
 
       <a href="https://500px.com/photo/236887527/mullerbahn-by-dirk-plate">
-        <img className={pictureStyle}
-          src="https://drscdn.500px.org/photo/236887527/q%3D80_m%3D600/v2?sig=251eb1b218280794c753edda7af48c6a110a307e676741b864c726de7919b875"
+        <img
+          className={pictureStyle}
+          src="https://cdn-resize-prod-com.500px.cloud/photo/236887527/0.jpg?s=1&expiry=1791032400&sig=dc53343b6b945e9a86b887adb8fd2c4e2372bcc65d7473cb0d22f8c864ac8eb2"
           alt="Mullerbahn"
         />
       </a>
 
       <a href="https://500px.com/photo/96797665/snowy-trees-in-lenzerheide-by-dirk-plate">
-        <img className={pictureStyle} 
-          src="https://drscdn.500px.org/photo/96797665/q%3D80_m%3D600/v2?sig=30c8177c1aea0db10287b9eb08a42c2bc3686c4afe011f9bae3d6dcf1af0e6ad"
+        <img
+          className={pictureStyle}
+          src="https://cdn-resize-prod-com.500px.cloud/photo/96797665/0.jpg?s=1&expiry=1791032400&sig=0514c0158091eb87da37de5f3d89a81ab822d3a174ed137c4f25c17095348f57"
           alt="Snowy trees in Lenzerheide"
         />
       </a>
 
       <a href="https://500px.com/photo/179194983/silsersee-in-the-autumn-by-dirk-plate">
-        <img className={pictureStyle} 
-          src="https://drscdn.500px.org/photo/179194983/q%3D80_m%3D600/v2?sig=a3e005c0550eb410d5b9fb51cab06dad81f720a5d021482455cebea16aa759dd"
+        <img
+          className={pictureStyle}
+          src="https://cdn-resize-prod-com.500px.cloud/photo/179194983/0.jpg?s=1&expiry=1791032400&sig=b68213c7decc19b6bc2a8f6f347dfff2ab1600f3d9237ce065b7e02ae27a9f4a"
           alt="Silsersee in the autumn"
         />
       </a>
 
       <a href="https://500px.com/photo/89417783/skiing-above-fog-by-dirk-plate">
-        <img className={pictureStyle} 
-          src="https://drscdn.500px.org/photo/89417783/q%3D80_m%3D600/v2?sig=a650a04bc41d3ff20ac2437854a1373b0663c0ed088396d98222aac8e50d0834"
+        <img
+          className={pictureStyle}
+          src="https://cdn-resize-prod-com.500px.cloud/photo/89417783/0.jpg?s=1&expiry=1791032400&sig=61a731aca7f48572859b9deb4950b0c0c28bae1aede27050c9112920041a8214"
           alt="Skiing above fog"
         />
       </a>
 
       <a href="https://500px.com/photo/99014841/galzigbahn-by-dirk-plate">
-        <img className={pictureStyle} 
-          src="https://drscdn.500px.org/photo/99014841/q%3D80_m%3D600/v2?sig=66ec0bef0932d3417304922514a006d1eb67d9b32bb399e22630e02144a52e26"
+        <img
+          className={pictureStyle}
+          src="https://cdn-resize-prod-com.500px.cloud/photo/99014841/0.jpg?s=1&expiry=1791032400&sig=8629bcf35910e5e2e968915bdb29ebd6eb7523374344f59d45c99a89589e7ad1"
           alt="Galzigbahn"
         />
       </a>
 
       <a href="https://500px.com/photo/138331197/chair-lift-in-winter-storm-by-dirk-plate">
-        <img className={pictureStyle} 
-          src="https://drscdn.500px.org/photo/138331197/q%3D80_m%3D600/v2?sig=fa4bbd196b399913456501e7039b132272faf8b45fd21379ed4628250de29fe0"
+        <img
+          className={pictureStyle}
+          src="https://cdn-resize-prod-com.500px.cloud/photo/138331197/0.jpg?s=1&expiry=1791032400&sig=5fa790bc6b8b84e05c9504f98c6682486788cd4705198882c308120e816e9028"
           alt="Chair lift in winter storm"
         />
       </a>
 
       <a href="https://500px.com/photo/89407329/titlis-skiing-by-dirk-plate">
-        <img className={pictureStyle} 
-          src="https://drscdn.500px.org/photo/89407329/q%3D80_m%3D600/v2?sig=2635d7cb814c2858ac1c5c5a73159f524881377171ca76278b9e040c8fe1e92f"
+        <img
+          className={pictureStyle}
+          src="https://cdn-resize-prod-com.500px.cloud/photo/89407329/0.jpg?s=1&expiry=1791032400&sig=9bfaa961d48d8b3ff24bc507a53abb63bb619e80117299a99a73a8305a6f0ac4"
           alt="Titlis Skiing"
         />
       </a>
 
       <a href="https://500px.com/photo/89903859/spring-in-scherzingen-by-dirk-plate">
-        <img className={pictureStyle} 
-          src="https://drscdn.500px.org/photo/89903859/q%3D80_m%3D600/v2?sig=48535825276956606ec8864ab8237f8ce0acdcaafc8c38f11f3934dccdc43255"
+        <img
+          className={pictureStyle}
+          src="https://cdn-resize-prod-com.500px.cloud/photo/89903859/0.jpg?s=1&expiry=1791032400&sig=fef099ff280a228196cf3b7954e464e071579b64650a63cf96626c7a57622f85"
           alt="Spring in Scherzingen"
         />
       </a>
 
       <a href="https://500px.com/photo/89420917/stuben-on-christmas-by-dirk-plate">
-        <img className={pictureStyle} 
-          src="https://drscdn.500px.org/photo/89420917/q%3D80_m%3D600/v2?sig=8577f9937b3a08b17b20e8e04f05043134e3ed2f7ae3e9c6b4018cd150b6eb15"
+        <img
+          className={pictureStyle}
+          src="https://cdn-resize-prod-com.500px.cloud/photo/89420917/0.jpg?s=1&expiry=1791032400&sig=9115229b5dd85ba70317ce14b9c4b1db5ce21734b07a400ec834d350b0ad092c"
           alt="Stuben on Christmas"
         />
       </a>

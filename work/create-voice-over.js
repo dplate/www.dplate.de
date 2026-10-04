@@ -3,12 +3,16 @@ import jsonfile from 'jsonfile';
 import fs from 'fs';
 
 const projectPath = 'C:/Users/Roger/web/Dp4';
-const destination = 'savognin';
-const reportDate = '20260912';
+const destination = 'praettigau';
+const reportDate = '20260919';
 
 const client = new textToSpeech.TextToSpeechClient();
 
 const pronunciations = [
+  {
+    regex: /(äbi)/gi,
+    replace: 'ä-bi'
+  },
   {
     regex: /(tga)/gi,
     replace: 'tscha'
