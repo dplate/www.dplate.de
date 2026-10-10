@@ -3,12 +3,20 @@ import jsonfile from 'jsonfile';
 import fs from 'fs';
 
 const projectPath = 'C:/Users/Roger/web/Dp4';
-const destination = 'praettigau';
-const reportDate = '20260919';
+const destination = 'montafon';
+const reportDate = '20260921';
 
 const client = new textToSpeech.TextToSpeechClient();
 
 const pronunciations = [
+  {
+    regex: /(buin)/gi,
+    ipa: 'buˈiːn'
+  },
+  {
+    regex: /(vallüla)/gi,
+    replace: 'val-lü-la'
+  },
   {
     regex: /(äbi)/gi,
     replace: 'ä-bi'

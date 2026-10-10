@@ -7,9 +7,9 @@ import { DateTime } from 'luxon';
 tinify.key = tinifyKey;
 
 const projectPath = 'C:/Users/Roger/web/Dp4';
-const sourcePath = 'D:/Bilder/2026/20260919_älpeltispitz';
-const destination = 'praettigau';
-const reportDate = '20260919';
+const sourcePath = 'D:/Bilder/2026/20260921_radsattel';
+const destination = 'montafon';
+const reportDate = '20260921';
 
 const newPhoto = async (sourcePhoto, targetPhotosPath, index) => {
   const photoNumber = (index + 1).toLocaleString('en-US', {
