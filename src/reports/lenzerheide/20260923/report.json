@@ -1,0 +1,721 @@
+{
+  "destination": "lenzerheide",
+  "date": "20260923",
+  "datePublished": "2026-10-18T14:20:19.097+02:00",
+  "dateModified": "2026-10-18T14:20:19.097+02:00",
+  "type": "hike",
+  "track": true,
+  "detailMap": "swiss",
+  "shortTitle": "Stätzerhorn",
+  "title": "Scalottas - Stätzerhorn - Fulhorn",
+  "title3d": {
+    "offsetY": 0,
+    "fontSize": 7.5,
+    "align": "left",
+    "width": 1920,
+    "height": 523
+  },
+  "movie": "kfnVRBFswCs",
+  "intro": "Am 23. September wollte ich eine Wanderung auf der Westseite der Lenzerheide unternehmen, die ich bisher nur vom Skifahren kannte. Den ganzen Grat vom Piz Scalottas bis zum Fulhorn kann man nicht mit einer Rundwanderung machen. Nach längerer Planung beschloss ich, mein Auto auf dem großen kostenpflichtigen Parkplatz in Churwalden abzustellen und am Morgen mit dem Post- und Ortsbus nach Val Sporz zu fahren, wo die Sesselbahn auf den Piz Scalottas startet.",
+  "landmarks": [
+    {
+      "photos": [
+        {
+          "name": "001",
+          "alt": "Sesselbahn Tgantieni",
+          "date": "2026-09-23T09:01:44.000+02:00",
+          "width": 1920,
+          "height": 920
+        }
+      ],
+      "text": "Mit Halbtax ist die Fahrt mit den zwei Sesselbahnen auf den Piz Scalottas mit 14CHF recht günstig.<br />Hier hatte ich bereits die erste Fahrt aus dem noch schattigen und kalten Ort hinter mir und lief hinüber zur zweiten Bahn."
+    },
+    {
+      "photos": [
+        {
+          "name": "002",
+          "alt": "Sesselbahn Piz Scalottas",
+          "date": "2026-09-23T09:06:19.000+02:00",
+          "width": 1655,
+          "height": 1080
+        }
+      ],
+      "text": "Und hier saß ich nun in der Sesselbahn auf den Piz Scalottas."
+    },
+    {
+      "photos": [
+        {
+          "name": "003",
+          "alt": "Aussicht Piz Scalottas",
+          "date": "2026-09-23T09:13:59.000+02:00",
+          "width": 1759,
+          "height": 1080
+        }
+      ],
+      "text": "Um 9:10 war ich schließlich auf dem 2320m hohen Piz Scalottas angekommen und konnte endlich mit meiner eigentlichen Wanderung starten. Von Churwalden bis hier her hatte ich gut 45 Minuten gebraucht.<br />Hier der Blick auf der Rückseite hinab zum <a href='/alpine/lenzerheide/20231001' target='_blank'>Piz Beverin</a>."
+    },
+    {
+      "photos": [
+        {
+          "name": "004",
+          "alt": "Herbst am Piz Scalottas",
+          "date": "2026-09-23T09:15:50.000+02:00",
+          "width": 1719,
+          "height": 1080
+        }
+      ],
+      "text": "Blick die Trasse der Sesselbahn hinab nach Tgantieni.<br />Es war an diesem Werktag nichts los und ich war wohl der erste Gast des Tages in der Bahn und auch völlig alleine auf dem Gipfel."
+    },
+    {
+      "photos": [
+        {
+          "name": "005",
+          "alt": "Lenzerheide",
+          "date": "2026-09-23T09:16:12.000+02:00",
+          "width": 1920,
+          "height": 937
+        }
+      ],
+      "text": "Und hier ist der weitere Weg zu sehen, immer auf dem Grat lang. Das erste Ziel war der Gipfel des Piz Danis, hier ganz links."
+    },
+    {
+      "photos": [
+        {
+          "name": "006",
+          "alt": "Piz Scalottas",
+          "date": "2026-09-23T09:37:42.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "text": "Nach dem Abstieg über die Skipiste der Blick zurück zum Piz Scalottas."
+    },
+    {
+      "photos": [
+        {
+          "name": "007",
+          "alt": "Piz Danis",
+          "date": "2026-09-23T09:41:49.000+02:00",
+          "width": 1920,
+          "height": 936
+        }
+      ],
+      "text": "Und der Blick zum Piz Danis. Schon hier fragte ich mich, wie da wohl der Weg hochgehen würde."
+    },
+    {
+      "photos": [
+        {
+          "name": "008",
+          "alt": "Skilift Gertrud im Herbst",
+          "date": "2026-09-23T09:45:50.000+02:00",
+          "width": 1920,
+          "height": 976
+        }
+      ],
+      "text": "Vorbei ging es aber erst noch an der Bergstation des Skilifts Gertrud, der wohl in ein paar Jahren ersetzt werden wird."
+    },
+    {
+      "photos": [
+        {
+          "name": "009",
+          "alt": "Wanderung Piz Danis",
+          "date": "2026-09-23T10:02:36.000+02:00",
+          "width": 870,
+          "height": 1080
+        }
+      ],
+      "text": "Auch hier war mir noch nicht klar, wie es da hoch gehen sollte... "
+    },
+    {
+      "photos": [
+        {
+          "name": "010",
+          "alt": "Gratweg Piz Scalottas",
+          "date": "2026-09-23T10:08:24.000+02:00",
+          "width": 815,
+          "height": 1080
+        }
+      ],
+      "text": "Kleine Verschnaufspause beim Aufstieg über den Grat und der Blick zurück."
+    },
+    {
+      "photos": [
+        {
+          "name": "011",
+          "alt": "Schwierigkeit Piz Danis",
+          "date": "2026-09-23T10:15:26.000+02:00",
+          "width": 758,
+          "height": 1080
+        }
+      ],
+      "text": "Der Weg ging schließlich erst auf der steilen Westseite des Piz Danis am Fels vorbei und dann hier die letzten Meter mit Kraxelei durch den Felsen hinauf. Der Tiefblick war durchaus nicht ohne und Höhenangst ist hier nicht behilflich."
+    },
+    {
+      "photos": [
+        {
+          "name": "012",
+          "alt": "Aufstieg Piz Danis",
+          "date": "2026-09-23T10:17:47.000+02:00",
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "name": "013",
+          "alt": "Wanderweg Piz Danis",
+          "date": "2026-09-23T10:18:06.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "text": "Oben wird der Grat des 2500m hohen Piz Danis dann wieder flacher und so ging es weiter hinauf."
+    },
+    {
+      "photos": [
+        {
+          "name": "014",
+          "alt": "Aussicht Piz Danis",
+          "date": "2026-09-23T10:26:56.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "text": "Ankunft auf dem Gipfel um 10:30. Es war Zeit für eine erste Pause im Gras nachdem ich nun gut 1h gewandert war.<br />Hier der Blick hinab nach Lenzerheide."
+    },
+    {
+      "photos": [
+        {
+          "name": "015",
+          "alt": "Gratwanderung Lenzerheide",
+          "date": "2026-09-23T10:29:24.000+02:00",
+          "width": 1920,
+          "height": 940
+        }
+      ],
+      "text": "Und hier die Vorschau auf den weiteren Weg. Erst knapp 200m Abstieg zur Bergstation der Sesselbahn Lavoz, dann hinauf auf das grasige Stätzerhorn und dann nach weiter über den Grat nach links zum Fulhorn."
+    },
+    {
+      "photos": [
+        {
+          "name": "016",
+          "alt": "Weg über Felsen",
+          "date": "2026-09-23T10:38:17.000+02:00",
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "name": "017",
+          "alt": "Ausgesetzter Weg",
+          "date": "2026-09-23T10:40:41.000+02:00",
+          "width": 1870,
+          "height": 1080
+        }
+      ],
+      "text": "Auch beim Abstieg vom Piz Danis musste ich einen Felsen überklettern und auch der danach folgende Grashang war etwas ausgesetzt. Kurz: der Piz Danis war von beiden Seiten anspruchsvoller als ich es erwartet hatte."
+    },
+    {
+      "photos": [
+        {
+          "name": "018",
+          "alt": "Bergstation Lavoz",
+          "date": "2026-09-23T10:44:30.000+02:00",
+          "width": 982,
+          "height": 1080
+        }
+      ],
+      "text": "Der Rest des Wegs hinab zur Bergstation der Lavoz Sesselbahn war dagegen einfach. Diese Bahn fährt im Sommer nicht."
+    },
+    {
+      "photos": [
+        {
+          "name": "019",
+          "alt": "Panoramatafel",
+          "date": "2026-09-23T10:55:17.000+02:00",
+          "width": 720,
+          "height": 1080
+        }
+      ],
+      "text": "Auch die Panoramatafel dort ist wohl eher für den Winter mit Schnee angebracht, denn sie befindet sich wenig hilfreich in 2m Höhe."
+    },
+    {
+      "photos": [
+        {
+          "name": "020",
+          "alt": "Murmeltier auf dem Weg",
+          "date": "2026-09-23T11:05:15.000+02:00",
+          "width": 1609,
+          "height": 958
+        },
+        {
+          "name": "021",
+          "alt": "Weg im Grashang",
+          "date": "2026-09-23T11:17:54.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "text": "Der nun folgende Aufstieg auf das Stätzerhorn war einfacher, als es aus der Entfernung aussah. Auf breitem Weg ging es mit Hilfe von zwei Serpentinen den Grashang hinauf. Hier wimmelte es von Murmeltieren."
+    },
+    {
+      "photos": [
+        {
+          "name": "022",
+          "alt": "Bergstation Stätzerhorn",
+          "date": "2026-09-23T11:21:44.000+02:00",
+          "width": 1850,
+          "height": 1080
+        }
+      ],
+      "text": "Die letzten Meter ging es dann auf dem Grat.<br />Hier der steile Blick hinab zur Bergstation der Stätzerhorn Sesselbahn, die ebenfalls im Sommer nicht in Betrieb ist."
+    },
+    {
+      "photos": [
+        {
+          "name": "023",
+          "alt": "Panorama Stätzerhorn",
+          "date": "2026-09-23T11:31:39.000+02:00",
+          "width": 1920,
+          "height": 708
+        }
+      ],
+      "text": "Den Gipfel des 2570m hohen Stätzerhorns erreichte ich im gegen 11:30, also nach einer weiteren Stunde vom Piz Danis, der hier im Rückblick rechts zur sehen ist."
+    },
+    {
+      "photos": [
+        {
+          "name": "024",
+          "alt": "Aussicht Stätzerhorn",
+          "date": "2026-09-23T11:32:54.000+02:00",
+          "width": 1920,
+          "height": 828
+        }
+      ],
+      "text": "Die Aussicht vom Stätzerhorn nach Osten. Links das Rheintal, rechts die Lenzerheide. Wie man sieht war bestes Wanderwetter. Nachdem ich bisher noch niemandem begegnet war, kamen nun plötzlich einige Wanderer auf dem Gipfel an. Am kürzesten kommt man von der Bergstation der Panoramabahn hier herauf, die hier irgendwo in der Bildmitte zu sehen ist."
+    },
+    {
+      "photos": [
+        {
+          "name": "025",
+          "alt": "Gratwanderung Stätzerhorn",
+          "date": "2026-09-23T11:39:27.000+02:00",
+          "width": 1920,
+          "height": 829
+        }
+      ],
+      "text": "Der Blick den weiteren Grat entlang beunruhigte mich etwas, denn der Weg sah ziemlich steil aus. Das nächste Ziel war der gleich hohe Fulaberg, der hier genau in der Mitte sichtbar ist."
+    },
+    {
+      "photos": [
+        {
+          "name": "026",
+          "alt": "Steiler Weg Stätzerhorn",
+          "date": "2026-09-23T11:41:50.000+02:00",
+          "width": 1391,
+          "height": 1080
+        }
+      ],
+      "text": "Schon nach 10min Pause machte ich mich wieder auf. Der Abstieg vom Stätzerhorn ging zuerst durch sympathische Felsbrocken hinab, bei denen ich ab und zu die Hände brauchte."
+    },
+    {
+      "photos": [
+        {
+          "name": "027",
+          "alt": "Gebrochener Grat",
+          "date": "2026-09-23T11:46:28.000+02:00",
+          "width": 1771,
+          "height": 1080
+        },
+        {
+          "name": "028",
+          "alt": "Schwierigkeit Stätzerhorn",
+          "date": "2026-09-23T11:49:11.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "text": "Nach dem steilen Abstieg wurde der Weg kurz einfach, der Grat scheint dort aber bald ins Tal abzubrechen.<br />Hier dann der Blick zurück zum Gipfel des Stäzerhorns."
+    },
+    {
+      "photos": [
+        {
+          "name": "029",
+          "alt": "Steiler Hangweg",
+          "date": "2026-09-23T11:52:57.000+02:00",
+          "width": 1920,
+          "height": 895
+        },
+        {
+          "name": "030",
+          "alt": "Schwieriger Bergweg",
+          "date": "2026-09-23T11:53:56.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "text": "Nachfolgend umging der Weg den Grat über den sehr steilen Grashang. Da ich nicht ganz schwindelfrei bin, war das die schwierigste Stelle für mich und ich hätte mir ein paar Sicherungen in Form von Drahtseilen gewünscht - aber die gab es auf dem gesamten Weg nicht."
+    },
+    {
+      "photos": [
+        {
+          "name": "031",
+          "alt": "Steiler Gratweg",
+          "date": "2026-09-23T11:57:35.000+02:00",
+          "width": 1920,
+          "height": 666
+        },
+        {
+          "name": "032",
+          "alt": "Gratweg Stätzerhorn",
+          "date": "2026-09-23T11:59:16.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "text": "Dann ging der Weg wieder hinauf auf den Grat, zum Glück etwas breiter. Hier jeweils der Blick zurück zum Stätzerhorn."
+    },
+    {
+      "photos": [
+        {
+          "name": "033",
+          "alt": "Fulaberg",
+          "date": "2026-09-23T12:02:22.000+02:00",
+          "width": 1920,
+          "height": 782
+        },
+        {
+          "name": "034",
+          "alt": "Weg auf Grat",
+          "date": "2026-09-23T12:05:24.000+02:00",
+          "width": 991,
+          "height": 1080
+        },
+        {
+          "name": "035",
+          "alt": "Schwierigkeit Fulaberg",
+          "date": "2026-09-23T12:07:24.000+02:00",
+          "width": 1920,
+          "height": 848
+        }
+      ],
+      "text": "Weitere Impressionen vom Grat auf den Fulaberg. Viel ausgesetzter muss es für mich nicht sein."
+    },
+    {
+      "photos": [
+        {
+          "name": "036",
+          "alt": "Fulaberggrat",
+          "date": "2026-09-23T12:11:06.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "text": "Vom Stätzerhorn zum Fulaberg brauchte ich eine halbe Stunde. Auf dem Gipfel machte ich nur eine kurze Pause, denn noch waren nicht alle Schwierigkeiten gemeistert."
+    },
+    {
+      "photos": [
+        {
+          "name": "037",
+          "alt": "Weg über Fels",
+          "date": "2026-09-23T12:16:29.000+02:00",
+          "width": 1920,
+          "height": 1007
+        }
+      ],
+      "text": "Direkt am Gipfel ging es erst diesen kleinen Absatz hinab. Obwohl der Weg auf dem Foto nun sehr breit aussieht, habe ich das lieber sitzend erledigt. Höhenangstbefreite können dort auch alternativ einfach runterhüpfen."
+    },
+    {
+      "photos": [
+        {
+          "name": "038",
+          "alt": "Gratwanderung",
+          "date": "2026-09-23T12:20:02.000+02:00",
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "name": "039",
+          "alt": "Panorama Fulaberg",
+          "date": "2026-09-23T12:24:39.000+02:00",
+          "width": 1920,
+          "height": 758
+        }
+      ],
+      "text": "Wie man sieht war der Grat noch nicht zu Ende. Den Weg fand ich nun aber ok zu gehen und es wehte zum Glück auch kein stürmischer Wind oder ähnliches."
+    },
+    {
+      "photos": [
+        {
+          "name": "040",
+          "alt": "Wanderung Lenzerheide",
+          "date": "2026-09-23T12:27:58.000+02:00",
+          "width": 1920,
+          "height": 736
+        }
+      ],
+      "text": "Dann wurde der Hang aber etwas flacher und ich hatte den schwierigen Grat geschafft.<br />Hier der Blick zurück, links der Fulaberg, daneben das Stätzerhorn und rechts-hinten der Piz Danis."
+    },
+    {
+      "photos": [
+        {
+          "name": "041",
+          "alt": "Hangweg",
+          "date": "2026-09-23T12:29:30.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "text": "Um den nächsten kleinen Gipfel ging es wieder über den Grashang herum."
+    },
+    {
+      "photos": [
+        {
+          "name": "042",
+          "alt": "Tödi und Vorab",
+          "date": "2026-09-23T12:39:46.000+02:00",
+          "width": 1920,
+          "height": 1018
+        }
+      ],
+      "text": "Tele über das Rheintal hinweg. Rechts der Vorabgletscher, links der vergletscherte Tödi."
+    },
+    {
+      "photos": [
+        {
+          "name": "043",
+          "alt": "Blick zum Fulhorn",
+          "date": "2026-09-23T12:42:31.000+02:00",
+          "width": 1864,
+          "height": 1080
+        }
+      ],
+      "text": "Zum Schluss ging es dann noch mal kurz über den Grat, aber nicht mehr schwierig. Kurz danach gönnte ich mir meine wohlverdiente Mittagspause. Inzwischen war es 12:40, für den Grat hatte ich also eine Stunde gebraucht.<br />Die Stärkung war auch notwendig, denn hier rechts ist schon der nächste Gipfel zu sehen, das 2500m hohe Fulhorn."
+    },
+    {
+      "photos": [
+        {
+          "name": "044",
+          "alt": "Wanderung Churwalden",
+          "date": "2026-09-23T13:03:34.000+02:00",
+          "width": 1920,
+          "height": 940
+        }
+      ],
+      "text": "Und hier befand ich mich dann schon beim 100m Aufstieg auf das Fulhorn. Steil und anstrengend, aber nicht mehr gefährlich."
+    },
+    {
+      "photos": [
+        {
+          "name": "045",
+          "alt": "Panorama Fulhorn",
+          "date": "2026-09-23T13:12:59.000+02:00",
+          "width": 1920,
+          "height": 456
+        }
+      ],
+      "text": "Auf dem Gipfel des Fulhorns kam ich um 13:15 an. Ich gönnte mir eine weitere Pause im warmen Gras und betrachtete meine bisherig geschaffte Strecke. Von nun an sollte es nur noch bergab gehen, allerdings insgesamt 1300 Höhenmeter bis nach Churwalden."
+    },
+    {
+      "photos": [
+        {
+          "name": "046",
+          "alt": "Aussicht Fulhorn",
+          "date": "2026-09-23T13:28:05.000+02:00",
+          "width": 1920,
+          "height": 811
+        }
+      ],
+      "text": "Blick vom Gipfel nach Norden. Über die große Grasfläche geht es zum Dreibündenstein und nach Brambrüesch. Von dort war ich auch mal <a href='/alpine/lenzerheide/20161029' target='_blank'>auf das Fulhorn gewandert</a>, hier kannte ich nun also die Wege."
+    },
+    {
+      "photos": [
+        {
+          "name": "047",
+          "alt": "Tiefblick",
+          "date": "2026-09-23T13:32:59.000+02:00",
+          "width": 720,
+          "height": 1080
+        }
+      ],
+      "text": "Auch das Fulhorn ist ein durchaus steiler Berg, besonders Richtung Westen geht es steil und weit bergab."
+    },
+    {
+      "photos": [
+        {
+          "name": "048",
+          "alt": "Wanderweg Fulhorn",
+          "date": "2026-09-23T13:35:25.000+02:00",
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "name": "049",
+          "alt": "Gratweg",
+          "date": "2026-09-23T13:39:28.000+02:00",
+          "width": 832,
+          "height": 1080
+        }
+      ],
+      "text": "Wie es sich für diesen Tag gehörte, ging auch der Abstieg vom Fulhorn wieder direkt auf dem Grat und auch durchaus nicht einfach."
+    },
+    {
+      "photos": [
+        {
+          "name": "050",
+          "alt": "Startender Milan",
+          "date": "2026-09-23T13:47:11.000+02:00",
+          "width": 1920,
+          "height": 1077
+        }
+      ],
+      "text": "Dann wurde der Weg aber endgültig einfach und es ging schön durch eine Grasbuckellandschaft. Hier scheuchte ich einen Milan auf."
+    },
+    {
+      "photos": [
+        {
+          "name": "051",
+          "alt": "Herbstwanderung",
+          "date": "2026-09-23T13:53:39.000+02:00",
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "name": "052",
+          "alt": "Wanderung Fulhorn",
+          "date": "2026-09-23T14:04:25.000+02:00",
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "name": "053",
+          "alt": "Weite Landschaft",
+          "date": "2026-09-23T14:10:06.000+02:00",
+          "width": 1920,
+          "height": 753
+        }
+      ],
+      "text": "Weitere Bilder vom flachen Weg über die herbstlichen Wiesen."
+    },
+    {
+      "photos": [
+        {
+          "name": "054",
+          "alt": "Bergweg Pradaschier",
+          "date": "2026-09-23T14:41:08.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "text": "Dann folgte ich dem Wegweiser nach Churwalden und es ging sehr schön hinab nach Pradaschier."
+    },
+    {
+      "photos": [
+        {
+          "name": "055",
+          "alt": "Treppenweg",
+          "date": "2026-09-23T14:47:42.000+02:00",
+          "width": 820,
+          "height": 1080
+        }
+      ],
+      "text": "Hier ging es kurz flotter mit Hilfe vieler Holzstufen hinunter."
+    },
+    {
+      "photos": [
+        {
+          "name": "056",
+          "alt": "Schöner Weg",
+          "date": "2026-09-23T14:52:32.000+02:00",
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "name": "057",
+          "alt": "Wanderweg Pradaschier",
+          "date": "2026-09-23T14:58:07.000+02:00",
+          "width": 1904,
+          "height": 1080
+        }
+      ],
+      "text": "Anschließend folgte ein schöner Querweg entlang der Bärenalp hinüber nach Pradaschier."
+    },
+    {
+      "photos": [
+        {
+          "name": "058",
+          "alt": "Zipline Pradaschier",
+          "date": "2026-09-23T15:12:12.000+02:00",
+          "width": 1895,
+          "height": 1080
+        }
+      ],
+      "text": "Am Gasthaus Pradaschier hätte ich dann die Sesselbahn, eine Zipline oder eine Sommerrodelbahn hinunter nach Churwalden nehmen können. Rückblickend hätte ich mich für die Sommerrodelbahn entscheiden sollen, aber da es noch nicht zu spät war und das Wetter schön, entschied ich mich für den weiteren Abstieg zu Fuß."
+    },
+    {
+      "photos": [
+        {
+          "name": "059",
+          "alt": "Sommerrodelbahn Churwalden",
+          "date": "2026-09-23T15:25:24.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "text": "Zuerst ging es noch direkt entlang der Sommerrodelbahn schnell hinab."
+    },
+    {
+      "photos": [
+        {
+          "name": "060",
+          "alt": "Wanderung Churwalden",
+          "date": "2026-09-23T15:58:02.000+02:00",
+          "width": 1779,
+          "height": 1080
+        },
+        {
+          "name": "061",
+          "alt": "Wanderwege Churwalden",
+          "date": "2026-09-23T16:05:29.000+02:00",
+          "width": 1737,
+          "height": 1080
+        }
+      ],
+      "text": "Dann folgten aber einige umständliche Umwege durch den angrenzenden Wald, die relativ viel Zeit kosteten. Ich hätte vermutlich nicht den Wegweisern folgen, sondern einfach den Hang weiter hinabgehen sollen. Nicht das mein Weg hässlich gewesen wäre, aber ich hatte langsam genug."
+    },
+    {
+      "photos": [
+        {
+          "name": "062",
+          "alt": "Waldhotel Pradaschier",
+          "date": "2026-09-23T16:11:59.000+02:00",
+          "width": 1920,
+          "height": 748
+        }
+      ],
+      "text": "Auch vorbei ging es am fotogenen Waldhotel Pradaschier."
+    },
+    {
+      "photos": [
+        {
+          "name": "063",
+          "alt": "Churwalden",
+          "date": "2026-09-23T16:16:54.000+02:00",
+          "width": 1920,
+          "height": 968
+        }
+      ],
+      "text": "Churwalden auf 1200m Höhe erreichte ich um 16:15. Leider an dessen unterem Ende, so dass ich nun noch leicht ansteigend durch den Ort zurück zu meinem Parkplatz laufen musste."
+    },
+    {
+      "photos": [
+        {
+          "name": "064",
+          "alt": "Parkplatz Churwalden",
+          "date": "2026-09-23T16:36:36.000+02:00",
+          "width": 1904,
+          "height": 1080
+        }
+      ],
+      "text": "Dann hatte ich es aber geschafft und beendete meine Wanderung. Mit der Sommerrodelbahn wäre ich direkt hier gelandet."
+    }
+  ],
+  "outro": "Fazit: Spannende und lange Gratwanderung. Wer nicht schwindelfrei und trittsicher ist, sollte sie besser nicht machen, für alle anderen ist es ein tolles Erlebnis. Ich hätte mir für die Psyche mehr Sicherungen gewünscht und auch die Logistik mit Bussen und Bahnen war etwas zeitaufwändig."
+}

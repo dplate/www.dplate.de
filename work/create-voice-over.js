@@ -3,12 +3,20 @@ import jsonfile from 'jsonfile';
 import fs from 'fs';
 
 const projectPath = 'C:/Users/Roger/web/Dp4';
-const destination = 'montafon';
-const reportDate = '20260921';
+const destination = 'lenzerheide';
+const reportDate = '20260923';
 
 const client = new textToSpeech.TextToSpeechClient();
 
 const pronunciations = [
+  {
+    regex: /(beunruhigte)/gi,
+    replace: 'be-unruhigte'
+  },
+  {
+    regex: /(verschnaufspause)/gi,
+    replace: 'Verschnaufs-Pause'
+  },
   {
     regex: /(buin)/gi,
     ipa: 'buˈiːn'
