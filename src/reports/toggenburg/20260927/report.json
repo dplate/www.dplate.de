@@ -1,0 +1,445 @@
+{
+  "destination": "toggenburg",
+  "date": "20260927",
+  "datePublished": "2026-10-24T14:52:42.229+02:00",
+  "dateModified": "2026-10-24T14:52:42.229+02:00",
+  "type": "hike",
+  "track": true,
+  "detailMap": "swiss",
+  "shortTitle": "Leistchamm",
+  "title": "Selunbahn - Leistchamm",
+  "title3d": {
+    "offsetY": 3,
+    "fontSize": 8,
+    "align": "right",
+    "width": 1920,
+    "height": 544
+  },
+  "movie": "emIpeHrWiIA",
+  "intro": "Von den westlichen Gipfeln der Churfirsten fehlen mir noch einige. An diesem sonnigen Septembersonntag wollte ich den westlichsten, den Leistchamm, besteigen.",
+  "landmarks": [
+    {
+      "photos": [
+        {
+          "name": "001",
+          "alt": "Parkplatz Selunbahn",
+          "date": "2026-09-27T09:20:56.000+02:00",
+          "width": 1488,
+          "height": 1080
+        }
+      ],
+      "text": "Die ersten gut 600 Höhenmeter zum Gipfel wollte ich mit der urigen Selunbahn überbrücken. Da jede der zwei Kisten nur fünf Personen transportieren kann, muss dort mit längeren Wartezeiten gerechnet werden. Bei meiner Ankunft auf dem Parkplatz um 8:50 gab es nur eine kurze Schlange, so dass ich nach 30 Minuten hinauf fahren konnte. Wie man sieht war die Schlange inzwischen deutlich länger geworden."
+    },
+    {
+      "photos": [
+        {
+          "name": "002",
+          "alt": "Obertoggenburg",
+          "date": "2026-09-27T09:24:48.000+02:00",
+          "width": 1805,
+          "height": 1080
+        },
+        {
+          "name": "003",
+          "alt": "Kistenbahn",
+          "date": "2026-09-27T09:26:46.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "text": "Blick aus der Kiste ins Obertoggenburg und dann rauschte die entgegenkommende Gondel vorbei. Man kann drinnen recht komfortabel sitzen, aber es ist natürlich schon etwas klapprig und spannend."
+    },
+    {
+      "photos": [
+        {
+          "name": "004",
+          "alt": "Urige Seilbahn",
+          "date": "2026-09-27T09:33:44.000+02:00",
+          "width": 1433,
+          "height": 1080
+        }
+      ],
+      "text": "10 Minuten später war ich auch schon oben. In der Bergstation muss man selbständig aussteigen und die Türen wieder schließen.<br />Hier war meine Kiste schon wieder bei der Talfahrt."
+    },
+    {
+      "photos": [
+        {
+          "name": "005",
+          "alt": "Wanderweg Selunbahn",
+          "date": "2026-09-27T09:42:03.000+02:00",
+          "width": 1920,
+          "height": 942
+        },
+        {
+          "name": "006",
+          "alt": "Fahrweg Strichboden",
+          "date": "2026-09-27T09:44:17.000+02:00",
+          "width": 1920,
+          "height": 852
+        }
+      ],
+      "text": "Alle anderen Fahrgäste gingen von der Bergstation Richtung Osten zum Selun oder <a href='/alpine/toggenburg/20180526' target='_blank'>zur Sellamatt</a>, ich ging stattdessen den Alpweg nach Südwest. Erst der Blick nach vorne, dann zurück."
+    },
+    {
+      "photos": [
+        {
+          "name": "007",
+          "alt": "Alpweg Hinterselun",
+          "date": "2026-09-27T09:54:49.000+02:00",
+          "width": 1920,
+          "height": 831
+        },
+        {
+          "name": "008",
+          "alt": "Alp Hinterselun",
+          "date": "2026-09-27T10:04:00.000+02:00",
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "name": "009",
+          "alt": "Spazierweg Toggenburg",
+          "date": "2026-09-27T10:07:32.000+02:00",
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "name": "010",
+          "alt": "Einfacher Wanderweg",
+          "date": "2026-09-27T10:08:40.000+02:00",
+          "width": 1723,
+          "height": 1080
+        }
+      ],
+      "text": "Unspektakulär ging es zunächst leicht ansteigend an verschiedenen Alpen vorbei durch die schöne Landschaft unterhalb der Churfirsten."
+    },
+    {
+      "photos": [
+        {
+          "name": "011",
+          "alt": "Blick zum Alpstein",
+          "date": "2026-09-27T10:15:53.000+02:00",
+          "width": 1920,
+          "height": 871
+        }
+      ],
+      "text": "An der Alp Hüeberlis verließ der Wanderweg dann den Fahrweg und es ging zügiger den Hang hinauf. Mir wurde gleich ordentlich warm."
+    },
+    {
+      "photos": [
+        {
+          "name": "012",
+          "alt": "Doline",
+          "date": "2026-09-27T10:28:33.000+02:00",
+          "width": 1882,
+          "height": 1080
+        }
+      ],
+      "text": "Vorbei ging es an einer großen Doline, wo eine der zahlreichen Karsthöhlen in diesem Gebiet eingestürzt ist. Laut Schautafel ist dies nun der Zugang zu einem über 100m tiefen Schacht."
+    },
+    {
+      "photos": [
+        {
+          "name": "013",
+          "alt": "Toggenburger Höhenweg",
+          "date": "2026-09-27T10:31:00.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "text": "Nun ging es direkt auf den steilen Glattchamm zu, auf den es allerdings keinen Wanderweg gibt."
+    },
+    {
+      "photos": [
+        {
+          "name": "014",
+          "alt": "Karstgebiet",
+          "date": "2026-09-27T10:42:37.000+02:00",
+          "width": 1920,
+          "height": 776
+        },
+        {
+          "name": "015",
+          "alt": "Wanderweg durch Karrenfeld",
+          "date": "2026-09-27T10:45:05.000+02:00",
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "name": "016",
+          "alt": "Lustiger Weg",
+          "date": "2026-09-27T10:47:40.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "text": "Anschließend folgte ein schöner Abschnitt mitten durch ein Karrenfeld, das aus erodierten Kalkfelsen mit tiefen Felsspalten besteht."
+    },
+    {
+      "photos": [
+        {
+          "name": "017",
+          "alt": "Tritt",
+          "date": "2026-09-27T11:30:53.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "text": "Nach einem kleinen Abstieg kam ich zum steilen Tritt. Der Weg ist dort in den Fels geschlagen und fast durchgängig mit Drahtseil gesichert. Er bleibt dabei aber breit und einfach zu gehen. Neben dem Weg geht es aber durchaus weit hinab, besonders als hier die Leistplatte (eine Felsplatte) gequert werden musste.<br />Kurz danach erreichte ich den Hauptweg auf den Leistchamm und es ging 300m steil den Berggrücken hinauf."
+    },
+    {
+      "photos": [
+        {
+          "name": "018",
+          "alt": "Blick auf Murg",
+          "date": "2026-09-27T12:39:52.000+02:00",
+          "width": 1045,
+          "height": 1080
+        }
+      ],
+      "text": "Auf dem Weg zum Gipfel war sehr viel los, denn von Amden ist es eine beliebte und recht kurze Wanderung. Ich kam gegen 12:30 auf dem 2100m hohen Leistchamm an und war erst mal überwältigt von dem fast senkrechten Tiefblick zum Walensee, 1700m tiefer.<br />Auf der anderen Seite ist der Ort Murg zu sehen und in dem Tal dahinter befinden sich die <a href='/alpine/glarus/20160709' target='_blank'>Murgseen</a>."
+    },
+    {
+      "photos": [
+        {
+          "name": "019",
+          "alt": "Panorama Leistchamm",
+          "date": "2026-09-27T12:41:06.000+02:00",
+          "width": 1891,
+          "height": 1080
+        }
+      ],
+      "text": "Kleines Panorama Richtung Osten. Wie man sieht war auch der Gipfel gut belagert, es gibt dort aber genug Platz."
+    },
+    {
+      "photos": [
+        {
+          "name": "020",
+          "alt": "Felswand Leistchamm",
+          "date": "2026-09-27T12:45:02.000+02:00",
+          "width": 907,
+          "height": 1080
+        }
+      ],
+      "text": "Foto die steile Felswand hinab, direkt unterhalb befindet sich <a href='/alpine/flumserberg/20250420' target='_blank'>Quinten</a>."
+    },
+    {
+      "photos": [
+        {
+          "name": "021",
+          "alt": "Gipfel Leistchamm",
+          "date": "2026-09-27T12:52:01.000+02:00",
+          "width": 768,
+          "height": 1080
+        }
+      ],
+      "text": "Und da kurz die Bank am Gipfelkreuz frei wurde, habe ich natürlich schnell ein Foto gemacht."
+    },
+    {
+      "photos": [
+        {
+          "name": "022",
+          "alt": "Amden",
+          "date": "2026-09-27T13:20:18.000+02:00",
+          "width": 1694,
+          "height": 1080
+        }
+      ],
+      "text": "Schon wieder beim Abstieg der Blick nach Amden, von wo man auch <a href='/alpine/toggenburg/20150606' target='_blank'>auf den Speer wandern</a> kann (ganz rechts)."
+    },
+    {
+      "photos": [
+        {
+          "name": "023",
+          "alt": "Wanderweg Leistchamm",
+          "date": "2026-09-27T13:24:04.000+02:00",
+          "width": 874,
+          "height": 1080
+        }
+      ],
+      "text": "Und so sieht der Weg über den Rücken auf den Leistchamm aus. Bei Sommerhitze ist es sicher nicht zu empfehlen, es war jetzt selbst im Herbst anstrengend."
+    },
+    {
+      "photos": [
+        {
+          "name": "024",
+          "alt": "Wanderung Amden",
+          "date": "2026-09-27T13:41:22.000+02:00",
+          "width": 789,
+          "height": 1080
+        }
+      ],
+      "text": "Weiter unten ging es dann in vielen Serpentinen durch den lichten Wald. Noch hatte ich nicht die Stelle erreicht, wo ich auf den Hauptweg getroffen war."
+    },
+    {
+      "photos": [
+        {
+          "name": "025",
+          "alt": "Leistplatte",
+          "date": "2026-09-27T14:09:26.000+02:00",
+          "width": 1752,
+          "height": 1080
+        },
+        {
+          "name": "026",
+          "alt": "Wanderung Leistchamm",
+          "date": "2026-09-27T14:10:50.000+02:00",
+          "width": 1759,
+          "height": 1080
+        }
+      ],
+      "text": "Nach dem Abstieg erreichte ich um 14:00 eine große Wiese unterhalb des Leistchamms. Von dort kann man schön die Leistplatte sehen, durch die zuvor oberhalb der Tritt führte. Die Massen an Wanderern verließen mich hier wieder, nun wurde es wieder einsam.<br />Zeit für eine weitere Pause in der Sonne."
+    },
+    {
+      "photos": [
+        {
+          "name": "027",
+          "alt": "Leistbach",
+          "date": "2026-09-27T14:29:02.000+02:00",
+          "width": 1787,
+          "height": 1080
+        }
+      ],
+      "text": "Blick das Leistbachtal hinab an dessen Ende sich Starkenbach befindet, wo ich gestartet war. Rechts oberhalb des Tals war ich hier her gewandert, nun ging es über die Höhen links zurück."
+    },
+    {
+      "photos": [
+        {
+          "name": "028",
+          "alt": "Hochmoor",
+          "date": "2026-09-27T14:44:56.000+02:00",
+          "width": 1703,
+          "height": 1080
+        },
+        {
+          "name": "029",
+          "alt": "Moorwiese im Herbst",
+          "date": "2026-09-27T14:46:28.000+02:00",
+          "width": 1728,
+          "height": 1080
+        }
+      ],
+      "text": "Schön ging es nun durch das Hochmoorgebiet Schwemmi."
+    },
+    {
+      "photos": [
+        {
+          "name": "030",
+          "alt": "Abgestorbene Bäume",
+          "date": "2026-09-27T15:01:30.000+02:00",
+          "width": 1829,
+          "height": 1080
+        },
+        {
+          "name": "031",
+          "alt": "Fliegenpilz",
+          "date": "2026-09-27T15:10:55.000+02:00",
+          "width": 1645,
+          "height": 1080
+        },
+        {
+          "name": "032",
+          "alt": "Wanderung Fügenspitz",
+          "date": "2026-09-27T15:11:46.000+02:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "text": "Mit gut 50m Aufstieg ging es danach durch einen naturbelassenen Wald mit vielen abgestorbenen Bäumen und Fliegenpilzen. Diesen abwechslungsreichen Weg kannte ich bereits von einer <a href='/alpine/toggenburg/20240511' target='_blank'>Wanderung von Amden zur Flügenspitz</a>."
+    },
+    {
+      "photos": [
+        {
+          "name": "033",
+          "alt": "Vorder Höhi",
+          "date": "2026-09-27T15:15:30.000+02:00",
+          "width": 1920,
+          "height": 928
+        }
+      ],
+      "text": "Dann erreichte ich die Vorder Höhi, ein Pass, über den eine bei Radfahrern beliebte asphaltierte Straße von Amden nach Starkenbach führt. Auf dieser musste ich nun kurz weiterlaufen."
+    },
+    {
+      "photos": [
+        {
+          "name": "034",
+          "alt": "Alpweg Häderenberg",
+          "date": "2026-09-27T15:41:55.000+02:00",
+          "width": 1893,
+          "height": 1080
+        },
+        {
+          "name": "035",
+          "alt": "Churfirsten",
+          "date": "2026-09-27T15:43:33.000+02:00",
+          "width": 1920,
+          "height": 760
+        },
+        {
+          "name": "036",
+          "alt": "Weg zur Alp Arsch",
+          "date": "2026-09-27T15:59:35.000+02:00",
+          "width": 1611,
+          "height": 1080
+        }
+      ],
+      "text": "Aber schon hier verließ ich die Straße und es ging auf schönerem Alpweg leicht absteigend den Hang entlang. Dabei der Blick zu den Churfirsten, wo ich am Morgen gewandert war. Dann erreichte ich die Alp Arsch."
+    },
+    {
+      "photos": [
+        {
+          "name": "037",
+          "alt": "Alp Arsch",
+          "date": "2026-09-27T16:02:59.000+02:00",
+          "width": 1299,
+          "height": 1080
+        }
+      ],
+      "text": "Ja, die Alp heißt wirklich so, hier der Beweis."
+    },
+    {
+      "photos": [
+        {
+          "name": "038",
+          "alt": "Herbstwanderung",
+          "date": "2026-09-27T16:14:36.000+02:00",
+          "width": 1737,
+          "height": 1080
+        },
+        {
+          "name": "039",
+          "alt": "Alter Baum mit Mauer",
+          "date": "2026-09-27T16:18:50.000+02:00",
+          "width": 1709,
+          "height": 1080
+        }
+      ],
+      "text": "Dann ging es erst mal auf normalen Wanderweg über Wiesen weiter. Inzwischen war es schon nach 16:00 und dadurch gab es schon schönes Abendlicht."
+    },
+    {
+      "photos": [
+        {
+          "name": "040",
+          "alt": "Glatt- und Leistchamm",
+          "date": "2026-09-27T16:37:14.000+02:00",
+          "width": 1751,
+          "height": 1080
+        }
+      ],
+      "text": "Blick das Tal hinauf zum Glattchamm in der Bildmitte und rechts daneben der Leistchamm."
+    },
+    {
+      "photos": [
+        {
+          "name": "041",
+          "alt": "Fahrstraße Langenegg",
+          "date": "2026-09-27T16:46:35.000+02:00",
+          "width": 1555,
+          "height": 1080
+        }
+      ],
+      "text": "Von der Alp Strick ab ging es dann die letzten gut 200 Höhenmeter hinab auf asphaltierter Straße nach Starkenbach. Dabei auch vorbei an Langenegg.<br />Das Auto erreichte ich gegen 17:00."
+    }
+  ],
+  "outro": "Fazit: Alleine die Fahrt mit der Selunbahn ist bereits einen Ausflug wert. In Kombination mit dem tollen Aussichtsgipfel des Leistchamms ergab sich eine schöne Rundwanderung. Anspruchsvoller war der Weg nur kurz am Tritt und der Aufstieg über den Rücken des Leistchamms war ordentlich anstrengend. An diesem Sonntag war es dort auch leider etwas arg voll."
+}

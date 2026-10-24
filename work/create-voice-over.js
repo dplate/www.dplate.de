@@ -3,12 +3,20 @@ import jsonfile from 'jsonfile';
 import fs from 'fs';
 
 const projectPath = 'C:/Users/Roger/web/Dp4';
-const destination = 'lenzerheide';
-const reportDate = '20260923';
+const destination = 'toggenburg';
+const reportDate = '20260927';
 
 const client = new textToSpeech.TextToSpeechClient();
 
 const pronunciations = [
+  {
+    regex: /(schwemmi)/gi,
+    replace: 'schwem-mi'
+  },
+  {
+    regex: /(leistchamm)/gi,
+    replace: 'leist-chamm'
+  },
   {
     regex: /(beunruhigte)/gi,
     replace: 'be-unruhigte'
@@ -240,10 +248,6 @@ const pronunciations = [
   {
     regex: /(titlis)/gi,
     ipa: 'ˈtiːtlɪs'
-  },
-  {
-    regex: /(selun)/gi,
-    ipa: 'selun'
   },
   {
     regex: /(isizer)/gi,
