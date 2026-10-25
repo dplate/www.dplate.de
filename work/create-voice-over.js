@@ -3,12 +3,20 @@ import jsonfile from 'jsonfile';
 import fs from 'fs';
 
 const projectPath = 'C:/Users/Roger/web/Dp4';
-const destination = 'toggenburg';
-const reportDate = '20260927';
+const destination = 'davos';
+const reportDate = '20261011';
 
 const client = new textToSpeech.TextToSpeechClient();
 
 const pronunciations = [
+  {
+    regex: /(mystisch)/gi,
+    replace: 'müs-tisch'
+  },
+  {
+    regex: /(rüedischtälli)/gi,
+    replace: 'rüedisch-tälli'
+  },
   {
     regex: /(schwemmi)/gi,
     replace: 'schwem-mi'
