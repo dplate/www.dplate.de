@@ -1,6 +1,8 @@
 {
   "destination": "alpstein",
   "date": "20220922",
+  "datePublished": "2022-09-22T12:00:00.000+02:00",
+  "dateModified": "2026-11-07T13:00:00.000+01:00",
   "type": "hike",
   "track": true,
   "detailMap": "swiss",
@@ -13,8 +15,8 @@
     "width": 1920,
     "height": 516
   },
-  "movie": "LCLg6Coq3s0",
-  "intro": "An diesem September-Donnerstag außerhalb der Ferienzeit wollte ich eine der beliebtesten Wanderungen im Alpstein unternehmen - den Geologischen Wanderweg vom Hohen Kasten. Vor neun Jahren hatte ich sie das letzte Mal gemacht, allerdings eher unkonventionell in umgekehrte Richtung und ohne Seilbahnfahrt. Wer daran mehr Interesse hat, klickt <a href='/alpine/alpstein/20131019'>hier</a>.<br />Diesmal stellte ich das Auto direkt in Brülisau ab (ca. 5CHF Parkgebühr) und fuhr um 8:40 für 28CHF gleich am Morgen auf den 1800m hohen Gipfel des Hohen Kasten.",
+  "movie": "YZpb_zr8T18",
+  "intro": "An diesem September-Donnerstag außerhalb der Ferienzeit wollte ich eine der beliebtesten Wanderungen im Alpstein unternehmen - den Geologischen Wanderweg vom Hohen Kasten. Vor neun Jahren hatte ich sie das letzte Mal gemacht, allerdings eher unkonventionell in umgekehrte Richtung und ohne Seilbahnfahrt. <span data-silent>Wer daran mehr Interesse hat, klickt <a href='/alpine/alpstein/20131019'>hier</a>.</span><br />Diesmal stellte ich das Auto direkt in Brülisau ab und fuhr um 8:40 für 28CHF gleich am Morgen auf den 1800m hohen Gipfel des Hohen Kasten.",
   "landmarks": [
     {
       "photos": [
@@ -50,7 +52,7 @@
           "height": 900
         }
       ],
-      "text": "Nun folgt die Aussicht nach Süden das Rheintal hinauf. Hier würde man die höchsten Gipfel sehen, aber es war recht dunstig.<br />Da in der Seilbahn nur rund zehn andere Wanderer waren, war an den Aussichtspunkten noch leer."
+      "text": "Nun folgt die Aussicht nach Süden das Rheintal hinauf. Hier würde man die höchsten Gipfel sehen, aber es war recht dunstig.<br />Da in der Seilbahn nur rund zehn andere Wanderer waren, war es an den Aussichtspunkten noch leer."
     },
     {
       "photos": [
@@ -62,7 +64,7 @@
           "height": 1080
         }
       ],
-      "text": "Und natürlich noch der bekannteste Blick vom Hohen Kasten. Hier kann man auch einen Großteil des heutigen Weges sehen: Erst immer am Grat links entlang bis zum Schnee, dann nach rechts hinab in das am Morgen schattige Tal. Anschließend am Sämtisersee vorbei und über die Wiesen rechts/unten zurück nach Brülisaus."
+      "text": "Und natürlich noch der bekannteste Blick vom Hohen Kasten. Hier kann man auch einen Großteil des heutigen Weges sehen: Erst immer am Grat links entlang bis zum Schnee, dann nach rechts hinab in das am Morgen schattige Tal. Anschließend am Sämtisersee vorbei und über die Wiesen rechts-unten zurück nach Brülisau."
     },
     {
       "photos": [
@@ -98,7 +100,7 @@
           "height": 936
         }
       ],
-      "text": "Nun ging auch für mich die Wanderung los. Da der Hohe Kasten nur nach Norden nicht aus Felswänden besteht, ging es zunächst in die falsche Richtung hinab zum Kastensattel, der zwischen dem Hohen kosten und dem Kamor liegt."
+      "text": "Nun ging auch für mich die Wanderung los. Da der Hohe Kasten nur nach Norden nicht aus Felswänden besteht, ging es zunächst in die falsche Richtung hinab zum Kastensattel, der zwischen dem Hohen Kasten und dem Kamor liegt."
     },
     {
       "photos": [
@@ -129,7 +131,7 @@
           "height": 1080
         }
       ],
-      "text": "Insgesamt geht der Weg nur selten direkt auf dem Grat, meistens umgeht er die steilen Felsen auf dessen Westseite. Morgens im Herbst hatte das den Nachteil, dass ich hier viel im Schatten unterwegs war. Dafür hat man aber immer den schönsten Blick über den Sämtisersee hinweg zu den höheren (und frisch schneebedeckten) Gipfeln des Alpsteins."
+      "text": "Insgesamt geht der Weg nur selten direkt auf dem Grat, meistens umgeht er die steilen Felsen auf dessen Westseite. Morgens im Herbst hatte das den Nachteil, dass ich hier viel im Schatten unterwegs war. Dafür hat man aber immer den schönsten Blick über den Sämtisersee hinweg zu den höheren und frisch schneebedeckten Gipfeln des Alpsteins."
     },
     {
       "photos": [
@@ -141,7 +143,7 @@
           "height": 1080
         }
       ],
-      "text": "Wieder auf dem Grat und wieder der Blick zurück. Vom Gipfel aus ging es übrigens über 200 Höhenmeter bergab, die im weiteren Verlauf des Wegs auch wieder erklommen werden mussten. Auf dem gesamte Weg geht es ständig bergauf und bergab. Also auch wenn man einige Höhenmeter zu Beginn mit der Seilbahn einspart, handelt es sich beim Geologischen Wanderweg nicht um einen reinen Abstieg."
+      "text": "Wieder auf dem Grat und wieder der Blick zurück. Vom Gipfel aus ging es übrigens über 200 Höhenmeter bergab, die im weiteren Verlauf des Wegs auch wieder erklommen werden mussten. Auf dem gesamten Weg geht es ständig bergauf und bergab. Also auch wenn man einige Höhenmeter zu Beginn mit der Seilbahn einspart, handelt es sich beim Geologischen Wanderweg nicht um einen reinen Abstieg."
     },
     {
       "photos": [
@@ -191,7 +193,7 @@
           "height": 1080
         }
       ],
-      "text": "Weitere Blicke vom Grat in Rheintal."
+      "text": "Weitere Blicke vom Grat ins Rheintal."
     },
     {
       "photos": [
@@ -222,7 +224,7 @@
           "height": 1080
         }
       ],
-      "text": "Kurz nach der Pause erreichte ich das Gasthaus Stauberen/Staubern, das unterhalb der Felsen der Stauberenkanzel auf dem Grat liegt. Nun wurde es etwas belebter, da man Stauberen auch auch ohne Anstrengung mit einer kleinen Seilbahn vom Rheintal aus erreichen kann."
+      "text": "Kurz nach der Pause erreichte ich das Gasthaus Stauberen, das unterhalb der Felsen der Stauberenkanzel auf dem Grat liegt. Nun wurde es etwas belebter, da man Stauberen auch auch ohne Anstrengung mit einer kleinen Seilbahn vom Rheintal aus erreichen kann."
     },
     {
       "photos": [
@@ -234,7 +236,7 @@
           "height": 957
         }
       ],
-      "text": "Da ich gerade eine Pause gemacht hatte, ging ich direkt weiter. Hier der Blick zurück. Nach Staubern folgte nun der felsigste und steilste Abschnitt der Wanderung, denn die Felswand der Stauberenkanzel musste durchquert werden - natürlich wieder auf der schattigen Nord/West-Seite."
+      "text": "Da ich gerade eine Pause gemacht hatte, ging ich direkt weiter. Hier der Blick zurück. Nach Staubern folgte nun der felsigste und steilste Abschnitt der Wanderung, denn die Felswand der Stauberenkanzel musste durchquert werden - natürlich wieder auf der schattigen Nordwest-Seite."
     },
     {
       "photos": [
@@ -258,7 +260,7 @@
           "height": 1080
         }
       ],
-      "text": "Und danach geht es richtig durch die Felswand, aber hier breit in den Fels geschlagen und doppelt mit Drahtseil gesichtert.<br />Im Hintergrund versteckte sich nun der Säntis in einer Wolke."
+      "text": "Und danach geht es richtig durch die Felswand, aber hier breit in den Fels geschlagen und doppelt mit Drahtseil gesichert.<br />Im Hintergrund versteckte sich nun der Säntis in einer Wolke."
     },
     {
       "photos": [
@@ -277,7 +279,7 @@
           "height": 1080
         }
       ],
-      "text": "Nach einem kurzen Aufstieg folgte nun das schönste Teilstück der ganzen Wanderung - ungefährlich auf dem Grat weiter zur Saxerlücke, die auch der Wendepunkte der Wanderung darstellt."
+      "text": "Nach einem kurzen Aufstieg folgte nun das schönste Teilstück der ganzen Wanderung - ungefährlich auf dem Grat weiter zur Saxerlücke, die auch der Wendepunkt der Wanderung darstellt."
     },
     {
       "photos": [
@@ -325,7 +327,7 @@
           "height": 1080
         }
       ],
-      "text": "Ankunft an der Saxerlücke gegen 13:00 Uhr nach 4h (mit Pause) Wanderung vom Hohen Kasten."
+      "text": "Ankunft an der Saxerlücke gegen 13:00 Uhr nach 4h Wanderung mit Pausen vom Hohen Kasten."
     },
     {
       "photos": [
@@ -512,7 +514,7 @@
           "height": 1039
         }
       ],
-      "text": "Das letzte Stück nach Ruhsitz ging es nun doch wieder auf einer Fahrstraße. Das Gasthaus erreichte ich gegen 16:30. Dort könnte man ein Trottinet mieten und damit hinab nach Brülisau fahren. Ich entschied mich für den Abstieg über die Wiesen, der nur eine gute halbe Stunde benötigt."
+      "text": "Das letzte Stück zum Ruhsitz ging es nun doch wieder auf einer Fahrstraße. Das Gasthaus erreichte ich gegen 16:30. Dort könnte man ein Trottinet mieten und damit hinab nach Brülisau fahren. Ich entschied mich für den Abstieg über die Wiesen, der nur eine gute halbe Stunde benötigt."
     },
     {
       "photos": [

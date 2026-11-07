@@ -3,12 +3,16 @@ import jsonfile from 'jsonfile';
 import fs from 'fs';
 
 const projectPath = 'C:/Users/Roger/web/Dp4';
-const destination = 'lenzerheide';
-const reportDate = '20261031';
+const destination = 'alpstein';
+const reportDate = '20220922';
 
 const client = new textToSpeech.TextToSpeechClient();
 
 const pronunciations = [
+  {
+    regex: /(stauberen)/gi,
+    ipa: 'ʃtau̯bərən'
+  },
   {
     regex: /(farur)/gi,
     replace: 'fa-rur'
