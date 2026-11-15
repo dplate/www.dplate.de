@@ -1,0 +1,678 @@
+{
+  "destination": "pizol",
+  "date": "20261108",
+  "datePublished": "2026-11-15T12:32:11.025+01:00",
+  "dateModified": "2026-11-15T12:32:11.025+01:00",
+  "type": "hike",
+  "track": true,
+  "detailMap": "swiss",
+  "shortTitle": "Guli",
+  "title": "Schwiwald - Guli",
+  "title3d": {
+    "offsetY": 2,
+    "fontSize": 8,
+    "align": "center",
+    "width": 1920,
+    "height": 461
+  },
+  "movie": "xFK8nKnjSz0",
+  "intro": "Vor sechs Jahren war ich schon einmal <a href='/alpine/pizol/20201114' target='_blank'>vom Weisstannental auf den Hüenerchopf</a> gewandert. Damals konnte ich den nachfolgenden Grat nur kurz folgen, deshalb wollte ich diesmal weiter oben starten, um bis zum Oxni zu laufen.",
+  "landmarks": [
+    {
+      "photos": [
+        {
+          "name": "001",
+          "alt": "Sonnenaufgang Parkplatz Schwiwald",
+          "date": "2026-11-08T07:59:47.000+01:00",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "name": "002",
+          "alt": "Alpstraße Tamons",
+          "date": "2026-11-08T08:04:20.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "text": "Mein Auto stellte ich noch vor 8:00 auf dem Parkplatz Schwiwald ab. Diese Parkmöglichkeit auf 1600m befindet sich am Ende der asphaltierten Straße, die von Vermol zur Alp Tamons führt.<br />Bei den ersten Sonnenstrahlen ging es nun erst mal die nun nicht mehr asphaltierte und nicht mehr öffentliche Fahrstraße weiter hinauf."
+    },
+    {
+      "photos": [
+        {
+          "name": "003",
+          "alt": "Panorama Alviergruppe",
+          "date": "2026-11-08T08:13:44.000+01:00",
+          "width": 1920,
+          "height": 761
+        }
+      ],
+      "text": "Der Hang ist dort oben sehr flach und der Aufstieg war deshalb auch wenig anstrengend. Hier der Blick über die Wiesen zum gegenüberliegenden <a href='/alpine/alviergruppe/20140907' target='_blank'>Alvier</a>."
+    },
+    {
+      "photos": [
+        {
+          "name": "004",
+          "alt": "Tisch mit Raureif",
+          "date": "2026-11-08T08:16:04.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "text": "Nach gut 100m Aufstieg erreichte ich die Alp Tamons Vorsäss. Dort gäbe es eine schöne Pausenbank, wie man aber sieht war noch alles tief gefroren."
+    },
+    {
+      "photos": [
+        {
+          "name": "005",
+          "alt": "Fahrweg Hüenerchopf",
+          "date": "2026-11-08T08:16:58.000+01:00",
+          "width": 1920,
+          "height": 910
+        }
+      ],
+      "text": "Noch immer auf dem Fahrweg tauchte nun mein erstes Ziel auf, der 2170m hohe Hüenerchopf. Es ist der kleine Buckel rechts von der Mitte. Den Aufstieg wollte ich über den Grat von links her machen."
+    },
+    {
+      "photos": [
+        {
+          "name": "006",
+          "alt": "Spazierweg Tamons",
+          "date": "2026-11-08T08:21:25.000+01:00",
+          "width": 1831,
+          "height": 1080
+        }
+      ],
+      "text": "Bevor ich den Grat erreichte konnte ich hier über das Weisstannental hinüber zum schon ziemlich verschneiten <a href='/alpine/pizol/20250929' target='_blank'>Pizol</a> schauen."
+    },
+    {
+      "photos": [
+        {
+          "name": "007",
+          "alt": "Bank mit Wegweiser",
+          "date": "2026-11-08T08:31:57.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "text": "Dann erreichte ich aber den Grat nach insgesamt einer guten halben Stunde. Ich verließ jetzt hier die Fahrstraße und bog nach rechts zum Hüenerchopf ab."
+    },
+    {
+      "photos": [
+        {
+          "name": "008",
+          "alt": "Tamons Vorsäss",
+          "date": "2026-11-08T08:36:29.000+01:00",
+          "width": 1709,
+          "height": 1080
+        }
+      ],
+      "text": "Noch einmal der Blick zurück über den bereits gegangenen Weg."
+    },
+    {
+      "photos": [
+        {
+          "name": "009",
+          "alt": "Wanderweg Hüenerchopf",
+          "date": "2026-11-08T08:37:40.000+01:00",
+          "width": 1867,
+          "height": 1080
+        },
+        {
+          "name": "010",
+          "alt": "Gratweg Hüenerchopf",
+          "date": "2026-11-08T08:47:18.000+01:00",
+          "width": 1783,
+          "height": 1080
+        },
+        {
+          "name": "011",
+          "alt": "Wanderung am Morgen",
+          "date": "2026-11-08T08:48:41.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "text": "Schön ging der Weg nun über den nicht ausgesetzten Grat hinauf. Jetzt wurde mir trotz der kalten Luft warm."
+    },
+    {
+      "photos": [
+        {
+          "name": "012",
+          "alt": "Panorama Weisstannental",
+          "date": "2026-11-08T08:53:59.000+01:00",
+          "width": 1920,
+          "height": 739
+        }
+      ],
+      "text": "Blick vom Grat nach Süden. Links tief unten befindet sich das Weisstannental, den Rest des Tages wollte ich im Gebiet ganz rechts verbringen."
+    },
+    {
+      "photos": [
+        {
+          "name": "013",
+          "alt": "Gefrorene Grasfläche",
+          "date": "2026-11-08T08:58:08.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "text": "Nach dem steileren Grat kam ich zu dieser komplett gefrorenen Hochfläche, die ich nun überquerte. Der Hüenerchopf ist der Berg in der Bildmitte."
+    },
+    {
+      "photos": [
+        {
+          "name": "014",
+          "alt": "Pfad am Hang",
+          "date": "2026-11-08T09:06:18.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "text": "Um den nächsten Buckel des Grats ging es im Hang links vorbei. Dabei der Blick schon auf das nächste Ziel nach dem Hüenerchopf: dem Madchopf."
+    },
+    {
+      "photos": [
+        {
+          "name": "015",
+          "alt": "Gipfel Hüenerchopf",
+          "date": "2026-11-08T09:23:06.000+01:00",
+          "width": 1920,
+          "height": 839
+        },
+        {
+          "name": "016",
+          "alt": "Aussicht Hüenerchopf",
+          "date": "2026-11-08T09:23:54.000+01:00",
+          "width": 1920,
+          "height": 980
+        },
+        {
+          "name": "017",
+          "alt": "Alviergruppe",
+          "date": "2026-11-08T09:30:23.000+01:00",
+          "width": 1920,
+          "height": 965
+        },
+        {
+          "name": "018",
+          "alt": "Panorama Hüenerchopf",
+          "date": "2026-11-08T09:31:06.000+01:00",
+          "width": 1920,
+          "height": 864
+        }
+      ],
+      "text": "Den Gipfel des Hüenerchopf erreichte ich bereits um 9:20, also hatte ich für die 550 Höhenmeter Aufstieg 1,5 Stunden gebraucht.<br />Jeweils erst der Blick nach Norden zur Alviergruppe und dann nach Süden zu meinem weiteren Weg.<br />Da die Bank noch gefroren war und ich auch noch nicht wirklich lang unterwegs war, hielt ich mich nur kurz oben auf und begann schon bald meinen Abstieg nach Süden."
+    },
+    {
+      "photos": [
+        {
+          "name": "019",
+          "alt": "Schwierigkeit Hüenerchopf",
+          "date": "2026-11-08T09:37:22.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "text": "Der Abstieg nach Süden vom Hüenerchopf ist relativ steil und ich brauchte auch kurz die Hände. Auch der Grat danach ist kurz recht schmal und etwas ausgesetzt. Das ist aber auch schnell vorbei und nicht wirklich gefährlich."
+    },
+    {
+      "photos": [
+        {
+          "name": "020",
+          "alt": "Hüenerchopf",
+          "date": "2026-11-08T09:46:15.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "text": "Hier war es dann bereits schon wieder flacher und beim Blick zurück sieht der Hüenerchopf auch nun mehr wie ein richtiger Gipfel aus."
+    },
+    {
+      "photos": [
+        {
+          "name": "021",
+          "alt": "Wanderweg Madchopf",
+          "date": "2026-11-08T09:49:06.000+01:00",
+          "width": 1767,
+          "height": 1080
+        }
+      ],
+      "text": "Am Rundchopf ging es auf der schattigen Ostseite vorbei und nun begann der Aufstieg auf den 2230m hohen Madchopf, der hier rechts zu sehen ist. Wie man sieht galt es nun auch die ersten Schneereste zu überqueren."
+    },
+    {
+      "photos": [
+        {
+          "name": "022",
+          "alt": "Rundchopf",
+          "date": "2026-11-08T09:52:38.000+01:00",
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "name": "023",
+          "alt": "Madchopf",
+          "date": "2026-11-08T09:54:00.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "text": "Wieder auf dem Grat der Blick zurück zum Rundchopf und nach vorne zum Madchopf."
+    },
+    {
+      "photos": [
+        {
+          "name": "024",
+          "alt": "Wanderung Madchopf",
+          "date": "2026-11-08T09:58:37.000+01:00",
+          "width": 1920,
+          "height": 746
+        }
+      ],
+      "text": "Mitten im Aufstieg noch einmal der Blick zurück. Über die Wiesen rechts unten wollte ich am Nachmittag meinen Rückweg machen."
+    },
+    {
+      "photos": [
+        {
+          "name": "025",
+          "alt": "Aussicht Madchopf",
+          "date": "2026-11-08T10:06:12.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "text": "Auf dem Gipfel des Madchopfs kam ich um kurz nach 10:00 an, also eine gute halbe Stunde vom Hüenerchopf.<br />Mein Weg ging anschließend über den Grat hier rechts weiter."
+    },
+    {
+      "photos": [
+        {
+          "name": "026",
+          "alt": "Gipfel Madchopf",
+          "date": "2026-11-08T10:06:34.000+01:00",
+          "width": 1735,
+          "height": 1080
+        }
+      ],
+      "text": "Ein Gipfelkreuz gibt es auf dem Madchopf nicht, so muss das Wegzeichen als Vordergrund herhalten. Dafür bildeten sich ein paar kleinere fotogene Quellwolken."
+    },
+    {
+      "photos": [
+        {
+          "name": "027",
+          "alt": "Gratweg Madchopf",
+          "date": "2026-11-08T10:11:43.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "text": "Von Madchopf ging es nun zuerst gut 50 Meter zu einem Sattel hinab. Dabei ist auch hier der Weg wieder kurz recht steil und erforderte wieder die Hände. Links unten ist die Alp Maad zu sehen, an der ich ebenfalls erst beim Rückweg vorbeigekommen war."
+    },
+    {
+      "photos": [
+        {
+          "name": "028",
+          "alt": "Wegweiser Vorder Mad",
+          "date": "2026-11-08T10:17:38.000+01:00",
+          "width": 1792,
+          "height": 1080
+        }
+      ],
+      "text": "Ankunft auf dem Sattel. Hier war ich damals links ins Weisstannental abgestiegen, nun ging es geradeaus weiter nach Chligadims."
+    },
+    {
+      "photos": [
+        {
+          "name": "029",
+          "alt": "Aufstieg auf Grat",
+          "date": "2026-11-08T10:23:13.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "text": "Zuerst musste ich die verlorenen Höhenmeter wieder hinauf, was hier doch ziemlich anstrengend war."
+    },
+    {
+      "photos": [
+        {
+          "name": "030",
+          "alt": "Gefrorener Tümpel",
+          "date": "2026-11-08T10:28:26.000+01:00",
+          "width": 1920,
+          "height": 787
+        },
+        {
+          "name": "031",
+          "alt": "Gratweg",
+          "date": "2026-11-08T10:30:45.000+01:00",
+          "width": 1920,
+          "height": 760
+        },
+        {
+          "name": "032",
+          "alt": "Gratwanderung",
+          "date": "2026-11-08T10:45:07.000+01:00",
+          "width": 1787,
+          "height": 1080
+        }
+      ],
+      "text": "Nach dem Aufstieg ging es toll auf dem Grat weiter. Der schönste Abschnitt der Wanderung."
+    },
+    {
+      "photos": [
+        {
+          "name": "033",
+          "alt": "Wanderweg Guli",
+          "date": "2026-11-08T10:57:53.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "text": "Vor dem nächsten steilen Gipfel des Grats bog der Wanderweg nach rechts ab und es ging an der Nordseite am Berg vorbei. Dort gab es einige größere Schneefelder, die nicht so angenehm zu gehen waren, denn die Oberfläche war eisig gefroren. D.h. entweder ich brach nicht ein und es war rutschig, oder ich brach ein und Schnee kam in mein Schuh. Der Hang war dort aber nicht steil und es war ungefährlich.<br />Hier im Bild ist rechts der Guli zu sehen. Dass dies das Ziel meiner Wanderung sein würde, wusste ich hier noch nicht."
+    },
+    {
+      "photos": [
+        {
+          "name": "034",
+          "alt": "Fulegg",
+          "date": "2026-11-08T11:04:19.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "text": "Denn ich hatte vor bis zum Oxni weiter zu laufen, deshalb ging mein Weg nicht auf den Guli, sondern am Hang darunter knapp 100m angenehm absteigend hinab und anschließend fotolos wieder gut 100m bergauf."
+    },
+    {
+      "photos": [
+        {
+          "name": "035",
+          "alt": "Panorama Oxni und Spitzmeilen",
+          "date": "2026-11-08T11:47:50.000+01:00",
+          "width": 1920,
+          "height": 977
+        }
+      ],
+      "text": "Um zum Grat des Oxni zu kommen, musste ich am nächsten Berg wieder am Nordhang vorbei. Da ich inzwischen schon über 2300m hoch war wurde der Schnee hier immer mehr und immer mühseliger. Ich ging noch bis zum nächsten Knick und als es auch dort nicht schneefreier aussah, entschied ich mich nicht bis zum Oxni zu wandern und hier umzudrehen. Auch war es jetzt schon kurz vor 12:00 und ich musste ja noch alles wieder zurück. Bei guten Wegbedingungen wäre es vermutlich nur noch eine knappe halbe Stunde weiter gewesen.<br />Der 2400m hohe Oxni ist der weiße Berg links, rechts ist der <a href='/alpine/flumserberg/20211002' target='_blank'>Spitzmeilen</a> zu sehen."
+    },
+    {
+      "photos": [
+        {
+          "name": "036",
+          "alt": "Wanderweg über Schnee",
+          "date": "2026-11-08T11:49:13.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "text": "So sah der Weg hier aus. Wie man sieht nicht steil, aber der Schnee war einfach unberechenbar."
+    },
+    {
+      "photos": [
+        {
+          "name": "037",
+          "alt": "Prudell",
+          "date": "2026-11-08T11:53:07.000+01:00",
+          "width": 1920,
+          "height": 926
+        }
+      ],
+      "text": "Hier war ich dann wieder zurück auf den steileren, aber schneefreien Südhängen. Nun ging es wieder links 100m bergab, um dann hinten wieder die 100m zum Chligadims rechts des Gulis aufzusteigen."
+    },
+    {
+      "photos": [
+        {
+          "name": "038",
+          "alt": "Prudellhüttli",
+          "date": "2026-11-08T12:07:42.000+01:00",
+          "width": 1920,
+          "height": 641
+        }
+      ],
+      "text": "Am tiefsten Punkt der Blick zur Prudellhüttli. Dahinter das tolle Panorama vom Pizol (links) zur Ringelspitz (rechts).<br />Hier fand ich dann auch eine windstille Stelle und trockenes Gras für meine Mittagspause."
+    },
+    {
+      "photos": [
+        {
+          "name": "039",
+          "alt": "Aufstieg Guli",
+          "date": "2026-11-08T12:41:16.000+01:00",
+          "width": 1920,
+          "height": 1076
+        }
+      ],
+      "text": "Als ich unterhalb des Gulis vorbeilief, sah ich eine Gruppe den Aufstieg machen. Der Weg ist nicht ausgezeichnet, aber es sah problemlos aus und so entschied auch ich mich, die gut 50 Höhenmeter von Chligadims auf den Gipfel zu machen. Auch um noch ein richtiges Ziel auf der Wanderung erreicht zu haben."
+    },
+    {
+      "photos": [
+        {
+          "name": "040",
+          "alt": "Aussicht Guli",
+          "date": "2026-11-08T12:51:01.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "text": "Den Gipfel des 2350m hohen Guli erreichte ich um kurz vor 13:00. Die Gruppe verließ den Berg schon wieder. Es waren übrigens die ersten anderen Wanderer, denen ich bisher begegnet war.<br />Hier der Blick nach Westen Richtung Spitzmeilen und Oxni. Ich hätte hier auch direkter über diesen harmlosen Grat hinaufkommen können."
+    },
+    {
+      "photos": [
+        {
+          "name": "041",
+          "alt": "Panorama Guli",
+          "date": "2026-11-08T12:56:26.000+01:00",
+          "width": 1920,
+          "height": 827
+        }
+      ],
+      "text": "Panorama nach Süden, hier war ich hinaufgelaufen. Der Weg war nicht schwierig, nur kurz in der Mitte und am Ende steiler."
+    },
+    {
+      "photos": [
+        {
+          "name": "042",
+          "alt": "Wanderung Hüenerchopf Guli",
+          "date": "2026-11-08T12:57:04.000+01:00",
+          "width": 1878,
+          "height": 1080
+        }
+      ],
+      "text": "Blick nach Osten zu den anderen zwei Gipfeln des Tages, links der Hüenerchopf, in der Mitte der Madchopf."
+    },
+    {
+      "photos": [
+        {
+          "name": "043",
+          "alt": "Chligadims",
+          "date": "2026-11-08T13:03:50.000+01:00",
+          "width": 1245,
+          "height": 1080
+        }
+      ],
+      "text": "Da ich gerade Pause gemacht hatte, hielt ich mich wieder nicht lange oben auf und stieg wieder zurück zum Pass Chligadims."
+    },
+    {
+      "photos": [
+        {
+          "name": "044",
+          "alt": "Herbstwanderung",
+          "date": "2026-11-08T13:22:38.000+01:00",
+          "width": 1920,
+          "height": 965
+        }
+      ],
+      "text": "Nach dem Nordhang mit den Schneefeldern, die dank mehr Tritten nun einfacher waren, verließ ich den Hinweg und ging weglos über die Wiesen der Alp Maad bergab. Hier wieder der Blick zum Pizol."
+    },
+    {
+      "photos": [
+        {
+          "name": "045",
+          "alt": "Gefrorener See",
+          "date": "2026-11-08T13:26:02.000+01:00",
+          "width": 819,
+          "height": 1080
+        }
+      ],
+      "text": "Vorbei ging es an diesem namenlosen See, der trotz der intensiven Sonne komplett gefroren war."
+    },
+    {
+      "photos": [
+        {
+          "name": "046",
+          "alt": "Alp Maad",
+          "date": "2026-11-08T13:37:17.000+01:00",
+          "width": 1620,
+          "height": 1080
+        },
+        {
+          "name": "047",
+          "alt": "Kleine Alphütte",
+          "date": "2026-11-08T13:38:41.000+01:00",
+          "width": 1697,
+          "height": 1080
+        },
+        {
+          "name": "048",
+          "alt": "Regen aus Wolke",
+          "date": "2026-11-08T13:38:55.000+01:00",
+          "width": 1643,
+          "height": 1080
+        }
+      ],
+      "text": "Schnell erreichte ich nun die schnucklige Alp Maad unterhalb des Madchopfs und damit auch wieder einen offiziellen Wanderweg. Auf der schönen trockenen Bank in der Sonne musste ich natürlich eine Pause einlegen und konnte dabei dem Plätschern eines seltsamen Brunnens lauschen."
+    },
+    {
+      "photos": [
+        {
+          "name": "049",
+          "alt": "Madfurggl",
+          "date": "2026-11-08T13:45:41.000+01:00",
+          "width": 1920,
+          "height": 1056
+        }
+      ],
+      "text": "Von der Alp Maad ging es auf kurzem Weg hinüber zu Madfurggl. Von dort dieser Blick hinab ins Weisstannental."
+    },
+    {
+      "photos": [
+        {
+          "name": "050",
+          "alt": "Herbstwiesen",
+          "date": "2026-11-08T13:54:30.000+01:00",
+          "width": 720,
+          "height": 1080
+        },
+        {
+          "name": "051",
+          "alt": "Wiesenweg",
+          "date": "2026-11-08T13:55:28.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "text": "Mit Wegzeichen, aber häufig ohne sichtbare Spur ging es nun über die weiten Wiesen von Hintersäss hinab. Durch die nun schon flache Sonne fand ich das sehr schön."
+    },
+    {
+      "photos": [
+        {
+          "name": "052",
+          "alt": "Hintersäss Tamons",
+          "date": "2026-11-08T14:08:05.000+01:00",
+          "width": 1920,
+          "height": 763
+        }
+      ],
+      "text": "Dann erreichte ich die mir schon bekannte Alpstraße und es ging weiter hinunter bis zur großen Alp Hintersäss."
+    },
+    {
+      "photos": [
+        {
+          "name": "053",
+          "alt": "Panoramaweg",
+          "date": "2026-11-08T14:13:42.000+01:00",
+          "width": 1920,
+          "height": 1016
+        }
+      ],
+      "text": "Das nun der komplette Rückweg auf dieser Straße gehen sollte, störte mich nicht, denn das Licht und der Blick auf den Pizol war einfach schön."
+    },
+    {
+      "photos": [
+        {
+          "name": "054",
+          "alt": "Kreisrunde Lärchen",
+          "date": "2026-11-08T14:17:04.000+01:00",
+          "width": 1704,
+          "height": 1080
+        }
+      ],
+      "text": "Tele hinüber zum gegenüberliegenen Hang. Ich fand es witzig, wie dort die Lärchen genau ein einem Kreis gewachsen waren und nun im Herbst gelb leuchteten."
+    },
+    {
+      "photos": [
+        {
+          "name": "055",
+          "alt": "Weg mit Falknis",
+          "date": "2026-11-08T14:25:18.000+01:00",
+          "width": 1650,
+          "height": 1080
+        }
+      ],
+      "text": "Nun folgten leider noch 30m Aufstieg zur Abzweigung vom Hinweg. Im Hintergrund der <a href='/alpine/praettigau/20180908' target='_blank'>Falknis</a>."
+    },
+    {
+      "photos": [
+        {
+          "name": "056",
+          "alt": "Panorama Vermol",
+          "date": "2026-11-08T14:30:12.000+01:00",
+          "width": 1920,
+          "height": 726
+        },
+        {
+          "name": "057",
+          "alt": "Alpweg",
+          "date": "2026-11-08T14:32:48.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "text": "Anschließend folgte der Abstieg zur Alp Vorsäss. Nun kamen mir doch noch einige Nachmittags-Spaziergänger entgegen."
+    },
+    {
+      "photos": [
+        {
+          "name": "058",
+          "alt": "Frühlingsenzian",
+          "date": "2026-11-08T14:36:49.000+01:00",
+          "width": 1620,
+          "height": 1080
+        }
+      ],
+      "text": "Die einzigen Blümchen des Tages. Diese Frühlingsenzian haben sich ein wenig in der Jahreszeit vertan."
+    },
+    {
+      "photos": [
+        {
+          "name": "059",
+          "alt": "Gefrorener See mit Reflexion",
+          "date": "2026-11-08T14:44:17.000+01:00",
+          "width": 1920,
+          "height": 1058
+        }
+      ],
+      "text": "Bei Vorsäss habe ich noch einen kleinen Abstecher zu diesem schön blau leuchtenden See gemacht. Dessen Oberfläche war auch gefroren."
+    },
+    {
+      "photos": [
+        {
+          "name": "060",
+          "alt": "Weg bei Sonnenuntergang",
+          "date": "2026-11-08T15:02:51.000+01:00",
+          "width": 1920,
+          "height": 1021
+        }
+      ],
+      "text": "Mit den letzten Sonnenstrahlen erreichte ich gegen 15:00 das Auto und beendete meine Wanderung."
+    }
+  ],
+  "outro": "Fazit: Das ich mein eigentliches Ziel nicht erreicht hatte, war nicht weiter schlimm. Ich hatte die Wanderung eh hauptsächlich wegen der weiten Landschaft dort oben und den tollen Gratwegen unternommen. Mit meinem Oxni-Versuch war es eine weite 20km Wanderung, nur bis zum Guli wäre es keine lange Tour gewesen. Extreme Höhenmeter müssen bei der Runde auch nicht erklommen werden."
+}

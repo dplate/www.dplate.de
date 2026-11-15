@@ -3,12 +3,16 @@ import jsonfile from 'jsonfile';
 import fs from 'fs';
 
 const projectPath = 'C:/Users/Roger/web/Dp4';
-const destination = 'alpstein';
-const reportDate = '20220922';
+const destination = 'pizol';
+const reportDate = '20261108';
 
 const client = new textToSpeech.TextToSpeechClient();
 
 const pronunciations = [
+  {
+    regex: /(tamons)/gi,
+    replace: 'ta-mons'
+  },
   {
     regex: /(stauberen)/gi,
     ipa: 'ʃtau̯bərən'
@@ -190,12 +194,16 @@ const pronunciations = [
     ipa: 'xlus'
   },
   {
-    regex: /(mad)/gi,
-    ipa: 'ˈmaːt'
+    regex: /(madchopfs)/gi,
+    ipa: 'ˈmaːtˌkɔpfs'
   },
   {
-    regex: /(madchopf)/gi,
+    regex: /(madchopf)[^s]/gi,
     ipa: 'ˈmaːtˌkɔpf'
+  },
+  {
+    regex: /(mad)[^c]/gi,
+    ipa: 'ˈmaːt'
   },
   {
     regex: /(burst)/gi,
