@@ -426,7 +426,7 @@ const generateAudio = async (rawText, audioFile) => {
   }
 
   // Make sure height is pronounced as units always
-  text = text.replace(/(\d+)m([^\w])/g, `$1 Meter$2`);
+  text = text.replace(/(\d+)m(\W)/g, `$1 Meter$2`);
 
   // Make sure time is pronounced as units always
   text = text.replace(/1h/g, `eine Stunde`);

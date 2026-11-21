@@ -1,7 +1,7 @@
 import React from 'react';
 import { cardStyle, pictureStyle } from '../../styles/basestyle.js';
 
-const PageScapeMaker = (props) => {
+const PageScapeMaker = () => {
   return (
     <div>
       <div className={cardStyle}>

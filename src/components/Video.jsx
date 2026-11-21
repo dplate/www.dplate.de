@@ -12,7 +12,6 @@ const Video = ({ title, video }) => {
         <iframe
           loading="lazy"
           src={`https://www.youtube.com/embed/${video}?wmode=transparent`}
-          frameBorder="0"
           allowFullScreen
           title={title}
         />

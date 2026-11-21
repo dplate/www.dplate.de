@@ -7,11 +7,10 @@ interface Props {
 }
 
 const { title } = Astro.props;
-const currentPath = Astro.url.pathname;
 
 const reports = getReports();
 const destinations = getDestinations();
-const menuData = getMenuData(reports, destinations, currentPath);
+const menuData = getMenuData(reports, destinations, Astro.url.pathname);
 ---
 <html lang="de-de">
   <head>
@@ -72,7 +71,7 @@ const menuData = getMenuData(reports, destinations, currentPath);
     <slot name="head" />
   </head>
   <body>
-    <LayoutReact client:load menuData={menuData} location={{ pathname: currentPath }}>
+    <LayoutReact client:load menuData={menuData} >
       <slot />
     </LayoutReact>
   </body>

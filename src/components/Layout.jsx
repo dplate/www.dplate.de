@@ -6,7 +6,7 @@ import Link from './Link.jsx';
 import Menu from './Menu.jsx';
 
 const Layout = (props) => {
-  const { children, menuData = [], location = { pathname: '/' } } = props;
+  const { children, menuData = [] } = props;
   const [showHeader, setShowHeader] = useState(true);
   const [showMenu, setShowMenu] = useState(false);
   
@@ -46,7 +46,6 @@ const Layout = (props) => {
         <Menu
           onClose={toggleMenu}
           menuData={menuData}
-          currentPath={location.pathname}
         />
       )}
     </div>

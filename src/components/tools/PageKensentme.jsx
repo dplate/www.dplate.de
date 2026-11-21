@@ -1,7 +1,7 @@
 import React from 'react';
 import { cardStyle, pictureStyle, videoContainerStyle, videoWrapperStyle } from '../../styles/basestyle.js';
 
-const PageKenSentMe = (props) => {
+const PageKenSentMe = () => {
   return (
     <div>
       <div className={cardStyle}>

@@ -55,7 +55,7 @@ const createSound = (audioContext, audioBuffer) => {
 };
 
 const setupAudio = () => {
-  const audioContext = new (window.AudioContext || window.webkitAudioContext)();
+  const audioContext = new window.AudioContext();
   const sounds = [];
 
   const audio = {

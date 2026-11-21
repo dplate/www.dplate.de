@@ -136,14 +136,13 @@ const setupViewer = async (trackData, hideSwissTopo, baseLayerProvider) => {
     scene3DOnly: true,
     msaaSamples: 4,
     showRenderLoopErrors: false,
-    baseLayer: ImageryLayer.fromProviderAsync(baseLayerProvider)
+    baseLayer: ImageryLayer.fromProviderAsync(baseLayerProvider),
   });
   viewer.scene.globe.depthTestAgainstTerrain = true;
-  viewer.scene.globe.tileCacheSize = 1000;
+  viewer.scene.globe.tileCacheSize = 10000;
   viewer.scene.globe.cartographicLimitRectangle = createGlobeRectangle(trackData.positions);
   viewer.scene.globe.enableLighting = true;
-  // noinspection JSUnresolvedVariable
-  viewer.scene._renderError.raiseEvent = (scene, error) => {
+  viewer.scene._renderError.raiseEvent = (_scene, error) => {
     console.error(error);
   };
   return viewer;
@@ -175,7 +174,7 @@ const loadHiker = () => {
         image: '/assets/hiker-' + orientation + '.png',
         heightReference: HeightReference.CLAMP_TO_GROUND,
         verticalOrigin: VerticalOrigin.BOTTOM,
-        depthTestAgainstTerrain: 0
+        disableDepthTestDistance: 0
       })
   );
 };
@@ -200,16 +199,16 @@ const createHdRectangle = (positions) => {
   return hdRectangle;
 };
 
-const createBaseLayerProvider = (reduceDetail) => {
-  const useBing = true;
+const createBaseLayerProvider = async (reduceDetail) => {
+  const useBing = false;
   if (useBing) {
     return IonImageryProvider.fromAssetId(2);
   }
 
   return ArcGisMapServerImageryProvider.fromBasemapType(ArcGisBaseMapType.SATELLITE, {
-    // Token expires at 2026-06-07, must be recreated at https://location.arcgis.com/credentials/ (user "Alpinfunk")
+    // Token expires at 2027-11-21, must be recreated at https://location.arcgis.com/credentials/ (user "Alpinfunk2")
     token:
-      'AAPTxy8BH1VEsoebNVZXo8HurPOoBL7NDOOfQux77KRsFQLW5AIXa29VzxmYezCd6K346tLQF_ykj8y8PrOsV0JrpDzDF8_fIBQpnI3R4oFlqY73fyJiuCO3Qfqard2CnE5spi7IVFosqPbSgARw7T7cyx584x68DIpC9SHg4F3R3ny5MW6HOISQ5ATR8Og5wv1jjzOE8dXpvuxZjbOksm3gUmpysCQTWrEfGs2EP_T2JuA.AT1_L5fYNUnV'
+      'AAPTaGXkqWRvLG0fRsthoy5XqMA..bGlp0m2uPJDl4yNTKPlPuYjYC6fReU6RHdYrEFnl5ndwD_3tJajg4MsgmH1MJcGi2f6R5Yiazm1nauKSdKek0Er0iL49X5kq9mE8gSx0BSJaMJ2XM8MsMQj0QdX3133RcExakknZI4o74yVVf94DRG4sLYkznimYIYwpfjt5ggHsQtW4DUKNApuTyS9c2wORZ10PlLhXnC7SSxGPNbDPMtWK4ymlcyYh7U27jOoOrna_K0WbMCPHtTXGLg..AT1_GI3SiZ6O'
   }).then((provider) => {
     if (reduceDetail) {
       provider._maximumLevel = 13;
@@ -220,7 +219,7 @@ const createBaseLayerProvider = (reduceDetail) => {
 
 const createSwissSatelliteProvider = (hdRectangle) => {
   return new UrlTemplateImageryProvider({
-    url: 'https://wmts{s}.geo.admin.ch/1.0.0/ch.swisstopo.swissimage-product/default/2024/4326/{z}/{x}/{y}.jpeg',
+    url: 'https://wmts{s}.geo.admin.ch/1.0.0/ch.swisstopo.swissimage/default/current/4326/{z}/{x}/{y}.jpeg',
     subdomains: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9'],
     minimumLevel: 0,
     maximumLevel: 19,

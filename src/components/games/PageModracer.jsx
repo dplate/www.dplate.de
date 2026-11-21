@@ -1,7 +1,7 @@
 import React from 'react';
 import { cardStyle, pictureStyle } from '../../styles/basestyle.js';
 
-const PageModracer = (props) => {
+const PageModracer = () => {
   return (
     <div>
       <div className={cardStyle}>

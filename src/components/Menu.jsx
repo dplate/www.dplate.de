@@ -58,7 +58,7 @@ const forceUpdate = (items, setItems) => {
   setItems([...items]);
 };
 
-const Menu = ({ menuData, currentPath, onClose }) => {
+const Menu = ({ menuData, onClose }) => {
   const [items, setItems] = useState(menuData);
 
   return (
@@ -80,8 +80,7 @@ Menu.propTypes = {
       selected: PropTypes.bool,
       show: PropTypes.bool
     })
-  ),
-  currentPath: PropTypes.string.isRequired
+  )
 };
 
 export default Menu;

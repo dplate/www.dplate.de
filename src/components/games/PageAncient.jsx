@@ -2,7 +2,7 @@ import React from 'react';
 import { cardStyle, pictureStyle } from '../../styles/basestyle.js';
 import styles from './PageAncient.module.css';
 
-const pageAncient = (props) => {
+const pageAncient = () => {
   return (
     <div>
       <div className={cardStyle}>

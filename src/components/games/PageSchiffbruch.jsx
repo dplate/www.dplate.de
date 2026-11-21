@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { cardStyle, pictureStyle } from '../../styles/basestyle.js';
 import styles from './PageSchiffbruch.module.css';
 
-const PageSchiffbruch = (props) => {
+const PageSchiffbruch = () => {
   const [playLink, setPlayLink] = useState('https://schiffbruch.dplate.de');
   useEffect(() => {
     if (/android/i.test(window.navigator.userAgent)) {

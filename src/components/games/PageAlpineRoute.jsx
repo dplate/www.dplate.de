@@ -2,7 +2,7 @@ import React from 'react';
 import { cardStyle, pictureStyle } from '../../styles/basestyle.js';
 import { useState, useEffect } from 'react';
 
-const PageAlpineRoute = (props) => {
+const PageAlpineRoute = () => {
   const [playLink, setPlayLink] = useState('https://alpine-route.dplate.de');
   useEffect(() => {
     if (/android/i.test(window.navigator.userAgent)) {
